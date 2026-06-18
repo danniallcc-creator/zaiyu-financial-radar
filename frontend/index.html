@@ -89,9 +89,14 @@
     // Auto-detect: if served from project root, data is at data/; if from frontend/, use ../data/
     const DATA_BASE = window.location.pathname.includes('/frontend/') ? '../data' : 'data';
     const fetchData = async (code) => {
-      const res = await fetch(`${DATA_BASE}/eastmoney/${code}.json`);
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      return res.json();
+      const [emResult, cnResult] = await Promise.allSettled([
+        fetch(`${DATA_BASE}/eastmoney/${code}.json`).then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }),
+        fetch(`${DATA_BASE}/cninfo/${code}_sections.json`).then(r => { if (!r.ok) throw new Error('no cninfo'); return r.json(); })
+      ]);
+      if (emResult.status !== 'fulfilled') throw emResult.reason;
+      const data = emResult.value;
+      if (cnResult.status === 'fulfilled') data.cninfo = cnResult.value;
+      return data;
     };
 
     // ─── Reusable Components ────────────────────────────────────────────────
@@ -470,56 +475,98 @@
     );
 
     // ─── Tab 3: ManagementExpr ──────────────────────────────────────────────
+    const SECTION_MAP = {
+      shareholderLetter: '致股东信',
+      mdna:              '管理层讨论与分析',
+      relatedParty:      '关联交易',
+      top10Holders:      '前十大股东',
+      dividend:          '分红方案',
+      segment:           '分部信息',
+      nonRecurring:      '非经常性损益',
+    };
+    const LABEL_COLOR = {
+      '利好': 'green', '利空': 'red', '增量': 'blue',
+      '新技术': 'purple', '海外': 'orange', '国内': 'blue',
+    };
+    const cleanPreview = (text, maxLen = 200) => {
+      const t = text.replace(/\n/g, ' ').replace(/\s+/g, ' ').replace(/□适用\s*√不适用/g, '').replace(/√适用\s*□不适用/g, '').trim();
+      return t.length > maxLen ? t.slice(0, maxLen) + '...' : t;
+    };
+    const SectionCard = ({ title, text }) => {
+      const [expanded, setExpanded] = useState(false);
+      const preview = cleanPreview(text);
+      return (
+        <InfoCard title={title}>
+          <p className="text-xs text-txt leading-relaxed whitespace-pre-wrap" style={{
+            maxHeight: expanded ? 'none' : '7em', overflow: 'hidden', position: 'relative',
+          }}>
+            {expanded ? text : preview}
+          </p>
+          {text.length > 200 && (
+            <button onClick={() => setExpanded(!expanded)}
+              className="text-gold text-[10px] mt-2 hover:underline">
+              {expanded ? '收起' : '展开全文'}
+            </button>
+          )}
+        </InfoCard>
+      );
+    };
+
     const ManagementExpr = ({ data }) => {
-      const sections = [
-        {
-          title: '致股东信',
-          tags: [{ text: '利好', color: 'green' }, { text: '增量', color: 'blue' }],
-          content: '数据待 ETL 抓取。此模块将从巨潮资讯网(cninfo.com.cn)抓取年报中的"致股东信"章节，提取关键段落并进行标签标注。'
-        },
-        {
-          title: '管理层讨论分析',
-          tags: [{ text: '利好', color: 'green' }, { text: '利空', color: 'red' }, { text: '新技术', color: 'purple' }],
-          content: '数据待 ETL 抓取。将提取年报"管理层讨论与分析"(MD&A)章节，分析经营计划、战略调整、风险提示等关键信息。'
-        },
-        {
-          title: '关联交易',
-          tags: [{ text: '利空', color: 'red' }],
-          content: '数据待 ETL 抓取。将提取年报中关联交易明细，关注交易金额、关联方、定价公允性等风险信号。'
-        },
-        {
-          title: '非经常性损益',
-          tags: [{ text: '增量', color: 'blue' }],
-          content: '数据待 ETL 抓取。将提取年报中非经常性损益明细表，区分政府补助、资产处置、投资收益等来源。'
-        },
-      ];
+      const cninfo = data?.cninfo;
+      if (!cninfo) {
+        return (
+          <div className="space-y-4">
+            <InfoCard title="企业表达分析">
+              <p className="text-xs text-txt-dim leading-relaxed">
+                该股票的年报原文数据尚未通过 ETL 从巨潮资讯网(cninfo.com.cn)抓取。
+                请先运行 <code className="text-gold">python etl/fetch_cninfo.py {data?.code || '代码'}</code> 生成年报章节数据。
+              </p>
+            </InfoCard>
+          </div>
+        );
+      }
+      const sections = cninfo.sections || {};
+      const tagged = cninfo.taggedParagraphs || [];
+      const availSections = Object.entries(SECTION_MAP).filter(([k]) => sections[k]?.trim());
 
       return (
         <div className="space-y-4">
           <InfoCard title="企业表达分析">
-            <p className="text-xs text-txt-dim mb-4">
-              此模块分析年报原文，提取管理层核心表达并标注语义标签。当前数据待 ETL 从巨潮资讯网抓取年报 PDF 后填充。
+            <p className="text-[10px] text-txt-dim mb-3">
+              来源: {cninfo.announcementTitle || '年度报告'}
+              {cninfo.announcementDate && ` (${cninfo.announcementDate})`}
+              {cninfo.pdfUrl && <a href={cninfo.pdfUrl} target="_blank" rel="noreferrer" className="text-gold ml-2 hover:underline">[PDF原文]</a>}
             </p>
-            <div className="flex gap-2 flex-wrap mb-4">
-              <Badge text="利好" color="green" />
-              <Badge text="利空" color="red" />
-              <Badge text="增量" color="blue" />
-              <Badge text="新技术" color="purple" />
-              <Badge text="海外" color="orange" />
-              <span className="text-[10px] text-txt-dim ml-2">标签色彩说明</span>
+            <div className="flex gap-2 flex-wrap mb-2">
+              {Object.entries(LABEL_COLOR).map(([l, c]) => <Badge key={l} text={l} color={c} />)}
+              <span className="text-[10px] text-txt-dim ml-2">语义标签</span>
             </div>
+            <div className="text-[10px] text-txt-dim">已提取 {availSections.length} 个章节 / {tagged.length} 个标注段落</div>
           </InfoCard>
 
-          {sections.map((s, i) => (
-            <InfoCard key={i} title={s.title}>
-              <div className="flex gap-1 mb-2">
-                {s.tags.map((t, j) => <Badge key={j} text={t.text} color={t.color} />)}
-              </div>
-              <p className="text-xs text-txt-dim leading-relaxed">{s.content}</p>
-              <div className="mt-3 border border-dashed border-border rounded p-3 text-[10px] text-txt-dim">
-                [占位] 年报原文段落将在此处展示，每段附带语义标签和置信度评分
+          {tagged.length > 0 && (
+            <InfoCard title="标注段落摘录">
+              <div className="space-y-3">
+                {tagged.map((p, i) => (
+                  <div key={i} className="border border-border rounded p-3">
+                    <div className="flex gap-1 mb-2 flex-wrap">
+                      {p.labels.map((l, j) => <Badge key={j} text={l} color={LABEL_COLOR[l] || 'blue'} />)}
+                      {p.isOverseas && <Badge text="海外" color="orange" />}
+                    </div>
+                    <p className="text-[11px] text-txt leading-relaxed" style={{
+                      maxHeight: '6em', overflow: 'hidden', whiteSpace: 'pre-wrap',
+                    }}>
+                      {p.text}
+                    </p>
+                  </div>
+                ))}
               </div>
             </InfoCard>
+          )}
+
+          {availSections.map(([key, label]) => (
+            <SectionCard key={key} title={label} text={sections[key]} />
           ))}
         </div>
       );

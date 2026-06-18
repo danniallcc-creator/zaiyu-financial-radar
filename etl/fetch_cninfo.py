@@ -86,7 +86,7 @@ SENTIMENT_LABELS = {
     '国内':  ['国内', '境内', '中国市场', '本土', '内销'],
 }
 
-SECTION_CHAR_LIMIT = 2000
+SECTION_CHAR_LIMIT = 8000
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -549,11 +549,29 @@ def tag_mdna_paragraphs(mdna_text: str) -> list:
     if not mdna_text:
         return []
 
-    paragraphs = [p.strip() for p in re.split(r'\n\s*\n', mdna_text) if p.strip()]
+    # PDF 文本中段落可能用单换行或双换行分隔
+    # 先按双换行分，再对单换行的短行合并
+    raw_paragraphs = [p.strip() for p in re.split(r'\n\s*\n', mdna_text) if p.strip()]
+
+    # 对于太短的段落（PDF 换行造成的），尝试与下一段合并
+    merged = []
+    buf = ''
+    for p in raw_paragraphs:
+        if buf:
+            buf += '\n' + p
+        else:
+            buf = p
+        if len(buf) >= 40:
+            merged.append(buf)
+            buf = ''
+    if buf:
+        merged.append(buf)
+
+    paragraphs = merged
     tagged = []
 
     for para in paragraphs:
-        if len(para) < 10:
+        if len(para) < 15:
             continue
 
         matched_labels = []
