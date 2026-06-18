@@ -1,0 +1,73 @@
+{
+  "code": "A21044",
+  "profile": {
+    "name": "中国生物",
+    "code": "A21044",
+    "fullName": "中国生物制药有限公司",
+    "industry": null,
+    "industryCSRC": null,
+    "chairman": "谢其润",
+    "province": "境外",
+    "secucode": "A21044.SH"
+  },
+  "financialIndicators": [
+    {
+      "reportDate": "2025-12-31",
+      "eps": 0.1302,
+      "bps": null,
+      "roe": null,
+      "netProfitMargin": 16.6942499594,
+      "revenue": 31834488000,
+      "netProfit": 2343348000,
+      "deductedNetProfit": null,
+      "revenueYoY": null,
+      "profitYoY": null,
+      "grossMargin": 82.0705770421,
+      "ocfPerShare": null,
+      "debtRatio": 44.6309352577
+    },
+    {
+      "reportDate": "2024-12-31",
+      "eps": 0.1913,
+      "bps": null,
+      "roe": null,
+      "netProfitMargin": 22.048939729,
+      "revenue": 28866159000,
+      "netProfit": 3499834000,
+      "deductedNetProfit": null,
+      "revenueYoY": null,
+      "profitYoY": null,
+      "grossMargin": 81.5139312438,
+      "ocfPerShare": null,
+      "debtRatio": 34.6042917121
+    }
+  ],
+  "incomeStatement": [
+    {
+      "reportDate": "2025-12-31",
+      "revenue": 31834488000,
+      "operatingCost": null,
+      "grossProfit": 6739494000,
+      "netProfit": 2343348000,
+      "deductedNetProfit": null,
+      "salesExpense": 10993276000,
+      "adminExpense": 2143529000,
+      "rdExpense": 5866243000,
+      "financeExpense": null
+    },
+    {
+      "reportDate": "2024-12-31",
+      "revenue": 28866159000,
+      "operatingCost": null,
+      "grossProfit": 5191320000,
+      "netProfit": 3499834000,
+      "deductedNetProfit": null,
+      "salesExpense": 10077966000,
+      "adminExpense": 2081510000,
+      "rdExpense": 5089203000,
+      "financeExpense": null
+    }
+  ],
+  "shareholder": {},
+  "fetchTime": "2026-06-18T17:16:48.148136"
+}
