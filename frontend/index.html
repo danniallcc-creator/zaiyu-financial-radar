@@ -1138,6 +1138,8 @@
       const [selectedPeriod, setSelectedPeriod] = useState(null);
       const [sortKey, setSortKey] = useState('overseasRev');
       const [sortAsc, setSortAsc] = useState(false);
+      const [lbSortKey, setLbSortKey] = useState(null);
+      const [lbSortAsc, setLbSortAsc] = useState(false);
       const chartRef = React.useRef(null);
       const chartInst = React.useRef(null);
 
@@ -1263,6 +1265,21 @@
         if (sortKey === key) setSortAsc(!sortAsc);
         else { setSortKey(key); setSortAsc(false); }
       };
+
+      const handleLbSort = (key) => {
+        if (lbSortKey === key) setLbSortAsc(!lbSortAsc);
+        else { setLbSortKey(key); setLbSortAsc(false); }
+      };
+
+      const sortedTopOverseas = useMemo(() => {
+        if (!data?.topOverseas) return [];
+        if (!lbSortKey) return data.topOverseas;
+        return [...data.topOverseas].sort((a, b) => {
+          const va = a[lbSortKey] ?? -Infinity;
+          const vb = b[lbSortKey] ?? -Infinity;
+          return lbSortAsc ? va - vb : vb - va;
+        });
+      }, [data?.topOverseas, lbSortKey, lbSortAsc]);
 
       const fmtRev = (v) => {
         if (v == null) return '-';
@@ -1418,13 +1435,19 @@
                       <th className="text-left py-2 px-2 text-txt-dim font-medium bg-bg">公司</th>
                       <th className="text-left py-2 px-2 text-txt-dim font-medium bg-bg">代码</th>
                       <th className="text-left py-2 px-2 text-txt-dim font-medium bg-bg">行业</th>
-                      <th className="text-right py-2 px-2 text-txt-dim font-medium bg-bg">海外收入</th>
-                      <th className="text-right py-2 px-2 text-txt-dim font-medium bg-bg">占比</th>
-                      <th className="text-right py-2 px-2 text-txt-dim font-medium bg-bg">同比</th>
+                      <th className="text-right py-2 px-2 text-txt-dim font-medium bg-bg cursor-pointer hover:text-gold"
+                        onClick={() => handleLbSort('overseasRev')}>
+                        海外收入 {lbSortKey==='overseasRev' ? (lbSortAsc?'↑':'↓') : ''}</th>
+                      <th className="text-right py-2 px-2 text-txt-dim font-medium bg-bg cursor-pointer hover:text-gold"
+                        onClick={() => handleLbSort('ratio')}>
+                        占比 {lbSortKey==='ratio' ? (lbSortAsc?'↑':'↓') : ''}</th>
+                      <th className="text-right py-2 px-2 text-txt-dim font-medium bg-bg cursor-pointer hover:text-gold"
+                        onClick={() => handleLbSort('yoy')}>
+                        同比 {lbSortKey==='yoy' ? (lbSortAsc?'↑':'↓') : ''}</th>
                     </tr>
                   </thead>
                   <tbody>
-                    {data.topOverseas.map((s, i) => (
+                    {sortedTopOverseas.map((s, i) => (
                       <tr key={s.code} className={`border-b border-border/50 ${i % 2 ? 'bg-card/50' : ''} hover:bg-gold/5`}>
                         <td className="py-1.5 px-1.5 text-center text-txt-dim font-mono">{i+1}</td>
                         <td className="py-1.5 px-2">
