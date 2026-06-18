@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "markets": {
+    "sh": { "name": "沪市", "prefix": "1", "cninfo": "sh" },
+    "sz": { "name": "深市", "prefix": "0", "cninfo": "sz" },
+    "bj": { "name": "北交所", "prefix": "0", "cninfo": "bj" }
+  },
+  "samples": [
+    { "code": "600519", "name": "贵州茅台", "market": "sh", "industry": "白酒", "gics": "2530" },
+    { "code": "000858", "name": "五粮液", "market": "sz", "industry": "白酒", "gics": "2530" },
+    { "code": "000001", "name": "平安银行", "market": "sz", "industry": "银行", "gics": "4010" },
+    { "code": "600036", "name": "招商银行", "market": "sh", "industry": "银行", "gics": "4010" },
+    { "code": "601318", "name": "中国平安", "market": "sh", "industry": "保险", "gics": "4030" },
+    { "code": "000333", "name": "美的集团", "market": "sz", "industry": "家电", "gics": "2520" },
+    { "code": "002594", "name": "比亚迪", "market": "sz", "industry": "汽车", "gics": "2510" },
+    { "code": "601899", "name": "紫金矿业", "market": "sh", "industry": "有色金属", "gics": "1510" }
+  ]
+}

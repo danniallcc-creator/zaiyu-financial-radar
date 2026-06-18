@@ -1,0 +1,777 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>A股财务雷达</title>
+  <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+  <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+  <script src="https://unpkg.com/@babel/standalone@7/babel.min.js"></script>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            bg: '#0a0a0f',
+            card: '#111118',
+            border: '#1e1e2a',
+            gold: '#d4af37',
+            'gold-light': '#e8d49b',
+            'gold-dark': '#c9a84c',
+            'txt': '#e8d49b',
+            'txt-dim': '#8a8a6a',
+            up: '#e74c3c',
+            down: '#27ae60',
+          },
+          fontFamily: {
+            mono: ['"JetBrains Mono"', '"SF Mono"', 'Menlo', 'monospace'],
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap');
+    body { background: #0a0a0f; color: #e8d49b; font-family: 'JetBrains Mono', monospace; }
+    ::-webkit-scrollbar { width: 6px; height: 6px; }
+    ::-webkit-scrollbar-track { background: #0a0a0f; }
+    ::-webkit-scrollbar-thumb { background: #2a2a3a; border-radius: 3px; }
+    table { border-collapse: collapse; }
+    th { position: sticky; top: 0; z-index: 1; }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+  <script type="text/babel">
+    const { useState, useEffect, useMemo, useCallback } = React;
+
+    // ─── Helpers ────────────────────────────────────────────────────────────
+    const formatNum = (val) => {
+      if (val == null || isNaN(val)) return '-';
+      const abs = Math.abs(val);
+      if (abs >= 1e8) return (val / 1e8).toFixed(1) + '亿';
+      if (abs >= 1e4) return (val / 1e4).toFixed(1) + '万';
+      return val.toFixed(2);
+    };
+
+    const formatPct = (val) => {
+      if (val == null || isNaN(val)) return '-';
+      return (val >= 0 ? '+' : '') + val.toFixed(2) + '%';
+    };
+
+    const yoyColor = (val) => {
+      if (val == null || isNaN(val)) return 'text-txt-dim';
+      if (val > 20) return 'text-up font-bold';
+      if (val < -20) return 'text-down font-bold';
+      if (val > 0) return 'text-up';
+      if (val < 0) return 'text-down';
+      return 'text-txt-dim';
+    };
+
+    const calcCAGR = (values) => {
+      if (!values || values.length < 2) return null;
+      const first = values[values.length - 1];
+      const last = values[0];
+      if (!first || first <= 0 || !last || last <= 0) return null;
+      const n = values.length - 1;
+      return ((Math.pow(last / first, 1 / n) - 1) * 100);
+    };
+
+    const safeNum = (v) => (v != null && !isNaN(v)) ? v : null;
+
+    const filterAnnual = (arr) => {
+      if (!arr) return [];
+      return arr.filter(r => r.reportType === '年报' || (r.reportName && r.reportName.includes('年报')));
+    };
+
+    // ─── Data Path Detection ─────────────────────────────────────────────────
+    // Auto-detect: if served from project root, data is at data/; if from frontend/, use ../data/
+    const DATA_BASE = window.location.pathname.includes('/frontend/') ? '../data' : 'data';
+    const fetchData = async (code) => {
+      const res = await fetch(`${DATA_BASE}/eastmoney/${code}.json`);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      return res.json();
+    };
+
+    // ─── Reusable Components ────────────────────────────────────────────────
+    const InfoCard = ({ title, children, className = '' }) => (
+      <div className={`bg-card border border-border rounded p-4 ${className}`}>
+        {title && <h3 className="text-gold font-bold text-sm mb-3 border-b border-border pb-2">{title}</h3>}
+        {children}
+      </div>
+    );
+
+    const MetricTable = ({ headers, rows, className = '' }) => (
+      <div className={`overflow-x-auto ${className}`}>
+        <table className="w-full text-xs">
+          <thead>
+            <tr className="bg-bg border-b border-border">
+              {headers.map((h, i) => (
+                <th key={i} className="text-left text-gold-dark px-3 py-2 font-medium whitespace-nowrap">{h}</th>
+              ))}
+            </tr>
+          </thead>
+          <tbody>
+            {rows.map((row, ri) => (
+              <tr key={ri} className="border-b border-border hover:bg-[#161620] transition-colors">
+                {row.map((cell, ci) => (
+                  <td key={ci} className={`px-3 py-2 whitespace-nowrap ${cell.cls || ''}`}>
+                    {cell.v != null ? cell.v : '-'}
+                  </td>
+                ))}
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    );
+
+    const Badge = ({ text, color }) => {
+      const colorMap = {
+        green: 'bg-green-900/40 text-green-400 border-green-700',
+        red: 'bg-red-900/40 text-red-400 border-red-700',
+        blue: 'bg-blue-900/40 text-blue-400 border-blue-700',
+        purple: 'bg-purple-900/40 text-purple-400 border-purple-700',
+        orange: 'bg-orange-900/40 text-orange-400 border-orange-700',
+      };
+      return (
+        <span className={`text-[10px] px-1.5 py-0.5 rounded border ${colorMap[color] || colorMap.blue}`}>
+          {text}
+        </span>
+      );
+    };
+
+    // ─── SearchBar ──────────────────────────────────────────────────────────
+    const SearchBar = ({ onLoad }) => {
+      const [code, setCode] = useState('');
+      const [loading, setLoading] = useState(false);
+      const [error, setError] = useState('');
+
+      const handleSearch = async () => {
+        const c = code.trim();
+        if (!c) return;
+        setLoading(true);
+        setError('');
+        try {
+          const data = await fetchData(c);
+          onLoad(data);
+        } catch (e) {
+          setError(`加载失败: ${e.message}，请确认股票代码及 ${DATA_BASE}/eastmoney/${c}.json 存在`);
+        } finally {
+          setLoading(false);
+        }
+      };
+
+      const handleKey = (e) => { if (e.key === 'Enter') handleSearch(); };
+
+      return (
+        <div className="flex flex-col gap-2">
+          <div className="flex items-center gap-3">
+            <input
+              type="text"
+              value={code}
+              onChange={e => setCode(e.target.value)}
+              onKeyDown={handleKey}
+              placeholder="输入股票代码，如 600519"
+              className="bg-card border border-border rounded px-4 py-2 text-txt text-sm font-mono outline-none focus:border-gold w-64"
+            />
+            <button
+              onClick={handleSearch}
+              disabled={loading}
+              className="bg-gold/10 border border-gold text-gold px-5 py-2 rounded text-sm font-bold hover:bg-gold/20 transition disabled:opacity-50"
+            >
+              {loading ? '加载中...' : '查询'}
+            </button>
+          </div>
+          {error && <div className="text-red-400 text-xs">{error}</div>}
+        </div>
+      );
+    };
+
+    // ─── TabBar ─────────────────────────────────────────────────────────────
+    const TABS = ['数据透视', '财务质量', '企业表达', '股东与分红', '横向对比'];
+
+    const TabBar = ({ active, onChange }) => (
+      <div className="flex gap-1 border-b border-border pb-0 overflow-x-auto">
+        {TABS.map((t, i) => (
+          <button
+            key={i}
+            onClick={() => onChange(i)}
+            className={`px-4 py-2 text-xs font-bold whitespace-nowrap transition border-b-2 ${
+              active === i
+                ? 'border-gold text-gold'
+                : 'border-transparent text-txt-dim hover:text-txt'
+            }`}
+          >
+            {t}
+          </button>
+        ))}
+      </div>
+    );
+
+    // ─── Tab 1: DataOverview ────────────────────────────────────────────────
+    const DataOverview = ({ data }) => {
+      const { profile, quote, financial, income, balance: bal } = data;
+      const annuals = useMemo(() => filterAnnual(financial), [financial]);
+      const latest = financial?.[0] || {};
+
+      return (
+        <div className="space-y-4">
+          {/* Company Profile */}
+          <InfoCard title="公司概况">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-1 text-xs">
+              <Row label="公司名称" value={profile?.name} />
+              <Row label="全称" value={profile?.fullName} />
+              <Row label="股票代码" value={profile?.code} />
+              <Row label="行业分类" value={profile?.industry} />
+              <Row label="证监会行业" value={profile?.industryCSRC} />
+              <Row label="董事长" value={profile?.chairman} />
+              <Row label="法人" value={profile?.legalPerson} />
+              <Row label="董秘" value={profile?.secretary} />
+              <Row label="省份" value={profile?.province} />
+              <Row label="证券类型" value={profile?.securityType} />
+            </div>
+            {profile?.mainBusiness && (
+              <div className="mt-3 text-xs text-txt-dim">
+                <span className="text-gold-dark">主营业务: </span>{profile.mainBusiness}
+              </div>
+            )}
+            {profile?.description && (
+              <div className="mt-2 text-xs text-txt-dim leading-relaxed max-h-24 overflow-y-auto">
+                {profile.description.trim()}
+              </div>
+            )}
+          </InfoCard>
+
+          {/* Real-time Quote */}
+          <InfoCard title="实时行情">
+            <div className="grid grid-cols-2 md:grid-cols-5 gap-4 text-xs">
+              <QuoteItem label="最新价" value={quote?.price?.toFixed(2)} highlight />
+              <QuoteItem label="涨跌额" value={quote?.change?.toFixed(2)} color={quote?.change >= 0 ? 'up' : 'down'} />
+              <QuoteItem label="涨跌幅" value={formatPct(quote?.changePct)} color={quote?.changePct >= 0 ? 'up' : 'down'} />
+              <QuoteItem label="PE(TTM)" value={quote?.pe?.toFixed(2)} />
+              <QuoteItem label="PB" value={quote?.pb?.toFixed(2)} />
+              <QuoteItem label="总市值" value={formatNum(quote?.totalMV)} />
+              <QuoteItem label="流通市值" value={formatNum(quote?.circMV)} />
+              <QuoteItem label="换手率" value={quote?.turnover != null ? quote.turnover + '%' : '-'} />
+              <QuoteItem label="成交量" value={formatNum(quote?.volume)} />
+              <QuoteItem label="成交额" value={formatNum(quote?.amount)} />
+            </div>
+          </InfoCard>
+
+          {/* Core Financial Indicators */}
+          <InfoCard title="核心财务指标 (最新报告期)">
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-3 text-xs mb-4">
+              <IndicatorCard label="营业收入" value={formatNum(latest.totalRevenue)} yoy={latest.totalRevenueYoY} />
+              <IndicatorCard label="净利润" value={formatNum(latest.netProfit)} yoy={latest.netProfitYoY} />
+              <IndicatorCard label="扣非净利润" value={formatNum(latest.deductNetProfit)} yoy={latest.deductNetProfitYoY} />
+              <IndicatorCard label="ROE(加权)" value={latest.weightedROE != null ? latest.weightedROE.toFixed(2) + '%' : '-'} />
+              <IndicatorCard label="毛利率" value={latest.grossMargin != null ? latest.grossMargin.toFixed(2) + '%' : '-'} />
+              <IndicatorCard label="净利率" value={latest.netMargin != null ? latest.netMargin.toFixed(2) + '%' : '-'} />
+              <IndicatorCard label="资产负债率" value={latest.debtRatio != null ? latest.debtRatio.toFixed(2) + '%' : '-'} />
+              <IndicatorCard label="经营现金流/收入" value={latest.cashToRevenue != null ? latest.cashToRevenue.toFixed(2) : '-'} />
+            </div>
+            <div className="text-[10px] text-txt-dim">报告期: {latest.reportName || latest.reportDate || '-'}</div>
+          </InfoCard>
+
+          {/* 5-Year Trend */}
+          <InfoCard title="五年趋势 (年报)">
+            <MetricTable
+              headers={['指标', ...annuals.slice(0, 5).map(a => a.reportDate?.slice(0, 4) || a.reportName)]}
+              rows={[
+                trendRow('营业收入(亿)', annuals, 'totalRevenue', v => (v / 1e8).toFixed(1)),
+                trendRow('收入YoY%', annuals, 'totalRevenueYoY', v => v.toFixed(2) + '%'),
+                trendRow('净利润(亿)', annuals, 'netProfit', v => (v / 1e8).toFixed(1)),
+                trendRow('净利润YoY%', annuals, 'netProfitYoY', v => v.toFixed(2) + '%'),
+                trendRow('扣非净利润(亿)', annuals, 'deductNetProfit', v => (v / 1e8).toFixed(1)),
+                trendRow('ROE%', annuals, 'weightedROE', v => v.toFixed(2) + '%'),
+                trendRow('毛利率%', annuals, 'grossMargin', v => v.toFixed(2) + '%'),
+                trendRow('净利率%', annuals, 'netMargin', v => v.toFixed(2) + '%'),
+                trendRow('负债率%', annuals, 'debtRatio', v => v.toFixed(2) + '%'),
+                trendRow('基本EPS', annuals, 'basicEPS', v => v.toFixed(2)),
+              ]}
+            />
+            {annuals.length >= 2 && (
+              <div className="mt-3 text-[10px] text-txt-dim">
+                收入CAGR(5年): <span className="text-gold">{calcCAGR(annuals.slice(0, 5).map(a => a.totalRevenue))?.toFixed(2) || '-'}%</span>
+                {' | '}
+                净利润CAGR(5年): <span className="text-gold">{calcCAGR(annuals.slice(0, 5).map(a => a.netProfit))?.toFixed(2) || '-'}%</span>
+              </div>
+            )}
+          </InfoCard>
+        </div>
+      );
+    };
+
+    const Row = ({ label, value }) => (
+      <div className="flex gap-2 py-1">
+        <span className="text-txt-dim w-20 shrink-0">{label}</span>
+        <span className="text-txt">{value || '-'}</span>
+      </div>
+    );
+
+    const QuoteItem = ({ label, value, color, highlight }) => (
+      <div>
+        <div className="text-txt-dim text-[10px]">{label}</div>
+        <div className={`font-bold ${highlight ? 'text-lg' : 'text-sm'} ${color === 'up' ? 'text-up' : color === 'down' ? 'text-down' : 'text-txt'}`}>
+          {value || '-'}
+        </div>
+      </div>
+    );
+
+    const IndicatorCard = ({ label, value, yoy }) => (
+      <div className="bg-bg border border-border rounded p-3">
+        <div className="text-txt-dim text-[10px]">{label}</div>
+        <div className="text-txt font-bold text-sm mt-1">{value}</div>
+        {yoy != null && (
+          <div className={`text-[10px] mt-1 ${yoyColor(yoy)}`}>
+            同比 {formatPct(yoy)}
+          </div>
+        )}
+      </div>
+    );
+
+    const trendRow = (label, annuals, key, fmt) => {
+      const cells = [{ v: label, cls: 'text-gold-dark font-medium' }];
+      annuals.slice(0, 5).forEach(a => {
+        const val = safeNum(a[key]);
+        if (key.includes('YoY') && val != null) {
+          cells.push({ v: val != null ? fmt(val) : '-', cls: yoyColor(val) });
+        } else {
+          cells.push({ v: val != null ? fmt(val) : '-' });
+        }
+      });
+      return cells;
+    };
+
+    // ─── Tab 2: FinancialQuality ────────────────────────────────────────────
+    const FinancialQuality = ({ data }) => {
+      const { financial, income, balance: bal, cashflow } = data;
+      const annuals = useMemo(() => filterAnnual(financial), [financial]);
+      const annualIncome = useMemo(() => filterAnnual(income), [income]);
+      const annualBal = useMemo(() => filterAnnual(bal), [bal]);
+      const annualCash = useMemo(() => filterAnnual(cashflow), [cashflow]);
+      const latest = financial?.[0] || {};
+      const latestIncome = income?.[0] || {};
+
+      return (
+        <div className="space-y-4">
+          {/* 扣非利润分析 */}
+          <InfoCard title="扣非利润分析">
+            <MetricTable
+              headers={['报告期', '净利润', '扣非净利润', '非经常损益', '非经常占比', '质量评分']}
+              rows={annuals.slice(0, 5).map(a => {
+                const np = safeNum(a.netProfit);
+                const dnp = safeNum(a.deductNetProfit);
+                const nrl = safeNum(a.nonRecurringPnL);
+                const ratio = safeNum(a.nonRecurringRatio);
+                const quality = dnp != null && np != null && np !== 0
+                  ? Math.min(100, (dnp / np * 100)).toFixed(1) + '分'
+                  : '-';
+                return [
+                  { v: a.reportDate?.slice(0, 4) || a.reportName, cls: 'text-gold-dark' },
+                  { v: np != null ? formatNum(np) : '-' },
+                  { v: dnp != null ? formatNum(dnp) : '-' },
+                  { v: nrl != null ? formatNum(nrl) : '-' },
+                  { v: ratio != null ? ratio.toFixed(2) + '%' : '-' },
+                  { v: quality, cls: 'text-gold font-bold' },
+                ];
+              })}
+            />
+          </InfoCard>
+
+          {/* 现金流三维分析 */}
+          <InfoCard title="现金流三维分析 (年报)">
+            <MetricTable
+              headers={['年度', '经营现金流', '投资现金流', '筹资现金流', '自由现金流(估算)', '经营/收入比']}
+              rows={annualCash.slice(0, 5).map(c => {
+                const opCash = safeNum(c.netOperatingCash);
+                const invCash = safeNum(c.netInvestCash);
+                const finCash = safeNum(c.netFinanceCash);
+                const salesCash = safeNum(c.salesCash);
+                const rev = annuals.find(a => a.reportDate === c.reportDate)?.totalRevenue;
+                const fcf = opCash != null && invCash != null ? opCash + invCash : null;
+                const opRevRatio = opCash != null && rev ? (opCash / rev * 100).toFixed(1) + '%' : '-';
+                return [
+                  { v: c.reportDate?.slice(0, 4), cls: 'text-gold-dark' },
+                  { v: opCash != null ? formatNum(opCash) : '-', cls: opCash > 0 ? 'text-up' : 'text-down' },
+                  { v: invCash != null ? formatNum(invCash) : '-' },
+                  { v: finCash != null ? formatNum(finCash) : '-' },
+                  { v: fcf != null ? formatNum(fcf) : '-', cls: fcf > 0 ? 'text-up' : fcf < 0 ? 'text-down' : '' },
+                  { v: opRevRatio },
+                ];
+              })}
+            />
+            <div className="mt-2 text-[10px] text-txt-dim">
+              自由现金流(估算) = 经营现金流 + 投资现金流 (因缺少资本开支明细，此为粗估)
+            </div>
+          </InfoCard>
+
+          {/* 资产负债健康度 */}
+          <InfoCard title="资产负债健康度">
+            <MetricTable
+              headers={['年度', '资产负债率', '流动比率', '速动比率', '总资产', '总负债', '商誉/总资产']}
+              rows={annualBal.slice(0, 5).map(b => {
+                const goodwill = safeNum(b.goodwill);
+                const ta = safeNum(b.totalAssets);
+                const goodwillRatio = goodwill != null && ta ? (goodwill / ta * 100).toFixed(2) + '%' : '无商誉';
+                return [
+                  { v: b.reportDate?.slice(0, 4), cls: 'text-gold-dark' },
+                  { v: safeNum(b.debtRatio) != null ? b.debtRatio.toFixed(2) + '%' : '-' },
+                  { v: safeNum(b.currentRatio) != null ? b.currentRatio.toFixed(2) : '-' },
+                  { v: safeNum(b.equityMultiplier) != null ? b.equityMultiplier.toFixed(2) : '-' },
+                  { v: ta != null ? formatNum(ta) : '-' },
+                  { v: safeNum(b.totalLiabilities) != null ? formatNum(b.totalLiabilities) : '-' },
+                  { v: goodwillRatio, cls: goodwill != null && ta && goodwill / ta > 0.1 ? 'text-up font-bold' : '' },
+                ];
+              })}
+            />
+          </InfoCard>
+
+          {/* 费用率分析 */}
+          <InfoCard title="费用率分析 (最新)">
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-3 text-xs mb-3">
+              <ExpCard label="销售费用率" value={latestIncome.saleExpenseRatio} amount={latestIncome.saleExpense} />
+              <ExpCard label="管理费用率" value={latestIncome.manageExpenseRatio} amount={latestIncome.manageExpense} />
+              <ExpCard label="研发费用率" value={latestIncome.researchRatio} amount={latestIncome.researchExpense} />
+              <ExpCard label="财务费用率" value={latestIncome.financeExpenseRatio} amount={latestIncome.financeExpense} />
+            </div>
+            <MetricTable
+              headers={['报告期', '销售费用率', '管理费用率', '研发费用率', '财务费用率', '总费用率']}
+              rows={annualIncome.slice(0, 5).map(inc => {
+                const total = [inc.saleExpenseRatio, inc.manageExpenseRatio, inc.researchRatio, inc.financeExpenseRatio]
+                  .filter(v => v != null).reduce((s, v) => s + v, 0);
+                return [
+                  { v: inc.reportDate?.slice(0, 4) || inc.reportName, cls: 'text-gold-dark' },
+                  { v: safeNum(inc.saleExpenseRatio) != null ? inc.saleExpenseRatio.toFixed(2) + '%' : '-' },
+                  { v: safeNum(inc.manageExpenseRatio) != null ? inc.manageExpenseRatio.toFixed(2) + '%' : '-' },
+                  { v: safeNum(inc.researchRatio) != null ? inc.researchRatio.toFixed(2) + '%' : '-' },
+                  { v: safeNum(inc.financeExpenseRatio) != null ? inc.financeExpenseRatio.toFixed(2) + '%' : '-' },
+                  { v: total ? total.toFixed(2) + '%' : '-', cls: 'text-gold font-bold' },
+                ];
+              })}
+            />
+          </InfoCard>
+        </div>
+      );
+    };
+
+    const ExpCard = ({ label, value, amount }) => (
+      <div className="bg-bg border border-border rounded p-3">
+        <div className="text-txt-dim text-[10px]">{label}</div>
+        <div className="text-txt font-bold text-sm mt-1">
+          {value != null ? value.toFixed(2) + '%' : '-'}
+        </div>
+        <div className="text-txt-dim text-[10px] mt-1">
+          {amount != null ? formatNum(amount) : '-'}
+        </div>
+      </div>
+    );
+
+    // ─── Tab 3: ManagementExpr ──────────────────────────────────────────────
+    const ManagementExpr = ({ data }) => {
+      const sections = [
+        {
+          title: '致股东信',
+          tags: [{ text: '利好', color: 'green' }, { text: '增量', color: 'blue' }],
+          content: '数据待 ETL 抓取。此模块将从巨潮资讯网(cninfo.com.cn)抓取年报中的"致股东信"章节，提取关键段落并进行标签标注。'
+        },
+        {
+          title: '管理层讨论分析',
+          tags: [{ text: '利好', color: 'green' }, { text: '利空', color: 'red' }, { text: '新技术', color: 'purple' }],
+          content: '数据待 ETL 抓取。将提取年报"管理层讨论与分析"(MD&A)章节，分析经营计划、战略调整、风险提示等关键信息。'
+        },
+        {
+          title: '关联交易',
+          tags: [{ text: '利空', color: 'red' }],
+          content: '数据待 ETL 抓取。将提取年报中关联交易明细，关注交易金额、关联方、定价公允性等风险信号。'
+        },
+        {
+          title: '非经常性损益',
+          tags: [{ text: '增量', color: 'blue' }],
+          content: '数据待 ETL 抓取。将提取年报中非经常性损益明细表，区分政府补助、资产处置、投资收益等来源。'
+        },
+      ];
+
+      return (
+        <div className="space-y-4">
+          <InfoCard title="企业表达分析">
+            <p className="text-xs text-txt-dim mb-4">
+              此模块分析年报原文，提取管理层核心表达并标注语义标签。当前数据待 ETL 从巨潮资讯网抓取年报 PDF 后填充。
+            </p>
+            <div className="flex gap-2 flex-wrap mb-4">
+              <Badge text="利好" color="green" />
+              <Badge text="利空" color="red" />
+              <Badge text="增量" color="blue" />
+              <Badge text="新技术" color="purple" />
+              <Badge text="海外" color="orange" />
+              <span className="text-[10px] text-txt-dim ml-2">标签色彩说明</span>
+            </div>
+          </InfoCard>
+
+          {sections.map((s, i) => (
+            <InfoCard key={i} title={s.title}>
+              <div className="flex gap-1 mb-2">
+                {s.tags.map((t, j) => <Badge key={j} text={t.text} color={t.color} />)}
+              </div>
+              <p className="text-xs text-txt-dim leading-relaxed">{s.content}</p>
+              <div className="mt-3 border border-dashed border-border rounded p-3 text-[10px] text-txt-dim">
+                [占位] 年报原文段落将在此处展示，每段附带语义标签和置信度评分
+              </div>
+            </InfoCard>
+          ))}
+        </div>
+      );
+    };
+
+    // ─── Tab 4: ShareholderDividend ─────────────────────────────────────────
+    const ShareholderDividend = ({ data }) => {
+      const sh = data.shareholder || {};
+      const { top10Holders, top10CircHolders, holderCountHistory, institutionalHoldings, fundHoldings, dividends } = sh;
+
+      return (
+        <div className="space-y-4">
+          {/* 十大股东 */}
+          <InfoCard title="十大股东">
+            {top10Holders && top10Holders.length > 0 ? (
+              <>
+                <div className="text-[10px] text-txt-dim mb-2">截止: {top10Holders[0]?.endDate || '-'}</div>
+                <MetricTable
+                  headers={['序号', '股东名称', '持股类型', '持股数', '占比%', '变动']}
+                  rows={top10Holders.map(h => [
+                    { v: h.rank, cls: 'text-gold-dark' },
+                    { v: h.name, cls: 'text-txt' },
+                    { v: h.sharesType || '-' },
+                    { v: formatNum(h.shares) },
+                    { v: h.sharesRatio != null ? h.sharesRatio.toFixed(2) + '%' : '-' },
+                    { v: h.change || '-', cls: h.change === '增加' ? 'text-up' : h.change === '减少' ? 'text-down' : '' },
+                  ])}
+                />
+              </>
+            ) : <div className="text-xs text-txt-dim">暂无数据</div>}
+          </InfoCard>
+
+          {/* 十大流通股东 */}
+          <InfoCard title="十大流通股东">
+            {top10CircHolders && top10CircHolders.length > 0 ? (
+              <>
+                <div className="text-[10px] text-txt-dim mb-2">截止: {top10CircHolders[0]?.endDate || '-'}</div>
+                <MetricTable
+                  headers={['序号', '股东名称', '类型', '持股数', '占比%', '变动']}
+                  rows={top10CircHolders.map(h => [
+                    { v: h.rank, cls: 'text-gold-dark' },
+                    { v: h.name, cls: 'text-txt' },
+                    { v: h.type || h.sharesType || '-' },
+                    { v: formatNum(h.shares) },
+                    { v: h.sharesRatio != null ? h.sharesRatio.toFixed(2) + '%' : '-' },
+                    { v: h.change || '-', cls: h.change === '增加' ? 'text-up' : h.change === '减少' ? 'text-down' : '' },
+                  ])}
+                />
+              </>
+            ) : <div className="text-xs text-txt-dim">暂无数据</div>}
+          </InfoCard>
+
+          {/* 股东户数历史 */}
+          <InfoCard title="股东户数历史">
+            {holderCountHistory && holderCountHistory.length > 0 ? (
+              <MetricTable
+                headers={['日期', '户数', '变动%', '户均持股', '户均市值', '集中度']}
+                rows={holderCountHistory.map(h => [
+                  { v: h.endDate, cls: 'text-gold-dark' },
+                  { v: h.count != null ? h.count.toLocaleString() : '-' },
+                  { v: h.changeRatio != null ? formatPct(h.changeRatio) : '-', cls: yoyColor(h.changeRatio) },
+                  { v: h.avgShares != null ? h.avgShares.toLocaleString() : '-' },
+                  { v: h.avgHoldAmount != null ? formatNum(h.avgHoldAmount) : '-' },
+                  { v: h.holdFocus || '-' },
+                ])}
+              />
+            ) : <div className="text-xs text-txt-dim">暂无数据</div>}
+          </InfoCard>
+
+          {/* 机构持仓 */}
+          <InfoCard title="机构持仓">
+            {institutionalHoldings && institutionalHoldings.length > 0 ? (
+              <MetricTable
+                headers={['报告期', '机构总数', '持股总数', '占总股本%']}
+                rows={institutionalHoldings.map(h => [
+                  { v: h.reportDate, cls: 'text-gold-dark' },
+                  { v: h.totalOrgs != null ? h.totalOrgs.toLocaleString() : '-' },
+                  { v: formatNum(h.totalShares) },
+                  { v: h.totalRatio != null ? h.totalRatio.toFixed(2) + '%' : '-' },
+                ])}
+              />
+            ) : <div className="text-xs text-txt-dim">暂无数据</div>}
+          </InfoCard>
+
+          {/* 基金持仓 */}
+          <InfoCard title="基金持仓 (Top 10)">
+            {fundHoldings && fundHoldings.length > 0 ? (
+              <>
+                <div className="text-[10px] text-txt-dim mb-2">报告期: {fundHoldings[0]?.reportDate || '-'}</div>
+                <MetricTable
+                  headers={['基金代码', '基金名称', '持股数', '持仓市值', '占流通股%', '占基金净值%']}
+                  rows={fundHoldings.map(h => [
+                    { v: h.fundCode, cls: 'text-gold-dark' },
+                    { v: h.fundName, cls: 'text-txt' },
+                    { v: formatNum(h.shares) },
+                    { v: formatNum(h.value) },
+                    { v: h.ratio != null ? h.ratio.toFixed(4) + '%' : '-' },
+                    { v: h.navRatio != null ? h.navRatio.toFixed(2) + '%' : '-' },
+                  ])}
+                />
+              </>
+            ) : <div className="text-xs text-txt-dim">暂无数据</div>}
+          </InfoCard>
+
+          {/* 分红记录 */}
+          <InfoCard title="分红记录">
+            {dividends && dividends.length > 0 ? (
+              <MetricTable
+                headers={['年度', '分红方案', '除权日', '每股红利']}
+                rows={dividends.map(d => [
+                  { v: d.year || d.reportDate || '-', cls: 'text-gold-dark' },
+                  { v: d.plan || d.dividendDesc || '-' },
+                  { v: d.exDate || '-' },
+                  { v: d.perShare != null ? d.perShare.toFixed(2) : '-' },
+                ])}
+              />
+            ) : (
+              <div className="text-xs text-txt-dim">
+                暂无分红数据。ETL 尚未抓取分红明细，后续将从东方财富分红接口补充。
+              </div>
+            )}
+          </InfoCard>
+        </div>
+      );
+    };
+
+    // ─── Tab 5: IndustryCompare ─────────────────────────────────────────────
+    const IndustryCompare = ({ data }) => {
+      const { profile, quote } = data;
+      return (
+        <div className="space-y-4">
+          <InfoCard title="同行业对比">
+            <div className="text-center py-12">
+              <div className="text-gold text-lg font-bold mb-2">同行业对比功能开发中</div>
+              <div className="text-xs text-txt-dim max-w-md mx-auto leading-relaxed">
+                此功能将实现同行业公司的PE/PB/营收/利润横向对比，帮助识别估值洼地和成长龙头。
+                数据源将来自东方财富行业板块数据。
+              </div>
+            </div>
+          </InfoCard>
+          <InfoCard title="当前公司行业信息">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-1 text-xs">
+              <Row label="公司名称" value={profile?.name} />
+              <Row label="行业分类" value={profile?.industry} />
+              <Row label="证监会行业" value={profile?.industryCSRC} />
+              <Row label="当前PE" value={quote?.pe?.toFixed(2)} />
+              <Row label="当前PB" value={quote?.pb?.toFixed(2)} />
+              <Row label="总市值" value={formatNum(quote?.totalMV)} />
+            </div>
+          </InfoCard>
+        </div>
+      );
+    };
+
+    // ─── App ────────────────────────────────────────────────────────────────
+    const App = () => {
+      const [data, setData] = useState(null);
+      const [tab, setTab] = useState(0);
+      const [code, setCode] = useState('');
+
+      const handleLoad = useCallback((d) => {
+        setData(d);
+        setCode(d.code || d.profile?.code || '');
+        setTab(0);
+      }, []);
+
+      // Auto-load default stock
+      useEffect(() => {
+        fetchData('600519')
+          .then(d => { if (d) handleLoad(d); })
+          .catch(() => {});
+      }, []);
+
+      const renderTab = () => {
+        if (!data) return null;
+        switch (tab) {
+          case 0: return <DataOverview data={data} />;
+          case 1: return <FinancialQuality data={data} />;
+          case 2: return <ManagementExpr data={data} />;
+          case 3: return <ShareholderDividend data={data} />;
+          case 4: return <IndustryCompare data={data} />;
+          default: return null;
+        }
+      };
+
+      return (
+        <div className="min-h-screen bg-bg text-txt font-mono">
+          {/* Header */}
+          <header className="border-b border-border px-4 py-3">
+            <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-start md:items-center justify-between gap-3">
+              <div>
+                <h1 className="text-gold font-bold text-lg tracking-wide">A股财务雷达</h1>
+                <div className="text-txt-dim text-[10px]">Financial Radar / A-Share Report Analyzer</div>
+              </div>
+              <SearchBar onLoad={handleLoad} />
+            </div>
+          </header>
+
+          {/* Main */}
+          <main className="max-w-6xl mx-auto px-4 py-4">
+            {data ? (
+              <>
+                {/* Stock header */}
+                <div className="flex items-baseline gap-3 mb-4">
+                  <span className="text-gold font-bold text-xl">{data.profile?.name || data.name}</span>
+                  <span className="text-txt-dim text-sm">{code}</span>
+                  {data.quote && (
+                    <>
+                      <span className={`text-sm font-bold ${data.quote.changePct >= 0 ? 'text-up' : 'text-down'}`}>
+                        {data.quote.price?.toFixed(2)}
+                      </span>
+                      <span className={`text-xs ${data.quote.changePct >= 0 ? 'text-up' : 'text-down'}`}>
+                        {formatPct(data.quote.changePct)}
+                      </span>
+                    </>
+                  )}
+                  <span className="text-txt-dim text-[10px] ml-auto">
+                    数据获取: {data.fetchTime ? new Date(data.fetchTime).toLocaleString('zh-CN') : '-'}
+                  </span>
+                </div>
+
+                <TabBar active={tab} onChange={setTab} />
+                <div className="mt-4">
+                  {renderTab()}
+                </div>
+              </>
+            ) : (
+              <div className="text-center py-32">
+                <div className="text-gold text-2xl font-bold mb-4">A股财务雷达</div>
+                <div className="text-txt-dim text-sm mb-8 max-w-md mx-auto leading-relaxed">
+                  输入A股股票代码加载财务数据。数据来源于东方财富，由本地 ETL 预处理为 JSON。
+                  支持数据透视、财务质量分析、企业表达解读、股东分红查看等功能。
+                </div>
+                <div className="text-txt-dim text-xs">
+                  示例: 600519 (贵州茅台) / 000858 (五粮液) / 601318 (中国平安)
+                </div>
+              </div>
+            )}
+          </main>
+
+          {/* Footer */}
+          <footer className="border-t border-border mt-8 px-4 py-3">
+            <div className="max-w-6xl mx-auto text-[10px] text-txt-dim text-center">
+              A股财务雷达 / 数据来源: 东方财富 / 仅供研究参考，不构成投资建议
+            </div>
+          </footer>
+        </div>
+      );
+    };
+
+    const root = ReactDOM.createRoot(document.getElementById('root'));
+    root.render(<App />);
+  </script>
+</body>
+</html>

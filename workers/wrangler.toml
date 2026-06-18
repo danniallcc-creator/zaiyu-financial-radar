@@ -1,0 +1,8 @@
+name = "financial-radar-api"
+main = "index.js"
+compatibility_date = "2024-01-01"
+
+# 如果需要 KV 缓存，取消注释：
+# [[kv_namespaces]]
+# binding = "FIN_CACHE"
+# id = "your-kv-namespace-id"
