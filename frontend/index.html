@@ -176,12 +176,39 @@
       const [code, setCode] = useState('');
       const [loading, setLoading] = useState(false);
       const [error, setError] = useState('');
+      const [stockIndex, setStockIndex] = useState(null);
+      const [suggestions, setSuggestions] = useState([]);
+      const [selIdx, setSelIdx] = useState(-1);
+      const [showDrop, setShowDrop] = useState(false);
+      const inputRef = React.useRef(null);
+      const dropRef = React.useRef(null);
 
-      const handleSearch = async () => {
-        const c = code.trim();
+      // Load stock name index on mount
+      React.useEffect(() => {
+        fetch(`${DATA_BASE}/stock_names.json`)
+          .then(r => r.ok ? r.json() : [])
+          .then(data => setStockIndex(data))
+          .catch(() => {});
+      }, []);
+
+      // Close dropdown on outside click
+      React.useEffect(() => {
+        const handler = (e) => {
+          if (dropRef.current && !dropRef.current.contains(e.target) &&
+              inputRef.current && !inputRef.current.contains(e.target)) {
+            setShowDrop(false);
+          }
+        };
+        document.addEventListener('mousedown', handler);
+        return () => document.removeEventListener('mousedown', handler);
+      }, []);
+
+      const doSearch = async (c) => {
         if (!c) return;
         setLoading(true);
         setError('');
+        setShowDrop(false);
+        setSuggestions([]);
         try {
           const data = await fetchData(c);
           onLoad(data);
@@ -192,7 +219,61 @@
         }
       };
 
-      const handleKey = (e) => { if (e.key === 'Enter') handleSearch(); };
+      const handleInput = (e) => {
+        const val = e.target.value;
+        setCode(val);
+        setSelIdx(-1);
+
+        if (!val.trim() || !stockIndex) {
+          setSuggestions([]);
+          setShowDrop(false);
+          return;
+        }
+
+        const q = val.trim().toLowerCase();
+        const isCode = /^\d/.test(q);
+        let matched;
+        if (isCode) {
+          matched = stockIndex.filter(s => s.c.startsWith(q));
+        } else {
+          matched = stockIndex.filter(s => s.n.toLowerCase().includes(q));
+        }
+        const top = matched.slice(0, 10);
+        setSuggestions(top);
+        setShowDrop(top.length > 0);
+      };
+
+      const handleKey = (e) => {
+        if (!showDrop || suggestions.length === 0) {
+          if (e.key === 'Enter') {
+            // If input looks like a name, try to resolve to code
+            const val = code.trim();
+            if (val && stockIndex && !/^\d/.test(val)) {
+              const match = stockIndex.find(s => s.n === val);
+              if (match) { setCode(match.c); doSearch(match.c); return; }
+            }
+            doSearch(code.trim());
+          }
+          return;
+        }
+        if (e.key === 'ArrowDown') {
+          e.preventDefault();
+          setSelIdx(i => (i + 1) % suggestions.length);
+        } else if (e.key === 'ArrowUp') {
+          e.preventDefault();
+          setSelIdx(i => (i - 1 + suggestions.length) % suggestions.length);
+        } else if (e.key === 'Enter') {
+          e.preventDefault();
+          const idx = selIdx >= 0 ? selIdx : 0;
+          const pick = suggestions[idx];
+          if (pick) {
+            setCode(pick.c);
+            doSearch(pick.c);
+          }
+        } else if (e.key === 'Escape') {
+          setShowDrop(false);
+        }
+      };
 
       const QUICK_STOCKS = [
         ['600519', '茅台'], ['000858', '五粮液'], ['000001', '平安银行'],
@@ -203,16 +284,43 @@
       return (
         <div className="flex flex-col gap-2 w-full md:w-auto">
           <div className="flex items-center gap-3">
-            <input
-              type="text"
-              value={code}
-              onChange={e => setCode(e.target.value)}
-              onKeyDown={handleKey}
-              placeholder="输入股票代码，如 600519"
-              className="bg-card border border-border rounded px-3 py-2 text-txt text-sm font-mono outline-none focus:border-gold w-full md:w-64"
-            />
+            <div className="relative w-full md:w-64">
+              <input
+                ref={inputRef}
+                type="text"
+                value={code}
+                onChange={handleInput}
+                onKeyDown={handleKey}
+                onFocus={() => { if (suggestions.length > 0) setShowDrop(true); }}
+                placeholder="输入代码或公司名称，如 600519 或 茅台"
+                className="bg-card border border-border rounded px-3 py-2 text-txt text-sm font-mono outline-none focus:border-gold w-full"
+              />
+              {showDrop && suggestions.length > 0 && (
+                <div ref={dropRef}
+                  className="absolute top-full left-0 right-0 mt-1 bg-[#1a1a2e] border border-border rounded shadow-xl z-50 max-h-72 overflow-y-auto">
+                  {suggestions.map((s, i) => (
+                    <div key={s.c}
+                      onClick={() => { setCode(s.c); doSearch(s.c); }}
+                      onMouseEnter={() => setSelIdx(i)}
+                      className={`px-3 py-2 cursor-pointer flex items-center justify-between text-sm transition-colors ${
+                        i === selIdx ? 'bg-gold/15 text-gold' : 'text-txt hover:bg-white/5'
+                      }`}>
+                      <span className="font-mono text-xs text-txt-dim mr-3">{s.c}</span>
+                      <span className="flex-1 text-right truncate">{s.n}</span>
+                    </div>
+                  ))}
+                </div>
+              )}
+            </div>
             <button
-              onClick={handleSearch}
+              onClick={() => {
+                const val = code.trim();
+                if (val && stockIndex && !/^\d/.test(val)) {
+                  const match = stockIndex.find(s => s.n === val);
+                  if (match) { setCode(match.c); doSearch(match.c); return; }
+                }
+                doSearch(val);
+              }}
               disabled={loading}
               className="bg-gold/10 border border-gold text-gold px-5 py-2 rounded text-sm font-bold hover:bg-gold/20 transition disabled:opacity-50 whitespace-nowrap"
             >
@@ -222,7 +330,7 @@
           {error && <div className="text-red-400 text-xs">{error}</div>}
           <div className="flex flex-wrap gap-1.5">
             {QUICK_STOCKS.map(([c, n]) => (
-              <button key={c} onClick={() => { setCode(c); fetchData(c).then(onLoad).catch(() => {}); }}
+              <button key={c} onClick={() => { setCode(c); doSearch(c); }}
                 className="text-[10px] px-2 py-1 rounded border border-border text-txt-dim hover:text-gold hover:border-gold/40 transition">
                 {n}
               </button>
