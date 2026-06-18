@@ -1,0 +1,64 @@
+{
+  "code": "002404",
+  "industry": "纺织服装-纺织-丝绸",
+  "peerCount": 4,
+  "fetchTime": "2026-06-18T21:31:28.517382",
+  "peers": [
+    {
+      "code": "002404",
+      "secucode": "002404.SZ",
+      "name": "嘉欣丝绸",
+      "isCurrent": true,
+      "eps": 0.1,
+      "bps": 3.699201055694,
+      "roe": 2.7,
+      "netProfitMargin": 4.4480173943,
+      "revenue": 1287026826.91,
+      "netProfit": 54908304.66,
+      "ocfPerShare": 0.252371603349,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "301066",
+      "secucode": "301066.SZ",
+      "name": "万事利",
+      "isCurrent": false,
+      "eps": 0.06,
+      "bps": 5.48465986235,
+      "roe": 1.13,
+      "netProfitMargin": 7.0431293496,
+      "revenue": 211694222.41,
+      "netProfit": 14909897.91,
+      "ocfPerShare": -0.236267655335,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "831336",
+      "secucode": "831336.NQ",
+      "name": "苏丝股份",
+      "isCurrent": false,
+      "eps": -0.11,
+      "bps": 0.6,
+      "roe": -16.71,
+      "netProfitMargin": -13.5101516107,
+      "revenue": 85192937.22,
+      "netProfit": -11509694.98,
+      "ocfPerShare": 0.139369303019,
+      "reportDate": "2025-12-31"
+    },
+    {
+      "code": "Q190059",
+      "secucode": "Q190059.NQ",
+      "name": "天泽科技",
+      "isCurrent": false,
+      "eps": 0.1,
+      "bps": 1.07,
+      "roe": 9.22,
+      "netProfitMargin": 2.9876029675,
+      "revenue": 54825994.21,
+      "netProfit": 1637983.03,
+      "ocfPerShare": 0.011973882381,
+      "reportDate": "2018-12-31"
+    }
+  ]
+}

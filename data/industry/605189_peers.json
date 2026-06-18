@@ -1,0 +1,92 @@
+{
+  "code": "605189",
+  "industry": "纺织服装-纺织-印染",
+  "peerCount": 6,
+  "fetchTime": "2026-06-18T21:31:31.630947",
+  "peers": [
+    {
+      "code": "600987",
+      "secucode": "600987.SH",
+      "name": "航民股份",
+      "isCurrent": false,
+      "eps": 0.136,
+      "bps": 6.697155663716,
+      "roe": 2.05,
+      "netProfitMargin": 7.8397247765,
+      "revenue": 2046381674.28,
+      "netProfit": 138933935.64,
+      "ocfPerShare": -0.160594691004,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "605189",
+      "secucode": "605189.SH",
+      "name": "富春染织",
+      "isCurrent": true,
+      "eps": 0.38,
+      "bps": 9.829672869296,
+      "roe": 3.73,
+      "netProfitMargin": 8.398507183,
+      "revenue": 872743251.07,
+      "netProfit": 73297404.63,
+      "ocfPerShare": -2.373614977922,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "870898",
+      "secucode": "870898.NQ",
+      "name": "富春染织",
+      "isCurrent": false,
+      "eps": 0.38,
+      "bps": 9.829672869296,
+      "roe": 3.73,
+      "netProfitMargin": 8.398507183,
+      "revenue": 872743251.07,
+      "netProfit": 73297404.63,
+      "ocfPerShare": -2.373614977922,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "600448",
+      "secucode": "600448.SH",
+      "name": "华纺股份",
+      "isCurrent": false,
+      "eps": -0.0447,
+      "bps": 1.447757560386,
+      "roe": -3.03,
+      "netProfitMargin": -3.7167407373,
+      "revenue": 754853540.06,
+      "netProfit": -28155582.19,
+      "ocfPerShare": 0.148137240625,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "834822",
+      "secucode": "834822.NQ",
+      "name": "弘晨科技",
+      "isCurrent": false,
+      "eps": 0.01,
+      "bps": 0.94,
+      "roe": 1.17,
+      "netProfitMargin": 0.8772284195,
+      "revenue": 47445153.48,
+      "netProfit": 416202.37,
+      "ocfPerShare": -0.021933959211,
+      "reportDate": "2023-06-30"
+    },
+    {
+      "code": "871638",
+      "secucode": "871638.NQ",
+      "name": "新天龙",
+      "isCurrent": false,
+      "eps": null,
+      "bps": null,
+      "roe": null,
+      "netProfitMargin": null,
+      "revenue": null,
+      "netProfit": null,
+      "ocfPerShare": null,
+      "reportDate": ""
+    }
+  ]
+}
