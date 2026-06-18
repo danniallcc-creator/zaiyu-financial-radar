@@ -1203,38 +1203,91 @@
           });
       }, [dimData, sortKey, sortAsc]);
 
-      // 5-year trend for chart
+      // 5-year trend for chart — reads from selected dimension groups
       const trendData = useMemo(() => {
-        if (!data || !data[periodType]) return [];
+        if (!data || !data[periodType]) return { years: [], groups: [], series: [], ratioLine: [] };
         const dates = Object.keys(data[periodType]).filter(k => !k.startsWith('_')).sort();
-        return dates.map(date => {
+        // Collect all unique group names across all periods
+        const groupSet = new Set();
+        const periodGroups = {};
+        dates.forEach(date => {
           const pd = data[periodType][date];
-          const entries = Object.entries(pd).filter(([k]) => !k.startsWith('_'));
+          const dimData = pd?.[dim] || {};
+          const groups = {};
+          Object.entries(dimData).filter(([k]) => !k.startsWith('_')).forEach(([name, v]) => {
+            groupSet.add(name);
+            groups[name] = v;
+          });
+          periodGroups[date] = groups;
+        });
+        const groups = [...groupSet];
+        const years = dates.map(d => d.slice(0,4));
+        // Build series data per group (stacked bars)
+        const series = groups.map(groupName => ({
+          name: groupName,
+          data: dates.map(date => {
+            const g = periodGroups[date]?.[groupName];
+            return g?.overseasRev || 0;
+          })
+        }));
+        // Build ratio line (total overseas / total revenue)
+        const ratioLine = dates.map(date => {
+          const pd = data[periodType][date];
+          const dimData = pd?.[dim] || {};
+          const entries = Object.entries(dimData).filter(([k]) => !k.startsWith('_'));
           const totalOverseas = entries.reduce((s, [,v]) => s + (v.overseasRev || 0), 0);
           const totalRev = entries.reduce((s, [,v]) => s + (v.totalRev || 0), 0);
-          const ratio = totalRev > 0 ? totalOverseas / totalRev * 100 : 0;
-          return { date, year: date.slice(0,4), totalOverseas, totalRev, ratio };
+          return totalRev > 0 ? +(totalOverseas / totalRev * 100).toFixed(1) : 0;
         });
-      }, [data, periodType]);
+        return { years, groups, series, ratioLine };
+      }, [data, periodType, dim]);
 
-      // Render ECharts trend
+      // Render ECharts trend — stacked bars per group + ratio line
       useEffect(() => {
-        if (!chartRef.current || !trendData.length) return;
+        if (!chartRef.current || !trendData.years?.length) return;
         if (!chartInst.current) {
           chartInst.current = echarts.init(chartRef.current, null, { renderer: 'canvas' });
         }
-        const years = trendData.map(d => d.year);
+        const colors = ['#d4af37','#4fc3f7','#e74c3c','#27ae60','#9b59b6','#f39c12','#1abc9c','#e67e22',
+                        '#3498db','#e91e63','#00bcd4','#ff9800','#8bc34a','#673ab7','#cddc39'];
+        const barSeries = trendData.series.map((s, i) => ({
+          name: s.name, type: 'bar', stack: 'total',
+          data: s.data,
+          itemStyle: { color: colors[i % colors.length], borderRadius: i === trendData.series.length - 1 ? [3,3,0,0] : 0 },
+          barMaxWidth: 50,
+          emphasis: { focus: 'series' }
+        }));
         chartInst.current.setOption({
           tooltip: { trigger: 'axis', backgroundColor: '#111118', borderColor: '#1e1e2a',
-            textStyle: { color: '#e8d49b', fontFamily: 'JetBrains Mono' } },
-          grid: { left: 60, right: 60, top: 30, bottom: 30 },
-          xAxis: { type: 'category', data: years,
+            textStyle: { color: '#e8d49b', fontFamily: 'JetBrains Mono', fontSize: 11 },
+            formatter: function(params) {
+              let html = '<div style="font-weight:bold;margin-bottom:4px">' + params[0].axisValue + '</div>';
+              let total = 0;
+              params.forEach(function(p) {
+                if (p.seriesType === 'bar') {
+                  total += p.value;
+                  var val = p.value >= 1e12 ? (p.value/1e12).toFixed(2)+'万亿' : p.value >= 1e8 ? (p.value/1e8).toFixed(0)+'亿' : (p.value/1e4).toFixed(0)+'万';
+                  html += '<div style="display:flex;justify-content:space-between;gap:16px"><span>' + p.marker + p.seriesName + '</span><span style="font-weight:bold">' + val + '</span></div>';
+                }
+              });
+              var totalStr = total >= 1e12 ? (total/1e12).toFixed(2)+'万亿' : (total/1e8).toFixed(0)+'亿';
+              html += '<div style="border-top:1px solid #1e1e2a;margin-top:4px;padding-top:4px;display:flex;justify-content:space-between"><span>合计</span><span style="font-weight:bold;color:#d4af37">' + totalStr + '</span></div>';
+              var ratioParam = params.find(function(p) { return p.seriesType === 'line'; });
+              if (ratioParam) html += '<div style="color:#4fc3f7">海外占比: ' + ratioParam.value + '%</div>';
+              return html;
+            }
+          },
+          legend: { type: 'scroll', bottom: 0, textStyle: { color: '#8a8a6a', fontSize: 10 },
+            pageTextStyle: { color: '#8a8a6a' }, pageIconColor: '#d4af37',
+            data: [...trendData.series.map(s => s.name), '海外占比'] },
+          grid: { left: 60, right: 60, top: 30, bottom: trendData.groups.length > 6 ? 60 : 40 },
+          xAxis: { type: 'category', data: trendData.years,
             axisLine: { lineStyle: { color: '#1e1e2a' } },
             axisLabel: { color: '#8a8a6a', fontFamily: 'JetBrains Mono' } },
           yAxis: [
-            { type: 'value', name: '海外营收(亿)', nameTextStyle: { color: '#8a8a6a', fontSize: 10 },
+            { type: 'value', name: '海外营收', nameTextStyle: { color: '#8a8a6a', fontSize: 10 },
               axisLine: { show: false }, splitLine: { lineStyle: { color: '#1e1e2a' } },
-              axisLabel: { color: '#8a8a6a', formatter: v => (v/1e8).toFixed(0) + '亿',
+              axisLabel: { color: '#8a8a6a', formatter: function(v) { return v >= 1e12 ? (v/1e12).toFixed(1)+'万亿' : (v/1e8).toFixed(0)+'亿'; },
                 fontFamily: 'JetBrains Mono', fontSize: 10 } },
             { type: 'value', name: '占比(%)', nameTextStyle: { color: '#8a8a6a', fontSize: 10 },
               axisLine: { show: false }, splitLine: { show: false },
@@ -1242,13 +1295,12 @@
                 fontFamily: 'JetBrains Mono', fontSize: 10 } }
           ],
           series: [
-            { name: '海外营收', type: 'bar', data: trendData.map(d => d.totalOverseas),
-              itemStyle: { color: '#d4af37', borderRadius: [3,3,0,0] },
-              barMaxWidth: 40 },
-            { name: '海外占比', type: 'line', yAxisIndex: 1, data: trendData.map(d => +d.ratio.toFixed(1)),
+            ...barSeries,
+            { name: '海外占比', type: 'line', yAxisIndex: 1, data: trendData.ratioLine,
               lineStyle: { color: '#4fc3f7', width: 2 },
               itemStyle: { color: '#4fc3f7' },
-              symbol: 'circle', symbolSize: 6 }
+              symbol: 'circle', symbolSize: 6,
+              z: 10 }
           ]
         }, true);
         return () => {};
@@ -1370,9 +1422,9 @@
           </div>
 
           {/* Trend Chart */}
-          {!sparse && trendData.length > 1 && (
+          {!sparse && trendData.years?.length > 1 && (
             <InfoCard title={`${PERIOD_LABELS[periodType]}海外营收趋势`}>
-              <div ref={chartRef} style={{ width: '100%', height: 280 }} />
+              <div ref={chartRef} style={{ width: '100%', height: 350 }} />
             </InfoCard>
           )}
 
