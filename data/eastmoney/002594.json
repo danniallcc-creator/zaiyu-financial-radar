@@ -1,6 +1,7 @@
 {
   "code": "002594",
-  "fetchTime": "2026-06-18T15:26:43.773755",
+  "name": "比亚迪",
+  "fetchTime": "2026-06-18T17:28:13.089501",
   "profile": {
     "name": "比亚迪",
     "code": "002594",
@@ -17,25 +18,6 @@
     "setupDate": "",
     "listDate": "",
     "securityType": "深交所主板A股"
-  },
-  "name": "比亚迪",
-  "quote": {
-    "code": "002594",
-    "name": "比亚迪",
-    "price": 88.13,
-    "change": 0.66,
-    "changePct": 0.75,
-    "open": 89.33,
-    "high": 86.08,
-    "low": 87.0,
-    "prevClose": 87.47,
-    "volume": 435790,
-    "amount": 3820166909.92,
-    "totalMV": 803498621403.45,
-    "circMV": 307275247755.0,
-    "pe": 49.18,
-    "pb": 3.46,
-    "turnover": 1.25
   },
   "financial": [
     {
@@ -2575,6 +2557,122 @@
         "ratio": 0.06536555,
         "navRatio": 15.75
       }
+    ],
+    "dividends": [
+      {
+        "noticeDate": "2026-03-28",
+        "reportDate": "2025-12-31",
+        "bonusPer10": 3.58,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "股东大会决议通过"
+      },
+      {
+        "noticeDate": "2025-03-25",
+        "reportDate": "2024-12-31",
+        "bonusPer10": 39.74,
+        "stockBonusPer10": 20,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2024-03-27",
+        "reportDate": "2023-12-31",
+        "bonusPer10": 30.977722,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2023-03-29",
+        "reportDate": "2022-12-31",
+        "bonusPer10": 11.42,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2022-03-30",
+        "reportDate": "2021-12-31",
+        "bonusPer10": 1.05,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2021-03-30",
+        "reportDate": "2020-12-31",
+        "bonusPer10": 1.48,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2020-04-22",
+        "reportDate": "2019-12-31",
+        "bonusPer10": 0.6,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2019-03-28",
+        "reportDate": "2018-12-31",
+        "bonusPer10": 2.04,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2018-03-28",
+        "reportDate": "2017-12-31",
+        "bonusPer10": 1.41,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2017-03-29",
+        "reportDate": "2016-12-31",
+        "bonusPer10": 1.78,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2016-08-29",
+        "reportDate": "2016-06-30",
+        "bonusPer10": 3.67,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2014-03-20",
+        "reportDate": "2013-12-31",
+        "bonusPer10": 0.5,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      }
     ]
+  },
+  "quote": {
+    "code": "002594",
+    "name": "比亚迪",
+    "price": 88.13,
+    "change": 0.66,
+    "changePct": 0.75,
+    "open": 89.33,
+    "high": 86.08,
+    "low": 87.0,
+    "prevClose": 87.47,
+    "volume": 435790,
+    "amount": 3820166909.92,
+    "totalMV": 803498621403.45,
+    "circMV": 307275247755.0,
+    "pe": 49.18,
+    "pb": 3.46,
+    "turnover": 1.25
   }
 }

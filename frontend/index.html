@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <title>A股财务雷达</title>
   <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
   <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
@@ -39,6 +39,15 @@
     ::-webkit-scrollbar-thumb { background: #2a2a3a; border-radius: 3px; }
     table { border-collapse: collapse; }
     th { position: sticky; top: 0; z-index: 1; }
+    .overflow-x-auto { -webkit-overflow-scrolling: touch; }
+    @media (max-width: 768px) {
+      .overflow-x-auto table { min-width: 600px; }
+      th, td { padding: 6px 8px !important; font-size: 10px !important; }
+    }
+    button { -webkit-tap-highlight-color: transparent; user-select: none; }
+    input { font-size: 16px !important; } /* prevent iOS zoom on focus */
+    .scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
+    .scrollbar-hide::-webkit-scrollbar { display: none; }
   </style>
 </head>
 <body>
@@ -88,6 +97,8 @@
     // ─── Data Path Detection ─────────────────────────────────────────────────
     // Auto-detect: if served from project root, data is at data/; if from frontend/, use ../data/
     const DATA_BASE = window.location.pathname.includes('/frontend/') ? '../data' : 'data';
+    const API_BASE = ''; // Worker API base (empty = same origin; only works with CF Workers, not GH Pages)
+
     const fetchData = async (code) => {
       const [emResult, cnResult, indResult] = await Promise.allSettled([
         fetch(`${DATA_BASE}/eastmoney/${code}.json`).then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }),
@@ -98,6 +109,15 @@
       const data = emResult.value;
       if (cnResult.status === 'fulfilled') data.cninfo = cnResult.value;
       if (indResult.status === 'fulfilled') data.industryPeers = indResult.value;
+
+      // Try fetching real-time quote from Worker API (non-blocking)
+      if (!data.quote || !data.quote.price) {
+        try {
+          const qResp = await fetch(`${API_BASE}/quote?code=${code}`).then(r => r.ok ? r.json() : null);
+          if (qResp && qResp.price) data.quote = qResp;
+        } catch (_) { /* quote unavailable, not critical */ }
+      }
+
       return data;
     };
 
@@ -172,8 +192,14 @@
 
       const handleKey = (e) => { if (e.key === 'Enter') handleSearch(); };
 
+      const QUICK_STOCKS = [
+        ['600519', '茅台'], ['000858', '五粮液'], ['000001', '平安银行'],
+        ['601318', '中国平安'], ['600036', '招商银行'], ['300750', '宁德时代'],
+        ['002594', '比亚迪'], ['600900', '长江电力'],
+      ];
+
       return (
-        <div className="flex flex-col gap-2">
+        <div className="flex flex-col gap-2 w-full md:w-auto">
           <div className="flex items-center gap-3">
             <input
               type="text"
@@ -181,17 +207,25 @@
               onChange={e => setCode(e.target.value)}
               onKeyDown={handleKey}
               placeholder="输入股票代码，如 600519"
-              className="bg-card border border-border rounded px-4 py-2 text-txt text-sm font-mono outline-none focus:border-gold w-64"
+              className="bg-card border border-border rounded px-3 py-2 text-txt text-sm font-mono outline-none focus:border-gold w-full md:w-64"
             />
             <button
               onClick={handleSearch}
               disabled={loading}
-              className="bg-gold/10 border border-gold text-gold px-5 py-2 rounded text-sm font-bold hover:bg-gold/20 transition disabled:opacity-50"
+              className="bg-gold/10 border border-gold text-gold px-5 py-2 rounded text-sm font-bold hover:bg-gold/20 transition disabled:opacity-50 whitespace-nowrap"
             >
               {loading ? '加载中...' : '查询'}
             </button>
           </div>
           {error && <div className="text-red-400 text-xs">{error}</div>}
+          <div className="flex flex-wrap gap-1.5">
+            {QUICK_STOCKS.map(([c, n]) => (
+              <button key={c} onClick={() => { setCode(c); fetchData(c).then(onLoad).catch(() => {}); }}
+                className="text-[10px] px-2 py-1 rounded border border-border text-txt-dim hover:text-gold hover:border-gold/40 transition">
+                {n}
+              </button>
+            ))}
+          </div>
         </div>
       );
     };
@@ -200,12 +234,12 @@
     const TABS = ['数据透视', '财务质量', '企业表达', '股东与分红', '横向对比'];
 
     const TabBar = ({ active, onChange }) => (
-      <div className="flex gap-1 border-b border-border pb-0 overflow-x-auto">
+      <div className="flex gap-0.5 border-b border-border pb-0 overflow-x-auto scrollbar-hide">
         {TABS.map((t, i) => (
           <button
             key={i}
             onClick={() => onChange(i)}
-            className={`px-4 py-2 text-xs font-bold whitespace-nowrap transition border-b-2 ${
+            className={`px-3 md:px-4 py-2.5 text-xs font-bold whitespace-nowrap transition border-b-2 min-h-[44px] flex items-center ${
               active === i
                 ? 'border-gold text-gold'
                 : 'border-transparent text-txt-dim hover:text-txt'
@@ -390,6 +424,13 @@
 
           {/* 现金流三维分析 */}
           <InfoCard title="现金流三维分析 (年报)">
+            {annualCash.length === 0 ? (
+              <div className="text-xs text-txt-dim leading-relaxed">
+                该公司属于金融类(银行/保险/券商)，采用特殊会计准则，资产负债表和现金流量表数据暂不可用。
+                金融类公司的现金流分析可参考"核心财务指标"中的经营现金流/收入比。
+              </div>
+            ) : (
+              <>
             <MetricTable
               headers={['年度', '经营现金流', '投资现金流', '筹资现金流', '自由现金流(估算)', '经营/收入比']}
               rows={annualCash.slice(0, 5).map(c => {
@@ -413,10 +454,19 @@
             <div className="mt-2 text-[10px] text-txt-dim">
               自由现金流(估算) = 经营现金流 + 投资现金流 (因缺少资本开支明细，此为粗估)
             </div>
+              </>
+            )}
           </InfoCard>
 
           {/* 资产负债健康度 */}
           <InfoCard title="资产负债健康度">
+            {annualBal.length === 0 ? (
+              <div className="text-xs text-txt-dim leading-relaxed">
+                该公司属于金融类(银行/保险/券商)，采用特殊资产负债表格式，常规资产负债数据暂不可用。
+                可关注"核心财务指标"中的资产负债率和ROE等综合指标。
+              </div>
+            ) : (
+              <>
             <MetricTable
               headers={['年度', '资产负债率', '流动比率', '速动比率', '总资产', '总负债', '商誉/总资产']}
               rows={annualBal.slice(0, 5).map(b => {
@@ -434,6 +484,8 @@
                 ];
               })}
             />
+              </>
+            )}
           </InfoCard>
 
           {/* 费用率分析 */}
@@ -677,17 +729,19 @@
           <InfoCard title="分红记录">
             {dividends && dividends.length > 0 ? (
               <MetricTable
-                headers={['年度', '分红方案', '除权日', '每股红利']}
+                headers={['报告期', '每10股红利(元)', '送股比例', '转增比例', '状态', '公告日']}
                 rows={dividends.map(d => [
-                  { v: d.year || d.reportDate || '-', cls: 'text-gold-dark' },
-                  { v: d.plan || d.dividendDesc || '-' },
-                  { v: d.exDate || '-' },
-                  { v: d.perShare != null ? d.perShare.toFixed(2) : '-' },
+                  { v: d.reportDate?.slice(0, 10) || '-', cls: 'text-gold-dark' },
+                  { v: d.bonusPer10 != null ? Number(d.bonusPer10).toFixed(2) : '-' },
+                  { v: d.stockBonusPer10 != null ? Number(d.stockBonusPer10).toFixed(2) : '-' },
+                  { v: d.convertPer10 != null ? Number(d.convertPer10).toFixed(2) : '-' },
+                  { v: d.status || '-' },
+                  { v: (d.noticeDate || '').slice(0, 10) || '-', cls: 'text-txt-dim' },
                 ])}
               />
             ) : (
               <div className="text-xs text-txt-dim">
-                暂无分红数据。ETL 尚未抓取分红明细，后续将从东方财富分红接口补充。
+                暂无分红数据。
               </div>
             )}
           </InfoCard>
@@ -818,7 +872,7 @@
             {data ? (
               <>
                 {/* Stock header */}
-                <div className="flex items-baseline gap-3 mb-4">
+                <div className="flex flex-wrap items-baseline gap-x-3 gap-y-1 mb-4">
                   <span className="text-gold font-bold text-xl">{data.profile?.name || data.name}</span>
                   <span className="text-txt-dim text-sm">{code}</span>
                   {data.quote && (
@@ -831,9 +885,9 @@
                       </span>
                     </>
                   )}
-                  <span className="text-txt-dim text-[10px] ml-auto">
-                    数据获取: {data.fetchTime ? new Date(data.fetchTime).toLocaleString('zh-CN') : '-'}
-                  </span>
+                </div>
+                <div className="text-txt-dim text-[10px] mb-2">
+                  数据获取: {data.fetchTime ? new Date(data.fetchTime).toLocaleString('zh-CN') : '-'}
                 </div>
 
                 <TabBar active={tab} onChange={setTab} />
@@ -856,7 +910,7 @@
           </main>
 
           {/* Footer */}
-          <footer className="border-t border-border mt-8 px-4 py-3">
+          <footer className="border-t border-border mt-8 px-4 py-3" style={{ paddingBottom: 'max(12px, env(safe-area-inset-bottom))' }}>
             <div className="max-w-6xl mx-auto text-[10px] text-txt-dim text-center">
               A股财务雷达 / 数据来源: 东方财富 / 仅供研究参考，不构成投资建议
             </div>

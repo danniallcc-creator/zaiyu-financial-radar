@@ -1,6 +1,7 @@
 {
   "code": "600519",
-  "fetchTime": "2026-06-18T15:26:00.148326",
+  "name": "贵州茅台",
+  "fetchTime": "2026-06-18T17:27:17.095835",
   "profile": {
     "name": "贵州茅台",
     "code": "600519",
@@ -17,25 +18,6 @@
     "setupDate": "",
     "listDate": "",
     "securityType": "上交所主板A股"
-  },
-  "name": "贵州茅台",
-  "quote": {
-    "code": "600519",
-    "name": "贵州茅台",
-    "price": 1215.0,
-    "change": -25.0,
-    "changePct": -2.02,
-    "open": 1238.87,
-    "high": 1211.22,
-    "low": 1235.0,
-    "prevClose": 1240.0,
-    "volume": 57472,
-    "amount": 7016713941.0,
-    "totalMV": 1518849145215.0,
-    "circMV": 1518849145215.0,
-    "pe": 13.94,
-    "pb": 5.61,
-    "turnover": 0.46
   },
   "financial": [
     {
@@ -2569,6 +2551,146 @@
         "ratio": 0.07263608,
         "navRatio": 9.93
       }
+    ],
+    "dividends": [
+      {
+        "noticeDate": "2026-04-17",
+        "reportDate": "2026-06-30",
+        "bonusPer10": null,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "预披露"
+      },
+      {
+        "noticeDate": "2026-04-17",
+        "reportDate": "2025-12-31",
+        "bonusPer10": 280.2423,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "股东大会决议通过"
+      },
+      {
+        "noticeDate": "2025-11-06",
+        "reportDate": "2025-09-30",
+        "bonusPer10": 239.57,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2025-04-03",
+        "reportDate": "2024-12-31",
+        "bonusPer10": 276.73,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2024-11-09",
+        "reportDate": "2024-09-30",
+        "bonusPer10": 238.82,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2024-04-03",
+        "reportDate": "2023-12-31",
+        "bonusPer10": 308.76,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2023-03-31",
+        "reportDate": "2022-12-31",
+        "bonusPer10": 259.11,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2022-03-31",
+        "reportDate": "2021-12-31",
+        "bonusPer10": 216.75,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2021-03-31",
+        "reportDate": "2020-12-31",
+        "bonusPer10": 192.93,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2020-04-22",
+        "reportDate": "2019-12-31",
+        "bonusPer10": 170.25,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2019-03-29",
+        "reportDate": "2018-12-31",
+        "bonusPer10": 145.39,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2018-03-28",
+        "reportDate": "2017-12-31",
+        "bonusPer10": 109.99,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2017-04-15",
+        "reportDate": "2016-12-31",
+        "bonusPer10": 67.87,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2016-03-24",
+        "reportDate": "2015-12-31",
+        "bonusPer10": 61.71,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2015-04-21",
+        "reportDate": "2014-12-31",
+        "bonusPer10": 43.74,
+        "stockBonusPer10": 1,
+        "convertPer10": null,
+        "status": "实施分配"
+      }
     ]
+  },
+  "quote": {
+    "code": "600519",
+    "name": "贵州茅台",
+    "price": 1215.0,
+    "change": -25.0,
+    "changePct": -2.02,
+    "open": 1238.87,
+    "high": 1211.22,
+    "low": 1235.0,
+    "prevClose": 1240.0,
+    "volume": 57472,
+    "amount": 7016713941.0,
+    "totalMV": 1518849145215.0,
+    "circMV": 1518849145215.0,
+    "pe": 13.94,
+    "pb": 5.61,
+    "turnover": 0.46
   }
 }

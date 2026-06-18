@@ -1,6 +1,7 @@
 {
   "code": "000858",
-  "fetchTime": "2026-06-18T15:26:04.201101",
+  "name": "五粮液",
+  "fetchTime": "2026-06-18T17:31:33.389676",
   "profile": {
     "name": "五粮液",
     "code": "000858",
@@ -17,25 +18,6 @@
     "setupDate": "",
     "listDate": "",
     "securityType": "深交所主板A股"
-  },
-  "name": "五粮液",
-  "quote": {
-    "code": "000858",
-    "name": "五 粮 液",
-    "price": 75.85,
-    "change": -1.64,
-    "changePct": -2.12,
-    "open": 77.36,
-    "high": 75.85,
-    "low": 77.28,
-    "prevClose": 77.49,
-    "volume": 326843,
-    "amount": 2499475187.41,
-    "totalMV": 294419967179.25,
-    "circMV": 294412790707.35,
-    "pe": 9.13,
-    "pb": 2.3,
-    "turnover": 0.84
   },
   "financial": [
     {
@@ -2575,6 +2557,146 @@
         "ratio": 0.10231934,
         "navRatio": 13.97
       }
+    ],
+    "dividends": [
+      {
+        "noticeDate": "2026-04-30",
+        "reportDate": "2025-12-31",
+        "bonusPer10": 25.78,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "股东大会决议通过"
+      },
+      {
+        "noticeDate": "2025-10-31",
+        "reportDate": "2025-09-30",
+        "bonusPer10": 25.78,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2025-04-26",
+        "reportDate": "2024-12-31",
+        "bonusPer10": 31.69,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2024-11-29",
+        "reportDate": "2024-09-30",
+        "bonusPer10": 25.76,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2024-04-29",
+        "reportDate": "2023-12-31",
+        "bonusPer10": 46.7,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2023-04-29",
+        "reportDate": "2022-12-31",
+        "bonusPer10": 37.82,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2022-04-29",
+        "reportDate": "2021-12-31",
+        "bonusPer10": 30.23,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2021-04-28",
+        "reportDate": "2020-12-31",
+        "bonusPer10": 25.8,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2020-04-28",
+        "reportDate": "2019-12-31",
+        "bonusPer10": 22,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2019-03-28",
+        "reportDate": "2018-12-31",
+        "bonusPer10": 17,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2018-04-28",
+        "reportDate": "2017-12-31",
+        "bonusPer10": 13,
+        "stockBonusPer10": 0,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2017-03-31",
+        "reportDate": "2016-12-31",
+        "bonusPer10": 9,
+        "stockBonusPer10": 0,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2016-03-28",
+        "reportDate": "2015-12-31",
+        "bonusPer10": 8,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2015-04-17",
+        "reportDate": "2014-12-31",
+        "bonusPer10": 6,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2014-04-18",
+        "reportDate": "2013-12-31",
+        "bonusPer10": 7,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      }
     ]
+  },
+  "quote": {
+    "code": "000858",
+    "name": "五 粮 液",
+    "price": 75.85,
+    "change": -1.64,
+    "changePct": -2.12,
+    "open": 77.36,
+    "high": 75.85,
+    "low": 77.28,
+    "prevClose": 77.49,
+    "volume": 326843,
+    "amount": 2499475187.41,
+    "totalMV": 294419967179.25,
+    "circMV": 294412790707.35,
+    "pe": 9.13,
+    "pb": 2.3,
+    "turnover": 0.84
   }
 }

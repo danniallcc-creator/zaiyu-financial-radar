@@ -1,6 +1,7 @@
 {
   "code": "601899",
-  "fetchTime": "2026-06-18T15:26:47.757142",
+  "name": "紫金矿业",
+  "fetchTime": "2026-06-18T17:27:35.106530",
   "profile": {
     "name": "紫金矿业",
     "code": "601899",
@@ -17,25 +18,6 @@
     "setupDate": "",
     "listDate": "",
     "securityType": "上交所主板A股"
-  },
-  "name": "紫金矿业",
-  "quote": {
-    "code": "601899",
-    "name": "紫金矿业",
-    "price": 29.69,
-    "change": -0.74,
-    "changePct": -2.43,
-    "open": 30.98,
-    "high": 29.28,
-    "low": 29.96,
-    "prevClose": 30.43,
-    "volume": 3620675,
-    "amount": 10845890995.0,
-    "totalMV": 789478317127.18,
-    "circMV": 611667238326.6,
-    "pe": 9.83,
-    "pb": 4.0,
-    "turnover": 1.76
   },
   "financial": [
     {
@@ -2581,6 +2563,146 @@
         "ratio": 0.16506061,
         "navRatio": 7.81
       }
+    ],
+    "dividends": [
+      {
+        "noticeDate": "2026-03-21",
+        "reportDate": "2026-06-30",
+        "bonusPer10": null,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "预披露"
+      },
+      {
+        "noticeDate": "2026-03-21",
+        "reportDate": "2025-12-31",
+        "bonusPer10": 3.8,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "股东大会决议通过"
+      },
+      {
+        "noticeDate": "2025-08-27",
+        "reportDate": "2025-06-30",
+        "bonusPer10": 2.2,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2025-03-22",
+        "reportDate": "2024-12-31",
+        "bonusPer10": 2.8,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2024-07-20",
+        "reportDate": "2024-06-30",
+        "bonusPer10": 1,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2024-03-23",
+        "reportDate": "2023-12-31",
+        "bonusPer10": 2,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2023-08-26",
+        "reportDate": "2023-06-30",
+        "bonusPer10": 0.5,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2023-03-25",
+        "reportDate": "2022-12-31",
+        "bonusPer10": 2,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2022-03-19",
+        "reportDate": "2021-12-31",
+        "bonusPer10": 2,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2021-03-20",
+        "reportDate": "2020-12-31",
+        "bonusPer10": 1.2,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2020-03-21",
+        "reportDate": "2019-12-31",
+        "bonusPer10": 1,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2019-03-23",
+        "reportDate": "2018-12-31",
+        "bonusPer10": 1,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2018-03-24",
+        "reportDate": "2017-12-31",
+        "bonusPer10": 0.9,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2017-06-09",
+        "reportDate": "2016-12-31",
+        "bonusPer10": 0.6,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2016-04-30",
+        "reportDate": "2015-12-31",
+        "bonusPer10": 0.6,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      }
     ]
+  },
+  "quote": {
+    "code": "601899",
+    "name": "紫金矿业",
+    "price": 29.69,
+    "change": -0.74,
+    "changePct": -2.43,
+    "open": 30.98,
+    "high": 29.28,
+    "low": 29.96,
+    "prevClose": 30.43,
+    "volume": 3620675,
+    "amount": 10845890995.0,
+    "totalMV": 789478317127.18,
+    "circMV": 611667238326.6,
+    "pe": 9.83,
+    "pb": 4.0,
+    "turnover": 1.76
   }
 }

@@ -1,6 +1,7 @@
 {
   "code": "601318",
-  "fetchTime": "2026-06-18T15:26:28.995757",
+  "name": "中国平安",
+  "fetchTime": "2026-06-18T17:27:06.540028",
   "profile": {
     "name": "中国平安",
     "code": "601318",
@@ -17,25 +18,6 @@
     "setupDate": "",
     "listDate": "",
     "securityType": "上交所主板A股"
-  },
-  "name": "中国平安",
-  "quote": {
-    "code": "601318",
-    "name": "中国平安",
-    "price": 49.38,
-    "change": -3.38,
-    "changePct": -6.41,
-    "open": 52.64,
-    "high": 49.37,
-    "low": 52.59,
-    "prevClose": 52.76,
-    "volume": 2178321,
-    "amount": 10954978558.0,
-    "totalMV": 894155361713.1001,
-    "circMV": 526394013798.54004,
-    "pe": 8.93,
-    "pb": 0.91,
-    "turnover": 2.04
   },
   "financial": [
     {
@@ -1633,6 +1615,146 @@
         "ratio": 0.14122995,
         "navRatio": 5.83
       }
+    ],
+    "dividends": [
+      {
+        "noticeDate": "2026-03-27",
+        "reportDate": "2025-12-31",
+        "bonusPer10": 17.5,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2025-08-27",
+        "reportDate": "2025-06-30",
+        "bonusPer10": 9.5,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2025-03-20",
+        "reportDate": "2024-12-31",
+        "bonusPer10": 16.2,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2024-08-23",
+        "reportDate": "2024-06-30",
+        "bonusPer10": 9.3,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2024-03-22",
+        "reportDate": "2023-12-31",
+        "bonusPer10": 15,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2023-08-30",
+        "reportDate": "2023-06-30",
+        "bonusPer10": 9.3,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2023-03-16",
+        "reportDate": "2022-12-31",
+        "bonusPer10": 15,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2022-08-24",
+        "reportDate": "2022-06-30",
+        "bonusPer10": 9.2,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2022-03-18",
+        "reportDate": "2021-12-31",
+        "bonusPer10": 15,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2021-08-27",
+        "reportDate": "2021-06-30",
+        "bonusPer10": 8.8,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2021-02-04",
+        "reportDate": "2020-12-31",
+        "bonusPer10": 14,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2020-08-28",
+        "reportDate": "2020-06-30",
+        "bonusPer10": 8,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2020-02-21",
+        "reportDate": "2019-12-31",
+        "bonusPer10": 13,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2019-08-16",
+        "reportDate": "2019-06-30",
+        "bonusPer10": 7.5,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2019-03-13",
+        "reportDate": "2018-12-31",
+        "bonusPer10": 11,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      }
     ]
+  },
+  "quote": {
+    "code": "601318",
+    "name": "中国平安",
+    "price": 49.38,
+    "change": -3.38,
+    "changePct": -6.41,
+    "open": 52.64,
+    "high": 49.37,
+    "low": 52.59,
+    "prevClose": 52.76,
+    "volume": 2178321,
+    "amount": 10954978558.0,
+    "totalMV": 894155361713.1001,
+    "circMV": 526394013798.54004,
+    "pe": 8.93,
+    "pb": 0.91,
+    "turnover": 2.04
   }
 }

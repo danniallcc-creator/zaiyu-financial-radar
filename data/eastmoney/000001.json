@@ -1,6 +1,7 @@
 {
   "code": "000001",
-  "fetchTime": "2026-06-18T15:26:08.034626",
+  "name": "平安银行",
+  "fetchTime": "2026-06-18T17:27:46.427545",
   "profile": {
     "name": "平安银行",
     "code": "000001",
@@ -17,25 +18,6 @@
     "setupDate": "",
     "listDate": "",
     "securityType": "深交所主板A股"
-  },
-  "name": "平安银行",
-  "quote": {
-    "code": "000001",
-    "name": "平安银行",
-    "price": 10.52,
-    "change": -0.26,
-    "changePct": -2.41,
-    "open": 10.77,
-    "high": 10.52,
-    "low": 10.74,
-    "prevClose": 10.78,
-    "volume": 1426893,
-    "amount": 1511009564.95,
-    "totalMV": 204150259442.96,
-    "circMV": 204146918869.56,
-    "pe": 3.51,
-    "pb": 0.45,
-    "turnover": 0.74
   },
   "financial": [
     {
@@ -1627,6 +1609,146 @@
         "ratio": 0.04554922,
         "navRatio": 4.58
       }
+    ],
+    "dividends": [
+      {
+        "noticeDate": "2026-03-21",
+        "reportDate": "2025-12-31",
+        "bonusPer10": 3.6,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2025-08-23",
+        "reportDate": "2025-06-30",
+        "bonusPer10": 2.36,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2025-03-15",
+        "reportDate": "2024-12-31",
+        "bonusPer10": 3.62,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2024-08-16",
+        "reportDate": "2024-06-30",
+        "bonusPer10": 2.46,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2024-03-15",
+        "reportDate": "2023-12-31",
+        "bonusPer10": 7.19,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2023-03-09",
+        "reportDate": "2022-12-31",
+        "bonusPer10": 2.85,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2022-03-10",
+        "reportDate": "2021-12-31",
+        "bonusPer10": 2.28,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2021-02-02",
+        "reportDate": "2020-12-31",
+        "bonusPer10": 1.8,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2020-02-14",
+        "reportDate": "2019-12-31",
+        "bonusPer10": 2.18,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2019-03-07",
+        "reportDate": "2018-12-31",
+        "bonusPer10": 1.45,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2018-03-15",
+        "reportDate": "2017-12-31",
+        "bonusPer10": 1.36,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2017-03-17",
+        "reportDate": "2016-12-31",
+        "bonusPer10": 1.58,
+        "stockBonusPer10": null,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2016-03-10",
+        "reportDate": "2015-12-31",
+        "bonusPer10": 1.53,
+        "stockBonusPer10": 2,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2015-03-13",
+        "reportDate": "2014-12-31",
+        "bonusPer10": 1.74,
+        "stockBonusPer10": 2,
+        "convertPer10": null,
+        "status": "实施分配"
+      },
+      {
+        "noticeDate": "2014-03-07",
+        "reportDate": "2013-12-31",
+        "bonusPer10": 1.6,
+        "stockBonusPer10": 2,
+        "convertPer10": null,
+        "status": "实施分配"
+      }
     ]
+  },
+  "quote": {
+    "code": "000001",
+    "name": "平安银行",
+    "price": 10.52,
+    "change": -0.26,
+    "changePct": -2.41,
+    "open": 10.77,
+    "high": 10.52,
+    "low": 10.74,
+    "prevClose": 10.78,
+    "volume": 1426893,
+    "amount": 1511009564.95,
+    "totalMV": 204150259442.96,
+    "circMV": 204146918869.56,
+    "pe": 3.51,
+    "pb": 0.45,
+    "turnover": 0.74
   }
 }
