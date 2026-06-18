@@ -52,6 +52,10 @@ export default {
           result = { status: 'ok', time: new Date().toISOString() };
           break;
 
+        case path === '/api/market-overview':
+          result = await handleMarketOverview(env);
+          break;
+
         default:
           return new Response(JSON.stringify({ error: 'Not Found' }), {
             status: 404,
@@ -75,6 +79,35 @@ export default {
         status: 500,
         headers: { ...corsHeaders, 'Content-Type': 'application/json' }
       });
+    }
+  },
+
+  async scheduled(event, env, ctx) {
+    // 定时刷新市场概览数据缓存
+    // 仅在财报季 (1,4,7,8,10月) 执行增量更新
+    const month = new Date().getMonth() + 1;
+    const earningsMonths = [1, 4, 7, 8, 10];
+
+    if (!earningsMonths.includes(month)) {
+      console.log(`非财报季(${month}月)，跳过更新`);
+      return;
+    }
+
+    // 从 Pages 静态文件获取最新数据并存入 KV 缓存
+    try {
+      const pagesUrl = env.PAGES_URL || 'https://danniallcc-creator.github.io/zaiyu-financial-radar';
+      const resp = await fetch(`${pagesUrl}/data/market_overview.json`);
+      if (resp.ok) {
+        const data = await resp.json();
+        if (env.FIN_CACHE) {
+          await env.FIN_CACHE.put('market_overview', JSON.stringify(data), {
+            expirationTtl: 172800 // 48h TTL
+          });
+          console.log(`KV 缓存更新成功: ${data.meta?.generatedAt}`);
+        }
+      }
+    } catch (e) {
+      console.error('市场概览缓存更新失败:', e.message);
     }
   }
 };
@@ -423,4 +456,25 @@ async function handleIndustry(path, params) {
   }
 
   return { error: `unknown action: ${action}` };
+}
+
+/**
+ * 市场概览 API — 优先从 KV 缓存读取，回退到 Pages 静态文件
+ */
+async function handleMarketOverview(env) {
+  // 尝试 KV 缓存
+  if (env.FIN_CACHE) {
+    try {
+      const cached = await env.FIN_CACHE.get('market_overview', 'json');
+      if (cached) return cached;
+    } catch (e) { /* KV 不可用，继续 fallback */ }
+  }
+
+  // Fallback: 从 Pages 静态文件获取
+  const pagesUrl = env.PAGES_URL || 'https://danniallcc-creator.github.io/zaiyu-financial-radar';
+  const resp = await fetch(`${pagesUrl}/data/market_overview.json`);
+  if (!resp.ok) {
+    return { error: 'market_overview data not available', status: resp.status };
+  }
+  return await resp.json();
 }

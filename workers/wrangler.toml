@@ -2,7 +2,12 @@ name = "financial-radar-api"
 main = "index.js"
 compatibility_date = "2024-01-01"
 
-# 如果需要 KV 缓存，取消注释：
+# KV 缓存（用于 market_overview 数据的增量缓存）
+# 部署前运行: wrangler kv:namespace create FIN_CACHE
 # [[kv_namespaces]]
 # binding = "FIN_CACHE"
 # id = "your-kv-namespace-id"
+
+# 定时触发器：每工作日 UTC 3:00 (北京时间 11:00) 检查更新
+[triggers]
+crons = ["0 3 * * 1-5"]

@@ -4,3 +4,6 @@ node_modules/
 __pycache__/
 *.pyc
 data/pdfs/*.pdf
+data/overseas_raw/
+data/all_a_*.json
+data/sina_all_a.json

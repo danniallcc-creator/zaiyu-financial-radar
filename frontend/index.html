@@ -8,6 +8,7 @@
   <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
   <script src="https://unpkg.com/@babel/standalone@7/babel.min.js"></script>
   <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
   <script>
     tailwind.config = {
       theme: {
@@ -341,7 +342,7 @@
     };
 
     // ─── TabBar ─────────────────────────────────────────────────────────────
-    const TABS = ['数据透视', '财务质量', '企业表达', '股东与分红', '横向对比'];
+    const TABS = ['市场概览', '数据透视', '财务质量', '企业表达', '股东与分红', '横向对比'];
 
     const TabBar = ({ active, onChange }) => (
       <div className="flex gap-0.5 border-b border-border pb-0 overflow-x-auto scrollbar-hide">
@@ -1122,6 +1123,331 @@
       );
     };
 
+    // ─── Tab 0: MarketOverview (市场概览) ──────────────────────────────────
+    const MARKET_COLORS = ['#d4af37','#4fc3f7','#e74c3c','#27ae60','#9b59b6','#f39c12','#1abc9c','#e67e22'];
+    const PERIOD_LABELS = { annual: '年报', interim: '中报', q3: '三季报', q1: '一季报' };
+    const DIM_LABELS = { board: '板块', csrc: '证监会行业', shenwan: '申万一级' };
+
+    const MarketOverview = ({ onStockClick }) => {
+      const [data, setData] = useState(null);
+      const [dim, setDim] = useState('board');
+      const [periodType, setPeriodType] = useState('annual');
+      const [selectedPeriod, setSelectedPeriod] = useState(null);
+      const [sortKey, setSortKey] = useState('overseasRev');
+      const [sortAsc, setSortAsc] = useState(false);
+      const chartRef = React.useRef(null);
+      const chartInst = React.useRef(null);
+
+      useEffect(() => {
+        fetch(`${DATA_BASE}/market_overview.json`)
+          .then(r => r.ok ? r.json() : null)
+          .then(d => { if (d) setData(d); })
+          .catch(() => {});
+      }, []);
+
+      // Auto-select latest period
+      useEffect(() => {
+        if (!data) return;
+        const pd = data[periodType];
+        if (!pd) { setSelectedPeriod(null); return; }
+        const dates = Object.keys(pd).filter(k => !k.startsWith('_')).sort().reverse();
+        if (dates.length && (!selectedPeriod || !pd[selectedPeriod])) {
+          setSelectedPeriod(dates[0]);
+        }
+      }, [data, periodType]);
+
+      // Period data
+      const periodData = useMemo(() => {
+        if (!data || !selectedPeriod || !data[periodType]) return null;
+        return data[periodType][selectedPeriod] || null;
+      }, [data, periodType, selectedPeriod]);
+
+      const dimData = useMemo(() => {
+        if (!periodData) return {};
+        return periodData[dim] || {};
+      }, [periodData, dim]);
+
+      // Available periods for current type
+      const availPeriods = useMemo(() => {
+        if (!data || !data[periodType]) return [];
+        return Object.keys(data[periodType]).filter(k => !k.startsWith('_')).sort().reverse();
+      }, [data, periodType]);
+
+      // KPI summary
+      const kpi = useMemo(() => {
+        const entries = Object.entries(dimData).filter(([k]) => !k.startsWith('_'));
+        const totalOverseas = entries.reduce((s, [,v]) => s + (v.overseasRev || 0), 0);
+        const totalRev = entries.reduce((s, [,v]) => s + (v.totalRev || 0), 0);
+        const weightedYoy = entries.reduce((s, [,v]) => s + ((v.yoy || 0) * (v.overseasRev || 0)), 0);
+        const totalOverseasForYoy = entries.reduce((s, [,v]) => s + (v.yoy != null ? (v.overseasRev || 0) : 0), 0);
+        const avgYoy = totalOverseasForYoy > 0 ? weightedYoy / totalOverseasForYoy : null;
+        const coverage = periodData?._coverage || 0;
+        const ratio = totalRev > 0 ? totalOverseas / totalRev * 100 : 0;
+        return { totalOverseas, totalRev, ratio, avgYoy, coverage };
+      }, [dimData, periodData]);
+
+      // Sorted table rows
+      const tableRows = useMemo(() => {
+        return Object.entries(dimData)
+          .filter(([k]) => !k.startsWith('_'))
+          .map(([name, v]) => ({ name, ...v }))
+          .sort((a, b) => {
+            const va = a[sortKey] ?? -Infinity;
+            const vb = b[sortKey] ?? -Infinity;
+            return sortAsc ? va - vb : vb - va;
+          });
+      }, [dimData, sortKey, sortAsc]);
+
+      // 5-year trend for chart
+      const trendData = useMemo(() => {
+        if (!data || !data[periodType]) return [];
+        const dates = Object.keys(data[periodType]).filter(k => !k.startsWith('_')).sort();
+        return dates.map(date => {
+          const pd = data[periodType][date];
+          const entries = Object.entries(pd).filter(([k]) => !k.startsWith('_'));
+          const totalOverseas = entries.reduce((s, [,v]) => s + (v.overseasRev || 0), 0);
+          const totalRev = entries.reduce((s, [,v]) => s + (v.totalRev || 0), 0);
+          const ratio = totalRev > 0 ? totalOverseas / totalRev * 100 : 0;
+          return { date, year: date.slice(0,4), totalOverseas, totalRev, ratio };
+        });
+      }, [data, periodType]);
+
+      // Render ECharts trend
+      useEffect(() => {
+        if (!chartRef.current || !trendData.length) return;
+        if (!chartInst.current) {
+          chartInst.current = echarts.init(chartRef.current, null, { renderer: 'canvas' });
+        }
+        const years = trendData.map(d => d.year);
+        chartInst.current.setOption({
+          tooltip: { trigger: 'axis', backgroundColor: '#111118', borderColor: '#1e1e2a',
+            textStyle: { color: '#e8d49b', fontFamily: 'JetBrains Mono' } },
+          grid: { left: 60, right: 60, top: 30, bottom: 30 },
+          xAxis: { type: 'category', data: years,
+            axisLine: { lineStyle: { color: '#1e1e2a' } },
+            axisLabel: { color: '#8a8a6a', fontFamily: 'JetBrains Mono' } },
+          yAxis: [
+            { type: 'value', name: '海外营收(亿)', nameTextStyle: { color: '#8a8a6a', fontSize: 10 },
+              axisLine: { show: false }, splitLine: { lineStyle: { color: '#1e1e2a' } },
+              axisLabel: { color: '#8a8a6a', formatter: v => (v/1e8).toFixed(0) + '亿',
+                fontFamily: 'JetBrains Mono', fontSize: 10 } },
+            { type: 'value', name: '占比(%)', nameTextStyle: { color: '#8a8a6a', fontSize: 10 },
+              axisLine: { show: false }, splitLine: { show: false },
+              axisLabel: { color: '#4fc3f7', formatter: '{value}%',
+                fontFamily: 'JetBrains Mono', fontSize: 10 } }
+          ],
+          series: [
+            { name: '海外营收', type: 'bar', data: trendData.map(d => d.totalOverseas),
+              itemStyle: { color: '#d4af37', borderRadius: [3,3,0,0] },
+              barMaxWidth: 40 },
+            { name: '海外占比', type: 'line', yAxisIndex: 1, data: trendData.map(d => +d.ratio.toFixed(1)),
+              lineStyle: { color: '#4fc3f7', width: 2 },
+              itemStyle: { color: '#4fc3f7' },
+              symbol: 'circle', symbolSize: 6 }
+          ]
+        }, true);
+        return () => {};
+      }, [trendData]);
+
+      // Resize chart on window resize
+      useEffect(() => {
+        const handler = () => chartInst.current?.resize();
+        window.addEventListener('resize', handler);
+        return () => window.removeEventListener('resize', handler);
+      }, []);
+
+      const handleSort = (key) => {
+        if (sortKey === key) setSortAsc(!sortAsc);
+        else { setSortKey(key); setSortAsc(false); }
+      };
+
+      const fmtRev = (v) => {
+        if (v == null) return '-';
+        if (Math.abs(v) >= 1e12) return (v / 1e12).toFixed(2) + '万亿';
+        if (Math.abs(v) >= 1e8) return (v / 1e8).toFixed(0) + '亿';
+        if (Math.abs(v) >= 1e4) return (v / 1e4).toFixed(0) + '万';
+        return v.toFixed(0);
+      };
+
+      if (!data) return (
+        <div className="text-center py-20">
+          <div className="text-gold text-lg mb-2">加载市场数据中...</div>
+          <div className="text-txt-dim text-xs">首次加载可能需要数秒</div>
+        </div>
+      );
+
+      const sparse = periodData?._sparse;
+      const maxRatio = Math.max(...tableRows.map(r => r.ratio || 0), 1);
+
+      return (
+        <div className="space-y-5">
+          {/* Header */}
+          <div className="flex flex-col md:flex-row md:items-center justify-between gap-3">
+            <div>
+              <h2 className="text-gold font-bold text-base">A股出海营收全景</h2>
+              <div className="text-txt-dim text-[10px]">
+                {data.meta?.stockCount || 0} 只股票 · 数据来源: 东方财富 · 更新: {data.meta?.generatedAt?.slice(0,10) || '-'}
+              </div>
+            </div>
+            <div className="flex flex-wrap gap-1.5">
+              {Object.entries(DIM_LABELS).map(([k, v]) => (
+                <button key={k} onClick={() => setDim(k)}
+                  className={`px-3 py-1.5 text-[11px] rounded border transition ${
+                    dim === k ? 'border-gold text-gold bg-gold/10' : 'border-border text-txt-dim hover:text-txt hover:border-gold/40'
+                  }`}>{v}</button>
+              ))}
+            </div>
+          </div>
+
+          {/* Period selectors */}
+          <div className="flex flex-wrap items-center gap-2">
+            <div className="flex gap-1">
+              {Object.entries(PERIOD_LABELS).map(([k, v]) => (
+                <button key={k} onClick={() => { setPeriodType(k); setSelectedPeriod(null); }}
+                  className={`px-2.5 py-1 text-[10px] rounded transition ${
+                    periodType === k ? 'bg-gold/20 text-gold font-bold' : 'text-txt-dim hover:text-txt'
+                  }`}>{v}</button>
+              ))}
+            </div>
+            <div className="w-px h-4 bg-border mx-1" />
+            <div className="flex gap-1 flex-wrap">
+              {availPeriods.map(d => (
+                <button key={d} onClick={() => setSelectedPeriod(d)}
+                  className={`px-2 py-1 text-[10px] rounded font-mono transition ${
+                    selectedPeriod === d ? 'bg-gold/20 text-gold font-bold' : 'text-txt-dim hover:text-txt'
+                  }`}>{d.slice(0,4)}</button>
+              ))}
+            </div>
+          </div>
+
+          {/* Sparse warning */}
+          {sparse && (
+            <div className="border border-gold/30 rounded px-3 py-2 text-[11px] text-gold/80 bg-gold/5">
+              该报告期地区分拆数据覆盖不足（仅 {periodData?._coverage || 0} 只），建议参考年报/中报数据
+            </div>
+          )}
+
+          {/* KPI Cards */}
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-2">
+            <div className="bg-card border border-border rounded p-3">
+              <div className="text-txt-dim text-[10px] mb-1">海外营收合计</div>
+              <div className="text-gold font-bold text-lg">{fmtRev(kpi.totalOverseas)}</div>
+            </div>
+            <div className="bg-card border border-border rounded p-3">
+              <div className="text-txt-dim text-[10px] mb-1">海外占比</div>
+              <div className="text-gold font-bold text-lg">{kpi.ratio?.toFixed(1) || '-'}%</div>
+            </div>
+            <div className="bg-card border border-border rounded p-3">
+              <div className="text-txt-dim text-[10px] mb-1">同比增速</div>
+              <div className={`font-bold text-lg ${kpi.avgYoy >= 0 ? 'text-up' : 'text-down'}`}>
+                {kpi.avgYoy != null ? (kpi.avgYoy >= 0 ? '+' : '') + kpi.avgYoy.toFixed(1) + '%' : '-'}
+              </div>
+            </div>
+            <div className="bg-card border border-border rounded p-3">
+              <div className="text-txt-dim text-[10px] mb-1">覆盖股票</div>
+              <div className="text-gold font-bold text-lg">{kpi.coverage}<span className="text-txt-dim text-xs font-normal">只</span></div>
+            </div>
+          </div>
+
+          {/* Trend Chart */}
+          {!sparse && trendData.length > 1 && (
+            <InfoCard title={`${PERIOD_LABELS[periodType]}海外营收趋势`}>
+              <div ref={chartRef} style={{ width: '100%', height: 280 }} />
+            </InfoCard>
+          )}
+
+          {/* Industry Heatmap Table */}
+          {!sparse && tableRows.length > 0 && (
+            <InfoCard title={`${DIM_LABELS[dim]}出海数据 · ${selectedPeriod?.slice(0,4) || ''} ${PERIOD_LABELS[periodType]}`}>
+              <div className="overflow-x-auto">
+                <table className="w-full text-[11px]">
+                  <thead>
+                    <tr className="border-b border-border">
+                      <th className="text-left py-2 px-2 text-txt-dim font-medium bg-bg">{DIM_LABELS[dim]}</th>
+                      <th className="text-right py-2 px-2 text-txt-dim font-medium bg-bg cursor-pointer hover:text-gold"
+                        onClick={() => handleSort('overseasRev')}>
+                        海外收入 {sortKey==='overseasRev' ? (sortAsc?'↑':'↓') : ''}</th>
+                      <th className="text-right py-2 px-2 text-txt-dim font-medium bg-bg cursor-pointer hover:text-gold"
+                        onClick={() => handleSort('ratio')}>
+                        占比 {sortKey==='ratio' ? (sortAsc?'↑':'↓') : ''}</th>
+                      <th className="text-right py-2 px-2 text-txt-dim font-medium bg-bg cursor-pointer hover:text-gold"
+                        onClick={() => handleSort('yoy')}>
+                        同比 {sortKey==='yoy' ? (sortAsc?'↑':'↓') : ''}</th>
+                      <th className="text-right py-2 px-2 text-txt-dim font-medium bg-bg cursor-pointer hover:text-gold"
+                        onClick={() => handleSort('gm')}>
+                        毛利率 {sortKey==='gm' ? (sortAsc?'↑':'↓') : ''}</th>
+                      <th className="text-right py-2 px-2 text-txt-dim font-medium bg-bg cursor-pointer hover:text-gold"
+                        onClick={() => handleSort('n')}>
+                        公司数 {sortKey==='n' ? (sortAsc?'↑':'↓') : ''}</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {tableRows.map((r, i) => {
+                      const heatAlpha = r.ratio ? Math.min(r.ratio / maxRatio * 0.35, 0.35) : 0;
+                      return (
+                        <tr key={r.name} className={`border-b border-border/50 ${i % 2 ? 'bg-card/50' : ''}`}
+                          style={{ backgroundColor: `rgba(212,175,55,${heatAlpha})` }}>
+                          <td className="py-1.5 px-2 font-medium text-txt">{r.name}</td>
+                          <td className="py-1.5 px-2 text-right font-mono text-gold">{fmtRev(r.overseasRev)}</td>
+                          <td className="py-1.5 px-2 text-right font-mono">{r.ratio?.toFixed(1) || '-'}%</td>
+                          <td className={`py-1.5 px-2 text-right font-mono ${yoyColor(r.yoy)}`}>
+                            {r.yoy != null ? (r.yoy >= 0 ? '+' : '') + r.yoy.toFixed(1) + '%' : '-'}
+                          </td>
+                          <td className="py-1.5 px-2 text-right font-mono">{r.gm != null ? r.gm.toFixed(1) + '%' : '-'}</td>
+                          <td className="py-1.5 px-2 text-right text-txt-dim">{r.n}</td>
+                        </tr>
+                      );
+                    })}
+                  </tbody>
+                </table>
+              </div>
+            </InfoCard>
+          )}
+
+          {/* Top 100 Leaderboard */}
+          {data.topOverseas?.length > 0 && periodType === 'annual' && (
+            <InfoCard title={`出海营收 TOP 100 · ${data.topOverseas[0]?.overseasRev ? '最新年报' : ''}`}>
+              <div className="overflow-x-auto">
+                <table className="w-full text-[11px]">
+                  <thead>
+                    <tr className="border-b border-border">
+                      <th className="text-center py-2 px-1.5 text-txt-dim font-medium bg-bg w-8">#</th>
+                      <th className="text-left py-2 px-2 text-txt-dim font-medium bg-bg">公司</th>
+                      <th className="text-left py-2 px-2 text-txt-dim font-medium bg-bg">代码</th>
+                      <th className="text-left py-2 px-2 text-txt-dim font-medium bg-bg">行业</th>
+                      <th className="text-right py-2 px-2 text-txt-dim font-medium bg-bg">海外收入</th>
+                      <th className="text-right py-2 px-2 text-txt-dim font-medium bg-bg">占比</th>
+                      <th className="text-right py-2 px-2 text-txt-dim font-medium bg-bg">同比</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {data.topOverseas.map((s, i) => (
+                      <tr key={s.code} className={`border-b border-border/50 ${i % 2 ? 'bg-card/50' : ''} hover:bg-gold/5`}>
+                        <td className="py-1.5 px-1.5 text-center text-txt-dim font-mono">{i+1}</td>
+                        <td className="py-1.5 px-2">
+                          <button onClick={() => onStockClick?.(s.code)}
+                            className="text-gold hover:text-gold-light transition text-left">
+                            {s.name || s.code}
+                          </button>
+                        </td>
+                        <td className="py-1.5 px-2 font-mono text-txt-dim">{s.code}</td>
+                        <td className="py-1.5 px-2 text-txt-dim">{s.sw}</td>
+                        <td className="py-1.5 px-2 text-right font-mono text-gold">{fmtRev(s.overseasRev)}</td>
+                        <td className="py-1.5 px-2 text-right font-mono">{s.ratio?.toFixed(1) || '-'}%</td>
+                        <td className={`py-1.5 px-2 text-right font-mono ${yoyColor(s.yoy)}`}>
+                          {s.yoy != null ? (s.yoy >= 0 ? '+' : '') + s.yoy.toFixed(1) + '%' : '-'}
+                        </td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            </InfoCard>
+          )}
+        </div>
+      );
+    };
+
     // ─── App ────────────────────────────────────────────────────────────────
     const App = () => {
       const [data, setData] = useState(null);
@@ -1131,24 +1457,32 @@
       const handleLoad = useCallback((d) => {
         setData(d);
         setCode(d.code || d.profile?.code || '');
-        setTab(0);
+        setTab(1);
       }, []);
+
+      // Handle clicking a stock in MarketOverview leaderboard
+      const handleStockClick = useCallback((stockCode) => {
+        fetchData(stockCode)
+          .then(d => { if (d) handleLoad(d); })
+          .catch(() => {});
+      }, [handleLoad]);
 
       // Auto-load default stock
       useEffect(() => {
         fetchData('600519')
-          .then(d => { if (d) handleLoad(d); })
+          .then(d => { if (d) { setData(d); setCode(d.code || d.profile?.code || ''); } })
           .catch(() => {});
       }, []);
 
       const renderTab = () => {
+        if (tab === 0) return <MarketOverview onStockClick={handleStockClick} />;
         if (!data) return null;
         switch (tab) {
-          case 0: return <DataOverview data={data} />;
-          case 1: return <FinancialQuality data={data} />;
-          case 2: return <ManagementExpr data={data} />;
-          case 3: return <ShareholderDividend data={data} />;
-          case 4: return <IndustryCompare data={data} />;
+          case 1: return <DataOverview data={data} />;
+          case 2: return <FinancialQuality data={data} />;
+          case 3: return <ManagementExpr data={data} />;
+          case 4: return <ShareholderDividend data={data} />;
+          case 5: return <IndustryCompare data={data} />;
           default: return null;
         }
       };
@@ -1168,26 +1502,30 @@
 
           {/* Main */}
           <main className="max-w-6xl mx-auto px-4 py-4">
-            {data ? (
+            {tab === 0 || data ? (
               <>
-                {/* Stock header */}
-                <div className="flex flex-wrap items-baseline gap-x-3 gap-y-1 mb-4">
-                  <span className="text-gold font-bold text-xl">{data.profile?.name || data.name}</span>
-                  <span className="text-txt-dim text-sm">{code}</span>
-                  {data.quote && (
-                    <>
-                      <span className={`text-sm font-bold ${data.quote.changePct >= 0 ? 'text-up' : 'text-down'}`}>
-                        {data.quote.price?.toFixed(2)}
-                      </span>
-                      <span className={`text-xs ${data.quote.changePct >= 0 ? 'text-up' : 'text-down'}`}>
-                        {formatPct(data.quote.changePct)}
-                      </span>
-                    </>
-                  )}
-                </div>
-                <div className="text-txt-dim text-[10px] mb-2">
-                  数据获取: {data.fetchTime ? new Date(data.fetchTime).toLocaleString('zh-CN') : '-'}
-                </div>
+                {/* Stock header — only show when viewing stock detail tabs */}
+                {data && tab > 0 && (
+                  <>
+                    <div className="flex flex-wrap items-baseline gap-x-3 gap-y-1 mb-4">
+                      <span className="text-gold font-bold text-xl">{data.profile?.name || data.name}</span>
+                      <span className="text-txt-dim text-sm">{code}</span>
+                      {data.quote && (
+                        <>
+                          <span className={`text-sm font-bold ${data.quote.changePct >= 0 ? 'text-up' : 'text-down'}`}>
+                            {data.quote.price?.toFixed(2)}
+                          </span>
+                          <span className={`text-xs ${data.quote.changePct >= 0 ? 'text-up' : 'text-down'}`}>
+                            {formatPct(data.quote.changePct)}
+                          </span>
+                        </>
+                      )}
+                    </div>
+                    <div className="text-txt-dim text-[10px] mb-2">
+                      数据获取: {data.fetchTime ? new Date(data.fetchTime).toLocaleString('zh-CN') : '-'}
+                    </div>
+                  </>
+                )}
 
                 <TabBar active={tab} onChange={setTab} />
                 <div className="mt-4">
