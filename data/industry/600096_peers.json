@@ -1,0 +1,36 @@
+{
+  "code": "600096",
+  "industry": "基础化工-化肥农药-磷肥",
+  "peerCount": 2,
+  "fetchTime": "2026-06-18T17:54:38.447086",
+  "peers": [
+    {
+      "code": "600096",
+      "secucode": "600096.SH",
+      "name": "云天化",
+      "isCurrent": true,
+      "eps": 0.7816,
+      "bps": 14.291530106035,
+      "roe": 5.63,
+      "netProfitMargin": 12.5406046697,
+      "revenue": 11980782595.76,
+      "netProfit": 1424767712.69,
+      "ocfPerShare": 1.317397719407,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "600470",
+      "secucode": "600470.SH",
+      "name": "六国化工",
+      "isCurrent": false,
+      "eps": -0.17,
+      "bps": 2.921523780867,
+      "roe": -5.77,
+      "netProfitMargin": -6.5349893703,
+      "revenue": 1500871745.5,
+      "netProfit": -90379582.99,
+      "ocfPerShare": -0.44638022038,
+      "reportDate": "2026-03-31"
+    }
+  ]
+}

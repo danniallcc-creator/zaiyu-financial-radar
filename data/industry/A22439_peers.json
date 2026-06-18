@@ -1,0 +1,22 @@
+{
+  "code": "A22439",
+  "industry": "金融-银行",
+  "peerCount": 1,
+  "fetchTime": "2026-06-18T17:56:10.034437",
+  "peers": [
+    {
+      "code": "A22439",
+      "secucode": "A22439.SH",
+      "name": "湖北银行",
+      "isCurrent": true,
+      "eps": null,
+      "bps": 4.541072319374,
+      "roe": null,
+      "netProfitMargin": 31.2799922187,
+      "revenue": 10270789000,
+      "netProfit": 3212702000,
+      "ocfPerShare": 4.617486297575,
+      "reportDate": "2025-12-31"
+    }
+  ]
+}

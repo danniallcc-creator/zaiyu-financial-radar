@@ -1,0 +1,36 @@
+{
+  "code": "601766",
+  "industry": "交运设备-铁路设备-铁路车辆及动车组",
+  "peerCount": 2,
+  "fetchTime": "2026-06-18T17:53:06.127636",
+  "peers": [
+    {
+      "code": "601766",
+      "secucode": "601766.SH",
+      "name": "中国中车",
+      "isCurrent": true,
+      "eps": 0.12,
+      "bps": 6.120571950165,
+      "roe": 1.94,
+      "netProfitMargin": 7.5109576052,
+      "revenue": 53818557000,
+      "netProfit": 3378321000,
+      "ocfPerShare": -0.316544062511,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "601299",
+      "secucode": "601299.SH",
+      "name": "中国北车",
+      "isCurrent": false,
+      "eps": 0.08,
+      "bps": 4.063751225552,
+      "roe": 2.04,
+      "netProfitMargin": 5.9693461589,
+      "revenue": 17430703000,
+      "netProfit": 1007532000,
+      "ocfPerShare": -0.197005003352,
+      "reportDate": "2015-03-31"
+    }
+  ]
+}

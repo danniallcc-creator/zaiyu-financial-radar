@@ -1,0 +1,78 @@
+{
+  "code": "600009",
+  "industry": "交通运输-航空机场-机场",
+  "peerCount": 5,
+  "fetchTime": "2026-06-18T17:53:20.144280",
+  "peers": [
+    {
+      "code": "600009",
+      "secucode": "600009.SH",
+      "name": "上海机场",
+      "isCurrent": true,
+      "eps": 0.23,
+      "bps": 17.331325012869,
+      "roe": 1.35,
+      "netProfitMargin": 20.0724753921,
+      "revenue": 3198103002,
+      "netProfit": 577796194.02,
+      "ocfPerShare": 0.265409954147,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "600004",
+      "secucode": "600004.SH",
+      "name": "白云机场",
+      "isCurrent": false,
+      "eps": 0.07,
+      "bps": 8.21927638706,
+      "roe": 0.79,
+      "netProfitMargin": 9.358481265,
+      "revenue": 1976980741.33,
+      "netProfit": 167680773.45,
+      "ocfPerShare": 0.295602699321,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "600515",
+      "secucode": "600515.SH",
+      "name": "海南机场",
+      "isCurrent": false,
+      "eps": 0.0098,
+      "bps": 2.122487560429,
+      "roe": 0.46,
+      "netProfitMargin": 8.2828570111,
+      "revenue": 1742898250.28,
+      "netProfit": 112459591.87,
+      "ocfPerShare": -0.005821694264,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "000089",
+      "secucode": "000089.SZ",
+      "name": "深圳机场",
+      "isCurrent": false,
+      "eps": 0.1259,
+      "bps": 5.796855315436,
+      "roe": 2.2,
+      "netProfitMargin": 19.5917223297,
+      "revenue": 1343641666.06,
+      "netProfit": 258150122.31,
+      "ocfPerShare": 0.419559109936,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "600897",
+      "secucode": "600897.SH",
+      "name": "厦门空港",
+      "isCurrent": false,
+      "eps": 0.2816,
+      "bps": 11.917787063684,
+      "roe": 2.39,
+      "netProfitMargin": 25.1271991994,
+      "revenue": 492709034.77,
+      "netProfit": 117402078.5,
+      "ocfPerShare": 0.093572370639,
+      "reportDate": "2026-03-31"
+    }
+  ]
+}

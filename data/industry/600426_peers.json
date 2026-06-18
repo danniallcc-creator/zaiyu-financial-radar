@@ -1,0 +1,92 @@
+{
+  "code": "600426",
+  "industry": "基础化工-化肥农药-氮肥",
+  "peerCount": 6,
+  "fetchTime": "2026-06-18T17:54:37.710438",
+  "peers": [
+    {
+      "code": "600426",
+      "secucode": "600426.SH",
+      "name": "华鲁恒升",
+      "isCurrent": true,
+      "eps": 0.526,
+      "bps": 16.093235144763,
+      "roe": 3.32,
+      "netProfitMargin": 14.3136426228,
+      "revenue": 8343592884.31,
+      "netProfit": 1116593729.35,
+      "ocfPerShare": 0.419496039774,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "600691",
+      "secucode": "600691.SH",
+      "name": "潞化科技",
+      "isCurrent": false,
+      "eps": -0.0205,
+      "bps": 1.309004270168,
+      "roe": -1.5559,
+      "netProfitMargin": -2.7275042681,
+      "revenue": 2296915696.97,
+      "netProfit": -48716168.53,
+      "ocfPerShare": 0.054245642056,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "000912",
+      "secucode": "000912.SZ",
+      "name": "泸天化",
+      "isCurrent": false,
+      "eps": -0.001,
+      "bps": 4.045764594534,
+      "roe": -0.03,
+      "netProfitMargin": -0.1947999601,
+      "revenue": 1027957084.15,
+      "netProfit": -1748695.75,
+      "ocfPerShare": 0.133832510147,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "000731",
+      "secucode": "000731.SZ",
+      "name": "四川美丰",
+      "isCurrent": false,
+      "eps": -0.0583,
+      "bps": 6.956967426756,
+      "roe": -0.83,
+      "netProfitMargin": -3.2896202809,
+      "revenue": 881427313,
+      "netProfit": -31986490.06,
+      "ocfPerShare": -0.369658472878,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "600227",
+      "secucode": "600227.SH",
+      "name": "赤天化",
+      "isCurrent": false,
+      "eps": -0.0169,
+      "bps": 1.328170260506,
+      "roe": -1.26,
+      "netProfitMargin": -4.7723372277,
+      "revenue": 596487317.05,
+      "netProfit": -28466386.29,
+      "ocfPerShare": -0.003650598291,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "871163",
+      "secucode": "871163.NQ",
+      "name": "润康生态",
+      "isCurrent": false,
+      "eps": 0.21,
+      "bps": 2.32,
+      "roe": 8.97,
+      "netProfitMargin": 12.0310687776,
+      "revenue": 115866832.18,
+      "netProfit": 13940018.27,
+      "ocfPerShare": 0.387003481342,
+      "reportDate": "2025-12-31"
+    }
+  ]
+}

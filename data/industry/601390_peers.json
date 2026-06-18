@@ -1,0 +1,92 @@
+{
+  "code": "601390",
+  "industry": "建筑-基础建设-铁路城轨建设",
+  "peerCount": 6,
+  "fetchTime": "2026-06-18T17:54:58.827642",
+  "peers": [
+    {
+      "code": "601390",
+      "secucode": "601390.SH",
+      "name": "中国中铁",
+      "isCurrent": true,
+      "eps": 0.177,
+      "bps": 13.02318206149,
+      "roe": 1.36,
+      "netProfitMargin": 2.0878875363,
+      "revenue": 234997667000,
+      "netProfit": 4358918000,
+      "ocfPerShare": -3.501041509444,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "601186",
+      "secucode": "601186.SH",
+      "name": "中国铁建",
+      "isCurrent": false,
+      "eps": 0.28,
+      "bps": 20.466626856782,
+      "roe": 1.38,
+      "netProfitMargin": 2.1161131997,
+      "revenue": 231582129000,
+      "netProfit": 4392391000,
+      "ocfPerShare": -4.608109463486,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "002062",
+      "secucode": "002062.SZ",
+      "name": "宏润建设",
+      "isCurrent": false,
+      "eps": 0.06,
+      "bps": 4.015659740411,
+      "roe": 1.49,
+      "netProfitMargin": 6.1445078646,
+      "revenue": 1227994974.58,
+      "netProfit": 73743068.98,
+      "ocfPerShare": 0.107243995425,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "003013",
+      "secucode": "003013.SZ",
+      "name": "地铁设计",
+      "isCurrent": false,
+      "eps": 0.16,
+      "bps": 7.309542081003,
+      "roe": 2.19,
+      "netProfitMargin": 11.080939085,
+      "revenue": 635738487.14,
+      "netProfit": 70301380.12,
+      "ocfPerShare": -0.991545377807,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "688285",
+      "secucode": "688285.SH",
+      "name": "高铁电气",
+      "isCurrent": false,
+      "eps": 0.0326,
+      "bps": 4.524030694333,
+      "roe": 0.72,
+      "netProfitMargin": 5.1453268767,
+      "revenue": 279479737.53,
+      "netProfit": 12272078.41,
+      "ocfPerShare": -0.175045044245,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "873023",
+      "secucode": "873023.NQ",
+      "name": "高铁电气",
+      "isCurrent": false,
+      "eps": 0.0326,
+      "bps": 4.524030694333,
+      "roe": 0.72,
+      "netProfitMargin": 5.1453268767,
+      "revenue": 279479737.53,
+      "netProfit": 12272078.41,
+      "ocfPerShare": -0.175045044245,
+      "reportDate": "2026-03-31"
+    }
+  ]
+}

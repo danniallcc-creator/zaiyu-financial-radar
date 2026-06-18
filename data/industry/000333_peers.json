@@ -1,8 +1,8 @@
 {
   "code": "000333",
   "industry": "家电-白色家电-白色家电",
-  "peerCount": 30,
-  "fetchTime": "2026-06-18T17:03:02.787676",
+  "peerCount": 32,
+  "fetchTime": "2026-06-18T17:54:48.613051",
   "peers": [
     {
       "code": "000333",
@@ -229,6 +229,20 @@
       "reportDate": "2026-03-31"
     },
     {
+      "code": "A17321",
+      "secucode": "A17321.SZ",
+      "name": "小狗电器",
+      "isCurrent": false,
+      "eps": 1.08,
+      "bps": 9.05,
+      "roe": 12.55,
+      "netProfitMargin": 10.2447668174,
+      "revenue": 339215325.34,
+      "netProfit": 34751819.09,
+      "ocfPerShare": 1.050419076563,
+      "reportDate": "2018-06-30"
+    },
+    {
       "code": "300403",
       "secucode": "300403.SZ",
       "name": "汉宇集团",
@@ -283,6 +297,20 @@
       "netProfit": 10287165.81,
       "ocfPerShare": 0.035713650416,
       "reportDate": "2026-03-31"
+    },
+    {
+      "code": "Q153710",
+      "secucode": "Q153710.NQ",
+      "name": "德和股份",
+      "isCurrent": false,
+      "eps": 11.06,
+      "bps": 5.19,
+      "roe": -3221.32,
+      "netProfitMargin": 3.5998002471,
+      "revenue": 153650716.16,
+      "netProfit": 5531118.86,
+      "ocfPerShare": 57.07603172,
+      "reportDate": "2014-12-31"
     },
     {
       "code": "600854",

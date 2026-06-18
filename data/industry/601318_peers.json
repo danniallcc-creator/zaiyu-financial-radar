@@ -1,8 +1,8 @@
 {
   "code": "601318",
   "industry": "金融-非银行金融-保险",
-  "peerCount": 30,
-  "fetchTime": "2026-06-18T17:03:14.400095",
+  "peerCount": 50,
+  "fetchTime": "2026-06-18T17:56:16.115214",
   "peers": [
     {
       "code": "601318",
@@ -145,6 +145,20 @@
       "reportDate": "2025-12-31"
     },
     {
+      "code": "A19041",
+      "secucode": "A19041.SH",
+      "name": "盛世大联",
+      "isCurrent": false,
+      "eps": 0.39,
+      "bps": 7.43,
+      "roe": 5.42,
+      "netProfitMargin": 1.7315661005,
+      "revenue": 3362237930.84,
+      "netProfit": 50220747.38,
+      "ocfPerShare": 0.640057011339,
+      "reportDate": "2025-12-31"
+    },
+    {
       "code": "870026",
       "secucode": "870026.NQ",
       "name": "锦泰保险",
@@ -159,6 +173,20 @@
       "reportDate": "2025-12-31"
     },
     {
+      "code": "A20749",
+      "secucode": "A20749.SZ",
+      "name": "江泰保险",
+      "isCurrent": false,
+      "eps": 0.39,
+      "bps": 2.57,
+      "roe": 16.29,
+      "netProfitMargin": 6.9263121442,
+      "revenue": 1224872077.72,
+      "netProfit": 84853858.75,
+      "ocfPerShare": 0.199323755723,
+      "reportDate": "2020-12-31"
+    },
+    {
       "code": "833984",
       "secucode": "833984.NQ",
       "name": "民太安",
@@ -170,6 +198,20 @@
       "revenue": 795587393.19,
       "netProfit": 28039453.96,
       "ocfPerShare": 0.238888712469,
+      "reportDate": "2025-12-31"
+    },
+    {
+      "code": "870409",
+      "secucode": "870409.NQ",
+      "name": "诚安达",
+      "isCurrent": false,
+      "eps": -0.06,
+      "bps": 0.9,
+      "roe": -6.88,
+      "netProfitMargin": -0.9380768008,
+      "revenue": 635588541.89,
+      "netProfit": -5955405.12,
+      "ocfPerShare": -0.129822020848,
       "reportDate": "2025-12-31"
     },
     {
@@ -201,6 +243,34 @@
       "reportDate": "2025-12-31"
     },
     {
+      "code": "871113",
+      "secucode": "871113.NQ",
+      "name": "汇中保险",
+      "isCurrent": false,
+      "eps": 0.13,
+      "bps": 1.42,
+      "roe": 9.58,
+      "netProfitMargin": 4.3870060348,
+      "revenue": 162509844.15,
+      "netProfit": 7129316.67,
+      "ocfPerShare": -0.083798075455,
+      "reportDate": "2019-06-30"
+    },
+    {
+      "code": "871318",
+      "secucode": "871318.NQ",
+      "name": "ST创悦",
+      "isCurrent": false,
+      "eps": -0.02,
+      "bps": 1.09,
+      "roe": -2.1,
+      "netProfitMargin": -0.5377263386,
+      "revenue": 141406190.36,
+      "netProfit": -760378.33,
+      "ocfPerShare": -0.098375286061,
+      "reportDate": "2025-12-31"
+    },
+    {
       "code": "834343",
       "secucode": "834343.NQ",
       "name": "摘牌华险",
@@ -215,6 +285,20 @@
       "reportDate": "2024-06-30"
     },
     {
+      "code": "872798",
+      "secucode": "872798.NQ",
+      "name": "保之家",
+      "isCurrent": false,
+      "eps": -0.0234,
+      "bps": 0.758,
+      "roe": -3.02,
+      "netProfitMargin": -0.9005520758,
+      "revenue": 126727790.73,
+      "netProfit": -1169014.75,
+      "ocfPerShare": -0.0262474278,
+      "reportDate": "2020-06-30"
+    },
+    {
       "code": "834001",
       "secucode": "834001.NQ",
       "name": "鼎宏保险",
@@ -227,6 +311,20 @@
       "netProfit": 1600037.91,
       "ocfPerShare": -0.036715562353,
       "reportDate": "2021-12-31"
+    },
+    {
+      "code": "870190",
+      "secucode": "870190.NQ",
+      "name": "恒荣汇彬",
+      "isCurrent": false,
+      "eps": 0.27,
+      "bps": 5.65,
+      "roe": 4.8,
+      "netProfitMargin": 19.1803779611,
+      "revenue": 114343340.65,
+      "netProfit": 21931484.91,
+      "ocfPerShare": 0.841878430168,
+      "reportDate": "2019-06-30"
     },
     {
       "code": "839373",
@@ -257,6 +355,20 @@
       "reportDate": "2018-06-30"
     },
     {
+      "code": "870721",
+      "secucode": "870721.NQ",
+      "name": "安泰保险",
+      "isCurrent": false,
+      "eps": 0.14,
+      "bps": 1.9,
+      "roe": 7.66,
+      "netProfitMargin": 10.5272171492,
+      "revenue": 66701622,
+      "netProfit": 7021824.59,
+      "ocfPerShare": -0.133847013194,
+      "reportDate": "2020-06-30"
+    },
+    {
       "code": "833546",
       "secucode": "833546.NQ",
       "name": "盛世华诚",
@@ -283,6 +395,20 @@
       "netProfit": -9246592.98,
       "ocfPerShare": -0.100280217772,
       "reportDate": "2022-06-30"
+    },
+    {
+      "code": "870408",
+      "secucode": "870408.NQ",
+      "name": "世纪保险",
+      "isCurrent": false,
+      "eps": 0.0033,
+      "bps": 1.3228,
+      "roe": 0.25,
+      "netProfitMargin": 0.3101456263,
+      "revenue": 59324014.44,
+      "netProfit": 184171.63,
+      "ocfPerShare": -0.112123466311,
+      "reportDate": "2018-06-30"
     },
     {
       "code": "839427",
@@ -313,6 +439,34 @@
       "reportDate": "2022-12-31"
     },
     {
+      "code": "871475",
+      "secucode": "871475.NQ",
+      "name": "一正保险",
+      "isCurrent": false,
+      "eps": -0.12,
+      "bps": 0.11,
+      "roe": -70.5,
+      "netProfitMargin": -4.0621875529,
+      "revenue": 49891249.57,
+      "netProfit": -2027170.36,
+      "ocfPerShare": 0.010045964848,
+      "reportDate": "2025-12-31"
+    },
+    {
+      "code": "871627",
+      "secucode": "871627.NQ",
+      "name": "中联保险",
+      "isCurrent": false,
+      "eps": 0.01,
+      "bps": 1.23,
+      "roe": 0.55,
+      "netProfitMargin": 0.2046239437,
+      "revenue": 46153318.27,
+      "netProfit": 94440.74,
+      "ocfPerShare": -0.009672952143,
+      "reportDate": "2018-06-30"
+    },
+    {
       "code": "834775",
       "secucode": "834775.NQ",
       "name": "华成保险",
@@ -327,6 +481,62 @@
       "reportDate": "2020-06-30"
     },
     {
+      "code": "872722",
+      "secucode": "872722.NQ",
+      "name": "汇安保险",
+      "isCurrent": false,
+      "eps": 0.0596,
+      "bps": 1.36,
+      "roe": 4.26,
+      "netProfitMargin": 11.6065695357,
+      "revenue": 25693001.63,
+      "netProfit": 2982076.1,
+      "ocfPerShare": -0.0393775312,
+      "reportDate": "2019-06-30"
+    },
+    {
+      "code": "870074",
+      "secucode": "870074.NQ",
+      "name": "正迅保险",
+      "isCurrent": false,
+      "eps": 0.09,
+      "bps": 0.35,
+      "roe": 30.5,
+      "netProfitMargin": 23.5921760385,
+      "revenue": 19676969.57,
+      "netProfit": 4725811.77,
+      "ocfPerShare": 0.0365063812,
+      "reportDate": "2021-06-30"
+    },
+    {
+      "code": "872007",
+      "secucode": "872007.NQ",
+      "name": "润生保险",
+      "isCurrent": false,
+      "eps": -0.0487,
+      "bps": 1.16,
+      "roe": -4.12,
+      "netProfitMargin": -3.1220477994,
+      "revenue": 18709507.59,
+      "netProfit": -584119.77,
+      "ocfPerShare": 0.060615518333,
+      "reportDate": "2025-12-31"
+    },
+    {
+      "code": "873372",
+      "secucode": "873372.NQ",
+      "name": "大生泰丰",
+      "isCurrent": false,
+      "eps": -0.35,
+      "bps": 0.96,
+      "roe": -30.42,
+      "netProfitMargin": -22.9133892458,
+      "revenue": 15094160.68,
+      "netProfit": -3458583.79,
+      "ocfPerShare": -0.40376844,
+      "reportDate": "2021-12-31"
+    },
+    {
       "code": "839889",
       "secucode": "839889.NQ",
       "name": "华谊保险",
@@ -339,6 +549,34 @@
       "netProfit": -874046.78,
       "ocfPerShare": 0.123858811875,
       "reportDate": "2017-06-30"
+    },
+    {
+      "code": "871730",
+      "secucode": "871730.NQ",
+      "name": "东吴保险",
+      "isCurrent": false,
+      "eps": 0.19,
+      "bps": 1.66,
+      "roe": 11.96,
+      "netProfitMargin": 16.5327066827,
+      "revenue": 13634285.5,
+      "netProfit": 2254116.43,
+      "ocfPerShare": 0.112292476667,
+      "reportDate": "2017-12-31"
+    },
+    {
+      "code": "873221",
+      "secucode": "873221.NQ",
+      "name": "摘牌怡富",
+      "isCurrent": false,
+      "eps": -0.06,
+      "bps": 0.92,
+      "roe": -5.81,
+      "netProfitMargin": -15.716918587,
+      "revenue": 13378488.4,
+      "netProfit": -2102686.13,
+      "ocfPerShare": 0.210874269474,
+      "reportDate": "2021-06-30"
     },
     {
       "code": "835641",
@@ -367,6 +605,20 @@
       "netProfit": 707794.29,
       "ocfPerShare": 0.086916928,
       "reportDate": "2018-06-30"
+    },
+    {
+      "code": "872938",
+      "secucode": "872938.NQ",
+      "name": "广商保险",
+      "isCurrent": false,
+      "eps": 0,
+      "bps": 1.07,
+      "roe": 0.1,
+      "netProfitMargin": 0.9128115966,
+      "revenue": 5734680.65,
+      "netProfit": 52346.83,
+      "ocfPerShare": 0.0211442264,
+      "reportDate": "2020-06-30"
     },
     {
       "code": "400119",
@@ -411,9 +663,37 @@
       "reportDate": "2019-03-31"
     },
     {
+      "code": "871331",
+      "secucode": "871331.NQ",
+      "name": "德晟保险",
+      "isCurrent": false,
+      "eps": -0.07,
+      "bps": 1.12,
+      "roe": -5.52,
+      "netProfitMargin": -14198.9241008069,
+      "revenue": 34285.74,
+      "netProfit": -3698862.52,
+      "ocfPerShare": -0.1393707952,
+      "reportDate": "2019-06-30"
+    },
+    {
       "code": "430125",
       "secucode": "430125.NQ",
       "name": "ST都市",
+      "isCurrent": false,
+      "eps": null,
+      "bps": null,
+      "roe": null,
+      "netProfitMargin": null,
+      "revenue": null,
+      "netProfit": null,
+      "ocfPerShare": null,
+      "reportDate": ""
+    },
+    {
+      "code": "Q153377",
+      "secucode": "Q153377.NQ",
+      "name": "鑫银保理",
       "isCurrent": false,
       "eps": null,
       "bps": null,

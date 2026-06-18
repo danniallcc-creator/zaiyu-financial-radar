@@ -1,0 +1,92 @@
+{
+  "code": "000408",
+  "industry": "基础化工-化肥农药-钾肥",
+  "peerCount": 6,
+  "fetchTime": "2026-06-18T17:54:39.187054",
+  "peers": [
+    {
+      "code": "000792",
+      "secucode": "000792.SZ",
+      "name": "盐湖股份",
+      "isCurrent": false,
+      "eps": 0.572,
+      "bps": 8.446438295929,
+      "roe": 6.54,
+      "netProfitMargin": 54.2559799144,
+      "revenue": 6431955107.5,
+      "netProfit": 3026668895.57,
+      "ocfPerShare": 0.583011456953,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "000893",
+      "secucode": "000893.SZ",
+      "name": "亚钾国际",
+      "isCurrent": false,
+      "eps": 0.5829,
+      "bps": 15.036229695412,
+      "roe": 3.91,
+      "netProfitMargin": 35.8485347007,
+      "revenue": 1487831535.97,
+      "netProfit": 532507990.34,
+      "ocfPerShare": 0.844674464836,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "002545",
+      "secucode": "002545.SZ",
+      "name": "东方铁塔",
+      "isCurrent": false,
+      "eps": 0.323,
+      "bps": 8.211659453341,
+      "roe": 4.02,
+      "netProfitMargin": 28.3369582707,
+      "revenue": 1418290712.33,
+      "netProfit": 401864480.76,
+      "ocfPerShare": 0.398401479727,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "831067",
+      "secucode": "831067.NQ",
+      "name": "根力多",
+      "isCurrent": false,
+      "eps": -0.19,
+      "bps": 1.98,
+      "roe": -9.06,
+      "netProfitMargin": -3.5592714921,
+      "revenue": 810075329.3,
+      "netProfit": -28749189.82,
+      "ocfPerShare": -0.075520134681,
+      "reportDate": "2025-12-31"
+    },
+    {
+      "code": "000408",
+      "secucode": "000408.SZ",
+      "name": "藏格矿业",
+      "isCurrent": true,
+      "eps": 1,
+      "bps": 11.236347760876,
+      "roe": 9.24,
+      "netProfitMargin": 219.2844137307,
+      "revenue": 715631351.5,
+      "netProfit": 1573735244.12,
+      "ocfPerShare": -0.050654436722,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "000578",
+      "secucode": "000578.SZ",
+      "name": "盐湖集团",
+      "isCurrent": false,
+      "eps": null,
+      "bps": null,
+      "roe": null,
+      "netProfitMargin": null,
+      "revenue": null,
+      "netProfit": null,
+      "ocfPerShare": null,
+      "reportDate": ""
+    }
+  ]
+}

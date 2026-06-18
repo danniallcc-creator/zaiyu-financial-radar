@@ -1,8 +1,8 @@
 {
   "code": "000001",
   "industry": "金融-银行-股份制与城商行",
-  "peerCount": 30,
-  "fetchTime": "2026-06-18T17:03:00.011478",
+  "peerCount": 50,
+  "fetchTime": "2026-06-18T17:56:13.840949",
   "peers": [
     {
       "code": "600036",
@@ -33,6 +33,20 @@
       "reportDate": "2026-03-31"
     },
     {
+      "code": "601998",
+      "secucode": "601998.SH",
+      "name": "中信银行",
+      "isCurrent": false,
+      "eps": 0.36,
+      "bps": 13.35,
+      "roe": 2.7775,
+      "netProfitMargin": 37.491994364,
+      "revenue": 54649000000,
+      "netProfit": 20098000000,
+      "ocfPerShare": 3.381885164885,
+      "reportDate": "2026-03-31"
+    },
+    {
       "code": "600000",
       "secucode": "600000.SH",
       "name": "浦发银行",
@@ -59,6 +73,20 @@
       "netProfit": 11514000000,
       "ocfPerShare": -0.008154035905,
       "reportDate": "2026-03-31"
+    },
+    {
+      "code": "A15154",
+      "secucode": "A15154.SH",
+      "name": "徽商银行",
+      "isCurrent": false,
+      "eps": 1.14,
+      "bps": 10.646875934364,
+      "roe": null,
+      "netProfitMargin": 45.1385733061,
+      "revenue": 37498961000,
+      "netProfit": 16524600000,
+      "ocfPerShare": 3.938143102266,
+      "reportDate": "2025-12-31"
     },
     {
       "code": "000001",
@@ -145,6 +173,20 @@
       "reportDate": "2026-03-31"
     },
     {
+      "code": "601916",
+      "secucode": "601916.SH",
+      "name": "浙商银行",
+      "isCurrent": false,
+      "eps": 0.22,
+      "bps": 6.68,
+      "roe": 3.315,
+      "netProfitMargin": 35.8929610239,
+      "revenue": 17190000000,
+      "netProfit": 5992000000,
+      "ocfPerShare": 3.692761433149,
+      "reportDate": "2026-03-31"
+    },
+    {
       "code": "601009",
       "secucode": "601009.SH",
       "name": "南京银行",
@@ -187,6 +229,20 @@
       "reportDate": "2026-03-31"
     },
     {
+      "code": "A16060",
+      "secucode": "A16060.SH",
+      "name": "威商银行",
+      "isCurrent": false,
+      "eps": 0.35,
+      "bps": 4.565352236983,
+      "roe": null,
+      "netProfitMargin": 25.2591741957,
+      "revenue": 9912157797.29,
+      "netProfit": 2252431933.41,
+      "ocfPerShare": 3.790400194353,
+      "reportDate": "2025-12-31"
+    },
+    {
       "code": "601077",
       "secucode": "601077.SH",
       "name": "渝农商行",
@@ -199,6 +255,20 @@
       "netProfit": 3934557000,
       "ocfPerShare": 7.60684767104,
       "reportDate": "2026-03-31"
+    },
+    {
+      "code": "A14551",
+      "secucode": "A14551.SZ",
+      "name": "盛京银行",
+      "isCurrent": false,
+      "eps": null,
+      "bps": 9.058836695801,
+      "roe": null,
+      "netProfitMargin": 7.0991829691,
+      "revenue": 7484980948.38,
+      "netProfit": 531320990.67,
+      "ocfPerShare": 6.296967577712,
+      "reportDate": "2025-12-31"
     },
     {
       "code": "601577",
@@ -257,6 +327,20 @@
       "reportDate": "2026-03-31"
     },
     {
+      "code": "601963",
+      "secucode": "601963.SH",
+      "name": "重庆银行",
+      "isCurrent": false,
+      "eps": 0.52,
+      "bps": 16.39,
+      "roe": 3.1525,
+      "netProfitMargin": 47.5112059925,
+      "revenue": 3995630000,
+      "netProfit": 1793190000,
+      "ocfPerShare": 11.194787009584,
+      "reportDate": "2026-03-31"
+    },
+    {
       "code": "002966",
       "secucode": "002966.SZ",
       "name": "苏州银行",
@@ -285,6 +369,20 @@
       "reportDate": "2026-03-31"
     },
     {
+      "code": "832666",
+      "secucode": "832666.NQ",
+      "name": "齐鲁银行",
+      "isCurrent": false,
+      "eps": 0.23,
+      "bps": 8.219803137649,
+      "roe": 2.9,
+      "netProfitMargin": 43.7977004271,
+      "revenue": 3577012000,
+      "netProfit": 1563708000,
+      "ocfPerShare": 1.475956406428,
+      "reportDate": "2026-03-31"
+    },
+    {
       "code": "002936",
       "secucode": "002936.SZ",
       "name": "郑州银行",
@@ -299,6 +397,20 @@
       "reportDate": "2026-03-31"
     },
     {
+      "code": "601997",
+      "secucode": "601997.SH",
+      "name": "贵阳银行",
+      "isCurrent": false,
+      "eps": 0.4,
+      "bps": 18.05,
+      "roe": 2.27,
+      "netProfitMargin": 43.2255326603,
+      "revenue": 3470974000,
+      "netProfit": 1477137000,
+      "ocfPerShare": 3.81472912572,
+      "reportDate": "2026-03-31"
+    },
+    {
       "code": "601128",
       "secucode": "601128.SH",
       "name": "常熟银行",
@@ -310,6 +422,20 @@
       "revenue": 3171012000,
       "netProfit": 1204118000,
       "ocfPerShare": -1.730725401657,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "A15252",
+      "secucode": "A15252.SH",
+      "name": "哈银行",
+      "isCurrent": false,
+      "eps": null,
+      "bps": 4.694586743788,
+      "roe": null,
+      "netProfitMargin": 33.4380978409,
+      "revenue": 3088196000,
+      "netProfit": 993791000,
+      "ocfPerShare": -1.729343282768,
       "reportDate": "2026-03-31"
     },
     {
@@ -353,6 +479,48 @@
       "netProfit": 531782942.6,
       "ocfPerShare": -0.302263478907,
       "reportDate": "2026-03-31"
+    },
+    {
+      "code": "871728",
+      "secucode": "871728.NQ",
+      "name": "如皋银行",
+      "isCurrent": false,
+      "eps": 0.48,
+      "bps": 6.67,
+      "roe": 7.4,
+      "netProfitMargin": 30.4377976693,
+      "revenue": 1763291123.33,
+      "netProfit": 545554202.7,
+      "ocfPerShare": 0.715728960821,
+      "reportDate": "2025-12-31"
+    },
+    {
+      "code": "A18007",
+      "secucode": "A18007.SH",
+      "name": "药都农商",
+      "isCurrent": false,
+      "eps": 0.22,
+      "bps": 5.606490879685,
+      "roe": null,
+      "netProfitMargin": 13.0556286179,
+      "revenue": 1748568327.82,
+      "netProfit": 228286587.01,
+      "ocfPerShare": 1.880592987768,
+      "reportDate": "2025-12-31"
+    },
+    {
+      "code": "A17317",
+      "secucode": "A17317.SH",
+      "name": "厦门农商",
+      "isCurrent": false,
+      "eps": 0.01,
+      "bps": 2.89192292802,
+      "roe": 0.37,
+      "netProfitMargin": 2.2360852787,
+      "revenue": 1737054959.4,
+      "netProfit": 41380111.53,
+      "ocfPerShare": -0.115169726766,
+      "reportDate": "2025-12-31"
     },
     {
       "code": "601187",
@@ -411,6 +579,34 @@
       "reportDate": "2026-03-31"
     },
     {
+      "code": "601860",
+      "secucode": "601860.SH",
+      "name": "紫金银行",
+      "isCurrent": false,
+      "eps": 0.12,
+      "bps": 5.584441608065,
+      "roe": 2.09,
+      "netProfitMargin": 36.7587766658,
+      "revenue": 1165961000,
+      "netProfit": 428593000,
+      "ocfPerShare": -1.325286964871,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "603323",
+      "secucode": "603323.SH",
+      "name": "苏农银行",
+      "isCurrent": false,
+      "eps": 0.23,
+      "bps": 9.59,
+      "roe": 2.41,
+      "netProfitMargin": 40.3201139673,
+      "revenue": 1145592000,
+      "netProfit": 462080000,
+      "ocfPerShare": -2.653650750891,
+      "reportDate": "2026-03-31"
+    },
+    {
       "code": "601528",
       "secucode": "601528.SH",
       "name": "瑞丰银行",
@@ -423,6 +619,90 @@
       "netProfit": 422178000,
       "ocfPerShare": 2.844251312711,
       "reportDate": "2026-03-31"
+    },
+    {
+      "code": "873041",
+      "secucode": "873041.NQ",
+      "name": "邢农银行",
+      "isCurrent": false,
+      "eps": 0.1787,
+      "bps": 2.41,
+      "roe": 7.63,
+      "netProfitMargin": 43.4284017559,
+      "revenue": 403312042.53,
+      "netProfit": 175613980.68,
+      "ocfPerShare": 1.082828338094,
+      "reportDate": "2024-06-30"
+    },
+    {
+      "code": "871122",
+      "secucode": "871122.NQ",
+      "name": "喀什银行",
+      "isCurrent": false,
+      "eps": 0.05,
+      "bps": 2.95,
+      "roe": 1.84,
+      "netProfitMargin": 11.7526039709,
+      "revenue": 230647948.72,
+      "netProfit": 27107139.98,
+      "ocfPerShare": -3.127689306607,
+      "reportDate": "2023-06-30"
+    },
+    {
+      "code": "832792",
+      "secucode": "832792.NQ",
+      "name": "鹿城银行",
+      "isCurrent": false,
+      "eps": 0.04,
+      "bps": 1.62,
+      "roe": 2.4,
+      "netProfitMargin": 9.5852658098,
+      "revenue": 211203084,
+      "netProfit": 20244377,
+      "ocfPerShare": -0.721566585,
+      "reportDate": "2025-12-31"
+    },
+    {
+      "code": "870874",
+      "secucode": "870874.NQ",
+      "name": "国民银行",
+      "isCurrent": false,
+      "eps": 0.19,
+      "bps": 4.02,
+      "roe": 4.87,
+      "netProfitMargin": 13.8601552178,
+      "revenue": 118650347.5,
+      "netProfit": 16445122.33,
+      "ocfPerShare": -0.169065369795,
+      "reportDate": "2025-12-31"
+    },
+    {
+      "code": "839969",
+      "secucode": "839969.NQ",
+      "name": "客家银行",
+      "isCurrent": false,
+      "eps": -0.02,
+      "bps": 1.44,
+      "roe": -1.55,
+      "netProfitMargin": -6.63445563,
+      "revenue": 60274282.82,
+      "netProfit": -3998870.55,
+      "ocfPerShare": -1.178307950662,
+      "reportDate": "2023-06-30"
+    },
+    {
+      "code": "820004",
+      "secucode": "820004.NQ",
+      "name": "齐鲁优1",
+      "isCurrent": false,
+      "eps": null,
+      "bps": null,
+      "roe": null,
+      "netProfitMargin": null,
+      "revenue": null,
+      "netProfit": null,
+      "ocfPerShare": null,
+      "reportDate": ""
     }
   ]
 }

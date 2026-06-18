@@ -1,0 +1,92 @@
+{
+  "code": "600549",
+  "industry": "有色金属-稀有金属-钨",
+  "peerCount": 6,
+  "fetchTime": "2026-06-18T17:55:13.985176",
+  "peers": [
+    {
+      "code": "600549",
+      "secucode": "600549.SH",
+      "name": "厦门钨业",
+      "isCurrent": true,
+      "eps": 0.6972,
+      "bps": 11.527089364408,
+      "roe": 6.24,
+      "netProfitMargin": 10.6849071215,
+      "revenue": 15743173489.11,
+      "netProfit": 1106815989.81,
+      "ocfPerShare": -1.618720605446,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "000657",
+      "secucode": "000657.SZ",
+      "name": "中钨高新",
+      "isCurrent": false,
+      "eps": 0.4,
+      "bps": 4.688881623076,
+      "roe": 9.03,
+      "netProfitMargin": 14.1332871777,
+      "revenue": 7006834056.84,
+      "netProfit": 921090515.67,
+      "ocfPerShare": -0.937423735616,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "874939",
+      "secucode": "874939.NQ",
+      "name": "创石钼业",
+      "isCurrent": false,
+      "eps": 0.65,
+      "bps": 5.84,
+      "roe": 11.85,
+      "netProfitMargin": 2.1167793242,
+      "revenue": 3479807330.85,
+      "netProfit": 73658555,
+      "ocfPerShare": -4.06690488683,
+      "reportDate": "2025-12-31"
+    },
+    {
+      "code": "002378",
+      "secucode": "002378.SZ",
+      "name": "章源钨业",
+      "isCurrent": false,
+      "eps": 0.32,
+      "bps": 2.264050214923,
+      "roe": 15.08,
+      "netProfitMargin": 14.4829077217,
+      "revenue": 2630578899.98,
+      "netProfit": 381312910.29,
+      "ocfPerShare": -0.003386283326,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "002842",
+      "secucode": "002842.SZ",
+      "name": "翔鹭钨业",
+      "isCurrent": false,
+      "eps": 0.77,
+      "bps": 4.461930855713,
+      "roe": 18.79,
+      "netProfitMargin": 21.8201999305,
+      "revenue": 1148072573.02,
+      "netProfit": 250511730.78,
+      "ocfPerShare": -1.779880166856,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "833563",
+      "secucode": "833563.NQ",
+      "name": "力天高新",
+      "isCurrent": false,
+      "eps": null,
+      "bps": null,
+      "roe": null,
+      "netProfitMargin": null,
+      "revenue": null,
+      "netProfit": null,
+      "ocfPerShare": null,
+      "reportDate": ""
+    }
+  ]
+}

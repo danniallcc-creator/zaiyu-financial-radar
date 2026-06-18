@@ -1,0 +1,78 @@
+{
+  "code": "600875",
+  "industry": "电气设备-电源设备-综合电力设备商",
+  "peerCount": 5,
+  "fetchTime": "2026-06-18T17:55:57.126052",
+  "peers": [
+    {
+      "code": "601727",
+      "secucode": "601727.SH",
+      "name": "上海电气",
+      "isCurrent": false,
+      "eps": 0.0245,
+      "bps": 3.532277996273,
+      "roe": 0.69,
+      "netProfitMargin": 2.6675793719,
+      "revenue": 24191820000,
+      "netProfit": 380437000,
+      "ocfPerShare": -0.051509762922,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "600875",
+      "secucode": "600875.SH",
+      "name": "东方电气",
+      "isCurrent": true,
+      "eps": 0.46,
+      "bps": 13.556409318087,
+      "roe": 3.44,
+      "netProfitMargin": 9.0930448459,
+      "revenue": 17216348066.85,
+      "netProfit": 1585458964.3,
+      "ocfPerShare": -0.780165863067,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "300827",
+      "secucode": "300827.SZ",
+      "name": "上能电气",
+      "isCurrent": false,
+      "eps": 0.18,
+      "bps": 7.726923500688,
+      "roe": 2.3,
+      "netProfitMargin": 9.1282551701,
+      "revenue": 1071146306.58,
+      "netProfit": 97790304.26,
+      "ocfPerShare": -1.018113365354,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "300982",
+      "secucode": "300982.SZ",
+      "name": "苏文电能",
+      "isCurrent": false,
+      "eps": -0.0411,
+      "bps": 13.766510232018,
+      "roe": -0.3,
+      "netProfitMargin": -4.2034807774,
+      "revenue": 202791719.8,
+      "netProfit": -8467945.42,
+      "ocfPerShare": 0.073066368769,
+      "reportDate": "2026-03-31"
+    },
+    {
+      "code": "420063",
+      "secucode": "420063.NQ",
+      "name": "武锅B5",
+      "isCurrent": false,
+      "eps": 0.01,
+      "bps": -6.14,
+      "roe": null,
+      "netProfitMargin": 2.2046768106,
+      "revenue": 127966535.34,
+      "netProfit": 2821248.53,
+      "ocfPerShare": 0.02390836835,
+      "reportDate": "2025-12-31"
+    }
+  ]
+}

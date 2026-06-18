@@ -1,0 +1,78 @@
+{
+  "code": "A16309",
+  "industry": "互联网-互联网金融-融资借贷",
+  "peerCount": 5,
+  "fetchTime": "2026-06-18T17:52:56.947247",
+  "peers": [
+    {
+      "code": "A16309",
+      "secucode": "A16309.SH",
+      "name": "中国华融",
+      "isCurrent": true,
+      "eps": null,
+      "bps": 0.527554218163,
+      "roe": null,
+      "netProfitMargin": 22.222770342,
+      "revenue": 54793380000,
+      "netProfit": 13807715000,
+      "ocfPerShare": 0.209534253748,
+      "reportDate": "2025-12-31"
+    },
+    {
+      "code": "A17094",
+      "secucode": "A17094.SH",
+      "name": "奇瑞金融",
+      "isCurrent": false,
+      "eps": 0.32,
+      "bps": 2.592009722082,
+      "roe": null,
+      "netProfitMargin": 35.8099568624,
+      "revenue": 4458877905.45,
+      "netProfit": 1596722254.49,
+      "ocfPerShare": -0.765174048484,
+      "reportDate": "2025-12-31"
+    },
+    {
+      "code": "A14600",
+      "secucode": "A14600.SH",
+      "name": "聚信股份",
+      "isCurrent": false,
+      "eps": 0.78,
+      "bps": 4.971519038107,
+      "roe": null,
+      "netProfitMargin": 27.1576929558,
+      "revenue": 988669400,
+      "netProfit": 268499800,
+      "ocfPerShare": 0.813987226748,
+      "reportDate": "2018-12-31"
+    },
+    {
+      "code": "Q154909",
+      "secucode": "Q154909.NQ",
+      "name": "盈讯股份",
+      "isCurrent": false,
+      "eps": 0.3,
+      "bps": 1.44,
+      "roe": 0.24,
+      "netProfitMargin": 12.66100441,
+      "revenue": 52006901.56,
+      "netProfit": 6550344.96,
+      "ocfPerShare": 0.563234061364,
+      "reportDate": "2016-12-31"
+    },
+    {
+      "code": "831618",
+      "secucode": "831618.NQ",
+      "name": "文广农贷",
+      "isCurrent": false,
+      "eps": -0.02,
+      "bps": 1.2988867072,
+      "roe": -1.23,
+      "netProfitMargin": -264.2937227131,
+      "revenue": 1520335.95,
+      "netProfit": -4018152.48,
+      "ocfPerShare": -0.03325086728,
+      "reportDate": "2021-03-31"
+    }
+  ]
+}
