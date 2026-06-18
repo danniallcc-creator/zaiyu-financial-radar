@@ -89,13 +89,15 @@
     // Auto-detect: if served from project root, data is at data/; if from frontend/, use ../data/
     const DATA_BASE = window.location.pathname.includes('/frontend/') ? '../data' : 'data';
     const fetchData = async (code) => {
-      const [emResult, cnResult] = await Promise.allSettled([
+      const [emResult, cnResult, indResult] = await Promise.allSettled([
         fetch(`${DATA_BASE}/eastmoney/${code}.json`).then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }),
-        fetch(`${DATA_BASE}/cninfo/${code}_sections.json`).then(r => { if (!r.ok) throw new Error('no cninfo'); return r.json(); })
+        fetch(`${DATA_BASE}/cninfo/${code}_sections.json`).then(r => { if (!r.ok) throw new Error('no cninfo'); return r.json(); }),
+        fetch(`${DATA_BASE}/industry/${code}_peers.json`).then(r => { if (!r.ok) throw new Error('no industry'); return r.json(); })
       ]);
       if (emResult.status !== 'fulfilled') throw emResult.reason;
       const data = emResult.value;
       if (cnResult.status === 'fulfilled') data.cninfo = cnResult.value;
+      if (indResult.status === 'fulfilled') data.industryPeers = indResult.value;
       return data;
     };
 
@@ -695,18 +697,64 @@
 
     // ─── Tab 5: IndustryCompare ─────────────────────────────────────────────
     const IndustryCompare = ({ data }) => {
-      const { profile, quote } = data;
+      const peers = data?.industryPeers;
+      const profile = data?.profile;
+      const quote = data?.quote;
+
+      if (!peers) {
+        return (
+          <div className="space-y-4">
+            <InfoCard title="同行业对比">
+              <p className="text-xs text-txt-dim leading-relaxed">
+                该股票的行业对比数据尚未生成。请先运行 <code className="text-gold">python etl/fetch_industry.py</code> 抓取行业数据。
+              </p>
+            </InfoCard>
+            <InfoCard title="当前公司行业信息">
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-1 text-xs">
+                <Row label="公司名称" value={profile?.name} />
+                <Row label="行业分类" value={profile?.industry} />
+                <Row label="证监会行业" value={profile?.industryCSRC} />
+                <Row label="当前PE" value={quote?.pe?.toFixed(2)} />
+                <Row label="当前PB" value={quote?.pb?.toFixed(2)} />
+                <Row label="总市值" value={formatNum(quote?.totalMV)} />
+              </div>
+            </InfoCard>
+          </div>
+        );
+      }
+
+      const peerList = peers.peers || [];
+      const fmtEps = v => v != null ? v.toFixed(2) : '-';
+      const fmtRoe = v => v != null ? v.toFixed(2) + '%' : '-';
+      const fmtNpm = v => v != null ? v.toFixed(1) + '%' : '-';
+      const fmtRev = v => v != null ? formatNum(v) : '-';
+
+      const headers = ['公司', 'EPS', 'ROE', '净利率', '营收', '净利润', '报告日期'];
+      const rows = peerList.map(p => [
+        { v: p.isCurrent ? `${p.name} *` : p.name, cls: p.isCurrent ? 'text-gold font-bold' : '' },
+        { v: fmtEps(p.eps), cls: p.eps >= 0 ? '' : 'text-down' },
+        { v: fmtRoe(p.roe), cls: p.roe > 15 ? 'text-up font-bold' : p.roe < 5 ? 'text-down' : '' },
+        { v: fmtNpm(p.netProfitMargin), cls: p.netProfitMargin > 20 ? 'text-up' : '' },
+        { v: fmtRev(p.revenue) },
+        { v: fmtRev(p.netProfit) },
+        { v: p.reportDate || '-', cls: 'text-txt-dim' },
+      ]);
+
       return (
         <div className="space-y-4">
           <InfoCard title="同行业对比">
-            <div className="text-center py-12">
-              <div className="text-gold text-lg font-bold mb-2">同行业对比功能开发中</div>
-              <div className="text-xs text-txt-dim max-w-md mx-auto leading-relaxed">
-                此功能将实现同行业公司的PE/PB/营收/利润横向对比，帮助识别估值洼地和成长龙头。
-                数据源将来自东方财富行业板块数据。
-              </div>
+            <div className="flex items-center gap-4 mb-3 flex-wrap">
+              <span className="text-sm text-gold font-bold">{peers.industry}</span>
+              <span className="text-[10px] text-txt-dim">共 {peers.peerCount} 家 A 股公司</span>
+              <span className="text-[10px] text-txt-dim">按营收降序排列</span>
+            </div>
+            <div className="text-[10px] text-txt-dim mb-2">
+              * 标记为当前查看的公司。数据来源于东方财富，取最新一期报告。
             </div>
           </InfoCard>
+
+          <MetricTable headers={headers} rows={rows} />
+
           <InfoCard title="当前公司行业信息">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-1 text-xs">
               <Row label="公司名称" value={profile?.name} />
