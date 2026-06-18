@@ -1,0 +1,1620 @@
+{
+  "code": "600096",
+  "name": "云天化",
+  "fetchTime": "2026-06-18T18:34:04",
+  "segments": [
+    {
+      "reportDate": "2025-12-31",
+      "byIndustry": [
+        {
+          "name": "化肥",
+          "income": 27098370170.83,
+          "incomeRatio": 55.97,
+          "cost": 20003726384.72,
+          "costRatio": 51.79,
+          "profit": 7094643786.11,
+          "profitRatio": 72.49,
+          "grossMargin": 26.18,
+          "rank": 1
+        },
+        {
+          "name": "商贸物流",
+          "income": 11849933760.77,
+          "incomeRatio": 24.48,
+          "cost": 11669083412.94,
+          "costRatio": 30.21,
+          "profit": 180850347.83,
+          "profitRatio": 1.85,
+          "grossMargin": 1.53,
+          "rank": 2
+        },
+        {
+          "name": "磷化工",
+          "income": 3383125807.1,
+          "incomeRatio": 6.99,
+          "cost": 2217656016.99,
+          "costRatio": 5.74,
+          "profit": 1165469790.11,
+          "profitRatio": 11.91,
+          "grossMargin": 34.45,
+          "rank": 3
+        },
+        {
+          "name": "其他",
+          "income": 2081569263.2,
+          "incomeRatio": 4.3,
+          "cost": 1759659236.48,
+          "costRatio": 4.56,
+          "profit": 321910026.72,
+          "profitRatio": 3.29,
+          "grossMargin": 15.46,
+          "rank": 4
+        },
+        {
+          "name": "工程材料",
+          "income": 1331999161.5,
+          "incomeRatio": 2.75,
+          "cost": 1014980553.52,
+          "costRatio": 2.63,
+          "profit": 317018607.98,
+          "profitRatio": 3.24,
+          "grossMargin": 23.8,
+          "rank": 5
+        },
+        {
+          "name": "新能源材料",
+          "income": 1320963410.76,
+          "incomeRatio": 2.73,
+          "cost": 1284804423.41,
+          "costRatio": 3.33,
+          "profit": 36158987.35,
+          "profitRatio": 0.37,
+          "grossMargin": 2.74,
+          "rank": 6
+        },
+        {
+          "name": "磷矿采选",
+          "income": 526884505.78,
+          "incomeRatio": 1.09,
+          "cost": 195788633.17,
+          "costRatio": 0.51,
+          "profit": 331095872.61,
+          "profitRatio": 3.38,
+          "grossMargin": 62.84,
+          "rank": 7
+        },
+        {
+          "name": "其他(补充)",
+          "income": 411277986.57,
+          "incomeRatio": 0.85,
+          "cost": 238934477.01,
+          "costRatio": 0.62,
+          "profit": 172343509.56,
+          "profitRatio": 1.76,
+          "grossMargin": 41.9,
+          "rank": 8
+        },
+        {
+          "name": "煤炭采掘",
+          "income": 410799675.27,
+          "incomeRatio": 0.85,
+          "cost": 243807813.71,
+          "costRatio": 0.63,
+          "profit": 166991861.56,
+          "profitRatio": 1.71,
+          "grossMargin": 40.65,
+          "rank": 9
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "磷肥",
+          "income": 15479422516.38,
+          "incomeRatio": 31.97,
+          "cost": 9897457914.52,
+          "costRatio": 25.62,
+          "profit": 5581964601.86,
+          "profitRatio": 57.04,
+          "grossMargin": 36.06,
+          "rank": 1
+        },
+        {
+          "name": "复合(混)肥",
+          "income": 6548317266.89,
+          "incomeRatio": 13.53,
+          "cost": 5630388420.77,
+          "costRatio": 14.58,
+          "profit": 917928846.12,
+          "profitRatio": 9.38,
+          "grossMargin": 14.02,
+          "rank": 2
+        },
+        {
+          "name": "商品粮食",
+          "income": 5610015974.84,
+          "incomeRatio": 11.59,
+          "cost": 5594450261.68,
+          "costRatio": 14.48,
+          "profit": 15565713.16,
+          "profitRatio": 0.16,
+          "grossMargin": 0.28,
+          "rank": 3
+        },
+        {
+          "name": "商贸化肥",
+          "income": 5110684673.3,
+          "incomeRatio": 10.56,
+          "cost": 5003383001.01,
+          "costRatio": 12.95,
+          "profit": 107301672.29,
+          "profitRatio": 1.1,
+          "grossMargin": 2.1,
+          "rank": 4
+        },
+        {
+          "name": "尿素",
+          "income": 4989677452.86,
+          "incomeRatio": 10.31,
+          "cost": 4371683993.55,
+          "costRatio": 11.32,
+          "profit": 617993459.31,
+          "profitRatio": 6.31,
+          "grossMargin": 12.39,
+          "rank": 5
+        },
+        {
+          "name": "其他",
+          "income": 3196651546.81,
+          "incomeRatio": 6.6,
+          "cost": 2879077386.34,
+          "costRatio": 7.45,
+          "profit": 317574160.47,
+          "profitRatio": 3.25,
+          "grossMargin": 9.93,
+          "rank": 6
+        },
+        {
+          "name": "饲料级磷酸钙盐",
+          "income": 2551835803.36,
+          "incomeRatio": 5.27,
+          "cost": 1577025404.53,
+          "costRatio": 4.08,
+          "profit": 974810398.83,
+          "profitRatio": 9.96,
+          "grossMargin": 38.2,
+          "rank": 7
+        },
+        {
+          "name": "其他商贸物流",
+          "income": 1129233112.63,
+          "incomeRatio": 2.33,
+          "cost": 1071250150.27,
+          "costRatio": 2.77,
+          "profit": 57982962.36,
+          "profitRatio": 0.59,
+          "grossMargin": 5.13,
+          "rank": 8
+        },
+        {
+          "name": "聚甲醛",
+          "income": 1126355140.96,
+          "incomeRatio": 2.33,
+          "cost": 863013654.57,
+          "costRatio": 2.23,
+          "profit": 263341486.39,
+          "profitRatio": 2.69,
+          "grossMargin": 23.38,
+          "rank": 9
+        },
+        {
+          "name": "磷矿石",
+          "income": 526884505.78,
+          "incomeRatio": 1.09,
+          "cost": 195788633.17,
+          "costRatio": 0.51,
+          "profit": 331095872.61,
+          "profitRatio": 3.38,
+          "grossMargin": 62.84,
+          "rank": 10
+        },
+        {
+          "name": "液氨",
+          "income": 453212566.2,
+          "incomeRatio": 0.94,
+          "cost": 423049870.3,
+          "costRatio": 1.1,
+          "profit": 30162695.9,
+          "profitRatio": 0.31,
+          "grossMargin": 6.66,
+          "rank": 11
+        },
+        {
+          "name": "其他(补充)",
+          "income": 411277986.57,
+          "incomeRatio": 0.85,
+          "cost": 238934477.01,
+          "costRatio": 0.62,
+          "profit": 172343509.56,
+          "profitRatio": 1.76,
+          "grossMargin": 41.9,
+          "rank": 12
+        },
+        {
+          "name": "煤炭",
+          "income": 410799675.27,
+          "incomeRatio": 0.85,
+          "cost": 243807813.71,
+          "costRatio": 0.63,
+          "profit": 166991861.56,
+          "profitRatio": 1.71,
+          "grossMargin": 40.65,
+          "rank": 13
+        },
+        {
+          "name": "黄磷",
+          "income": 364049613.32,
+          "incomeRatio": 0.75,
+          "cost": 207999554.96,
+          "costRatio": 0.54,
+          "profit": 156050058.36,
+          "profitRatio": 1.59,
+          "grossMargin": 42.87,
+          "rank": 14
+        },
+        {
+          "name": "磷酸",
+          "income": 320410159.56,
+          "incomeRatio": 0.66,
+          "cost": 286901194.83,
+          "costRatio": 0.74,
+          "profit": 33508964.73,
+          "profitRatio": 0.34,
+          "grossMargin": 10.46,
+          "rank": 15
+        },
+        {
+          "name": "季戊四醇",
+          "income": 186095747.05,
+          "incomeRatio": 0.38,
+          "cost": 144229220.73,
+          "costRatio": 0.37,
+          "profit": 41866526.32,
+          "profitRatio": 0.43,
+          "grossMargin": 22.5,
+          "rank": 16
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "自产产品国内销售",
+          "income": 29766701581.02,
+          "incomeRatio": 61.48,
+          "cost": 23351493373.12,
+          "costRatio": 60.45,
+          "profit": 6415208207.9,
+          "profitRatio": 65.55,
+          "grossMargin": 21.55,
+          "rank": 1
+        },
+        {
+          "name": "商贸业务",
+          "income": 11849933760.77,
+          "incomeRatio": 24.48,
+          "cost": 11669083412.94,
+          "costRatio": 30.21,
+          "profit": 180850347.83,
+          "profitRatio": 1.85,
+          "grossMargin": 1.53,
+          "rank": 2
+        },
+        {
+          "name": "自产产品国外销售",
+          "income": 6387010413.43,
+          "incomeRatio": 13.19,
+          "cost": 3368929688.87,
+          "costRatio": 8.72,
+          "profit": 3018080724.56,
+          "profitRatio": 30.84,
+          "grossMargin": 47.25,
+          "rank": 3
+        },
+        {
+          "name": "其他(补充)",
+          "income": 411277986.57,
+          "incomeRatio": 0.85,
+          "cost": 238934477.01,
+          "costRatio": 0.62,
+          "profit": 172343509.56,
+          "profitRatio": 1.76,
+          "grossMargin": 41.9,
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "reportDate": "2024-12-31",
+      "byIndustry": [
+        {
+          "name": "化肥",
+          "income": 26997214989.34,
+          "incomeRatio": 43.87,
+          "cost": 18969834331.05,
+          "costRatio": 37.37,
+          "profit": 8027380658.29,
+          "profitRatio": 74.54,
+          "grossMargin": 29.73,
+          "rank": 1
+        },
+        {
+          "name": "商贸物流",
+          "income": 25579669708.94,
+          "incomeRatio": 41.57,
+          "cost": 25221311069.25,
+          "costRatio": 49.68,
+          "profit": 358358639.69,
+          "profitRatio": 3.33,
+          "grossMargin": 1.4,
+          "rank": 2
+        },
+        {
+          "name": "磷化工",
+          "income": 2767887302.81,
+          "incomeRatio": 4.5,
+          "cost": 1849722547.59,
+          "costRatio": 3.64,
+          "profit": 918164755.22,
+          "profitRatio": 8.53,
+          "grossMargin": 33.17,
+          "rank": 3
+        },
+        {
+          "name": "其他",
+          "income": 2448613958.48,
+          "incomeRatio": 3.98,
+          "cost": 2147433807.48,
+          "costRatio": 4.23,
+          "profit": 301180151.0,
+          "profitRatio": 2.8,
+          "grossMargin": 12.3,
+          "rank": 4
+        },
+        {
+          "name": "工程材料",
+          "income": 1452318400.18,
+          "incomeRatio": 2.36,
+          "cost": 1080617353.4,
+          "costRatio": 2.13,
+          "profit": 371701046.78,
+          "profitRatio": 3.45,
+          "grossMargin": 25.59,
+          "rank": 5
+        },
+        {
+          "name": "新能源材料",
+          "income": 753548546.38,
+          "incomeRatio": 1.22,
+          "cost": 803459085.9,
+          "costRatio": 1.58,
+          "profit": -49910539.52,
+          "profitRatio": -0.46,
+          "grossMargin": -6.62,
+          "rank": 6
+        },
+        {
+          "name": "磷矿采选",
+          "income": 672893832.8,
+          "incomeRatio": 1.09,
+          "cost": 258201772.96,
+          "costRatio": 0.51,
+          "profit": 414692059.84,
+          "profitRatio": 3.85,
+          "grossMargin": 61.63,
+          "rank": 7
+        },
+        {
+          "name": "其他(补充)",
+          "income": 446116691.45,
+          "incomeRatio": 0.73,
+          "cost": 226174496.62,
+          "costRatio": 0.45,
+          "profit": 219942194.83,
+          "profitRatio": 2.04,
+          "grossMargin": 49.3,
+          "rank": 8
+        },
+        {
+          "name": "煤炭采掘",
+          "income": 418673480.24,
+          "incomeRatio": 0.68,
+          "cost": 210594651.12,
+          "costRatio": 0.41,
+          "profit": 208078829.12,
+          "profitRatio": 1.93,
+          "grossMargin": 49.7,
+          "rank": 9
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "商品粮食",
+          "income": 19593102557.65,
+          "incomeRatio": 31.84,
+          "cost": 19412332647.6,
+          "costRatio": 38.24,
+          "profit": 180769910.05,
+          "profitRatio": 1.68,
+          "grossMargin": 0.92,
+          "rank": 1
+        },
+        {
+          "name": "磷肥",
+          "income": 15728561574.81,
+          "incomeRatio": 25.56,
+          "cost": 9762423683.23,
+          "costRatio": 19.23,
+          "profit": 5966137891.58,
+          "profitRatio": 55.4,
+          "grossMargin": 37.93,
+          "rank": 2
+        },
+        {
+          "name": "尿素",
+          "income": 5624648692.0,
+          "incomeRatio": 9.14,
+          "cost": 4330393117.23,
+          "costRatio": 8.53,
+          "profit": 1294255574.77,
+          "profitRatio": 12.02,
+          "grossMargin": 23.01,
+          "rank": 3
+        },
+        {
+          "name": "复合(混)肥",
+          "income": 5580969299.1,
+          "incomeRatio": 9.07,
+          "cost": 4779649914.61,
+          "costRatio": 9.41,
+          "profit": 801319384.49,
+          "profitRatio": 7.44,
+          "grossMargin": 14.36,
+          "rank": 4
+        },
+        {
+          "name": "商贸化肥",
+          "income": 5090543153.02,
+          "incomeRatio": 8.27,
+          "cost": 4980928864.52,
+          "costRatio": 9.81,
+          "profit": 109614288.5,
+          "profitRatio": 1.02,
+          "grossMargin": 2.15,
+          "rank": 5
+        },
+        {
+          "name": "其他",
+          "income": 2943840397.16,
+          "incomeRatio": 4.78,
+          "cost": 2727750776.98,
+          "costRatio": 5.37,
+          "profit": 216089620.18,
+          "profitRatio": 2.01,
+          "grossMargin": 7.34,
+          "rank": 6
+        },
+        {
+          "name": "饲料级磷酸钙盐",
+          "income": 2031989819.09,
+          "incomeRatio": 3.3,
+          "cost": 1313187139.85,
+          "costRatio": 2.59,
+          "profit": 718802679.24,
+          "profitRatio": 6.67,
+          "grossMargin": 35.37,
+          "rank": 7
+        },
+        {
+          "name": "聚甲醛",
+          "income": 1283126811.36,
+          "incomeRatio": 2.09,
+          "cost": 916663883.12,
+          "costRatio": 1.81,
+          "profit": 366462928.24,
+          "profitRatio": 3.4,
+          "grossMargin": 28.56,
+          "rank": 8
+        },
+        {
+          "name": "其他商贸物流",
+          "income": 896023998.27,
+          "incomeRatio": 1.46,
+          "cost": 828049557.13,
+          "costRatio": 1.63,
+          "profit": 67974441.14,
+          "profitRatio": 0.63,
+          "grossMargin": 7.59,
+          "rank": 9
+        },
+        {
+          "name": "磷矿石",
+          "income": 672893832.8,
+          "incomeRatio": 1.09,
+          "cost": 258201772.96,
+          "costRatio": 0.51,
+          "profit": 414692059.84,
+          "profitRatio": 3.85,
+          "grossMargin": 61.63,
+          "rank": 10
+        },
+        {
+          "name": "液氨",
+          "income": 486492507.45,
+          "incomeRatio": 0.79,
+          "cost": 470118638.19,
+          "costRatio": 0.93,
+          "profit": 16373869.26,
+          "profitRatio": 0.15,
+          "grossMargin": 3.37,
+          "rank": 11
+        },
+        {
+          "name": "其他(补充)",
+          "income": 446116691.45,
+          "incomeRatio": 0.73,
+          "cost": 226174496.62,
+          "costRatio": 0.45,
+          "profit": 219942194.83,
+          "profitRatio": 2.04,
+          "grossMargin": 49.3,
+          "rank": 12
+        },
+        {
+          "name": "煤炭",
+          "income": 418673480.24,
+          "incomeRatio": 0.68,
+          "cost": 210594651.12,
+          "costRatio": 0.41,
+          "profit": 208078829.12,
+          "profitRatio": 1.93,
+          "grossMargin": 49.7,
+          "rank": 13
+        },
+        {
+          "name": "黄磷",
+          "income": 404794883.71,
+          "incomeRatio": 0.66,
+          "cost": 240912585.27,
+          "costRatio": 0.47,
+          "profit": 163882298.44,
+          "profitRatio": 1.52,
+          "grossMargin": 40.49,
+          "rank": 14
+        },
+        {
+          "name": "磷酸",
+          "income": 187244202.46,
+          "incomeRatio": 0.3,
+          "cost": 152904688.63,
+          "costRatio": 0.3,
+          "profit": 34339513.83,
+          "profitRatio": 0.32,
+          "grossMargin": 18.34,
+          "rank": 15
+        },
+        {
+          "name": "季戊四醇",
+          "income": 147915010.05,
+          "incomeRatio": 0.24,
+          "cost": 157062698.31,
+          "costRatio": 0.31,
+          "profit": -9147688.26,
+          "profitRatio": -0.08,
+          "grossMargin": -6.18,
+          "rank": 16
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "自产产品国内销售",
+          "income": 29153574664.85,
+          "incomeRatio": 47.38,
+          "cost": 21191383522.73,
+          "costRatio": 41.74,
+          "profit": 7962191142.12,
+          "profitRatio": 73.93,
+          "grossMargin": 27.31,
+          "rank": 1
+        },
+        {
+          "name": "商贸业务",
+          "income": 25579669708.94,
+          "incomeRatio": 41.57,
+          "cost": 25221311069.25,
+          "costRatio": 49.68,
+          "profit": 358358639.69,
+          "profitRatio": 3.33,
+          "grossMargin": 1.4,
+          "rank": 2
+        },
+        {
+          "name": "自产产品国外销售",
+          "income": 6357575845.38,
+          "incomeRatio": 10.33,
+          "cost": 4128480026.77,
+          "costRatio": 8.13,
+          "profit": 2229095818.61,
+          "profitRatio": 20.7,
+          "grossMargin": 35.06,
+          "rank": 3
+        },
+        {
+          "name": "其他(补充)",
+          "income": 446116691.45,
+          "incomeRatio": 0.73,
+          "cost": 226174496.62,
+          "costRatio": 0.45,
+          "profit": 219942194.83,
+          "profitRatio": 2.04,
+          "grossMargin": 49.3,
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "reportDate": "2023-12-31",
+      "byIndustry": [
+        {
+          "name": "商贸物流",
+          "income": 33541960142.98,
+          "incomeRatio": 48.57,
+          "cost": 33016073516.56,
+          "costRatio": 56.36,
+          "profit": 525886626.42,
+          "profitRatio": 5.02,
+          "grossMargin": 1.57,
+          "rank": 1
+        },
+        {
+          "name": "化肥",
+          "income": 26532658350.61,
+          "incomeRatio": 38.42,
+          "cost": 18908866006.31,
+          "costRatio": 32.28,
+          "profit": 7623792344.3,
+          "profitRatio": 72.74,
+          "grossMargin": 28.73,
+          "rank": 2
+        },
+        {
+          "name": "磷化工",
+          "income": 2764426231.98,
+          "incomeRatio": 4.0,
+          "cost": 2014413545.24,
+          "costRatio": 3.44,
+          "profit": 750012686.74,
+          "profitRatio": 7.16,
+          "grossMargin": 27.13,
+          "rank": 3
+        },
+        {
+          "name": "其他",
+          "income": 2307283555.5,
+          "incomeRatio": 3.34,
+          "cost": 2015898221.18,
+          "costRatio": 3.44,
+          "profit": 291385334.32,
+          "profitRatio": 2.78,
+          "grossMargin": 12.63,
+          "rank": 4
+        },
+        {
+          "name": "工程材料",
+          "income": 1407357012.24,
+          "incomeRatio": 2.04,
+          "cost": 1094374680.47,
+          "costRatio": 1.87,
+          "profit": 312982331.77,
+          "profitRatio": 2.99,
+          "grossMargin": 22.24,
+          "rank": 5
+        },
+        {
+          "name": "磷矿采选",
+          "income": 779832467.85,
+          "incomeRatio": 1.13,
+          "cost": 420767528.19,
+          "costRatio": 0.72,
+          "profit": 359064939.66,
+          "profitRatio": 3.43,
+          "grossMargin": 46.04,
+          "rank": 6
+        },
+        {
+          "name": "新材料",
+          "income": 721021569.47,
+          "incomeRatio": 1.04,
+          "cost": 644082567.26,
+          "costRatio": 1.1,
+          "profit": 76939002.21,
+          "profitRatio": 0.73,
+          "grossMargin": 10.67,
+          "rank": 7
+        },
+        {
+          "name": "其他(补充)",
+          "income": 541556661.46,
+          "incomeRatio": 0.78,
+          "cost": 278914615.76,
+          "costRatio": 0.48,
+          "profit": 262642045.7,
+          "profitRatio": 2.51,
+          "grossMargin": 48.5,
+          "rank": 8
+        },
+        {
+          "name": "煤炭采掘",
+          "income": 464116642.4,
+          "incomeRatio": 0.67,
+          "cost": 185897501.37,
+          "costRatio": 0.32,
+          "profit": 278219141.03,
+          "profitRatio": 2.65,
+          "grossMargin": 59.95,
+          "rank": 9
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "商品粮食",
+          "income": 25788878468.62,
+          "incomeRatio": 37.34,
+          "cost": 25547889704.67,
+          "costRatio": 43.61,
+          "profit": 240988763.95,
+          "profitRatio": 2.3,
+          "grossMargin": 0.93,
+          "rank": 1
+        },
+        {
+          "name": "磷酸二铵",
+          "income": 12327428523.0,
+          "incomeRatio": 17.85,
+          "cost": 8330424819.65,
+          "costRatio": 14.22,
+          "profit": 3997003703.35,
+          "profitRatio": 38.14,
+          "grossMargin": 32.42,
+          "rank": 2
+        },
+        {
+          "name": "尿素",
+          "income": 5781254269.32,
+          "incomeRatio": 8.37,
+          "cost": 3861197204.02,
+          "costRatio": 6.59,
+          "profit": 1920057065.3,
+          "profitRatio": 18.32,
+          "grossMargin": 33.21,
+          "rank": 3
+        },
+        {
+          "name": "商贸化肥",
+          "income": 5162995696.03,
+          "incomeRatio": 7.48,
+          "cost": 5012037225.01,
+          "costRatio": 8.56,
+          "profit": 150958471.02,
+          "profitRatio": 1.44,
+          "grossMargin": 2.92,
+          "rank": 4
+        },
+        {
+          "name": "复合(混)肥",
+          "income": 4785420057.73,
+          "incomeRatio": 6.93,
+          "cost": 4261839272.21,
+          "costRatio": 7.28,
+          "profit": 523580785.52,
+          "profitRatio": 5.0,
+          "grossMargin": 10.94,
+          "rank": 5
+        },
+        {
+          "name": "磷酸一铵",
+          "income": 3441819315.15,
+          "incomeRatio": 4.98,
+          "cost": 2231858038.89,
+          "costRatio": 3.81,
+          "profit": 1209961276.26,
+          "profitRatio": 11.54,
+          "grossMargin": 35.15,
+          "rank": 6
+        },
+        {
+          "name": "其他商贸物流",
+          "income": 2590085978.33,
+          "incomeRatio": 3.75,
+          "cost": 2456146586.89,
+          "costRatio": 4.19,
+          "profit": 133939391.44,
+          "profitRatio": 1.28,
+          "grossMargin": 5.17,
+          "rank": 7
+        },
+        {
+          "name": "其他",
+          "income": 2368905025.13,
+          "incomeRatio": 3.43,
+          "cost": 2252455371.27,
+          "costRatio": 3.85,
+          "profit": 116449653.86,
+          "profitRatio": 1.11,
+          "grossMargin": 4.92,
+          "rank": 8
+        },
+        {
+          "name": "饲料级磷酸钙盐",
+          "income": 1794918977.35,
+          "incomeRatio": 2.6,
+          "cost": 1234969499.48,
+          "costRatio": 2.11,
+          "profit": 559949477.87,
+          "profitRatio": 5.34,
+          "grossMargin": 31.2,
+          "rank": 9
+        },
+        {
+          "name": "聚甲醛",
+          "income": 1263821318.47,
+          "incomeRatio": 1.83,
+          "cost": 936733222.92,
+          "costRatio": 1.6,
+          "profit": 327088095.55,
+          "profitRatio": 3.12,
+          "grossMargin": 25.88,
+          "rank": 10
+        },
+        {
+          "name": "磷酸",
+          "income": 908948480.65,
+          "incomeRatio": 1.32,
+          "cost": 762168333.94,
+          "costRatio": 1.3,
+          "profit": 146780146.71,
+          "profitRatio": 1.4,
+          "grossMargin": 16.15,
+          "rank": 11
+        },
+        {
+          "name": "磷矿石",
+          "income": 779832467.85,
+          "incomeRatio": 1.13,
+          "cost": 420767528.19,
+          "costRatio": 0.72,
+          "profit": 359064939.66,
+          "profitRatio": 3.43,
+          "grossMargin": 46.04,
+          "rank": 12
+        },
+        {
+          "name": "液氨",
+          "income": 592747658.33,
+          "incomeRatio": 0.86,
+          "cost": 495635523.53,
+          "costRatio": 0.85,
+          "profit": 97112134.8,
+          "profitRatio": 0.93,
+          "grossMargin": 16.38,
+          "rank": 13
+        },
+        {
+          "name": "其他(补充)",
+          "income": 541556661.46,
+          "incomeRatio": 0.78,
+          "cost": 278914615.76,
+          "costRatio": 0.48,
+          "profit": 262642045.7,
+          "profitRatio": 2.51,
+          "grossMargin": 48.5,
+          "rank": 14
+        },
+        {
+          "name": "黄磷",
+          "income": 467483094.67,
+          "incomeRatio": 0.68,
+          "cost": 310353734.54,
+          "costRatio": 0.53,
+          "profit": 157129360.13,
+          "profitRatio": 1.5,
+          "grossMargin": 33.61,
+          "rank": 15
+        },
+        {
+          "name": "煤炭",
+          "income": 464116642.4,
+          "incomeRatio": 0.67,
+          "cost": 185897501.37,
+          "costRatio": 0.32,
+          "profit": 278219141.03,
+          "profitRatio": 2.65,
+          "grossMargin": 59.95,
+          "rank": 16
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "商贸业务",
+          "income": 33541960142.98,
+          "incomeRatio": 48.57,
+          "cost": 33016073516.56,
+          "costRatio": 56.36,
+          "profit": 525886626.42,
+          "profitRatio": 5.02,
+          "grossMargin": 1.57,
+          "rank": 1
+        },
+        {
+          "name": "自产产品国内销售",
+          "income": 28250810884.24,
+          "incomeRatio": 40.91,
+          "cost": 20922420365.82,
+          "costRatio": 35.72,
+          "profit": 7328390518.42,
+          "profitRatio": 69.92,
+          "grossMargin": 25.94,
+          "rank": 2
+        },
+        {
+          "name": "自产产品国外销售",
+          "income": 6725884945.81,
+          "incomeRatio": 9.74,
+          "cost": 4361879684.21,
+          "costRatio": 7.45,
+          "profit": 2364005261.6,
+          "profitRatio": 22.56,
+          "grossMargin": 35.15,
+          "rank": 3
+        },
+        {
+          "name": "其他(补充)",
+          "income": 541556661.46,
+          "incomeRatio": 0.78,
+          "cost": 278914615.76,
+          "costRatio": 0.48,
+          "profit": 262642045.7,
+          "profitRatio": 2.51,
+          "grossMargin": 48.5,
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "reportDate": "2022-12-31",
+      "byIndustry": [
+        {
+          "name": "商贸物流",
+          "income": 38427686898.13,
+          "incomeRatio": 51.02,
+          "cost": 37579156321.87,
+          "costRatio": 59.56,
+          "profit": 848530576.26,
+          "profitRatio": 6.95,
+          "grossMargin": 2.21,
+          "rank": 1
+        },
+        {
+          "name": "化肥",
+          "income": 26644826833.29,
+          "incomeRatio": 35.38,
+          "cost": 18956221482.89,
+          "costRatio": 30.04,
+          "profit": 7688605350.4,
+          "profitRatio": 62.95,
+          "grossMargin": 28.86,
+          "rank": 2
+        },
+        {
+          "name": "磷化工",
+          "income": 3956815343.75,
+          "incomeRatio": 5.25,
+          "cost": 2739186236.89,
+          "costRatio": 4.34,
+          "profit": 1217629106.86,
+          "profitRatio": 9.97,
+          "grossMargin": 30.77,
+          "rank": 3
+        },
+        {
+          "name": "其他",
+          "income": 2334455207.28,
+          "incomeRatio": 3.1,
+          "cost": 1865006080.91,
+          "costRatio": 2.96,
+          "profit": 469449126.37,
+          "profitRatio": 3.84,
+          "grossMargin": 20.11,
+          "rank": 4
+        },
+        {
+          "name": "工程材料",
+          "income": 1811439566.55,
+          "incomeRatio": 2.41,
+          "cost": 1061392613.56,
+          "costRatio": 1.68,
+          "profit": 750046952.99,
+          "profitRatio": 6.14,
+          "grossMargin": 41.41,
+          "rank": 5
+        },
+        {
+          "name": "其他(补充)",
+          "income": 824703855.06,
+          "incomeRatio": 1.09,
+          "cost": 491247777.36,
+          "costRatio": 0.78,
+          "profit": 333456077.7,
+          "profitRatio": 2.73,
+          "grossMargin": 40.43,
+          "rank": 6
+        },
+        {
+          "name": "磷矿采选",
+          "income": 719324485.9,
+          "incomeRatio": 0.96,
+          "cost": 233791749.2,
+          "costRatio": 0.37,
+          "profit": 485532736.7,
+          "profitRatio": 3.98,
+          "grossMargin": 67.5,
+          "rank": 7
+        },
+        {
+          "name": "煤炭采掘",
+          "income": 594040267.66,
+          "incomeRatio": 0.79,
+          "cost": 173827180.64,
+          "costRatio": 0.28,
+          "profit": 420213087.02,
+          "profitRatio": 3.44,
+          "grossMargin": 70.74,
+          "rank": 8
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "商品粮食",
+          "income": 25983274759.79,
+          "incomeRatio": 34.5,
+          "cost": 25709927331.49,
+          "costRatio": 40.74,
+          "profit": 273347428.3,
+          "profitRatio": 2.24,
+          "grossMargin": 1.05,
+          "rank": 1
+        },
+        {
+          "name": "磷酸二铵",
+          "income": 13629434488.38,
+          "incomeRatio": 18.1,
+          "cost": 10204215332.08,
+          "costRatio": 16.17,
+          "profit": 3425219156.3,
+          "profitRatio": 28.04,
+          "grossMargin": 25.13,
+          "rank": 2
+        },
+        {
+          "name": "商贸化肥",
+          "income": 9943491712.4,
+          "incomeRatio": 13.2,
+          "cost": 9421629734.14,
+          "costRatio": 14.93,
+          "profit": 521861978.26,
+          "profitRatio": 4.27,
+          "grossMargin": 5.25,
+          "rank": 3
+        },
+        {
+          "name": "尿素",
+          "income": 5044229600.43,
+          "incomeRatio": 6.7,
+          "cost": 2934708919.28,
+          "costRatio": 4.65,
+          "profit": 2109520681.15,
+          "profitRatio": 17.27,
+          "grossMargin": 41.82,
+          "rank": 4
+        },
+        {
+          "name": "磷酸一铵",
+          "income": 4607594639.96,
+          "incomeRatio": 6.12,
+          "cost": 3001155436.92,
+          "costRatio": 4.76,
+          "profit": 1606439203.04,
+          "profitRatio": 13.15,
+          "grossMargin": 34.87,
+          "rank": 5
+        },
+        {
+          "name": "复合(混)肥",
+          "income": 3245785265.86,
+          "incomeRatio": 4.31,
+          "cost": 2679874955.73,
+          "costRatio": 4.25,
+          "profit": 565910310.13,
+          "profitRatio": 4.63,
+          "grossMargin": 17.44,
+          "rank": 6
+        },
+        {
+          "name": "其他商贸物流",
+          "income": 2500920425.94,
+          "incomeRatio": 3.32,
+          "cost": 2447599256.24,
+          "costRatio": 3.88,
+          "profit": 53321169.7,
+          "profitRatio": 0.44,
+          "grossMargin": 2.13,
+          "rank": 7
+        },
+        {
+          "name": "饲料级磷酸钙盐",
+          "income": 2210185577.82,
+          "incomeRatio": 2.93,
+          "cost": 1549501598.88,
+          "costRatio": 2.46,
+          "profit": 660683978.94,
+          "profitRatio": 5.41,
+          "grossMargin": 29.89,
+          "rank": 8
+        },
+        {
+          "name": "其他",
+          "income": 2182319730.86,
+          "incomeRatio": 2.9,
+          "cost": 1945305233.14,
+          "costRatio": 3.08,
+          "profit": 237014497.72,
+          "profitRatio": 1.94,
+          "grossMargin": 10.86,
+          "rank": 9
+        },
+        {
+          "name": "聚甲醛",
+          "income": 1635380084.53,
+          "incomeRatio": 2.17,
+          "cost": 897696571.45,
+          "costRatio": 1.42,
+          "profit": 737683513.08,
+          "profitRatio": 6.04,
+          "grossMargin": 45.11,
+          "rank": 10
+        },
+        {
+          "name": "磷酸",
+          "income": 998197831.07,
+          "incomeRatio": 1.33,
+          "cost": 798178479.32,
+          "costRatio": 1.26,
+          "profit": 200019351.75,
+          "profitRatio": 1.64,
+          "grossMargin": 20.04,
+          "rank": 11
+        },
+        {
+          "name": "其他(补充)",
+          "income": 824703855.06,
+          "incomeRatio": 1.09,
+          "cost": 491247777.36,
+          "costRatio": 0.78,
+          "profit": 333456077.7,
+          "profitRatio": 2.73,
+          "grossMargin": 40.43,
+          "rank": 12
+        },
+        {
+          "name": "磷矿石",
+          "income": 719324485.9,
+          "incomeRatio": 0.96,
+          "cost": 233791749.2,
+          "costRatio": 0.37,
+          "profit": 485532736.7,
+          "profitRatio": 3.98,
+          "grossMargin": 67.5,
+          "rank": 13
+        },
+        {
+          "name": "黄磷",
+          "income": 628322702.47,
+          "incomeRatio": 0.83,
+          "cost": 281323706.84,
+          "costRatio": 0.45,
+          "profit": 346998995.63,
+          "profitRatio": 2.84,
+          "grossMargin": 55.23,
+          "rank": 14
+        },
+        {
+          "name": "煤炭",
+          "income": 594040267.66,
+          "incomeRatio": 0.79,
+          "cost": 173827180.64,
+          "costRatio": 0.28,
+          "profit": 420213087.02,
+          "profitRatio": 3.44,
+          "grossMargin": 70.74,
+          "rank": 15
+        },
+        {
+          "name": "液氨",
+          "income": 566087029.5,
+          "incomeRatio": 0.75,
+          "cost": 329846180.62,
+          "costRatio": 0.52,
+          "profit": 236240848.88,
+          "profitRatio": 1.93,
+          "grossMargin": 41.73,
+          "rank": 16
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "商贸业务",
+          "income": 38427686898.13,
+          "incomeRatio": 51.02,
+          "cost": 37579156321.87,
+          "costRatio": 59.56,
+          "profit": 848530576.26,
+          "profitRatio": 6.95,
+          "grossMargin": 2.21,
+          "rank": 1
+        },
+        {
+          "name": "自产产品国内销售",
+          "income": 28490575476.24,
+          "incomeRatio": 37.83,
+          "cost": 20056878448.96,
+          "costRatio": 31.79,
+          "profit": 8433697027.28,
+          "profitRatio": 69.05,
+          "grossMargin": 29.6,
+          "rank": 2
+        },
+        {
+          "name": "自产产品国外销售",
+          "income": 7570326228.2,
+          "incomeRatio": 10.05,
+          "cost": 4972546895.14,
+          "costRatio": 7.88,
+          "profit": 2597779333.06,
+          "profitRatio": 21.27,
+          "grossMargin": 34.32,
+          "rank": 3
+        },
+        {
+          "name": "其他(补充)",
+          "income": 824703855.06,
+          "incomeRatio": 1.09,
+          "cost": 491247777.36,
+          "costRatio": 0.78,
+          "profit": 333456077.7,
+          "profitRatio": 2.73,
+          "grossMargin": 40.43,
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "reportDate": "2021-12-31",
+      "byIndustry": [
+        {
+          "name": "商贸物流行业",
+          "income": 36859714894.95,
+          "incomeRatio": 58.28,
+          "cost": 36338982038.72,
+          "costRatio": 66.56,
+          "profit": 520732856.23,
+          "profitRatio": 6.02,
+          "grossMargin": 1.41,
+          "rank": 1
+        },
+        {
+          "name": "化肥相关行业",
+          "income": 20562036874.31,
+          "incomeRatio": 32.51,
+          "cost": 14585583170.11,
+          "costRatio": 26.71,
+          "profit": 5976453704.2,
+          "profitRatio": 69.09,
+          "grossMargin": 29.07,
+          "rank": 2
+        },
+        {
+          "name": "磷化工行业",
+          "income": 2370223608.05,
+          "incomeRatio": 3.75,
+          "cost": 1752843556.26,
+          "costRatio": 3.21,
+          "profit": 617380051.79,
+          "profitRatio": 7.14,
+          "grossMargin": 26.05,
+          "rank": 3
+        },
+        {
+          "name": "工程材料行业",
+          "income": 1863018566.39,
+          "incomeRatio": 2.95,
+          "cost": 1262420719.7,
+          "costRatio": 2.31,
+          "profit": 600597846.69,
+          "profitRatio": 6.94,
+          "grossMargin": 32.24,
+          "rank": 4
+        },
+        {
+          "name": "磷矿采选行业",
+          "income": 585619517.16,
+          "incomeRatio": 0.93,
+          "cost": 204581374.31,
+          "costRatio": 0.37,
+          "profit": 381038142.85,
+          "profitRatio": 4.4,
+          "grossMargin": 65.07,
+          "rank": 5
+        },
+        {
+          "name": "煤炭采掘行业",
+          "income": 509579342.75,
+          "incomeRatio": 0.81,
+          "cost": 168259257.1,
+          "costRatio": 0.31,
+          "profit": 341320085.65,
+          "profitRatio": 3.95,
+          "grossMargin": 66.98,
+          "rank": 6
+        },
+        {
+          "name": "其他(补充)",
+          "income": 499035090.1,
+          "incomeRatio": 0.79,
+          "cost": 285997400.44,
+          "costRatio": 0.52,
+          "profit": 213037689.66,
+          "profitRatio": 2.46,
+          "grossMargin": 42.69,
+          "rank": 7
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "商品粮食",
+          "income": 24198587718.09,
+          "incomeRatio": 38.26,
+          "cost": 24128340345.75,
+          "costRatio": 44.19,
+          "profit": 70247372.34,
+          "profitRatio": 0.81,
+          "grossMargin": 0.29,
+          "rank": 1
+        },
+        {
+          "name": "磷酸二铵",
+          "income": 9666248275.78,
+          "incomeRatio": 15.28,
+          "cost": 6992328913.58,
+          "costRatio": 12.81,
+          "profit": 2673919362.2,
+          "profitRatio": 30.91,
+          "grossMargin": 27.66,
+          "rank": 2
+        },
+        {
+          "name": "商贸化肥",
+          "income": 7851035138.64,
+          "incomeRatio": 12.41,
+          "cost": 7474513220.1,
+          "costRatio": 13.69,
+          "profit": 376521918.54,
+          "profitRatio": 4.35,
+          "grossMargin": 4.8,
+          "rank": 3
+        },
+        {
+          "name": "其他商贸物流",
+          "income": 4810092038.22,
+          "incomeRatio": 7.61,
+          "cost": 4736128472.87,
+          "costRatio": 8.67,
+          "profit": 73963565.35,
+          "profitRatio": 0.85,
+          "grossMargin": 1.54,
+          "rank": 4
+        },
+        {
+          "name": "磷酸一铵",
+          "income": 3623408140.58,
+          "incomeRatio": 5.73,
+          "cost": 2300495573.56,
+          "costRatio": 4.21,
+          "profit": 1322912567.02,
+          "profitRatio": 15.29,
+          "grossMargin": 36.51,
+          "rank": 5
+        },
+        {
+          "name": "尿素",
+          "income": 3381835911.24,
+          "incomeRatio": 5.35,
+          "cost": 2057651890.2,
+          "costRatio": 3.77,
+          "profit": 1324184021.04,
+          "profitRatio": 15.31,
+          "grossMargin": 39.16,
+          "rank": 6
+        },
+        {
+          "name": "复合(混)肥",
+          "income": 2758764158.01,
+          "incomeRatio": 4.36,
+          "cost": 2376303101.46,
+          "costRatio": 4.35,
+          "profit": 382461056.55,
+          "profitRatio": 4.42,
+          "grossMargin": 13.86,
+          "rank": 7
+        },
+        {
+          "name": "饲料级磷酸钙盐",
+          "income": 1525180758.21,
+          "incomeRatio": 2.41,
+          "cost": 1140635663.26,
+          "costRatio": 2.09,
+          "profit": 384545094.95,
+          "profitRatio": 4.45,
+          "grossMargin": 25.21,
+          "rank": 8
+        },
+        {
+          "name": "聚甲醛",
+          "income": 1380493680.89,
+          "incomeRatio": 2.18,
+          "cost": 759236495.81,
+          "costRatio": 1.39,
+          "profit": 621257185.08,
+          "profitRatio": 7.18,
+          "grossMargin": 45.0,
+          "rank": 9
+        },
+        {
+          "name": "其他",
+          "income": 1247149456.14,
+          "incomeRatio": 1.97,
+          "cost": 1083585007.66,
+          "costRatio": 1.98,
+          "profit": 163564448.48,
+          "profitRatio": 1.89,
+          "grossMargin": 13.12,
+          "rank": 10
+        },
+        {
+          "name": "磷矿石",
+          "income": 585619517.16,
+          "incomeRatio": 0.93,
+          "cost": 204581374.31,
+          "costRatio": 0.37,
+          "profit": 381038142.85,
+          "profitRatio": 4.4,
+          "grossMargin": 65.07,
+          "rank": 11
+        },
+        {
+          "name": "煤炭",
+          "income": 509579342.75,
+          "incomeRatio": 0.81,
+          "cost": 168259257.1,
+          "costRatio": 0.31,
+          "profit": 341320085.65,
+          "profitRatio": 3.95,
+          "grossMargin": 66.98,
+          "rank": 12
+        },
+        {
+          "name": "液氨",
+          "income": 504696837.61,
+          "incomeRatio": 0.8,
+          "cost": 383235789.69,
+          "costRatio": 0.7,
+          "profit": 121461047.92,
+          "profitRatio": 1.4,
+          "grossMargin": 24.07,
+          "rank": 13
+        },
+        {
+          "name": "其他(补充)",
+          "income": 499035090.1,
+          "incomeRatio": 0.79,
+          "cost": 285997400.44,
+          "costRatio": 0.52,
+          "profit": 213037689.66,
+          "profitRatio": 2.46,
+          "grossMargin": 42.69,
+          "rank": 14
+        },
+        {
+          "name": "磷酸",
+          "income": 356748373.59,
+          "incomeRatio": 0.56,
+          "cost": 313461842.72,
+          "costRatio": 0.57,
+          "profit": 43286530.87,
+          "profitRatio": 0.5,
+          "grossMargin": 12.13,
+          "rank": 15
+        },
+        {
+          "name": "黄磷",
+          "income": 350753456.69,
+          "incomeRatio": 0.55,
+          "cost": 193913168.12,
+          "costRatio": 0.36,
+          "profit": 156840288.57,
+          "profitRatio": 1.81,
+          "grossMargin": 44.72,
+          "rank": 16
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "国内地区",
+          "income": 39835532081.75,
+          "incomeRatio": 62.98,
+          "cost": 32405340379.11,
+          "costRatio": 59.35,
+          "profit": 7430191702.64,
+          "profitRatio": 85.89,
+          "grossMargin": 18.65,
+          "rank": 1
+        },
+        {
+          "name": "国外地区",
+          "income": 22914660721.86,
+          "incomeRatio": 36.23,
+          "cost": 21907329737.09,
+          "costRatio": 40.12,
+          "profit": 1007330984.77,
+          "profitRatio": 11.64,
+          "grossMargin": 4.4,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 499035090.1,
+          "incomeRatio": 0.79,
+          "cost": 285997400.44,
+          "costRatio": 0.52,
+          "profit": 213037689.66,
+          "profitRatio": 2.46,
+          "grossMargin": 42.69,
+          "rank": 3
+        }
+      ]
+    }
+  ],
+  "analysis": [
+    {
+      "reportDate": "2025-12-31",
+      "businessReview": "2025年,外部环境不稳定、不确定性显著上升,贸易壁垒与地缘冲突加剧,外部冲击持续加大,叠加产业趋于过剩,市场竞争激烈,部分大宗原料价格大幅上涨、部分产品价格持续下行等多重经营挑战,公司以“满负荷、快周转、低库存、防风险”为原则,聚焦深化改革纵深推进、紧扣绿色发展稳健运行、围绕生产经营精耕细作,公司绿色高质量发展呈现稳健态势。报告期内,公司实现营业收入484.15亿元,归母净利润51.56亿元。报告期内,安全环保形势平稳。公司持续完善安全管理体系建设,全面落实全员安全生产责任制,夯实健康、安全、环境管理基础,持续推进安全文化体系建设。不断强化应急处置演练,配强应急处置队伍及设施,提升应急处置能力。启动安全生产巡查,开展安全隐患专项排查整治,完成多个环保项目建设改造,有效治理风险隐患。全面排查磷石膏库等风险隐患,按照“一库一策”分级分类推进磷石膏综合整治,持续推进生态修复项目,多途径提升磷石膏综合利用。报告期内,生产装置运行稳定。公司坚持倡导“长周期”文化、弘扬“百日红”精神,持续完善精益生产管理体系建设,推进装置效能提升、对标对表、非计划停车管控等重点工作,主要生产装置实现“长周期”目标105个,多套装置突破最长运行纪录。深入推进大型装置综合能力提升,稳步提升装置运行效能,有效提高能源利用效率,主要产品综合能耗稳中有降。积极推进磷铵、尿素等产品碳足迹核查评估,完成4个磷铵产品参与国家产品碳足迹标识认证工作。报告期内,全产业链高效运营。采购端,公司坚持“强谋划、总统筹、快响应”的思路,纵深推进集采业务,提升物资品类的集采规模,推动采购体系重塑和采购降本增效,以战略采购积极把握采购节奏,有效应对原料价格大幅波动,实现了保供稳定,硫磺等大宗原料采购成本优于市场价格。在营销端,公司始终坚持落实保供稳价政策,有序统筹国内国际两个市场,精细化推进两个市场有序转换、有序衔接,强化产品结构和市场节奏优化调整,促进公司效益最大化。物流端,积极协调落实铁路运输优惠政策,降低运输费用。报告期内,财务管控持续优化。公司高效推进预算执行和刚性约束,促进预算执行与经营效益的协同提升。深化存货与应收账款精细化专项管控,存货及应收账款管理表现稳健,周转效率稳定可控。规模化集中管控资金,实现资金有效调剂和效益最大化。动态管控带息负债规模,优化负债结构,公司综合融资成本、带息负债规模及资产负债率同比优化下降。持续聚焦费用优化挖潜,着力强化可控费用的精细化管理,“三项费用”同比持续下降。报告期内,科学谋划产业布局。公司完成“十四五”战略收官复盘,并结合公司产业发展实际,制定了“十五五”战略规划。重大项目稳步推进,450万吨/年磷矿浮选项目实现机械竣工；子公司金新化工、天安化工、大为制氨完成合成氨产能技改提升；参股公司镇雄磷矿探转采工作快速推进,已取得采矿权证和采矿许可证。完成10万吨/年磷酸铁项目连续法技术改造,提升装置开工率,进一步优化改进装置运行效率。2025年,公司先后获得两项云南省科技进步三等奖,中国石化联合会科技进步二等奖,中国循环经济协会科技进步一等奖等多个奖项,技术研发取得明显成效。聚焦主营主业,快速推进低效、无效股权清退工作,主动逐步压缩大豆贸易业务规模,三季度后不在开展大豆贸易业务,公司业务结构进一步优化,资产质量和抗风险能力进一步提高。报告期内,持续深化国企改革。公司组织变革提升效能,整合装备技术、物流、国际销售、采购等专业化平台,优化复合肥运营,运营协同与响应能力显著增强。坚持对标增效,在产量、成本、市场等领域实现突破。启动全价值链精益管理,经营效益持续提升。强化人才战略支撑,引才质效大幅提高；精准开展专业培训,完善职业通道与多元激励机制,激活人才干事活力。深化数字化转型,实现生产性单位数字工厂平台全覆盖,推进多平台联动与工业大数据应用,以技术赋能降本增效、支撑战略落地。报告期内,公司治理提质提效。完成公司董事会换届,优化董事会结构。推进监事会改革工作,完成公司及下属40余家企业的监事会（监事）撤销工作。持续优化信息披露和投资者关系管理,连续三年在上交所以视频直播形式召开业绩说明会,承办上交所“走进沪市上市公司”活动,2025年,公司获评上交所信息披露评价最高A级。强化投资者价值回报,编制《未来三年（2024-2026年度）现金分红规划》,2024年度向全体股东每10股派发现金红利14元（含税）,2025半年度向全体股东每10股派发现金红利2元（含税）,完成11,338,016股回购股票的用途变更及注销。制定《公司市值管理制度》,进一步规范市值管理行为,切实维护公司、投资者的合法权益。持续推进ESG建设,发布《环境、社会和公司治理（ESG）报告》,持续提升ESG披露质量,公司ESGWind评级提升至AA。2025年,公司始终保持战略定力,坚持以内部管理的确定性应对外部市场的不确定性,实现了公司良好业绩。但公司也面临着诸多挑战,比如硫磺价格同比大幅上涨,部分产品价格同比下降,精细化工产业竞争加剧等风险挑战。面对这些风险挑战,公司将抢抓市场机遇,科学统筹大宗原材料采购,切实保障生产装置高效运行,以全产业链价值最大化为原则,保持高效运营,以良好的经营业绩回馈股东。",
+      "futureExpect": "(一)行业格局和趋势1.化肥行业（1）磷矿采选磷矿作为一种分布相对集中的稀缺性矿产资源,被国家列入战略保护矿产资源,国家对新增磷矿开发进行限定规划。随着《长江保护法》实施,长江生态保护受到高度重视,“三磷”治理政策不断加强,磷矿石采选持续受到影响,政府相关主管部门高度关注磷化工采选企业在矿产资源综合利用、矿区生态修复、生态环境保护及磷石膏处理等方面的工作成效。技术落后、效率低下、不符合生态环保要求、不具备安全生产条件的磷矿企业依法依规退出,磷矿集中度逐步提升。同时,磷矿石开采难度增加,品位总体在下降,高品位原矿减少,低品位原矿增加,随着磷矿浮选技术能力提升,中低品位矿利用率得到提高。2026年,磷矿供需预计维持紧平衡状态。近年虽然筹建新增磷矿较多,但是受到环保、矿产资源政策等影响,建设周期普遍较长,还需要时间进行产能爬坡,没有出现大规模的放量。随着新能源电池对磷酸铁需求增长,进一步拉动了对磷矿石的需求,短期内国内磷矿石结构性供需仍将维持紧平衡状态。公司将加快对新获取磷矿资源的开发工作进度,加快推进镇雄磷矿采矿和配套工程建设工作,打开公司未来“矿化一体”高效发展的新空间。同时,加强对现有磷矿的高效开采及综合利用,确保下游磷肥及磷化工产业的磷资源需求。此外,公司将积极开展低品位高硅磷矿选矿工艺优化研究工作,深入探索中低品位磷矿浮选及磷尾矿综合利用产业化技术,全力推进低品位磷矿的综合利用进程,有效应对磷矿资源日益贫化的行业现状挑战。公司的磷矿主要用于满足公司化肥、精细磷化工、新能源材料产业等生产需要,形成产业链协同发展优势。（2）化肥化肥作为农业生产的重要基础物资,与国家粮食安全息息相关。近年尿素行业产能增长,国内供应量增加,行业面临较大产能消化压力。磷铵产品纳入国家限制性产能名录,将严格限制新增产能。近年国内严格执行磷铵保供稳价政策,受硫磺价格高位运行的影响,磷铵市场价格有所上涨后维持稳定,国内行业供给格局保持稳定。同时,新型高效肥料供需增长较快。化肥行业集中度提升,头部企业优势凸显,具备资源、技术、环保优势的企业竞争力增强。随着,各国对粮食安全更加重视,粮食种植面积扩大,化肥需求增加。但由于地缘冲突影响,国际产业链错配,原料供应和化肥贸易稳定性减弱,预计对国际化肥价格带来一定支撑。公司将认真贯彻落实国家相关政策,继续做好国内肥料保供稳价,积极承担保障国家粮食安全的责任,在全力解决好全国用肥需求的基础上高效统筹国际国内市场,稳定经营效益。公司将以化肥产业为基础,优化生产布局,稳定基础肥,通过研发创新,推动产品结构调整升级。根据现有资源状况和能力,形成以基础肥料为主、功能性肥料、水溶肥协同发展,打造具有云天化差异化特色的化肥体系。2.磷化工及新材料（1）磷化工2024年1月,工信部等八部委联合发布《推进磷资源高效高值利用实施方案》明确提出要发展高端磷化学品,推动磷化工产业转型升级,磷化工产业发展方式从传统基础产品及单一规模扩张向精细化、专用化、系列化转变,通过优化调整产业结构及高端化转型,高附加值磷化学品等非农用产品在磷化工中占比不断提高。随着新能源汽车、半导体、新材料等战略性新兴产业的迅猛发展,市场对电子级磷酸、高纯磷化物、新能源电池材料、高端阻燃剂等高附加值精细磷化学品的需求正呈现爆发式增长。公司充分利用资源优势,推动精细磷化工高效高值发展,提升公司精细磷化工板块盈利能力与市场竞争力。持续巩固饲料级磷酸钙盐产品的竞争优势地位。依托资源优势,湿热并举,积极布局精细磷化工产业。通过资产优化和业务整合,构建以热法黄磷和湿法磷酸为基础的精细磷化工产品链。（2）氟化工2024年7月,工业和信息化部等九部门联合印发《精细化工产业创新发展实施方案(2024-2027年)》,提出重点加强氟、硅、磷等矿产资源的高值利用,发展超净高纯氢氟酸、特种含氟单体、第四代含氟制冷剂等含氟化学品,高品质氟树脂、高性能氟橡胶等含氟新材料。氟化工行业在政策引导与市场需求结构性转变的驱动下,加速从传统规模扩张向绿色低碳、高效精准的高质量发展转型,高压实密度、高纯度成为含氟材料技术主流方向。公司继续以湿法磷酸副产氟资源规模化优势为基础,提高氟回收率。聚焦氟资源高效利用,加快高端氟产品开发的探索,择机进行产业链升级延伸,推进氟、磷协同发展。（3）新能源材料含磷新能源材料是磷产业发展的重要方向,目前市场面临的阶段性产能过剩、激烈成本价格竞争的局面。近两年磷酸铁等锂电材料规划项目投资规模下降,行业发展进入供应端出清阶段,市场竞争主要集中在价格及产品质量方面。拥有资源优势、技术优势和市场优势的企业将更具发展潜力。公司充分发挥矿化一体产业链优势,以成本控制和技术创新为核心驱动力,不断优化提炼现有磷酸铁技改成果、优化产品品质和成本控制的基础上,结合行业发展状况稳步推进磷系新能源正极材料项目建设。（4）聚甲醛近年来,国内共聚甲醛生产企业技术逐步进步,产品品质逐步改善。持续提升产品品质、增加进口替代、研发生产改性新材料、拓展应用场景是国内聚甲醛产业发展的方向。随着我国汽车、电子行业的快速发展,聚甲醛的需求量将会进一步提升。近年来,国内聚甲醛行业中低端产能增加较多,中低端市场竞争将进一步加剧。公司将继续加强研发创新团队的建设和持续加大研发投入,深度优化改性塑料产业链条,实现产品多元化发展,增强抵御市场风险能力。有效推进工艺优化及一系列提升产品质量的研发创新项目实施,提升云天化聚甲醛产品质量水平。稳步推进聚甲醛装置综合能力提升工程建设,通过持续工艺优化以及积极应用新技术,不断提高聚甲醛产品品质,满足市场日益增长的高端化需求。3.商贸物流化肥、粮食商贸行业近年来随着物流环境的快速发展和信息渠道的快速升级出现了较大的改变,以往通过信息不对称而形成的贸易模式正在减少,贸易层级不断缩短,具有大规模、大资金、长周期的贸易形态在经济环境的不断变化中体现出较高的存活能力,未来贸易行业的发展也将沿着资源集中、规模化采购以及销售下沉的方向不断演化。物流方面,受互联网、大数据影响,物联网还将进一步蓬勃发展,一些新模式物流平台将极大提升物流效率。公司积极推进从传统商贸物流向供应链运营转型。在商贸业务中开展供应链管理服务模式探索,整合商流、物流、资金流、信息流,根据客户需求,合作加工、定制产品,在肥料贸易中嵌入供应链增值服务,实现价值提升。(二)公司发展战略公司战略愿景是打造成为全球领先的肥料及化工新材料企业。通过采取成本领先和差异化战略推进肥料产业战略布局,巩固肥料产业链、供应链竞争优势,夯实“基本盘、压舱石”定位,致力于成为全球制造先进、创新驱动、品牌卓著的现代化肥料企业以及全球优秀的植物营养解决方案提供商。依托资源优势,湿热并举,积极布局精细磷化工产业。通过资产优化和业务整合,构建以热法黄磷和湿法磷酸为基础的精细磷化工产品链,打造全国领先的现代化工与新能源材料产业集群；聚焦氟硅资源高效利用,加快高端氟硅产品开发的探索,择机进行产业链升级延伸,推进氟、磷、硅协同发展；依托云南绿电、区位及磷资源产业优势,通过一体化装置布局发展新能源产业,致力于成为“成本最优、技术领先”的磷系新能源正极材料提供商；以“产业链高端化、价值链最大化、供应链现代化”不断扩展聚甲醛应用领域,增加产品附加值,提升在工程材料领域的竞争力。(三)经营计划2026年公司计划生产销售尿素280万吨、磷肥463万吨、复合肥200万吨；生产销售饲料级磷酸氢钙60万吨、聚甲醛11.6万吨、黄磷3万吨、磷酸铁11万吨。为实现上述经营目标,公司将重点抓好以下重点工作：1.巩固绿色高质量发展根基。持续筑牢安全环保生命线,重点推进安全文化体系建设从“理念”到行动的落实上,更大力度推动全员安全生产责任制全面落实,不断夯实HSE管理基础；要进一步强化监管职责,积极推动安全生产巡查工作,压紧下属各单位压实安全生产责任,确保本质安全得到保障；严把供应商准入关、监督关和考核关,不断提升承包商管理能力。坚定不移贯彻绿色发展理念,在已有项目基础上,积极探索实施更多的磷石膏综合治理模式,推进磷石膏多场景应用,确保磷石膏年度综合利用和动态平衡目标实现。实施能源消费强度和总量、二氧化碳排放强度、单位产品综合能耗控制,开展同类型生产装置对标对表,推进公司节能低碳目标及责任落实,推进磷铵国家产品碳足迹标识认证工作,提升产品绿色竞争力。2026年,公司要确保实现千人负伤率≤0.5,安全零死亡、环保零污染事故,不发生职业病病例。2.聚集高效运营体系建设。精准把握市场变化趋势,充分发挥“供产销运”一体化协同优势,促进全产业链价值最大化。供应端,深挖矿石保质保量潜力,做好浮选精矿质量管控,进一步提升低品位矿的利用量；加强资源风险及成本风险管控,进一步提升战略采购能力,从长协供应、渠道优化、拓展供货渠道、开发新供应商等方面持续精耕,增强硫磺、煤炭等大宗原材料供应链的韧性及保供效率。生产端,持续抓实精益生产管理,搭建更加系统的精益生产管理体系,重点围绕标准化作业、精益班组建设等核心模块,在试点生产单位全面嵌入与深度运行,形成可复制、可推广的实践经验,提升精益生产管理水平；固化总结大型装置综合能力提升经验,持续开展装置产能瓶颈的技术研究与应用,挖掘生产装置潜能,抓牢综合能力提升。销售端,坚定不移执行保供稳价政策,及时强化行业协同、沟通,稳步推进国内资源投放,在完成国内保供稳价的前提下,积极争取出口政策支持；优化产品结构升级,加强研、产、销协同,持续打造“存量增效、增量提质”的产品体系。物流端,初步构建完成产供链物流资源集成与统一运作的“大物流”业务体系,打造“端到端”的高效供应链,同时,联动海外仓建设,构建“区域集散+多式联运”体系,以大物流推动成本再优化。3.蓄力推动产业优化升级。进一步聚焦主责主业,持续强化研发创新,积极推动项目建设,推动转型升级再上台阶。高位统筹编制《公司“十五五”发展战略规划》,根据外部环境变化与经营实际建立“年度滚动修订”的动态校准机制,通过战略解码分解任务,推动形成完整的战略执行体系。以穿透管理推动重大项目运营见行见效,将新450项目由项目建设全面转向生产经营,力争在最短时间内实现设计产能；协同云天化集团及当地政府,高效快速推进镇雄化工园区建设,做好碗厂磷矿建设准备工作。推动技术创新走深走实,围绕磷矿采选、肥料产业等关键任务,重点推进磷尾矿全量利用,推进低品位矿综合利用,开发绿色低成本联合工艺与高效药剂,加速提升综合利用效能；加快推进磷石膏高值化利用项目,为公司推动产业转型升级和持续高质量发展提供坚实支撑。4.持续突破财务管控瓶颈。紧扣公司战略发展目标,进一步聚焦财务职责,深化财务风险防控,持续夯实业务基础保障职能,积极拓展价值创造职能,增强财务价值创造力。设定更为严格的带息负债规模上限,确保负债规模与公司资产增长、盈利能力相匹配,稳步降低资产负债率。推进电子会计档案平台建设,推进久其报表体系与分析模块优化,提升报表编制精准度,增强数据对业务的洞察支持；推进财务共享系统升级,提升系统响应效率；推进集采自动化建设,打通“集采订单、验收、结算”全流程路径,实现业财数据实时联动,提升集采合规水平与整体运营效率。持续完善税务风险预警指标和分析模型,提高税务风险管控能力；强化财务对关键流程、重要环节的穿透管理,确保各项财务管理要求有效贯穿于业务前端至核算末端,切实防范财务风险。5.在深化改革上持续发力。紧扣公司战略目标,持续以“专业、创新、价值”为牵引,以“人才支撑、管理提效”核心任务,围绕组织、机制、人才、数字化四大维度精准发力,推动深化改革向更高质量、更高效能、更高价值阶段迈进。坚持以价值创造为根本,持续围绕公司产业高质量发展瓶颈,统筹启动新一轮重大专项工作,通过高效管理与持续精进,有力支撑生产经营基本盘的稳定和战略专项部署的高效落地。全面推进全价值链管理体系建设项目,持续强化精益管理理念深度融入生产经营全流程,聚焦资源优化配置、流程效率提升、成本精准管控三大核心,激发全员参与精益改善的积极性,推动公司“一利五率”指标更加优化。结合公司新产业布局与战略发展需求,优化人才选拔标准与评价体系,扩大高端人才、紧缺人才储备规模,创新培养模式,推行“项目制培养+跨单位交流+校企联合共育”,提升人才培养的针对性与实效性,打造更具吸引力的人才发展生态。稳妥推进物流一体化、集采业务、维检业务的整合,探索建立“定量+定性”成效后评估机制,依据评估结果动态调整优化举措,为后续变革推进、提升质效打下坚实基础。6.推动内控治理取得实效。聚焦公司战略规划落地,我们要以当前为出发点,以长远为着力点,持续推动内部控制、治理等工作取得实效。强化“防”“管”结合,持续提升风险管理核心竞争力,结合内外部环境变化,紧紧围绕风险管理核心竞争力提升为目标,深入推进“大风险管理”体系建设,全面提升“防”的能力和“管”的实效,充分发挥强管理、促合规、防风险、稳经营、创价值作用。强化“内”“外”结合,持续提升上市公司治理水平,不断加强董事会建设,强化董事会下设专门委员会的履职能力；深化子公司重大事项管理,不断提高信息披露质量,不断完善ESG管理体系,进一步提升公司治理规范运作水平。持续探索优化市值管理机制,合规运用资本市场各类市值管理工具,促进公司市值合理与公司发展质量相匹配；精益化管理投资者关系,定期组织业绩说明会,持续提升和巩固投资者对公司的价值认同。"
+    },
+    {
+      "reportDate": "2024-12-31",
+      "businessReview": "2024年,公司主动融入国家发展大局,以打造“旗舰型龙头上市公司”为目标,以“满负荷、快周转、低库存、防风险”为原则,持续推动生产经营稳定和市场运营统筹高效,成功克服了大宗原料价格波动、部分产品价格持续走低等一系列不利因素带来的严峻挑战,各项经营指标达到预期,绿色高质量发展更加稳固。报告期内,公司化肥、聚甲醛、饲钙等主要产品继续保持较好盈利水平,公司实现营业收入615.37亿元,归属与上市公司股东净利润53.33亿元,同比增长17.93%。报告期内,公司安全环保平稳可控。牢固树立安全红线意识、持续强化环保底线思维,积极推进安全文化建设,全面落实全员安全生产责任制,不断构建和完善安全管理体系,着力提升安全生产治理体系建设能力和治理现代化能力,扎实抓好各项基础管理工作,全年未发生重大安全环保生产事故,安全形势整体稳定。公司深入贯彻落实国家绿色发展理念,持续推进磷石膏综合利用工作,筑牢了企业持续健康发展的根基,展现了国企的责任担当。报告期内,公司生产组织统筹高效。公司切实践行“先进制造业标杆企业”新定位,坚持倡导“长周期”文化、弘扬“百日红”精神,深入推进大型装置综合能力提升,实施全公司生产装置检维修统筹,积极开展预防性检修,主要生产装置实现“长周期”目标87个,公司合成氨、磷酸、硫酸等产品产量创历史新高。以价值最大化为原则,动态调整产品结构,全面推进柔性联产,稳妥推进节能降耗低碳改造工作,有效提高能源利用效率及装置运行效率。推进8家主要生产单位实施数字工厂推广建设,完成合成氨、空分等12套装置APC（先进过程控制）上线运行,联合华为发布全球首个煤气化RTO（实时在线优化技术）,进一步提升公司化工生产高端化、智能化水平,公司单位产品综合能耗稳中有降,持续保持行业领先地位。报告期内,公司产业链运营高效。公司充分发挥全产业链竞争优势,通过实施采购体系重塑,进一步持续挖掘采购潜力,高效统筹天然气、电力等供应,提升磷矿石、合成氨、煤炭、硫磺等大宗原材料的保供能力,实现了主要原料的稳定供应和降本增效。切实履行国企社会责任,充分保障国内市场需求,有序统筹国内国际两个市场,国内市场坚定做好保供稳价,国际市场精准研判、抢抓机遇,较好的把握住了市场节奏；公司坚持快速、低库存运营策略,产品周转效率、有效销售率持续提升。积极统筹协调运力,开辟物流新通道,动态跟踪铁路运力,积极争取政策优惠,持续挖掘中老铁路货物运输潜力,全年物流总成本有效下降。报告期内,公司财务管控成效显著。充分发挥预算在公司经营管理中的指导与控制作用,按照“全年预算牵引,预测滚动跟进”的工作原则,强化过程管控,狠抓措施落实,有效推动公司完成年度经营目标。持续开展对标对表专项工作,外部对标围绕同行业优秀公司开展“一利五率”对标,寻找优化空间,不断缩小差距,持续提升管理水平；内部围绕“两项费用管控”开展对标,进一步深挖可优化空间；加强和规范税务管理,强化财务风险防控；持续加大资金管控力度,压降带息负债规模,优化负债结构；通过置换高利率贷款、提前还款等手段有效降低综合融资成本,降低财务费用。报告期内,公司产业布局优化推进。积极跟踪推进镇雄磷矿开发工作,参股公司顺利取得探矿权,加快推进探转采工作；持续加强新能矿业450万吨/年磷矿浮选项目建设,现已完成用地审批；进一步开展东明矿业煤炭资源的获取,为公司长期产业规划构建了坚实的资源基础。实现了现有10万吨/年磷酸铁装置的连续法技术改造,产品质量、产能利用率得到了进一步提升；积极推进磷酸铁铁法工艺的中试工作,目前已进入产业化研究生产阶段。完成云天化研究院组建,完成公司研发机构和平台的横向整合,围绕全产业链持续加大研发投入,重点在磷矿采选、精细磷化工、新能源材料等方面加大研发力度,进一步增强产业化技术储备。持续聚焦主责主业,针对盈利能力薄弱的商贸业务,持续稳步缩减,不断优化公司整体产业布局。报告期内,公司治理提质升级。公司聚焦上市公司治理,不断完善子公司决策管理程序,持续优化子公司重大事项内部报告机制,纵深推进公司内部治理规范化建设；突出信息披露质量管理,逐步完善公司ESG管理体系,提升ESG治理水平；制定公司市值管理制度,并制定未来三年（2024-2026年度）不低于45%的现金分红规划；加强投资者关系管理,积极走访资本市场投资者,定期召开业绩说明会,组织走进上市公司活动,增强投资者交流频次、深度和广度。2024年,公司入选中国上市公司协会2024可持续发展最佳实践案例、上市公司董事会最佳实践案例、年报业绩说明会最佳实践案例。2024年,公司通过深化改革、对标一流、管理优化等一系列措施,始终坚持用内部管理的确定性应对外部市场的不确定性,经营业绩稳步提升,但也面临一些问题和挑战,如：安全环保压力的持续增大,外部形势、市场环境急剧变化,精细化工、新能源材料转型升级效果不明显等。面对这些问题和挑战,公司将以更加坚定的信心,始终保持战略定力,稳步推进各项工作提质提效,推动公司可持续高质量发展。",
+      "futureExpect": "(一)行业格局和趋势1.化肥行业（1）磷矿采选随着《中华人民共和国矿产资源法》、《中华人民共和国长江保护法》等政策法规的发布实施,国家、地方政府部门对矿产资源、安全环保管理日趋规范、严格,企业获取矿产资源准入门槛越来越高,小型规模、生产工艺落后的矿山将逐步退出或被整合优化,政府相关主管部门高度关注磷化工采选企业在矿产资源综合利用、矿区生态修复、生态环境保护及磷石膏处理等方面的工作成效。2025年磷矿石供需仍将呈紧平衡状态,市场维持高位震荡运行。磷矿石增量和整体生产量有所增加,但高品质原矿减少,中低品质选矿富集。同时,下游新能源产业的发展将继续带动下游需求,短期内国内磷矿石产品结构性供需矛盾仍存在,维持紧平衡的供需形势。近年来磷矿浮选能力技术能力提升,中低品位矿利用率得到提高。随着技术落后、效率低下、不符合生态环保要求、不具备安全生产条件的磷矿企业依法依规退出,磷矿集中度逐步提升。公司将加快对新获取磷矿资源的勘探工作进度,加快推进镇雄磷矿探转采工作,提高公司磷化工产业发展的资源保障能力。同时,加强对现有磷矿的高效开采及综合利用,确保下游磷肥及磷化工产业的磷资源需求。此外,公司将积极开展低品位高硅磷矿选矿工艺优化研究工作,深入探索中低品位磷矿浮选及磷尾矿综合利用产业化技术,全力推进低品位磷矿的综合利用进程,有效应对磷矿资源日益贫化的行业现状挑战。公司的磷矿主要用于满足公司化肥、精细磷化工、新能源材料产业等生产需要,形成产业链协同发展优势。（2）化肥2025年02月05日,国家发改委印发《国家发展改革委关于做好2025年春耕及全年化肥保供稳价工作的通知》,要求加强化肥生产保障,稳定能源资源供应；加强运输协调和产销对接,促进化肥高效流通；加强化肥储备管理,充分发挥储备功能作用；加强化肥进出口服务管理,维护进出口秩序；加强化肥市场监管,维护良好市场环境；加强农化服务,推进科学施肥；强调相关单位要要充分认识化肥保供稳价工作对保护农民种粮投入积极性、保障国家粮食安全的重要意义,及时组织部署和落实相关工作任务,确保落到实处、见到实效。省级发展改革委要牵头本地区化肥保供稳价工作,会同有关单位协调解决化肥生产、运输、储备、销售、施用等环节存在的问题。化肥作为农业生产的重要基础物资,与国家粮食安全息息相关。近年尿素行业产能增长,国内供应量增加,行业面临较大产能消化压力。磷铵产品纳入国家限制性产能名录,根据“十四五”规划以及实施方案,将严格限制新增产能,推进传统化肥产品升级和新型高效肥料生产,国内行业供给格局保持稳定。由于地缘政治、气候变化等因素的影响,各国对粮食安全更加重视,粮食种植面积扩大,化肥需求增加。主要消费国为确保化肥供应稳定,不断寻求供应多元化、加强新装置建设提高自给能力,国际化肥行业区域错配等矛盾减弱,价格影响因素将逐步回归供需基本面。但受磷矿石、硫磺等原料产品价格高位波动影响,国际化肥产品价格有一定成本支撑。公司将认真贯彻落实贯彻国家法检相关政策,高效统筹国际国内市场,继续做好国内肥料保供稳价,积极承担保障国家粮食安全的责任,全力解决好全国用肥需求,。公司将以化肥产业为基础,优化生产布局,稳定基础肥,通过以创新研发驱动转型升级,推动产品结构调整和质量升级。根据现有资源状况和能力,形成以基础肥料为主、功能性肥料、水溶肥协同发展,打造具有云天化差异化特色的化肥体系。2.磷化工及新材料（1）磷化工近年来,我国高纯磷酸盐、特种磷酸盐、功能磷酸盐、磷化工材料等,在新材料应用领域不断扩展,出现了许多新型磷化工产品。在资源集中和环保政策加强的背景下,国内供给磷化工行业逐步进入成熟期,行业由粗放式发展逐渐向高值高效、集中化方向发展。具有资源、成本、技术和环保优势的企业将进一步成为引领行业发展的主力军。公司以实施磷化工“精细化、高端化”升级为契机,立足于资源优势和产业发展基础,通过“矿化一体,湿热并举,酸肥盐有机延伸”,持续打造全磷产业链。重点聚焦黄磷-热法磷酸下游精细磷化工产品领域,如聚磷酸铵、磷系功能材料等高端升级产品以及工业级磷酸、食品级磷酸、聚磷酸等。持续巩固饲料级磷酸钙盐产品的竞争优势地位。公司将充分挖潜利用资源优势,推动精细磷化工高质高值发展,提升公司精细磷化工板块盈利能力与市场竞争力。（2）氟化工近年来,随着氟化工产业的高速发展,氟化工产品持续推陈出新,已广泛应用于汽车、光伏、航空航天、家电等新材料和高新技术领域,行业下游产品具有高性能和高附加值的特点,行业技术水平和装备水平也持续提升。随着国家对萤石资源管控的持续深入,磷矿伴生氟资源已成为氟化工原料的重要来源,基于伴生氟资源加快扩大氟硅酸法综合利用氟资源已成为行业发展重要方向,延伸发展含氟中间体、含氟表面活性剂、含氟制冷剂、氟涂料、氟树脂、氟橡胶等。加快配套发展超净高纯氢氟酸、含氟气体等含氟电子化学品。公司将继续以湿法磷酸副产氟资源规模化优势为基础,提高氟回收率,以氟硅酸为原料,按照“氟硅酸-氢氟酸-氟精细化学品-氟电子化学品”的增值路径,发展附加值高的无机氟化物、含氟聚合物、含氟新材料和高端专用化学品,延长氟化工产业链。（3）新能源材料含磷新能源材料是磷产业发展的重要方向,目前市场产能面临的阶段性产能过剩、激烈成本价格竞争的局面。2024年磷酸铁等锂电材料规划项目投资规模下降,行业发展进入供应端出清阶段,市场竞争主要集中在价格及产品质量方面,竞争激烈。拥有资源优势、技术优势和市场优势的企业将更具发展潜力。公司充分发挥矿化一体产业链优势,不断优化提炼现有磷酸铁技改成果、优化产品品质和成本控制的基础上,结合行业发展状况稳步推进磷新能源材料项目建设。（4）聚甲醛近年来,国内共聚甲醛生产企业技术逐步进步,产品品质逐步改善。持续提升产品品质、增加进口替代、研发生产改性新材料、拓展应用场景是国内聚甲醛产业发展的方向。随着我国汽车、电子行业的快速发展,聚甲醛的需求量将会进一步提升。国内市场目前产能有所增加,预计在聚甲醛中低端市场竞争将进一步激烈。公司将继续加强研发创新团队的建设和持续加大研发投入,深度优化改性塑料产业链条,实现产品多元化发展,增强抵御市场风险能力。有效推进工艺优化及一系列旨在提升产品质量的研发创新项目实施,全面提升云天化聚甲醛产品质量水平。同时,稳步推进聚甲醛装置综合能力提升工程建设,通过持续工艺优化以及积极应用新技术,不断提高聚甲醛产品品质,满足市场日益增长的高端化需求。3.商贸物流化肥、粮食商贸行业近年来随着物流环境的快速发展和信息渠道的快速升级出现了较大的改变,以往通过信息不对称而形成的贸易模式正在减少,贸易层级不断缩短,具有大规模、大资金、长周期的贸易形态在经济环境的不断变化中体现出较高的存活能力,未来贸易行业的发展也将沿着资源集中、规模化采购以及销售下沉的方向不断演化。物流方面,受互联网、大数据影响,物联网还将进一步蓬勃发展,一些新模式物流平台将极大提升物流效率。公司积极推进从传统商贸物流向供应链运营转型。在商贸业务中开展供应链管理服务模式探索,整合商流、物流、资金流、信息流,根据客户需求,合作加工、定制产品,在肥料贸易中嵌入供应链增值服务,实现价值提升。(二)公司发展战略公司战略愿景是成为世界级的肥料及现代农业、精细化工产品提供商。通过采取成本领先的竞争战略推进肥料产业战略布局,站在国内肥料领域前沿,推进肥料与现代农业的一体化战略布局。依托资源优势,积极布局精细磷化工产业。通过资产优化和业务整合,构建以黄磷和湿法工业级磷酸为基础的精细磷化工产品链,打造精细磷化工发展平台；积极发展超净高纯电子化学品、高端含氟功能新材料,打造高附加值氟化工产业；不断扩展聚甲醛应用领域,增加产品附加值,提升在工程材料领域的竞争力。大力发展新能源电池新材料产业,挖掘新的利润增长点,建设磷酸铁及新能源电池一体化项目。(三)经营计划2025年公司计划生产销售磷肥492万吨、尿素267万吨、复合肥164万吨；生产饲料级磷酸氢钙57万吨、聚甲醛10.50万吨、磷酸铁6万吨。为实现上述经营目标,公司将重点抓好以下关键重点工作：1.持续筑牢安全环保底线。持续推进安全文化建设全面落地,完成安全管理责任体系、制度体系和组织体系重构,逐步在各单位建立完善安全管理体系,实现安全文化体系全面承接落地并有效运行。有序推进安全生产源头治理、安全标准化体系建设、作业安全风险管控、设备更新改造等重点工作,保障公司生产装置安全稳定、优质高效运行。持续强化环保装置设施及在线监测设备的运行维护,建立健全异常工况应急响应机制,积极落实《磷石膏综合治理行动方案（2025-2027年）》要求,持续提升磷石膏综合利用率,确保“三磷”风险可控。2025年,力争实现千人负伤率≤0.5,安全零死亡、环保零污染事故,不发生职业病病例。2.坚持产业链整体协同运营。强化行业预判,精准把握市场变化趋势,强化“供产销运”一体化协同,充分发挥供应链竞争优势,促进全产业链价值最大化。供应端,持续做好磷矿石、煤炭、硫磺以及合成氨等大宗原材料的供应保障,优化货源渠道和长协合作,建立科学合理的原料库存结构。生产端,全面提升精益管理能力,持续巩固大型装置综合能力提升,强化合成氨等重要材料的最优调配和主要产品的柔性生产,围绕数字工厂建设、装置自动化控制改造等方面继续推进“三化提效”。销售端,持续做好国内市场“保供稳价”,稳步推进国内国际资源协同,积极推动市场结构调整,聚焦打造高毛利、高市场影响力的核心升级产品市场,推动新产品由量的增长向质的提升转变。3.全力做好产业优化升级。进一步聚焦主责主业、强化创新研发、严抓项目建设,推动关键重大项目取得突破。扎实推进资源获取,加快聚磷新材探矿权转采矿权工作,积极开展磷矿矿山建设准备和化工园区申报工作；优化东明露天矿煤矿建设项目生产要件关键时间节点和线路,挖掘自产煤矿的保供潜力。重点关注新能矿业450万吨/年磷矿浮选项目,及时调整进度计划；持续总结经验,强化磷酸铁产销协同优势,提升装置稳定性和产品质量。围绕肥料产业、精细化工、新能源材料产业重点任务,以磷矿采选技术、磷酸新工艺及肥料新产品、固废处理技术等为主攻方向,开展技术研究和应用推广工作。4.持续提升财务管理效能。坚持深化全面预算管理,强化内部统筹协同,深挖全价值链发展潜力。加强现金流动态管理,深化“两金”管控,加强业财协同,提高运营周转效率,稳步压降资金占用,完善资金集中管理与统筹调配体系建设,加强资金集中、统筹规划和合理调配,不断提升资金周转使用效率。持续降低带息负债规模,优化长短期负债结构,进一步压降财务费用,积极探索销售、管理两项费用管控新策略,确保全年“两项”费用不断优化。5.聚焦深化改革价值创造。聚焦治理质量、业务质量、平台质量、资本质量四个质量的提升,坚持价值创造导向,贯彻对标提升、精细化管理理念,积极推进物流、装备技术等领域组织变革、业务优化,持续提升变革成效。以《数字化转型发展规划（2023-2025）》为指导,更大强度推进数字转型,打破数据孤岛,促进数据共连共享,实现数据资源的高度整合与共享。抓实人才变革,持续完善丰富“1+3+N”人才培养体系,持续建强“四型”人才队伍,优化调整适应新发展阶段和政策要求的考核分配体系。6.持续强化治理提质升级。制定完善公司市值管理制度,加强市值管理工具应用,推动上市公司投资价值合理反映公司发展质量。做好投资者关系管理,定期组织业绩说明会,加强与资本市场和投资者交流,向国内和境外投资者推介公司投资价值。规范运作,加强子公司重大事项和公司治理监管,持续提升信息披露质量。持续推进ESG治理建设,提升ESG披露质量。以聚焦“风险、合规、法治、内控”有机融合的内控管理体系建设,构建协同高效的信息化系统,有效化解和防范风险。"
+    },
+    {
+      "reportDate": "2023-12-31",
+      "businessReview": "2023年,世界局势复杂加剧,全球治理和经济发展承受巨大挑战。公司主动服务国家战略,以打造旗舰型龙头上市公司为目标,以稳定生产经营为主线,持续改革攻坚,充分发挥矿化一体和规模化运营优势,努力抵御产品和原材料价格波动、行业格局变化等诸多不利因素影响,保持了较好的经营业绩,公司绿色高质量发展稳步推进。2023年,公司化肥、聚甲醛、饲钙、黄磷等主要产品实现稳定盈利,受市场价格同比下降影响,导致公司盈利水平同比下降。报告期内,公司实现营业收入690.60亿元,归属于上市公司股东的净利润45.22亿元,同比下降24.90%。安全环保方面,公司坚守红线意识、底线思维,持续筑牢安全环保基础。启动安全文化提升建设,构建统一的安全文化和管理体系,有效促进公司HSE（健康、安全与环境）管理水平提升；强化以查代检、自查自检、立行立改,以信息化手段推动重点工作任务落实。公司始终坚持绿色发展,坚持打造全产业链绿色制造体系,全年新增2个国家级绿色工厂和14个部会级绿色产品,累计打造国家级绿色矿山7座、国家级绿色工厂5家,石化联合会绿色工厂14家,国家级绿色产品72个,石化协会绿色产品122个；公司高标准、高水平、高质量推进生态修复和磷石膏高效综合利用,磷石膏综合利用能力显著提升,公司绿色高质量发展根基持续巩固。生产管理方面,公司以践行“先进制造业标杆企业”为定位,强化生产过程精益化控制。持续践行“长周期”文化,主要装置实现“百日红”95个,同比增加12个,创历史最高纪录。通过技术创新、技术攻关,使合成氨、磷酸等大型装置综合效能不断提升,合成氨、磷酸产量创历史新高,主要产品综合能耗实现稳中有降。全面推进APC（先进过程控制）控制和“三化提效”,全年完成10余套主要生产装置的APC改造,在大为制氨、三环中化、天安化工等主要分子公司实施化肥产品自动包装及无人机及机器人智能巡检试点,有效提升了生产系统自动化和智能化控制水平。市场运营方面,公司以“控节奏、优库存、防风险”为主线,持续加强研判和统筹水平,动态调整采购策略与采购执行,煤炭、硫磺等大宗原材料集采、长协比例持续提升,战略储备能力显现优势,实现了主要原料的稳定供应和降本增效,保障了公司产品成本竞争优势。公司调动资源,精准统筹两个市场,坚定不移支持国家化肥保供稳价政策,高效完成国内化肥供应任务,提升市场占有率；积极抢抓出口机会,稳定渠道资源,取得合理溢价。公司科学调控运输和仓储,实现生产和销售的精准对接,提升周转效率,降低物流成本,保障了公司产业链高效运行。财务管控方面,公司加强货币政策研究运用,持续强化融资集中管控,降低带息负债规模持续下降,负债结构更加合理,担保总额大幅下降。2023年底,公司资产负债率为58.13%,较年初减少5.40个百分点；带息负债较年初下降35亿元,其中长期负债占比由年初的约1/3优化至1/2以上。持续加强应收账款清收,稳步压降资金占用。公司扎实推进控本降费,“三项费用”总规模同比降低3.64亿元。同时,公司积极推进财务数字化建设,财务管控效能得到持续提升。深化改革方面,公司围绕五大质量建设、三项要素改革、三个专项行动推进企业深化改革,各阶段专项任务均按期完成。持续完善市场化管理机制,搭建多元化、常态化激励模式,推进实施13个业绩捆绑项目,加快推动重大科技攻关和研发成果转化应用,促进重大科技攻关和研发成果转化。2023年,公司通过深推改革、强抓专项、全面对标等重点工作,进一步激发了组织活力,提升了管理效率。公司获得第三十届全国企业管理现代化创新成果二等奖。转型升级方面,对已建成年产10万吨磷酸铁装置,持续开展技改优化和控品降本,提升和巩固装置运行能力和产品质量的同时,积极突破技术优化和成本控制关键课题；年产10万吨电池级磷酸二氢铵项目顺利建成投产；年产2,000吨磷系阻燃剂PMPP装置、年产1,500吨含氟硝基苯多功能装置完成工艺技改,磷酸二氢钾装置实现达标达产,合资公司年产3万吨氢氟酸装置完成技改扩产、年产3万吨无水氟化氢联产白炭黑项目建成。公司围绕“磷”“氟”资源,持续扩展产业链优势,产业转型升级稳步推进。治理提升方面,公司积极打造治理权责体系化、治理文件标准化、分子公司管理信息化的治理模式；搭建多层次ESG管理架构,推进ESG体系建设；常态化召开业绩说明会,积极组织路演、反路演,回应市场关切,充分展示公司投资价值；主动实施较高的现金分红和股份回购,积极履行上市公司回报股东的根本义务。2023年,入选中国上市公司协会《2023董事会最佳实践案例》《2023年公司治理最佳实践案例》《ESG优秀实践案例》,公司治理质量持续提升。2023年,公司生产经营稳定,实现较好盈利水平,但也存在一些影响公司高质量发展的亟需解决的问题。如：部分下属单位安全环保管理不完善,本质安全能力还需提升；新能源材料、精细化工等非肥业务贡献不足,研发创新尚未对公司产业升级提供有力支撑,转型升级还需要进一步强化等。面对这些问题,公司将扎实筑牢安全环保生存底线,持续推进生产管理精益水平,着力推动产业转型升级,加大研发创新投入和成果转化,进一步深化企业改革,以良好态势奋力推动公司迈向绿色高质量发展新阶段。",
+      "futureExpect": "(一)行业格局和趋势1.化肥行业（1）磷矿采选2023年12月,工业和信息化部等八部门关于印发《推进磷资源高效高值利用实施方案》的通知。要求要立足国内需求,完善磷矿资源市场配置和矿业权出让制度,严格有序投放磷矿矿业权,支持“采、选、加”一体化的大型磷化工优势企业按照市场化原则取得矿业权,合理确定新建矿山开采规模,提升磷矿资源可持续保障能力。支持优强企业通过兼并重组等方式整合中小磷矿,推动技术落后、效率低下、不符合生态环保要求、不具备安全生产条件的磷矿企业依法依规退出。推进中低品位磷矿及尾矿综合利用,加大伴生资源利用,提高磷矿资源开采回采率、选矿回收率和综合利用率,实现磷矿资源的全元素高效利用。磷矿作为一种分布相对集中的稀缺性矿产资源,被国家列入战略保护矿产资源,国家对新增磷矿开发进行限定规划。长江经济带是我国磷矿石主产区,随着《长江保护法》实施,长江生态保护受到高度重视,“三磷”治理政策不断加强,磷矿石产量持续受到影响。同时,随着新能源电池对磷酸铁需求增长,进一步拉动了对磷矿石的需求。虽然筹建新增磷矿较多,但是受到环保、矿产资源政策等影响,新增磷矿产能具有不确定性。预计磷矿石将在今后一段时间内处于供需紧平衡状态,磷矿总量将保持平稳,价格维持在高位。近年来磷矿浮选能力技术能力提升,中低品位矿利用率得到提高。随着技术落后、效率低下、不符合生态环保要求、不具备安全生产条件的磷矿企业依法依规退出,磷矿集中度逐步提升。公司正认真研究落实工业和信息化部等八部门关于《推进磷资源高效高值利用实施方案》。加强现有磷矿的高效开采及综合利用,确保下游磷肥及磷化工产业的磷资源需求。开展低品位高硅磷矿选矿工艺优化研究工作,形成中低品位磷矿浮选及磷尾矿综合利用产业化技术,推进低品位磷矿的综合利用,应对磷矿资源日益贫化的现状。加快推进镇雄磷矿探矿权获取以及探转采工作,提高公司磷化工产业发展资源保障能力。公司的磷矿主要用于满足公司化肥、精细磷化工、新能源材料产业等生产需要。（2）化肥2024年2月,《中共中央国务院关于学习运用“千村示范、万村整治”工程经验有力有效推进乡村全面振兴的意见》发布。强调要确保国家粮食安全,抓好粮食和重要农产品生产,扎实推进新一轮千亿斤粮食产能提升行动。稳定粮食播种面积,把粮食增产的重心放到大面积提高单产上。完善农资保供稳价应对机制,严格落实耕地保护制度,加强农业基础设施建设,强化农业科技支撑,构建现代农业经营体系,增强粮食和重要农产品调控能力。2024年2月,国家发展改革委印发《关于做好2024年春耕及全年化肥保供稳价工作的通知》。要求要稳定化肥生产,落实好2024年最低生产计划,符合条件的化肥生产企业“能开尽开、应开尽开”。加强原料保供,切实保障煤炭、天然气、磷矿石、硫磺等化肥生产要素和电力供应。促进化肥流通,保障化肥及生产原料运输畅通,满足区域间调运需求。优化储备监督管理,扎实推进储备计划落实,及时投放市场,缓解阶段性供需矛盾。加强进出口服务管理,做好化肥相关产品进口运输船舶靠港接卸,执行好化肥出口检验制度。2023年12月,工业和信息化部等八部门关于印发《推进磷资源高效高值利用实施方案》（以下简称《实施方案》）的通知。要求要坚持分类施策,推进产品结构调整。严格控制磷铵、黄磷等行业新增产能。促进磷肥保供稳价,优先保障磷肥企业磷矿需求,引导企业科学排产、维持合理库存、稳定市场预期,支持骨干企业做优做强,积极发展新型高效磷肥品种。大力开发液体肥料、专用复合肥等与现代农业技术紧密结合的新型产品,丰富肥料产品品种,提高肥料利用率,增强细分市场的差异化供给能力。有序实施传统化肥装置加中微量元素、改产缓释肥或水溶肥等柔性化改造。化肥作为农业生产的重要基础物资,与国家粮食安全息息相关。近年来我国肥料行业通过环保整治和退城入园,逐步清退行业内的过剩产能,通过对供需双向管控,肥料行业景气度回升,肥料行业格局已经呈现逐步改善状态,肥料产品盈利呈现中枢上行,集中度逐步提升。同时,我国化肥所用的合成氨原料作为煤化工产品,受到能耗和碳排放的双方制约,新增产能受到管制；而磷铵产品纳入国家限制性产能名录,根据“十四五”规划以及《实施方案》,将严格限制新增产能,推进传统化肥产品升级和新型高效肥料生产,国内肥料行业供给格局有望持续性优化。由于地缘政治、气候变化等因素的影响,各国对粮食安全更加重视,粮食种植面积扩大,化肥需求增加。世界多数地区化肥产业生产和供应链受到不同程度的影响,供给受到一定程度的抑制,区域性供给矛盾进一步显现。同时,磷矿石、煤炭等原料产品价格高位波动,形成对化肥产品价格支撑,促进化肥价格将持续保持稳定。公司将认真贯彻落实国家政策,高效统筹国际国内市场,继续做好国内肥料保供稳价,积极承担保障国家粮食安全的责任,全力解决好全国用肥需要。公司将以化肥产业为基础,优化生产布局,稳定基础肥领域,同时通过以创新研发驱动转型升级,推动产品结构调整和质量升级。根据现有资源状况和能力,形成以基础肥料为主、功能性肥料、水溶肥协同发展,打造具有云天化差异化特色的化肥体系。2.磷化工及新材料《实施方案》提出,鼓励“云贵鄂川”立足资源能源禀赋、产业基础条件、环境承载能力等,以化工园区为载体,以产业链、创新链、生态链融通发展为路径,打造若干特色优势鲜明、产业链条完整、创新要素集聚、专业化协作配套水平好的先进制造业集群,构建以新型功能磷复肥为基础、以高端精细磷化工为特色、与含氟新材料相耦合的区域间优势互补、上下游协同配套、横向共生耦合的产业格局。形成3家左右具有产业主导力、全球竞争力的一流磷化工企业,建设3个左右特色突出的先进制造业集群,大中小融通、上下游协同发展的产业生态不断优化。（1）磷化工近年来,我国高纯磷酸盐、特种磷酸盐、功能磷酸盐、磷化工材料等,在新材料应用领域不断扩展,出现了许多新型磷化工产品。在资源集中和环保政策加强的背景下,国内供给磷化工行业逐步进入成熟期,行业由粗放式发展逐渐向高值高效、集中化方向发展。具有资源、成本、技术和环保优势的企业将进一步成为引领行业发展的主力军。《实施方案》中提出,大力发展高端磷化学品等新兴产业,加快培育先进制造业集群,构建高端化、智能化、绿色化、融合化、集聚化的磷化工产业体系。公司以实施磷化工“精细化、高端化”升级为契机,立足于资源优势和产业发展基础,通过“矿化一体,湿热并举,酸肥盐有机延伸”,持续打造全磷产业链,重点发展饲料级磷酸钙盐、磷系阻燃剂、聚磷酸铵、磷系功能材料等升级产品以及工业级磷酸、食品级磷酸、聚磷酸等高端精细磷化工产品,实现由资源优势、技术优势向经济优势转化,推动精细磷化工向高效高值化发展。（2）氟化工近年来,随着氟化工产业的高速发展,氟化工产品持续推陈出新,已广泛应用于汽车、光伏、航空航天、家电等新材料和高新技术领域,行业下游产品具有高性能和高附加值的特点,行业技术水平和装备水平也持续提升。随着国家对萤石资源管控的持续深入,磷矿伴生氟资源已成为氟化工原料的重要来源,《实施方案》中明确要求,基于伴生资源加快扩大氟硅酸法无水氟化氢产能,延伸发展含氟中间体、含氟表面活性剂、含氟制冷剂、氟涂料、氟树脂、氟橡胶等。加快配套发展超净高纯氢氟酸、含氟气体等含氟电子化学品。公司以公司湿法磷酸副产氟资源规模化优势为基础,提高氟回收率,以氟硅酸为原料,按照“氟硅酸-氢氟酸-氟精细化学品-氟电子化学品”的增值路径,发展附加值高的无机氟化物、含氟聚合物、含氟新材料和高端专用化学品,延长氟化工产业链。（3）新能源材料含磷新能源材料是磷产业发展的重要方向,目前市场产能面临的阶段性产能过剩、激烈成本价格竞争和品质需求不统一的局面将持续一段时间。随着新能源行业和储能需求的不断增长,对相关材料需求将持续增加,在行业发展过程中逐步实现产品标准提升和统一,行业格局趋于稳定,拥有资源优势、技术优势和市场优势的企业将更具发展潜力。公司充分发挥矿化一体产业链优势,不断优化提炼现有磷酸铁技改成果、优化产品品质和成本控制的基础上,结合行业发展状况稳步推进磷新能源材料项目建设。（2）聚甲醛近年来,国内共聚甲醛生产企业技术逐步进步,产品品质逐步改善。持续提升产品品质、增加进口替代、研发生产改性新材料、拓展应用场景是国内聚甲醛产业发展的方向。随着我国汽车、电子行业的快速发展,聚甲醛的需求量将会进一步提升。公司加大中高端改性聚甲醛产品的研发和生产,推动国内中高端聚甲醛产品进口替代,进一步拓展出口市场,提升聚甲醛产业竞争力。3.商贸物流化肥、粮食商贸行业近年来随着物流环境的快速发展和信息渠道的快速升级出现了较大的改变,以往通过信息不对称而形成的贸易模式正在减少,贸易层级不断缩短,具有大规模、大资金、长周期的贸易形态在经济环境的不断变化中体现出较高的存活能力,未来贸易行业的发展也将沿着资源集中、规模化采购以及销售下沉的方向不断演化。物流方面,受互联网、大数据影响,物联网还将进一步蓬勃发展,一些新模式物流平台将极大提升物流效率。公司积极推进从传统商贸物流向供应链运营转型。在商贸业务中开展供应链管理服务模式探索,整合商流、物流、资金流、信息流,根据客户需求,合作加工、定制产品,在肥料贸易中嵌入供应链增值服务,实现价值提升。(二)公司发展战略公司战略愿景是成为世界级的肥料及现代农业、精细化工产品提供商。通过采取成本领先的竞争战略推进肥料产业战略布局,站在国内肥料领域前沿,推进肥料与现代农业的一体化战略布局。依托资源优势,积极布局精细磷化工产业。通过资产优化和业务整合,构建以黄磷和湿法工业级磷酸为基础的精细磷化工产品链,打造精细磷化工发展平台；积极发展超净高纯电子化学品、高端含氟功能新材料,打造高附加值氟化工产业；不断扩展聚甲醛应用领域,增加产品附加值,提升在工程材料领域的竞争力。大力发展新能源电池新材料产业,挖掘新的利润增长点,建设磷酸铁及新能源电池一体化项目。(三)经营计划2024年公司计划生产销售尿素254.49万吨、磷铵454.15万吨、复合肥192.51万吨；生产饲料级磷酸氢钙58万吨、聚甲醛10.60万吨、黄磷3.02万吨。为实现上述经营目标,公司将重点抓好以下关键重点工作：1.强化安全环保管理。筑牢生存底线,不断巩固绿色高质量发展。持续强化安全责任落实,加快推进安全文化建设、数智安全管理以及承包商管理,力争公司千人负伤率≤0.5,安全零死亡、环保零污染事故。持续聚焦环保建设走深走实,强化环保风险管控,提升固废利用水平,全面夯实企业可持续发展根基。2.强化运营协同管控。做好磷矿石、硫磺、煤炭、合成氨等原材料的采购及内部协同,保障装置稳定有序生产,强化磷矿等资源保障力度。充分发挥一体化运营优势,强化生产组织精益化、挖潜增效常态化、过程管控数字化,持续提升装置的运行水平；优化产品结构,加大高品质新产品的研发和投放力度；坚定不移扛起保供稳价大旗,积极统筹国内、国际市场；持续加强饲钙、聚甲醛、磷酸铁的市场调研和开拓力度,进一步拓展销路,提升销售效益,强化费用控制,实现公司效益最大化。3.持续推进转型升级。一是稳步建设新能源产业,不断巩固10万吨/年磷酸铁装置工艺路线、优化工艺参数、规范工艺操作,提升品质稳定性,进一步控制优化生产成本,促进整体利益最大化。二是有序推进精细化工产业投入。加强技术创新,确保氟资源综合利用项目达标达产,按计划有序推进利用中低品位磷矿生产精细磷化工产品等项目建设,进一步增强公司非肥业务竞争力。4.强化财务高效管控。一是持续强化现金流管理,重点关注往来款和存货管控,稳步压降资金占用,确保全年现金流充裕。二是持续发挥规模优势和平台优势,持续降低带息负债规模,优化长短期负债结构,降低综合资金成本。三是持续推进闲置资产、沉寂资产盘活,提高资产回报率。四是搭建财务数字化分析平台,不断提高金融资源使用效率和效益,增强财务数据高效处理、精准分析和智能预测,提高财务数据服务能力与决策支持能力。5.持续推进深化改革。一是持续打造“精健型”组织,按一体化运营思路和“集约化+服务化+专业化”模式,持续推进研发、采购、维检、新业务等领域业务和组织变革,提升一体化协同价值。二是穿透式完善市场化机制,系统优化完善“三层一体”的市场化差异化选人用人机制,进一步构建标准统一、能级相适、渠道畅通的员工职业发展体系。三是强化人才队伍建设,建立一体化人才引培机制,搭建人才培养平台,实施好专项人才结构优化调整计划,精准推进“四型人才”培养,进一步优化人才结构,提升人才密度和人力资源效率。6.着力提升公司质量。一是着力提升治理质量,严把合规信披关,保持信息披露最高评级水平；进一步加强对参股公司、托管公司治理管控能力；持续加强上市公司ESG建设。二是不断创新投资者关系管理,通过多平台、新模式、高频次开展业绩说明会,反路演、邀请现场参观（公司开放日）等多种途径与投资者加强交流,实施常态化现金分红,增强投资者交流互动的深度和广度,进一步提升投资者对公司行业“龙头”投资价值的认同。"
+    }
+  ]
+}

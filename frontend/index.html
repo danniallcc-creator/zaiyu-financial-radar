@@ -100,15 +100,17 @@
     const API_BASE = ''; // Worker API base (empty = same origin; only works with CF Workers, not GH Pages)
 
     const fetchData = async (code) => {
-      const [emResult, cnResult, indResult] = await Promise.allSettled([
+      const [emResult, cnResult, indResult, ovResult] = await Promise.allSettled([
         fetch(`${DATA_BASE}/eastmoney/${code}.json`).then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }),
         fetch(`${DATA_BASE}/cninfo/${code}_sections.json`).then(r => { if (!r.ok) throw new Error('no cninfo'); return r.json(); }),
-        fetch(`${DATA_BASE}/industry/${code}_peers.json`).then(r => { if (!r.ok) throw new Error('no industry'); return r.json(); })
+        fetch(`${DATA_BASE}/industry/${code}_peers.json`).then(r => { if (!r.ok) throw new Error('no industry'); return r.json(); }),
+        fetch(`${DATA_BASE}/overseas/${code}.json`).then(r => { if (!r.ok) throw new Error('no overseas'); return r.json(); })
       ]);
       if (emResult.status !== 'fulfilled') throw emResult.reason;
       const data = emResult.value;
       if (cnResult.status === 'fulfilled') data.cninfo = cnResult.value;
       if (indResult.status === 'fulfilled') data.industryPeers = indResult.value;
+      if (ovResult.status === 'fulfilled') data.overseas = ovResult.value;
 
       // Try fetching real-time quote from Worker API (non-blocking)
       if (!data.quote || !data.quote.price) {
@@ -566,62 +568,251 @@
       );
     };
 
+    const OverseasTextBlock = ({ paragraphs }) => {
+      const [showAll, setShowAll] = useState(false);
+      const visible = showAll ? paragraphs : paragraphs.slice(0, 5);
+      return (
+        <div className="space-y-2">
+          {visible.map((p, i) => (
+            <div key={i} className="border-l-2 border-cyan-700 pl-3 py-1">
+              <p className="text-[11px] text-txt leading-relaxed">{p}</p>
+            </div>
+          ))}
+          {paragraphs.length > 5 && (
+            <button onClick={() => setShowAll(!showAll)}
+              className="text-cyan-500 text-[10px] hover:underline">
+              {showAll ? '收起' : `展开全部 ${paragraphs.length} 条`}
+            </button>
+          )}
+        </div>
+      );
+    };
+    const FullTextToggle = ({ text, label }) => {
+      const [open, setOpen] = useState(false);
+      return (
+        <div className="mt-3">
+          <button onClick={() => setOpen(!open)}
+            className="text-cyan-500 text-[10px] hover:underline">
+            {open ? '收起' : `查看${label}`}
+          </button>
+          {open && (
+            <div className="mt-2 border border-border rounded p-3 max-h-96 overflow-y-auto">
+              <p className="text-[11px] text-txt leading-relaxed whitespace-pre-wrap">{text}</p>
+            </div>
+          )}
+        </div>
+      );
+    };
+
     const ManagementExpr = ({ data }) => {
       const cninfo = data?.cninfo;
-      if (!cninfo) {
+      const overseas = data?.overseas;
+      const hasCninfo = !!cninfo;
+      const hasOverseas = !!overseas && (
+        (overseas.segments && overseas.segments.length > 0) ||
+        (overseas.analysis && overseas.analysis.length > 0)
+      );
+
+      // Overseas keyword extraction
+      const OVERSEAS_KW = ['海外','境外','出口','国际市场','国际业务','全球化','出海',
+        '外贸','跨国','欧洲','北美','东南亚','中东','非洲','拉美','亚太','一带一路',
+        '关税','贸易壁垒','汇率','外币','外汇','境外子','境外经营','国际化'];
+      const extractOverseasText = (text) => {
+        if (!text) return [];
+        const sentences = text.split(/(?<=[。；;！\n])/).map(s => s.trim()).filter(Boolean);
+        return sentences.filter(s => OVERSEAS_KW.some(kw => s.includes(kw))).slice(0, 20);
+      };
+      const fmtYi = (v) => v != null ? `${(v / 1e8).toFixed(1)}亿` : '-';
+      const fmtPct = (v) => v != null ? `${v.toFixed(2)}%` : '-';
+
+      // Build overseas trend rows from segments (byRegion, only annual reports)
+      const segments = (overseas?.segments || []).sort((a, b) => a.reportDate.localeCompare(b.reportDate));
+      const trendRows = segments.map((seg, i) => {
+        const regions = seg.byRegion || [];
+        const overseasItem = regions.find(r => /海外|境外|国际|国外/.test(r.name));
+        const domesticItem = regions.find(r => /国内|境内|中国/.test(r.name));
+        const overseasInc = overseasItem?.income || null;
+        const prevSeg = i > 0 ? segments[i - 1] : null;
+        const prevOverseas = prevSeg?.byRegion?.find(r => /海外|境外|国际|国外/.test(r.name));
+        const yoy = (overseasInc && prevOverseas?.income)
+          ? ((overseasInc / prevOverseas.income - 1) * 100) : null;
+        return [
+          { v: seg.reportDate?.slice(0, 10) || '-', cls: 'text-gold-dark' },
+          { v: fmtYi(overseasInc), cls: overseasInc ? 'text-cyan-400' : 'text-txt-dim' },
+          { v: fmtPct(overseasItem?.incomeRatio) },
+          { v: fmtPct(overseasItem?.grossMargin) },
+          { v: fmtPct(domesticItem?.grossMargin) },
+          { v: yoy != null ? `${yoy > 0 ? '+' : ''}${yoy.toFixed(1)}%` : '-',
+            cls: yoy != null ? (yoy > 0 ? 'text-red-400' : 'text-green-400') : 'text-txt-dim' },
+        ];
+      });
+
+      // Latest segment for region/product breakdown
+      const latestSeg = segments[segments.length - 1] || null;
+      const regionRows = (latestSeg?.byRegion || [])
+        .filter(r => !/补充|其他\(补充\)/.test(r.name))
+        .map(r => [
+          { v: r.name, cls: 'text-cyan-400' },
+          { v: fmtYi(r.income) },
+          { v: fmtPct(r.incomeRatio) },
+          { v: fmtPct(r.grossMargin) },
+        ]);
+      const productRows = (latestSeg?.byProduct || [])
+        .filter(r => !/补充|其他\(补充\)/.test(r.name))
+        .map(r => [
+          { v: r.name, cls: 'text-cyan-400' },
+          { v: fmtYi(r.income) },
+          { v: fmtPct(r.incomeRatio) },
+          { v: fmtPct(r.grossMargin) },
+        ]);
+
+      // Latest analysis for management discussion
+      const latestAnalysis = (overseas?.analysis || [])[0] || null;
+      const overseasReviewParas = extractOverseasText(latestAnalysis?.businessReview || '');
+      const overseasFutureParas = extractOverseasText(latestAnalysis?.futureExpect || '');
+      const fullFutureText = latestAnalysis?.futureExpect || '';
+
+      if (!hasCninfo && !hasOverseas) {
         return (
           <div className="space-y-4">
             <InfoCard title="企业表达分析">
               <p className="text-xs text-txt-dim leading-relaxed">
-                该股票的年报原文数据尚未通过 ETL 从巨潮资讯网(cninfo.com.cn)抓取。
-                请先运行 <code className="text-gold">python etl/fetch_cninfo.py {data?.code || '代码'}</code> 生成年报章节数据。
+                该股票的企业表达数据尚未生成。
+                <br/>年报原文: 运行 <code className="text-gold">python etl/fetch_cninfo.py {data?.code || '代码'}</code>
+                <br/>出海分析: 运行 <code className="text-gold">python etl/fetch_overseas.py {data?.code || '代码'}</code>
               </p>
             </InfoCard>
           </div>
         );
       }
-      const sections = cninfo.sections || {};
-      const tagged = cninfo.taggedParagraphs || [];
-      const availSections = Object.entries(SECTION_MAP).filter(([k]) => sections[k]?.trim());
 
       return (
         <div className="space-y-4">
-          <InfoCard title="企业表达分析">
-            <p className="text-[10px] text-txt-dim mb-3">
-              来源: {cninfo.announcementTitle || '年度报告'}
-              {cninfo.announcementDate && ` (${cninfo.announcementDate})`}
-              {cninfo.pdfUrl && <a href={cninfo.pdfUrl} target="_blank" rel="noreferrer" className="text-gold ml-2 hover:underline">[PDF原文]</a>}
-            </p>
-            <div className="flex gap-2 flex-wrap mb-2">
-              {Object.entries(LABEL_COLOR).map(([l, c]) => <Badge key={l} text={l} color={c} />)}
-              <span className="text-[10px] text-txt-dim ml-2">语义标签</span>
-            </div>
-            <div className="text-[10px] text-txt-dim">已提取 {availSections.length} 个章节 / {tagged.length} 个标注段落</div>
-          </InfoCard>
-
-          {tagged.length > 0 && (
-            <InfoCard title="标注段落摘录">
-              <div className="space-y-3">
-                {tagged.map((p, i) => (
-                  <div key={i} className="border border-border rounded p-3">
-                    <div className="flex gap-1 mb-2 flex-wrap">
-                      {p.labels.map((l, j) => <Badge key={j} text={l} color={LABEL_COLOR[l] || 'blue'} />)}
-                      {p.isOverseas && <Badge text="海外" color="orange" />}
+          {/* ── 出海分析板块 ── */}
+          {hasOverseas && (
+            <>
+              {/* 海外营收趋势 */}
+              <InfoCard title="出海分析 · 海外营收趋势" className="border-cyan-800">
+                {trendRows.length > 0 ? (
+                  <>
+                    <div className="text-[10px] text-txt-dim mb-2">
+                      数据来源: 东财主营构成（按地区分拆）· 年报 · 最近5期
                     </div>
-                    <p className="text-[11px] text-txt leading-relaxed" style={{
-                      maxHeight: '6em', overflow: 'hidden', whiteSpace: 'pre-wrap',
-                    }}>
-                      {p.text}
-                    </p>
+                    <MetricTable
+                      headers={['报告期', '海外收入', '占比', '海外毛利率', '国内毛利率', '海外收入YoY']}
+                      rows={trendRows}
+                    />
+                  </>
+                ) : (
+                  <p className="text-[10px] text-txt-dim">暂无海外营收分地区数据</p>
+                )}
+              </InfoCard>
+
+              {/* 地区构成 + 产品构成 */}
+              {latestSeg && (
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                  <InfoCard title={`地区构成 · ${latestSeg.reportDate?.slice(0, 10) || ''}`} className="border-cyan-800">
+                    {regionRows.length > 0 ? (
+                      <MetricTable
+                        headers={['地区', '收入', '占比', '毛利率']}
+                        rows={regionRows}
+                      />
+                    ) : <p className="text-[10px] text-txt-dim">暂无</p>}
+                  </InfoCard>
+                  <InfoCard title={`产品构成 · ${latestSeg.reportDate?.slice(0, 10) || ''}`} className="border-cyan-800">
+                    {productRows.length > 0 ? (
+                      <MetricTable
+                        headers={['产品', '收入', '占比', '毛利率']}
+                        rows={productRows}
+                      />
+                    ) : <p className="text-[10px] text-txt-dim">暂无</p>}
+                  </InfoCard>
+                </div>
+              )}
+
+              {/* 管理层海外讨论摘要 */}
+              {overseasReviewParas.length > 0 && (
+                <InfoCard title={`管理层海外讨论 · ${latestAnalysis?.reportDate?.slice(0, 10) || ''}`} className="border-cyan-800">
+                  <div className="text-[10px] text-txt-dim mb-2">
+                    从经营分析报告中提取的海外/国际业务相关段落（共 {overseasReviewParas.length} 条）
                   </div>
-                ))}
-              </div>
-            </InfoCard>
+                  <OverseasTextBlock paragraphs={overseasReviewParas} />
+                </InfoCard>
+              )}
+
+              {/* 出海策略展望 */}
+              {(overseasFutureParas.length > 0 || fullFutureText) && (
+                <InfoCard title="出海策略与未来展望" className="border-cyan-800">
+                  {overseasFutureParas.length > 0 ? (
+                    <>
+                      <div className="text-[10px] text-txt-dim mb-2">
+                        从未来展望中提取的海外相关段落（共 {overseasFutureParas.length} 条）
+                      </div>
+                      <OverseasTextBlock paragraphs={overseasFutureParas} />
+                    </>
+                  ) : (
+                    <p className="text-[10px] text-txt-dim">未来展望中未检测到明确的海外业务相关内容</p>
+                  )}
+                  {fullFutureText && (
+                    <FullTextToggle text={fullFutureText} label="完整展望文本" />
+                  )}
+                </InfoCard>
+              )}
+            </>
           )}
 
-          {availSections.map(([key, label]) => (
-            <SectionCard key={key} title={label} text={sections[key]} />
-          ))}
+          {/* ── 年报原文板块 (cninfo) ── */}
+          {hasCninfo && (
+            <>
+              <InfoCard title="年报原文分析">
+                <p className="text-[10px] text-txt-dim mb-3">
+                  来源: {cninfo.announcementTitle || '年度报告'}
+                  {cninfo.announcementDate && ` (${cninfo.announcementDate})`}
+                  {cninfo.pdfUrl && <a href={cninfo.pdfUrl} target="_blank" rel="noreferrer" className="text-gold ml-2 hover:underline">[PDF原文]</a>}
+                </p>
+                <div className="flex gap-2 flex-wrap mb-2">
+                  {Object.entries(LABEL_COLOR).map(([l, c]) => <Badge key={l} text={l} color={c} />)}
+                  <span className="text-[10px] text-txt-dim ml-2">语义标签</span>
+                </div>
+                <div className="text-[10px] text-txt-dim">
+                  已提取 {Object.entries(SECTION_MAP).filter(([k]) => cninfo.sections?.[k]?.trim()).length} 个章节 / {(cninfo.taggedParagraphs || []).length} 个标注段落
+                </div>
+              </InfoCard>
+
+              {(cninfo.taggedParagraphs || []).length > 0 && (
+                <InfoCard title="标注段落摘录">
+                  <div className="space-y-3">
+                    {cninfo.taggedParagraphs.map((p, i) => (
+                      <div key={i} className="border border-border rounded p-3">
+                        <div className="flex gap-1 mb-2 flex-wrap">
+                          {p.labels.map((l, j) => <Badge key={j} text={l} color={LABEL_COLOR[l] || 'blue'} />)}
+                          {p.isOverseas && <Badge text="海外" color="orange" />}
+                        </div>
+                        <p className="text-[11px] text-txt leading-relaxed" style={{
+                          maxHeight: '6em', overflow: 'hidden', whiteSpace: 'pre-wrap',
+                        }}>
+                          {p.text}
+                        </p>
+                      </div>
+                    ))}
+                  </div>
+                </InfoCard>
+              )}
+
+              {Object.entries(SECTION_MAP).filter(([k]) => cninfo.sections?.[k]?.trim()).map(([key, label]) => (
+                <SectionCard key={key} title={label} text={cninfo.sections[key]} />
+              ))}
+            </>
+          )}
+
+          {/* 仅有 cninfo 但无出海数据时的提示 */}
+          {hasCninfo && !hasOverseas && (
+            <InfoCard title="出海分析">
+              <p className="text-xs text-txt-dim leading-relaxed">
+                该公司暂无出海/海外市场数据。可能原因: 主营市场集中在国内、数据未覆盖。
+              </p>
+            </InfoCard>
+          )}
         </div>
       );
     };

@@ -1,0 +1,1455 @@
+{
+  "code": "600517",
+  "name": "国网英大",
+  "fetchTime": "2026-06-18T18:34:42",
+  "segments": [
+    {
+      "reportDate": "2025-12-31",
+      "byIndustry": [
+        {
+          "name": "电力装备业务",
+          "income": 8087937542.1,
+          "incomeRatio": 67.87,
+          "cost": 6958240413.38,
+          "costRatio": 98.9,
+          "profit": 1129697128.72,
+          "profitRatio": 95.64,
+          "grossMargin": 13.97,
+          "rank": 1
+        },
+        {
+          "name": "金融业务",
+          "income": 3828018928.76,
+          "incomeRatio": 32.13,
+          "cost": 1321949642.6,
+          "costRatio": 18.79,
+          "profit": 2506069286.16,
+          "profitRatio": 212.16,
+          "grossMargin": 65.47,
+          "rank": 2
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "电气及新材料设备",
+          "income": 6750767929.54,
+          "incomeRatio": 82.16,
+          "cost": 5764392189.1,
+          "costRatio": 81.93,
+          "profit": 986375740.44,
+          "profitRatio": 83.5,
+          "grossMargin": 14.61,
+          "rank": 1
+        },
+        {
+          "name": "电力运维业务",
+          "income": 930175554.09,
+          "incomeRatio": 11.32,
+          "cost": 792946490.9,
+          "costRatio": 11.27,
+          "profit": 137229063.19,
+          "profitRatio": 11.62,
+          "grossMargin": 14.75,
+          "rank": 2
+        },
+        {
+          "name": "低碳节能与工程服务",
+          "income": 406994058.47,
+          "incomeRatio": 4.95,
+          "cost": 400901733.38,
+          "costRatio": 5.7,
+          "profit": 6092325.09,
+          "profitRatio": 0.52,
+          "grossMargin": 1.5,
+          "rank": 3
+        },
+        {
+          "name": "碳资产业务",
+          "income": 90091365.84,
+          "incomeRatio": 1.1,
+          "cost": 56258625.47,
+          "costRatio": 0.8,
+          "profit": 33832740.37,
+          "profitRatio": 2.86,
+          "grossMargin": 37.55,
+          "rank": 4
+        },
+        {
+          "name": "其他",
+          "income": 38978286.25,
+          "incomeRatio": 0.47,
+          "cost": 21281863.96,
+          "costRatio": 0.3,
+          "profit": 17696422.29,
+          "profitRatio": 1.5,
+          "grossMargin": 45.4,
+          "rank": 5
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华东",
+          "income": 3758555369.58,
+          "incomeRatio": 45.74,
+          "cost": 3143747205.87,
+          "costRatio": 44.68,
+          "profit": 614808163.71,
+          "profitRatio": 52.05,
+          "grossMargin": 16.36,
+          "rank": 1
+        },
+        {
+          "name": "华中",
+          "income": 1137662274.48,
+          "incomeRatio": 13.85,
+          "cost": 1006606770.75,
+          "costRatio": 14.31,
+          "profit": 131055503.73,
+          "profitRatio": 11.09,
+          "grossMargin": 11.52,
+          "rank": 2
+        },
+        {
+          "name": "华北",
+          "income": 1023657910.96,
+          "incomeRatio": 12.46,
+          "cost": 837385878.07,
+          "costRatio": 11.9,
+          "profit": 186272032.89,
+          "profitRatio": 15.77,
+          "grossMargin": 18.2,
+          "rank": 3
+        },
+        {
+          "name": "西北",
+          "income": 962452839.39,
+          "incomeRatio": 11.71,
+          "cost": 837032619.3,
+          "costRatio": 11.9,
+          "profit": 125420220.09,
+          "profitRatio": 10.62,
+          "grossMargin": 13.03,
+          "rank": 4
+        },
+        {
+          "name": "西南",
+          "income": 625184284.68,
+          "incomeRatio": 7.61,
+          "cost": 577790969.45,
+          "costRatio": 8.21,
+          "profit": 47393315.23,
+          "profitRatio": 4.01,
+          "grossMargin": 7.58,
+          "rank": 5
+        },
+        {
+          "name": "东北",
+          "income": 411820881.18,
+          "incomeRatio": 5.01,
+          "cost": 366044006.68,
+          "costRatio": 5.2,
+          "profit": 45776874.5,
+          "profitRatio": 3.88,
+          "grossMargin": 11.12,
+          "rank": 6
+        },
+        {
+          "name": "华南",
+          "income": 231443540.2,
+          "incomeRatio": 2.82,
+          "cost": 209332870.08,
+          "costRatio": 2.98,
+          "profit": 22110670.12,
+          "profitRatio": 1.87,
+          "grossMargin": 9.55,
+          "rank": 7
+        },
+        {
+          "name": "海外",
+          "income": 66230093.72,
+          "incomeRatio": 0.81,
+          "cost": 57840582.61,
+          "costRatio": 0.82,
+          "profit": 8389511.11,
+          "profitRatio": 0.71,
+          "grossMargin": 12.67,
+          "rank": 8
+        }
+      ]
+    },
+    {
+      "reportDate": "2024-12-31",
+      "byIndustry": [
+        {
+          "name": "电工电气装备制造业务",
+          "income": 7350556093.62,
+          "incomeRatio": 65.12,
+          "cost": 6519506406.51,
+          "costRatio": 73.48,
+          "profit": 831049687.11,
+          "profitRatio": 34.41,
+          "grossMargin": 11.31,
+          "rank": 1
+        },
+        {
+          "name": "金融业务",
+          "income": 3905948981.65,
+          "incomeRatio": 34.6,
+          "cost": 1348134791.48,
+          "costRatio": 15.19,
+          "profit": 2557814190.17,
+          "profitRatio": 105.9,
+          "grossMargin": 65.49,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 31345246.91,
+          "incomeRatio": 0.28,
+          "cost": 28403775.29,
+          "costRatio": 0.32,
+          "profit": 2941471.62,
+          "profitRatio": 0.12,
+          "grossMargin": 9.38,
+          "rank": 3
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "电气及新材料设备",
+          "income": 5967600709.05,
+          "incomeRatio": 52.87,
+          "cost": 5188060655.12,
+          "costRatio": 58.47,
+          "profit": 779540053.93,
+          "profitRatio": 32.27,
+          "grossMargin": 13.06,
+          "rank": 1
+        },
+        {
+          "name": "信托业务",
+          "income": 2987724192.2,
+          "incomeRatio": 26.47,
+          "cost": 385584574.55,
+          "costRatio": 4.35,
+          "profit": 2602139617.65,
+          "profitRatio": 107.73,
+          "grossMargin": 87.09,
+          "rank": 2
+        },
+        {
+          "name": "电力运维业务",
+          "income": 1035885526.95,
+          "incomeRatio": 9.18,
+          "cost": 938880350.63,
+          "costRatio": 10.58,
+          "profit": 97005176.32,
+          "profitRatio": 4.02,
+          "grossMargin": 9.36,
+          "rank": 3
+        },
+        {
+          "name": "证券期货业务",
+          "income": 854644378.92,
+          "incomeRatio": 7.57,
+          "cost": 927311947.53,
+          "costRatio": 10.45,
+          "profit": -72667568.61,
+          "profitRatio": -3.01,
+          "grossMargin": -8.5,
+          "rank": 4
+        },
+        {
+          "name": "低碳节能与工程服务",
+          "income": 347069857.62,
+          "incomeRatio": 3.07,
+          "cost": 392565400.76,
+          "costRatio": 4.42,
+          "profit": -45495543.14,
+          "profitRatio": -1.88,
+          "grossMargin": -13.11,
+          "rank": 5
+        },
+        {
+          "name": "碳资产业务",
+          "income": 62984458.76,
+          "incomeRatio": 0.56,
+          "cost": 34911416.1,
+          "costRatio": 0.39,
+          "profit": 28073042.66,
+          "profitRatio": 1.16,
+          "grossMargin": 44.57,
+          "rank": 6
+        },
+        {
+          "name": "其他(补充)",
+          "income": 31345246.91,
+          "incomeRatio": 0.28,
+          "cost": 28403775.29,
+          "costRatio": 0.32,
+          "profit": 2941471.62,
+          "profitRatio": 0.12,
+          "grossMargin": 9.38,
+          "rank": 7
+        },
+        {
+          "name": "基差贸易业务",
+          "income": 595951.77,
+          "incomeRatio": 0.01,
+          "cost": 326853.3,
+          "costRatio": 0.0,
+          "profit": 269098.47,
+          "profitRatio": 0.01,
+          "grossMargin": 45.15,
+          "rank": 8
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华东(电工电气装备制造业务)",
+          "income": 3167707857.56,
+          "incomeRatio": 28.06,
+          "cost": 2705673371.18,
+          "costRatio": 30.5,
+          "profit": 462034486.38,
+          "profitRatio": 19.13,
+          "grossMargin": 14.59,
+          "rank": 1
+        },
+        {
+          "name": "华北(信托业务)",
+          "income": 2987724192.2,
+          "incomeRatio": 26.47,
+          "cost": 385584574.55,
+          "costRatio": 4.35,
+          "profit": 2602139617.65,
+          "profitRatio": 107.73,
+          "grossMargin": 87.09,
+          "rank": 2
+        },
+        {
+          "name": "华北(电工电气装备制造业务)",
+          "income": 1392561870.36,
+          "incomeRatio": 12.34,
+          "cost": 1232613054.11,
+          "costRatio": 13.89,
+          "profit": 159948816.25,
+          "profitRatio": 6.62,
+          "grossMargin": 11.49,
+          "rank": 3
+        },
+        {
+          "name": "华中(电工电气装备制造业务)",
+          "income": 1112418583.31,
+          "incomeRatio": 9.86,
+          "cost": 979399981.76,
+          "costRatio": 11.04,
+          "profit": 133018601.55,
+          "profitRatio": 5.51,
+          "grossMargin": 11.96,
+          "rank": 4
+        },
+        {
+          "name": "西北(电工电气装备制造业务)",
+          "income": 676438435.28,
+          "incomeRatio": 5.99,
+          "cost": 656563418.64,
+          "costRatio": 7.4,
+          "profit": 19875016.64,
+          "profitRatio": 0.82,
+          "grossMargin": 2.94,
+          "rank": 5
+        },
+        {
+          "name": "华南(证券期货业务)",
+          "income": 581283196.58,
+          "incomeRatio": 5.15,
+          "cost": 617401462.59,
+          "costRatio": 6.96,
+          "profit": -36118266.01,
+          "profitRatio": -1.5,
+          "grossMargin": -6.21,
+          "rank": 6
+        },
+        {
+          "name": "西南(电工电气装备制造业务)",
+          "income": 521905912.56,
+          "incomeRatio": 4.62,
+          "cost": 514015466.08,
+          "costRatio": 5.79,
+          "profit": 7890446.48,
+          "profitRatio": 0.33,
+          "grossMargin": 1.51,
+          "rank": 7
+        },
+        {
+          "name": "东北(电工电气装备制造业务)",
+          "income": 322366141.38,
+          "incomeRatio": 2.86,
+          "cost": 286844886.68,
+          "costRatio": 3.23,
+          "profit": 35521254.7,
+          "profitRatio": 1.47,
+          "grossMargin": 11.02,
+          "rank": 8
+        },
+        {
+          "name": "华南(电工电气装备制造业务)",
+          "income": 124954901.1,
+          "incomeRatio": 1.11,
+          "cost": 115262093.86,
+          "costRatio": 1.3,
+          "profit": 9692807.24,
+          "profitRatio": 0.4,
+          "grossMargin": 7.76,
+          "rank": 9
+        },
+        {
+          "name": "华东(证券期货业务)",
+          "income": 103351990.96,
+          "incomeRatio": 0.92,
+          "cost": 102856971.57,
+          "costRatio": 1.16,
+          "profit": 495019.39,
+          "profitRatio": 0.02,
+          "grossMargin": 0.48,
+          "rank": 10
+        },
+        {
+          "name": "华北(证券期货业务)",
+          "income": 84994924.21,
+          "incomeRatio": 0.75,
+          "cost": 129397830.13,
+          "costRatio": 1.46,
+          "profit": -44402905.92,
+          "profitRatio": -1.84,
+          "grossMargin": -52.24,
+          "rank": 11
+        },
+        {
+          "name": "华东(碳资产业务)",
+          "income": 62984458.76,
+          "incomeRatio": 0.56,
+          "cost": 34911416.1,
+          "costRatio": 0.39,
+          "profit": 28073042.66,
+          "profitRatio": 1.16,
+          "grossMargin": 44.57,
+          "rank": 12
+        },
+        {
+          "name": "华中(证券期货业务)",
+          "income": 32381604.3,
+          "incomeRatio": 0.29,
+          "cost": 27487328.76,
+          "costRatio": 0.31,
+          "profit": 4894275.54,
+          "profitRatio": 0.2,
+          "grossMargin": 15.11,
+          "rank": 13
+        },
+        {
+          "name": "海外(电工电气装备制造业务)",
+          "income": 32202392.07,
+          "incomeRatio": 0.29,
+          "cost": 29134134.2,
+          "costRatio": 0.33,
+          "profit": 3068257.87,
+          "profitRatio": 0.13,
+          "grossMargin": 9.53,
+          "rank": 14
+        },
+        {
+          "name": "其他(补充)",
+          "income": 31345246.91,
+          "incomeRatio": 0.28,
+          "cost": 28403775.29,
+          "costRatio": 0.32,
+          "profit": 2941471.62,
+          "profitRatio": 0.12,
+          "grossMargin": 9.38,
+          "rank": 15
+        },
+        {
+          "name": "西南(证券期货业务)",
+          "income": 20596209.06,
+          "incomeRatio": 0.18,
+          "cost": 24766630.48,
+          "costRatio": 0.28,
+          "profit": -4170421.42,
+          "profitRatio": -0.17,
+          "grossMargin": -20.25,
+          "rank": 16
+        },
+        {
+          "name": "西北(证券期货业务)",
+          "income": 18065149.62,
+          "incomeRatio": 0.16,
+          "cost": 13353317.62,
+          "costRatio": 0.15,
+          "profit": 4711832.0,
+          "profitRatio": 0.2,
+          "grossMargin": 26.08,
+          "rank": 17
+        },
+        {
+          "name": "东北(证券期货业务)",
+          "income": 13971304.19,
+          "incomeRatio": 0.12,
+          "cost": 12048406.38,
+          "costRatio": 0.14,
+          "profit": 1922897.81,
+          "profitRatio": 0.08,
+          "grossMargin": 13.76,
+          "rank": 18
+        },
+        {
+          "name": "华北(基差贸易业务)",
+          "income": 595951.77,
+          "incomeRatio": 0.01,
+          "cost": 326853.3,
+          "costRatio": 0.0,
+          "profit": 269098.47,
+          "profitRatio": 0.01,
+          "grossMargin": 45.15,
+          "rank": 19
+        }
+      ]
+    },
+    {
+      "reportDate": "2023-12-31",
+      "byIndustry": [
+        {
+          "name": "电工电气装备制造业务",
+          "income": 6874309458.15,
+          "incomeRatio": 63.09,
+          "cost": 5897543297.23,
+          "costRatio": 71.84,
+          "profit": 976766160.92,
+          "profitRatio": 36.36,
+          "grossMargin": 14.21,
+          "rank": 1
+        },
+        {
+          "name": "金融业务",
+          "income": 3987282000.06,
+          "incomeRatio": 36.6,
+          "cost": 1477214042.51,
+          "costRatio": 18.0,
+          "profit": 2510067957.55,
+          "profitRatio": 93.43,
+          "grossMargin": 62.95,
+          "rank": 2
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "电气及新材料设备",
+          "income": 4932045870.65,
+          "incomeRatio": 45.27,
+          "cost": 4145299434.78,
+          "costRatio": 50.5,
+          "profit": 786746435.87,
+          "profitRatio": 29.28,
+          "grossMargin": 15.95,
+          "rank": 1
+        },
+        {
+          "name": "信托业务",
+          "income": 2786693940.97,
+          "incomeRatio": 25.58,
+          "cost": 351491813.47,
+          "costRatio": 4.28,
+          "profit": 2435202127.5,
+          "profitRatio": 90.64,
+          "grossMargin": 87.39,
+          "rank": 2
+        },
+        {
+          "name": "电力运维业务",
+          "income": 1120294646.93,
+          "incomeRatio": 10.28,
+          "cost": 941348500.27,
+          "costRatio": 11.47,
+          "profit": 178946146.66,
+          "profitRatio": 6.66,
+          "grossMargin": 15.97,
+          "rank": 3
+        },
+        {
+          "name": "证券期货业务",
+          "income": 1037607042.07,
+          "incomeRatio": 9.52,
+          "cost": 997906510.28,
+          "costRatio": 12.16,
+          "profit": 39700531.79,
+          "profitRatio": 1.48,
+          "grossMargin": 3.83,
+          "rank": 4
+        },
+        {
+          "name": "低碳节能与工程服务",
+          "income": 821968940.57,
+          "incomeRatio": 7.54,
+          "cost": 810895362.18,
+          "costRatio": 9.88,
+          "profit": 11073578.39,
+          "profitRatio": 0.41,
+          "grossMargin": 1.35,
+          "rank": 5
+        },
+        {
+          "name": "基差贸易业务",
+          "income": 112476959.41,
+          "incomeRatio": 1.03,
+          "cost": 107457239.1,
+          "costRatio": 1.31,
+          "profit": 5019720.31,
+          "profitRatio": 0.19,
+          "grossMargin": 4.46,
+          "rank": 6
+        },
+        {
+          "name": "碳资产业务",
+          "income": 50504057.61,
+          "incomeRatio": 0.46,
+          "cost": 20358479.66,
+          "costRatio": 0.25,
+          "profit": 30145577.95,
+          "profitRatio": 1.12,
+          "grossMargin": 59.69,
+          "rank": 7
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华东(电工电气装备制造业务)",
+          "income": 2970418921.46,
+          "incomeRatio": 27.26,
+          "cost": 2558049419.37,
+          "costRatio": 31.16,
+          "profit": 412369502.09,
+          "profitRatio": 15.35,
+          "grossMargin": 13.88,
+          "rank": 1
+        },
+        {
+          "name": "华北(信托业务)",
+          "income": 2786693940.97,
+          "incomeRatio": 25.58,
+          "cost": 351491813.47,
+          "costRatio": 4.28,
+          "profit": 2435202127.5,
+          "profitRatio": 90.64,
+          "grossMargin": 87.39,
+          "rank": 2
+        },
+        {
+          "name": "华北(电工电气装备制造业务)",
+          "income": 1082328195.77,
+          "incomeRatio": 9.93,
+          "cost": 941191647.33,
+          "costRatio": 11.47,
+          "profit": 141136548.44,
+          "profitRatio": 5.25,
+          "grossMargin": 13.04,
+          "rank": 3
+        },
+        {
+          "name": "华中(电工电气装备制造业务)",
+          "income": 1025967476.38,
+          "incomeRatio": 9.42,
+          "cost": 867590455.53,
+          "costRatio": 10.57,
+          "profit": 158377020.85,
+          "profitRatio": 5.9,
+          "grossMargin": 15.44,
+          "rank": 4
+        },
+        {
+          "name": "西南(电工电气装备制造业务)",
+          "income": 837403047.96,
+          "incomeRatio": 7.69,
+          "cost": 731665372.03,
+          "costRatio": 8.91,
+          "profit": 105737675.93,
+          "profitRatio": 3.94,
+          "grossMargin": 12.63,
+          "rank": 5
+        },
+        {
+          "name": "华南(证券期货业务)",
+          "income": 748972530.37,
+          "incomeRatio": 6.87,
+          "cost": 694342530.98,
+          "costRatio": 8.46,
+          "profit": 54629999.39,
+          "profitRatio": 2.03,
+          "grossMargin": 7.29,
+          "rank": 6
+        },
+        {
+          "name": "西北(电工电气装备制造业务)",
+          "income": 638462356.04,
+          "incomeRatio": 5.86,
+          "cost": 526936998.78,
+          "costRatio": 6.42,
+          "profit": 111525357.26,
+          "profitRatio": 4.15,
+          "grossMargin": 17.47,
+          "rank": 7
+        },
+        {
+          "name": "东北(电工电气装备制造业务)",
+          "income": 195736696.57,
+          "incomeRatio": 1.8,
+          "cost": 169656991.05,
+          "costRatio": 2.07,
+          "profit": 26079705.52,
+          "profitRatio": 0.97,
+          "grossMargin": 13.32,
+          "rank": 8
+        },
+        {
+          "name": "华北(基差贸易业务)",
+          "income": 112476959.41,
+          "incomeRatio": 1.03,
+          "cost": 107457239.1,
+          "costRatio": 1.31,
+          "profit": 5019720.31,
+          "profitRatio": 0.19,
+          "grossMargin": 4.46,
+          "rank": 9
+        },
+        {
+          "name": "华北(证券期货业务)",
+          "income": 110365285.49,
+          "incomeRatio": 1.01,
+          "cost": 119539242.78,
+          "costRatio": 1.46,
+          "profit": -9173957.29,
+          "profitRatio": -0.34,
+          "grossMargin": -8.31,
+          "rank": 10
+        },
+        {
+          "name": "华南(电工电气装备制造业务)",
+          "income": 108382272.05,
+          "incomeRatio": 0.99,
+          "cost": 89291002.35,
+          "costRatio": 1.09,
+          "profit": 19091269.7,
+          "profitRatio": 0.71,
+          "grossMargin": 17.61,
+          "rank": 11
+        },
+        {
+          "name": "华东(证券期货业务)",
+          "income": 101774373.14,
+          "incomeRatio": 0.93,
+          "cost": 105961525.5,
+          "costRatio": 1.29,
+          "profit": -4187152.36,
+          "profitRatio": -0.16,
+          "grossMargin": -4.11,
+          "rank": 12
+        },
+        {
+          "name": "华东(碳资产业务)",
+          "income": 50504057.61,
+          "incomeRatio": 0.46,
+          "cost": 20358479.66,
+          "costRatio": 0.25,
+          "profit": 30145577.95,
+          "profitRatio": 1.12,
+          "grossMargin": 59.69,
+          "rank": 13
+        },
+        {
+          "name": "华中(证券期货业务)",
+          "income": 30655399.05,
+          "incomeRatio": 0.28,
+          "cost": 29935466.17,
+          "costRatio": 0.36,
+          "profit": 719932.88,
+          "profitRatio": 0.03,
+          "grossMargin": 2.35,
+          "rank": 15
+        },
+        {
+          "name": "西南(证券期货业务)",
+          "income": 18565395.06,
+          "incomeRatio": 0.17,
+          "cost": 23441037.14,
+          "costRatio": 0.29,
+          "profit": -4875642.08,
+          "profitRatio": -0.18,
+          "grossMargin": -26.26,
+          "rank": 16
+        },
+        {
+          "name": "海外(电工电气装备制造业务)",
+          "income": 15610491.92,
+          "incomeRatio": 0.14,
+          "cost": 13161410.79,
+          "costRatio": 0.16,
+          "profit": 2449081.13,
+          "profitRatio": 0.09,
+          "grossMargin": 15.69,
+          "rank": 17
+        },
+        {
+          "name": "西北(证券期货业务)",
+          "income": 14155460.44,
+          "incomeRatio": 0.13,
+          "cost": 12707675.08,
+          "costRatio": 0.15,
+          "profit": 1447785.36,
+          "profitRatio": 0.05,
+          "grossMargin": 10.23,
+          "rank": 18
+        },
+        {
+          "name": "东北(证券期货业务)",
+          "income": 13118598.52,
+          "incomeRatio": 0.12,
+          "cost": 11979032.63,
+          "costRatio": 0.15,
+          "profit": 1139565.89,
+          "profitRatio": 0.04,
+          "grossMargin": 8.69,
+          "rank": 19
+        }
+      ]
+    },
+    {
+      "reportDate": "2022-12-31",
+      "byIndustry": [
+        {
+          "name": "电工电气装备制造业务",
+          "income": 6293019284.22,
+          "incomeRatio": 57.94,
+          "cost": 5527013701.08,
+          "costRatio": 65.68,
+          "profit": 766005583.14,
+          "profitRatio": 31.32,
+          "grossMargin": 12.17,
+          "rank": 1
+        },
+        {
+          "name": "金融业务",
+          "income": 4546419304.83,
+          "incomeRatio": 41.86,
+          "cost": 2210352055.3,
+          "costRatio": 26.27,
+          "profit": 2336067249.53,
+          "profitRatio": 95.51,
+          "grossMargin": 51.38,
+          "rank": 2
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "电气及新材料设备",
+          "income": 4269145248.42,
+          "incomeRatio": 39.31,
+          "cost": 3662681573.61,
+          "costRatio": 43.52,
+          "profit": 606463674.81,
+          "profitRatio": 24.8,
+          "grossMargin": 14.21,
+          "rank": 1
+        },
+        {
+          "name": "信托业务",
+          "income": 2607330405.74,
+          "incomeRatio": 24.01,
+          "cost": 373423468.49,
+          "costRatio": 4.44,
+          "profit": 2233906937.25,
+          "profitRatio": 91.34,
+          "grossMargin": 85.68,
+          "rank": 2
+        },
+        {
+          "name": "证券期货业务",
+          "income": 1178599219.62,
+          "incomeRatio": 10.85,
+          "cost": 1095380950.54,
+          "costRatio": 13.02,
+          "profit": 83218269.08,
+          "profitRatio": 3.4,
+          "grossMargin": 7.06,
+          "rank": 3
+        },
+        {
+          "name": "低碳节能与工程服务",
+          "income": 1017853947.44,
+          "incomeRatio": 9.37,
+          "cost": 1012444584.75,
+          "costRatio": 12.03,
+          "profit": 5409362.69,
+          "profitRatio": 0.22,
+          "grossMargin": 0.53,
+          "rank": 4
+        },
+        {
+          "name": "电力运维业务",
+          "income": 1006020088.36,
+          "incomeRatio": 9.26,
+          "cost": 851887542.72,
+          "costRatio": 10.12,
+          "profit": 154132545.64,
+          "profitRatio": 6.3,
+          "grossMargin": 15.32,
+          "rank": 5
+        },
+        {
+          "name": "基差贸易业务",
+          "income": 712086909.72,
+          "incomeRatio": 6.56,
+          "cost": 704173086.76,
+          "costRatio": 8.37,
+          "profit": 7913822.96,
+          "profitRatio": 0.32,
+          "grossMargin": 1.11,
+          "rank": 6
+        },
+        {
+          "name": "碳资产业务",
+          "income": 48402769.75,
+          "incomeRatio": 0.45,
+          "cost": 37374549.51,
+          "costRatio": 0.44,
+          "profit": 11028220.24,
+          "profitRatio": 0.45,
+          "grossMargin": 22.78,
+          "rank": 7
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华东(电工电气装备制造业务)",
+          "income": 2796019020.83,
+          "incomeRatio": 25.74,
+          "cost": 2478242572.89,
+          "costRatio": 29.45,
+          "profit": 317776447.94,
+          "profitRatio": 12.99,
+          "grossMargin": 11.37,
+          "rank": 1
+        },
+        {
+          "name": "华北(信托业务)",
+          "income": 2607330405.74,
+          "incomeRatio": 24.01,
+          "cost": 373423468.49,
+          "costRatio": 4.44,
+          "profit": 2233906937.25,
+          "profitRatio": 91.34,
+          "grossMargin": 85.68,
+          "rank": 2
+        },
+        {
+          "name": "华中(电工电气装备制造业务)",
+          "income": 1231077256.09,
+          "incomeRatio": 11.33,
+          "cost": 1037178276.45,
+          "costRatio": 12.32,
+          "profit": 193898979.64,
+          "profitRatio": 7.93,
+          "grossMargin": 15.75,
+          "rank": 3
+        },
+        {
+          "name": "华北(电工电气装备制造业务)",
+          "income": 1181031680.79,
+          "incomeRatio": 10.87,
+          "cost": 1067567114.35,
+          "costRatio": 12.69,
+          "profit": 113464566.44,
+          "profitRatio": 4.64,
+          "grossMargin": 9.61,
+          "rank": 4
+        },
+        {
+          "name": "华南(证券期货业务)",
+          "income": 810288243.15,
+          "incomeRatio": 7.46,
+          "cost": 722133964.71,
+          "costRatio": 8.58,
+          "profit": 88154278.44,
+          "profitRatio": 3.6,
+          "grossMargin": 10.88,
+          "rank": 5
+        },
+        {
+          "name": "华南(基差贸易业务)",
+          "income": 712086909.72,
+          "incomeRatio": 6.56,
+          "cost": 704173086.76,
+          "costRatio": 8.37,
+          "profit": 7913822.96,
+          "profitRatio": 0.32,
+          "grossMargin": 1.11,
+          "rank": 6
+        },
+        {
+          "name": "西北(电工电气装备制造业务)",
+          "income": 442112286.93,
+          "incomeRatio": 4.07,
+          "cost": 378974653.13,
+          "costRatio": 4.5,
+          "profit": 63137633.8,
+          "profitRatio": 2.58,
+          "grossMargin": 14.28,
+          "rank": 7
+        },
+        {
+          "name": "西南(电工电气装备制造业务)",
+          "income": 374544497.46,
+          "incomeRatio": 3.45,
+          "cost": 329952782.28,
+          "costRatio": 3.92,
+          "profit": 44591715.18,
+          "profitRatio": 1.82,
+          "grossMargin": 11.91,
+          "rank": 8
+        },
+        {
+          "name": "东北(电工电气装备制造业务)",
+          "income": 188852978.84,
+          "incomeRatio": 1.74,
+          "cost": 163309579.06,
+          "costRatio": 1.94,
+          "profit": 25543399.78,
+          "profitRatio": 1.04,
+          "grossMargin": 13.53,
+          "rank": 9
+        },
+        {
+          "name": "华北(证券期货业务)",
+          "income": 185971739.65,
+          "incomeRatio": 1.71,
+          "cost": 197215736.7,
+          "costRatio": 2.34,
+          "profit": -11243997.05,
+          "profitRatio": -0.46,
+          "grossMargin": -6.05,
+          "rank": 10
+        },
+        {
+          "name": "华东(证券期货业务)",
+          "income": 94136930.1,
+          "incomeRatio": 0.87,
+          "cost": 93398934.76,
+          "costRatio": 1.11,
+          "profit": 737995.34,
+          "profitRatio": 0.03,
+          "grossMargin": 0.78,
+          "rank": 11
+        },
+        {
+          "name": "华南(电工电气装备制造业务)",
+          "income": 62766881.56,
+          "incomeRatio": 0.58,
+          "cost": 56262650.38,
+          "costRatio": 0.67,
+          "profit": 6504231.18,
+          "profitRatio": 0.27,
+          "grossMargin": 10.36,
+          "rank": 12
+        },
+        {
+          "name": "华东(碳资产业务)",
+          "income": 48402769.75,
+          "incomeRatio": 0.45,
+          "cost": 37374549.51,
+          "costRatio": 0.44,
+          "profit": 11028220.24,
+          "profitRatio": 0.45,
+          "grossMargin": 22.78,
+          "rank": 13
+        },
+        {
+          "name": "华中(证券期货业务)",
+          "income": 37929222.37,
+          "incomeRatio": 0.35,
+          "cost": 36620994.64,
+          "costRatio": 0.44,
+          "profit": 1308227.73,
+          "profitRatio": 0.05,
+          "grossMargin": 3.45,
+          "rank": 14
+        },
+        {
+          "name": "西南(证券期货业务)",
+          "income": 19726313.03,
+          "incomeRatio": 0.18,
+          "cost": 22443854.65,
+          "costRatio": 0.27,
+          "profit": -2717541.62,
+          "profitRatio": -0.11,
+          "grossMargin": -13.78,
+          "rank": 16
+        },
+        {
+          "name": "海外(电工电气装备制造业务)",
+          "income": 16614681.72,
+          "incomeRatio": 0.15,
+          "cost": 15526072.54,
+          "costRatio": 0.18,
+          "profit": 1088609.18,
+          "profitRatio": 0.04,
+          "grossMargin": 6.55,
+          "rank": 17
+        },
+        {
+          "name": "西北(证券期货业务)",
+          "income": 15905795.66,
+          "incomeRatio": 0.15,
+          "cost": 11448046.21,
+          "costRatio": 0.14,
+          "profit": 4457749.45,
+          "profitRatio": 0.18,
+          "grossMargin": 28.03,
+          "rank": 18
+        },
+        {
+          "name": "东北(证券期货业务)",
+          "income": 14640975.66,
+          "incomeRatio": 0.13,
+          "cost": 12119418.87,
+          "costRatio": 0.14,
+          "profit": 2521556.79,
+          "profitRatio": 0.1,
+          "grossMargin": 17.22,
+          "rank": 19
+        }
+      ]
+    },
+    {
+      "reportDate": "2021-12-31",
+      "byIndustry": [
+        {
+          "name": "电工电气装备制造业",
+          "income": 5582946703.57,
+          "incomeRatio": 59.06,
+          "cost": 4919874275.39,
+          "costRatio": 97.92,
+          "profit": 663072428.18,
+          "profitRatio": 96.31,
+          "grossMargin": 11.88,
+          "rank": 1
+        },
+        {
+          "name": "金融业务",
+          "income": 3870056541.02,
+          "incomeRatio": 40.94,
+          "cost": 1680727101.11,
+          "costRatio": 33.45,
+          "profit": 2189329439.91,
+          "profitRatio": 318.01,
+          "grossMargin": 56.57,
+          "rank": 2
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "电气及新材料设备",
+          "income": 3546680773.98,
+          "incomeRatio": 37.52,
+          "cost": 3109280917.11,
+          "costRatio": 61.89,
+          "profit": 437399856.87,
+          "profitRatio": 63.53,
+          "grossMargin": 12.33,
+          "rank": 1
+        },
+        {
+          "name": "信托业务",
+          "income": 2251674577.99,
+          "incomeRatio": 23.82,
+          "cost": 306083776.34,
+          "costRatio": 6.09,
+          "profit": 1945590801.65,
+          "profitRatio": 282.6,
+          "grossMargin": 86.41,
+          "rank": 2
+        },
+        {
+          "name": "电力运维业务",
+          "income": 1523105829.65,
+          "incomeRatio": 16.11,
+          "cost": 1311046164.83,
+          "costRatio": 26.09,
+          "profit": 212059664.82,
+          "profitRatio": 30.8,
+          "grossMargin": 13.92,
+          "rank": 3
+        },
+        {
+          "name": "证券期货业务",
+          "income": 1488995672.93,
+          "incomeRatio": 15.75,
+          "cost": 1262992577.85,
+          "costRatio": 25.14,
+          "profit": 226003095.08,
+          "profitRatio": 32.83,
+          "grossMargin": 15.18,
+          "rank": 4
+        },
+        {
+          "name": "低碳节能与工程服务",
+          "income": 513160099.94,
+          "incomeRatio": 5.43,
+          "cost": 499547193.45,
+          "costRatio": 9.94,
+          "profit": 13612906.49,
+          "profitRatio": 1.98,
+          "grossMargin": 2.65,
+          "rank": 5
+        },
+        {
+          "name": "保理业务",
+          "income": 103609543.3,
+          "incomeRatio": 1.1,
+          "cost": 87342775.92,
+          "costRatio": 1.74,
+          "profit": 16266767.38,
+          "profitRatio": 2.36,
+          "grossMargin": 15.7,
+          "rank": 6
+        },
+        {
+          "name": "碳资产业务",
+          "income": 25776746.8,
+          "incomeRatio": 0.27,
+          "cost": 24307971.0,
+          "costRatio": 0.48,
+          "profit": 1468775.8,
+          "profitRatio": 0.21,
+          "grossMargin": 5.7,
+          "rank": 7
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华东(电工电气装备制造业务)",
+          "income": 2793431234.3,
+          "incomeRatio": 29.55,
+          "cost": 2424208778.23,
+          "costRatio": 48.25,
+          "profit": 369222456.07,
+          "profitRatio": 53.63,
+          "grossMargin": 13.22,
+          "rank": 1
+        },
+        {
+          "name": "华北(信托业务)",
+          "income": 2251674577.99,
+          "incomeRatio": 23.82,
+          "cost": 306083776.34,
+          "costRatio": 6.09,
+          "profit": 1945590801.65,
+          "profitRatio": 282.6,
+          "grossMargin": 86.41,
+          "rank": 2
+        },
+        {
+          "name": "华南(证券期货业务)",
+          "income": 1052947948.13,
+          "incomeRatio": 11.14,
+          "cost": 837542475.17,
+          "costRatio": 16.67,
+          "profit": 215405472.96,
+          "profitRatio": 31.29,
+          "grossMargin": 20.46,
+          "rank": 3
+        },
+        {
+          "name": "华中(电工电气装备制造业务)",
+          "income": 1008369131.16,
+          "incomeRatio": 10.67,
+          "cost": 924015508.41,
+          "costRatio": 18.39,
+          "profit": 84353622.75,
+          "profitRatio": 12.25,
+          "grossMargin": 8.37,
+          "rank": 4
+        },
+        {
+          "name": "华北(电工电气装备制造业务)",
+          "income": 583702498.39,
+          "incomeRatio": 6.17,
+          "cost": 509661158.6,
+          "costRatio": 10.14,
+          "profit": 74041339.79,
+          "profitRatio": 10.75,
+          "grossMargin": 12.68,
+          "rank": 5
+        },
+        {
+          "name": "西北(电工电气装备制造业务)",
+          "income": 464078943.4,
+          "incomeRatio": 4.91,
+          "cost": 386887263.44,
+          "costRatio": 7.7,
+          "profit": 77191679.96,
+          "profitRatio": 11.21,
+          "grossMargin": 16.63,
+          "rank": 6
+        },
+        {
+          "name": "西南(电工电气装备制造业务)",
+          "income": 450852779.92,
+          "incomeRatio": 4.77,
+          "cost": 435701075.23,
+          "costRatio": 8.67,
+          "profit": 15151704.69,
+          "profitRatio": 2.2,
+          "grossMargin": 3.36,
+          "rank": 7
+        },
+        {
+          "name": "华北(证券期货业务)",
+          "income": 201684329.76,
+          "incomeRatio": 2.13,
+          "cost": 209979614.17,
+          "costRatio": 4.18,
+          "profit": -8295284.41,
+          "profitRatio": -1.2,
+          "grossMargin": -4.11,
+          "rank": 8
+        },
+        {
+          "name": "华南(电工电气装备制造业务)",
+          "income": 157659445.42,
+          "incomeRatio": 1.67,
+          "cost": 136337951.39,
+          "costRatio": 2.71,
+          "profit": 21321494.03,
+          "profitRatio": 3.1,
+          "grossMargin": 13.52,
+          "rank": 9
+        },
+        {
+          "name": "东北(电工电气装备制造业务)",
+          "income": 109945074.84,
+          "incomeRatio": 1.16,
+          "cost": 89113638.92,
+          "costRatio": 1.77,
+          "profit": 20831435.92,
+          "profitRatio": 3.03,
+          "grossMargin": 18.95,
+          "rank": 10
+        },
+        {
+          "name": "华东(证券期货业务)",
+          "income": 106695642.59,
+          "incomeRatio": 1.13,
+          "cost": 103194042.63,
+          "costRatio": 2.05,
+          "profit": 3501599.96,
+          "profitRatio": 0.51,
+          "grossMargin": 3.28,
+          "rank": 11
+        },
+        {
+          "name": "华北(保理业务)",
+          "income": 103609543.3,
+          "incomeRatio": 1.1,
+          "cost": 87342775.92,
+          "costRatio": 1.74,
+          "profit": 16266767.38,
+          "profitRatio": 2.36,
+          "grossMargin": 15.7,
+          "rank": 12
+        },
+        {
+          "name": "华中(证券期货业务)",
+          "income": 62635047.09,
+          "incomeRatio": 0.66,
+          "cost": 54621224.96,
+          "costRatio": 1.09,
+          "profit": 8013822.13,
+          "profitRatio": 1.16,
+          "grossMargin": 12.79,
+          "rank": 13
+        },
+        {
+          "name": "华东(碳资产业务)",
+          "income": 25776746.8,
+          "incomeRatio": 0.27,
+          "cost": 24307971.0,
+          "costRatio": 0.48,
+          "profit": 1468775.8,
+          "profitRatio": 0.21,
+          "grossMargin": 5.7,
+          "rank": 14
+        },
+        {
+          "name": "西南(证券期货业务)",
+          "income": 24856190.45,
+          "incomeRatio": 0.26,
+          "cost": 27738332.05,
+          "costRatio": 0.55,
+          "profit": -2882141.6,
+          "profitRatio": -0.42,
+          "grossMargin": -11.6,
+          "rank": 15
+        },
+        {
+          "name": "西北(证券期货业务)",
+          "income": 20252797.57,
+          "incomeRatio": 0.21,
+          "cost": 11829077.1,
+          "costRatio": 0.24,
+          "profit": 8423720.47,
+          "profitRatio": 1.22,
+          "grossMargin": 41.59,
+          "rank": 16
+        },
+        {
+          "name": "东北(证券期货业务)",
+          "income": 19923717.34,
+          "incomeRatio": 0.21,
+          "cost": 18087811.77,
+          "costRatio": 0.36,
+          "profit": 1835905.57,
+          "profitRatio": 0.27,
+          "grossMargin": 9.21,
+          "rank": 17
+        },
+        {
+          "name": "海外(电工电气装备制造业务)",
+          "income": 14907596.14,
+          "incomeRatio": 0.16,
+          "cost": 13948901.17,
+          "costRatio": 0.28,
+          "profit": 958694.97,
+          "profitRatio": 0.14,
+          "grossMargin": 6.43,
+          "rank": 18
+        }
+      ]
+    }
+  ],
+  "analysis": [
+    {
+      "reportDate": "2025-12-31",
+      "businessReview": "2025年是“十四五”规划收官之年,也是“十五五”规划蓄势之年。公司以习近平新时代中国特色社会主义思想为指导,坚持稳中求进、进中有为,着力稳经营、控风险、提质效,经营业绩再创新高,经营质效稳步提升,实现“十四五”圆满收官。金融业务稳中提质。聚焦服务实体经济发展,做优做强金融“五篇大文章”,提升核心竞争力,旗下英大信托、英大证券业务高质量发展取得良好成效。英大信托高效保障电网建设项目资金需求,落地国内单笔设立规模最大的应急慈善信托,证投产品收益率位于同业前列。英大证券研究推动业务布局优化,持续夯实业务核心竞争力,自营业务、经纪业务超预期增长,信用评级首次提升至AAA级。服务双碳聚势突破。深耕绿色金融创新,落实央行《绿色金融支持项目目录》,规范绿色识别和业务管理,统筹开发电碳贷、抽蓄电站专项服务信托等专属绿色产品；英大信托参编信托业协会《绿色信托标准》,英大碳资产参编《碳资产管理体系应用指南》国家标准,围绕电网企业和产业链上下游提供一揽子双碳解决方案,协助29家国家电网分部和省电力公司开展碳管理服务,着力服务新型电力系统建设。高标准参展第三届碳博会,公司“碳评+金融”、非晶变压器碳足迹、数智碳资产管理平台等展项精彩入展,有力支撑国家电网公司成功举办COP30“中国角”边会活动,充分彰显央企双碳责任担当。制造业务迭代升级。置信电气聚焦市场拓展、科技创新、产业升级,构建发展质量与效益双重突破的优质业务体系。大容量非晶变产线在天津置信高质量落地,形成规模化生产能力。移动式低压转供装置、10-20kV电磁式配网柔性互联成套装置等多个首台首套实现挂网运行。武汉南瑞入围工信部2025年未来产业创新任务揭榜挂帅项目《大功率SOEC/SOFC氢储能发电系统成套装备》。报告期内,获得重大科技奖励22项,其中日内瓦国际发明展金奖1项,中国产学研合作创新成果二等奖1项。继置信非晶、上海置信日港电气有限公司后,新增宏源电气、襄阳绝缘子2家国家级专精特新“小巨人”企业。强化治理树立标杆。紧跟资本市场动态变化,积极落实监管要求,夯实完善法人治理体系。推进党的领导与公司治理深度融合,依法依规撤销监事会,动态优化董事会结构,引入职工董事,强化董事会专门委员会职能,突出独立董事作用,强化独立董事履职保障,“两会一委一层”权责边界进一步明晰,运作流程更加标准化、规范化。持续提升ESG治理水平,入选中央广播电视总台财经节目中心“中国ESG上市公司先锋100（2025）”榜单及“中国ESG上市公司央企先锋100（2025）”榜单。入选中国上市公司协会“2025上市公司董事会最佳实践案例”及“2025上市公司可持续发展最佳实践案例”,获评第一财经“可持续卓越治理典范”,树立资本市场规范治理标杆。合规风控强根塑基。抓牢风控治理,建强全流程大风控体系,构建覆盖信用、市场等8个维度共61项指标的差异化风险监管指标体系,动态调整风险偏好指标与限额,常态化开展交易对手监测、潜在风险排查与现场检查,完善交易对手黑名单规则,通过风控系统实施刚性管控。抓细合规保障,构筑全领域全级次合规管理体系,健全“1+1+N”合规管理制度（即1个公司章程+1个合规管理办法+N项重点领域合规指引或规范文件）。抓实审计监督,精准揭示问题风险,以整改成效优管理、强治理、促提升。党建引领践行担当。深入实施新时代高质量党建工程,党的领导党的建设全面加强。扎实开展深入贯彻中央八项规定精神学习教育,一体推进学查改,营造干事创业过硬作风。持之以恒强化政治建设,健全“四个以学”长效机制,落实“第一议题”制度,深入开展党的二十届四中全会精神学习,确保党中央决策部署落到实处、一贯到底。深化全面从严治党,压紧压实“两个责任”,建立“四不两直”检查机制。强化干部人才队伍建设,试行揭榜挂帅,深化团青协作,同心圆文化愈加凝实。2025年,公司实现营业总收入119.55亿元,同比增长5.91%,归属于上市公司股东的净利润25.31亿元,同比增长60.74%。图：公司2021-2025年营业总收入和归母净利润（单位：亿元）。",
+      "futureExpect": "(一)行业格局和趋势宏观经济延续回升向好态势。2026年是“十五五”规划开局起步之年,国际经贸斗争持续演进,地缘政治冲突加剧,国内经济转型结构性矛盾与周期性压力并存,但在宏观政策协同发力、重点改革纵深突破、高水平开放提质扩容、新质生产力加速培育的多重支撑下,国内经济积极向好因素持续累积,发展态势持续回暖。中央经济工作会议定调,2026年将延续稳中求进工作总基调,实施更加积极有为的宏观政策,着力稳就业、稳企业、稳市场、稳预期,推动经济实现质的有效提升和量的合理增长。金融行业坚持高质量发展总基调。信托行业“三分类”配套“1+N”政策体系进入全面落地深化期,2026年将迎来分类改革过渡期收官,差异化监管机制持续完善,推动行业向规范化、专业化、特色化高质量发展纵深推进。信托行业将坚守合规经营底线,锚定受托人核心定位,深度发挥信托制度财产独立、风险隔离的独特功能优势,持续提升服务实体经济能力。证券行业作为资本市场的重要建设者、参与者,将持续健全投资和融资相协调的资本市场功能,深入推动资本市场制度变革,加快推动财富管理转型,推进中介机构与投资者共进共赢,营造“长钱长投”制度环境,进一步提升服务国家战略和实体经济的能力。证券行业并购潮或将延续,监管机构鼓励头部券商通过并购打造一流投行,支持中小券商差异化、特色化发展,推动行业资源优化配置。碳资产行业步入市场提质扩容的关键阶段。在“双碳”“1+N”政策体系全面深化落地、“十五五”碳达峰收官在即、金融强国建设绿色金融篇章纵深推进的大背景下,“双碳”服务已从前期的理念宣贯全面转向落地见效、价值创造的深度实操阶段。企业从被动合规降碳转向主动控碳增值的趋势愈发显著,以“碳+金融”为核心、“碳+科技”为支撑、“碳+数据”为底座的深度融合创新模式或将成为行业发展的核心增长引擎。电力装备行业加速转型发展。当前新型能源体系加快建设,国家发展和改革委员会、能源局提出,到2030年,初步建成以主干电网、配电网为基础、智能微电网为补充的新型电网平台。国家电网公司“十五五”期间固定资产投资预计达4万亿元,较“十四五”时期增长40%。中国南方电网有限责任公司2026年固定资产投资安排达1,800亿元,连续五年创新高,年均增速达9.5%。随着电网高质量发展的不断深入,电工装备将向智能化、绿色化、融合化方向发展,智能电网运维服务需求也将快速增长,电网节能降损、电能质量治理需求将为综合能源服务带来发展机遇。此外,随着全球范围内新能源项目的蓬勃发展、终端电气化和算力需求持续增长,带动了电网升级和扩容需求,“一带一路”等海外电力设备市场也呈现出高景气度,为电力装备业务发展拓展了新的空间。(二)公司发展战略公司始终坚持“稳健、崇实、进取、善成”的发展理念,着力推动全领域经营管理深化提升,在“一目标、一保障、双引擎、四驱动”战略布局框架内,做强做优做专做精金融业务、碳资产业务和电力装备业务。以“打造具有能源特色国际一流的数字型绿色金融和智能制造服务商”为战略目标。努力发展成为深耕电网产业链、服务实业的产融结合型公司,把握新业态、顺应新趋势的数字科技型公司,聚焦绿色金融、深耕高端制造的助力双碳型公司,规范高效运营、市场形象良好的优质公众型公司。以“大风控体系”为保障。把风险防控作为根本性任务,构筑事前、事中、事后全流程大风控体系,加强风险源头管控,发挥业务清单的首道风控屏障作用。加强风险过程管控,有效提升风险识别、评估、监测、预警水平。强化风险审计一体化管理,加强违规责任追究,牢牢守住不发生重大风险的底线。打造“绿色金融+智能制造”双引擎。立足能源领域资源禀赋,强化需求牵引和供给创造,增强发展动能,实现“绿色金融+智能制造”融合发展,巩固金融业务竞争优势,提升服务质效；升级做优电力装备制造业务,大力发展新质生产力,持续提升电力装备制造业务盈利水平和服务保障能力。锻造“四大驱动”。数字化驱动,大力推进数字化转型,运用数字技术赋能赋智,充分挖掘发挥数据要素作用。绿色化驱动,服务绿色发展,实现绿色金融上规模、创效益,提升碳管理专业能力和服务质效,促进能源电力行业绿色低碳转型。集约化驱动,深化集约经营,在组织、人员、成本、风险上做“减法”,在效率、效益、价值贡献上做“加法”,优化资源配置,凝聚发展合力。协同化驱动,强化产融协同、融融协同,充分发挥协同优势,促进业务集群发展、协同发展、创新发展。(三)经营计划2026年,公司将以习近平新时代中国特色社会主义思想为指导,全面贯彻党的二十大和二十届历次全会精神,认真落实中央经济工作会议、全国金融系统工作会议部署,坚持稳中求进、提质增效工作总基调,奋力实现“十五五”良好开局,力争实现营业总收入132.2亿元、利润总额34.5亿元,计划固定资产投资1.71亿元。优化规范治理,提升发展质量。落实国资委对央企控股上市公司部署,对标监管最新要求,着力提升现代企业治理水平。建强公司法人治理体系,精细董事、高管人员配置与履职管理,提升履职效能。优化“两会一委一层”权责划分与决策流程,保障重大决策科学合理、上下贯通。引入积极股东,实现优势互补、合作共赢、共同发展。持续加强市值管理,结合发展阶段和经营情况,综合考虑投资者利益和回报,优化分红节奏,稳步提升分红比例。强化信息披露及投资者关系管理,聚焦“真实、准确、完整、及时、公平”,健全披露机制、优化披露内容,创新投资者关系管理新模式。深耕金融业务,增强发展动能。紧扣“防风险、强监管、促高质量发展”工作主线,深化产融协同,打造金融“五篇大文章”实践样板,巩固提升能源电力竞争优势,更好支撑服务新型电力系统建设。信托业务聚焦主责主业,做好电网资金运作支撑,深度挖掘产业链供应链金融需求,持续深耕央国企信托、慈善信托等特色服务,体现信托本源价值。证券业务发力特色投行建设,创新融资工具和服务模式,增强财富管理、投资研究和产品创设能力,加快构建多元化、低波动、可持续的业务格局。聚焦服务双碳,实现攻坚突破。持续巩固碳业务先发优势,深化以碳聚融、以碳促产,横向扩围力争实现国家电网省电力公司和分部碳管理服务全覆盖,纵向挖潜推动核心业务下沉地市,推动业务向标准化、数字化转型。优化构建“1+3+3”业务体系,即打造1个样板,推动发布国网冀北电力中国式现代化碳篇章实践白皮书,培育“碳评+”业务、ESG与可持续披露业务、输变电工程碳评业务3类业务,力争实现分时分区电碳因子业务、碳资产开发与管理业务、绿色供应链一站式服务3方面突破。发力装备业务,推动提质升级。坚持“智能化、绿色化、融合化、国际化”发展方向,做精做强变压器类、电网监测类等核心业务,大力发展开关类、变压器类同源产品等,积极拓展一二次融合技术创新、智能微电网等新业务新模式,构建更具韧性的产业发展格局。持续完善研发体系,加力突破配网、高电压等关键技术,打造市场认可度高、竞争力强的特色产品。深化产业升级,扎实推进重点产线项目验收,提升生产自动化、智能化水平和绿色制造能力。深化数智转型,提升管理效能。持续拓展金融中台数据类型,丰富信息系统功能体系,提升系统贯通度,推动业务支撑更高效；持续完善安全防护联防联控机制,加快信创适配改造,确保网络和信息安全保障体系夯实筑牢；强化数字化赋能装备制造,深入推进物联网、大数据、人工智能等新一代信息技术与生产经营融合,逐步构建更高层级的智慧工厂体系。强化党建引领,夯实政治保障。深入实施新时代高质量党建工程,深入学习贯彻习近平总书记重要讲话和重要指示批示精神,深化党建业务融合,以党的创新理论指导经营发展实践。深度开展树立和践行正确政绩观学习教育,紧紧围绕党中央重大部署和高质量发展重点任务,强化政治监督,细化监督举措。锻造高素质人才队伍,加强党员干部政治历练和政治训练,在“投资于人”上下功夫,盘活内部人才市场,有效激活人力资源价值。"
+    },
+    {
+      "reportDate": "2024-12-31",
+      "businessReview": "2024年是全面贯彻落实党的二十届三中全会的开局之年,也是实现“十四五”规划目标任务的关键之年。在宏观经济运行总体平稳、稳中有进、质效向好的态势下,公司上下同题共答、同向发力,坚定方向服务大局,坚持创新深化改革,坚守底线防控风险,公司各项业务稳中向好,实现了质的有效提升和量的合理增长。深耕价值创造,金融业务稳中提质。公司根植能源行业、聚焦服务实体,做精做优金融“五篇大文章”,推进旗下英大信托、英大证券和英大期货业务高质量发展取得良好成效。信托业务管理资产规模首次超万亿,为特高压、农网改造等重点工程提供专项融资支持,央企服务信托实现业务突破。证券业务健全“投资+投行+投研”专业服务体系,把握资本市场改革机遇,打造风险可控、收益稳健的业务布局。期货业务立足电力产业链需求,纵深推进经纪业务,稳慎优化业务布局。积极融入大局,服务双碳乘势而上。深化绿色金融创新提质,积极构建覆盖能源电力全产业链的绿色金融矩阵,融入新型储能、绿色算力等新型电力系统重点领域,创设绿色订单融资、“碳评+金融”等服务模式,绿色金融业务规模持续提升。强化碳服务支撑能力,围绕电网企业和产业链上下游提供一揽子双碳解决方案,协助24家省电力公司开展碳管理服务,推进电工装备产品碳足迹研究应用,支撑江苏如东海上风电等项目CCER资产开发。高标准亮相第二届上海国际碳博会,服务新型电力系统建设案例、产品碳足迹采集装置等展项精彩入展,受邀出席第29届联合国气候变化大会(COP29)“中国角”边会,充分彰显央企服务双碳责任担当。坚持多向发力,制造业务转型提质。坚持高端化、智能化、绿色化发展方向,成功研制国内首台35千伏8000千伏安非晶闭口立体卷铁心油浸式电力变压器,油浸式配电变压器多功能在线状态监测装置、电力气象监测装置、机载零值绝缘子检测装置等产品实现应用,直流干式电容器在张北柔直工程成功挂网。非晶配电变压器、复合绝缘子、电力专用车等核心产品中标额保持行业领先。智慧配电网技术装备、防雷接地、高试计量等中标份额增长显著。非晶立体卷新能源箱式变电站、宽幅有载调压配电变压器、交流盘形悬式玻璃复合绝缘子等新产品实现批量中标。复合绝缘子海外业务持续落地,配电变压器海外业务实现增长。置信日港获评工信部专精特新“小巨人”企业。聚焦规范运作,法人治理优化完善。落实监管要求,结合公司实际,动态优化董事会结构,修订完善法人治理制度,建立健全独立董事履职工作机制,进一步提升公司法人治理决策及运行水平。动态完善信息披露管理运行机制,提高信息披露工作质效。首次开展中期分红,提升投资者获得感；强化投资者关系管理,增进市场认同。持续健全完善ESG管理体系,连续四年入选国资委“央企ESG先锋指数”,排名稳步上升,近两年稳居前10%；连续两年入选中央广播电视总台“中国ESG上市公司先锋100”榜单和“中国ESG上市公司金融业先锋30”榜单；荣获中国证券报“第二届国新杯ESG金牛奖”；公司ESG案例获评中国上市公司协会“2024年上市公司可持续发展优秀案例”。强化合规安全,风险防控稳健增强。坚持安全为要,持续深化大风控体系建设,严密监测风险信息变化,组织各子公司动态调整风控策略；优化风险监测模型,完善功能,提升风险监测预警准确性；开展集中度风险管理,拓展交易对手黑白名单范围,常态化开展潜在风险隐患排查。不断强化合规保障,开展重点领域违规问题专项治理,加强法律案件统筹指导,深化“以案促管”,健全法律风险防控长效机制。加强党的建设,党建引领焕发活力。始终坚持党对金融工作的领导,深入贯彻落实党的二十届三中全会精神,扎实开展党纪学习教育,推动党纪学习常态化长效化。加强党的全面领导和完善公司治理有机统一,聚焦业务发展、财务管理、风险防控重点领域,组织修订“三重一大”制度体系,确保重大事项可控在控。严格落实“第一议题”制度和中心组学习制度,确保党中央决策部署贯彻到位。纵深推进全面从严治党,确保管党治党责任严格落实。2024年,公司实现营业总收入112.88亿元,同比增长3.60%,归属于上市公司股东的净利润15.74亿元,同比增长15.39%。图：公司2020-2024年营业总收入和归母净利润（单位：亿元）。",
+      "futureExpect": "(一)行业格局和趋势宏观经济延续稳中有进态势。2025年,尽管外部不确定性因素持续存在,但在政策加力、改革发力、开放助力、转型给力等协同作用下,国内经济运行积极因素增多,市场预期将不断恢复,经济运行稳中向好。中央经济工作会议延续去年9月以来一揽子增量政策调节思路,定调经济“总体平稳,稳中有进”,实施更加积极的财政政策、适度宽松的货币政策,我国经济长期向好的支撑条件和基本趋势没有改变。金融行业坚持高质量发展总基调。信托行业“三分类”配套“1+N”政策体系预计2025年出台,分类管理要求将进一步细化,推动行业规范化、创新化发展。整体上,“调结构、促转型”成为发展主题,信托行业将在稳健合规基础上,立足受托人定位,发挥信托制度功能优势,持续夯实信托本源。资产服务信托、证券投资信托成为重要发力点,探索差异化发展路径,加大服务实体经济力度将成为信托公司的必由之路。证券行业作为资本市场的重要建设者、参与者,积极做好“五篇大文章”,加快推动财富管理转型,加大一流投资银行和投资机构培育力度,提升服务国家战略和实体经济的能力是实现高质量发展的必然选择。在加快培育和发展新质生产力的政策导向下,新型电力系统构建、新一代信息技术等领域的资本需求进一步凸显,产业升级和科技创新将为证券业务带来机遇和增量。期货行业发展路径逐渐明晰,配套监督管理办法或将陆续出台。随着期货市场规模持续扩大,期货品种体系进一步丰富,期货公司将逐步深化内涵式发展,增强期货价格服务产业的深度,更好维护产业链供应链安全。碳资产行业从试点运行逐步迈向成熟运行关键阶段。在“双碳”政策不断落地的大背景下,在服务能源结构转型和加快构建新型电力系统的过程中,碳资产管理对于促进能源电力绿色替代、产业结构转型、能源使用效率提升和终端电能替代具有重要作用,碳资产行业面临较大的业务发展潜力。同时,随着碳资产行业顶层设计逐步完善,低碳服务正在从前期的理念宣贯、体系构建,逐步转向落地实操、减排增效,综合性降碳服务需求日益旺盛,“碳+金融”、“碳+科技”等服务模式或将为碳市场发展注入新的活力。电力装备行业发展前景广阔。当前全球产业链供应链深度调整,新一轮科技革命和产业革命加快演进,中央经济工作会议提出加力扩围实施新一轮大规模设备更新等系列政策。能源绿色低碳转型和新型电力系统正在加速发展,电网固定资产投资在高基数上继续保持增长,2025年国家电网投资有望首次超6,500亿元,将聚焦优化主电网、补强配电网、服务新能源高质量发展,继续推进重大项目实施。此外,随着全球范围内新能源项目的蓬勃发展和终端电气化、算力需求持续增长,带动了电网升级和扩容需求,“一带一路”等海外电力设备市场也呈现出高景气度,为电力装备业务发展拓展了新的空间。(二)公司发展战略公司始终坚持“稳健、崇实、进取、善成”的发展理念,着力推动全领域经营管理深化提升,在“一目标、一保障、双引擎、四驱动”战略布局框架内,做强做优做专做精金融业务、碳资产业务和电力装备业务。以“打造具有能源特色国际一流的数字型绿色金融和智能制造服务商”为战略目标。努力发展成为深耕电网产业链、服务实业的产融结合型公司,把握新业态、顺应新趋势的数字科技型公司,聚焦绿色金融、深耕高端制造的助力双碳型公司,规范高效运营、市场形象良好的优质公众型公司。以“大风控体系”为保障。把风险防控作为根本性任务,构筑事前、事中、事后全流程大风控体系,加强风险源头管控,发挥业务清单的首道风控屏障作用。加强风险过程管控,有效提升风险识别、评估、监测、预警水平。强化风险审计一体化管理,加强违规责任追究,牢牢守住不发生重大风险的底线。打造“绿色金融+智能制造”双引擎。立足能源领域资源禀赋,强化需求牵引和供给创造,增强发展动能,实现“绿色金融+智能制造”融合发展,巩固金融业务竞争优势,提升服务质效；升级做优电气装备制造业务,大力发展新质生产力,持续提升电气装备制造业务盈利水平和服务保障能力。锻造“四大驱动”。数字化驱动,大力推进数字化转型,运用数字技术赋能赋智,充分挖掘发挥数据要素作用。绿色化驱动,服务绿色发展,实现绿色金融上规模、创效益,提升碳管理专业能力和服务质效,促进能源电力行业绿色低碳转型。集约化驱动,深化集约经营,在组织、人员、成本、风险上做“减法”,在效率、效益、价值贡献上做“加法”,优化资源配置,凝聚发展合力。协同化驱动,强化产融协同、融融协同,充分发挥协同优势,促进业务集群发展、协同发展、创新发展。(三)经营计划2025年,公司将以习近平新时代中国特色社会主义思想为指导,全面贯彻党的二十大和二十届二中、三中全会精神,落实中央经济工作会议、中央金融工作会议部署,坚持稳中求进、以进促稳总基调,推动公司更加稳健更高质量更可持续发展,力争实现营业总收入114.1亿元、利润总额26.4亿元,计划固定资产投资1.52亿元。规范创优,力争打造央企控股上市公司标杆。持续优化法人治理结构,按照监管要求,统筹推进监事会改革,稳妥有序衔接决策权责与程序,强化重大决策监督,提升法人治理效能,切实维护股东利益。提升信息披露管理质效,优化内部信息报送机制,理清报送流程,明确审核标准,提升披露透明度与精准度,确保信披与监管标准有效衔接,助力投资者价值判断与决策。强化市值管理,拓展投资者沟通渠道,提升机构关注度,综合实际动态优化利润分配政策,适时适度增加频次、优化节奏、提升比率,稳定投资者回报预期。稳中提质,全力涵养金融业务发展动能。立足电网产业链资源禀赋,深耕价值创造,培育核心价值。信托业务持续延伸电网资金运作服务内涵,深耕做优央国企服务信托、保险金信托、慈善信托等特色服务,培育财富管理能力。证券业务进一步强化直接融资功能,挖掘电网产业链企业并购重组机会,精准对接电力能源行业上市公司市值管理需求,为电网产业链延链、补链、强链提供服务保障。期货业务持续为电力能源产业链客户提供套期保值、交易咨询等衍生品金融服务,积极开展电力期货等绿色金融领域研究。服务双碳,协同打造“以碳聚融”发展新局面。巩固筑牢碳业务先发优势,聚焦服务电网产业链,横向做宽、扩大服务范围,纵向做深、延伸地市级电力公司,精准匹配碳管理、碳交易等涉碳需求,支撑绿色低碳转型；聚焦新能源消纳、需求侧响应等新型能源体系重点领域,创新研发绿色差异化标志性产品,深化“碳评+金融”服务模式,强化产品创新与市场合作,“以碳聚融”助力引导资金流向绿色低碳领域；强化“双碳”研究,积极参与相关方法学开发与标准制定,加快绿色涉碳标准研制发布,推动开展减排量化、电碳协同等领域关键理论研究,力争实现核心技术、特色优势新突破。深耕创新,持续推动电力装备提档升级。锚定“高端化、智能化、绿色化”发展方向,加速装备制造提档升级,在天津置信建成大容量非晶变智能产线,实施置信非晶变压器总装及试验检测线自动化改造,推进帕威尔电气现代化示范工厂和宏源电气变压器智能产线建设。加快培育壮大新业务,挖掘新能源箱变、智慧配电网、智能电气装备等市场潜力,加快推动输电智能运维、变电监测预警、电工新材料等核心技术产品研发,积极拓展重点产品市场和国际业务。切实抓好安全生产与精益管理,推动科技、产业、金融深层次创新融合。强基固本,全面守牢金融风险防线。持续增强金融风险防范治理效能,确保安全稳定发展局面。健全风险监管体系,明确风险监管指标,梳理重点领域风险责任清单,持续强化风险前瞻精准管控。深化法治企业建设,加强对分支机构合规监管,加强监管检查全过程管控,着力防控重点领域合规风险,加大违规事件问责考核力度,推进“以案促管、提质创效”。提升审计监督权威性和震慑力,深化监督协同贯通,扩大数字化审计应用范围,以高质量审计监督促进金融业务行稳致远。科技赋能,持续推动数智化转型。推动数智赋能赋效,深化一体化业务中台、数据中台、管理中台应用,充分挖掘数据价值和客户资源,推进经营理念、业务运行、产品服务的数字化变革,打造新业务、新业态、新模式。强化人工智能应用,密切跟进多模态大模型技术创新最新进展,注重试点试用,结合业务场景开展模型训练和调优,积极打造业务数字化转型新引擎。坚持严管理、稳运行、保发展的数字化建设理念,强化数字化联防联控,夯实“数智安全”堤坝,守牢网络安全防线。凝心铸魂,以高质量党建引领高质量发展。始终坚持党的集中统一领导,把党的领导全方位融入公司治理,充分发挥党委把方向、管大局、保落实作用。深化落实“第一议题”和党委理论学习中心组制度,学深悟透党的创新理论,坚决拥护“两个确立”,自觉增强“四个意识”、坚定“四个自信”、做到“两个维护”。建强党员责任区、示范岗、突击队,把党建业务融合贯穿金融高质量发展全过程,全面做好团青、工会、统战和宣传思想文化工作,锻造忠诚干净担当的高素质专业化人才队伍,广泛凝聚团结奋进力量。"
+    },
+    {
+      "reportDate": "2023-12-31",
+      "businessReview": "2023年是全面贯彻党的二十大精神的开局之年,是我国经济恢复发展的一年,在经济总体回升向好的宏观背景下,公司持续发挥绿色金融和智能制造产融协同发展优势,坚持稳字当头、稳中求进,聚合力促发展,全方位控风险,各项工作取到良好成效,经营业绩再创新高。金融业务提质增效。公司积极服务实体经济发展,持续巩固能源行业优势,强根塑基,推进旗下英大信托、英大证券和英大期货业务高质量发展取得良好成效。英大信托管理资产规模持续稳健增长,行业评级稳居A级,在第十六届中国优秀信托公司评选活动中荣获“2023年度突破成长信托公司”奖。英大证券努力推动财富、投行等业务转型,牵头主承销的低碳转型挂钩公司债券荣获“绿色金融产品创新奖”。英大期货立足电力产业链拓展业务资源,积极推动业务转型升级。服务双碳聚势领跑。服务能源转型和新型电力系统建设,加强绿色金融产品研发,积极构建覆盖能源电力全产业链的绿色金融矩阵,高效服务新能源、储能等重点领域建设,绿色金融业务规模持续提升。为能源电力行业提供碳管理服务,探索形成“碳管理七步行动法”,支撑企业管碳,助力政府治碳,服务社会降碳,碳业务先发优势持续巩固。“碳评+金融”模式将碳减排贡献评价融入传统金融产品,碳核算助力企业获取绿色信贷。制造业务突破升级。业务规模稳中有进,非晶立体卷配电变压器、复合绝缘子中标额保持行业领先,特种车辆产品合同额创历史新高,首台首套电磁式柔性互联装置在宁夏正式投运。科技创新实现突破,完成行业领先的大容量8,000kVA一级能效非晶立体卷电力变压器铁心方案设计,获湖北省科技进步奖二等奖等奖项11项,4项新产品通过中国电机工程学会等权威机构鉴定,牵头或参与制修订并发布国家标准2项、行业标准7项。绿色转型取得实效,多类产品取得碳足迹认证,置信非晶、襄阳绝缘子获评国家级“绿色工厂”,帕威尔电气、宏源电气获评省级“绿色工厂”。公司治理严格规范。进一步规范公司治理,强化价值创造,修订公司章程、三会议事规则等治理类规章制度10项,制定《独立董事工作制度》,法人治理基础进一步夯实；年内召开“三会”14次,披露公告及附件147项。公司在国资委“央企ESG先锋100指数”中位列第46名,排名三年来稳步提升,2023年首次跻身前50,入选中央广播电视总台“中国ESG上市公司先锋100”榜单、“中国ESG上市公司金融业先锋30”榜单,荣获中国上市公司协会“2023年上市公司ESG最佳实践案例”、证券时报“中国上市公司ESG百强”等奖项。风控治理持续加强。公司始终把防控风险作为生命线,巩固了安全稳定的发展局面。发挥大风控体系作用,建立风控工作评价机制,编制金融业务内控监督评价重点问题标准化清单,健全全过程风控机制。持续完善风控系统,实现刚性管控全覆盖。扎实开展“合规管理提升年”行动,统筹重点领域合规风险防控。党建引领走深走实。公司以习近平新时代中国特色社会主义思想为指导,深入贯彻落实党的二十大精神,广泛凝聚奋进力量,牢牢把握“学思想、强党性、重实践、建新功”总要求,一体推进理论学习、调查研究、高质量发展、巡视整改。深入实施“党建+”工程,推动党建与业务相融并进。全面深化从严治党,持续深化廉洁文化建设。2023年,公司实现营业总收入108.95亿元,同比增长0.32%,实现归属于上市公司股东的净利润13.64亿元,同比增长23.96%。图：公司2019-2023年营业总收入和归母净利润（单位：亿元）。",
+      "futureExpect": "(一)行业格局和趋势宏观环境稳中向好。我国发展面临的有利条件强于不利因素,经济回升向好、长期向好的基本趋势没有改变。中央经济工作会议将2024年工作总基调确定为“稳中求进、以进促稳、先立后破”,会议作出财政政策适度加力,提质增效,货币政策灵活适度,精准有效等重要部署,各项政策将渐次落地见效,拉动我国经济稳健增长。金融行业坚持高质量发展。信托行业转型进入深层次阶段,随着分级分类监管的一系列政策相继出台和实施,规范信托公司的经营行为、严格防范系统性金融风险、促进信托业健康稳定发展的监管导向愈发鲜明,信托业将逐步摒弃原来资金中介的角色,聚焦业务转型、探索差异化金融服务将是信托机构接下来的必行举措。证券行业正由传统“通道+自营”为主的业务结构向“以客户为中心”的综合服务模式转型,实体经济及居民等各类市场主体对投融资、交易、资产配置等多元化需求不断增长,数字化贡献行业发展新动力,中小型证券公司探索特色化、差异化发展之路成为不断塑造竞争优势、实现高质量发展的必然选择。期货行业集中度进一步提高,行业内竞争日益加剧,风险防范要求不断提升,以期货和衍生品法为核心的中国特色期货市场法律体系建设进程加快,推动期货行业进入发展转型期。碳资产行业挑战与机遇并存。2024年1月22日,全国温室气体自愿减排交易市场启动仪式在北京举行。《碳排放权交易管理暂行条例》（国令第775号）将于2024年5月1日起施行,预计全国碳市场碳排放配额交易将实现量价齐升,市场活跃度也将进一步提升。低碳服务正从前期的理念宣贯、体系构建,逐步转向落地实操、减排增效,除应对碳市场履约以外,降低产品碳排放并应对国际碳关税和国内碳耗约束,逐步成为涉碳服务的刚性诉求,单纯以算碳为目的的传统碳核算服务,正迭代发展为综合降碳服务,未来碳资产行业发展动能将进一步夯实。中央企业、国有企业相继成立碳资产管理公司,咨询公司、专业中介机构以及金融投资机构纷纷涉足碳资产行业,未来行业格局将更为复杂,行业竞争将更为激烈。电力装备行业发展空间广阔。我国坚持科技创新引领现代化产业体系建设,扎实推进制造业转型升级,为电气设备行业持续健康发展奠定良好基础。在“双碳”目标引领下,我国工业、建筑、交通、农业、居民生活等领域的电气化水平持续提升；随着人工智能等高新技术产业发展,大数据中心等新型数字基础设施快速发展,电力消费需求预计将进一步增加。电网投资规模保持高位,以旧换新政策进一步推升行业需求,2024年国家电网公司电网投资预计将超5,000亿元。随着新型电力系统建设的深入实施,电工装备将向高端化、智能化、绿色化方向发展,智能电网运维服务需求也将快速增长,电网节能降损、电能质量治理需求将为公司带来发展机遇。(二)公司发展战略公司始终坚持“稳健、崇实、进取、善成”的发展理念,着力推动全领域经营管理深化提升,在“一目标、一保障、双引擎、四驱动”战略布局框架内,做强做优做专做精金融业务、碳资产业务和电力装备业务。以“打造具有能源特色国际一流的数字型绿色金融和智能制造服务商”为战略目标。努力发展成为深耕电网产业链、服务实业的产融结合型公司,把握新业态、顺应新趋势的数字科技型公司,聚焦绿色金融、深耕高端制造的助力双碳型公司,规范高效运营、市场形象良好的优质公众型公司。以“大风控体系”为保障。把风险防控作为根本性任务,构筑事前、事中、事后全流程大风控体系,加强风险源头管控,发挥业务清单的首道风控屏障作用。加强风险过程管控,有效提升风险识别、评估、监测、预警水平。强化风险审计一体化管理,加强违规责任追究,牢牢守住不发生重大风险的底线。打造“绿色金融+智能制造”双引擎。立足能源领域资源禀赋,强化需求牵引和供给创造,增强发展动能,实现“绿色金融+智能制造”融合发展,巩固金融业务竞争优势,提升服务质效；升级做优电气装备制造业务,大力发展新质生产力,持续提升电气装备制造业务盈利水平和服务保障能力。锻造“四大驱动”。数字化驱动,大力推进数字化转型,运用数字技术赋能赋智,充分挖掘发挥数据要素作用。绿色化驱动,服务绿色发展,实现绿色金融上规模、创效益,提升碳管理专业能力和服务质效,促进能源电力行业绿色低碳转型。集约化驱动,深化集约经营,在组织、人员、成本、风险上做“减法”,在效率、效益、价值贡献上做“加法”,优化资源配置,凝聚发展合力。协同化驱动,强化产融协同、融融协同,充分发挥协同优势,促进业务集群发展、协同发展、创新发展。(三)经营计划2024年,公司将以习近平新时代中国特色社会主义思想为指导,全面贯彻党的二十大精神,落实中央金融工作会议、中央经济工作会议各项要求,坚持稳中求进、以进促稳,坚定信心、开拓奋进,推动公司高质量发展,力争实现营业总收入97.9亿元、利润总额23.1亿元,资本性支出1.3亿元。规范运营,强化产融协同发展。深化产融协同,一体推进“绿色金融+智能制造”,推广产融协同创新试点成果,全力推进服务再提质,持续提升盈利能力,增强公司核心竞争力。强化市值管理,贯彻落实国务院国有资产监督管理委员会关于提高上市公司质量工作要求,持续优化具有产业金融特色的市值管理体系,持续提升公司价值基础、价值创造、价值认同、价值实现能力。强化公司治理,严格落实各项监管要求,强化“三会”合规运行,全面提升ESG治理和信息披露水平；持续优化信息披露质量,提升投资者关系管理,保持与证券监管机构、中介机构、投资者的良好沟通,保持市场能见度,有效传递公司价值,促进市场价值与内在价值齐头并进。提质增效,推动金融业务高质量发展。充分发挥专业优势,协同聚力服务实体经济发展,提升公司经营质效。英大信托持续延展电网产业服务深度与广度,建强区域分部,强化固信联动,聚焦特色优势,推进业务多元化发展。英大证券发挥功能价值,发力绿色债券财务顾问和承销服务,聚焦新质生产力,紧盯新型电力系统科技攻关,跟进柔性直流输电、新能源主动支撑、长周期和构网型储能等技术创新落地,拓展电力产业链上市保荐及融资运作业务,发挥投资咨询资质优势,开展外部标品、FOF产品咨询服务和中间业务,服务实体企业投资需求。英大期货持续深耕电力产业链上下游,积极为产业客户提供差异化、定制化的价格风险管理方案,稳妥开展期货经纪、投资咨询等业务,努力提升盈利能力。服务双碳,助力美丽中国建设。巩固绿色金融发展优势,围绕新型电力系统和新型能源体系建设,精准对接沙戈荒大型风电光伏基地、抽蓄电站等重点建设项目,打造标志性产品,加大业务落地推广。进一步扩大碳管理服务覆盖范围,以碳信用助力金融赋能经济社会绿色低碳转型。持续培育碳科技数字化成果转化,赋能碳资产业务高质量发展。推动创新,加快发展新质生产力。聚力先进制造业务发展,构建市场导向、决策科学、责任清晰、运行高效、监管到位的研发体系,加强研发平台建设,以国家企业技术中心为载体,推动非晶合金变压器、避雷器、绝缘子、电力专用车等产品技术创新升级,加大输变配用电设施运维产品及服务、智慧配网及智能配用电技术产品、储能及电力工程服务等新兴产业拓展力度。做好科技金融,加大力度服务科研院所、产业单位、产业链科技型企业,针对性制定科技金融服务方案,助力重大项目攻关和科研成果转化,积极提供从初创到上市的全周期科技金融服务。数字赋能,持续提升业务效率。加力推进数字化转型,研究引入人工智能等技术,丰富模块化功能。以数字化技术赋能金融业务拓展、客户服务、业务监管,推进标准业务自动处理,促进系统集成融合。加强数智化工厂建设,提升生产经营效率。构建全场景安全防护体系,严守网络、系统、数据安全底线。防控风险,筑牢守好风险防范堤坝。提升风控治理能力,健全风控要点指引,做好内控评价、完善内控标准。综合运用风险预警、违规通报、培训考核、合规评价等方式,将合规要求向基层穿透。开展全流程风险管理,动态优化风险偏好管理、金融业务清单、交易对手黑白名单管理和集中度风险管控四项工具。深化法治企业建设,增强法治意识和法治思维,强化依法决策,完善法治监督,深入推进合规管理,强化溯源治理,健全“以案促管”长效机制,全面落实金融监管要求,全力压降违规事件数量。旗帜领航,以高质量党建引领高质量发展。持之以恒强根铸魂,以强化党的政治建设为统领,增强“四个意识”,坚定“四个自信”,坚决拥护“两个确立”、做到“两个维护”。要大力提升队伍的纯洁性、专业性、战斗力,坚持政治过硬、能力过硬、作风过硬标准,锻造忠诚干净担当的高素质专业化干部人才队伍。要始终保持昂扬向上工作状态,大力弘扬“五提倡五提高”“三下沉三融合”“四协同”工作作风,激励广大干部员工以更好的奋斗姿态、拼搏劲头、过硬本领干事创业,合力开创公司事业高质量发展新局面。"
+    }
+  ]
+}

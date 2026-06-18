@@ -1,0 +1,1180 @@
+{
+  "code": "002244",
+  "name": "滨江集团",
+  "fetchTime": "2026-06-18T18:32:46",
+  "segments": [
+    {
+      "reportDate": "2025-12-31",
+      "byIndustry": [
+        {
+          "name": "房地产业",
+          "income": 82608219354.86,
+          "incomeRatio": 99.66,
+          "cost": 71743711552.24,
+          "costRatio": 99.74,
+          "profit": 10864507802.62,
+          "profitRatio": 99.17,
+          "grossMargin": 13.15,
+          "rank": 1
+        },
+        {
+          "name": "酒店业",
+          "income": 261785100.58,
+          "incomeRatio": 0.32,
+          "cost": 170079449.45,
+          "costRatio": 0.24,
+          "profit": 91705651.13,
+          "profitRatio": 0.84,
+          "grossMargin": 35.03,
+          "rank": 2
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "房产销售",
+          "income": 81788243466.18,
+          "incomeRatio": 98.67,
+          "cost": 70901038661.55,
+          "costRatio": 98.57,
+          "profit": 10887204804.63,
+          "profitRatio": 99.38,
+          "grossMargin": 13.31,
+          "rank": 1
+        },
+        {
+          "name": "房产租赁",
+          "income": 442218969.98,
+          "incomeRatio": 0.53,
+          "cost": 588539273.86,
+          "costRatio": 0.82,
+          "profit": -146320303.88,
+          "profitRatio": -1.34,
+          "grossMargin": -33.09,
+          "rank": 2
+        },
+        {
+          "name": "房产项目管理服务",
+          "income": 377756918.7,
+          "incomeRatio": 0.46,
+          "cost": 254133616.83,
+          "costRatio": 0.35,
+          "profit": 123623301.87,
+          "profitRatio": 1.13,
+          "grossMargin": 32.73,
+          "rank": 3
+        },
+        {
+          "name": "酒店管理服务",
+          "income": 261785100.58,
+          "incomeRatio": 0.32,
+          "cost": 170079449.45,
+          "costRatio": 0.24,
+          "profit": 91705651.13,
+          "profitRatio": 0.84,
+          "grossMargin": 35.03,
+          "rank": 4
+        },
+        {
+          "name": "其他(补充)",
+          "income": 17755961.56,
+          "incomeRatio": 0.02,
+          "cost": 18542812.63,
+          "costRatio": 0.03,
+          "profit": -786851.07,
+          "profitRatio": -0.01,
+          "grossMargin": -4.43,
+          "rank": 5
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "杭州地区",
+          "income": 71564100724.42,
+          "incomeRatio": 86.34,
+          "cost": 61487681908.5,
+          "costRatio": 85.48,
+          "profit": 10076418815.92,
+          "profitRatio": 91.98,
+          "grossMargin": 14.08,
+          "rank": 1
+        },
+        {
+          "name": "金华地区",
+          "income": 6202721227.81,
+          "incomeRatio": 7.48,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "湖州地区",
+          "income": 2334284056.44,
+          "incomeRatio": 2.82,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "深圳地区",
+          "income": 730488629.17,
+          "incomeRatio": 0.88,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "南京地区",
+          "income": 494694481.95,
+          "incomeRatio": 0.6,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "丽水地区",
+          "income": 400648471.57,
+          "incomeRatio": 0.48,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "宁波地区",
+          "income": 353471865.42,
+          "incomeRatio": 0.43,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "台州地区",
+          "income": 208080607.23,
+          "incomeRatio": 0.25,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "境外地区",
+          "income": 195235218.1,
+          "incomeRatio": 0.24,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "温州地区",
+          "income": 181008923.7,
+          "incomeRatio": 0.22,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "苏州地区",
+          "income": 160509437.99,
+          "incomeRatio": 0.19,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        },
+        {
+          "name": "嘉兴地区",
+          "income": 61379158.52,
+          "incomeRatio": 0.07,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 12
+        },
+        {
+          "name": "其他地区",
+          "income": 1137614.68,
+          "incomeRatio": 0.0,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 13
+        }
+      ]
+    },
+    {
+      "reportDate": "2024-12-31",
+      "byIndustry": [
+        {
+          "name": "房地产业",
+          "income": 68876449238.36,
+          "incomeRatio": 99.6,
+          "cost": 60278141605.64,
+          "costRatio": 99.66,
+          "profit": 8598307632.72,
+          "profitRatio": 99.17,
+          "grossMargin": 12.48,
+          "rank": 1
+        },
+        {
+          "name": "酒店业",
+          "income": 260669185.52,
+          "incomeRatio": 0.38,
+          "cost": 183148570.25,
+          "costRatio": 0.3,
+          "profit": 77520615.27,
+          "profitRatio": 0.89,
+          "grossMargin": 29.74,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 14702546.15,
+          "incomeRatio": 0.02,
+          "cost": 19999329.81,
+          "costRatio": 0.03,
+          "profit": -5296783.66,
+          "profitRatio": -0.06,
+          "grossMargin": -36.03,
+          "rank": 3
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "房产销售",
+          "income": 68077549502.37,
+          "incomeRatio": 98.45,
+          "cost": 59585370524.52,
+          "costRatio": 98.52,
+          "profit": 8492178977.85,
+          "profitRatio": 97.94,
+          "grossMargin": 12.47,
+          "rank": 1
+        },
+        {
+          "name": "房产租赁",
+          "income": 419002126.48,
+          "incomeRatio": 0.61,
+          "cost": 493346431.49,
+          "costRatio": 0.82,
+          "profit": -74344305.01,
+          "profitRatio": -0.86,
+          "grossMargin": -17.74,
+          "rank": 2
+        },
+        {
+          "name": "房产项目管理服务",
+          "income": 379897609.51,
+          "incomeRatio": 0.55,
+          "cost": 199424649.63,
+          "costRatio": 0.33,
+          "profit": 180472959.88,
+          "profitRatio": 2.08,
+          "grossMargin": 47.51,
+          "rank": 3
+        },
+        {
+          "name": "酒店管理服务",
+          "income": 260669185.52,
+          "incomeRatio": 0.38,
+          "cost": 183148570.25,
+          "costRatio": 0.3,
+          "profit": 77520615.27,
+          "profitRatio": 0.89,
+          "grossMargin": 29.74,
+          "rank": 4
+        },
+        {
+          "name": "其他(补充)",
+          "income": 14702546.15,
+          "incomeRatio": 0.02,
+          "cost": 19999329.81,
+          "costRatio": 0.03,
+          "profit": -5296783.66,
+          "profitRatio": -0.06,
+          "grossMargin": -36.03,
+          "rank": 5
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "杭州地区",
+          "income": 50419063445.51,
+          "incomeRatio": 72.91,
+          "cost": 43099962974.48,
+          "costRatio": 71.26,
+          "profit": 7319100471.03,
+          "profitRatio": 84.41,
+          "grossMargin": 14.52,
+          "rank": 1
+        },
+        {
+          "name": "金华地区",
+          "income": 8458703640.5,
+          "incomeRatio": 12.23,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "宁波地区",
+          "income": 2904434177.91,
+          "incomeRatio": 4.2,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "南京地区",
+          "income": 2084775879.93,
+          "incomeRatio": 3.01,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "湖州地区",
+          "income": 1325978121.16,
+          "incomeRatio": 1.92,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "温州地区",
+          "income": 1047919197.16,
+          "incomeRatio": 1.52,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "丽水地区",
+          "income": 809577822.93,
+          "incomeRatio": 1.17,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "台州地区",
+          "income": 661760627.85,
+          "incomeRatio": 0.96,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "嘉兴地区",
+          "income": 614796810.13,
+          "incomeRatio": 0.89,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "苏州地区",
+          "income": 528210384.37,
+          "incomeRatio": 0.76,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "境外地区",
+          "income": 190985222.04,
+          "incomeRatio": 0.28,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        },
+        {
+          "name": "深圳地区",
+          "income": 104516329.53,
+          "incomeRatio": 0.15,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 12
+        },
+        {
+          "name": "其他地区",
+          "income": 1099311.01,
+          "incomeRatio": 0.0,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 13
+        }
+      ]
+    },
+    {
+      "reportDate": "2023-12-31",
+      "byIndustry": [
+        {
+          "name": "房地产业",
+          "income": 70158299334.6,
+          "incomeRatio": 99.6,
+          "cost": 58483823697.36,
+          "costRatio": 99.74,
+          "profit": 11674475637.24,
+          "profitRatio": 98.9,
+          "grossMargin": 16.64,
+          "rank": 1
+        },
+        {
+          "name": "酒店业",
+          "income": 267103129.17,
+          "incomeRatio": 0.38,
+          "cost": 136227907.32,
+          "costRatio": 0.23,
+          "profit": 130875221.85,
+          "profitRatio": 1.11,
+          "grossMargin": 49.0,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 17185045.13,
+          "incomeRatio": 0.02,
+          "cost": 17763139.71,
+          "costRatio": 0.03,
+          "profit": -578094.58,
+          "profitRatio": -0.0,
+          "grossMargin": -3.36,
+          "rank": 3
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "房产销售",
+          "income": 69334998435.67,
+          "incomeRatio": 98.43,
+          "cost": 57941833238.13,
+          "costRatio": 98.81,
+          "profit": 11393165197.54,
+          "profitRatio": 96.51,
+          "grossMargin": 16.43,
+          "rank": 1
+        },
+        {
+          "name": "房产项目管理服务",
+          "income": 465400255.32,
+          "incomeRatio": 0.66,
+          "cost": 137298272.93,
+          "costRatio": 0.23,
+          "profit": 328101982.39,
+          "profitRatio": 2.78,
+          "grossMargin": 70.5,
+          "rank": 2
+        },
+        {
+          "name": "房产租赁",
+          "income": 357900643.61,
+          "incomeRatio": 0.51,
+          "cost": 404692186.3,
+          "costRatio": 0.69,
+          "profit": -46791542.69,
+          "profitRatio": -0.4,
+          "grossMargin": -13.07,
+          "rank": 3
+        },
+        {
+          "name": "酒店管理服务",
+          "income": 267103129.17,
+          "incomeRatio": 0.38,
+          "cost": 136227907.32,
+          "costRatio": 0.23,
+          "profit": 130875221.85,
+          "profitRatio": 1.11,
+          "grossMargin": 49.0,
+          "rank": 4
+        },
+        {
+          "name": "其他(补充)",
+          "income": 17185045.13,
+          "incomeRatio": 0.02,
+          "cost": 17763139.71,
+          "costRatio": 0.03,
+          "profit": -578094.58,
+          "profitRatio": -0.0,
+          "grossMargin": -3.36,
+          "rank": 5
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "杭州地区",
+          "income": 45906827861.63,
+          "incomeRatio": 65.17,
+          "cost": 37510255418.71,
+          "costRatio": 63.97,
+          "profit": 8396572442.92,
+          "profitRatio": 71.13,
+          "grossMargin": 18.29,
+          "rank": 1
+        },
+        {
+          "name": "宁波地区",
+          "income": 4907047825.87,
+          "incomeRatio": 6.97,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "金华地区",
+          "income": 4452826062.62,
+          "incomeRatio": 6.32,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "温州地区",
+          "income": 3610021947.97,
+          "incomeRatio": 5.12,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "南京地区",
+          "income": 2900499673.34,
+          "incomeRatio": 4.12,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "嘉兴地区",
+          "income": 2843308102.14,
+          "incomeRatio": 4.04,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "苏州地区",
+          "income": 2680452011.58,
+          "incomeRatio": 3.81,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "湖州地区",
+          "income": 2517977385.22,
+          "incomeRatio": 3.57,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "台州地区",
+          "income": 424089236.07,
+          "incomeRatio": 0.6,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "境外地区",
+          "income": 180303030.49,
+          "incomeRatio": 0.26,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "上海地区",
+          "income": 16733486.26,
+          "incomeRatio": 0.02,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        },
+        {
+          "name": "上饶地区",
+          "income": 1872164.9,
+          "incomeRatio": 0.0,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 12
+        },
+        {
+          "name": "深圳地区",
+          "income": 628720.81,
+          "incomeRatio": 0.0,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 13
+        }
+      ]
+    },
+    {
+      "reportDate": "2022-12-31",
+      "byIndustry": [
+        {
+          "name": "房地产业",
+          "income": 41303220291.39,
+          "incomeRatio": 99.52,
+          "cost": 34126582179.21,
+          "costRatio": 99.64,
+          "profit": 7176638112.18,
+          "profitRatio": 98.95,
+          "grossMargin": 17.38,
+          "rank": 1
+        },
+        {
+          "name": "酒店业",
+          "income": 187716295.47,
+          "incomeRatio": 0.45,
+          "cost": 112688029.33,
+          "costRatio": 0.33,
+          "profit": 75028266.14,
+          "profitRatio": 1.03,
+          "grossMargin": 39.97,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 11379841.32,
+          "incomeRatio": 0.03,
+          "cost": 9991479.28,
+          "costRatio": 0.03,
+          "profit": 1388362.04,
+          "profitRatio": 0.02,
+          "grossMargin": 12.2,
+          "rank": 3
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "房产销售",
+          "income": 40668934057.03,
+          "incomeRatio": 97.99,
+          "cost": 33698731717.42,
+          "costRatio": 98.39,
+          "profit": 6970202339.61,
+          "profitRatio": 96.1,
+          "grossMargin": 17.14,
+          "rank": 1
+        },
+        {
+          "name": "房产租赁",
+          "income": 331316825.48,
+          "incomeRatio": 0.8,
+          "cost": 344552791.04,
+          "costRatio": 1.01,
+          "profit": -13235965.56,
+          "profitRatio": -0.18,
+          "grossMargin": -4.0,
+          "rank": 2
+        },
+        {
+          "name": "房产项目管理服务",
+          "income": 302969408.88,
+          "incomeRatio": 0.73,
+          "cost": 83297670.74,
+          "costRatio": 0.24,
+          "profit": 219671738.14,
+          "profitRatio": 3.03,
+          "grossMargin": 72.51,
+          "rank": 3
+        },
+        {
+          "name": "酒店管理服务",
+          "income": 187716295.47,
+          "incomeRatio": 0.45,
+          "cost": 112688029.33,
+          "costRatio": 0.33,
+          "profit": 75028266.14,
+          "profitRatio": 1.03,
+          "grossMargin": 39.97,
+          "rank": 4
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "杭州地区",
+          "income": 28342743963.92,
+          "incomeRatio": 68.29,
+          "cost": 23893170303.69,
+          "costRatio": 69.76,
+          "profit": 4449573660.23,
+          "profitRatio": 61.35,
+          "grossMargin": 15.7,
+          "rank": 1
+        },
+        {
+          "name": "金华地区",
+          "income": 8737563026.74,
+          "incomeRatio": 21.05,
+          "cost": 7096471756.91,
+          "costRatio": 20.72,
+          "profit": 1641091269.83,
+          "profitRatio": 22.63,
+          "grossMargin": 18.78,
+          "rank": 2
+        },
+        {
+          "name": "台州地区",
+          "income": 2425336850.34,
+          "incomeRatio": 5.84,
+          "cost": 1789939787.68,
+          "costRatio": 5.23,
+          "profit": 635397062.66,
+          "profitRatio": 8.76,
+          "grossMargin": 26.2,
+          "rank": 3
+        },
+        {
+          "name": "嘉兴地区",
+          "income": 981831417.06,
+          "incomeRatio": 2.37,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "湖州地区",
+          "income": 404930825.39,
+          "incomeRatio": 0.98,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "温州地区",
+          "income": 261638727.53,
+          "incomeRatio": 0.63,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "境外地区",
+          "income": 145749914.19,
+          "incomeRatio": 0.35,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "上饶地区",
+          "income": 117634086.24,
+          "incomeRatio": 0.28,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "南通地区",
+          "income": 60560829.61,
+          "incomeRatio": 0.15,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "宁波地区",
+          "income": 20698684.79,
+          "incomeRatio": 0.05,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "上海地区",
+          "income": 2756880.75,
+          "incomeRatio": 0.01,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        },
+        {
+          "name": "深圳地区",
+          "income": 871221.62,
+          "incomeRatio": 0.0,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 12
+        }
+      ]
+    },
+    {
+      "reportDate": "2021-12-31",
+      "byIndustry": [
+        {
+          "name": "房地产业",
+          "income": 37489533436.7,
+          "incomeRatio": 98.72,
+          "cost": 28244895037.57,
+          "costRatio": 98.94,
+          "profit": 9244638399.13,
+          "profitRatio": 98.04,
+          "grossMargin": 24.66,
+          "rank": 1
+        },
+        {
+          "name": "其他主营业务",
+          "income": 335717331.970001,
+          "incomeRatio": 0.88,
+          "cost": 226202951.330002,
+          "costRatio": 0.79,
+          "profit": 109514380.640001,
+          "profitRatio": 1.16,
+          "grossMargin": 32.62,
+          "rank": 2
+        },
+        {
+          "name": "酒店业",
+          "income": 151105698.08,
+          "incomeRatio": 0.4,
+          "cost": 75412226.66,
+          "costRatio": 0.26,
+          "profit": 75693471.42,
+          "profitRatio": 0.8,
+          "grossMargin": 50.09,
+          "rank": 3
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "房产销售",
+          "income": 36672864994.99,
+          "incomeRatio": 96.57,
+          "cost": 27863185412.34,
+          "costRatio": 97.61,
+          "profit": 8809679582.65,
+          "profitRatio": 93.42,
+          "grossMargin": 24.02,
+          "rank": 1
+        },
+        {
+          "name": "房产项目管理服务",
+          "income": 549751227.44,
+          "incomeRatio": 1.45,
+          "cost": 119469146.78,
+          "costRatio": 0.42,
+          "profit": 430282080.66,
+          "profitRatio": 4.56,
+          "grossMargin": 78.27,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 335717331.97,
+          "incomeRatio": 0.88,
+          "cost": 226202951.33,
+          "costRatio": 0.79,
+          "profit": 109514380.64,
+          "profitRatio": 1.16,
+          "grossMargin": 32.62,
+          "rank": 3
+        },
+        {
+          "name": "房产租赁",
+          "income": 266917214.27,
+          "incomeRatio": 0.7,
+          "cost": 262240478.45,
+          "costRatio": 0.92,
+          "profit": 4676735.82,
+          "profitRatio": 0.05,
+          "grossMargin": 1.75,
+          "rank": 4
+        },
+        {
+          "name": "酒店管理服务",
+          "income": 151105698.08,
+          "incomeRatio": 0.4,
+          "cost": 75412226.66,
+          "costRatio": 0.26,
+          "profit": 75693471.42,
+          "profitRatio": 0.8,
+          "grossMargin": 50.09,
+          "rank": 5
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "杭州地区",
+          "income": 22551523182.53,
+          "incomeRatio": 59.38,
+          "cost": 17878320463.9,
+          "costRatio": 62.63,
+          "profit": 4673202718.63,
+          "profitRatio": 49.56,
+          "grossMargin": 20.72,
+          "rank": 1
+        },
+        {
+          "name": "温州地区",
+          "income": 4590752424.96,
+          "incomeRatio": 12.09,
+          "cost": 3461009555.05,
+          "costRatio": 12.12,
+          "profit": 1129742869.91,
+          "profitRatio": 11.98,
+          "grossMargin": 24.61,
+          "rank": 2
+        },
+        {
+          "name": "湖州地区",
+          "income": 2387035544.58,
+          "incomeRatio": 6.29,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "金华地区",
+          "income": 2046219134.49,
+          "incomeRatio": 5.39,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "嘉兴地区",
+          "income": 1636488836.9,
+          "incomeRatio": 4.31,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "南通地区",
+          "income": 1622262110.09,
+          "incomeRatio": 4.27,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "上饶地区",
+          "income": 1484332435.78,
+          "incomeRatio": 3.91,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "台州地区",
+          "income": 1303589939.45,
+          "incomeRatio": 3.43,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "宁波地区",
+          "income": 243731390.1,
+          "incomeRatio": 0.64,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "境外地区",
+          "income": 94417459.56,
+          "incomeRatio": 0.25,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "上海地区",
+          "income": 15752966.08,
+          "incomeRatio": 0.04,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        },
+        {
+          "name": "深圳地区",
+          "income": 251042.23,
+          "incomeRatio": 0.0,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 12
+        }
+      ]
+    }
+  ],
+  "analysis": [
+    {
+      "reportDate": "2025-12-31",
+      "businessReview": "自1996年公司成立以来,公司一直从事房地产开发及其延伸业务的经营,致力于成为一家具有自身独特优势的专业房地产开发企业,商品住宅的开发和建设是目前最主要的经营业务。2025年公司主要经营情况如下：1．销售和经营业绩2025年公司实现销售额1017亿元,位列克而瑞全国房企排行榜第10位,民营企业第1位。在大本营杭州,公司已连续8年荣获杭州市场销售冠军。报告期内,公司项目顺利交付,实现营业收入828.88亿元,同比上升19.86%；实现净利润36.40亿元,同比下降3.98%,其中归母净利润21.16亿元,同比下降16.87%。主要系本期计提资产减值较上年同期增加所致。全年毛利率13.22%,较上年同期上升0.68个百分点。截止报告期末,公司总资产2082.34亿元,较上年末下降19.63%,归属于上市公司股东的净资产294.74亿元,较上年末增长7.07%,扣除预收款后的资产负债率为57.23%,资产负债结构进一步优化。截止报告期末,公司尚未结算的预收房款为854.79亿元。2．土地储备报告期内公司新增土地储备项目26个,新增项目计容建筑面积合计172.3万平方米,总土地款487亿元,权益土地款192亿元。其中杭州土地市场占有率33%,继续保持领先地位。截止报告期末,公司土地储备中杭州占比79%,浙江省内非杭州的城市包括金华、湖州、宁波等经济基础扎实的二三线城市占比13%,浙江省外占比8%,继续保持区域聚焦。3．有息负债规模和融资成本公司始终坚持把财务的安全放在首位,稳健经营。公司融资渠道畅通,将有息负债保持在合理水平,且“三道红线”监测指标持续保持“绿档”。近几年,公司权益有息负债规模分别为2022年末470亿元、2023年末360亿元、2024年末305亿元、2025年末262亿元,权益有息负债规模近年来持续下降。截止2025年末公司并表有息负债规模336.95亿元,较上年末下降37.39亿元,其中银行贷款占比83.2%,直接融资占比16.8%,债务结构合理。扣除预收款后的资产负债率为57.23%,净负债率为6.35%。债务期限构成上,短期债务为76.85亿元,占比仅为23%,低于期末货币资金（305.7亿元）,现金短债比为3.98倍,可有效覆盖短期债务。公司近年来综合融资成本不断下降,2020年5.2%,2021年4.9%,2022年4.6%,2023年4.2%,2024年3.4%,截至报告期末公司平均融资成本为3.0%,较上年末下降0.4个百分点。公司授信储备方面,截止2025年末,公司共获银行授信总额度1,323.10亿元,较上年末增加8.85%,授信额度已使用331.01亿元,剩余可用992.09亿元,占总额度的75%。直接融资可用额度上,截止报告期末已注册完成尚未发行的中票额度30亿元,可根据资金需求和市场情况择机发行。4．其他业务代建业务方面,公司通过对外输出品牌,拓展代建业务,对开发业务起补充作用。报告期内公司在南京新增代建项目1个,计容建面约5.7万方。酒店方面,公司旗下千岛湖滨江云顶桃源度假酒店、杭州友好饭店、千岛湖滨江希尔顿度假酒店、杭州天目山英迪格酒店等酒店经营有序推进。租赁业务方面,截止报告期末,公司持有可用于出租的写字楼、商业裙房、社区底商及公寓面积约54.9万平方米,报告期内实现租金收入4.42亿元。公司投资性房地产采用成本法计量,期末账面价值101.16亿元。养老业务方面,公司旗下首个康养项目,滨江和家御虹府长者之家有序运营中,截止报告期末,入住率已达95%。发展战略和未来一年经营计划（一）公司发展战略2026年,公司将继续推进实施“1+5”的发展战略,“1”指房地产主业,坚持把房地产主业做精、做优、做强,在保证安全运营和品质的前提下,与头部企业保持适度的规模比例；“5”指的是同时有序推进服务、租赁、酒店、养老和产业投资五大业务板块。（二）经营计划1、销售目标：销售额800亿元,销售排名全国前15,销售份额占全国1%左右。2、土地储备：继续在优质城市、优质地段、拿优质的项目、做优质的产品,与优质的企业合作,把市场喜欢滨江的、公司又擅长的产品淋漓尽致地展示出来。投资金额控制在权益销售回款50%左右。投资区域布局目标上,杭州占比60%,省内占比20%,省外占比20%,省外的重点是上海。3、融资：继续降低权益有息负债水平,从年初的262亿元降至230亿元左右；继续控制直接融资规模,把直接融资规模比例控制在20%以内；继续降融资成本,争取降至2.9%以内。（四）2026年到期的直接融资情况从本报告披露日起,将于本年度到期的公司直接融资情况如下：公司将根据已发行的债券本息到期情况,合理调度分配资金,保证按期偿付到期本息。向商品房承购人因银行抵押贷款提供担保按照房地产企业经营惯例,公司及部分控股子公司为相关业主按揭贷款提供保证。截至2025年12月31日,本公司及部分控股子公司为购买本公司相关房产的业主提供保证所及的借款金额为2,340,118.66万元。本报告期,公司不存在因承担阶段性担保责任而支付的金额占公司最近一期经审计净利润10%以上的情形。1、概述2025年,公司实现营业收入828.88亿元,同比上升19.86%；实现净利润36.40亿元,同比下降3.98%,其中归母净利润21.16亿元,同比下降16.87%。",
+      "futureExpect": "（一）未来经营策略未来,公司将继续有序推进“1+5”战略规划,“1”指房地产主业,坚持把房地产主业做精、做优、做强,在保证安全运营和品质的前提下,与头部企业保持适度的规模比例；“5”指的是同时有序推进服务、租赁、酒店、养老和产业投资五大业务板块。"
+    },
+    {
+      "reportDate": "2024-12-31",
+      "businessReview": "自1996年公司成立以来,公司一直从事房地产开发及其延伸业务的经营,致力于成为一家具有自身独特优势的专业房地产开发企业,商品住宅的开发和建设是目前最主要的经营业务。报告期内,公司按照年初制定的经营计划,稳健开展经营,2024年主要经营情况回顾如下：1．销售位居行业前列、经营业绩稳中有升2024年公司实现销售额1116.3亿元,位列克而瑞行业销售排名第9位,首次进入克而瑞全国房企TOP10阵营,排名较2023年提升2位,同时也成为TOP10中唯一的民营房企。在大本营杭州,公司已连续7年荣获杭州市场销售冠军。报告期内,公司项目交付顺利,实现营业收入691.52亿元；实现利润总额59.34亿元,同比增长17.85%；净利润37.91亿元,同比增长32.94%,归母净利润25.46亿元,同比增长0.66%。全年毛利率较上年同期有所下降,主要因报告期内结算的主要项目为2020年、2021年获得的项目,该等项目因存在自持等原因导致毛利率较低,预计随着低毛利项目的交付,未来毛利率会逐步修复。截止报告期末,公司总资产2590.83亿元,较上年末下降10.67%,归属于上市公司股东的净资产275.28亿元,较上年末增长8.80%。截止报告期末,公司尚未结算的预收房款为1253亿元,可结算资源充裕。2．财务稳健、有息负债规模和融资成本持续下降公司坚持稳健经营,融资渠道畅通,并继续保持合理有息负债水平,“三道红线”监测指标持续保持“绿档”。截止报告期末,公司权益有息负债305亿元,较年初下降55亿元,权益货币资金余额327亿元,较年初上升10.47%,公司历史上首次权益货币资金大于权益有息负债。公司并表有息负债规模374.34亿元,较上年末下降40.83亿元,其中银行贷款占比83.2%,直接融资占比16.8%,债务结构清晰。扣除预收款后的资产负债率为57.88%,净负债率为0.57%。债务期限构成上,短期债务为103.68亿元,占比仅为28%,低于期末货币资金（371.4亿元）,现金短债比为3.58倍,可有效覆盖短期债务。公司近年来综合融资成本不断下降,2020年5.2%,2021年4.9%,2022年4.6%,2023年4.2%,截至报告期末公司平均融资成本为3.4%,较上年末下降0.8个百分点。融资成本持续下降,充分反映了市场对滨江优秀的资产价值、强大的经营能力和优质的公司信誉的高度认可。公司授信储备充裕,流动性良好,截止2024年末,公司共获银行授信总额度1215.54亿元,授信额度已使用338.67亿元,剩余可用876.87亿元,占总额度的72%。直接融资可用额度上,截止报告期末已注册完成尚未发行的短期融资券额度13亿元、中票额度11亿元,可根据资金需求和市场情况择机发行。报告期内,公司经营活动现金流净额76.68亿元,近年来持续保持净流入,资金流动性充裕安全。3．区域深耕、土储优质报告期内,公司在土地市场保持理性的投资策略,全年获取土地23宗,其中杭州22宗,南京1宗,杭州土地市场占有率37%,继续保持领先地位。报告期内新增项目计容建筑面积合计187万平方米,权益土地款224.4亿元。截止报告期末,公司土地储备中杭州占70%,浙江省内非杭州的城市包括金华、湖州、宁波等经济基础扎实的二三线城市占比20%,浙江省外占比10%。良好的区域布局,优质的土地储备为公司未来可持续发展提供有力保障。4．其他业务稳步推进代建业务方面,公司通过对外输出品牌,拓展代建业务,对开发业务起补充作用。报告期内公司在宁波、湖州、杭州、金华等地共获取代建项目6个,总计容建面约74.2万方。酒店方面,公司旗下千岛湖滨江云顶桃源度假酒店、杭州友好饭店、千岛湖滨江希尔顿度假酒店、杭州天目山英迪格酒店等酒店经营有序推进。租赁业务方面,截止报告期末,公司持有可用于出租的写字楼、商业裙房、社区底商及公寓面积约44.71万平方米,报告期内实现租金收入4.19亿元。公司投资性房地产采用成本法计量,期末账面价值96.85亿元。养老业务方面,公司旗下首个康养项目,滨江和家御虹府长者之家有序运营中,截止报告期末,入住率已达85%。新增土地储备项目注：表中项目权益比例可能存在根据项目发展情况动态调整情形,上述比例仅供投资者作阶段性参考。累计土地储备情况注：累计土地储备项目指截止2024年12月31日末在建和拟建的项目,不含竣工和交付项目,剩余可开发计容建面指截止报告期末尚未领取施工许可证的项目的计容建面。主要项目开发情况注：上表中竣工面积指项目竣工备案面积,表中涉及项目权益比例、面积指标、投资金额等的相关数据可能存在根据项目具体开发情况动态调整情形。主要项目销售情况主要项目出租情况土地一级开发情况融资途径发展战略和未来一年经营计划（一）公司发展战略2025年,公司将继续推进实施“1+5”的发展战略,“1”指房地产主业,坚持把房地产主业做精、做优、做强,在保证安全运营和品质的前提下,与头部企业保持适度的规模比例；“5”指的是同时有序推进服务、租赁、酒店、养老和产业投资五大业务板块。（二）经营计划1、销售目标：销售额1000亿元左右,行业排名15名以内,全国份额1%以上。2、土地储备：遵循优质原则,即优质城市、优质地段、优质项目、优质产品、选择优质的合作伙伴,确保投资项目实现高质量与高回报。投资金额控制在权益销售回款50%左右。区域布局上,杭州继续保持且增加,省内适度减少,省外关注上海和江苏。3、融资：继续降低有息负债水平,目标300亿元以内；继续降融资成本,确保3.3%,争取3.2%以内；继续把直接融资比例控制在20%以内。（三）2025年主要计划竣工交付项目（四）2025年到期的直接融资情况从本报告披露日起,将于本年度到期的公司直接融资情况如下：公司经营稳健、盈利情况良好,各项业务经营情况正常。公司将根据已发行的债券本息到期情况,合理调度分配资金,保证按期偿付到期本息。向商品房承购人因银行抵押贷款提供担保按照房地产企业经营惯例,公司及部分控股子公司为相关业主按揭贷款提供保证。截至2024年12月31日,本公司及部分控股子公司为购买本公司相关房产的业主提供保证所及的借款金额为3,619,454.56万元。本报告期,公司不存在因承担阶段性担保责任而支付的金额占公司最近一期经审计净利润10%以上的情形。董监高与上市公司共同投资（适用于投资主体为上市公司董监高）1、概述2024年,实现营业收入691.52亿元,同比下降1.83%；实现净利润37.91亿元,同比上升32.94%,其中归母净利润25.46亿元,同比上升0.66%。",
+      "futureExpect": "（一）未来经营策略未来,公司将继续有序推进“1+5”战略规划,“1”指房地产主业,坚持把房地产主业做精、做优、做强,在保证安全运营和品质的前提下,与头部企业保持适度的规模比例；“5”指的是同时有序推进服务、租赁、酒店、养老和产业投资五大业务板块。"
+    },
+    {
+      "reportDate": "2023-12-31",
+      "businessReview": "自1996年成立以来,公司一直从事房地产开发及其延伸业务的经营,致力于成为一家具有自身独特优势的专业房地产开发企业,商品住宅的开发和建设是目前最主要的经营业务。2023年,公司实现营业收入704.43亿元,同比增长69.73%;实现归母净利润25.29亿元,同比下降32.41%,主要受本期计提存货跌价准备增加影响。截止报告期末,公司总资产2900.32亿元,归属于上市公司股东的净资产253.02亿元,分别较上年末增长5.01%和7.5%,财务状况良好。截止报告期末,公司尚未结算的预收房款为1430亿元,较年初增长9.73%。2023年公司主要经营情况回顾如下:1.销售良好、回款增加2023年,公司销售情况良好,实现销售额1534.7亿元,与上年基本持平,位列克而瑞行业销售排名第11位,较2022年提升2位,并连续6年荣获杭州市场销售冠军。全年权益销售现金回笼732亿元,创历史新高。2.财务稳健、有息负债下降公司坚持稳健经营,保持合理有息负债水平,“三道红线”监测指标持续保持“绿档”。截止报告期末,公司权益有息负债360亿元,较上年末下降110亿元,并表有息负债规模415.18亿元,较上年末下降120.27亿元,其中银行贷款占比79.8%,直接融资占比20.2%。扣除预收款后的资产负债率为56.41%,净负债率为15.08%。债务期限构成上,短期债务为135.07亿元,占比仅为32.53%,低于期末货币资金(327.04亿元),现金短债比为2.42倍,可有效覆盖短期债务。公司近年来综合融资成本不断下降,2020年5.2%,2021年4.9%,2022年4.6%,截至报告期末公司平均融资成本为4.2%,较上年末下降0.4个百分点。融资成本持续下降,充分反映了市场对滨江优秀的资产价值、强大的经营能力和优质的公司信誉的高度认可。公司授信储备充裕,截止报告期末,公司共获银行授信总额度1217.23亿元,较上年末增加2.86%,授信额度已使用401.45亿元,剩余可用815.78亿元,占总额度的67%。直接融资可用额度上,截止报告期末已获批尚未发行的公司债额度15.52亿元,注册完成尚未发行的短期融资券额度49亿元、中票额度35亿元,可根据资金需求和市场情况择机发行。3.区域深耕、土储优质报告期内,公司新增土地储备项目33个,其中宁波1个,南京1个,湖州2个,金华2个,杭州27个,进一步巩固杭州市场份额。报告期内新增项目计容建筑面积合计333万平方米,权益土地款256亿元。截止报告期末,公司土地储备中杭州占60%,浙江省内非杭州的城市包括宁波、金华、湖州、嘉兴等经济基础扎实的二三线城市占比25%,浙江省外占比15%。优质的土地储备为公司未来可持续发展提供良好保障。4.其他业务稳步推进租赁业务方面,截止报告期末,公司持有用于出租的写字楼、商业裙房、社区底商及公寓面积约37.78万平方米,报告期内实现租金收入3.58亿元。公司投资性房地产采用成本法计量,期末账面价值85.8亿元。报告期内,公司重启代建业务板块,继续对外输出品牌,对开发业务起到补充作用。养老业务方面,报告期内,公司旗下高品质康养服务品牌——“滨江和家”推出的首个社区嵌入式高品质养护机构——和家·御虹府长者之家已正式开业。得益于公司良好的经营业绩和稳健的经营风格,报告期内,公司荣获由中国企业评价协会、清华大学房地产研究所和中指研究院三家研究机构共同发布的2023中国房地产综合实力百强企业第13位,其中盈利性、成长性均位列全国top10,并荣获2023中国房地产百强经营安全性优秀企业。在今后发展中,公司将继续秉承“让老百姓都能住上一套好房子”的理念,不断提高社会的认可度、行业的影响力、业主的美誉度和员工的满意度,为千家万户创造安居乐业的理想栖息地并成为消费者心中值得信赖的著名房地产品牌。新增土地储备项目注:表中项目权益比例可能存在根据项目发展情况动态调整情形,上述比例仅供投资者作阶段性参考。累计土地储备情况注:累计土地储备项目指截止2023年12月31日末在建和拟建的项目,不含竣工和交付项目,剩余可开发计容建面指截止报告期末尚未领取施工许可证的项目的计容建面。主要项目开发情况注:上表中竣工面积指项目竣工备案面积,表中涉及项目权益比例、面积指标、投资金额等的相关数据可能存在根据项目具体开发情况动态调整情形。主要项目销售情况主要项目出租情况融资途径单位:元发展战略和未来一年经营计划(一)公司发展战略2024年,公司将继续推进实施“1+5”的发展战略,“1”指房地产主业,坚持把房地产主业做精、做优、做强,在保证安全运营和品质的前提下,与头部企业保持适度的规模比例;“5”指的是同时有序推进服务、租赁、酒店、养老和产业投资五大业务板块。(二)经营计划2024年公司将坚持在不确定的市场中做确定的事情,继续发挥企业核心竞争力,聚焦优势城市、优势地段、优势产品领域,稳健安全发展!1)销售目标:销售额1000亿元以上,占行业总规模的1%,全国排名在15名以内。2)土地储备:投资金额控制在权益销售回款40%以内。区域布局上,聚焦杭州、深耕浙江、浙江省外重点关注上海。3)融资:继续保持稳健,权益有息负债规模保持平稳,同时将一年期的直接融资规模控制在40亿元以内。降融资成本,综合融资成本从2023年底的4.2%确保下降至4%,争取下降至4%以内。4)代建业务:继续拓展代建业务,争取新增5至10个代建项目。(三)2024年主要计划竣工交付项目(四)2024年到期的直接融资情况从本报告披露日起,将于本年度到期的公司直接融资情况如下:公司经营稳健、盈利情况良好,各项业务经营情况正常。公司将根据已发行的债券本息到期情况,合理调度分配资金,保证按期偿付到期本息。向商品房承购人因银行抵押贷款提供担保按照房地产企业经营惯例,公司及部分控股子公司为相关业主按揭贷款提供保证。截至2023年12月31日,本公司及部分控股子公司为购买本公司相关房产的业主提供保证所及的借款金额为3,352,005万元。本报告期,公司不存在因承担阶段性担保责任而支付的金额占公司最近一期经审计净利润10%以上的情形。1、概述2023年,公司实现营业收入704.43亿元,同比增长69.73%;受本期计提存货减值准备增加影响,实现归母净利润25.29亿元,同比下降32.41%。",
+      "futureExpect": "(一)未来经营策略未来,公司将继续有序推进“1+5”战略规划,“1”指房地产主业,坚持把房地产主业做精、做优、做强,在保证安全运营和品质的前提下,与头部企业保持适度的规模比例;“5”指的是同时有序推进服务、租赁、酒店、养老和产业投资五大业务板块。"
+    }
+  ]
+}

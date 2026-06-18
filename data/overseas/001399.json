@@ -1,0 +1,1137 @@
+{
+  "code": "001399",
+  "name": "惠科股份",
+  "fetchTime": "2026-06-18T18:41:09",
+  "segments": [
+    {
+      "reportDate": "2025-12-31",
+      "byIndustry": [],
+      "byProduct": [
+        {
+          "name": "半导体显示面板",
+          "income": 29637494900.0,
+          "incomeRatio": 72.47,
+          "cost": 23854193500.0,
+          "costRatio": 72.2,
+          "profit": 5783301400.0,
+          "profitRatio": 73.6,
+          "grossMargin": 19.51,
+          "rank": 1
+        },
+        {
+          "name": "智能显示终端",
+          "income": 10042437800.0,
+          "incomeRatio": 24.56,
+          "cost": 8360511000.0,
+          "costRatio": 25.3,
+          "profit": 1681926800.0,
+          "profitRatio": 21.4,
+          "grossMargin": 16.75,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 1217385100.0,
+          "incomeRatio": 2.98,
+          "cost": 824716400.0,
+          "costRatio": 2.5,
+          "profit": 392668700.0,
+          "profitRatio": 5.0,
+          "grossMargin": 32.26,
+          "rank": 3
+        },
+        {
+          "name": "其中:TV面板",
+          "income": 19358595400.0,
+          "incomeRatio": 47.33,
+          "cost": 15689033400.0,
+          "costRatio": 47.49,
+          "profit": 3669562000.0,
+          "profitRatio": 46.7,
+          "grossMargin": 18.96,
+          "rank": 4
+        },
+        {
+          "name": "其中:IT面板",
+          "income": 10278899500.0,
+          "incomeRatio": 25.13,
+          "cost": 8165160200.0,
+          "costRatio": 24.71,
+          "profit": 2113739300.0,
+          "profitRatio": 26.9,
+          "grossMargin": 20.56,
+          "rank": 5
+        },
+        {
+          "name": "其中:IT及智慧物联终端",
+          "income": 5480951600.0,
+          "incomeRatio": 13.4,
+          "cost": 4498542600.0,
+          "costRatio": 13.62,
+          "profit": 982409000.0,
+          "profitRatio": 12.5,
+          "grossMargin": 17.92,
+          "rank": 6
+        },
+        {
+          "name": "其中:TV终端",
+          "income": 4561486200.0,
+          "incomeRatio": 11.15,
+          "cost": 3861968400.0,
+          "costRatio": 11.69,
+          "profit": 699517800.0,
+          "profitRatio": 8.9,
+          "grossMargin": 15.34,
+          "rank": 7
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "境外",
+          "income": 20427455800.0,
+          "incomeRatio": 49.95,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "境内",
+          "income": 19252476800.0,
+          "incomeRatio": 47.08,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 1217385100.0,
+          "incomeRatio": 2.98,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "其中:亚洲地区",
+          "income": 15640915200.0,
+          "incomeRatio": 38.24,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "其中:亚洲地区-中国香港地区",
+          "income": 10228692200.0,
+          "incomeRatio": 25.01,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "其中:华南地区",
+          "income": 8855135000.0,
+          "incomeRatio": 21.65,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "其中:华东地区",
+          "income": 6374901500.0,
+          "incomeRatio": 15.59,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "其中:其他境外地区",
+          "income": 4786540600.0,
+          "incomeRatio": 11.7,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "其中:华北地区",
+          "income": 2269655100.0,
+          "incomeRatio": 5.55,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "其中:华中地区",
+          "income": 1183751500.0,
+          "incomeRatio": 2.89,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        },
+        {
+          "name": "其中:西南地区",
+          "income": 436743000.0,
+          "incomeRatio": 1.07,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 12
+        },
+        {
+          "name": "其中:东北地区",
+          "income": 69883100.0,
+          "incomeRatio": 0.17,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 13
+        },
+        {
+          "name": "其中:西北地区",
+          "income": 62407600.0,
+          "incomeRatio": 0.15,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 14
+        }
+      ]
+    },
+    {
+      "reportDate": "2024-12-31",
+      "byIndustry": [],
+      "byProduct": [
+        {
+          "name": "半导体显示面板",
+          "income": 28992551949.4,
+          "incomeRatio": 71.97,
+          "cost": 23620301775.55,
+          "costRatio": 71.99,
+          "profit": 5372250173.85,
+          "profitRatio": 71.93,
+          "grossMargin": 18.53,
+          "rank": 1
+        },
+        {
+          "name": "智能显示终端",
+          "income": 10278354346.26,
+          "incomeRatio": 25.52,
+          "cost": 8533366851.37,
+          "costRatio": 26.01,
+          "profit": 1744987494.89,
+          "profitRatio": 23.36,
+          "grossMargin": 16.98,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 1010921439.85,
+          "incomeRatio": 2.51,
+          "cost": 658992992.96,
+          "costRatio": 2.01,
+          "profit": 351928446.89,
+          "profitRatio": 4.71,
+          "grossMargin": 34.81,
+          "rank": 3
+        },
+        {
+          "name": "其中:TV面板",
+          "income": 20500887800.0,
+          "incomeRatio": 50.89,
+          "cost": 16629770400.0,
+          "costRatio": 50.68,
+          "profit": 3871117400.0,
+          "profitRatio": 51.83,
+          "grossMargin": 18.88,
+          "rank": 4
+        },
+        {
+          "name": "其中:IT面板",
+          "income": 8491664100.0,
+          "incomeRatio": 21.08,
+          "cost": 6990531400.0,
+          "costRatio": 21.3,
+          "profit": 1501132700.0,
+          "profitRatio": 20.1,
+          "grossMargin": 17.68,
+          "rank": 5
+        },
+        {
+          "name": "其中:TV终端",
+          "income": 5243070900.0,
+          "incomeRatio": 13.02,
+          "cost": 4535581600.0,
+          "costRatio": 13.82,
+          "profit": 707489300.0,
+          "profitRatio": 9.47,
+          "grossMargin": 13.49,
+          "rank": 6
+        },
+        {
+          "name": "其中:IT及智慧物联终端",
+          "income": 5035283400.0,
+          "incomeRatio": 12.5,
+          "cost": 3997785200.0,
+          "costRatio": 12.18,
+          "profit": 1037498200.0,
+          "profitRatio": 13.89,
+          "grossMargin": 20.6,
+          "rank": 7
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "境内",
+          "income": 19677460800.0,
+          "incomeRatio": 48.85,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "境外",
+          "income": 19593445500.0,
+          "incomeRatio": 48.64,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 1010921400.0,
+          "incomeRatio": 2.51,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "其中:亚洲地区",
+          "income": 15421308300.0,
+          "incomeRatio": 38.28,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "其中:华南地区",
+          "income": 9726412600.0,
+          "incomeRatio": 24.15,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "其中:亚洲地区-中国香港地区",
+          "income": 9286925100.0,
+          "incomeRatio": 23.05,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "其中:华东地区",
+          "income": 5585379200.0,
+          "incomeRatio": 13.87,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "其中:其他境外地区",
+          "income": 4172137200.0,
+          "incomeRatio": 10.36,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "其中:华北地区",
+          "income": 2735019900.0,
+          "incomeRatio": 6.79,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "其中:华中地区",
+          "income": 1097127400.0,
+          "incomeRatio": 2.72,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "其中:西南地区",
+          "income": 428409200.0,
+          "incomeRatio": 1.06,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        },
+        {
+          "name": "其中:东北地区",
+          "income": 55230300.0,
+          "incomeRatio": 0.14,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 12
+        },
+        {
+          "name": "其中:西北地区",
+          "income": 49882200.0,
+          "incomeRatio": 0.12,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 13
+        }
+      ]
+    },
+    {
+      "reportDate": "2023-12-31",
+      "byIndustry": [],
+      "byProduct": [
+        {
+          "name": "半导体显示面板",
+          "income": 25153262873.27,
+          "incomeRatio": 70.21,
+          "cost": 20763533987.73,
+          "costRatio": 69.82,
+          "profit": 4389728885.54,
+          "profitRatio": 72.13,
+          "grossMargin": 17.45,
+          "rank": 1
+        },
+        {
+          "name": "智能显示终端",
+          "income": 9645037906.73,
+          "incomeRatio": 26.92,
+          "cost": 8265802350.43,
+          "costRatio": 27.79,
+          "profit": 1379235556.3,
+          "profitRatio": 22.66,
+          "grossMargin": 14.3,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 1026184492.53,
+          "incomeRatio": 2.86,
+          "cost": 709183514.96,
+          "costRatio": 2.38,
+          "profit": 317000977.57,
+          "profitRatio": 5.21,
+          "grossMargin": 30.89,
+          "rank": 3
+        },
+        {
+          "name": "其中:TV面板",
+          "income": 19095340900.0,
+          "incomeRatio": 53.3,
+          "cost": 15949621800.0,
+          "costRatio": 53.63,
+          "profit": 3145719100.0,
+          "profitRatio": 51.69,
+          "grossMargin": 16.47,
+          "rank": 4
+        },
+        {
+          "name": "其中:IT面板",
+          "income": 6057922000.0,
+          "incomeRatio": 16.91,
+          "cost": 4813912200.0,
+          "costRatio": 16.19,
+          "profit": 1244009800.0,
+          "profitRatio": 20.44,
+          "grossMargin": 20.54,
+          "rank": 5
+        },
+        {
+          "name": "其中:TV终端",
+          "income": 4839368900.0,
+          "incomeRatio": 13.51,
+          "cost": 4149114200.0,
+          "costRatio": 13.95,
+          "profit": 690254700.0,
+          "profitRatio": 11.34,
+          "grossMargin": 14.26,
+          "rank": 6
+        },
+        {
+          "name": "其中:IT及智慧物联终端",
+          "income": 4805669000.0,
+          "incomeRatio": 13.41,
+          "cost": 4116688100.0,
+          "costRatio": 13.84,
+          "profit": 688980900.0,
+          "profitRatio": 11.32,
+          "grossMargin": 14.34,
+          "rank": 7
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "境外",
+          "income": 18614293400.0,
+          "incomeRatio": 51.96,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "境内",
+          "income": 16184007400.0,
+          "incomeRatio": 45.18,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 1026184500.0,
+          "incomeRatio": 2.86,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "其中:亚洲地区",
+          "income": 13771185900.0,
+          "incomeRatio": 38.44,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "其中:亚洲地区-中国香港地区",
+          "income": 8554831400.0,
+          "incomeRatio": 23.88,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "其中:华南地区",
+          "income": 7606564300.0,
+          "incomeRatio": 21.23,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "其中:华东地区",
+          "income": 5037547300.0,
+          "incomeRatio": 14.06,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "其中:其他境外地区",
+          "income": 4843107500.0,
+          "incomeRatio": 13.52,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "其中:华北地区",
+          "income": 2147751100.0,
+          "incomeRatio": 6.0,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "其中:华中地区",
+          "income": 820896500.0,
+          "incomeRatio": 2.29,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "其中:西南地区",
+          "income": 449005300.0,
+          "incomeRatio": 1.25,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        },
+        {
+          "name": "其中:西北地区",
+          "income": 71512900.0,
+          "incomeRatio": 0.2,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 12
+        },
+        {
+          "name": "其中:东北地区",
+          "income": 50730000.0,
+          "incomeRatio": 0.14,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 13
+        }
+      ]
+    },
+    {
+      "reportDate": "2022-12-31",
+      "byIndustry": [],
+      "byProduct": [
+        {
+          "name": "半导体显示面板",
+          "income": 19460262403.06,
+          "incomeRatio": 72.17,
+          "cost": 20720572463.62,
+          "costRatio": 76.42,
+          "profit": -1260310060.56,
+          "profitRatio": 848.51,
+          "grossMargin": -6.48,
+          "rank": 1
+        },
+        {
+          "name": "智能显示终端",
+          "income": 6668113301.78,
+          "incomeRatio": 24.73,
+          "cost": 5798602089.21,
+          "costRatio": 21.39,
+          "profit": 869511212.57,
+          "profitRatio": -585.4,
+          "grossMargin": 13.04,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 836134176.33,
+          "incomeRatio": 3.1,
+          "cost": 593868050.2,
+          "costRatio": 2.19,
+          "profit": 242266126.13,
+          "profitRatio": -163.11,
+          "grossMargin": 28.97,
+          "rank": 3
+        },
+        {
+          "name": "其中:TV面板",
+          "income": 14156471100.0,
+          "incomeRatio": 52.5,
+          "cost": 16293458300.0,
+          "costRatio": 60.09,
+          "profit": -2136987200.0,
+          "profitRatio": 1438.73,
+          "grossMargin": -15.1,
+          "rank": 4
+        },
+        {
+          "name": "其中:IT面板",
+          "income": 5303791300.0,
+          "incomeRatio": 19.67,
+          "cost": 4427114200.0,
+          "costRatio": 16.33,
+          "profit": 876677100.0,
+          "profitRatio": -590.22,
+          "grossMargin": 16.53,
+          "rank": 5
+        },
+        {
+          "name": "其中:TV终端",
+          "income": 3698698400.0,
+          "incomeRatio": 13.72,
+          "cost": 3200305000.0,
+          "costRatio": 11.8,
+          "profit": 498393400.0,
+          "profitRatio": -335.54,
+          "grossMargin": 13.47,
+          "rank": 6
+        },
+        {
+          "name": "其中:IT及智慧物联终端",
+          "income": 2969414900.0,
+          "incomeRatio": 11.01,
+          "cost": 2598297100.0,
+          "costRatio": 9.58,
+          "profit": 371117800.0,
+          "profitRatio": -249.86,
+          "grossMargin": 12.5,
+          "rank": 7
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "境外",
+          "income": 15137112600.0,
+          "incomeRatio": 56.14,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "境内",
+          "income": 10991263100.0,
+          "incomeRatio": 40.76,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 836134200.0,
+          "incomeRatio": 3.1,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "其中:亚洲地区",
+          "income": 12557380300.0,
+          "incomeRatio": 46.57,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "其中:亚洲地区-中国香港地区",
+          "income": 8251338000.0,
+          "incomeRatio": 30.6,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "其中:华南地区",
+          "income": 5642961800.0,
+          "incomeRatio": 20.93,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "其中:华东地区",
+          "income": 2712856200.0,
+          "incomeRatio": 10.06,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "其中:其他境外地区",
+          "income": 2579732300.0,
+          "incomeRatio": 9.57,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "其中:华北地区",
+          "income": 1312031700.0,
+          "incomeRatio": 4.87,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "其中:华中地区",
+          "income": 1029878200.0,
+          "incomeRatio": 3.82,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "其中:西南地区",
+          "income": 224200800.0,
+          "incomeRatio": 0.83,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        },
+        {
+          "name": "其中:西北地区",
+          "income": 38809900.0,
+          "incomeRatio": 0.14,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 12
+        },
+        {
+          "name": "其中:东北地区",
+          "income": 30524500.0,
+          "incomeRatio": 0.11,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 13
+        }
+      ]
+    },
+    {
+      "reportDate": "2021-12-31",
+      "byIndustry": [],
+      "byProduct": [
+        {
+          "name": "半导体显示面板",
+          "income": 27326554834.04,
+          "incomeRatio": 76.53,
+          "cost": 16010011129.84,
+          "costRatio": 71.87,
+          "profit": 11316543704.2,
+          "profitRatio": 84.25,
+          "grossMargin": 41.41,
+          "rank": 1
+        },
+        {
+          "name": "智能显示终端",
+          "income": 7740793542.63,
+          "incomeRatio": 21.68,
+          "cost": 5810885710.36,
+          "costRatio": 26.08,
+          "profit": 1929907832.27,
+          "profitRatio": 14.37,
+          "grossMargin": 24.93,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 641870880.21,
+          "incomeRatio": 1.8,
+          "cost": 456014039.97,
+          "costRatio": 2.05,
+          "profit": 185856840.24,
+          "profitRatio": 1.38,
+          "grossMargin": 28.96,
+          "rank": 3
+        },
+        {
+          "name": "其中:TV面板",
+          "income": 21794622300.0,
+          "incomeRatio": 61.03,
+          "cost": 13197837000.0,
+          "costRatio": 59.24,
+          "profit": 8596785300.0,
+          "profitRatio": 64.0,
+          "grossMargin": 39.44,
+          "rank": 4
+        },
+        {
+          "name": "其中:IT面板",
+          "income": 5531932500.0,
+          "incomeRatio": 15.49,
+          "cost": 2812174100.0,
+          "costRatio": 12.62,
+          "profit": 2719758400.0,
+          "profitRatio": 20.25,
+          "grossMargin": 49.16,
+          "rank": 5
+        },
+        {
+          "name": "其中:TV终端",
+          "income": 4298833700.0,
+          "incomeRatio": 12.04,
+          "cost": 3284208000.0,
+          "costRatio": 14.74,
+          "profit": 1014625700.0,
+          "profitRatio": 7.55,
+          "grossMargin": 23.6,
+          "rank": 6
+        },
+        {
+          "name": "其中:IT及智慧物联终端",
+          "income": 3441959800.0,
+          "incomeRatio": 9.64,
+          "cost": 2526677700.0,
+          "costRatio": 11.34,
+          "profit": 915282100.0,
+          "profitRatio": 6.81,
+          "grossMargin": 26.59,
+          "rank": 7
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "境外",
+          "income": 23813115500.0,
+          "incomeRatio": 66.69,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "境内",
+          "income": 11896103700.0,
+          "incomeRatio": 33.31,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "其中:亚洲地区",
+          "income": 21313076800.0,
+          "incomeRatio": 59.69,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "其中:亚洲地区-中国香港地区",
+          "income": 14010062100.0,
+          "incomeRatio": 39.23,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "其中:华南地区",
+          "income": 4658254000.0,
+          "incomeRatio": 13.05,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "其中:华东地区",
+          "income": 3714971500.0,
+          "incomeRatio": 10.4,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "其中:其他境外地区",
+          "income": 2500038700.0,
+          "incomeRatio": 7.0,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "其中:华北地区",
+          "income": 1781344000.0,
+          "incomeRatio": 4.99,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "其中:华中地区",
+          "income": 1047338800.0,
+          "incomeRatio": 2.93,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "其中:西南地区",
+          "income": 609567200.0,
+          "incomeRatio": 1.71,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        },
+        {
+          "name": "其中:西北地区",
+          "income": 51525800.0,
+          "incomeRatio": 0.14,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 12
+        },
+        {
+          "name": "其中:东北地区",
+          "income": 33102500.0,
+          "incomeRatio": 0.09,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 13
+        }
+      ]
+    }
+  ],
+  "analysis": []
+}

@@ -1,0 +1,1851 @@
+{
+  "code": "600332",
+  "name": "白云山",
+  "fetchTime": "2026-06-18T18:34:27",
+  "segments": [
+    {
+      "reportDate": "2025-12-31",
+      "byIndustry": [
+        {
+          "name": "医药商业",
+          "income": 56983479018.22,
+          "incomeRatio": 73.38,
+          "cost": 53638279193.33,
+          "costRatio": 82.46,
+          "profit": 3345199824.89,
+          "profitRatio": 26.53,
+          "grossMargin": 5.87,
+          "rank": 1
+        },
+        {
+          "name": "天然饮品",
+          "income": 9672174234.96,
+          "incomeRatio": 12.46,
+          "cost": 5288135220.58,
+          "costRatio": 8.13,
+          "profit": 4384039014.38,
+          "profitRatio": 34.76,
+          "grossMargin": 45.33,
+          "rank": 2
+        },
+        {
+          "name": "现代中药",
+          "income": 6775580776.17,
+          "incomeRatio": 8.73,
+          "cost": 3933930327.31,
+          "costRatio": 6.05,
+          "profit": 2841650448.86,
+          "profitRatio": 22.53,
+          "grossMargin": 41.94,
+          "rank": 3
+        },
+        {
+          "name": "化药科技",
+          "income": 2482045705.51,
+          "incomeRatio": 3.2,
+          "cost": 1061323583.28,
+          "costRatio": 1.63,
+          "profit": 1420722122.23,
+          "profitRatio": 11.27,
+          "grossMargin": 57.24,
+          "rank": 4
+        },
+        {
+          "name": "其他",
+          "income": 1499262856.47,
+          "incomeRatio": 1.93,
+          "cost": 1008151734.27,
+          "costRatio": 1.55,
+          "profit": 491111122.2,
+          "profitRatio": 3.89,
+          "grossMargin": 32.76,
+          "rank": 5
+        },
+        {
+          "name": "其他(补充)",
+          "income": 243567347.9,
+          "incomeRatio": 0.31,
+          "cost": 115241344.97,
+          "costRatio": 0.18,
+          "profit": 128326002.93,
+          "profitRatio": 1.02,
+          "grossMargin": 52.69,
+          "rank": 6
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "医药商业业务",
+          "income": 56983479018.22,
+          "incomeRatio": 73.38,
+          "cost": 53638279193.33,
+          "costRatio": 82.46,
+          "profit": 3345199824.89,
+          "profitRatio": 26.53,
+          "grossMargin": 5.87,
+          "rank": 1
+        },
+        {
+          "name": "天然饮品",
+          "income": 9672174234.96,
+          "incomeRatio": 12.46,
+          "cost": 5288135220.58,
+          "costRatio": 8.13,
+          "profit": 4384039014.38,
+          "profitRatio": 34.76,
+          "grossMargin": 45.33,
+          "rank": 2
+        },
+        {
+          "name": "现代中药业务",
+          "income": 6775580776.17,
+          "incomeRatio": 8.73,
+          "cost": 3933930327.31,
+          "costRatio": 6.05,
+          "profit": 2841650448.86,
+          "profitRatio": 22.53,
+          "grossMargin": 41.94,
+          "rank": 3
+        },
+        {
+          "name": "化药科技业务",
+          "income": 2482045705.51,
+          "incomeRatio": 3.2,
+          "cost": 1061323583.28,
+          "costRatio": 1.63,
+          "profit": 1420722122.23,
+          "profitRatio": 11.27,
+          "grossMargin": 57.24,
+          "rank": 4
+        },
+        {
+          "name": "其他",
+          "income": 1499262856.47,
+          "incomeRatio": 1.93,
+          "cost": 1008151734.27,
+          "costRatio": 1.55,
+          "profit": 491111122.2,
+          "profitRatio": 3.89,
+          "grossMargin": 32.76,
+          "rank": 5
+        },
+        {
+          "name": "其他(补充)",
+          "income": 243567347.9,
+          "incomeRatio": 0.31,
+          "cost": 115241344.97,
+          "costRatio": 0.18,
+          "profit": 128326002.93,
+          "profitRatio": 1.02,
+          "grossMargin": 52.69,
+          "rank": 6
+        },
+        {
+          "name": "其中:资产出租",
+          "income": 83696976.98,
+          "incomeRatio": 0.11,
+          "cost": 15722171.74,
+          "costRatio": 0.02,
+          "profit": 67974805.24,
+          "profitRatio": 0.54,
+          "grossMargin": 81.22,
+          "rank": 7
+        },
+        {
+          "name": "其中:其他",
+          "income": 81863652.83,
+          "incomeRatio": 0.11,
+          "cost": 78547435.48,
+          "costRatio": 0.12,
+          "profit": 3316217.35,
+          "profitRatio": 0.03,
+          "grossMargin": 4.05,
+          "rank": 8
+        },
+        {
+          "name": "其中:电商平台及门店服务费",
+          "income": 29199931.54,
+          "incomeRatio": 0.04,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "其中:技术服务收入",
+          "income": 20435970.62,
+          "incomeRatio": 0.03,
+          "cost": 5314376.3,
+          "costRatio": 0.01,
+          "profit": 15121594.32,
+          "profitRatio": 0.12,
+          "grossMargin": 74.0,
+          "rank": 10
+        },
+        {
+          "name": "其中:物业管理费",
+          "income": 10793968.6,
+          "incomeRatio": 0.01,
+          "cost": 8440797.1,
+          "costRatio": 0.01,
+          "profit": 2353171.5,
+          "profitRatio": 0.02,
+          "grossMargin": 21.8,
+          "rank": 11
+        },
+        {
+          "name": "其中:材料销售",
+          "income": 10818517.66,
+          "incomeRatio": 0.01,
+          "cost": 7176210.45,
+          "costRatio": 0.01,
+          "profit": 3642307.21,
+          "profitRatio": 0.03,
+          "grossMargin": 33.67,
+          "rank": 12
+        },
+        {
+          "name": "其中:咨询费收入",
+          "income": 3892828.15,
+          "incomeRatio": 0.01,
+          "cost": 17200.0,
+          "costRatio": 0.0,
+          "profit": 3875628.15,
+          "profitRatio": 0.03,
+          "grossMargin": 99.56,
+          "rank": 13
+        },
+        {
+          "name": "其中:商标费收入",
+          "income": 2701064.15,
+          "incomeRatio": 0.0,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 14
+        },
+        {
+          "name": "其中:劳务收入",
+          "income": 164437.37,
+          "incomeRatio": 0.0,
+          "cost": 23153.9,
+          "costRatio": 0.0,
+          "profit": 141283.47,
+          "profitRatio": 0.0,
+          "grossMargin": 85.92,
+          "rank": 15
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华南",
+          "income": 58954276480.37,
+          "incomeRatio": 75.92,
+          "cost": 50968707640.28,
+          "costRatio": 78.36,
+          "profit": 7985568840.09,
+          "profitRatio": 63.32,
+          "grossMargin": 13.55,
+          "rank": 1
+        },
+        {
+          "name": "华东",
+          "income": 5989486962.24,
+          "incomeRatio": 7.71,
+          "cost": 4412754007.61,
+          "costRatio": 6.78,
+          "profit": 1576732954.63,
+          "profitRatio": 12.5,
+          "grossMargin": 26.32,
+          "rank": 2
+        },
+        {
+          "name": "西南",
+          "income": 4596515159.24,
+          "incomeRatio": 5.92,
+          "cost": 3174377876.18,
+          "costRatio": 4.88,
+          "profit": 1422137283.06,
+          "profitRatio": 11.28,
+          "grossMargin": 30.94,
+          "rank": 3
+        },
+        {
+          "name": "华北",
+          "income": 3114881436.38,
+          "incomeRatio": 4.01,
+          "cost": 2336222691.88,
+          "costRatio": 3.59,
+          "profit": 778658744.5,
+          "profitRatio": 6.17,
+          "grossMargin": 25.0,
+          "rank": 4
+        },
+        {
+          "name": "东北",
+          "income": 2546171932.57,
+          "incomeRatio": 3.28,
+          "cost": 2263110112.95,
+          "costRatio": 3.48,
+          "profit": 283061819.62,
+          "profitRatio": 2.24,
+          "grossMargin": 11.12,
+          "rank": 5
+        },
+        {
+          "name": "西北",
+          "income": 1916902683.83,
+          "incomeRatio": 2.47,
+          "cost": 1516117799.54,
+          "costRatio": 2.33,
+          "profit": 400784884.29,
+          "profitRatio": 3.18,
+          "grossMargin": 20.91,
+          "rank": 6
+        },
+        {
+          "name": "中国香港、中国澳门及海外",
+          "income": 294307936.7,
+          "incomeRatio": 0.38,
+          "cost": 258529930.33,
+          "costRatio": 0.4,
+          "profit": 35778006.37,
+          "profitRatio": 0.28,
+          "grossMargin": 12.16,
+          "rank": 7
+        },
+        {
+          "name": "其他(补充)",
+          "income": 243567347.9,
+          "incomeRatio": 0.31,
+          "cost": 115241344.97,
+          "costRatio": 0.18,
+          "profit": 128326002.93,
+          "profitRatio": 1.02,
+          "grossMargin": 52.69,
+          "rank": 8
+        }
+      ]
+    },
+    {
+      "reportDate": "2024-12-31",
+      "byIndustry": [
+        {
+          "name": "大商业",
+          "income": 54549541762.04,
+          "incomeRatio": 72.74,
+          "cost": 51041185219.89,
+          "costRatio": 81.7,
+          "profit": 3508356542.15,
+          "profitRatio": 28.02,
+          "grossMargin": 6.43,
+          "rank": 1
+        },
+        {
+          "name": "大南药",
+          "income": 9756130646.49,
+          "incomeRatio": 13.01,
+          "cost": 5185267627.18,
+          "costRatio": 8.3,
+          "profit": 4570863019.31,
+          "profitRatio": 36.51,
+          "grossMargin": 46.85,
+          "rank": 2
+        },
+        {
+          "name": "大健康",
+          "income": 9705343095.46,
+          "incomeRatio": 12.94,
+          "cost": 5520853649.45,
+          "costRatio": 8.84,
+          "profit": 4184489446.01,
+          "profitRatio": 33.42,
+          "grossMargin": 43.12,
+          "rank": 3
+        },
+        {
+          "name": "其他",
+          "income": 767503994.99,
+          "incomeRatio": 1.02,
+          "cost": 642307557.36,
+          "costRatio": 1.03,
+          "profit": 125196437.63,
+          "profitRatio": 1.0,
+          "grossMargin": 16.31,
+          "rank": 4
+        },
+        {
+          "name": "其他(补充)",
+          "income": 214300974.58,
+          "incomeRatio": 0.29,
+          "cost": 83154627.81,
+          "costRatio": 0.13,
+          "profit": 131146346.77,
+          "profitRatio": 1.05,
+          "grossMargin": 61.2,
+          "rank": 5
+        },
+        {
+          "name": "其中:其他",
+          "income": 83818949.59,
+          "incomeRatio": 0.11,
+          "cost": 53124565.39,
+          "costRatio": 0.08,
+          "profit": 30694384.2,
+          "profitRatio": 0.25,
+          "grossMargin": 36.62,
+          "rank": 6
+        },
+        {
+          "name": "其中:资产出租",
+          "income": 79259675.58,
+          "incomeRatio": 0.11,
+          "cost": 13363052.33,
+          "costRatio": 0.02,
+          "profit": 65896623.25,
+          "profitRatio": 0.53,
+          "grossMargin": 83.14,
+          "rank": 7
+        },
+        {
+          "name": "其中:技术服务收入",
+          "income": 14116551.07,
+          "incomeRatio": 0.02,
+          "cost": 878949.22,
+          "costRatio": 0.0,
+          "profit": 13237601.85,
+          "profitRatio": 0.11,
+          "grossMargin": 93.77,
+          "rank": 8
+        },
+        {
+          "name": "其中:电商平台及门店服务费",
+          "income": 10272862.82,
+          "incomeRatio": 0.01,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "其中:物业管理费",
+          "income": 9585679.0,
+          "incomeRatio": 0.01,
+          "cost": 9156931.27,
+          "costRatio": 0.01,
+          "profit": 428747.73,
+          "profitRatio": 0.0,
+          "grossMargin": 4.47,
+          "rank": 10
+        },
+        {
+          "name": "其中:咨询费收入",
+          "income": 8199777.49,
+          "incomeRatio": 0.01,
+          "cost": 38957.83,
+          "costRatio": 0.0,
+          "profit": 8160819.66,
+          "profitRatio": 0.07,
+          "grossMargin": 99.52,
+          "rank": 11
+        },
+        {
+          "name": "其中:材料销售",
+          "income": 6874473.09,
+          "incomeRatio": 0.01,
+          "cost": 6587701.77,
+          "costRatio": 0.01,
+          "profit": 286771.32,
+          "profitRatio": 0.0,
+          "grossMargin": 4.17,
+          "rank": 12
+        },
+        {
+          "name": "其中:商标费收入",
+          "income": 1888229.7,
+          "incomeRatio": 0.0,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 13
+        },
+        {
+          "name": "其中:劳务收入",
+          "income": 284776.24,
+          "incomeRatio": 0.0,
+          "cost": 4470.0,
+          "costRatio": 0.0,
+          "profit": 280306.24,
+          "profitRatio": 0.0,
+          "grossMargin": 98.43,
+          "rank": 14
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "大商业",
+          "income": 54549541762.04,
+          "incomeRatio": 72.74,
+          "cost": 51041185219.89,
+          "costRatio": 81.7,
+          "profit": 3508356542.15,
+          "profitRatio": 28.02,
+          "grossMargin": 6.43,
+          "rank": 1
+        },
+        {
+          "name": "大南药",
+          "income": 9756130646.49,
+          "incomeRatio": 13.01,
+          "cost": 5185267627.18,
+          "costRatio": 8.3,
+          "profit": 4570863019.31,
+          "profitRatio": 36.51,
+          "grossMargin": 46.85,
+          "rank": 2
+        },
+        {
+          "name": "大健康",
+          "income": 9705343095.46,
+          "incomeRatio": 12.94,
+          "cost": 5520853649.45,
+          "costRatio": 8.84,
+          "profit": 4184489446.01,
+          "profitRatio": 33.42,
+          "grossMargin": 43.12,
+          "rank": 3
+        },
+        {
+          "name": "其他",
+          "income": 767503994.99,
+          "incomeRatio": 1.02,
+          "cost": 642307557.36,
+          "costRatio": 1.03,
+          "profit": 125196437.63,
+          "profitRatio": 1.0,
+          "grossMargin": 16.31,
+          "rank": 4
+        },
+        {
+          "name": "其他(补充)",
+          "income": 214300974.58,
+          "incomeRatio": 0.29,
+          "cost": 83154627.81,
+          "costRatio": 0.13,
+          "profit": 131146346.77,
+          "profitRatio": 1.05,
+          "grossMargin": 61.2,
+          "rank": 5
+        },
+        {
+          "name": "其中:中成药",
+          "income": 6066081000.0,
+          "incomeRatio": 8.09,
+          "cost": 3568536000.0,
+          "costRatio": 5.71,
+          "profit": 2497545000.0,
+          "profitRatio": 19.95,
+          "grossMargin": 41.17,
+          "rank": 6
+        },
+        {
+          "name": "其中:化学药",
+          "income": 3690050000.0,
+          "incomeRatio": 4.92,
+          "cost": 1616732000.0,
+          "costRatio": 2.59,
+          "profit": 2073318000.0,
+          "profitRatio": 16.56,
+          "grossMargin": 56.19,
+          "rank": 7
+        },
+        {
+          "name": "其中:其他",
+          "income": 83818949.59,
+          "incomeRatio": 0.11,
+          "cost": 53124565.39,
+          "costRatio": 0.08,
+          "profit": 30694384.2,
+          "profitRatio": 0.25,
+          "grossMargin": 36.62,
+          "rank": 8
+        },
+        {
+          "name": "其中:资产出租",
+          "income": 79259675.58,
+          "incomeRatio": 0.11,
+          "cost": 13363052.33,
+          "costRatio": 0.02,
+          "profit": 65896623.25,
+          "profitRatio": 0.53,
+          "grossMargin": 83.14,
+          "rank": 9
+        },
+        {
+          "name": "其中:技术服务收入",
+          "income": 14116551.07,
+          "incomeRatio": 0.02,
+          "cost": 878949.22,
+          "costRatio": 0.0,
+          "profit": 13237601.85,
+          "profitRatio": 0.11,
+          "grossMargin": 93.77,
+          "rank": 10
+        },
+        {
+          "name": "其中:电商平台及门店服务费",
+          "income": 10272862.82,
+          "incomeRatio": 0.01,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        },
+        {
+          "name": "其中:物业管理费",
+          "income": 9585679.0,
+          "incomeRatio": 0.01,
+          "cost": 9156931.27,
+          "costRatio": 0.01,
+          "profit": 428747.73,
+          "profitRatio": 0.0,
+          "grossMargin": 4.47,
+          "rank": 12
+        },
+        {
+          "name": "其中:咨询费收入",
+          "income": 8199777.49,
+          "incomeRatio": 0.01,
+          "cost": 38957.83,
+          "costRatio": 0.0,
+          "profit": 8160819.66,
+          "profitRatio": 0.07,
+          "grossMargin": 99.52,
+          "rank": 13
+        },
+        {
+          "name": "其中:材料销售",
+          "income": 6874473.09,
+          "incomeRatio": 0.01,
+          "cost": 6587701.77,
+          "costRatio": 0.01,
+          "profit": 286771.32,
+          "profitRatio": 0.0,
+          "grossMargin": 4.17,
+          "rank": 14
+        },
+        {
+          "name": "其中:商标费收入",
+          "income": 1888229.7,
+          "incomeRatio": 0.0,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 15
+        },
+        {
+          "name": "其中:劳务收入",
+          "income": 284776.24,
+          "incomeRatio": 0.0,
+          "cost": 4470.0,
+          "costRatio": 0.0,
+          "profit": 280306.24,
+          "profitRatio": 0.0,
+          "grossMargin": 98.43,
+          "rank": 16
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华南地区",
+          "income": 55585386078.28,
+          "incomeRatio": 74.12,
+          "cost": 47760688764.82,
+          "costRatio": 76.45,
+          "profit": 7824697313.46,
+          "profitRatio": 62.5,
+          "grossMargin": 14.08,
+          "rank": 1
+        },
+        {
+          "name": "华东地区",
+          "income": 6237915910.47,
+          "incomeRatio": 8.32,
+          "cost": 4712118950.09,
+          "costRatio": 7.54,
+          "profit": 1525796960.38,
+          "profitRatio": 12.19,
+          "grossMargin": 24.46,
+          "rank": 2
+        },
+        {
+          "name": "西南地区",
+          "income": 5235952771.0,
+          "incomeRatio": 6.98,
+          "cost": 3797812122.51,
+          "costRatio": 6.08,
+          "profit": 1438140648.49,
+          "profitRatio": 11.49,
+          "grossMargin": 27.47,
+          "rank": 3
+        },
+        {
+          "name": "华北地区",
+          "income": 3338990004.67,
+          "incomeRatio": 4.45,
+          "cost": 2464776942.72,
+          "costRatio": 3.95,
+          "profit": 874213061.95,
+          "profitRatio": 6.98,
+          "grossMargin": 26.18,
+          "rank": 4
+        },
+        {
+          "name": "东北地区",
+          "income": 2104630222.87,
+          "incomeRatio": 2.81,
+          "cost": 1822961117.87,
+          "costRatio": 2.92,
+          "profit": 281669105.0,
+          "profitRatio": 2.25,
+          "grossMargin": 13.38,
+          "rank": 5
+        },
+        {
+          "name": "西北地区",
+          "income": 2000411558.92,
+          "incomeRatio": 2.67,
+          "cost": 1577145084.54,
+          "costRatio": 2.52,
+          "profit": 423266474.38,
+          "profitRatio": 3.38,
+          "grossMargin": 21.16,
+          "rank": 6
+        },
+        {
+          "name": "出口",
+          "income": 275232952.77,
+          "incomeRatio": 0.37,
+          "cost": 254111071.33,
+          "costRatio": 0.41,
+          "profit": 21121881.44,
+          "profitRatio": 0.17,
+          "grossMargin": 7.67,
+          "rank": 7
+        },
+        {
+          "name": "其他(补充)",
+          "income": 214300974.58,
+          "incomeRatio": 0.29,
+          "cost": 83154627.81,
+          "costRatio": 0.13,
+          "profit": 131146346.77,
+          "profitRatio": 1.05,
+          "grossMargin": 61.2,
+          "rank": 8
+        }
+      ]
+    },
+    {
+      "reportDate": "2023-12-31",
+      "byIndustry": [
+        {
+          "name": "大商业",
+          "income": 52761640000.0,
+          "incomeRatio": 69.87,
+          "cost": 49072585000.0,
+          "costRatio": 80.02,
+          "profit": 3689055000.0,
+          "profitRatio": 26.0,
+          "grossMargin": 6.99,
+          "rank": 1
+        },
+        {
+          "name": "大健康",
+          "income": 11117427000.0,
+          "incomeRatio": 14.72,
+          "cost": 6180184000.0,
+          "costRatio": 10.08,
+          "profit": 4937243000.0,
+          "profitRatio": 34.8,
+          "grossMargin": 44.41,
+          "rank": 2
+        },
+        {
+          "name": "大南药",
+          "income": 10889141000.0,
+          "incomeRatio": 14.42,
+          "cost": 5581403000.0,
+          "costRatio": 9.1,
+          "profit": 5307738000.0,
+          "profitRatio": 37.41,
+          "grossMargin": 48.74,
+          "rank": 3
+        },
+        {
+          "name": "其他",
+          "income": 506661000.0,
+          "incomeRatio": 0.67,
+          "cost": 431738000.0,
+          "costRatio": 0.7,
+          "profit": 74923000.0,
+          "profitRatio": 0.53,
+          "grossMargin": 14.79,
+          "rank": 4
+        },
+        {
+          "name": "其他(补充)",
+          "income": 240534897.65,
+          "incomeRatio": 0.32,
+          "cost": 62199495.92,
+          "costRatio": 0.1,
+          "profit": 178335401.73,
+          "profitRatio": 1.26,
+          "grossMargin": 74.14,
+          "rank": 5
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "其他主营业务",
+          "income": 64385729097.13,
+          "incomeRatio": 85.26,
+          "cost": 55684507118.96,
+          "costRatio": 90.8,
+          "profit": 8701221978.17,
+          "profitRatio": 61.33,
+          "grossMargin": 13.51,
+          "rank": 1
+        },
+        {
+          "name": "中成药",
+          "income": 6270792000.0,
+          "incomeRatio": 8.3,
+          "cost": 3528389000.0,
+          "costRatio": 5.75,
+          "profit": 2742403000.0,
+          "profitRatio": 19.33,
+          "grossMargin": 43.73,
+          "rank": 2
+        },
+        {
+          "name": "化学药",
+          "income": 4618348000.0,
+          "incomeRatio": 6.12,
+          "cost": 2053014000.0,
+          "costRatio": 3.35,
+          "profit": 2565334000.0,
+          "profitRatio": 18.08,
+          "grossMargin": 55.55,
+          "rank": 3
+        },
+        {
+          "name": "其他(补充)",
+          "income": 240534897.65,
+          "incomeRatio": 0.32,
+          "cost": 62199495.92,
+          "costRatio": 0.1,
+          "profit": 178335401.73,
+          "profitRatio": 1.26,
+          "grossMargin": 74.14,
+          "rank": 4
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华南",
+          "income": 55866768000.0,
+          "incomeRatio": 73.98,
+          "cost": 47206755000.0,
+          "costRatio": 76.97,
+          "profit": 8660013000.0,
+          "profitRatio": 61.04,
+          "grossMargin": 15.5,
+          "rank": 1
+        },
+        {
+          "name": "华东",
+          "income": 6319898000.0,
+          "incomeRatio": 8.37,
+          "cost": 4528094000.0,
+          "costRatio": 7.38,
+          "profit": 1791804000.0,
+          "profitRatio": 12.63,
+          "grossMargin": 28.35,
+          "rank": 2
+        },
+        {
+          "name": "西南",
+          "income": 5004743000.0,
+          "incomeRatio": 6.63,
+          "cost": 3395579000.0,
+          "costRatio": 5.54,
+          "profit": 1609164000.0,
+          "profitRatio": 11.34,
+          "grossMargin": 32.15,
+          "rank": 3
+        },
+        {
+          "name": "华北",
+          "income": 3543092000.0,
+          "incomeRatio": 4.69,
+          "cost": 2431784000.0,
+          "costRatio": 3.97,
+          "profit": 1111308000.0,
+          "profitRatio": 7.83,
+          "grossMargin": 31.37,
+          "rank": 4
+        },
+        {
+          "name": "西北",
+          "income": 2280580000.0,
+          "incomeRatio": 3.02,
+          "cost": 1775813000.0,
+          "costRatio": 2.9,
+          "profit": 504767000.0,
+          "profitRatio": 3.56,
+          "grossMargin": 22.13,
+          "rank": 5
+        },
+        {
+          "name": "东北",
+          "income": 1915484000.0,
+          "incomeRatio": 2.54,
+          "cost": 1614370000.0,
+          "costRatio": 2.63,
+          "profit": 301114000.0,
+          "profitRatio": 2.12,
+          "grossMargin": 15.72,
+          "rank": 6
+        },
+        {
+          "name": "出口",
+          "income": 344304000.0,
+          "incomeRatio": 0.46,
+          "cost": 313515000.0,
+          "costRatio": 0.51,
+          "profit": 30789000.0,
+          "profitRatio": 0.22,
+          "grossMargin": 8.94,
+          "rank": 7
+        },
+        {
+          "name": "其他(补充)",
+          "income": 240534897.65,
+          "incomeRatio": 0.32,
+          "cost": 62199495.92,
+          "costRatio": 0.1,
+          "profit": 178335401.73,
+          "profitRatio": 1.26,
+          "grossMargin": 74.14,
+          "rank": 8
+        }
+      ]
+    },
+    {
+      "reportDate": "2022-12-31",
+      "byIndustry": [
+        {
+          "name": "大商业",
+          "income": 49131492777.2,
+          "incomeRatio": 69.41,
+          "cost": 45676898314.81,
+          "costRatio": 79.42,
+          "profit": 3454594462.39,
+          "profitRatio": 26.02,
+          "grossMargin": 7.03,
+          "rank": 1
+        },
+        {
+          "name": "大健康",
+          "income": 10473093890.55,
+          "incomeRatio": 14.79,
+          "cost": 5914955062.77,
+          "costRatio": 10.28,
+          "profit": 4558138827.78,
+          "profitRatio": 34.33,
+          "grossMargin": 43.52,
+          "rank": 2
+        },
+        {
+          "name": "大南药",
+          "income": 10461569491.29,
+          "incomeRatio": 14.78,
+          "cost": 5445147913.67,
+          "costRatio": 9.47,
+          "profit": 5016421577.62,
+          "profitRatio": 37.78,
+          "grossMargin": 47.95,
+          "rank": 3
+        },
+        {
+          "name": "其他",
+          "income": 484034250.55,
+          "incomeRatio": 0.68,
+          "cost": 415972804.9,
+          "costRatio": 0.72,
+          "profit": 68061445.65,
+          "profitRatio": 0.51,
+          "grossMargin": 14.06,
+          "rank": 4
+        },
+        {
+          "name": "其他(补充)",
+          "income": 237964658.86,
+          "incomeRatio": 0.34,
+          "cost": 57977649.4,
+          "costRatio": 0.1,
+          "profit": 179987009.46,
+          "profitRatio": 1.36,
+          "grossMargin": 75.64,
+          "rank": 5
+        },
+        {
+          "name": "其中:电商平台及门店服务费",
+          "income": 115236909.56,
+          "incomeRatio": 0.16,
+          "cost": 2549653.06,
+          "costRatio": 0.0,
+          "profit": 112687256.5,
+          "profitRatio": 0.85,
+          "grossMargin": 97.79,
+          "rank": 6
+        },
+        {
+          "name": "其中:其他",
+          "income": 31328422.79,
+          "incomeRatio": 0.04,
+          "cost": 18168126.14,
+          "costRatio": 0.03,
+          "profit": 13160296.65,
+          "profitRatio": 0.1,
+          "grossMargin": 42.01,
+          "rank": 7
+        },
+        {
+          "name": "其中:咨询费收入",
+          "income": 31377367.03,
+          "incomeRatio": 0.04,
+          "cost": 1445171.63,
+          "costRatio": 0.0,
+          "profit": 29932195.4,
+          "profitRatio": 0.23,
+          "grossMargin": 95.39,
+          "rank": 8
+        },
+        {
+          "name": "其中:资产出租",
+          "income": 25147743.17,
+          "incomeRatio": 0.04,
+          "cost": 12157625.99,
+          "costRatio": 0.02,
+          "profit": 12990117.18,
+          "profitRatio": 0.1,
+          "grossMargin": 51.66,
+          "rank": 9
+        },
+        {
+          "name": "其中:技术服务收入",
+          "income": 10922191.37,
+          "incomeRatio": 0.02,
+          "cost": 635103.21,
+          "costRatio": 0.0,
+          "profit": 10287088.16,
+          "profitRatio": 0.08,
+          "grossMargin": 94.19,
+          "rank": 10
+        },
+        {
+          "name": "其中:物业管理费",
+          "income": 8689634.78,
+          "incomeRatio": 0.01,
+          "cost": 8182215.3,
+          "costRatio": 0.01,
+          "profit": 507419.48,
+          "profitRatio": 0.0,
+          "grossMargin": 5.84,
+          "rank": 11
+        },
+        {
+          "name": "其中:材料销售",
+          "income": 7545661.48,
+          "incomeRatio": 0.01,
+          "cost": 5023826.79,
+          "costRatio": 0.01,
+          "profit": 2521834.69,
+          "profitRatio": 0.02,
+          "grossMargin": 33.42,
+          "rank": 12
+        },
+        {
+          "name": "其中:代收水电费用",
+          "income": 4852515.72,
+          "incomeRatio": 0.01,
+          "cost": 9105511.22,
+          "costRatio": 0.02,
+          "profit": -4252995.5,
+          "profitRatio": -0.03,
+          "grossMargin": -87.65,
+          "rank": 13
+        },
+        {
+          "name": "其中:商标费收入",
+          "income": 1841652.79,
+          "incomeRatio": 0.0,
+          "cost": 0.0,
+          "costRatio": null,
+          "profit": 1841652.79,
+          "profitRatio": 0.01,
+          "grossMargin": null,
+          "rank": 14
+        },
+        {
+          "name": "其中:劳务收入",
+          "income": 1022560.17,
+          "incomeRatio": 0.0,
+          "cost": 710416.06,
+          "costRatio": 0.0,
+          "profit": 312144.11,
+          "profitRatio": 0.0,
+          "grossMargin": 30.53,
+          "rank": 15
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "大商业",
+          "income": 49131492777.2,
+          "incomeRatio": 69.41,
+          "cost": 45676898314.81,
+          "costRatio": 79.42,
+          "profit": 3454594462.39,
+          "profitRatio": 26.02,
+          "grossMargin": 7.03,
+          "rank": 1
+        },
+        {
+          "name": "大健康",
+          "income": 10473093890.55,
+          "incomeRatio": 14.79,
+          "cost": 5914955062.77,
+          "costRatio": 10.28,
+          "profit": 4558138827.78,
+          "profitRatio": 34.33,
+          "grossMargin": 43.52,
+          "rank": 2
+        },
+        {
+          "name": "大南药",
+          "income": 10461569491.29,
+          "incomeRatio": 14.78,
+          "cost": 5445147913.67,
+          "costRatio": 9.47,
+          "profit": 5016421577.62,
+          "profitRatio": 37.78,
+          "grossMargin": 47.95,
+          "rank": 3
+        },
+        {
+          "name": "其他",
+          "income": 484034250.55,
+          "incomeRatio": 0.68,
+          "cost": 415972804.9,
+          "costRatio": 0.72,
+          "profit": 68061445.65,
+          "profitRatio": 0.51,
+          "grossMargin": 14.06,
+          "rank": 4
+        },
+        {
+          "name": "其他(补充)",
+          "income": 237964658.86,
+          "incomeRatio": 0.34,
+          "cost": 57977649.4,
+          "costRatio": 0.1,
+          "profit": 179987009.46,
+          "profitRatio": 1.36,
+          "grossMargin": 75.64,
+          "rank": 5
+        },
+        {
+          "name": "其中:电商平台及门店服务费",
+          "income": 115236909.56,
+          "incomeRatio": 0.16,
+          "cost": 2549653.06,
+          "costRatio": 0.0,
+          "profit": 112687256.5,
+          "profitRatio": 0.85,
+          "grossMargin": 97.79,
+          "rank": 6
+        },
+        {
+          "name": "其中:咨询费收入",
+          "income": 31377367.03,
+          "incomeRatio": 0.04,
+          "cost": 1445171.63,
+          "costRatio": 0.0,
+          "profit": 29932195.4,
+          "profitRatio": 0.23,
+          "grossMargin": 95.39,
+          "rank": 7
+        },
+        {
+          "name": "其中:其他",
+          "income": 31328422.79,
+          "incomeRatio": 0.04,
+          "cost": 18168126.14,
+          "costRatio": 0.03,
+          "profit": 13160296.65,
+          "profitRatio": 0.1,
+          "grossMargin": 42.01,
+          "rank": 8
+        },
+        {
+          "name": "其中:资产出租",
+          "income": 25147743.17,
+          "incomeRatio": 0.04,
+          "cost": 12157625.99,
+          "costRatio": 0.02,
+          "profit": 12990117.18,
+          "profitRatio": 0.1,
+          "grossMargin": 51.66,
+          "rank": 9
+        },
+        {
+          "name": "其中:技术服务收入",
+          "income": 10922191.37,
+          "incomeRatio": 0.02,
+          "cost": 635103.21,
+          "costRatio": 0.0,
+          "profit": 10287088.16,
+          "profitRatio": 0.08,
+          "grossMargin": 94.19,
+          "rank": 10
+        },
+        {
+          "name": "其中:物业管理费",
+          "income": 8689634.78,
+          "incomeRatio": 0.01,
+          "cost": 8182215.3,
+          "costRatio": 0.01,
+          "profit": 507419.48,
+          "profitRatio": 0.0,
+          "grossMargin": 5.84,
+          "rank": 11
+        },
+        {
+          "name": "其中:材料销售",
+          "income": 7545661.48,
+          "incomeRatio": 0.01,
+          "cost": 5023826.79,
+          "costRatio": 0.01,
+          "profit": 2521834.69,
+          "profitRatio": 0.02,
+          "grossMargin": 33.42,
+          "rank": 12
+        },
+        {
+          "name": "其中:代收水电费用",
+          "income": 4852515.72,
+          "incomeRatio": 0.01,
+          "cost": 9105511.22,
+          "costRatio": 0.02,
+          "profit": -4252995.5,
+          "profitRatio": -0.03,
+          "grossMargin": -87.65,
+          "rank": 13
+        },
+        {
+          "name": "其中:商标费收入",
+          "income": 1841652.79,
+          "incomeRatio": 0.0,
+          "cost": 0.0,
+          "costRatio": null,
+          "profit": 1841652.79,
+          "profitRatio": 0.01,
+          "grossMargin": null,
+          "rank": 14
+        },
+        {
+          "name": "其中:劳务收入",
+          "income": 1022560.17,
+          "incomeRatio": 0.0,
+          "cost": 710416.06,
+          "costRatio": 0.0,
+          "profit": 312144.11,
+          "profitRatio": 0.0,
+          "grossMargin": 30.53,
+          "rank": 15
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华南地区",
+          "income": 55440051591.23,
+          "incomeRatio": 78.32,
+          "cost": 46782961423.14,
+          "costRatio": 81.35,
+          "profit": 8657090168.09,
+          "profitRatio": 65.2,
+          "grossMargin": 15.62,
+          "rank": 1
+        },
+        {
+          "name": "华东地区",
+          "income": 5315640070.2,
+          "incomeRatio": 7.51,
+          "cost": 3807226931.75,
+          "costRatio": 6.62,
+          "profit": 1508413138.45,
+          "profitRatio": 11.36,
+          "grossMargin": 28.38,
+          "rank": 2
+        },
+        {
+          "name": "西南地区",
+          "income": 4613340017.16,
+          "incomeRatio": 6.52,
+          "cost": 3235355319.24,
+          "costRatio": 5.63,
+          "profit": 1377984697.92,
+          "profitRatio": 10.38,
+          "grossMargin": 29.87,
+          "rank": 3
+        },
+        {
+          "name": "华北地区",
+          "income": 2584211366.0,
+          "incomeRatio": 3.65,
+          "cost": 1619888758.94,
+          "costRatio": 2.82,
+          "profit": 964322607.06,
+          "profitRatio": 7.26,
+          "grossMargin": 37.32,
+          "rank": 4
+        },
+        {
+          "name": "西北地区",
+          "income": 1973120682.17,
+          "incomeRatio": 2.79,
+          "cost": 1532895241.11,
+          "costRatio": 2.67,
+          "profit": 440225441.06,
+          "profitRatio": 3.32,
+          "grossMargin": 22.31,
+          "rank": 5
+        },
+        {
+          "name": "东北地区",
+          "income": 595387430.08,
+          "incomeRatio": 0.84,
+          "cost": 448378665.3,
+          "costRatio": 0.78,
+          "profit": 147008764.78,
+          "profitRatio": 1.11,
+          "grossMargin": 24.69,
+          "rank": 6
+        },
+        {
+          "name": "其他(补充)",
+          "income": 237964658.86,
+          "incomeRatio": 0.34,
+          "cost": 57977649.4,
+          "costRatio": 0.1,
+          "profit": 179987009.46,
+          "profitRatio": 1.36,
+          "grossMargin": 75.64,
+          "rank": 7
+        },
+        {
+          "name": "出口",
+          "income": 28439252.75,
+          "incomeRatio": 0.04,
+          "cost": 26267756.67,
+          "costRatio": 0.05,
+          "profit": 2171496.08,
+          "profitRatio": 0.02,
+          "grossMargin": 7.64,
+          "rank": 8
+        }
+      ]
+    },
+    {
+      "reportDate": "2021-12-31",
+      "byIndustry": [
+        {
+          "name": "大商业",
+          "income": 46778524199.51,
+          "incomeRatio": 67.78,
+          "cost": 43672666686.74,
+          "costRatio": 78.29,
+          "profit": 3105857512.77,
+          "profitRatio": 23.47,
+          "grossMargin": 6.64,
+          "rank": 1
+        },
+        {
+          "name": "大健康",
+          "income": 10851095066.99,
+          "incomeRatio": 15.72,
+          "cost": 5713867482.47,
+          "costRatio": 10.24,
+          "profit": 5137227584.52,
+          "profitRatio": 38.82,
+          "grossMargin": 47.34,
+          "rank": 2
+        },
+        {
+          "name": "大南药",
+          "income": 10789224586.22,
+          "incomeRatio": 15.63,
+          "cost": 6034752792.8,
+          "costRatio": 10.82,
+          "profit": 4754471793.42,
+          "profitRatio": 35.93,
+          "grossMargin": 44.07,
+          "rank": 3
+        },
+        {
+          "name": "其他",
+          "income": 339110362.55,
+          "incomeRatio": 0.49,
+          "cost": 300680237.48,
+          "costRatio": 0.54,
+          "profit": 38430125.07,
+          "profitRatio": 0.29,
+          "grossMargin": 11.33,
+          "rank": 4
+        },
+        {
+          "name": "其他(补充)",
+          "income": 256098131.76,
+          "incomeRatio": 0.37,
+          "cost": 58800081.94,
+          "costRatio": 0.11,
+          "profit": 197298049.82,
+          "profitRatio": 1.49,
+          "grossMargin": 77.04,
+          "rank": 5
+        },
+        {
+          "name": "其中:电商平台及门店服务费",
+          "income": 65536096.78,
+          "incomeRatio": 0.1,
+          "cost": 2576664.28,
+          "costRatio": 0.0,
+          "profit": 62959432.5,
+          "profitRatio": 0.48,
+          "grossMargin": 96.07,
+          "rank": 6
+        },
+        {
+          "name": "其中:资产出租",
+          "income": 60053102.38,
+          "incomeRatio": 0.09,
+          "cost": 13728199.78,
+          "costRatio": 0.02,
+          "profit": 46324902.6,
+          "profitRatio": 0.35,
+          "grossMargin": 77.14,
+          "rank": 7
+        },
+        {
+          "name": "其中:其他",
+          "income": 35655688.91,
+          "incomeRatio": 0.05,
+          "cost": 11529261.19,
+          "costRatio": 0.02,
+          "profit": 24126427.72,
+          "profitRatio": 0.18,
+          "grossMargin": 67.66,
+          "rank": 8
+        },
+        {
+          "name": "其中:技术服务收入",
+          "income": 32578028.55,
+          "incomeRatio": 0.05,
+          "cost": 2983160.78,
+          "costRatio": 0.01,
+          "profit": 29594867.77,
+          "profitRatio": 0.22,
+          "grossMargin": 90.84,
+          "rank": 9
+        },
+        {
+          "name": "其中:咨询费收入",
+          "income": 21280112.67,
+          "incomeRatio": 0.03,
+          "cost": 6080415.43,
+          "costRatio": 0.01,
+          "profit": 15199697.24,
+          "profitRatio": 0.11,
+          "grossMargin": 71.43,
+          "rank": 10
+        },
+        {
+          "name": "其中:物业管理费",
+          "income": 12156979.33,
+          "incomeRatio": 0.02,
+          "cost": 6892595.44,
+          "costRatio": 0.01,
+          "profit": 5264383.89,
+          "profitRatio": 0.04,
+          "grossMargin": 43.3,
+          "rank": 11
+        },
+        {
+          "name": "其中:加盟店管理费",
+          "income": 10388113.1,
+          "incomeRatio": 0.02,
+          "cost": 2692590.51,
+          "costRatio": 0.0,
+          "profit": 7695522.59,
+          "profitRatio": 0.06,
+          "grossMargin": 74.08,
+          "rank": 12
+        },
+        {
+          "name": "其中:代收水电费用",
+          "income": 6673186.3,
+          "incomeRatio": 0.01,
+          "cost": 4880056.62,
+          "costRatio": 0.01,
+          "profit": 1793129.68,
+          "profitRatio": 0.01,
+          "grossMargin": 26.87,
+          "rank": 13
+        },
+        {
+          "name": "其中:材料销售",
+          "income": 6557407.61,
+          "incomeRatio": 0.01,
+          "cost": 6036501.2,
+          "costRatio": 0.01,
+          "profit": 520906.41,
+          "profitRatio": 0.0,
+          "grossMargin": 7.94,
+          "rank": 14
+        },
+        {
+          "name": "其中:劳务收入",
+          "income": 2713177.19,
+          "incomeRatio": 0.0,
+          "cost": 1400636.71,
+          "costRatio": 0.0,
+          "profit": 1312540.48,
+          "profitRatio": 0.01,
+          "grossMargin": 48.38,
+          "rank": 15
+        },
+        {
+          "name": "其中:商标费收入",
+          "income": 2506238.94,
+          "incomeRatio": 0.0,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 16
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "大商业",
+          "income": 46778524199.51,
+          "incomeRatio": 67.78,
+          "cost": 43672666686.74,
+          "costRatio": 78.29,
+          "profit": 3105857512.77,
+          "profitRatio": 23.47,
+          "grossMargin": 6.64,
+          "rank": 1
+        },
+        {
+          "name": "大健康",
+          "income": 10851095066.99,
+          "incomeRatio": 15.72,
+          "cost": 5713867482.47,
+          "costRatio": 10.24,
+          "profit": 5137227584.52,
+          "profitRatio": 38.82,
+          "grossMargin": 47.34,
+          "rank": 2
+        },
+        {
+          "name": "大南药",
+          "income": 10789224586.22,
+          "incomeRatio": 15.63,
+          "cost": 6034752792.8,
+          "costRatio": 10.82,
+          "profit": 4754471793.42,
+          "profitRatio": 35.93,
+          "grossMargin": 44.07,
+          "rank": 3
+        },
+        {
+          "name": "其他",
+          "income": 339110362.55,
+          "incomeRatio": 0.49,
+          "cost": 300680237.48,
+          "costRatio": 0.54,
+          "profit": 38430125.07,
+          "profitRatio": 0.29,
+          "grossMargin": 11.33,
+          "rank": 4
+        },
+        {
+          "name": "其他(补充)",
+          "income": 256098131.76,
+          "incomeRatio": 0.37,
+          "cost": 58800081.94,
+          "costRatio": 0.11,
+          "profit": 197298049.82,
+          "profitRatio": 1.49,
+          "grossMargin": 77.04,
+          "rank": 5
+        },
+        {
+          "name": "其中:电商平台及门店服务费",
+          "income": 65536096.78,
+          "incomeRatio": 0.1,
+          "cost": 2576664.28,
+          "costRatio": 0.0,
+          "profit": 62959432.5,
+          "profitRatio": 0.48,
+          "grossMargin": 96.07,
+          "rank": 6
+        },
+        {
+          "name": "其中:资产出租",
+          "income": 60053102.38,
+          "incomeRatio": 0.09,
+          "cost": 13728199.78,
+          "costRatio": 0.02,
+          "profit": 46324902.6,
+          "profitRatio": 0.35,
+          "grossMargin": 77.14,
+          "rank": 7
+        },
+        {
+          "name": "其中:其他",
+          "income": 35655688.91,
+          "incomeRatio": 0.05,
+          "cost": 11529261.19,
+          "costRatio": 0.02,
+          "profit": 24126427.72,
+          "profitRatio": 0.18,
+          "grossMargin": 67.66,
+          "rank": 8
+        },
+        {
+          "name": "其中:技术服务收入",
+          "income": 32578028.55,
+          "incomeRatio": 0.05,
+          "cost": 2983160.78,
+          "costRatio": 0.01,
+          "profit": 29594867.77,
+          "profitRatio": 0.22,
+          "grossMargin": 90.84,
+          "rank": 9
+        },
+        {
+          "name": "其中:咨询费收入",
+          "income": 21280112.67,
+          "incomeRatio": 0.03,
+          "cost": 6080415.43,
+          "costRatio": 0.01,
+          "profit": 15199697.24,
+          "profitRatio": 0.11,
+          "grossMargin": 71.43,
+          "rank": 10
+        },
+        {
+          "name": "其中:物业管理费",
+          "income": 12156979.33,
+          "incomeRatio": 0.02,
+          "cost": 6892595.44,
+          "costRatio": 0.01,
+          "profit": 5264383.89,
+          "profitRatio": 0.04,
+          "grossMargin": 43.3,
+          "rank": 11
+        },
+        {
+          "name": "其中:加盟店管理费",
+          "income": 10388113.1,
+          "incomeRatio": 0.02,
+          "cost": 2692590.51,
+          "costRatio": 0.0,
+          "profit": 7695522.59,
+          "profitRatio": 0.06,
+          "grossMargin": 74.08,
+          "rank": 12
+        },
+        {
+          "name": "其中:代收水电费用",
+          "income": 6673186.3,
+          "incomeRatio": 0.01,
+          "cost": 4880056.62,
+          "costRatio": 0.01,
+          "profit": 1793129.68,
+          "profitRatio": 0.01,
+          "grossMargin": 26.87,
+          "rank": 13
+        },
+        {
+          "name": "其中:材料销售",
+          "income": 6557407.61,
+          "incomeRatio": 0.01,
+          "cost": 6036501.2,
+          "costRatio": 0.01,
+          "profit": 520906.41,
+          "profitRatio": 0.0,
+          "grossMargin": 7.94,
+          "rank": 14
+        },
+        {
+          "name": "其中:劳务收入",
+          "income": 2713177.19,
+          "incomeRatio": 0.0,
+          "cost": 1400636.71,
+          "costRatio": 0.0,
+          "profit": 1312540.48,
+          "profitRatio": 0.01,
+          "grossMargin": 48.38,
+          "rank": 15
+        },
+        {
+          "name": "其中:商标费收入",
+          "income": 2506238.94,
+          "incomeRatio": 0.0,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 16
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华南地区",
+          "income": 53046259138.74,
+          "incomeRatio": 76.86,
+          "cost": 44874166822.29,
+          "costRatio": 80.45,
+          "profit": 8172092316.45,
+          "profitRatio": 61.75,
+          "grossMargin": 15.41,
+          "rank": 1
+        },
+        {
+          "name": "华东地区",
+          "income": 5832681801.01,
+          "incomeRatio": 8.45,
+          "cost": 3981044375.33,
+          "costRatio": 7.14,
+          "profit": 1851637425.68,
+          "profitRatio": 13.99,
+          "grossMargin": 31.75,
+          "rank": 2
+        },
+        {
+          "name": "西南地区",
+          "income": 4220391494.95,
+          "incomeRatio": 6.12,
+          "cost": 2883154893.71,
+          "costRatio": 5.17,
+          "profit": 1337236601.24,
+          "profitRatio": 10.11,
+          "grossMargin": 31.69,
+          "rank": 3
+        },
+        {
+          "name": "华北地区",
+          "income": 3022706019.79,
+          "incomeRatio": 4.38,
+          "cost": 1923278380.78,
+          "costRatio": 3.45,
+          "profit": 1099427639.01,
+          "profitRatio": 8.31,
+          "grossMargin": 36.37,
+          "rank": 4
+        },
+        {
+          "name": "西北地区",
+          "income": 1978396674.5,
+          "incomeRatio": 2.87,
+          "cost": 1562225324.39,
+          "costRatio": 2.8,
+          "profit": 416171350.11,
+          "profitRatio": 3.14,
+          "grossMargin": 21.04,
+          "rank": 5
+        },
+        {
+          "name": "东北地区",
+          "income": 614694785.98,
+          "incomeRatio": 0.89,
+          "cost": 461322012.59,
+          "costRatio": 0.83,
+          "profit": 153372773.39,
+          "profitRatio": 1.16,
+          "grossMargin": 24.95,
+          "rank": 6
+        },
+        {
+          "name": "其他(补充)",
+          "income": 256098131.76,
+          "incomeRatio": 0.37,
+          "cost": 58800081.94,
+          "costRatio": 0.11,
+          "profit": 197298049.82,
+          "profitRatio": 1.49,
+          "grossMargin": 77.04,
+          "rank": 7
+        },
+        {
+          "name": "出口",
+          "income": 42824300.3,
+          "incomeRatio": 0.06,
+          "cost": 36775390.4,
+          "costRatio": 0.07,
+          "profit": 6048909.9,
+          "profitRatio": 0.05,
+          "grossMargin": 14.12,
+          "rank": 8
+        }
+      ]
+    }
+  ],
+  "analysis": [
+    {
+      "reportDate": "2025-12-31",
+      "businessReview": "2025年,本集团紧紧围绕生物医药健康的战略定位,依托产业优势,充分挖掘自身资源与资产,全面推进生产经营各项工作,推动业务持续稳定增长。本报告期内,本集团实现营业收入人民币77,656,109,939.23元,同比增长3.55%;利润总额为人民币3,689,925,942.42元,同比增长2.28%;归属于本公司股东的净利润为人民币2,983,113,594.80元,同比增长5.21%。2025年,本集团重点推进的工作包括:(一)守正固本,聚焦主业,持续夯实医药健康产业链1、持续强化中药材及原料药业务发展,夯实产业链上游基础。进一步推动中药材种植基地规范化、标准化建设,不断增强对关键中药原料生产与供应的掌控能力;巩固特色原料药的发展优势,不断丰富特色原料药产品线,同时加大对新品原料药的拓展布局力度,稳步拓展国内外市场。2、医药、健康齐发力,做强产业链中游(1)持续加强与头部连锁及电商的深度合作,进一步做强优势品种、挖潜沉睡品种、培育重磅新品,同时紧抓质量安全、不断提升产品品质,增强市场核心竞争力,推动医药业务稳定发展。本报告期内,消渴丸、保济系列、阿莫西林系列、安宫牛黄丸、舒筋健腰丸、消炎镇痛膏、甲基橙皮苷、坎地沙坦酯片等产品的销售收入实现同比较快增长。(2)持续深掘天然饮品增量。一是加大渠道优化力度,进一步稳固节庆市场和凉茶领域的优势地位,系统提升餐饮渠道的覆盖范围与场景渗透,并开展瓶装促销增强即饮渠道布局。二是品牌焕新升级,通过剧综合作、明星代言、升级媒介配置组合、国际罐全球发布、跨界营销合作等多重举措,强化品牌高频触达与时尚活力形象,激活多圈层消费。三是持续推进多元化产品布局,深度推进刺柠吉与海盐荔枝的品牌建设与市场耕作,并推出覆盖即饮、功能与养生等多维赛道新品,为中长期发展储备动能。3、加强批零联动,推进稳存拓增,驱动医药商业稳步增长。医疗批发业务通过持续优化合作机制、深度整合渠道资源,深化紧密型医联体/医共体建设等上下游合作,同时加紧创新药、国谈药的抢夺和准入,积极拓展增量来源,持续推动分销业务稳健增长。零售业务紧抓\"双通道\"政策机遇,强化批零联动。线上打造新兴渠道并大力发展跨境电商,推动实现零售业务经营质量持续提升。(二)大力推动科技创新,发展新质生产力1、聚焦优势领域,拓宽研发管线布局。2025年,本集团聚焦恶性肿瘤、慢病管理、大呼吸、免疫系统、男科用药五大优势领域,布局在研项目160多项,其中在研1类创新药9项,2项处于I期临床阶段,4项处于II期临床阶段,1项处于上市许可申请阶段。2、攻关关键核心技术,阶段性成果涌现。本报告期内,本公司化学药领域的1.1类抗肿瘤新药BYS10片进入关键性临床试验;生物药领域的冻干人用狂犬病疫苗(Vero细胞)获批上市;改良型新药克感利咽口服液、滋肾育胎丸、儿童小柴胡颗粒、玉屏风袋泡茶等多个项目取得里程碑进展。本报告期内,本集团共获得省科技进步奖4项,国家级协会学会奖6项,日内瓦发明展金奖1项;新增国家级平台1个,省级平台1个,国家级资质2个,省级资质1家,其中采芝林药业牵头的\"广东创新中药制剂转化中试平台\"成功入选工信部首批中试平台,潘高寿药业、广药总院入选国家工信部专精特新\"小巨人\"企业;与本集团产品相关的近百篇研究论文于国内外期刊发布,其中中一药业的《滋肾育胎丸提高高龄妇女活产率:一项随机临床试验》在国际顶级学术期刊《NatureCommunications》发表,是《NatureCommunications》首次刊载中医药在生殖医学应用的临床研究。3、加强科技化、国际化等高端人才储备,持续完善研发创新体制机制,进一步调动科技创新积极性,打造良好的科研生态。(三)拓展海外布局,国际化合作步伐持续加大1、医药产品持续拓展海外市场。本报告期内,小柴胡颗粒成功获得澳门中成药注册证书,安宫牛黄丸成功获得越南注册证书,滋肾育胎丸等产品加快推进海外地区注册工作。2、天然饮品国际化发展加速,与沙特艾杜克国际控股有限公司、上海宝钢包装股份有限公司、百达国际贸易有限公司、韩国农心集团、日本双叶产业株式会社等公司达成战略合作,启动海外本土化运营项目,并推动王老吉国际品牌标识\"WALOVI\"在多国发布,国际罐在德国、澳大利亚、新加坡、马来西亚等地上市。3、医药商业依托广州医药本部、广药(珠海横琴)医药进出口有限公司、海南广药晨菲医药有限公司和健民国际有限公司等进出口平台,通过药械的进口批发、提供进出口供应链服务等举措,在创新药械准入、助力创新药和创新药企出海、探索跨境零售业务等方面均持续开拓。(四)强化资本运作,持续加强市值管理工作1、坚持外延发展拓赛道。一是大力构建创投基金体系,参设广药二期基金、广药荔湾基金、广药广开基金,加强公司在创新药、现代中药、高端医疗器械等生物医药前沿领域的布局。二是加大并购力度,广药二期基金收购南京医药11.04%股份,广州医药成功竞得浙江医工100%股权,强化公司在华东区域的产业布局;王老吉药业成功收购采善堂,旗下老字号数量增至13个。三是白云山汉方完成混改工作,完成对白云山生物增资人民币3亿元,广州医药股票成功在新三板挂牌交易。2、多维度提升市值管理水平。一是制定并发布了《市值管理制度》,进一步完善市值管理体系建设。二是实施完成2024年度和2025年半年度利润分配方案。其中,2024年全年分红合计约人民币13.01亿元,占2024年归属于股东净利润的比例为45.87%,同比大幅提升。三是以更加主动、开放的姿态积极传播公司变化、释放公司价值,开展或参加分析师调研会议、业绩路演、业绩说明会、策略会、一对一会议等形式丰富的投资者活动近90场次,接待各类投资者近400人次,较去年同期增长近60%。四是进一步强化ESG体系建设,提升ESG管理水平,评级均为A级。(五)聚力数字化转型,加快数智赋能新质生产力一是围绕业务架构、数据架构、应用架构、技术架构四大核心架构,进一步推进数字化转型顶层规划;二是与多家国内数字化龙头企业强强联合,重点布局研发、智慧医疗、智慧供应链、产业互联网等关键赛道;三是持续推动生产技术创新升级,加快提升生产智能化水平。其中,药物警戒系统开展二期建设,中一药业入选广东省工信厅认定的《2025年先进级智能工厂名单》。(六)优化管控模式,提升运营质效进一步优化本部机构设置,有效强化对外协作、产业投资、品牌管理、数字化、审计监督等职能;进一步优化采购平台管理模式,压降中药材、原辅包材、办公用品、广告等采购成本,推动实现降本增效;加大人才引育力度,启动专项引进和管培生项目计划,同时调整优化考核指标,不断激发人才队伍能动性;抓住修订公司章程时机,完善内部管理制度近30个,不断优化公司治理体系建设。",
+      "futureExpect": "(一)行业格局和趋势1、在人口老龄化深化、居民健康意识提升及医疗保障体系完善推动下,我国医药市场稳健增长。国家及地方密集出台配套政策,优化产业供给结构、强化创新研发支持,全力支撑生物医药健康产业高质量发展,医药市场规模持续扩大。2、监管政策聚焦“价值导向”深化,药品集采优化规则,突出“稳临床、保质量、反内卷”导向;医保目录调整强化临床价值评估,提高目录外药品过评门槛。带量采购与医保谈判常态化推进,叠加全流程监管强化,推动行业资源向研发强、临床价值高的龙头企业集聚,医药监管精细化升级,推动医药企业提质增效。3、全球医药并购复苏,国内政策引导头部企业聚焦主业开展产业链整合,并购呈现“精准补强”特征。国内生物科技企业参与全球并购活跃度提升,聚焦核心战略资源的产业整合成为主流,跨国协同与产业链一体化整合频次显著增加。4、中医药高质量发展提速,迎来政策红利释放期。2025年国务院办公厅印发专项意见,从全链条部署中医药发展关键任务。中药审评审批机制持续优化,新药上市进程加快,道地药材基地建设、数智赋能中药制造等领域提速,中医药临床价值认可度提升,传承创新格局持续完善。5、科技创新驱动下,我国创新药研发与产业化提速,创新药进入高质量发展攻坚期。行业聚焦AI制药等前沿领域,企业强化自主研发与跨国合作,加速构建差异化管线。国家药监局推出全链条服务机制,助力创新药“中国首发”,推动核心技术攻关与临床转化。(二)2026年发展战略与经营计划2026年,本集团将坚持稳中求进,加速创新转型,推动实现质的有效提升和量的合理增长。重点推进的工作包括:1、推动基石业务板块提质增效,培育新动能促发展一是聚焦优势领域,锚定“好品种、好品质、好品牌”目标,实施“好品计划”,做强核心大单品和高潜力品种。推动营销创新和精细化专业化转型,按照“产品类别+渠道属性”优化专业化营销团队建设。加快工艺优化,构建覆盖“原料-制造-检验”全链路的质量标准体系,进一步提升消费者品质信任。强化品牌统筹和数字化营销,提升本集团品牌形象与影响力。二是深化全周期营销,巩固天然饮品龙头地位。强化需求洞察,持续深耕市场,围绕“紧抓各档期、筑牢基本盘”的核心思路,通过全档期联动、渠道精耕、品项升级为核心路径,持续提升市场份额与盈利能力。聚焦健康化、功能化等差异化细分赛道培育新品,在巩固刺柠吉、荔小吉等品类升级的基础上,重点推动果摇爽、闪充电解质水等已上市新品的渠道渗透与销售放量,培育第二增长曲线。三是优化业务结构,巩固药品批发核心优势做强零售等战略支撑业务,全面提升创新及增值服务能力。深化药品全生命周期服务管理,针对创新药、集采药等品类实施差异化运营策略,强化全国区域渠道精细化布局与供应链韧性建设,筑牢业务发展根基,持续提升药品批发业务的竞争力与市场优势。牢牢抓住“双通道”政策红利与跨境电商发展机遇,优化零售业务运营,丰富终端服务场景,进一步拓宽业务增长空间。以创新为核心引擎,加快向数智化综合健康服务提供商转型。推进服务内容产品化、优化业务发展格局,通过服务、模式、数智三大维度的协同发力,切实培育高质量增长新动能。四是积蓄动能,加快推进消费健康、生物创新、医疗服务等业务发展,打开增量空间。2、推动创新转型,聚力锻强科技引擎一是加大研发投入,依托六大创新平台,加速推进抗肿瘤、抗感染、妇科、男科、儿科、外用药、医疗营养保健领域等项目研发进程与新药上市进度;同时围绕呼吸、慢病、肿瘤、生殖等核心治疗领域,通过“自研+引进”方式,进一步丰富潜在项目储备,为创新管线提供重要支撑。二是深化产学研合作,携手大院大所共建高水平联合实验室和创新研究院,推动更多研发成果转化;推进院内制剂生产中心建设,积极引进院内制剂转化项目,打造“产-销-投-研-用”医疗机构制剂成果转化新模式。三是优化创新体制机制,完善考核评价体系,健全容错纠错机制,实施多元激励。3、进一步推进国际化进程,推动产品出海、品牌出海、产业链出海一是提升品牌国际知名度和影响力,拓展海外优质合作伙伴资源,推动产品海外注册销售,聚力推进海外本土化运营项目,加速医药产品进入“一带一路”市场。二是分层推进海外重点市场突破与区域辐射,同时加快海外工厂落地投产并优化供应链网络,进一步推动海外市场渠道与品牌本土化深度融合,稳步推动天然饮品国际业务持续增长。4、强化资本运作,主动释放公司价值一是聚焦创新中药、高端化药制剂、高端医疗器械、区域医药商业等领域,积极物色优质标的,加大投资并购,优化产业布局。二是持续构建覆盖天使创投型、产业孵化型、投资并购型的全生命周期投资基金体系,不断丰富投资项目储备,进一步激活本集团资本动能。三是持续提升信披质量,不断提升ESG管理水平,多渠道发力主动精准释放公司核心价值,优化市值管理,强化资本认同。5、加强统筹协调,积极推动数智赋能一是加强顶层设计,聚焦数字化底座建设、数字化研发(IPD)、数字化制造(黑灯工厂)、数字化供应链(ISC)、数字化营销、业财一体化、数字化治理等重点领域,落实“研发-制造-物流-销售”全链条数字化。二是健全数字管控体系,深化数智协同,构建现代化公司治理新生态。同时,完善防控机制,筑牢网络与数据安全防线。6、促进资源整合,深化管理革新,扎实提升公司治理水平一是深化业务专业化整合,发挥资源协同效应,提升规模效益和综合竞争力。二是持续优化中药材、原辅料、包材、广告等业务集中采购模式,促进本集团集中采购平台切实发挥作用,释放降本增效的规模效应。三是强化高端人才储备,优化绩效考核,强化激励导向,系统建强人才梯队。四是推动现代化公司治理体系建设,强化内控和风险管理工作,进一步提升公司治理水平和规范运作。"
+    },
+    {
+      "reportDate": "2024-12-31",
+      "businessReview": "2024年,面对医药健康产业的加速变革,本集团扎实推进各项工作,积极应对经济环境及行业政策的变化,推进数字经济与医药健康产业的融合发展,推动业务的持续发展。本报告期内,本集团实现营业收入人民币74,992,820千元,同比减少0.69%；利润总额为人民币3,607,580千元,同比减少29.41%；归属于本公司股东的净利润为人民币2,835,496千元,同比减少30.09%。与2023年度相比,本集团经营业绩同比下降的主要原因是：（1）本报告期内,受有效需求不足、行业加速变革、行业政策变化及市场竞争激烈等因素持续影响,本集团主要业务板块的经营业绩同比下滑；（2）本报告期内,根据《企业会计准则》的相关规定,本公司对一心堂药业长期股权投资计提资产减值准备人民币3.86亿元,从而减少本年度利润总额。本报告期内,本集团重点推进的工作包括：（一）强品种、稳根基,积极推动大南药板块发展。本报告期内,药品集采、医保改革等行业政策持续深化,大南药板块进一步加大力度聚集资源,推动重点品种和梯队品种培育,不断优化产品布局,提升品牌影响力；持续深耕开拓市场,加速终端销售网络布局,持续发力电商业务,推动产品动销；着力做优特色原料药,加大国际拓展力度。本报告期内,养阴清肺膏、养阴清肺合剂、氨咖黄敏胶囊、头孢克肟系列（含原料）、蜜炼川贝枇杷膏、清开灵产品系列、蛇胆川贝液、小柴胡颗粒、蛇胆川贝枇杷膏等产品的销售收入实现同比较快增长。（二）深耕市场挖潜拓源,增强大健康板块发展动能。2024年,面对宏观经济波动、消费增长势头持续放缓、市场竞争日趋激烈、雨水天气等因素影响,大健康板块锚定即饮市场、拓展餐饮消费、抢抓吉庆场景宴席机会、开拓国际主流市场、持续年轻化建设、加快电商等渠道拓展等途径积极开拓市场,促进动销。同时,继续坚持一核多元的产品结构,推出原味凉茶、玫瑰风味、小苍兰风味、折耳根风味等新产品,抢占新消费场景。（三）抓机遇、强整合,促进大商业板块稳步增长。2024年,随着医改的深入,医药流通领域呈现集中度提升、存量竞争加剧态势。大商业板块持续深化以服务力为统领的营销体系,不断完善分销网络布局,强化品种拓展、终端准入、商业化运营等能力建设,夯实药品批发基本盘；以双通道业务驱动,大力发展处方零售业务,推进零售与批发、线上与线下全渠道资源整合；积极开拓医疗器械业务,探索医美、特医食品、营养品等大健康品类布局,提升医疗器械影响力；持续发展医药进出口业务,与法国施维雅集团加强合作,其中治疗脑胶质瘤靶向药物Vorasidenib（沃拉西地尼）在海南博鳌乐城先行区实现亚洲首例应用,持续拓展粤港澳药品进出口业务。（四）强建设、塑品牌,夯实大医疗板块发展基础。2024年,白云山医院学科建设与服务持续提升,通过合作共建新设内三科、血液内科门诊、肿瘤科,增强医院的医疗服务能力。白云山互联网医院实现移动医保结算,润康月子公司深化上下游产业合作,不断提升品牌影响力。（五）拓管线、强创新,推动科研质管效能提升。本报告期内,本集团一是进一步提升科研平台能级,新增省级平台3个、国家级资质5个、省级资质10个,其中白云山汉方荣获国家工信部专精特新“小巨人”企业称号,汉潮公司荣获“国家农作物种子质量检测机构（CASL）资质”；二是加大拓展研发管线布局。截至2024年末,本集团拥有涵盖中药新药、仿创化药、生物类似药、医疗器械等200多项在研项目。此外,本集团及合营企业共获得国家科技进步奖1项,省级科技进步奖3项,其中白云山和黄公司“中药质量检测技术集成创新与支撑体系创建及应用”荣获“国家科学技术进步奖”。三是强化质量管理,推进质量管理数字化,进一步完善质量管理体系。年内,本集团及合营企业共获得各级质量管理奖项近200项,其中中一药业荣获“2023年度全国医药行业质量匠星企业”。（六）持续强化资本运作,大力推进产业基金工作。2024年,医药公司申请新三板挂牌暨择机北京证券交易所上市工作持续推进,新三板挂牌申请已获受理。沃博联广药基金新增广州南沙区科工创业投资基金有限公司作为有限合伙人,基金规模扩大至人民币10亿元；广药创投基金新增广州国企创新基金有限公司作为有限合伙人。（七）数智升级,推动数字化技术赋能发展。本报告期内,本集团启动“决策、管理、运营、业务”四大数字化工程,积极推进“四化”平台专项行动赋能新型工业化建设工作,搭建统一数据平台,赋能产业数字化水平。本集团持续推进药物警戒系统建设,14家下属企业上线系统,运行超过8100份个例安全性报告；中一药业“中药网络化智能化集成创新应用项目”入选工信部工业互联网试点示范名单,成为广州唯一入选的制药企业。（八）进一步强化基础管理,优化完善工作流程与决策机制,做好风险防范化解工作,紧扣安全责任链,持续推动企业平稳有序运行。",
+      "futureExpect": "（一）行业格局和趋势1、医药市场规模持续扩大,国家支持生物医药健康产业发展。随着人口老龄化、居民健康意识提升及医疗保障体系完善,我国医药市场保持快速增长,已成为全球第二大医药市场。作为我国战略性新兴产业之一,各地立足产业基础、区位特色与资源要素,出台差异化、系统化政策,对生物医药健康产业发展给予支持。2、医药监管趋严,推动企业提质降本。医药政策密集出台,加速医药行业调整,对企业成本和质量提出更高要求。带量采购、医保谈判等政策推动行业整合,市场份额向研发能力强、成本控制好的龙头企业集中。3、医药行业投资并购持续活跃。国家不断出台支持并购重组政策,鼓励引导头部公司立足主业,加大对相关产业链公司的整合,医药行业并购重组进程加快,以战略资源互补的产业整合、一体化及强强联合为特征的并购重组将逐渐成为主流方式。4、中医药传承创新发展,迎来新一轮发展机遇。中医药现代化科研体系建设、中药审评审批和注册机制正逐步完善,中医药特色人才队伍建设、中医药品牌建设等方面获得较快发展,中医药疗效的认可度不断提高,持续推动中医药传承创新发展。5、创新药迎来发展期。医药行业具有较强的科技创新属性,同时借助科技创新的驱动,医药企业将聚焦前沿领域,不断加强自主研发和合作,打造具有竞争力的研发管线,持续推动关键核心技术攻关和创新产品产业化与应用。（二）2025年发展战略与经营计划2025年,本集团将继续围绕生物医药健康的战略定位,立足产业优势,充分挖掘和盘活自身资源和资产,围绕医药制造与研发这一核心开展延链、补链、强链工作,持续锻造核心竞争力。2025年重点推进的工作包括：1、聚焦主责主业,夯实医药制造产业链。一是做实产业链上游。加强中药材种植基地规范化、标准化建设,持续推进中药全产业链质量追溯体系建设、中药材种子种苗质量检测和药学质量标准研究体系建设；进一步梳理原料药批文,复产一批具有高市场价值的原料药,大力发展特色原料药,提升原料药业务的竞争力。二是做强产业链中游。深入研究医药行业政策,积极参与各级药品集采,大力打造巨星品种、开发睡眠品种,推动老字号焕新发展,启动医院品种的分类开发工程；强化数智赋能,加强新技术、新设备应用,优化改造传统工艺、生产流程,提升医药制造的自动化、智能化水平。进一步挖掘健康产品潜能,深耕红罐王老吉凉茶以及绿盒王老吉凉茶的各类消费市场等,强化王老吉凉茶市场基础面建设和渠道铺市率,加强瓶装市场开拓,拉动终端销售,巩固并强化凉茶市场占有率的领先地位。三是创新医药流通发展,做大产业链下游。深耕华南优势网络,择机拓展全国网络,不断深化全国网络构建,推进品类经营的多元化拓展,深挖销售与盈利增长点,加快数字化、智能化创新和转型升级,进一步巩固并扩大医药分销竞争力；加快零售布局,借助DTP药房、院边店建设,大力拓展处方零售市场,打造品类齐全、专业性强的综合型药房,做精社会药房赛道。2、瞄准增量市场,拓展新业态和加快国际化。加快拓展医疗健康业务,加速白云山医院特色优势学科和专科能力建设,同时突出中医特色和优势,进一步增强白云山医院和白云山中医院整体实力；着力开拓中药特色产业,推进药食同源产品的挖掘和推广；加快国际化进程和海外市场拓展。3、强化可持续发展,加强科研体系建设。一是革新科研体系,统筹完善科研体系建设,打造领先的科技创新平台；二是持续通过激活内部存量,拓展外部增量,大力推动创新药和仿制药等项目高质量研发和引入,进一步强化科研能力、优化科研布局；三是从项目管理与实施、考核与激励等方面着手,构建高水平科技成果转化机制和考核奖励机制。4、着眼价值创造,提升资本运营能力。一是进一步加强市值管理工作与制度化建设,加强ESG管理体系建设与完善,努力提高投资者回报,提升公司境内外的资本市场形象；二是积极构建“产业+科技+金融”完整链条,以产业基金加快对创新项目投资,实现对生物医药领先赛道、优势细分领域的前瞻性布局,分类推动各业务投资并购工作,促进公司业务强链补链延链；三是加快推进医药公司新三板挂牌并择机到北京证券交易所上市工作。5、加快数字化建设。一是强化数字治理整体顶层规划,建立完整的数据管控体系；二是推动技术赋能,加强新兴技术、新设备等在药物研发、生产优化、数据分析以及药物警戒等方面的应用,推动生产技术创新升级；三是抓好数字经济发展,加强新型营销模式应用,完善电商渠道,同时积极探索医药健康跨境电商发展模式。6、固本强基,进一步提升管理效能。持续健全完善公司治理体系建设,建立健全内控、风险控制、合规体系等方面体系管理；加强人才制度体系建设,健全人才发展体系,积极探索有效的中长期激励机制,强化更为科学有效的考核体系；优化资源配置,深化机构改革,进一步提升管理效能。（三）可能面对的挑战与风险医药行业是受国家政策影响最深刻的行业之一,面临着行业政策风险。政策变化直接影响行业格局、竞争态势及企业的盈利能力。随着一致性评价、带量采购、医保支付方式改革等一系列医改措施的深入推进,医药市场格局持续变化。政策的快速演变加剧了行业竞争,推动了研发创新、产业整合以及商业模式的转型,给本集团带来了转型升级的压力和挑战。由于政策风险的不可预测性,本集团面临的不确定因素主要集中在如何及时调整策略以适应政策变化。为了有效应对行业政策风险,本集团采取了多项策略以减轻政策变动带来的潜在影响,并确保公司长期稳健发展。具体缓解行业政策风险的措施载于本报告第三节“管理层讨论与分析”中之“二、本报告期内本集团所属行业情况”一节项下“（三）行业政策的影响以及本集团的应对措施”。此外,本集团还面临着产品质量控制风险、研发风险、市场风险等诸多风险。本集团将持续以政策为导向,密切关注国家及行业政策发布,关注市场变化,积极把握发展机遇,并立足自身品牌及资源优势,强化创新研发能力,构建数字化竞争优势,持续推出差异化优势的新产品,不断提升核心竞争力,推动企业高质量发展。"
+    },
+    {
+      "reportDate": "2023-12-31",
+      "businessReview": "本报告期内,本集团紧扣“双效提升”的发展主题,坚持“稳中求进”的总基调,统筹抓好各项经营管理工作,全力促进运营效率和发展效益的提升,实现经营业绩的稳步增长。2023年度,本公司实现营业收入人民币75,515,404千元,同比增长6.68%;利润总额为人民币5,110,498千元,同比增长1.33%;归属本公司股东的净利润为人民币4,055,679千元,同比增长2.25%。2023年度,本集团积极推进的主要工作包括:(一)坚持深耕细作,强品种、控成本、拓终端,持续夯实大南药板块发展根基本报告期内,大南药板块一是通过持续整合内部资源、强化及畅通销售渠道、拓展终端业务、严控成本等方式,进一步加大对“巨星品种”和“潜力品种”的支持和培育,促大南药板块经营业绩的稳定增长。本报告期内,清开灵系列、安宫牛黄丸、蜜炼川贝枇杷膏、壮腰健肾丸、小柴胡颗粒、金戈、消渴丸等产品的销售收入实现同比较快增长。二是加强品牌建设,持续激发老字号品牌创新活力,不断提升品牌与产品的知名度与认知度。三是加快推进重大项目建设进程,产业基地建设显实效。本报告期内,广药白云山化学制药(珠海)有限公司建设项目、甘肃广药白云山中药科技产业园(一期)项目均已建成并进入试产或投产阶段。(二)坚持“一核多元”,挖市场、扩渠道、拓新品,进一步推动大健康板块创新发展本报告期内,大健康板块抢抓消费恢复的市场机遇,深耕核心渠道,加强拳头产品的节假日营销推广、电商销售和产品出口,全力拓展餐饮优势,继续提升市场铺货率和占有率,筑牢王老吉凉茶发展根基;深耕吉祥文化,构建姓氏罐+吉言罐+生肖罐系列吉文化产品,精耕各类大吉场景营销,同时聚焦年轻化建设,创新年轻化营销模式,延展“吉”文化内涵,提升品牌文化影响力,提升王老吉品牌核心竞争力;聚焦健康植物饮料增长趋势,布局并以新疆沙棘、西梅为原料,开发了精制沙棘液果汁饮料、新西梅原浆、西梅羽衣甘蓝高纤啫喱等系列产品,进一步丰富大健康产品群;通过积极参加国际展会、加快海外产品本地化改版、持续推进商标注册等,进一步加速品牌国际化进程。(三)抓机遇、优服务、扩网络,加速推进大商业板块转型发展本报告期内,大商业板块进一步持续增强批发业务的品类拓展、网络拓展、终端准入、物流配送等能力,以品种资源促进市场渠道建设,进一步夯实“医疗+商业+电商+零售”四位一体的全渠道战略。本公司控股子公司医药公司一是开拓了医院营养品、特医食品配送业务并探索特医食品共建模式,进一步加强与重点供应商的战略合作,取得了超90个上市新药的配送权并成功中标多个SPD项目;二是把握医疗机构处方外流机遇,不断拓展零售业务“双通道”和“实体店+OTO”实践,其医药零售网点增至157家,其中零售业务“双通道”定点门店增至51家。三是加快投资并购,拓宽全国销售网络,新设广药黑龙江医药有限公司、广药(韶关)医药有限公司并实现开业,完善广东省的二级子公司布局,粤港澳大湾区9地市子公司全部落地;完成汕头、湛江、东莞、惠州四地市全资子公司的设立工作。四是创新进出口业务模式,其下属子公司横琴医药进出口公司取得海关AEO高级认证,并完成了内地医疗机构重要试剂首次跨境运输。本公司子公司采芝林药业持续推进医院配送业务的转型发展,在连续中标以广东省中医院为代表的等级及社区医院代煎项目的基础上,加快中药智能代煎中心工程建设。(四)强建设、塑品牌,推动大医疗板块稳步发展本报告期内,大医疗板块的白云山医院持续提升软硬件水平,新增神经外科、呼吸内科等六个诊疗科目,增设白云山互联网医院,加入120急救网络,并成为广州首批首家退役军人优待定点医院,综合实力得到提升。白云山中医医院正式揭牌开业,初步形成了与白云山医院优势互补、协作发展的运行模式。白云山润康月子公司通过携手妇产科专家举办专场讲座、推广活动,进一步做优做强月子会所品牌。(五)持续加强研发创新与投入,推动科研平台建设,提升创新水平2023年,本集团全年投入研发费用共计人民币7.82亿元。本报告期内,多元新品,推出山茶花味凉茶、藤椒青提口味凉茶、榴莲风味凉茶等新品,11项,获得1.1类中药创新药养阴舒肝颗粒、儿童小柴胡颗粒等临床试验批件2项,新增1项一致性评价补充申请批件;获得各级科技奖项19项,其中国际奖项2项、国家级奖项2项,中一药业的“滋肾育胎丸的创新研究与应用”项目荣获2023年第48届日内瓦国际发明展金奖。新增省级科研平台3个、市级科研平台1个;新增国家级科研相关资质认定6个、省级科研相关资质认定10个、市级科研相关资质认定3个,其中子公司白云山汉方入围国务院国资委的“科改企业”名单,敬修堂药业、光华药业获评国家知识产权示范企业,广西盈康荣获国家知识产权优势企业,白云山汉方、潘高寿药业、星群药业等10家企业通过了广东省专精特新中小企业认定;白云山汉方、汉潮公司获得来自中国合格评定国家认可委员会(CNAS)授予的正式认可证书,标志平台具备了按国际标准开展检测的能力。(六)进一步规范与加强产品与技术质量管理工作,持续升级数智平台建设本报告期内,本集团继续完善技术质量管理体系建设,完成药物警戒系统建设,建立了药品不良反应监测体系。大力推进规范化改造项目,有效促进本集团制造自动化、智能化转型,提升生产效率,其中,中一药业打造的医药制造数字化车间荣获“广东省智能制造试点示范项目”,并通过两化融合管理体系评定,成为全国六家获得AA级评定的中成药企业之一。同时,推进协同创新模式,以数字化、大数据为基础,开展安全风险分级管控和隐患排查治理双重预防机制建设。(七)设立新基金、布局新业态,进一步拓展公司发展赛道2023年,为进一步加速本公司在生物医药健康产业领域的转型升级,本公司设立的广药基金出资人民币3.34亿元与广药资本、WBAAsiaInvestmentsLimited(沃博联亚洲投资有限公司)共同设立沃博联广药基金,沃博联广药基金已完成工商注册及在中基协完成产品备案并为广州市首支成功落地的合格境外有限合伙人试点基金;同时,广药基金拟出资不超过人民币6.9亿元与广药资本、广州产投生物医药与健康专项母基金合伙企业(有限合伙)共同设立广药创投基金。2023年,本公司与美晨集团合资组建广药白云牙膏公司,推出“白云牙膏”系列新品,进一步丰富本公司产品矩本集团获得盐酸达泊西汀片等药品生产批件(八)大力开展“双效提升”行动,增强管理效能,提升发展质量本报告期内,本集团持续通过优化采购策略、技术改造、流程再造等方式降低生产成本、提高经济效益;同时,聚焦管理薄弱环节,优化管理流程、加强统筹管理,进一步建立健全合规管理和合规审查制度,降低管理成本、增强管理效能,提升发展质量。",
+      "futureExpect": "(一)行业格局和趋势1、政策扶持生物医药健康产业发展。生物医药健康产业作为我国战略性新兴产业之一,近年得到政策大力支持。监管部门出台的指引性、规范性政策趋于系统化,立足产业基础、区位特色与资源情况,各地出台差异化的产业发展规划、集群规划等为生物医药健康产业提供土地、资金、平台等多方面支持。2、医药政策频出,医药监管依然严格,推动药企提质降本。医药政策密集出台,以“组合拳”形式加速医药行业调整,对药企成本和质量提出更高要求,高质量发展成为医药行业必然要求。3、国家高度重视,中医药发展迎来新一轮发展机遇。国家出台一系列政策,积极支持并推动中医药传承创新发展。中医药现代化科研体系建设、中药审评审批和注册机制正逐步完善,中医药特色人才队伍建设、中医药品牌建设等各方面预期获得快速发展,中医药疗效的认可度不断提高。然而,中成药集采已启动,控费压力将倒逼药企转型升级。未来中成药的进一步规范使用以及重点药品监控机制的建立,将为企业带来挑战。4、随着资本市场环境逐步改善,医药行业重组整合进程加快,以战略资源互补的产业整合、一体化及强强联合为特征的并购重组将逐渐成为主流方式。5、随着我国深入实施创新驱动发展战略,强化战略科技力量,科技创较强的科技创新属性,同时科技创新也是推动医药制造行业发展的重要驱动力之一。在政策引导下,行业将持续加大创新投入,推动关键核心技术攻关和创新产品研发,推动创新药和高端医疗器械产业化与应用,进一步促进产业升级和高质量发展。(二)2024年的发展战略与经营计划2024年,本集团将紧紧围绕“数字经济年”的发展主题,积极推动数字经济与医药健康产业的融合发展,同时深耕市场、培育动能,推动各业务板块高质量发展。重点推进的工作包括:(一)持续夯实大南药发展根基。继续积极参与国家集采或省际药品联盟带量采购,同时大力推动营销整合和模式创新,推进“1+4”营销整合,促进OTC市场、终端及电商等市场的增长;分类分策打造更多不同领域的“巨星品种”,同时加快推进睡眠品种盘活、潜力品种培育等工作;围绕中医药治疗优势明显的常见病,针对性推进中成药二次开发,不断强化“时尚中药”建设,延伸中药产业链;大力推进产品包装时尚化工程,推动老字号振兴发展,持续激发老字号发展新活力,打造更时尚化、更具竞争力的品牌形象和文化内涵,增强产品力和品牌力;做优特色原料药,尤其推动高毛利品种的发展,同时做强原料药的国际市场,提升国际业务竞争力。(二)进一步培育大健康板块发展新动能。夯实渠道建设,全面拓展市场份额,持续巩固凉茶主业和品类领先地位;坚持多元化发展,提升凉茶细分新品、刺柠吉、荔小吉等板块新品的市场认知,强化润喉糖、龟苓膏、椰汁等潜力产品的市场拓展;厚植吉祥文化,推动品牌升级,进一步优化品牌感知和视觉形象,推动市场铺货率及渗透率提升;加速海外市场布局,丰富海外产品矩阵,提升品牌国际知名度。(三)激活大商业板块创新发展动力。坚持网络终端化,促进医药分销业务市场占比、市场地位和综合竞争力的提升;把握处方外流政策节奏,借助医药公司S2B2C平台,加强零售业务布局,积极提升零售业务的盈利水平和能力;把握粤港澳大湾区及海南自贸岛的政策机遇,拓展跨境电商及进出口业务;推动全国整体业务物流整合,完善物流服务体系;加快采芝林中药新已成为带动经济转型升级、增强经济活力的重要力量。医药制造行业具有(四)争创大医疗板块发展优势。推动白云山医院对标建设,加强运营管理能力建设,搭建专业化运营管理团队,全面提升医疗服务水平;加快白云山中医院优势学科建立,与白云山医院形成更为互补的协同发展关系;持续提升白云山润康月子公司的品牌影响力;推进医疗检测和急救等医疗器械业务布局,加快促进与衣食住行高度融合、科技含量高的特色产品发展,加快转型升级。(五)推动科研自立自强工作建设。坚持完善各级科研平台建设,提高科研平台整体水平,建设一流科研平台体系;加大力度拓宽创新药研发管线布局,通过自主研发、联合开发、购买引进等方式开展新药研发,继续大力开展大品种二次开发、仿制药一致性评价及睡眠品种的盘活、名家名药培育研发等工作;增强对外产学研用合作交流,加强与医院、科研院所及国际国内企业的对接、合作,推动更多成果落地。(六)持续强化资本运作。大力推进医药公司新三板挂牌并择机到北交所上市工作,提升融资能力;推动广药基金和其他基金共同投资创新项目,加快设立广药创投基金,发挥沃博联广药基金优势等,进一步推进本公司生物医药产业布局。加快推进资本运营步伐,分类推动各业务板块和各类型的投资并购工作,进一步优化产品结构和业务板块。(七)大力推动数字经济发展。推进药品生产智能化改造,开展精益生产管理体系建设,推动数字化工厂建设;建立统一数据平台,推进工业互联网创新工程项目,强化现代化与精细化管理水平,提升数字化管理水平。(八)坚持人才强企,提升人才质量及人才管理水平;进一步完善工作机制,优化风控监督平台,加强风险管控,不断做好风险防范化解工作,持续推动本集团高质量发展。"
+    }
+  ]
+}

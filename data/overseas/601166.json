@@ -1,0 +1,1482 @@
+{
+  "code": "601166",
+  "name": "兴业银行",
+  "fetchTime": "2026-06-18T18:35:49",
+  "segments": [
+    {
+      "reportDate": "2025-12-31",
+      "byIndustry": [],
+      "byProduct": [],
+      "byRegion": [
+        {
+          "name": "总行",
+          "income": 72758000000.0,
+          "incomeRatio": 34.2,
+          "cost": 34557000000.0,
+          "costRatio": 28.14,
+          "profit": 38201000000.0,
+          "profitRatio": 42.47,
+          "grossMargin": 52.5,
+          "rank": 1
+        },
+        {
+          "name": "长三角地区",
+          "income": 33090000000.0,
+          "incomeRatio": 15.55,
+          "cost": 17243000000.0,
+          "costRatio": 14.04,
+          "profit": 15847000000.0,
+          "profitRatio": 17.62,
+          "grossMargin": 47.89,
+          "rank": 2
+        },
+        {
+          "name": "珠三角及海西地区",
+          "income": 24363000000.0,
+          "incomeRatio": 11.45,
+          "cost": 20329000000.0,
+          "costRatio": 16.56,
+          "profit": 4034000000.0,
+          "profitRatio": 4.48,
+          "grossMargin": 16.56,
+          "rank": 3
+        },
+        {
+          "name": "环渤海地区",
+          "income": 20734000000.0,
+          "incomeRatio": 9.75,
+          "cost": 14078000000.0,
+          "costRatio": 11.46,
+          "profit": 6656000000.0,
+          "profitRatio": 7.4,
+          "grossMargin": 32.1,
+          "rank": 4
+        },
+        {
+          "name": "附属机构",
+          "income": 20170000000.0,
+          "incomeRatio": 9.48,
+          "cost": 14180000000.0,
+          "costRatio": 11.55,
+          "profit": 5990000000.0,
+          "profitRatio": 6.66,
+          "grossMargin": 29.7,
+          "rank": 5
+        },
+        {
+          "name": "中部地区",
+          "income": 17100000000.0,
+          "incomeRatio": 8.04,
+          "cost": 10155000000.0,
+          "costRatio": 8.27,
+          "profit": 6945000000.0,
+          "profitRatio": 7.72,
+          "grossMargin": 40.61,
+          "rank": 6
+        },
+        {
+          "name": "西部地区",
+          "income": 16989000000.0,
+          "incomeRatio": 7.99,
+          "cost": 9590000000.0,
+          "costRatio": 7.81,
+          "profit": 7399000000.0,
+          "profitRatio": 8.23,
+          "grossMargin": 43.55,
+          "rank": 7
+        },
+        {
+          "name": "境外",
+          "income": 4336000000.0,
+          "incomeRatio": 2.04,
+          "cost": 880000000.0,
+          "costRatio": 0.72,
+          "profit": 3456000000.0,
+          "profitRatio": 3.84,
+          "grossMargin": 79.7,
+          "rank": 8
+        },
+        {
+          "name": "东北地区",
+          "income": 3201000000.0,
+          "incomeRatio": 1.5,
+          "cost": 1781000000.0,
+          "costRatio": 1.45,
+          "profit": 1420000000.0,
+          "profitRatio": 1.58,
+          "grossMargin": 44.36,
+          "rank": 9
+        }
+      ]
+    },
+    {
+      "reportDate": "2024-12-31",
+      "byIndustry": [],
+      "byProduct": [
+        {
+          "name": "发放贷款和垫款",
+          "income": 236155000000.0,
+          "incomeRatio": 63.2,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "债券及其他投资",
+          "income": 76218000000.0,
+          "incomeRatio": 20.4,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "拆出资金",
+          "income": 12787000000.0,
+          "incomeRatio": 3.42,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "银行卡手续费",
+          "income": 10171000000.0,
+          "incomeRatio": 2.72,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "托管及其他受托业务手续费",
+          "income": 7830000000.0,
+          "incomeRatio": 2.1,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "存放中央银行款项",
+          "income": 5346000000.0,
+          "incomeRatio": 1.43,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "代理业务手续费",
+          "income": 5253000000.0,
+          "incomeRatio": 1.41,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "融资租赁",
+          "income": 5048000000.0,
+          "incomeRatio": 1.35,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "买入返售金融资产",
+          "income": 4877000000.0,
+          "incomeRatio": 1.31,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "存放同业及其他金融机构款项",
+          "income": 3216000000.0,
+          "incomeRatio": 0.86,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "支付结算手续费",
+          "income": 2860000000.0,
+          "incomeRatio": 0.77,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        },
+        {
+          "name": "其他手续费及佣金",
+          "income": 2496000000.0,
+          "incomeRatio": 0.67,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 12
+        },
+        {
+          "name": "担保承诺手续费",
+          "income": 1238000000.0,
+          "incomeRatio": 0.33,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 13
+        },
+        {
+          "name": "其他",
+          "income": 188000000.0,
+          "incomeRatio": 0.05,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 14
+        },
+        {
+          "name": "其中:对公贷款和垫款",
+          "income": 133769000000.0,
+          "incomeRatio": 35.8,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 16
+        },
+        {
+          "name": "其中:个人贷款和垫款",
+          "income": 98382000000.0,
+          "incomeRatio": 26.33,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 17
+        },
+        {
+          "name": "其中:贴现",
+          "income": 4004000000.0,
+          "incomeRatio": 1.07,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 18
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "总行",
+          "income": 79601000000.0,
+          "incomeRatio": 37.51,
+          "cost": 41410000000.0,
+          "costRatio": 33.12,
+          "profit": 38191000000.0,
+          "profitRatio": 43.8,
+          "grossMargin": 47.98,
+          "rank": 1
+        },
+        {
+          "name": "福建",
+          "income": 30245000000.0,
+          "incomeRatio": 14.25,
+          "cost": 24319000000.0,
+          "costRatio": 19.45,
+          "profit": 5926000000.0,
+          "profitRatio": 6.8,
+          "grossMargin": 19.59,
+          "rank": 2
+        },
+        {
+          "name": "东北部及其他",
+          "income": 19865000000.0,
+          "incomeRatio": 9.36,
+          "cost": 8010000000.0,
+          "costRatio": 6.41,
+          "profit": 11855000000.0,
+          "profitRatio": 13.6,
+          "grossMargin": 59.68,
+          "rank": 3
+        },
+        {
+          "name": "中部",
+          "income": 19403000000.0,
+          "incomeRatio": 9.14,
+          "cost": 10026000000.0,
+          "costRatio": 8.02,
+          "profit": 9377000000.0,
+          "profitRatio": 10.75,
+          "grossMargin": 48.33,
+          "rank": 4
+        },
+        {
+          "name": "西部",
+          "income": 14966000000.0,
+          "incomeRatio": 7.05,
+          "cost": 7854000000.0,
+          "costRatio": 6.28,
+          "profit": 7112000000.0,
+          "profitRatio": 8.16,
+          "grossMargin": 47.52,
+          "rank": 5
+        },
+        {
+          "name": "江苏",
+          "income": 11413000000.0,
+          "incomeRatio": 5.38,
+          "cost": 4884000000.0,
+          "costRatio": 3.91,
+          "profit": 6529000000.0,
+          "profitRatio": 7.49,
+          "grossMargin": 57.21,
+          "rank": 6
+        },
+        {
+          "name": "浙江",
+          "income": 11354000000.0,
+          "incomeRatio": 5.35,
+          "cost": 6904000000.0,
+          "costRatio": 5.52,
+          "profit": 4450000000.0,
+          "profitRatio": 5.1,
+          "grossMargin": 39.19,
+          "rank": 7
+        },
+        {
+          "name": "广东",
+          "income": 10523000000.0,
+          "incomeRatio": 4.96,
+          "cost": 12244000000.0,
+          "costRatio": 9.79,
+          "profit": -1721000000.0,
+          "profitRatio": -1.97,
+          "grossMargin": -16.35,
+          "rank": 8
+        },
+        {
+          "name": "上海",
+          "income": 7535000000.0,
+          "incomeRatio": 3.55,
+          "cost": 5479000000.0,
+          "costRatio": 4.38,
+          "profit": 2056000000.0,
+          "profitRatio": 2.36,
+          "grossMargin": 27.29,
+          "rank": 9
+        },
+        {
+          "name": "北京",
+          "income": 7321000000.0,
+          "incomeRatio": 3.45,
+          "cost": 3899000000.0,
+          "costRatio": 3.12,
+          "profit": 3422000000.0,
+          "profitRatio": 3.92,
+          "grossMargin": 46.74,
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "reportDate": "2023-12-31",
+      "byIndustry": [],
+      "byProduct": [
+        {
+          "name": "发放贷款和垫款",
+          "income": 236281000000.0,
+          "incomeRatio": 61.82,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "债券及其他投资",
+          "income": 81450000000.0,
+          "incomeRatio": 21.31,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "拆出资金",
+          "income": 13592000000.0,
+          "incomeRatio": 3.56,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "银行卡手续费",
+          "income": 11808000000.0,
+          "incomeRatio": 3.09,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "代理业务手续费",
+          "income": 5831000000.0,
+          "incomeRatio": 1.53,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "存放中央银行款项",
+          "income": 5795000000.0,
+          "incomeRatio": 1.52,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "咨询顾问手续费",
+          "income": 5256000000.0,
+          "incomeRatio": 1.38,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "融资租赁",
+          "income": 4976000000.0,
+          "incomeRatio": 1.3,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "买入返售金融资产",
+          "income": 3781000000.0,
+          "incomeRatio": 0.99,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "托管业务手续费",
+          "income": 3549000000.0,
+          "incomeRatio": 0.93,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "存放同业及其他金融机构款项",
+          "income": 3023000000.0,
+          "incomeRatio": 0.79,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        },
+        {
+          "name": "支付结算手续费",
+          "income": 2914000000.0,
+          "incomeRatio": 0.76,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 12
+        },
+        {
+          "name": "其他手续费及佣金",
+          "income": 1405000000.0,
+          "incomeRatio": 0.37,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 13
+        },
+        {
+          "name": "担保承诺手续费",
+          "income": 1210000000.0,
+          "incomeRatio": 0.32,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 14
+        },
+        {
+          "name": "交易业务手续费",
+          "income": 484000000.0,
+          "incomeRatio": 0.13,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 15
+        },
+        {
+          "name": "信托业务手续费",
+          "income": 370000000.0,
+          "incomeRatio": 0.1,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 16
+        },
+        {
+          "name": "租赁业务手续费",
+          "income": 292000000.0,
+          "incomeRatio": 0.08,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 17
+        },
+        {
+          "name": "其他",
+          "income": 181000000.0,
+          "incomeRatio": 0.05,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 18
+        },
+        {
+          "name": "其中:对公贷款和垫款",
+          "income": 123858000000.0,
+          "incomeRatio": 32.41,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 20
+        },
+        {
+          "name": "其中:个人贷款和垫款",
+          "income": 108370000000.0,
+          "incomeRatio": 28.35,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 21
+        },
+        {
+          "name": "其中:贴现",
+          "income": 4053000000.0,
+          "incomeRatio": 1.06,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 22
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "总行",
+          "income": 81137000000.0,
+          "incomeRatio": 38.48,
+          "cost": 42973000000.0,
+          "costRatio": 33.92,
+          "profit": 38164000000.0,
+          "profitRatio": 45.36,
+          "grossMargin": 47.04,
+          "rank": 1
+        },
+        {
+          "name": "福建",
+          "income": 30359000000.0,
+          "incomeRatio": 14.4,
+          "cost": 20449000000.0,
+          "costRatio": 16.14,
+          "profit": 9910000000.0,
+          "profitRatio": 11.78,
+          "grossMargin": 32.64,
+          "rank": 2
+        },
+        {
+          "name": "东北部及其他",
+          "income": 19023000000.0,
+          "incomeRatio": 9.02,
+          "cost": 8711000000.0,
+          "costRatio": 6.88,
+          "profit": 10312000000.0,
+          "profitRatio": 12.26,
+          "grossMargin": 54.21,
+          "rank": 3
+        },
+        {
+          "name": "中部",
+          "income": 18926000000.0,
+          "incomeRatio": 8.98,
+          "cost": 12567000000.0,
+          "costRatio": 9.92,
+          "profit": 6359000000.0,
+          "profitRatio": 7.56,
+          "grossMargin": 33.6,
+          "rank": 4
+        },
+        {
+          "name": "西部",
+          "income": 14062000000.0,
+          "incomeRatio": 6.67,
+          "cost": 14196000000.0,
+          "costRatio": 11.21,
+          "profit": -134000000.0,
+          "profitRatio": -0.16,
+          "grossMargin": -0.95,
+          "rank": 5
+        },
+        {
+          "name": "江苏",
+          "income": 12390000000.0,
+          "incomeRatio": 5.88,
+          "cost": 5943000000.0,
+          "costRatio": 4.69,
+          "profit": 6447000000.0,
+          "profitRatio": 7.66,
+          "grossMargin": 52.03,
+          "rank": 6
+        },
+        {
+          "name": "浙江",
+          "income": 10580000000.0,
+          "incomeRatio": 5.02,
+          "cost": 5133000000.0,
+          "costRatio": 4.05,
+          "profit": 5447000000.0,
+          "profitRatio": 6.47,
+          "grossMargin": 51.48,
+          "rank": 7
+        },
+        {
+          "name": "广东",
+          "income": 10350000000.0,
+          "incomeRatio": 4.91,
+          "cost": 7123000000.0,
+          "costRatio": 5.62,
+          "profit": 3227000000.0,
+          "profitRatio": 3.84,
+          "grossMargin": 31.18,
+          "rank": 8
+        },
+        {
+          "name": "上海",
+          "income": 7839000000.0,
+          "incomeRatio": 3.72,
+          "cost": 4742000000.0,
+          "costRatio": 3.74,
+          "profit": 3097000000.0,
+          "profitRatio": 3.68,
+          "grossMargin": 39.51,
+          "rank": 9
+        },
+        {
+          "name": "北京",
+          "income": 6165000000.0,
+          "incomeRatio": 2.92,
+          "cost": 4854000000.0,
+          "costRatio": 3.83,
+          "profit": 1311000000.0,
+          "profitRatio": 1.56,
+          "grossMargin": 21.27,
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "reportDate": "2022-12-31",
+      "byIndustry": [],
+      "byProduct": [
+        {
+          "name": "发放贷款和垫款",
+          "income": 225468000000.0,
+          "incomeRatio": 59.61,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "债券及其他投资",
+          "income": 76258000000.0,
+          "incomeRatio": 20.16,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "咨询顾问手续费",
+          "income": 19454000000.0,
+          "incomeRatio": 5.14,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "银行卡手续费",
+          "income": 13384000000.0,
+          "incomeRatio": 3.54,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "拆出资金",
+          "income": 10761000000.0,
+          "incomeRatio": 2.85,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "存放中央银行款项",
+          "income": 5656000000.0,
+          "incomeRatio": 1.5,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "代理业务手续费",
+          "income": 5258000000.0,
+          "incomeRatio": 1.39,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "融资租赁",
+          "income": 5034000000.0,
+          "incomeRatio": 1.33,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "买入返售金融资产",
+          "income": 3971000000.0,
+          "incomeRatio": 1.05,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "托管业务手续费",
+          "income": 3551000000.0,
+          "incomeRatio": 0.94,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "支付结算手续费",
+          "income": 2775000000.0,
+          "incomeRatio": 0.73,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        },
+        {
+          "name": "其他手续费及佣金",
+          "income": 2077000000.0,
+          "incomeRatio": 0.55,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 12
+        },
+        {
+          "name": "存放同业及其他金融机构款项",
+          "income": 1426000000.0,
+          "incomeRatio": 0.38,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 13
+        },
+        {
+          "name": "担保承诺手续费",
+          "income": 1408000000.0,
+          "incomeRatio": 0.37,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 14
+        },
+        {
+          "name": "交易业务手续费",
+          "income": 570000000.0,
+          "incomeRatio": 0.15,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 15
+        },
+        {
+          "name": "信托业务手续费",
+          "income": 564000000.0,
+          "incomeRatio": 0.15,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 16
+        },
+        {
+          "name": "租赁业务手续费",
+          "income": 421000000.0,
+          "incomeRatio": 0.11,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 17
+        },
+        {
+          "name": "其他",
+          "income": 172000000.0,
+          "incomeRatio": 0.05,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 18
+        },
+        {
+          "name": "其中:个人贷款和垫款",
+          "income": 116311000000.0,
+          "incomeRatio": 30.75,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 20
+        },
+        {
+          "name": "其中:对公贷款和垫款",
+          "income": 103084000000.0,
+          "incomeRatio": 27.26,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 21
+        },
+        {
+          "name": "其中:贴现",
+          "income": 6073000000.0,
+          "incomeRatio": 1.61,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 22
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "总行",
+          "income": 93717000000.0,
+          "incomeRatio": 42.14,
+          "cost": 54588000000.0,
+          "costRatio": 46.97,
+          "profit": 39129000000.0,
+          "profitRatio": 36.86,
+          "grossMargin": 41.75,
+          "rank": 1
+        },
+        {
+          "name": "福建",
+          "income": 29760000000.0,
+          "incomeRatio": 13.38,
+          "cost": 17066000000.0,
+          "costRatio": 14.69,
+          "profit": 12694000000.0,
+          "profitRatio": 11.96,
+          "grossMargin": 42.65,
+          "rank": 2
+        },
+        {
+          "name": "中部",
+          "income": 19382000000.0,
+          "incomeRatio": 8.72,
+          "cost": 7822000000.0,
+          "costRatio": 6.73,
+          "profit": 11560000000.0,
+          "profitRatio": 10.89,
+          "grossMargin": 59.64,
+          "rank": 3
+        },
+        {
+          "name": "东北部及其他",
+          "income": 19363000000.0,
+          "incomeRatio": 8.71,
+          "cost": 7564000000.0,
+          "costRatio": 6.51,
+          "profit": 11799000000.0,
+          "profitRatio": 11.11,
+          "grossMargin": 60.94,
+          "rank": 4
+        },
+        {
+          "name": "西部",
+          "income": 13909000000.0,
+          "incomeRatio": 6.25,
+          "cost": 6685000000.0,
+          "costRatio": 5.75,
+          "profit": 7224000000.0,
+          "profitRatio": 6.8,
+          "grossMargin": 51.94,
+          "rank": 5
+        },
+        {
+          "name": "江苏",
+          "income": 11818000000.0,
+          "incomeRatio": 5.31,
+          "cost": 4301000000.0,
+          "costRatio": 3.7,
+          "profit": 7517000000.0,
+          "profitRatio": 7.08,
+          "grossMargin": 63.61,
+          "rank": 6
+        },
+        {
+          "name": "广东",
+          "income": 10539000000.0,
+          "incomeRatio": 4.74,
+          "cost": 7730000000.0,
+          "costRatio": 6.65,
+          "profit": 2809000000.0,
+          "profitRatio": 2.65,
+          "grossMargin": 26.65,
+          "rank": 7
+        },
+        {
+          "name": "浙江",
+          "income": 10158000000.0,
+          "incomeRatio": 4.57,
+          "cost": 4178000000.0,
+          "costRatio": 3.6,
+          "profit": 5980000000.0,
+          "profitRatio": 5.63,
+          "grossMargin": 58.87,
+          "rank": 8
+        },
+        {
+          "name": "上海",
+          "income": 7275000000.0,
+          "incomeRatio": 3.27,
+          "cost": 3551000000.0,
+          "costRatio": 3.06,
+          "profit": 3724000000.0,
+          "profitRatio": 3.51,
+          "grossMargin": 51.19,
+          "rank": 9
+        },
+        {
+          "name": "北京",
+          "income": 6453000000.0,
+          "incomeRatio": 2.9,
+          "cost": 2727000000.0,
+          "costRatio": 2.35,
+          "profit": 3726000000.0,
+          "profitRatio": 3.51,
+          "grossMargin": 57.74,
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "reportDate": "2021-12-31",
+      "byIndustry": [],
+      "byProduct": [
+        {
+          "name": "发放贷款和垫款",
+          "income": 211807000000.0,
+          "incomeRatio": 58.39,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "债券及其他投资",
+          "income": 79370000000.0,
+          "incomeRatio": 21.88,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "咨询顾问手续费",
+          "income": 14668000000.0,
+          "incomeRatio": 4.04,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "银行卡手续费",
+          "income": 13182000000.0,
+          "incomeRatio": 3.63,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "拆出资金",
+          "income": 8722000000.0,
+          "incomeRatio": 2.4,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "代理业务手续费",
+          "income": 7153000000.0,
+          "incomeRatio": 1.97,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "存放中央银行款项",
+          "income": 5641000000.0,
+          "incomeRatio": 1.56,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "融资租赁",
+          "income": 5274000000.0,
+          "incomeRatio": 1.45,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "托管业务手续费",
+          "income": 3553000000.0,
+          "incomeRatio": 0.98,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "买入返售金融资产",
+          "income": 2475000000.0,
+          "incomeRatio": 0.68,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "其他手续费及佣金",
+          "income": 2305000000.0,
+          "incomeRatio": 0.64,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        },
+        {
+          "name": "支付结算手续费",
+          "income": 2268000000.0,
+          "incomeRatio": 0.63,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 12
+        },
+        {
+          "name": "存放同业及其他金融机构款项",
+          "income": 1762000000.0,
+          "incomeRatio": 0.49,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 13
+        },
+        {
+          "name": "担保承诺手续费",
+          "income": 1544000000.0,
+          "incomeRatio": 0.43,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 14
+        },
+        {
+          "name": "交易业务手续费",
+          "income": 1235000000.0,
+          "incomeRatio": 0.34,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 15
+        },
+        {
+          "name": "信托业务手续费",
+          "income": 1099000000.0,
+          "incomeRatio": 0.3,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 16
+        },
+        {
+          "name": "租赁业务手续费",
+          "income": 560000000.0,
+          "incomeRatio": 0.15,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 17
+        },
+        {
+          "name": "其他利息收入",
+          "income": 107000000.0,
+          "incomeRatio": 0.03,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 18
+        },
+        {
+          "name": "其中:个人贷款和垫款",
+          "income": 109891000000.0,
+          "incomeRatio": 30.3,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 20
+        },
+        {
+          "name": "其中:对公贷款和垫款",
+          "income": 96106000000.0,
+          "incomeRatio": 26.5,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 21
+        },
+        {
+          "name": "其中:贴现",
+          "income": 5810000000.0,
+          "incomeRatio": 1.6,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 22
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "总行",
+          "income": 94075000000.0,
+          "incomeRatio": 42.52,
+          "cost": 68960000000.0,
+          "costRatio": 54.71,
+          "profit": 25115000000.0,
+          "profitRatio": 26.38,
+          "grossMargin": 26.7,
+          "rank": 1
+        },
+        {
+          "name": "福建",
+          "income": 28320000000.0,
+          "incomeRatio": 12.8,
+          "cost": 14746000000.0,
+          "costRatio": 11.7,
+          "profit": 13574000000.0,
+          "profitRatio": 14.26,
+          "grossMargin": 47.93,
+          "rank": 2
+        },
+        {
+          "name": "中部",
+          "income": 19185000000.0,
+          "incomeRatio": 8.67,
+          "cost": 7380000000.0,
+          "costRatio": 5.86,
+          "profit": 11805000000.0,
+          "profitRatio": 12.4,
+          "grossMargin": 61.53,
+          "rank": 3
+        },
+        {
+          "name": "东北部及其他",
+          "income": 17963000000.0,
+          "incomeRatio": 8.12,
+          "cost": 6970000000.0,
+          "costRatio": 5.53,
+          "profit": 10993000000.0,
+          "profitRatio": 11.55,
+          "grossMargin": 61.2,
+          "rank": 4
+        },
+        {
+          "name": "西部",
+          "income": 14212000000.0,
+          "incomeRatio": 6.42,
+          "cost": 7172000000.0,
+          "costRatio": 5.69,
+          "profit": 7040000000.0,
+          "profitRatio": 7.4,
+          "grossMargin": 49.54,
+          "rank": 5
+        },
+        {
+          "name": "广东",
+          "income": 12615000000.0,
+          "incomeRatio": 5.7,
+          "cost": 6227000000.0,
+          "costRatio": 4.94,
+          "profit": 6388000000.0,
+          "profitRatio": 6.71,
+          "grossMargin": 50.64,
+          "rank": 6
+        },
+        {
+          "name": "江苏",
+          "income": 12338000000.0,
+          "incomeRatio": 5.58,
+          "cost": 5167000000.0,
+          "costRatio": 4.1,
+          "profit": 7171000000.0,
+          "profitRatio": 7.53,
+          "grossMargin": 58.12,
+          "rank": 7
+        },
+        {
+          "name": "浙江",
+          "income": 9188000000.0,
+          "incomeRatio": 4.15,
+          "cost": 4066000000.0,
+          "costRatio": 3.23,
+          "profit": 5122000000.0,
+          "profitRatio": 5.38,
+          "grossMargin": 55.75,
+          "rank": 8
+        },
+        {
+          "name": "上海",
+          "income": 6836000000.0,
+          "incomeRatio": 3.09,
+          "cost": 3142000000.0,
+          "costRatio": 2.49,
+          "profit": 3694000000.0,
+          "profitRatio": 3.88,
+          "grossMargin": 54.04,
+          "rank": 9
+        },
+        {
+          "name": "北京",
+          "income": 6504000000.0,
+          "incomeRatio": 2.94,
+          "cost": 2207000000.0,
+          "costRatio": 1.75,
+          "profit": 4297000000.0,
+          "profitRatio": 4.51,
+          "grossMargin": 66.07,
+          "rank": 10
+        }
+      ]
+    }
+  ],
+  "analysis": [
+    {
+      "reportDate": "2025-12-31",
+      "businessReview": "\"十四五\"时期,是我国全面建设社会主义现代化国家新征程的开局五年。以习近平同志为核心的党中央高瞻远瞩,提出\"加快建设金融强国\"战略目标,为新时代金融工作举旗定向。在党中央坚强领导下,我国金融体制改革全面深化,服务实体经济质效大幅提升,重点领域风险有序化解,金融业改革开放迈出重大步伐,经济由高速增长转向高质量发展。中央金融工作会议对做好金融\"五篇大文章\"做出重要部署,为银行业服务中国式现代化指明了方向。作为金融强国建设的坚定践行者,公司坚持以习近平新时代中国特色社会主义思想为指导,深学细悟习近平同志在闽工作期间关于金融工作的重要论述与实践,主动化\"国之大者\"为\"行之要务\",锚定\"一流银行、百年兴业\"愿景,以战略定力穿越周期,以改革创新破解难题,在砥砺奋进中绘就量质齐升的发展曲线,在新时代新征程上镌刻下坚实的兴业印记。治行方略领航定向。公司始终沿着\"从严治行、专家办行、科技兴行\"的治行方略笃定前行。这十二字,是习近平总书记在福建工作期间,亲自为公司擘画发展蓝图时所作的殷切嘱托,是兴业人代代传承的精神财富。公司始终坚持将党的领导融入公司治理各环节,将党建要求写入公司章程,确保党中央决策部署不折不扣落地生根。十二字治行方略与党的政治优势交相辉映,早已融入公司发展血脉,化为全体兴业人的行动自觉,成为公司行稳致远的根本依托。五年来,公司将治行方略深植于战略演进、经营管理、队伍建设、风险防控各领域,在走好中国特色金融发展之路的生动实践中结出累累硕果:唯有常怀敬畏之心、常思肩上之责,方能严守合规底线、筑牢风险防线,为公司穿越市场风浪筑牢根基。唯有淬炼专业精神、锤炼过硬本领,方能精准对接市场需求、提升服务质效,在激烈竞争中彰显特色优势。唯有保持创新锐气、紧跟时代步伐,方能抢占发展先机、赢得主动优势,为高质量发展注入不竭动能。客户显著增多。企金客户由93万户增至167万户,增幅近80%;零售客户由7,956万户增至1.15亿户,增幅44%;对境内主要行业的同业法人客户基本实现合作全覆盖。规模拾级而上。总资产由7.89万亿元接连跨过4个万亿元台阶,迈进11万亿元大关,稳居股份制商业银行第二位。贷款、存款双双实现近2万亿元增长。结构有所优化。贷款向产业聚焦,制造业贷款、绿色金融贷款、科技金融贷款增长分别超过1倍、2倍、3倍。存款全面发力,企金存款由3.31万亿元增至4.13万亿元,零售存款由0.73万亿元增至1.80万亿元,零售存款跃居股份制商业银行第二位,零售资产负债基本实现自平衡。表外业务保持领先,同业合作、债券承销、资产托管持续领跑市场,5家资管子公司资产管理规模合计3.65万亿元,多元收入格局更加稳固。效益保持领先。净息差由2.36%降至1.71%,降幅好于行业平均水平,利息净收入总体保持向上态势。同业与金融市场收入逐年上升,为稳住收入大盘做出突出贡献。营业收入、净利润稳居股份制商业银行前列。资本充足率、核心一级资本充足率均有所提高。市值稳步提升,稳妥实施中期分红,现金分红比例突破30%,五年分红总额达1,069亿元,以优异业绩回报广大投资者。质量维持稳健。不良贷款率由1.25%降至1.08%,拨备覆盖率由218.83%升至228.41%,资产质量总体稳定,持续优于行业平均水平。地位持续上升。按一级资本排名全球银行1000强,由第21位升至第14位,在全球银行体系中的影响力攀升。明晟ESG评级由A级跃升至AAA级,稳居全球同业前3%,负责任金融的品牌形象深入人心。成为全国第10家数字人民币指定运营机构。总行荣获\"全国五一劳动奖状\",兴业银行工会荣获\"全国三八红旗集体\"称号,连续四年获评\"服务福建五星银行机构\",社会认可度持续提升。五年砥砺奋进,公司在走好中国特色金融发展之路的生动实践中,对新时代办好商业银行有了更深体悟,凝练出八个方面的经验:坚持将党的领导和建设作为根与魂。五年来,公司深刻领悟到,党的领导是事业发展的根本保证,坚持深学细悟习近平新时代中国特色社会主义思想,循迹溯源习近平同志在闽金融论述与实践,自觉以高质量党建引领高质量发展,主动化\"国之大者\"为\"行之要务\",切实将从严治行落到实处,从而能够更好把握发展大势、掌握科学方法、凝聚队伍力量,始终沿着正确的道路前行。坚持将稳中求进作为工作总基调。五年来,公司深刻领悟到,稳中求进是做好经济工作的方法论,坚持一切从实际出发,先立后破、以进促稳,锻长板、补短板、固底板并举,巩固基本盘、布局新赛道同行,既坚持一张蓝图绘到底、保持兴业银行的特色优势,又不断探索新发展模式、开拓新发展空间。坚持将高质量发展作为首要任务。五年来,公司深刻领悟到,高质量发展是解决一切问题的基础和关键,坚持企金挺进主战场、零售打造压舱石、同业守好护城河、子公司成为生力军、重点区域分行挑大梁,号召全行在市场奋勇争先,做难而正确的事,更加清晰认识到兴业银行的方位和方向,越来越有全国系统重要性银行的地位和担当。坚持将数智化转型作为生死存亡之战。五年来,公司深刻领悟到,数字化、智能化成为影响银行业发展模式的关键变量,坚持科技兴行方略,实施科技体制改革,加大科技资源投入,强化科技人才培养,按照企业级理念、标准化方法推进一系列重大科技工程项目,在较短时间内改变了科技工作面貌,逐步进入数字化转型收获期,开启智能化转型新征程。坚持将防范风险作为永恒主题。五年来,公司深刻领悟到,风险管理水平决定银行能够走多远,坚持统筹发展和安全,持续加大存量风险化解和特殊资产清收,全面加强传统风险和新型风险防范,实施风险管理体制改革,打牢风险合规内控基础,努力管好人、看住钱、扎牢制度防火墙,实现了风险总体可控、逐步收敛,做到了行稳致远。坚持将改革创新作为根本动力。五年来,公司深刻领悟到,兴业银行因改革而生、因创新而兴,坚持向改革要动力、向创新要活力,陆续实施科技、零售、企金、福建区域、党建纪检、行政后勤、风险管理等领域改革,大力弘扬敢为人先、爱拼会赢的精神文化,搭建起支撑高质量发展的\"四梁八柱\",有效破解发展中遇到的难题。坚持将福建作为根之所在。五年来,公司深刻领悟到,根深方能叶茂,坚持把根扎在八闽大地,在福建开展多轮大调研,在总行设立福建管理部,要求福建省内分行\"挺进前三、勇争第一\",推动全集团加大对新福建建设的服务力度,省内各项融资余额由1.4万亿元增至2.1万亿元,在省内纳税864坚持将人才作为第一资源。五年来,公司深刻领悟到,事业发展关键在人,坚持聚天下英才而用之,为兴业人成才成长营造良好环境,设立金融科技研究院、碳金融研究院、东南亚研究院,推进科技人才万人计划、绿色金融人才万人计划、财富管理人才万人计划、国际化人才培育计划,建立鸿鹄、鲲鹏、鸿雁人才库,搭建\"兴飞跃\"\"兴火o燎原\"等竞赛平台,推出突出贡献奖、兴业工匠、青年科技能手等奖项荣誉,锻造出规模更大的人才队伍,有效激发队伍活力。亿元,以实际行动诠释\"金融为民\"的使命担当。回首\"十四五\",风雨中磨砺意志,变局中开辟新局,公司以实干笃行交出了一份成色很足的答卷。这五年积淀的宝贵经验,是全体兴业人共同的财富;这支淬炼而成的战斗队伍,是公司面向未来最大的底气。征途如虹,重任在肩。公司将以更加坚定的信心、更加昂扬的斗志,在\"十五五\"新征程上实现新的跨越发展。",
+      "futureExpect": "行业格局和趋势2026年是国家“十五五”规划开局之年。从国际看,外部环境更趋复杂、严峻。美国大选后的政策外溢效应逐步显现,贸易保护主义、地缘政治紧张、财政脆弱性加剧等因素仍对全球经济构成下行压力,可能加剧全球金融市场波动。从国内看,党的二十届四中全会为“十五五”时期我国发展擘画宏伟蓝图,中央经济工作会议对2026年经济工作作出系统部署。展望2026年,我国将坚持稳中求进工作总基调,实施更加积极有为的宏观政策,增强政策前瞻性针对性协同性,持续扩大内需、优化供给,做优增量、盘活存量,因地制宜发展新质生产力,纵深推进全国统一大市场建设,持续防范化解重点领域风险,着力稳就业、稳企业、稳市场、稳预期,推动经济实现质的有效提升和量的合理增长,实现“十五五”良好开局。我国银行业机遇和挑战并存。机遇方面,科技与产业、消费与投资、城乡与区域发展潜能加速释放,为银行业带来广阔空间。国家坚持智能化、绿色化、融合化方向,推动重点产业提质升级,大力培育壮大新兴产业和未来产业,深入开展“人工智能+”行动,科技金融、普惠金融、数字金融等领域迎来新发展机遇。提振消费专项行动、城乡居民增收计划、服务消费潜力释放及银发经济发展,带动支付结算、财富管理、养老金融和普惠信贷需求稳步增长。“两重”“两新”政策、城市更新和新型城市化建设,为银行业在基础设施、公共服务、产业配套等领域深化综合金融服务提供机遇。高水平对外开放稳步扩大,自由贸易试验区和海南自由贸易港建设、“一带一路”高质量共建,为银行业在跨境结算、跨境融资和全球现金管理等领域带来新增长点。同时,以大模型、自动化和智能技术为代表的新一轮科技变革加速落地,为银行业降本增效、创新商业模式提供重要支撑。挑战方面,息差压力与新型风险交织。在适度宽松的货币政策引导下,市场利率中枢下行,贷款收益率持续降低,净息差收窄趋势虽放缓但难逆转,银行业盈利能力持续承压。房地产领域供需调整具有长期性,部分行业在新旧动能转换过程中出现的经营困难可能向信贷资产传导,重点领域风险防控仍然任重道远。此外,大模型与人工智能的深度应用,使模型幻觉、算法歧视、数据隐私保护及网络安全攻击等新型风险日益突出,对银行科技治理能力与全面风险管理体系提出更高要求。公司发展战略“十五五”时期,公司将全面贯彻习近平新时代中国特色社会主义思想,深入贯彻党的二十大和二十届历次全会精神,深刻把握金融工作的政治性、人民性,主动化“国之大者”为“行之要务”,实施好新一轮发展战略规划,坚持以数智化、绿色化、国际化、综合化、生态化为引领,围绕现代化产业体系建设深耕产业金融,持续擦亮科技金融、绿色金融、财富银行、投资银行“四张名片”,全面建设一流价值银行,为建设金融强国贡献更大兴业力量,在中国式现代化建设中展现更强兴业担当。“五化”是公司的战略方向。其中,数智化是驱动经营转型的根本引擎,绿色化是引领经营发展的价值底色,国际化是支撑跨境发展的必然要求,综合化是提升客户价值的核心抓手,生态化是升级服务水平的高阶形态。产业金融是公司的战略重点。公司将围绕国家现代化产业体系建设,以产业为轴心,连接政府(G端)、企业(B端)、个人(C端)与金融机构(F端)全链路,全维度发力、一体化推进,强化综合金融服务,带动全行转型发展。“四张名片”是公司的战略特色。公司推动核心优势从“三张名片”向科技金融、绿色金融、财富银行、投资银行“四张名片”扩容升级,做精特色业务、做强核心能力,以“四张名片”特色优势构建做好金融“五篇大文章”的核心竞争力。“价值银行”是公司的战略目标。公司将在为客户创造价值过程中为自身、为股东创造更多价值,实现经济效益、社会效益、环境效益的有机统一,最终建设具备盈利能力强、客户合作深、风险成本低、业务结构均衡、经营特色鲜明“五大特征”的一流价值银行。公司发展策略公司将统筹落实党的二十届四中全会和中央经济工作会议精神,抓好“十五五”发展和开局之年工作,坚持“稳中求进、提质增效”,把握好“稳、进、质、效”四个要点,以深耕产业金融、打造智能银行为主线,推动价值银行建设迈出新步伐。以产业金融为核心主体,焕新发展动能。坚持紧跟政策、综合经营、扬长补短、绿色发展,重点强化研究赋能、风险赋能、科技赋能、协同赋能,加快形成模式打法,构建总行引领、分行主战,跨部门、跨条线、跨子公司协同的产业金融发展格局。以“商行+投行”为重要抓手,增强服务能力。坚持产业导向,深耕织网工程,夯实支付结算基础;优化资产布局,提升资产构建能力,做深做实“五篇大文章”。进一步打通资产构建、产品创设、财富销售三个环节,培育“大投行”生态格局。通过商行与投行二者协同发力,为产业金融提供稳固支撑,推动资产负债结构升级。以“资管+财富”为有效支撑,打通价值枢纽。积极承接产业金融的融资需求与零售客户的财富需求,完善销售渠道体系、产品布局体系、配套支持体系,做大集团资管与财富管理规模,推动形成稳定中收增长来源。坚持从严治行、专家办行、科技兴行。巩固风险管理体制改革成效,有效防控重点领域风险,严守合规内控底线。深化精细化管理,推动队伍建设更专、考评体系更优、资源配置效率更高、资本管理能力更强。围绕数智化第一战略,抓好IT架构管理、数据治理、网络安全等基础工作,做好数字化运营,发展数字人民币,加快智能化进程,打造“一流智能银行”。公司经营计划及展望2026年,在“更加积极的财政政策”和“适度宽松的货币政策”协同框架下,宏观政策将发挥存量政策和增量政策集成效应,加大逆周期和跨周期调节力度,为商业银行高质量发展创造广阔空间。公司将积极把握政策机遇,深入贯彻落实国家各项决策部署和金融监管要求,统筹发展与安全,保持战略定力,坚持稳中求进总基调,以数智化、绿色化、国际化、综合化、生态化为引领,锚定国家战略,推动“五大新赛道”与金融“五篇大文章”深度融合,持续擦亮科技金融、绿色金融、财富银行、投资银行四张名片,深化轻型银行与业务结构优化,有效提高公司穿越低利率周期的经营能力。资产负债及利息净收入展望2026年,我国将实施更加积极有为的宏观政策,持续扩大内需、优化供给,金融监管层面持续加强对银行负债利率管理、资产结构优化的引导,这将为公司稳健经营创造良好环境,为资产负债组合优化、利息净收入增长创造有利机遇。同时也要看到,国际形势更趋复杂多变,国内结构性矛盾仍然存在,商业银行面临有效信贷需求不足、存款波动增加等挑战。在此形势下,公司将积极转化外部有利因素,深入挖掘实体经济有效需求,持之以恒推进价值银行建设,推动总量平衡、结构优化、质量提升,力争净息差走势跑赢大市,推动净利息收入稳健增长。资产端,公司坚持以可持续、高质量增长为目标,与国家“十五五”规划同频共振,将国家战略导向转化为具体的业务布局、资源配置和经营目标,有效落实国家信贷政策和自身转型发展要求。对公方面,充分发挥“商行+投行”“区域+行业”优势,围绕金融“五篇大文章”,做实做细产业研究、行业研究、区域研究,提高资产布局的前瞻性和科学性,加快构建产业金融服务体系,精准响应实体经济有效融资需求。零售方面,更加注重客群质量、资产收益与风险平衡,聚焦扩大内需、促进消费、服务新市民、支持小微企业等重点场景,在产品设计、流程管控、模型策略等方面持续精进,增强零售信贷综合实力。负债端,牢固树立负债立行意识,以夯基础、优结构发展为导向,在保持负债规模稳定、流动性安全的前提下,实现负债结构优化、成本改善。一是深化织网工程建设,加强场景生态建设,构建完善“金融+非金融”综合服务引擎,提升服务能力、增强客户粘性、拓展合作深度,拓宽低成本结算性资金来源。二是严格落实市场利率定价自律机制要求,加强存款定价精细化管理,做好存量长期限存款到期承接。三是加强金融市场负债统筹管理,合理运用多元化融资工具,灵活吸收市场化资金,择机推动金融债券发行,合理补充中长期资金。中间业务及手续费佣金净收入展望2026年,公司将坚持立足客户金融服务需求,持续推进“大投行、大资管、大财富”融合发展,加快金融生态圈建设,完善数字化服务运营能力,推动手续费佣金净收入增长保持在合意水平。财富银行方面,建体系、搭工具、定标准、强支撑,深化数据要素价值转化,强化财富领域智能驱动,由点及面绘制财富经营数据驱动体系化全景图,构建“数据决策-精准触达-反馈迭代-效能提升”的重点客群经营闭环。积极拥抱权益市场,构建含权产品金字塔型梯度,妥善应对市场波动,从策略多样性、资产低波化角度优选产品,切实提升客户获得感,实现与客户的互利共赢。投资银行方面,持续提升投行资产分销与流转能力,深化投行朋友圈建设,加强集团母子和总分联动,构建一体化销售联动体系。聚焦客户深层次诉求,为客户提供全周期、定制化专业顾问服务,以成为客户综合服务商为目标,实现“为资金找项目、为项目找资金”核心投顾功能,提高商机挖掘和资产构建能力。托管业务方面,坚持同业生态构建,继续强化协同,不断深化客群合作,持续扩大同业朋友圈合作能级。实现科技赋能突破,打磨提升托管AI能力,完善托管数字化风控体系,锻造托管业务核心竞争力。企金结算方面,围绕产品打磨、流程优化、体验提升,持续扩大客群覆盖与业务规模;充分用好代理行网络布局,拓展出海行业客户的转开保函、代开国际信用证等业务;优化渠道体验,为客户提供外汇管理、汇率避险、融资成本优化、存款收益提升等一揽子金融服务。持续迭代信用证、保函、保理等产品功能,依托科技赋能进一步推动供应链业务增长,切实提升对上下游客户的服务质效;聚焦企业“收-付-管-控”全链路需求,强化财资管理、企金收单、资金监管等产品行业化、场景化服务能力,以现金管理业务拓面提质,助推实现客户价值升级;锚定“打造好用、易用的一站式企业金融服务平台”核心目标,“兴业管家”聚焦功能体验提升、客户服务优化、平台运营强化、评价体系构建四个方向系统推进,强化渠道运营,提升客户合作粘性。资金业务方面,全面推动FICC业务体系化,优化收入结构,减少内生资本依赖,降低市场波动影响,提升综合价值贡献;跨境FICC方面,提升对客服务质量,加大服务实体力度,拓展海外及跨境业务,围绕企业出海,提升跨境服务能力,增加跨境金融服务;财富FICC方面,加大产品端创新及服务模式创新布局,重点推动积存金、柜台债等核心业务;债券FICC方面,持续打造独具兴业特色的境内外“交易生态圈”,紧跟市场创新发展,拓展跨境交易客户,积极参与要素市场业务创新。银行卡业务方面,重点围绕“文旅经济”发展脉搏与“提振消费”政策导向,构建覆盖“衣食住行游娱购”高频生活场景的服务矩阵;依托快捷支付、收单发展客户的主结算账户,以场景生态赋能业务提质增效;外汇便利化服务方面,结合产业金融重点方向,进一步拓展跨境代发批量获客行业覆盖率与多渠道结算模式,持续提升企业及员工跨境金融服务体验;加快信用卡产品体系建设,打造获客、活客及留客经营闭环,加强存量客户经营,聚焦“场景生态”与“精准运营”双主线,推动交易结构持续优化。资产质量展望2026年,公司将牢固树立底线思维,巩固风险管理体制机制改革成效,压实风险防控全流程职责。做好前瞻性预判,加强区域、行业、客户集中度管理;提升授信全流程精细化管理水平,做实全集团投融资资产质量管控;持续完善重点分行、重大风险项目总行行领导挂钩督导及敏捷小组工作机制,继续用好政策工具,推动重点领域风险化解处置。房地产方面,2025年底召开的中央经济工作会议强调着力稳定房地产市场并做出重要部署,为促进房地产市场平稳健康发展、防范化解系统性风险提供了方向指引。公司坚决执行中央关于房地产工作部署:一方面,顺应国家政策导向与市场形势变化,把握城乡建设和住房领域改革带来的新机遇,聚焦优质区域,推动房地产细分业态均衡发展,助力“好房子”建设,稳健推进住房租赁、产业园区业务、城市更新等业务;另一方面,坚持行领导挂钩和敏捷小组工作机制,积极应用“金融十六条”、城市房地产融资协调机制、经营性物业贷款、“白名单”接续贷款等政策,多措并举推动项目价值盘活,依托房地产行业止跌回稳的有利契机,稳妥推动业务风险出清。地方政府融资平台方面,公司将继续坚持合规和市场化原则,将新增业务转型发展和存量风险化解有机结合。一方面,坚持市场化、法治化原则推动新增业务转型发展,把握积极财政政策机遇,发挥“商行+投行”专业优势,大力支持具有市场化运作模式、具备持续经营收益的融资平台或转型后主体,服务区域经济高质量发展,并巩固银政关系,为各类机构业务营造更好环境。另一方面,继续保持存量业务风险管控高压态势,持续完善总行行领导挂钩督导与敏捷小组联动协同工作机制,把握中央加大化债支持力度机遇,全力争取专项债置换等化债资源,用好用足化债政策,支持地方债务风险化解,并维护自身合法权益,保障融资平台业务有序清零。信用卡方面,公司将深化总分行“双轮驱动”体系。一方面,以客户为中心,重塑客户结构、产品结构、资产结构,推动信用卡业务进一步转变发展模式,提升发展质量。另一方面,完善全流程风险管控体系,迭代风控模型,提升新增授信质量,强化贷中精细化管理及贷后催收,持续压降新发生不良。零售贷款方面,公司将积极践行“金融为民”理念,坚持突出重点稳增长总基调,聚焦重点领域全力推进高质量发展。一方面,围绕产业创新、科技金融、扩内需促消费等政策导向,聚焦真实场景与优质客群,从客户服务、客户经营、产品设计、风险管理等全方位寻求突破,提升资产构建的核心能力,探索可持续的业务发展模式。另一方面,稳步推进风控能力建设,强化重点产品风险管控,做实全流程风险监测,并加快风险化解处置,提升风险预警及催收管理质效,促进资产质量平稳运行。"
+    },
+    {
+      "reportDate": "2024-12-31",
+      "businessReview": "近三年来看,公司主动化“国之大者”为“行之要务”,敏锐预判“地产-基建-金融”旧三角循环向“科技-产业-金融”新三角循环转变的大趋势,较早提出布局科技金融、普惠金融、能源金融、汽车金融、园区金融“五大新赛道”,与2022年中央经济工作会议要求的推动“科技-产业-金融”良性循环、2023年中央金融工作会议要求的做好金融“五篇大文章”高度一致。在明确的战略引领下,公司下好先手棋,打好主动战,积极应对内外部挑战保持经营管理韧性,加快布局“五篇大文章”建立重点领域先发优势,推进高质量发展。表现为“三个稳定,三个优化”。一是规模增长保持稳定。2024年末,公司总资产站稳10万亿元台阶,达到10.51万亿元。过去三年,公司总资产接连跨过8万亿元、9万亿元、10万亿元三个台阶,较2021年末增长22.14%,年化增长率为6.89%。其中,贷款规模、存款规模双双突破5万亿元大关,分别为5.74万亿元、5.53万亿元,较2021年末增长29.55%、28.33%。客户数量稳定增长,企金客户数突破150万户,零售客户达到1.10亿户,分别较2021年末增长41.86%和39.06%。二是经营效益保持稳定。2024年,公司实现营业收入2,122.26亿元,同比增长0.66%,增速由负转正。其中,实现利息净收入1,481.07亿元,较2021年增长1.67%,主要得益于生息资产增长和净息差降幅管控;实现其他非息净收入400.23亿元,较2021年增长21.74%,占营收比重较2021年提升4个百分点至18.86%,主要得益于发挥金融市场优势,提升投资收益贡献。三是资产质量保持稳定。2024年末,集团不良贷款率为1.07%,较2021年下降0.03个百分点,资产质量总体保持稳定。2024年计提减值损失601.89亿元,较2021年下降10.18%,拨备覆盖率237.78%,保持较好水平。加大账销案存清收力度,全年账销案存清收144.71亿元,较2021年提升14.44%。四是资产结构持续优化。2024年末,集团贷款在总资产中的占比较2021年末上升3.12个百分点至54.59%。其中,制造业贷款占总贷款比重较2021年末提升3.90个百分点至13.20%,继续保持股份制商业银行前列水平。“五篇大文章”中的科技金融、绿色金融、普惠金融贷款占总贷款比重分别提升至16.89%、16.87%、9.69%。2024年末零售贷款余额1.99万亿元,较2021年末增长5.91%。五是负债结构持续优化。2024年末,集团存款在总负债中的占比较2021年末上升3.03个百分点至57.54%。存款付息率较2021年度下降24个基点,降至同业中位数水平。其中,零售存款规模较2021年末增加0.77万亿元至1.57万亿元,占总存款比重较2021年末提升9.88个百分点至28.35%,规模提升至股份制商业银行第二位,零售存款付息率较2021年度下降14个基点。企金存款规模增加0.45万亿元至3.96万亿元,付息率较2021年度下降29个基点。六是特色业务持续优化。持续擦亮绿色银行、财富银行、投资银行三张名片,加快数字化转型。2024年末,集团绿色金融融资余额由2021年末的1.39万亿元增长至2.19万亿元,增幅58.18%,年复合增长率16.52%,其中,降碳领域融资余额增长94.51%,年复合增长率24.83%。零售AUM(含三方存管市值)由3.58万亿元增长至5.11万亿元,增幅42.74%,年复合增长率12.59%;理财规模由1.79万亿元增长至2.18万亿元,增幅21.95%,年复合增长率6.84%。大投行FPA规模由2021年末的3.73万亿元增长至4.53万亿元,增幅21.45%,年复合增长率6.69%。三年来,集团科技投入占营收比重提升1.07个百分点至3.95%。构建“1+5+N”数字兴业服务体系,手机银行月活跃用户数(MAU)增长70.43%;兴业普惠认证用户数由3,005户增长至73,994户,自平台运营以来累计解决融资需求3,955.02亿元;兴业管家客户数增长58.72%;钱大掌柜注册用户数增长66.41%;兴业生活月均MAU增长58.02%;银银平台机构销售保有规模从435亿元增加到6,679.94亿元,增长1,435.62%。",
+      "futureExpect": "3.4.1行业格局和趋势2025年是“十四五”规划收官之年。银行业将全面贯彻落实党的二十大和二十届二中、三中全会精神,按照中央经济工作会议、中央金融工作会议等有关部署,锚定“金融强国”目标,积极应对内外部形势变化,抢抓发展机遇,应对各类挑战,努力实现高质量发展。从国际看,全球经济抵御住了一系列政治、经济、战争事件的叠加冲击,但是,受投资疲软、生产率增长乏力和债务高企等因素影响,全球经济增长率仍低于此前平均水平,低速增长或将成为常态。美国大选尘埃落定,但其政策转向带来的不确定性影响或将加剧全球局势动荡。从国内看,外部环境变化带来的不利影响可能加深,但我国经济基础稳、优势多、韧性强、潜能大、长期向好的支撑条件和基本趋势没有变,经济高质量发展大势没有变。我国将坚持稳中求进、以进促稳,守正创新、先立后破,系统集成、协同配合,充实完善政策工具箱,实施更加积极的财政政策、适度宽松的货币政策,防范风险、扩大需求、稳定预期,推动经济持续回升向好。2024年一揽子增量政策在经济领域产生积极影响,有效提振社会预期,股市显著回暖,楼市逐步企稳。机遇方面,以先进制造业为代表的实体产业迅速崛起,新质生产力加速形成,新旧动能接续转换,以国内大循环为主体的新发展格局稳步构建,为商业银行高质量发展提供了广阔空间。中央经济工作会议明确提出实施提振消费专项行动、以科技创新引领新质生产力发展、扩大高水平对外开放、统筹推进新型城镇化和乡村全面振兴、加大区域战略实施力度、协同推进降碳减污扩绿增长等重点任务,为银行在消费金融、科技金融、国际业务、普惠金融、区域发展、绿色金融等诸多领域带来更多机遇。以开源、低成本、高效能为特征的大模型DeepSeek正式上线,为银行业数字化转型注入新动力,进一步催化商业模式创新的浪潮。人形机器人技术快速发展,银行业在提升服务效率、降低运营成本、创新服务模式等方面有了更大的想象空间。在国家实施更加积极财政政策的背景下,增量政府债券将发挥稳经济、促发展、强信心的重要作用,“6+4+2”化债组合拳将为减轻地方债务压力、增强地方发展动能、缓解银行资产质量压力创造有利条件。3.4.2公司发展战略和策略2025年,公司将坚持以习近平新时代中国特色社会主义思想为指导,坚持稳中求进工作总基调,扭住价值银行目标不放松,将改革作为破解难题的关键一招,加快数字化转型步伐,守牢风险底线,全面提升战略执行、客户服务、投资交易、全面风控、管理推动“五大能力”,巩固基本盘,布局新赛道,擦亮“三张名片”,做好金融“五篇大文章”,围绕高质量发展首要任务,推动企金、零售、同业三大业务条线协调、联动、融合发展,以自身工作的确定性应对外部环境的不确定性,奋勇争先,为“十五五”良好开局打牢基础,为中国式现代化建设贡献兴业力量。一是稳增速、优结构。全力做好金融“五篇大文章”,推进金融“五篇大文章”与“五大新赛道”融合发展,助推新动能与更新旧动能有效衔接。巩固优化基本盘,持续深化“区域+行业”经营,增强“商行+投行”市场竞争特色优势,稳妥开展大零售资产构建,持续优化结构,形成与我国经济结构相匹配的资产格局。二是提规模、降成本。做好客户经营,抓好账户和结算,深耕细作织网工程。扎实推进场景金融,加快形成“金融+非金融”全链条综合经营模式。持续优化产品策略,围绕客户需求,健全产品供给体系和交叉销售体系。积极拓展低成本负债,牢固树立负债立行的经营主基调。三是强资管、优财富。强化“大投行、大资管、大财富”协同经营格局,以服务实体为导向,增强资产组织能力,打造从融资到投资的全链条价值循环,为客户提供多元化产品货架,满足客户表内外融资及财富管理需求,持续擦亮财富银行名片。四是优体制、强合规。牢固树立底线思维,全面加强风险管理,确保行稳致远。优化风险管理体系,压实风险防控全流程职责,加大重点领域风险化解处置,加强新型风险应对,有效管控风险成本。健全合规管理体系,扎紧合规篱笆墙,推动合规经营迈上新台阶。五是强统筹、促提升。提升战略执行成效,强化条线统筹管理,支持重点区域分行做大做强。提高科技支撑水平,继续抓好向数字化运营要效益,向新技术探索要未来等重点工作,加强科技人才培养与选拔,为数字化转型提供人才支撑。持续降低管理成本,提升投入产出水平。强化资本集约经营理念,提升资本管理质效,纵深推进“三基”“三化”建设,持续强化基础工作,全力打造精细化管理体系。3.4.3.1利息净收入展望展望2025年,我国实施适度宽松的货币政策。在“降准降息”趋势下,预计公司净息差将伴随贷款利率下行而收窄,利息净收入平稳增长仍面临较大挑战。针对这一形势,公司将继续坚持稳中求进的主基调,持之以恒打造价值银行特色,有效稳住资产收益水平,着力提升负债发展质量,推动总量平衡、结构优化、质量提升,力争净息差管控成效继续跑赢大势。资产端,有效落实国家信贷政策导向和自身转型发展要求,持续优化金融供给结构,提高风险防范化解能力,加大优质信贷投放力度,保持“量”的合理增长。对公业务要强化市场对标意识,立足于区域实际打进主流市场、服务主流客户,推动信贷投放与区域经济结构、主要资金需求更加匹配契合。深化风险与业务融合,把握新模式、新领域中的潜在机会,提升经营机构新赛道资产构建能力。零售业务抓住住房融资需求回暖趋势,聚焦重点区域多措并举支持按揭贷款投放,稳住个人贷款基本盘。要在产品设计、流程管控、模型策略等方面加固基础,围绕核心金融场景不断做大高质量客群,进一步增强信用业务发展动能。负债端,牢固树立负债立行意识,把客户经营和低成本存款拓展摆在更加重要的位置,把降低负债成本作为控制息差降幅的关键。一是围绕账户和结算完善产品功能和服务体验,深耕细作推进织网工程,通过提升服务能力、增强客户粘性、拓展合作深度,带动低成本资金沉淀。二是落实利率自律机制要求,区分产品类别加强存款定价管理,做好存量长期限存款到期成本重置。三是把握宽松的货币金融环境,合理运用市场化融资工具,前瞻性调整优化负债吸收策略,择机推动金融债券发行,补充中长期低成本资金。3.4.3.2手续费佣金净收入展望展望2025年,公司将坚持立足客户金融服务需求,强化“大投行、大资管、大财富”协同,加快金融生态圈建设,提升财富管理能力,完善数字化服务运营能力,推动集团手续费佣金净收入增长。财富银行方面,持续深化客户分层分类营销体系建设。强化投研销综合能力,加大产品创新力度,不断优化并丰富财富产品供给,切实提升客户资产配置水平。加快推进“钱大掌柜”平台升级,打造“钱大掌柜”成为财富业务线上经营主阵地。投资银行方面,重点聚焦“投承、投贷、投私、投研”,打造更加高效的协同运作机制,在巩固债券承销类业务优势的基础上,推进产品创新,提升公司在REITs业务、银团融资、并购融资、资本市场、权益投资等领域的服务能力和竞争能力,抢抓新赛道业务机遇。强化投行撮合能力,实现与银行、保险、券商朋友圈的项目引流、产品互补、资产销售流转,互利共赢合作。托管业务方面,继续加紧主流业务生态圈构建,形成覆盖销售、托管、投资、交易、做市的ETF全产品链;强化与销售、投行、集团资管的协同,紧跟国家重点方向,持续丰富产品线,增加各类产品尤其是ETF等指数产品的布局,提升综合价值贡献。企金结算方面,围绕国际业务战略布局,重点聚焦国际业务存、贷、汇、兑一体化金融服务,快速提升国际业务收益贡献。推动对公开户和产品签约流程再造,提升兴业管家电子渠道客户体验和数字化运营能力,大力推进财资管理业务发展。充分利用票、证、函等重点产品优势,做好产业链上下游、大中小型客群间的综合金融服务。优化支付结算产品矩阵和强化交叉销售,提升客户服务能力与产品创新能力,助力企金客群固本强基。资金业务方面,持续打造金融市场综合营运商与综合服务商,健全投资、交易、对客服务体系。优化投资组合,挖掘风险可控的优质资产,有序推动本外币资产多元化;加强策略交易,完善策略库,提升敏捷交易能力;持续推进FICC业务体系建设,打造同业朋友圈,提升对客服务质量,加大服务实体力度,满足客户日益增长的财富管理和进出口客户的汇率避险需求;拓展海外及跨境业务,围绕企业出海,提升跨境服务能力,增加跨境金融相关收入。银行卡业务方面,重点围绕账户及交易,强化“织网工程”建设,依托代发、收单、快捷支付,将主结算账户作为关键连接点,强化场景金融获客效能和活客动能,提升交易规模。开展“跨境代发”多渠道升级,进一步巩固增强跨境薪资服务的领先优势。加快跨境理财通平台建设,优化寰宇人生DIY卡产品功能与体验。持续完善“兴动全球”涉外线上场景及留学金融生态场景合作,推动外汇结算规模及涉外活跃客户规模快速提升。持续优化信用卡客群结构,强化全生命周期经营,完善产品与权益体系,提升年轻客群等优质客群的占比,进一步加强垂直生态场景建设,推动消费交易回升。3.4.3.3资产质量展望展望2025年,公司牢固树立底线思维,深化风险管理体制机制改革,压实风险防控全流程职责。同时,做好前瞻性预判,加强区域、行业、客户的集中度管理;提升授信全流程精细化管理水平,做实全集团投融资资产质量管控;开展重点产品重检,以客户为中心加强产品管理;建立重点分行、重大风险项目总行行领导挂钩督导及敏捷小组工作机制,继续用好政策工具,推动重点领域风险化解处置。房地产方面,公司坚决执行中央关于促进房地产止跌回稳的决策部署。一是严格落实城市房地产融资协调机制工作要求,做好“保交房”金融服务,满足优质房企的合理融资需求;二是按照“控总量、调结构、优存量”的总体策略,强化以项目为核心来选择和评价业务,优选具备资源比较优势、租售前景明确的项目,积极参与“三大工程”、租赁房、园区金融等业务,服务房地产新发展模式构建;三是持续完善总行行领导挂钩督导与敏捷小组联动协同工作机制,通过合理授权、优化人员组合发挥房地产风险防控敏捷小组专业能力,应用城市房地产融资协调机制、存量商品房收购等政策工具,多措并举推动项目复工复产,盘活楼盘价值,化解房地产业务风险。地方政府融资平台方面,公司将继续坚持合规和市场化原则,将新增业务转型发展和存量风险化解有机结合。一方面坚持市场化、法治化原则推动新增业务转型发展,把握积极财政政策带来的业务机遇,发挥“商行+投行”专业优势,大力支持具有市场化运作模式、具备持续经营收益的融资平台或转型后主体,服务区域经济高质量发展,并巩固银政关系,为各类机构业务营造更好环境。另一方面继续保持存量业务风险管控高压态势,持续完善总行行领导挂钩督导与敏捷小组联动协同工作机制,把握中央加大化债支持力度的机遇,分类施策推动存量风险化解。对困难地区,全力争取专项债置换等化债资源,用好用足化债政策,支持地方债务风险化解,并维护自身合法权益;对于发达地区,优化业务政策,做好“稳总量、优结构”,降低化债对公司经营的冲击。信用卡方面,公司将深化总分行“双轮驱动”体系,一方面,以客户为中心,重塑客户结构、产品结构、资产结构,推动信用卡业务进一步转变发展模式,提升发展质量。另一方面,完善全流程风险管控体系,迭代风控模型,提升新增授信质量,强化贷中精细化管理及贷后催收,持续压降新发生不良。"
+    },
+    {
+      "reportDate": "2023-12-31",
+      "businessReview": "(一)主要业务公司成立于1988年8月,是经国务院、中国人民银行批准成立的首批股份制商业银行之一,2007年2月5日在上海证券交易所挂牌上市,目前已发展成为以银行为主体,涵盖信托、金融租赁、基金、银行理财、消费金融、期货、资产管理、研究咨询、数字金融等在内的现代综合金融服务集团,不断完善覆盖境内境外、线上线下的多元化服务网络,已成为国内系统重要性银行。公司主要从事商业银行业务,经营范围包括:吸收公众存款;发放短期、中期和长期贷款;办理国内外结算;办理票据承兑与贴现;发行金融债券;代理发行、代理兑付、承销政府债券;买卖政府债券、金融债券;代理发行股票以外的有价证券;买卖、代理买卖股票以外的有价证券;资产托管业务;从事同业拆借;买卖、代理买卖外汇;结汇、售汇业务;从事银行卡业务;提供信用证服务及担保;代理收付款项及代理保险业务;提供保管箱服务;财务顾问、资信调查、咨询、见证业务;经监管部门批准的其他业务;保险兼业代理业务;黄金及其制品进出口;公募证券投资基金销售;证券投资基金托管。(二)报告期内行业情况和发展态势2023年,是全面贯彻党的二十大精神的开局之年,是经济恢复发展的一年,我国顶住外部压力、克服内部困难,经济回升向好,高质量发展扎实推进。国内外形势错综复杂。从国际形势看,百年未有之世界大变局加速演进,国际格局加速调整,地缘政治博弈加剧,能源粮食危机深化,地缘冲突频发,世界经济“碎片化”迹象增多,逆全球化愈演愈烈;同时,全球经济持续低迷,欧美经济体通胀高企不下、多次加息,叠加国际资本市场持续动荡,全球银行业经营环境的不确定性加剧。从国内形势看,我国经济运行波浪式发展、曲折式前进,全年经济同比增速呈现前低、中高、后稳的态势。科技创新引领现代化产业体系建设扎实推进,正在从“房地产—基建—金融”旧三角循环向“科技—产业—金融”新三角循环,“双碳”战略加快实施,人口结构逐步进入老龄化,阶梯式区域经济布局加快形成,产业集聚效应更加突出。与此同时,国内周期性和结构性矛盾叠加,“疤痕效应”下微观主体信心未完全修复,经济回升向好面临有效需求不足、部分行业产业过剩、社会预期偏弱、风险隐患较多等困难和问题。各项政策协同发力。为有效应对各种风险挑战,国家加快宏观政策跨周期和逆周期调节力度,在总量、结构、价格方面齐发力,综合运用多种政策工具,保持市场流动性合理充裕,引导商业银行减费让利,降低企业融资成本,加大对普惠小微、民营企业、绿色发展、科技创新等重点领域和薄弱环节的支持力度。强监管严监管态势进一步延续,金融监管新格局加快形成,引导银行回归服务实体经济初心,更加注重资本约束、优化资产结构、重塑业务模式。中央金融工作会议吹响了建设金融强国的号角,为金融高质量发展举旗定向,在深化金融供给侧改革和服务实体经济上指明方向。行业趋势发生变化。受利率市场化、金融脱媒、同业竞争加剧、降低综合融资成本政策等多重因素影响,商业银行净息差持续下滑,步入“1时代”,非息收入增长乏力,营业收入、盈利水平持续放缓,银行业轻型化转型发展迫在眉睫。房地产、地方债、中小银行等风险相互关联,银行风险防控面临挑战;数字化转型在提升银行内部运营效率、客户服务体验的同时,也给银行带来模型、数据、网络、科技等新型风险,对银行风险合规管理提出更多更高要求。在新形势下,我国银行业把握机遇、应对挑战,总资产和主要业务平稳增长,整体风险抵御能力较强,维护金融稳定“压舱石”作用进一步筑牢。2023年末银行业金融机构资产总额417.3万亿元,较上年末增长9.9%;不良贷款率1.62%,拨备覆盖率205.1%。服务实体经济质效持续提升,2023年末对实体经济发放的人民币贷款余额235.48万亿元,同比增长10.4%,普惠金融贷款、科技型中小企业贷款、制造业中长期贷款、绿色贷款的增速均明显高于各项贷款平均增速;贯彻落实国家政策,降低企业综合融资成本,降低房贷利率下限和存量首套房贷利率等。在服务实体经济的同时,为有效应对内外部挑战,银行业关注市场动能、价值创造,重视内部管理效能和风控水平提升。抢滩布局科技金融、绿色金融、普惠金融、养老金融、数字金融“五篇大文章”,深挖行业趋势,构建相应体制机制,改进经营模式,确保提升自身竞争力。数字化转型持续加速,面向前沿领域纵深推进数字技术探索,不断提升数字资产价值挖掘深度,数字货币使用场景更加广泛;数字化转型领域进一步拓宽,从专注客户、产品、渠道、体验的数字化,向包括运营、财务、风险等经营管理的全面数智化转型。贯彻落实资本新规、风险分类新规、预期信用损失法等监管政策要求,调整优化风险管理政策和资本管理策略,密切关注房地产市场、政府融资平台、信用卡等重点领域风险,加大不良资产处置力度,提升风控水平。二、核心竞争力分析公司始终不忘初心和使命,牢记习近平总书记在福建工作时对兴业银行的寄语,以“从严治行、专家办行、科技兴行”为基本方略,以“服务能力突出、经营与管理特色突出、市场与品牌形象突出”为发展目标,朝着“一流银行、百年兴业”的愿景,按照推动高质量发展、打造价值银行的总要求,继承和发扬善于创新、爱拼会赢的优良基因,努力建设成为战略目标清晰、经营特色鲜明、专业能力突出、科技创新领先、综合实力雄厚的主流银行集团,不断提升核心竞争力。(一)战略目标清晰,措施有力公司坚持“1234”战略久久为功,按照“轻资产、轻资本、高效率”转型方向,以“商行+投行”为抓手,不断增强“结算型、投资型、交易型”三型银行智慧内核,着力提升“重点分行、重点行业、重点客户、重点产品”价值贡献。同时,因势而谋、顺势而为,不断丰富战略内涵。2021年,公司提出树牢擦亮绿色银行、财富银行、投资银行“三张名片”,加快数字化转型。2022年,提出“巩固基本盘,布局新赛道”,加快科创金融、普惠金融、能源金融、汽车金融、园区金融“五大新赛道”发展,加速构建“数字兴业”。“三张名片”“五大新赛道”“数字兴业”与中央金融工作会议提出的科技金融、绿色金融、普惠金融、养老金融、数字金融“五篇大文章”高度契合,体现了公司前瞻性的战略把握能力。执行方面,公司不断强化战略执行,通过体制机制改革激发组织活力、增强专业能力、提升响应速度,更好、更快满足客户需求,持续推动资产负债表再重构,经营模式转型升级,展现出蓬勃的生命力和广阔的发展空间。目前,公司战略落地成效持续显现,在“五篇大文章”的细分领域具备先发优势,为下阶段发展奠定了坚实基础。(二)管理层凝心聚力,作风务实公司经营管理层对公司的企业文化和核心价值观高度认同,具有丰富的金融管理经验,具备突出的形势研判、战略执行、策略制定、风险管理等专业能力,保持高度团结,作风务实高效,共同致力于公司战略目标实现。在公司经营管理层的带领下,全集团员工的积极性、主动性和创造性充分激发,凝聚力和向心力显著增强,展现出敢担当、善作为的良好精神风貌,各项战略、决策和措施落地生根、取得实效,为公司高质量发展奠定坚实基础。(三)经营特色鲜明,功能完备公司坚持走市场化、差异化、综合化经营发展道路,在多个细分业务领域打造新产品、新业务,开辟属于自己的蓝海,形成鲜明的经营特色。坚定将绿色金融作为集团战略核心业务,并前瞻性升级为ESG理念,率先将可持续发展提升到企业战略和公司治理层面,开创了“寓义于利”的社会责任实践模式;打造和贯通“投资银行-资产管理-财富管理”价值链,推动三位一体协同纵深,不断探索债券、资产证券化等融资工具创新,引领FICC、投资银行、资产管理、资产托管等业务发展;各子公司深度融入集团战略体系,聚焦主业、做精专业、功能互补、差异发展,形成横跨境内境外、融合线上线下,涵盖信托、金融租赁、基金、银行理财、消费金融、期货、资产管理、研究咨询、数字金融等在内的现代综合金融服务体系。(四)运作体系规范,专业高效公司持续健全完善“党委领导核心作用、董事会战略决策、高管层执行落实、监事会依法监督”的公司治理机制。坚持从严治行、合规经营,不断提升专业化、精细化风险管理能力,在牢牢守住风险底线的同时,为业务发展有效赋能,形成穿越新的经济周期的核心能力。深入开展支行管理标准化、营销体系化和运营规范化“三化”建设,以及以基层员工、基本制度、基础管理为核心的“三基”管理提升活动,推进实现“为基层减负、向基层赋能”的目标,持续夯实公司基础管理和发展根基。主动拥抱数字时代,加快数字化转型,重塑组织架构、业务流程和经营形态,加大科技资源投入,实施科技人才万人计划,深化科技、数据、业务融合,实施营销、财富、投行、运营、风控“五大企架工程”,推进流程、数据、模型、开发、运营“五个标准化”,科技赋能水平提升,“数字兴业”步入新阶段。(五)文化底蕴深厚,行稳致远公司始终坚守真诚服务、共同兴业的使命,追求理性、创新、人本、共享的核心价值观,弘扬中华优秀传统文化,培育中国特色金融文化,在长期发展过程中形成了具有兴业特色的文化底蕴。传承尽职履责的敬业文化、敢拼会赢的拼搏文化、务实担当的协作文化、协同奋进的家园文化,坚守稳健发展、合法合规、以客户为中心的银行文化,凝聚为全集团共同的价值取向和行为准则。依托深厚的文化底蕴,公司在经营发展中稳扎稳打、锐意进取,各级机构协同发力、前中后台协同并进,共同把握机遇、应对挑战,统筹发展与安全,保障公司行稳致远、基业长青。近三年来看,公司积极应对内外部环境变化,不断深化战略内涵、强化战略执行,在稳定经营大盘的基础上,推动业务结构转型,实现了规模、效益、质量的协调发展。一是规模增长稳中有进,在加大服务实体经济力度的同时,将更多发展红利惠及人民,突出表现为“3个2万亿”和“3个1万亿”。总资产、总负债、对公融资余额(FPA)较2020年末增长超2万亿元,分别达到10万亿元、9万亿元、8.6万亿元,贷款规模、存款规模、集团零售AUM规模(含三方存管市值)较2020年末增长超1万亿元,分别达到5.46万亿元、5.14万亿元、4.79万亿元。同时,企金客户数、零售客户数较2020年末分别增长51%和27%。二是资产结构稳中向好,积极调整客户结构、业务结构、资产结构,加大对实体经济重点领域和薄弱环节的支持力度,各项贷款在总资产中的占比较2020年末上升3.52个百分点至53.76%。基本盘中,绿色金融贷款、制造业贷款、制造业中长期贷款、战略新兴产业贷款占企金贷款比重分别提升9.93个百分点、4.73个百分点、6.74个百分点、6.22个百分点至25.56%、23.01%、12.04%、12.84%,房地产贷款占企金贷款比重下降至13.82%,地方政府融资平台资产规模压降超50%。新赛道中,科创、普惠、能源、汽车、园区“五大新赛道”贷款近两年(较2021年末)增幅达到92.3%、67.68%、54.81%、56.16%、63.65%,显著高于整体贷款增速。零售贷款中的非按揭类贷款占比较2020年末提升6.98个百分点至45.56%。三是负债结构稳中有优,以财资管理、供应链金融、场景生态平台、代发、收单业务为抓手,持续推进“织网工程”,提升结算性资金规模与零售存款占比,有序压降高成本存款,调降存款挂牌利率,人民币存款付息率较2020年度下降13个BP。四是经营效益稳中有新,全力“增收节支”,稳定营收表现。通过资产负债结构优化,有效稳定息差,并通过以量补价,保持利息净收入稳定。发挥金融市场强项,增厚投资收益,其他非息收入占营收比重较2020年度提升6.56个百分点至17.35%。虽然受理财老产品一次性收益确认影响,手续费佣金净收入有所波动,但公司积极拓展理财、财富代销、投行咨询顾问类等轻资本业务。五是资产质量稳中向实,有效化解房地产企业风险、地方政府融资平台风险,大力扭转信用卡业务风险暴露趋势,不良贷款率由2020年末的1.25%下降至1.07%,拨备覆盖率由2020年末的218.83%提升至245.21%,资产质量和风险抵补能力稳中向好。六是优势强项稳中向上,绿色金融业务、资产管理业务、投资银行业务继续保持市场第一梯队。绿色金融融资余额由2020年末的1.16万亿元增长至1.89万亿元,增幅63.78%,年复合增长率17.87%,其中,降碳领域资产占比提升14.29个百分点至56.26%。理财规模由1.48万亿元增长至2.26万亿元,增幅53.43%,年复合增长率15.34%,市场排名提升3位。大投行FPA规模由2020年末的3.2万亿元增长至4.3万亿元,增幅33.54%,年复合增长率10.12%。七是数字化赋能显著,科技投入占营收比重较2020年度提升1.59个百分点至3.98%,科技人才占比较2020年末提升9.09个百分点至13.91%。自2022年公司焕新升级手机银行和“五大线上平台”以来,手机银行月活跃用户数(MAU)增长44.11%至2,252.62万户;兴业普惠线上平台融资余额近两年增长646.44%至691.95亿元;兴业管家客户数近两年增长43.56%至119.23万户,兴业生活、钱大掌柜月均MAU近两年分别增长43.54%、220.09%;银银平台机构投资保有规模近两年增长619.71%。“五大企架工程”“五个标准化”、企业级数据字典等一批数字化基础工作深入实施推进,公司数字化转型的“四梁八柱”基本成型。三、战略实施情况报告期内,公司深刻把握党中央、国务院对金融工作的新要求,立足实体经济转型方向,发挥自身资源禀赋,助力经济增长模式加快向“科技-产业-金融”新三角循环转变。一是锚定经济转型方向。商业银行的资产负债结构,需要动态匹配经济社会发展的需求。经济发展的动能往往是商业银行优质客户、优质资产的布局方向,是银行产品体系、专业能力提升的重点领域。公司前瞻性谋划提出“三张名片”“数字兴业”“五大新赛道”,与中央金融工作会议提出的“五篇大文章”高度契合,为公司高质量发展、打造价值银行提供了抓手与方向。二是将“三张名片”“数字兴业”与“五大新赛道”有机结合。发挥绿色银行、财富银行、投资银行“三张名片”的专业能力,依靠数字化转型支撑,不断创新优化产品体系,加大对科创金融、普惠金融、能源金融、汽车金融、园区金融“五大新赛道”客户的服务力度,并与“五篇大文章”有机结合、一体推进,以产品服务优质客群,以优质客群带动银行客户结构、资产结构、负债结构的优化调整,在为客户、社会创造效益的同时,实现自身的高质量发展。三是增强“研究、风险、科技、协同”赋能业务发展。针对“五大新赛道”客户的特点,以研究分析选取行业细分赛道与目标客户,识别风险、制定策略,增强客户服务能力;以“技术流”“链长制”“一城一策”等风控模式创新提高风险政策针对性和前瞻性,促进业务发展;以科技赋能银行数字化转型,升级线上平台,优化内部流程,完善风控模型,提升服务效率和服务体验,让数据多跑路、客户少跑路;以打造“投承、投贷、投私、投研”四大协同机制,纵深推进实施“商行+投行”战略2.0版,打通“企业融资需求-投资银行-资产管理-财富管理-居民投资需求”的投融资全链条,将客户融资需求和投资需求高效对接。四是加强人才队伍建设。围绕战略实施,通过干部交流任职、竞赛活动选拔、针对性培训等举措,提升员工对战略的理解,增强战略执行力和专业能力,支撑战略更好落地。(一)经营成果符合预期1.业务规模实现突破报告期末,总资产首次突破10万亿元,较上年末增长9.62%至10.16万亿元。存款和贷款双双突破5万亿元,贷款余额较上年末增长9.59%至5.46万亿元,存款余额较上年末增长8.45%至5.14万亿元。存贷款增量均位居股份制商业银行前列。2.经营业绩保持韧性报告期内,公司全力“增收节支”。营收整体保持稳定,实现营业收入2,108.31亿元,同比下降5.19%,主要受2022年理财老产品一次性收益确认抬高基数影响,若扣除该因素,按可比口径,公司营业收入同比基本持平。利息净收入实现正增长,达到1,465.03亿元,同比增长0.85%;其他非息收入稳健增长,达到365.73亿元,同比增长14.08%;手续费收入展现结构亮点,财富代理业务收入、投行咨询顾问类收入、理财新产品收入分别同比增长12.59%、7.94%和1.86%。压降行政费用,业务管理费用同比下降3.45%。3.资产质量继续夯实报告期末,主要风险指标稳步向好,不良贷款率1.07%,较上年末下降0.02个百分点;逾期贷款率1.36%,较上年末下降0.31个百分点。资产质量进一步做实,逾期90天以上贷款、逾期60天以上贷款与不良贷款的比值分别为68.30%、77.33%,处于近三年最好水平。对个人贷款实行更加严格的交叉违约认定,将部分未逾期的个人贷款风险分类下迁至关注类,推动经营机构前瞻性处置零售风险。风险抵补能力提升,拨备覆盖率245.21%,拨贷比2.63%,分别较上年末上升8.77个和0.04个百分点。清收表现突出,报告期内,实现账销案存清收142.22亿元,同比增长27%,创近年新高。4.外部评价持续向好公司稳居英国《银行家》全球银行1000强前20强、《财富》世界500强,荣膺英国《银行家》杂志“2023中国年度银行”大奖。在最新公布的明晟(MSCI)ESG评级中,公司由A级升为AA级,在中国境内银行业中是唯一一家连续5年获得最高评级的银行。(二)资产负债稳步优化1.资产转型步伐加快立足“巩固基本盘、布局新赛道”的经营策略,加大实体经济支持力度,并持续增强“研究、风险、科技、协同”赋能业务发展,提升服务专业性水平,高效响应客户需求,实现信贷资产量升、价稳、结构优。对公贷款量价突出,对公贷款(不含票据)较上年末增加5,334.01亿元,新投放贷款平均利率4.30%,增量和价格均为股份制商业银行最好水平。资产布局与实体经济转型方向更加契合,基本盘中,住房租赁、城市更新、产业园区等房地产新领域贷款较上年末增长84.65%、人行口径绿色贷款较上年末增长26.99%、制造业贷款较上年末增长24.43%。新赛道中,科创、普惠、能源、汽车、园区领域的贷款也较上年末实现双位数增长,分别是31.88%、23.95%、16.16%、26.14%、27.40%。零售贷款发展稳健,持续推进生态场景建设和公私联动,个人经营贷、个人消费贷较上年末分别增长16.22%、20.57%,按揭贷款投放量同比增长30%。投资业务表现稳定,结合市场利率走势灵活制定业务策略,增加国债、地方债、公司债等投资力度,有力支持发债融资,并储备优质流动性资产,把握市场交易机会,有效增厚投资收益。2.负债结构持续优化坚持把控制负债成本作为稳定息差的关键抓手。低成本负债稳步增长,推进“织网工程”,以财资管理、供应链金融、场景生态平台为抓手,企金低成本存款日均余额同比增长12.92%,零售代发和收单业务的结算性存款较上年末增长12.6%。充分把握市场流动性相对宽松的有利时机,以较低利率发行500亿元绿色金融债和250亿元小微金融债。高成本负债有序压降,加大低成本存款置换高成本协定存款、社保存款力度,并有序调降存款挂牌利率。负债成本持续下降,人民币存款、同业存款和发行债券的付息率同比下降11个BP、1个BP和10个BP,本外币存款付息率与同业中位数的差距由2022年的15个BP缩窄至4个BP。息差降幅有效收窄,通过负债量的增长与成本的优化,有效支撑信贷资产投放,对冲息差收窄影响,公司净息差同比下降17个BP,降幅较上年收窄2个BP。3.客户发展量质齐升通过提升专业化水平、响应速度、数字化运营水平,增强客户服务能力,客户数量和质量不断提升。企业金融客户数突破140万户,较上年末增长13.27%至140.14万户,其中,有效及以上客户数增长10.80%至56.66万户。零售金融客户数突破1亿户,较上年末增长10.38%至1.01亿户,其中,贵宾客户数较上年末增长9.09%至442.16万户,私行客户数较上年末增长9.76%至6.92万户。同业合作客户超3,300家,主要类型同业客户覆盖率超过97%,价值客户数升至1,973家,聚焦客户覆盖率、产品使用率、营收增长率“三率提升”,以及主结算、主托管、主交易、主投行“四个主办”,加深客户粘性。(三)风险管控有效夯实1.房地产风险化解有效公司坚持“三分类”风险化解策略和房地产风险防控敏捷小组工作机制,集中全集团专业力量,深入分行逐个项目制定风险化解方案,通过引入代建方、项目管理方、发放“保交楼”专项借款配套融资等方式推动项目开发销售,盘活项目货值。整体化解举措有效,对公房地产业务新发生不良同比下降54%。存量资产风险稳定,公司境内自营贷款、债券、非标等业务项下投向房地产领域业务余额17,660.61亿元,不良资产率1.53%,较上年末上升0.06个百分点,资产质量基本稳定。个人住房按揭贷款业务抵押物足值,余额10,759.15亿元,住房按揭贷款抵押率(LTV值)43.63%。对公房地产融资业务风险可控,余额6,901.46亿元,其中,6,260.13亿元有对应的房地产项目及抵押物,且项目在北上广深一线城市、省会城市以及GDP万亿以上经济发达、房地产市场稳定城市的余额占比超80%,其余项目也集中分布在珠三角、长三角等经济发达城市的主城区,项目开发前景较好,抵押物充足。剩余房企债券78.36亿元、住房抵押贷款证券化产品562.97亿元,整体风险可控。涉及不承担信用风险的表外业务规模很小。公司境内非保本理财、代销、债券承销等不承担信用风险的业务投向房地产领域合计1,087.75亿元。理财产品底层融资人主要为公司的授信客户,均在公司自营业务的房地产企业准入白名单内,并且理财产品底层融资人以资质较高的国有房地产企业为主。以房地产作为抵押的贷款安全边际较高。针对部分地区房价波动,公司开展多轮抵押物价值的全面重估排查和压力测试工作。总体上看,目前房地产下跌对公司债权保障造成的风险基本可控。截至报告期末,以房地产作为抵押品的贷款,平均抵押率为43.41%,其中企金业务房地产抵押率(LTV值)41.76%,零售业务房地产抵押率(LTV值)43.97%。2.融资平台风险逐步收敛公司贯彻落实关于地方政府债务风险管控的相关政策要求,把握中央化债政策机遇,积极争取特殊再融资债券置换资源,推进存量业务风险防范化解,有力遏制重点区域风险暴露趋势。风险暴露已有所收敛,地方政府融资平台债务新发生不良较上年压降55%。存量风险趋于稳定,地方政府融资平台债务余额1,615.91亿元(含实有及或有信贷、债券投资、自营及理财资金投资等业务),较上年末减少592.87亿元,不良资产余额40.72亿元,较上年末增加13.49亿元,不良资产率2.52%,较上年末上升1.29个百分点。区域分布合理,公司地方政府融资平台债务主要分布在江苏、湖北、浙江、湖南、四川、福建、山东等经济发展较好、财政实力较强的东、中部省份,不良资产集中在个别债务负担较大的西部省份,总体风险可控。融资对应项目,公司地方政府融资平台业务绝大多数对应项目,且绝大多数项目已完工或建设进度正常,已形成实际工作量,具备项目项下地方政府付款责任条件,为公司向地方政府争取化债资源,推动业务余额压降和风险化解提供了可靠保障。3.信用卡风险高位回落公司遵循“控不良、建体系、快转型”的总目标,从客户准入、存量风险管控、不良资产清收、数字风控能力建设和加强总分联动等方面持续发力,努力扭转信用卡风险暴露趋势。风险指标高位回落,信用卡贷款余额4,016.33亿元,不良贷款率3.93%,较上年末下降0.08个百分点;逾期率6.75%,较上年末下降0.59个百分点。新发卡客户质量有所提升,背靠集团提高两卡联动、公私联动获客能力,依托场景加大年轻高学历客户、优质行业零售客户的获取力度,持续改善客户结构。存量客户风险管理初见成效,完善贷中管理体系,依托大数据和标签工具,动态监测客户风险变化,及时识别和清退高风险客户。不良资产清收效能持续提升,构建外包机构催收、司法清收、分行自主催收的“三位一体”清收体系,提升清收效能,压降不良资产。数字风控能力不断增强,加快风险量化模型的迭代升级,提高风控模型的精准性和适配性,完善数字化风控工具,为各环节风险管控提供更有效的支持。总分协调联动更加密切,发挥总行专业能力和分行属地优势,通过风险关口前移和早期催收阶段分行的提前介入,牢牢构筑风险防控屏障。4.新赛道风险管控有力公司持续增强研究、科技赋能风险管理,推动业务高质量发展。“一城一策”制定差异化授信政策,支持经营机构围绕新兴产业及区域特色产业加快转型发展。构筑“研究+业务+风险”三位一体的研究赋能机制,促进风险管理对业务发展的引领和融合,提高风险政策针对性和前瞻性。推进风控数字化转型,加快“技术流”评价体系升级迭代,提升新赛道专业管理能力,围绕新赛道业务设立专业的业务团队和风险团队,建立以基层专业人员挂帅的“链长制”,带动新赛道全链条业务的协同拓展,并保证风险和业务的融合。(四)“三张名片”焕发光彩1.绿色银行底色鲜明公司积极探索绿色可持续发展模式,充分发挥集团综合经营优势,将绿色融入各行各业发展,在支持传统产业绿色改造升级和绿色新兴产业发展壮大的同时,循序渐进构建银行绿色资产负债表,实现客户效益、银行效益、社会效益的平衡。客户服务质效不断提升。顺应经济结构绿色化、低碳化发展趋势,统筹支持客户绿色转型发展。截至报告期末,公司绿色金融客户较上年末增长17.83%至5.83万户,其中,深绿客户(客户主营范围符合绿色产业指导目录)较上年末增长16.85%至5.39万户,带动存款规模超过2,000亿元,户均配置产品3.4个,高于整体企金客户平均水平,绿色金融客户的综合效益不断提升。探索数字运营,开发上线“双碳管理平台”,已为1,700多家企业客户创建“碳账户”,并基于企业碳账户落地碳减排挂钩业务、碳资产质押业务,个人碳账户开户16万户。绿色资产负债表稳步构建。推动集团绿色发展,循序渐进构建银行绿色资产负债表,发力“降碳、减污、扩绿、增长”重点领域。报告期末,为客户提供绿色融资余额1.89万亿元,较上年末增长16.14%,绿色融资余额超500亿元的分行达到11家。“降碳”领域绿色融资余额较上年末增长34.81%至1.06万亿元;“减污”领域绿色融资余额较上年末增长9.68%至4,195.04亿元。人行口径绿色贷款余额8,090.19亿元,规模继续保持股份制商业银行前列,较上年末增长26.99%,增加1,719.47亿元,占当期贷款新增规模的36%,存量贷款收息率与对公贷款基本持平,不良贷款率0.41%。累计获得人行碳减排支持工具的低成本资金374亿元,充分享受政策红利。根据统计,人行口径绿色贷款所支持的绿色项目可实现年节约标准煤952万吨、年减排二氧化碳2,292万吨、年节水量1,055万吨,为服务社会发展提质增效。除了表内业务外,公司绿色理财、绿色债券、绿色租赁、绿色信托、绿色基金等业务也快速发展,有力提升公司表内外资产管理规模,带动轻资本业务收入。公司以“绿色搭桥”带动“综合创利”的可持续发展模式正逐步得到验证。专业服务能力持续增强。积极参与全国碳市场建设,持续完善碳金融服务,建立健全降碳减污产品体系。强化兴业碳金融研究院专业融智服务,积极参与绿色金融政策标准制定及多项绿色金融前沿课题研究。将ESG纳入发展战略和经营策略,构建ESG与气候风险管理体系,切实推进ESG与气候风险因素内嵌投融资业务风险管理全流程,并定期向高级管理层与董事会报告;将领先优势转化为差异化服务能力,帮助客户构建ESG管理体系、强化信息披露、提升ESG绩效,促进客户与银行共同实现可持续发展。有序推进绿色金融“万人计划”,巩固提升绿色金融专业能力。截至报告期末,公司绿色金融人才7,151人,较上年末增长197.22%。2.财富银行亮点纷呈公司持续强化财富、资管和投行板块协同联动,将投行、同业传统优势赋能到财富板块,对内打造集团资管全产品谱系,对外精选全市场优质产品,构建投资生态圈,为零售、企金、同业客户提供资产配置方案,市场口碑从“买理财、到兴业”提升为“要理财、找兴业”。客户服务能力不断增强。积极从“卖方”逻辑向“买方”思维转变。持续打造零售财富队伍,从“建标准”“强专业”“提产能”三个维度加强队伍能力建设,公司具备完整零售财富产品销售资格人员达到8,809人。壮大多层次企金财富队伍,积极建设完善总-分-支的多层联动企金财富营销队伍体系,为各分行配置企金财富专属产品经理,推动超万名企金业务人员通过财富资格认证。加快数字化转型,升级银银平台,不断丰富和完善交易生态,提升平台大厅交易量和活跃度,更好服务同业客户财富需求;强化手机银行、钱大掌柜、兴业生活三大APP的互融互通,并通过“人工+AI”,提升服务客户的便捷性;打通兴业管家与各类财富产品系统链路,实现企金财富线上化、全品类业务支持。加强“人家企”服务,聚焦企业家高净值人群及其背后的企业、家庭目标客群,加强公私一体化经营。对公带动私行客户较上年同期增加2,268户,增长31.93%;私行联动企金新开户企金客户较上年同期增加1,142户,增长52.65%。报告期末,零售财富持仓客户数835.50万户,较上年末增长8.17%。企金财富持仓客户数10.94万户,较上年末增长70%。产品货架体系不断丰富。一方面,做强集团资管产品,发挥投资银行资产获取和构建优势,与兴银理财、兴业基金、兴业信托、兴业期货、兴业国信资管等集团资管子公司专业优势,为客户提供专业、安全、高效的资产配置服务。报告期内,投行向财富板块提供优质资产2,083亿元,同比增长11.61%。兴银理财管理规模较上年末增长8.18%至2.26万亿元,综合理财能力累计24个季度居普益标准综合理财能力榜首。联合兴业信托落地家庭服务信托创新业务116单,成立金额1.8亿元。另一方面,做精市场优质产品,发挥同业朋友圈优势,引入基金、保险、券商等专业机构产品,满足客户全方位、多样化的资产配置需求。目前,公司已经构建覆盖零售、企金、同业客户的丰富产品货架。零售方面,与289家机构达成代销合作,在售产品数超万支,实现现金类、固定收益类、混合类、权益类和商品及衍生品类产品全覆盖,并重点打造兴业优选“低波”理财体系和“恒星固收”公募基金品牌体系,个人养老金产品数量超150支;企金方面,合作机构16家,产品358只,较上年末增长70%,重点布局现金及类现金、低波纯债、“债券+优先股”等主流固收类产品;同业方面,银银平台引入基金产品超万只,较上年末增长67.80%,涵盖理财、券商资管、保险资管、基金专户、信托计划等多品类产品。渠道销售能力不断提升。依托数字化转型,全面提升理财队伍作业能力、公私一体化协作能力、线上平台服务体验。零售端,代销行外理财产品规模同比增长191%至1,247亿元。代销基金、保险、实物贵金属同比分别增长54%、31%、67%至574.76亿元、160.08亿元、5.41亿元。代理类销售带动托管规模5,800亿元,综合效益显著。报告期末,集团零售AUM规模4.79万亿元(含三方存管市值),较上年末增长15.42%,其中财富AUM规模3.43万亿元,较上年末增长12.06%。企金端,报告期末,企金AUM规模3.92万亿元,较上年末增长2.2%,其中财富AUM规模3,772亿元,较上年末增长36.67%。同业端,银银平台机构投资保有规模3,663亿元,较上年末增长68.74%。同时,连接国有银行、股份制商业银行和470家区域性银行及农村金融机构,将兴银理财产品输出,实现兴银理财行外销售保有规模8,695亿元,较上年末增长70.32%,占总规模的38.39%。3.投资银行优势更优公司纵深推进实施“商行+投行”战略2.0版,不断丰富产品体系,持续强化投承、投贷、投私、投研“四大协同机制”,加速推进投行生态圈建设,为客户提供更宽频的“商行+投行”综合金融服务。客户服务能力不断提升。从风险机制、考核机制、队伍建设、数字化转型等方面提供全方位配套支持,增强“商行+投行”落地效能,提升客户服务能力。报告期内,以“商行+投行”综合金融服务大型央国企、上市公司、科创企业等客群的手段不断丰富,投行业务服务重点集团客户654户,同比增长7.92%;协同集团内相关部门拓展科创客群,服务科创客户580户。截至报告期末,公司大投行FPA余额4.3万亿元,较上年末增长6.51%。其中,大投行FPA余额超1,000亿元的分行达13家。重点产品保持市场领先。公司继续保持在债券承销、投资交易、资产撮合等领域的优势。承销非金融企业债务融资工具规模7,305.73亿元,列市场第一位(交易商协会数据);承销境外债券规模54.51亿美元,列中资股份制商业银行第一位(DMI排名数据);承销绿色非金融企业债务融资工具规模218.06亿元,列股份制商业银行第二位(交易商协会数据);承销类REITs规模40.40亿元,列市场第二位(Wind数据),并落地多项市场首单债券业务。在并购、银团、资本市场等领域持续发力,保持较好发展态势。报告期内,并购融资投放1,511.39亿元,市场优势明显;银团融资投放1,518.42亿元,增长53.61%;资本市场业务投放374.66亿元,增长34.91%,超80%投向优质民营实体企业,落地市场首单公募REITs高管战略配售等。四大协同更加高效。强化投承、投贷、投私、投研一体化,打通资产构建、承销、撮合、流转各个环节,充分发挥大投行作用。投承方面,发挥“研投承销托”优势,通过整合承销优势、投资优势,把高效内部协同转化为“商行+投行”的竞争力,擦亮“债券银行”名牌。截至报告期末,集团内联动投资规模2,079.85亿元。投贷方面,围绕科创客群,集团内部相关部门协同完善全生命周期产品服务图谱,构建科创金融生态朋友圈。截至报告期末,“专精特新”客户突破2万户。投私方面,通过客户资源整合,挖掘企业、同业、零售客户财富管理需求,打通“大投行、大资管、大财富”链接,为财富板块提供优质资产。投研方面,与兴业研究稳步推进“投研协同”合作机制,在债券承销、并购融资等方面建立起研究与业务之间的双向互动,加强金融和产业的融合分析。截至报告期末,合作开展路演18场,完成深度研究报告64篇。资产流转规模稳步增长。通过投行朋友圈打造市场资金体外循环机制。报告期内,实现资产流转2,403.14亿元,其中信贷资产证券化1,205.22亿元,同比增长144.83%。代理推介落地789.88亿元,与77家机构达成实质合作,带动存款超650亿元、产品托管超530亿元。持续打造开放融合的代理推介和银团分销业务,多渠道解决客户多元化融资需求。(五)“五大新赛道”加快布局1.科创金融加快完善服务体系报告期内,公司着力构建全方位、多层次、广覆盖的科创金融全生命周期服务体系,“商投私同”联动服务科技企业发展。截至报告期末,公司合作科创金融客户6.94万户,较上年末增长34.33%。国家技术创新示范企业、制造业单项冠军企业、国家级专精特新“小巨人”、省级“专精特新”中小企业合作覆盖率分别为66.31%、60.02%、41.90%、20.55%,其中,深度合作客户覆盖率分别为52.18%、48.00%、28.79%、11.23%。累计助力4,492家中小科创企业成长为大型企业,服务科技领域上市、拟上市公司11,331家。科创金融贷款余额4,532.12亿元,较上年末增长31.88%,增加1,095.54亿元,占当期贷款新增比重22.92%;不良贷款率0.81%,低于企金贷款平均水平。科创客户财富余额8,358.96亿元,较上年末增长16.12%。建设科创金融“六专”管理体系。制定专门的发展规划、构建专营的组织架构、组建专业的经营管理团队,建立专用的风险管理制度和技术手段,明确专项的激励考核机制、实施专属的信贷“新三查”标准。在组织架构上,形成“1+16+N”的总分支、前中后台协同体系,即总行牵头,16家重点分行科技金融中心,N家科技特色支行及专营团队的队伍体系。截至报告期末,已建设科技支行8家,科技特色支行4家。在风险管理制度方面,针对科创企业特点,对企业技术实力进行量化评估并划分等级,在客户准入、授信流程、授权管理、授信政策、存续期管理、不良容忍度、责任认定等方面实行与资金流模式差异化的管理措施,加大“技术流”授信评价模式的推广运用。截至报告期末,已迭代更新至5.0版本,将科研团队、技术优势等9大类279个数据指标入模分析,并通过模型审批提升业务效率。报告期内,公司通过“技术流”审批项目金额超1万亿元,投放户数9,615户。截至报告期末,“技术流”投放余额2,636.40亿元,较上年末增加631.48亿元,增长31.50%。持续完善科创金融客户体系和产品体系。加大对关键核心技术攻关和科技型中小企业两个重点领域的融资支持。针对不同阶段的科创企业,提供“股贷债保”“商投私同研”多元化全生命周期金融服务,重点推动“高科技人才创业贷款”“投贷联动贷款”“知识产权质押融资”“并购贷款”“科创票据”“员工持股融资”“战略配售”“股权激励”等“商行+投行+私行”创新服务,以及产业撮合、系统赋能、研究赋能等非金融服务。推出“兴速贷(优质科创企业专属)”,实现1,000万元以内优质科创企业的线上审批和放款,极大提升金融服务的便捷性。聚焦生态协同,搭建投资朋友圈。扩大和深化头部投资机构总对总合作,完善投资机构“募投管退”全流程服务,深化产业投资机构战略合作,助力科创企业打通股权融资渠道,打造投贷联动合作的标杆。推进与各证券交易所建立合作,赋能科创企业资本市场业务发展。加强科研院所合作,与清华大学、复旦大学、中国科学技术大学、西安交通大学等高校研究院开展产学研融合合作。与中科院建立总对总合作,依托集团多牌照经营资源,联合中科院共同设立“成果孵化种子基金”,支持技术成果转化。2.普惠金融加快数字化赋能报告期内,公司丰富普惠产品供给、加快数字化转型,不断提升金融服务普惠小微企业的专业性,全力支持实体经济高质量发展。截至报告期末,普惠小微贷款余额5,009.65亿元,较上年末增长23.95%,增加968.04亿元,占当期贷款新增比重20.25%,不良贷款率0.95%,报告期内新发放普惠小微贷款平均利率3.87%;普惠小微贷款户数23.19万户,增长16.90%。公司持续优化网点布局,增强金融可得性、便利性。报告期末,公司营业网点2,085家,较上年增加27家,其中传统支行1,084家,较上年增加21家,社区支行836家,较上年增加6家。推行“一链一策一批”的工作方法。围绕行业成立敏捷工作小组,并建立敏捷工作机制,深入挖掘典型供应链场景。围绕“场景数字化”,推进场景生态数据的获取与应用,持续创设和优化各类场景专案,并进行推广复制,逐步建立完善配套制度以规范业务发展,推动普惠场景线上融资的高质量发展。通过对接外部场景生态,打造行业场景样板,定制信用场景融资专案,配套差异化模型策略和系统流程,创设场景类线上产品,如“兴速贷(黑金私行客户专属)”“兴速贷(保证增信专属)”“兴速贷(票据专属)”等。截至报告期末,企金信用场景余额287.63亿元,较上年末新增84.37亿元,增幅41.51%。发挥产品优势加大重点领域信贷投放。充分调研客户融资需求,及时优化产品期限、贷款成数和还款宽限期设置等产品要素,积极推广“工业厂房贷”“兴业普惠贷”“连连贷”等拳头产品,截至报告期末,以上产品余额1,156.21亿元,较上年末增加121.49亿元,增长11.74%,有效支持制造业小微企业发展。围绕“产品线上化”,通过大数据应用及流程优化,实现线下产品线上化,提高业务效率,释放一线业务人员产能,创设并升级优化“兴速贷(资产抵押专属)”“兴速贷(资产购置专属)”“兴速贷(线上普惠专属)”等线上融资产品,增强小微企业金融服务获得感。截至报告期末,上述线上产品贷款余额404.32亿元,较上年末增加313.77亿元,增长346.52%。加快推进普惠金融数字化运营。持续建设运营“兴业普惠”开放式服务平台,将其作为普惠客群最主要的引流入口,建立线上线下一体化综合运营模式。截至报告期末,“兴业普惠”平台注册用户178,163户,认证用户36,449户,较上年末分别增加109,848户、7,631户,增长160.80%、26.48%;对接外部场景平台876个;累计解决融资需求金额2,692.16亿元,较上年末增加1,686.35亿元,增长167.66%;融资余额691.95亿元,较上年末增加398.14亿元,增长135.51%。服务国家战略,打造兴业特色乡村振兴金融服务模式。围绕专业批发市场、金融特派员、数字乡村、服务各地特色产业等四个维度,构建兴业特色乡村振兴金融服务模式。截至报告期末,已对接320个农批市场,农批业务全场景融资余额超150亿元。“兴业普惠·智慧农批系统”已在63家农批市场上线。通过兴业银行金融特派员队伍,结合乡村振兴等重点业务目标,构建与政府、企业和其他组织的新型合作机制,全面提升乡村振兴金融服务的可得性、便捷性、专业性,深化业务风险协同防控,在此基础上打造“金融特派员+科技特派员”“金融特派员+产业振兴”等特色服务模式,进一步扩大农村客群服务广度。截至报告期末,涉农贷款余额6,647.60亿元,较报告期初增长21.59%;普惠型涉农贷款余额560.84亿元,较报告期初增长42.63%。3.能源金融加快绿色低碳转型报告期内,公司能源金融业务发展兼顾新能源、传统能源及石油化工等细分赛道,在推动传统能源转型发展的同时,支持水电、光伏、风电等新能源发展。截至报告期末,公司能源金融客户数4.5万户,较上年末增加7,128户,增长18.62%。对公融资余额7,362.77亿元,较上年末增长10.69%,其中,贷款余额3,667.10亿元,较上年末增长16.16%,不良贷款率0.30%。符合人行绿色贷款标准、支持绿色转型的贷款余额1,732.58亿元,较上年末增长27.11%,不良贷款率0.02%。存款日均余额3,146.16亿元,较上年末增加307.31亿元。深耕能源化工领域细分赛道。稳步发展煤炭、火电等传统能源金融业务,并积极发挥研究优势把握新能源、化工新材料行业发展机遇。截至报告期末,新能源装备制造、新能源发电领域融资余额1,691亿元,较上年末增长28%,在能源金融资产规模中占比由20%提高至23%。民营炼化企业资产规模新增迅猛,原油加工及炼化行业资产结构优化,6家头部炼化企业融资余额377亿元,较上年末增长14%,在石油化工领域资产规模中占比由42%提高至45%。做好四大产品服务。重点做好投行、商行、公私一体化、数字金融四大类产品服务,通过创新权益融资服务,与行业重点客户建立战略合作;通过供应链金融,延伸服务产业链客户;通过公私一体化经营,带动零售金融业务发展;推动产品服务线上化,提高客户服务效率。截至报告期末,供应链拓展上下游客户数较上年末增长16.12%;代发工资企金客户数较上年末增长23.02%。建设五大生态。着力建设新能源装备制造产业链生态、集中式电站生态、工商业分布式电站生态、户用光伏生态和“零碳+园区”等五大生态,实现经济效益与社会效益双丰收,并于“新能源产业绿色金融杭州峰会”期间与26家新能源企业组建“兴业银行零碳产业联盟”,将推动“园区零碳”作为联盟的第一个行动主题。4.汽车金融加快推进生态经营公司围绕“造车”“买车”“用车”“换车”汽车生态圈四大场景内主要客户需求,通过不断提升专业经营能力,增强数字化赋能,推进相关金融业务布局。截至报告期末,公司企金端汽车金融客户4.87万户,较上年末增加7,067户,增长16.96%;对公融资余额3,649.44亿元,较上年末增长12.48%,其中贷款余额1,465.47亿元,较上年末增长26.14%,不良贷款率0.26%,低于企金贷款整体平均水平,资产质量保持良好;日均存款余额2,146.39亿元,较上年末增长15.23%。零售汽车消费贷和信用卡分期余额75.42亿元,较上年末增长59.25%。推动汽车金融向“行业全生态金融”经营发展演变。在“造车”场景建设上,通过持续提升综合经营服务能力,强化与重点整车及零部件客群的整体合作,带动资产业务及负债业务实现较快增长,新能源整车制造及动力电池产业制造领域的业务规模、合作客群处于同类型银行领先地位。在“买车”场景建设上,依托流程优化及数字化升级,为众多新能源车企终端销售提供定制化产品与专属服务,服务经销商客群数量及业务规模双双实现较快增长,并成功跻身经销商业务领域同业第一梯队。在“用车”“换车”场景建设上,以创新模式成功切入出行及二手车全新领域,与行业内头部企业建立并深度绑定合作关系。目前,汽车金融服务的企业客群已涵盖零部件制造销售、整车生产销售、汽车经销商、汽车租赁公司、二手车商、终端购车企业以及动力电池和车辆回收企业等众多领域。加快新能源汽车业务发展。新能源汽车相关金融业务已成为公司汽车金融实现转型发展的重要桥头堡,并为公司绿色金融发展提供有力支撑。截至报告期末,新能源汽车相关资产余额1,702.07亿元,在汽车金融中的占比达46.64%,较上年末提升6.61个百分点;贷款余额832.10亿元,占比56.78%,较上年末提升11.78个百分点;日均存款1,024.78亿元,占比47.74%,较上年末提升15.17个百分点。新能源汽车主要经营指标占比均高于31.6%的国内新能源汽车行业渗透率水平。5.园区金融加快服务产业发展报告期内,公司秉承“以园区为载体、产业为落脚”的发展理念,坚持把园区金融作为服务实体经济的主战场,大力促进产业、城市、民生融合发展,为产业园区的集群化、绿色化、数字化发展贡献金融力量。截至报告期末,公司园区金融客户数393,460户,较上年末增长3.64%;园区金融融资规模20,599.13亿元,较上年末增加2,929.06亿元,增长16.58%,其中园区金融贷款规模12,949.25亿元,较上年末增长27.40%。通过公私联动,拓展园区代发企业4.99万户,占代发企业35.62%,园区累计零售代发客户328.72万户,占零售代发客户44.8%。园区金融支持方面,积极助力地方政府产业赋能和产业整合,打造实体经济发展增长极。通过产业基金、双创债融等产品助力区域招商引资业务,通过厂房按揭、线上快押贷等品种解决中小园区企业购置厂房需要,同时,面向园区入驻员工提供综合零售服务。园区生态支持方面,公司自主研发“园区生态服务平台”,为园区内各类主体的日常办公运营提供全流程、线上化解决方案。截至报告期末,“园区生态服务平台”已在全国328个园区上线使用。公司在全国各级园区设立了192家综合性支行,累计服务园区及驻园客户接近40万户。发挥投行和绿金优势。打造“投融管退”全生命周期支持方案,发挥投行产品优势,引导优质项目发行公募REITs,助力资产盘活。同时,在国家“双碳”战略指引下,为园区节能降碳、绿色改造等需求提供专业化服务。截至报告期末,园区场景下的绿色融资余额6,893亿元,占公司绿色融资比例36%。(六)“数字兴业”继续提速1.筑牢数字化转型根基持续优化科技体制机制,加大科技资源投入,实施科技万人计划,推进新型数字化人才认证,营造学科技、懂科技、用科技文化氛围。报告期内,集团科技投入83.98亿元,同比增长1.78%,占公司营业收入的比重为3.98%。截至报告期末,科技人才7,828人,较上年末增长16.85%,科技人才占比13.91%,较上年末提升2.04个百分点。持续加强科技统筹管理与科技安全管理,夯实科技基础,增强能力建设,完善先进算力布局,启动分布式核心工程建设,持续推进系统云化改造,应用系统上云率81.07%。2.坚持“企业级、标准化”方法论以“企业级、标准化”方法论推进数字化转型。建设完成营销、财富、投行、风控、运营“五大企架工程”,推进流程、数据、模型、开发、运营“五个标准化”,开展产品、流程、系统、制度“四项梳理”,推动品牌、产品、制度、系统的一体化建设和管理。规划新型企业级架构蓝图,设计119个业务组件、152个应用组件、14个交互组件,将项目建设从部门级需求管理、竖井式开发模式逐步转变为企业级需求整合管理、组件式开发模式。首次发布企业级数据字典,建成2.8万项企业级数据字典标准。企业级智能反欺诈平台荣获人民银行“金融科技发展二等奖”。报告期内共发布45份企业标准,其中信息技术领域29份,按金融行业企业标准领跑者活动要求公开13份企业标准,《企业级用户体验标准化设计规范》等3份标准被人民银行认定为金融行业相关领域首份企业标准。3.焕新升级线上平台新设数字运营部,探索数字化运营新模式,增强对数字化运营体系统筹规划,围绕企业级运营体系建设,做到资源统一配置、策略统一安排、客户统一管理、成效统一评价,持续推动运营标准化。完善手机银行,焕新升级“五大线上平台”,初步构建起涵盖“1(手机银行)+5(兴业普惠、兴业管家、兴业生活、钱大掌柜、银银平台)+N(各类场景生态)”的“数字兴业”体系。手机银行升级至6.0版,月活跃用户数增长7.52%至2,252.62万户;兴业普惠认证企业户数较上年末增长26.48%至3.64万户,累计解决融资需求金额同比增长167.66%,融资余额691.95亿元,较上年末增加398.14亿元,加快为中小微企业、个体工商户、小微企业主等全方位综合服务;兴业管家月均MAU较上年末增长22.16%,客户数较上年末增长20.08%,交易笔数增长16.34%;钱大掌柜月均MAU较上年末增长26.40%,注册客户数较上年末增长23.86%、绑卡客户数较上年末增长12.85%,带动他行卡客户转化为公司借记卡客户0.69万户,同比多增0.56万户;兴业生活注册客户数较上年末新增1,072.91万户,同比多增10.60%;银银平台机构投资保有规模3,663亿元,较上年末增长68.74%。加快构建“AI+人工”外呼、企业微信运营、APP在线理财等多元数字化经营,智能外呼占比97.6%,聚焦长尾、财富、零贷、普惠、信用卡等重点客群,建立数据模型、部署数字化营销策略、构建多层次协同联动运营机制,基于特色权益、产品,搭建61个场景,客户层级平均提升率9%,手机银行、兴业管家、钱大掌柜促活率较上年提升33.2%。4.发力场景生态建设通过科技赋能,积极推进场景生态建设,持续融入各类生态场景,深化“数字兴业”与实体经济融合发展。围绕住建、医疗、教育、交通等领域稳步推进B端场景生态平台建设,报告期内新增建设项目1,000余个,覆盖日均结算型存款3,190.41亿元,较上年末增长14.61%。开放银行API接口1,941个,较上年末增长28.54%,覆盖机构8,734家。以综合数字能力赋能实体产业,兴业通代发、财资云、园区生态服务、智慧农批等场景生态核心运营指标增长较好,其中“园区生态服务平台”累计签约427家园区。升级数字人民币产品体系,累计开立兴业钱包505.61万个,拓展数币商户16.86万家,签约服务2.5层中小银行123家。提升智能营销能力,推广“兴业码”“兴享惠”“兴福E卡”数字营销。深化人工智能大模型应用,形成首批大模型场景赋能,应用于智能研报摘要生成、企金产品智能问答、研发代码辅助生成等6大领域。(七)人才队伍持续加强1.全面激发人才活力启动人才交流工程,加大总分之间、母子之间、东西之间、南北之间干部交流任职力度,增强战略和经营策略的传导和专业能力的提升。报告期内,总行高层干部总分交流35人次、母子交流8人次、东西交流13人次、南北交流11人次,2021年以来累计推动各类交流共计238人次。推广竞争性人才使用机制,打破年龄、身份壁垒,在关键核心岗位中推广“揭榜挂帅”“链长制”“军令状”,开展以“兴飞跃”竞赛等业务攻坚竞赛活动,以战略执行、业务拓展为导向,充分挖掘干部潜力,提升业务实践能力。抓好储备型人才选育工作,为更好匹配“数字兴业”建设与五大新赛道细分领域研究,全面优化招聘结构,把校园招聘作为人才引进的主要渠道,加大理工科专业背景毕业生招聘力度,通过开展“雏雁计划”实习生项目、举办“数字兴业”科技挑战赛、与高校合办数字金融人才定制班等方式,不断提升兴业银行在毕业生群体中的品牌影响力;完善“全面培养、专人负责、持续辅导”的毕业生轮岗培养机制,规范毕业生入职培养,促进毕业生的全面健康发展,打造与战略转型相适应的人才成长梯队。2.打造年轻干部梯队拓宽干部人才交流晋升通道,建立高层年轻干部后备库、“鸿鹄”“鲲鹏”中层后备干部人才库,周密组织干部选拔和交流任职,建设一支有规模有质量的高中层后备干部生力军,报告期内新选拔163人入库,2021年以来累计推动各人才库400余人入库,逾1/3已交流任用。推动干部队伍年轻化,注重在重点项目中考察识别干部,选拔更多85后、90后成为中层干部队伍的中坚力量,让75后、80后成为高层干部队伍的中流砥柱。3.建设专业人才队伍系统化推进队伍建设,打造数字化、复合型、专业化、高端型、综合型、国际化、工匠型等“七型”人才队伍,出台专业序列管理办法,聚焦战略落地,深化“5+N”培训体系建设,协同联动各类实战实训活动,加快提升专业人才队伍的综合能力和岗位胜任力,推动各类人才加速向业务重点领域汇聚。聚焦转型发展方向,提升队伍专业能力支撑战略执行,大力实施“科技人才万人计划”“绿色金融人才万人计划”,加强财富队伍建设。1.总体经营情况(1)截至报告期末,公司资产总额101,583.26亿元,较上年末增长9.62%;本外币各项存款余额51,370.73亿元,较上年末增长8.45%;本外币各项贷款余额54,609.35亿元,较上年末增长9.59%;公司境外分支机构资产总额2,142.41亿元,占总资产的比例为2.11%。(2)报告期内,公司实现营业收入2,108.31亿元,同比下降5.19%,其中,手续费及佣金净收入277.55亿元,同比下降38.38%。实现归属于母公司股东的净利润771.16亿元,同比下降15.61%;加权平均净资产收益率10.64%,同比下降3.21个百分点;总资产收益率0.80%,同比下降0.23个百分点;成本收入比29.97%,同比上升0.60个百分点。(3)截至报告期末,公司不良贷款余额584.91亿元,较上年末增加40.03亿元;不良贷款率1.07%,较上年末下降0.02个百分点。报告期内,共计提减值611.78亿元,期末拨贷比为2.63%,较上年末上升0.04个百分点;拨备覆盖率为245.21%,较上年末上升8.77个百分点。",
+      "futureExpect": "(一)行业格局和趋势2024年是全面贯彻落实党的二十大精神的关键之年,也是全面贯彻落实中央金融工作会议精神的开局之年。中央金融工作会议为金融高质量发展举旗定向,提出加快建设金融强国的目标。银行业将积极践行中央金融工作会议有关要求,把握内外部形势,抓住发展机遇,有效应对挑战。从国际看,外部环境的复杂性、严峻性、不确定性上升,全球政治经济格局加速分化,地缘政治依然复杂多变,全球产业链重构加速推进;发达经济体加息进入尾声,但增长前景分化,普遍面临“高通胀、高利率、高债务、低增长”等挑战。从国内看,我国发展面临的有利条件强于不利因素,经济回升向好、长期向好的基本趋势没有改变,同时经济呈现速度变化、结构优化、动力转换三大特点,经济增速换挡,风险加速释放,周期性、结构性矛盾并存。机遇方面,中央金融工作会议提出的科技金融、绿色金融、普惠金融、养老金融、数字金融“五篇大文章”,为银行业在服务科技创新、绿色发展、普惠小微、养老金融等领域发展注入新动能。新兴城镇化建设持续推进,现代化产业体系建设加快发展,银行业在服务城镇化建设、新质生产力等方面空间广阔、大有可为。此外,党的二十大关于实现共同富裕、增加居民收入、完善收入分配制度、发展教育养老事业等系统性安排,以及民营经济发展壮大、海峡两岸融合发展等政策,也给银行业财富业务等诸多领域及区域发展带来更多机遇。挑战方面,银行业已经全面进入“低息差、低利润、低增长”的新常态,在增强金融服务实体经济力度、降低综合融资成本的政策导向下,银行业净息差收窄持续承压,盈利能力面临挑战。新旧动能切换影响深远,部分行业、区域风险的暴露和出清仍需要较长时间,商业银行资产质量面临较大的管控压力。(二)42024年公司发展战略和策略2024年,公司将坚持以习近平新时代中国特色社会主义思想为指导,全面贯彻党的二十大和中央金融工作会议、中央经济工作会议精神,保持战略稳定,坚持稳中求进、以进促稳,先立后破,提升“战略执行、客户服务、投资交易、全面风控、管理推动”五大能力,聚焦“五篇大文章”有力服务实体经济,继续巩固基本盘、布局新赛道,锲而不舍推动数字化转型,打好风险防范化解攻坚战,全力推进增收节支,在转方式、调结构、提质量、增效益上积极进取,夯实发展基础,加快转型升级,打造具有兴业特色的价值银行。一是提升战略执行能力。坚持走“轻资产、轻资本、高效率”发展之路,强化资本集约经营理念,提升风险资产配置效率和风险计量水平。聚焦零售业务提升,推动零售、企金、同业与金融市场业务板块协同均衡发展。围绕“五篇大文章”,融合“五大新赛道”,聚焦“区域+行业”,构建与区域经济结构、产业经济结构更加匹配的资产负债表,更加有力服务经济社会高质量发展。二是提升客户服务能力。将坚持以人民为中心的发展理念落实到以客户为中心的经营理念,精耕细作,持续健全客户经营体系,把握数字时代客户触达方式、需求发生的深刻变化,不断提升线上平台运营成效,深度参与企业、居民生产生活场景,构建多元场景生态,加快“数字兴业”发展,持续优化客户体验,加快从产品主导向客户主导业务发展模式转换。三是提升投资交易能力。发挥金融市场业务长板优势,积极融入多层次金融市场建设,强化研究赋能,优化大类资产配置和投资组合,有效把握市场机会,助力市场提升定价效率和交易活跃度,更好发挥市场在金融资源配置中的决定性作用。四是提升全面风控能力。树立“管好风险再做业务”理念,坚持“让利不让风险”原则,加强政策研判,前瞻性把好准入关口,做实全面风险管理体系,做好重点领域信用风险管控,持续打好特资重点项目攻坚战,提升“三道防线”履职能力,提升线上业务风控水平,保障转型发展行稳致远。五是提升管理推动能力。坚持把人才作为第一资源,全方位引进、培养、用好人才,健全选育管用干部工作体系,持续健全“5+N”培训体系,激活人才队伍动能。全面提升科技产能,建立科技投入产出评价体系,优化人才结构布局,持续推进数据治理,丰富数据资产,赋能数字化运营、风险管理和经营决策,筑牢科技安全防线。坚持价值创造导向,优化财务资源配置,支持保障战略执行。开展以基层员工、基本制度、基础管理为核心的“三基”管理提升活动,夯实可持续发展根基。(三)42024年公司经营计划及展望2024年经营计划制定紧紧围绕公司发展战略,积极推进资产负债表重构再提升,持续强化资本集约经营理念,落实各项“增收节支”举措,制定务实求真、积极可行的计划目标。一是保持总资产规模平稳增长,信贷结构进一步优化,协同推进“五篇大文章”和“五大新赛道”,加大重点领域贷款投放,大力推动零售信贷多元化发展,提升业务发展可持续性;二是负债保持稳健匹配,统筹量价均衡发展,加大场景建设和客户服务,强化成本管控,推动负债结构的持续优化;三是夯实客户基础,通过多元化金融服务提升客户粘性,拓展理财、财富等中间业务收入;四是优化资源配置结构,牢固树立过“紧日子”思想,加强资源集约管理,强化投入产出要求,提升资源使用效率;五是坚持稳健审慎经营,提升风险防御能力,着力控新降旧减损,推动重点领域风险化解取得成效,不良贷款率保持稳定。1.利息净收入展望展望2024年,公司战略方向与“五篇大文章”高度契合,在长期坚持打造绿色银行、财富银行、投资银行“三张名片”,前瞻性布局科创金融、普惠金融、能源金融、汽车金融、园区金融“五大新赛道”、加快“数字兴业”建设的过程中,已经建立了适配“五篇大文章”的产品体系、风控模式、研究能力、协同机制、科技平台、人才队伍,能更好、更快满足客户的多样化需求,具备了突出的专业能力、明显的先发优势、高效的服务响应。公司将在已有工作的基础,协同推进“五大新赛道”和“五篇大文章”,努力在各家金融机构的千帆竞渡中,走出一条差异化发展道路,形成特色优势。以业务转型带动客户结构、资产结构、负债结构优化,以专业能力、高效服务稳定资产盈利水平,以生态场景建设、重点产业链结算经营等带动负债成本优化,着力提升发展的质量,努力保持息差处于合意水平。科技金融方面,公司将在科创金融的基础上进一步扩大视角,充分发挥集团牌照优势和同业朋友圈优势,优化“股贷债保”产品体系,为客户提供全生命周期综合服务方案。继续强化公私联动,提升对企业主、企业员工、企业用户的服务水平,争取更多私人银行、工资代发、消费信贷业务机会。大力发展园区金融,在园区内加快科技支行建设,充分利用园区科技企业、科技人才较多的优势,推动科技金融快速发展。持续迭代更新“技术流”授信模式,为科创企业“精准画像”,加快技术专利等无形资产“变现”。绿色金融方面,公司将不断巩固领先者地位、加强创新能力建设,提升兴业研究、碳金融研究院、绿色金融部/战略客户部的政策把握能力、市场分析能力、产品创新能力,加强绿色债券、绿色基金、绿色理财、绿色信托创新运用,为分行服务客户提供有力的引领支持。努力在传统产业绿色低碳改造和绿色低碳产业发展上有更多建树,在能源金融、汽车金融、园区金融等重点领域实现更多突破,在建设美丽乡村、推动生态产品变现上有更大作为,在服务碳减排、碳交易、碳中和及开立碳账户、应对碳关税、帮助企业打造ESG管理体系等方面有更多进展。普惠金融方面,公司将着力提升数据应用能力、产品创新能力、客户运营能力和智能风控能力,促进与绿色金融、科技金融的融合发展。持续完善“线上+线下”“场景+平台”综合服务体系,加强内部数据整合和外部数据配合,强化模型管理,做好存续期管理,坚持基本的经营逻辑,通过“大数据”有效防范风险、降低成本、提升收益。积极运用“三张名片”助力小微企业绿色转型、财富保值增值、借助资本市场更好发展,帮助老百姓通过稳健低波产品实现财富保值增值,切实做到金融为民,打牢客户基础。养老金融方面,公司将围绕养老金金融、养老服务金融、养老产业金融三大业务领域,健全养老金融综合服务体系。大力拓展金融社保卡资质,加快申请企业年金业务资质,积极发展类年金业务,为客户建立统一视角的养老账户,帮客户看清养老钱、管好养老钱、用好养老钱。区分备老和养老两大阶段的不同需求,提供金融服务加非金融服务的综合服务方案,在各类场景上建立兴业特色。深挖养老基础设施、养老地产、养老产品和服务生产制造等细分领域的业务机会。数字金融方面,公司数字化转型的“四梁八柱”基本成型,将加快释放更多现实生产力。一方面,深化科技、数据、业务融合,更有效服务数字产业化和产业数字化,加快产业金融领域的系统建设、平台建设、生态建设,促进数字经济和实体经济深度融合,重点在园区、智慧农批(专业市场)、新能源、汽车等领域开展生态场景建设。另一方面,增强数字运营能力,提升客户体验,激发五大线上平台用户活跃度,提高线上业务开展规模。2.非息净收入展望展望2024年,公司将立足客户金融服务需求,加快金融生态建设和提升,增强数字化服务运营能力,锻造财富银行和投资银行核心优势,提升非息收入的多元化和稳定性。财富银行方面,作为增收主要发力点,持续推进客户分层分类营销体系建设,强化投研,加大产品创新,持续优化和丰富财富产品供应,切实提升客户资产配置能力。推进钱大掌柜再升级再融合,形成以客户为中心、数据驱动型的线上财富管理平台。托管业务加快产品结构转型,重点布局公募基金、保险、理财等产品,并跟进信托业务创新、深挖私募股权等业务机会。投资银行方面,重点聚焦“投承、投贷、投私、投研”,打造更加高效的协同运作机制,在巩固债券承销类业务优势的基础上,推进产品创新,提升公司在REITs业务、银团融资、并购融资、资本市场、权益投资等领域的服务能力和竞争能力,抢抓新赛道业务机遇。强化投行撮合能力,实现与银行、保险、券商朋友圈的项目引流、产品互补、资产销售流转,互利共赢合作。资金业务方面,重点加强研究赋能,继续发挥资金业务传统优势,前瞻性把握市场节奏,优化债券投资组合,持续提升投资业务交易水平和布局能力。继续保持利率债、利率衍生品和汇率衍生品等的做市优势地位,提升FICC核心竞争力,满足客户日益增长的财富管理和进出口客户的汇率避险需求。银行卡业务方面。大力发展代发工资、代发社保、收单等资金源头型业务。建设织网工程2.0,打通零售客户手机银行、兴业生活、钱大掌柜三大APP,实现互联互通。持续优化信用卡客群结构,做大年轻客群,进一步深耕“兴业生活”消费场景,推动消费交易回升。3.资产质量展望展望2024年,公司将积极服务国家战略,加强研究赋能、促进风险与业务的融合,持续优化客户和业务结构,以高质量的发展夯实资产质量管控基础。同时,继续推动重点领域风险化解处置,建立总行行领导挂钩督导、风险防控敏捷小组等机制,整合集团专业力量、提高决策和执行效率,用好政策工具,有序、有力化解重点领域风险。房地产方面,公司将坚决落实中央关于积极稳妥化解房地产风险的决策部署。一是坚持转型发展,积极参与“三大工程”、租赁房、园区金融等业务,促进房地产业务的转型发展;二是坚持“四个为主”业务策略,客户选择以资金链稳定、负债结构合理的行业龙头为主,区域选择以京津冀、长三角、珠三角核心城市和新一线城市为主,项目选择以适销性强的普通商品住宅为主,产品选择以短久期项目为主,持续优化房地产业务结构;三是继续发挥机制优势,通过合理授权、优化人员组合进一发挥房地产风险防控敏捷小组专业能力,把握政策窗口期,应用城市房地产融资协调机制、“保交楼”等政策工具,多措并举推动项目复工复产,盘活楼盘价值,化解房地产业务风险。地方政府融资平台方面,公司将继续坚持合规和市场化原则,将业务转型发展和存量风险化解有机结合。一方面以转型发展为导向,主动加大对绿色经济、住房租赁、乡村振兴、新型城镇化及当地优质产业的信贷投放,服务区域经济高质量发展,构建良好银政关系,助力化解;另一方面继续保持地方政府融资平台业务风险管控高压态势,持续完善总行行领导挂钩督导与风险防控敏捷小组协同工作机制,用好用足政策工具,支持地方债务风险化解,并维护自身合法权益。信用卡方面,公司将围绕“控不良、建体系、快转型”的总基调,完善信用卡全流程风险管理体系,加快信用卡业务转型发展。一方面,建立完善总分联动的风险管控体系,抓好风险准入、贷中管控、前催后催等关键环节,持续压降信用卡新发生不良;另一方面,加快业务转型,做实真实获客、做大有场景消费交易,优化交易结构和生息资产结构,实现规模与质量的平衡。"
+    }
+  ]
+}

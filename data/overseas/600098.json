@@ -1,0 +1,1774 @@
+{
+  "code": "600098",
+  "name": "广州发展",
+  "fetchTime": "2026-06-18T18:34:05",
+  "segments": [
+    {
+      "reportDate": "2025-12-31",
+      "byIndustry": [
+        {
+          "name": "能源物流业务",
+          "income": 29481802294.66,
+          "incomeRatio": 57.99,
+          "cost": 29156232968.24,
+          "costRatio": 62.84,
+          "profit": 325569326.42,
+          "profitRatio": 7.33,
+          "grossMargin": 1.1,
+          "rank": 1
+        },
+        {
+          "name": "燃气业务",
+          "income": 10148088882.32,
+          "incomeRatio": 19.96,
+          "cost": 8834924039.06,
+          "costRatio": 19.04,
+          "profit": 1313164843.26,
+          "profitRatio": 29.56,
+          "grossMargin": 12.94,
+          "rank": 2
+        },
+        {
+          "name": "电力业务",
+          "income": 7479357091.73,
+          "incomeRatio": 14.71,
+          "cost": 6463736539.82,
+          "costRatio": 13.93,
+          "profit": 1015620551.91,
+          "profitRatio": 22.86,
+          "grossMargin": 13.58,
+          "rank": 3
+        },
+        {
+          "name": "新能源及储能业务",
+          "income": 3238676872.34,
+          "incomeRatio": 6.37,
+          "cost": 1642710953.0,
+          "costRatio": 3.54,
+          "profit": 1595965919.34,
+          "profitRatio": 35.92,
+          "grossMargin": 49.28,
+          "rank": 4
+        },
+        {
+          "name": "其他(补充)",
+          "income": 443424295.14,
+          "incomeRatio": 0.87,
+          "cost": 283689278.76,
+          "costRatio": 0.61,
+          "profit": 159735016.38,
+          "profitRatio": 3.6,
+          "grossMargin": 36.02,
+          "rank": 5
+        },
+        {
+          "name": "其他产业",
+          "income": 50277553.16,
+          "incomeRatio": 0.1,
+          "cost": 17646456.27,
+          "costRatio": 0.04,
+          "profit": 32631096.89,
+          "profitRatio": 0.73,
+          "grossMargin": 64.9,
+          "rank": 6
+        },
+        {
+          "name": "其中:煤炭",
+          "income": 23062882143.43,
+          "incomeRatio": 45.36,
+          "cost": 22765000204.51,
+          "costRatio": 49.06,
+          "profit": 297881938.92,
+          "profitRatio": 6.71,
+          "grossMargin": 1.29,
+          "rank": 7
+        },
+        {
+          "name": "其中:天然气",
+          "income": 10148088882.32,
+          "incomeRatio": 19.96,
+          "cost": 8834924039.06,
+          "costRatio": 19.04,
+          "profit": 1313164843.26,
+          "profitRatio": 29.56,
+          "grossMargin": 12.94,
+          "rank": 8
+        },
+        {
+          "name": "其中:油品",
+          "income": 6394351769.68,
+          "incomeRatio": 12.58,
+          "cost": 6381144640.09,
+          "costRatio": 13.75,
+          "profit": 13207129.59,
+          "profitRatio": 0.3,
+          "grossMargin": 0.21,
+          "rank": 9
+        },
+        {
+          "name": "其中:煤电",
+          "income": 3918547846.77,
+          "incomeRatio": 7.71,
+          "cost": 3400076668.97,
+          "costRatio": 7.33,
+          "profit": 518471177.8,
+          "profitRatio": 11.67,
+          "grossMargin": 13.23,
+          "rank": 10
+        },
+        {
+          "name": "其中:气电",
+          "income": 3008980877.93,
+          "incomeRatio": 5.92,
+          "cost": 2584917312.68,
+          "costRatio": 5.57,
+          "profit": 424063565.25,
+          "profitRatio": 9.55,
+          "grossMargin": 14.09,
+          "rank": 11
+        },
+        {
+          "name": "其中:风力发电",
+          "income": 2191997937.18,
+          "incomeRatio": 4.31,
+          "cost": 1040541826.78,
+          "costRatio": 2.24,
+          "profit": 1151456110.4,
+          "profitRatio": 25.92,
+          "grossMargin": 52.53,
+          "rank": 12
+        },
+        {
+          "name": "其中:光伏发电",
+          "income": 1019915934.22,
+          "incomeRatio": 2.01,
+          "cost": 576696909.31,
+          "costRatio": 1.24,
+          "profit": 443219024.91,
+          "profitRatio": 9.98,
+          "grossMargin": 43.46,
+          "rank": 13
+        },
+        {
+          "name": "其中:煤电热力",
+          "income": 318878412.48,
+          "incomeRatio": 0.63,
+          "cost": 260140924.39,
+          "costRatio": 0.56,
+          "profit": 58737488.09,
+          "profitRatio": 1.32,
+          "grossMargin": 18.42,
+          "rank": 14
+        },
+        {
+          "name": "其中:气电热力",
+          "income": 195607600.61,
+          "incomeRatio": 0.38,
+          "cost": 189739207.22,
+          "costRatio": 0.41,
+          "profit": 5868393.39,
+          "profitRatio": 0.13,
+          "grossMargin": 3.0,
+          "rank": 15
+        },
+        {
+          "name": "其中:房产租赁",
+          "income": 49169527.23,
+          "incomeRatio": 0.1,
+          "cost": 16876335.03,
+          "costRatio": 0.04,
+          "profit": 32293192.2,
+          "profitRatio": 0.73,
+          "grossMargin": 65.68,
+          "rank": 16
+        },
+        {
+          "name": "其中:加气混凝土",
+          "income": 37342353.94,
+          "incomeRatio": 0.07,
+          "cost": 28862426.56,
+          "costRatio": 0.06,
+          "profit": 8479927.38,
+          "profitRatio": 0.19,
+          "grossMargin": 22.71,
+          "rank": 17
+        },
+        {
+          "name": "其中:危化品仓储",
+          "income": 24568381.55,
+          "incomeRatio": 0.05,
+          "cost": 10088123.64,
+          "costRatio": 0.02,
+          "profit": 14480257.91,
+          "profitRatio": 0.33,
+          "grossMargin": 58.94,
+          "rank": 18
+        },
+        {
+          "name": "其中:充电桩",
+          "income": 13668577.65,
+          "incomeRatio": 0.03,
+          "cost": 21807254.66,
+          "costRatio": 0.05,
+          "profit": -8138677.01,
+          "profitRatio": -0.18,
+          "grossMargin": -59.54,
+          "rank": 19
+        },
+        {
+          "name": "其中:储能及综合能源",
+          "income": 13094423.29,
+          "incomeRatio": 0.03,
+          "cost": 3664962.25,
+          "costRatio": 0.01,
+          "profit": 9429461.04,
+          "profitRatio": 0.21,
+          "grossMargin": 72.01,
+          "rank": 20
+        },
+        {
+          "name": "其中:融资租赁",
+          "income": 1108025.93,
+          "incomeRatio": 0.0,
+          "cost": 770121.24,
+          "costRatio": 0.0,
+          "profit": 337904.69,
+          "profitRatio": 0.01,
+          "grossMargin": 30.5,
+          "rank": 21
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "煤炭",
+          "income": 23064543028.53,
+          "incomeRatio": 45.33,
+          "cost": 22767913521.27,
+          "costRatio": 49.07,
+          "profit": 296629507.26,
+          "profitRatio": 6.68,
+          "grossMargin": 1.29,
+          "rank": 1
+        },
+        {
+          "name": "天然气",
+          "income": 10502056882.42,
+          "incomeRatio": 20.64,
+          "cost": 9067073195.69,
+          "costRatio": 19.54,
+          "profit": 1434983686.73,
+          "profitRatio": 32.3,
+          "grossMargin": 13.66,
+          "rank": 2
+        },
+        {
+          "name": "油品",
+          "income": 6395908933.37,
+          "incomeRatio": 12.57,
+          "cost": 6381977865.02,
+          "costRatio": 13.75,
+          "profit": 13931068.35,
+          "profitRatio": 0.31,
+          "grossMargin": 0.22,
+          "rank": 3
+        },
+        {
+          "name": "燃煤发电",
+          "income": 3991623307.63,
+          "incomeRatio": 7.84,
+          "cost": 3440393619.43,
+          "costRatio": 7.41,
+          "profit": 551229688.2,
+          "profitRatio": 12.41,
+          "grossMargin": 13.81,
+          "rank": 4
+        },
+        {
+          "name": "天然气发电",
+          "income": 3009223900.18,
+          "incomeRatio": 5.91,
+          "cost": 2583905639.41,
+          "costRatio": 5.57,
+          "profit": 425318260.77,
+          "profitRatio": 9.57,
+          "grossMargin": 14.13,
+          "rank": 5
+        },
+        {
+          "name": "风力发电",
+          "income": 2194507260.36,
+          "incomeRatio": 4.31,
+          "cost": 1042844257.06,
+          "costRatio": 2.25,
+          "profit": 1151663003.3,
+          "profitRatio": 25.92,
+          "grossMargin": 52.48,
+          "rank": 6
+        },
+        {
+          "name": "光伏发电",
+          "income": 1020539666.84,
+          "incomeRatio": 2.01,
+          "cost": 577118483.75,
+          "costRatio": 1.24,
+          "profit": 443421183.09,
+          "profitRatio": 9.98,
+          "grossMargin": 43.45,
+          "rank": 7
+        },
+        {
+          "name": "煤电热力",
+          "income": 318878412.48,
+          "incomeRatio": 0.63,
+          "cost": 260140924.39,
+          "costRatio": 0.56,
+          "profit": 58737488.09,
+          "profitRatio": 1.32,
+          "grossMargin": 18.42,
+          "rank": 8
+        },
+        {
+          "name": "气电热力",
+          "income": 195607600.61,
+          "incomeRatio": 0.38,
+          "cost": 189739207.22,
+          "costRatio": 0.41,
+          "profit": 5868393.39,
+          "profitRatio": 0.13,
+          "grossMargin": 3.0,
+          "rank": 9
+        },
+        {
+          "name": "房产租赁",
+          "income": 53158385.24,
+          "incomeRatio": 0.1,
+          "cost": 20069725.06,
+          "costRatio": 0.04,
+          "profit": 33088660.18,
+          "profitRatio": 0.74,
+          "grossMargin": 62.25,
+          "rank": 10
+        },
+        {
+          "name": "金融业务",
+          "income": 42626535.93,
+          "incomeRatio": 0.08,
+          "cost": 980935.32,
+          "costRatio": 0.0,
+          "profit": 41645600.61,
+          "profitRatio": 0.94,
+          "grossMargin": 97.7,
+          "rank": 11
+        },
+        {
+          "name": "加气混凝土",
+          "income": 39445407.59,
+          "incomeRatio": 0.08,
+          "cost": 31433335.06,
+          "costRatio": 0.07,
+          "profit": 8012072.53,
+          "profitRatio": 0.18,
+          "grossMargin": 20.31,
+          "rank": 12
+        },
+        {
+          "name": "危化品仓储",
+          "income": 24568381.55,
+          "incomeRatio": 0.05,
+          "cost": 10088123.64,
+          "costRatio": 0.02,
+          "profit": 14480257.91,
+          "profitRatio": 0.33,
+          "grossMargin": 58.94,
+          "rank": 13
+        },
+        {
+          "name": "储能及综合能源",
+          "income": 16789218.97,
+          "incomeRatio": 0.03,
+          "cost": 3664962.25,
+          "costRatio": 0.01,
+          "profit": 13124256.72,
+          "profitRatio": 0.3,
+          "grossMargin": 78.17,
+          "rank": 14
+        },
+        {
+          "name": "充电桩",
+          "income": 13668577.65,
+          "incomeRatio": 0.03,
+          "cost": 21807254.66,
+          "costRatio": 0.05,
+          "profit": -8138677.01,
+          "profitRatio": -0.18,
+          "grossMargin": -59.54,
+          "rank": 15
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华南地区",
+          "income": 28489632478.05,
+          "incomeRatio": 55.99,
+          "cost": 25978152803.01,
+          "costRatio": 55.99,
+          "profit": 2511479675.04,
+          "profitRatio": 56.53,
+          "grossMargin": 8.82,
+          "rank": 1
+        },
+        {
+          "name": "其他地区",
+          "income": 22393513021.3,
+          "incomeRatio": 44.01,
+          "cost": 20420787432.14,
+          "costRatio": 44.01,
+          "profit": 1972725589.16,
+          "profitRatio": 44.4,
+          "grossMargin": 8.81,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "reportDate": "2024-12-31",
+      "byIndustry": [
+        {
+          "name": "能源物流业务",
+          "income": 26564728431.95,
+          "incomeRatio": 54.97,
+          "cost": 26047870437.1,
+          "costRatio": 60.27,
+          "profit": 516857994.85,
+          "profitRatio": 10.23,
+          "grossMargin": 1.95,
+          "rank": 1
+        },
+        {
+          "name": "天然气业务",
+          "income": 9809293142.9,
+          "incomeRatio": 20.3,
+          "cost": 8299541531.0,
+          "costRatio": 19.2,
+          "profit": 1509751611.9,
+          "profitRatio": 29.89,
+          "grossMargin": 15.39,
+          "rank": 2
+        },
+        {
+          "name": "燃煤发电及供热业务",
+          "income": 5574055882.6,
+          "incomeRatio": 11.53,
+          "cost": 4618891437.04,
+          "costRatio": 10.69,
+          "profit": 955164445.56,
+          "profitRatio": 18.91,
+          "grossMargin": 17.14,
+          "rank": 3
+        },
+        {
+          "name": "天然气发电及供热业务",
+          "income": 3436625991.49,
+          "incomeRatio": 7.11,
+          "cost": 2942893304.11,
+          "costRatio": 6.81,
+          "profit": 493732687.38,
+          "profitRatio": 9.77,
+          "grossMargin": 14.37,
+          "rank": 4
+        },
+        {
+          "name": "新能源及储能业务",
+          "income": 2825049148.88,
+          "incomeRatio": 5.85,
+          "cost": 1287606315.17,
+          "costRatio": 2.98,
+          "profit": 1537442833.71,
+          "profitRatio": 30.44,
+          "grossMargin": 54.42,
+          "rank": 5
+        },
+        {
+          "name": "其他产业",
+          "income": 118676490.57,
+          "incomeRatio": 0.25,
+          "cost": 23074318.78,
+          "costRatio": 0.05,
+          "profit": 95602171.79,
+          "profitRatio": 1.89,
+          "grossMargin": 80.56,
+          "rank": 6
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "煤炭",
+          "income": 24510735625.46,
+          "incomeRatio": 50.72,
+          "cost": 24005893623.02,
+          "costRatio": 55.54,
+          "profit": 504842002.44,
+          "profitRatio": 9.99,
+          "grossMargin": 2.06,
+          "rank": 1
+        },
+        {
+          "name": "天然气",
+          "income": 9809293142.9,
+          "incomeRatio": 20.3,
+          "cost": 8299541531.0,
+          "costRatio": 19.2,
+          "profit": 1509751611.9,
+          "profitRatio": 29.89,
+          "grossMargin": 15.39,
+          "rank": 2
+        },
+        {
+          "name": "燃煤发电",
+          "income": 5066143844.64,
+          "incomeRatio": 10.48,
+          "cost": 4228304626.23,
+          "costRatio": 9.78,
+          "profit": 837839218.41,
+          "profitRatio": 16.59,
+          "grossMargin": 16.54,
+          "rank": 3
+        },
+        {
+          "name": "天然气发电",
+          "income": 3262985690.13,
+          "incomeRatio": 6.75,
+          "cost": 2751230106.5,
+          "costRatio": 6.37,
+          "profit": 511755583.63,
+          "profitRatio": 10.13,
+          "grossMargin": 15.68,
+          "rank": 4
+        },
+        {
+          "name": "油品",
+          "income": 2036924638.38,
+          "incomeRatio": 4.21,
+          "cost": 2033043681.62,
+          "costRatio": 4.7,
+          "profit": 3880956.76,
+          "profitRatio": 0.08,
+          "grossMargin": 0.19,
+          "rank": 5
+        },
+        {
+          "name": "风力发电",
+          "income": 1949398111.37,
+          "incomeRatio": 4.03,
+          "cost": 850449877.92,
+          "costRatio": 1.97,
+          "profit": 1098948233.45,
+          "profitRatio": 21.75,
+          "grossMargin": 56.37,
+          "rank": 6
+        },
+        {
+          "name": "光伏发电",
+          "income": 862507102.06,
+          "incomeRatio": 1.78,
+          "cost": 416821891.55,
+          "costRatio": 0.96,
+          "profit": 445685210.51,
+          "profitRatio": 8.82,
+          "grossMargin": 51.67,
+          "rank": 7
+        },
+        {
+          "name": "煤电热力",
+          "income": 409189207.23,
+          "incomeRatio": 0.85,
+          "cost": 312415870.46,
+          "costRatio": 0.72,
+          "profit": 96773336.77,
+          "profitRatio": 1.92,
+          "grossMargin": 23.65,
+          "rank": 8
+        },
+        {
+          "name": "气电热力",
+          "income": 173640301.36,
+          "incomeRatio": 0.36,
+          "cost": 191663197.61,
+          "costRatio": 0.44,
+          "profit": -18022896.25,
+          "profitRatio": -0.36,
+          "grossMargin": -10.38,
+          "rank": 9
+        },
+        {
+          "name": "加气混凝土",
+          "income": 98722830.73,
+          "incomeRatio": 0.2,
+          "cost": 78170940.35,
+          "costRatio": 0.18,
+          "profit": 20551890.38,
+          "profitRatio": 0.41,
+          "grossMargin": 20.82,
+          "rank": 10
+        },
+        {
+          "name": "金融业务",
+          "income": 59420688.38,
+          "incomeRatio": 0.12,
+          "cost": 1910393.1,
+          "costRatio": 0.0,
+          "profit": 57510295.28,
+          "profitRatio": 1.14,
+          "grossMargin": 96.78,
+          "rank": 11
+        },
+        {
+          "name": "房产租赁",
+          "income": 59255802.19,
+          "incomeRatio": 0.12,
+          "cost": 21163925.68,
+          "costRatio": 0.05,
+          "profit": 38091876.51,
+          "profitRatio": 0.75,
+          "grossMargin": 64.28,
+          "rank": 12
+        },
+        {
+          "name": "危化品仓储",
+          "income": 17068168.11,
+          "incomeRatio": 0.04,
+          "cost": 8933132.46,
+          "costRatio": 0.02,
+          "profit": 8135035.65,
+          "profitRatio": 0.16,
+          "grossMargin": 47.66,
+          "rank": 13
+        },
+        {
+          "name": "充电桩",
+          "income": 11648267.81,
+          "incomeRatio": 0.02,
+          "cost": 20029213.47,
+          "costRatio": 0.05,
+          "profit": -8380945.66,
+          "profitRatio": -0.17,
+          "grossMargin": -71.95,
+          "rank": 14
+        },
+        {
+          "name": "储能",
+          "income": 1495667.64,
+          "incomeRatio": 0.0,
+          "cost": 305332.23,
+          "costRatio": 0.0,
+          "profit": 1190335.41,
+          "profitRatio": 0.02,
+          "grossMargin": 79.59,
+          "rank": 15
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华南地区",
+          "income": 27336845662.1,
+          "incomeRatio": 56.56,
+          "cost": 25473590201.66,
+          "costRatio": 58.94,
+          "profit": 1863255460.44,
+          "profitRatio": 36.89,
+          "grossMargin": 6.82,
+          "rank": 1
+        },
+        {
+          "name": "其他地区",
+          "income": 20991583426.29,
+          "incomeRatio": 43.44,
+          "cost": 17746287141.54,
+          "costRatio": 41.06,
+          "profit": 3245296284.75,
+          "profitRatio": 64.24,
+          "grossMargin": 15.46,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "reportDate": "2023-12-31",
+      "byIndustry": [
+        {
+          "name": "能源物流业务",
+          "income": 25360586490.94,
+          "incomeRatio": 54.19,
+          "cost": 24803953403.75,
+          "costRatio": 59.46,
+          "profit": 556633087.19,
+          "profitRatio": 11.04,
+          "grossMargin": 2.19,
+          "rank": 1
+        },
+        {
+          "name": "天然气业务",
+          "income": 9336430613.49,
+          "incomeRatio": 19.95,
+          "cost": 7870958673.04,
+          "costRatio": 18.87,
+          "profit": 1465471940.45,
+          "profitRatio": 29.07,
+          "grossMargin": 15.7,
+          "rank": 2
+        },
+        {
+          "name": "燃煤发电及供热业务",
+          "income": 7953217308.27,
+          "incomeRatio": 16.99,
+          "cost": 6615111478.68,
+          "costRatio": 15.86,
+          "profit": 1338105829.59,
+          "profitRatio": 26.55,
+          "grossMargin": 16.82,
+          "rank": 3
+        },
+        {
+          "name": "新能源业务",
+          "income": 2186540377.84,
+          "incomeRatio": 4.67,
+          "cost": 945380143.6,
+          "costRatio": 2.27,
+          "profit": 1241160234.24,
+          "profitRatio": 24.62,
+          "grossMargin": 56.76,
+          "rank": 4
+        },
+        {
+          "name": "天然气发电和综合能源服务业务",
+          "income": 1799240893.22,
+          "incomeRatio": 3.84,
+          "cost": 1412924848.79,
+          "costRatio": 3.39,
+          "profit": 386316044.43,
+          "profitRatio": 7.66,
+          "grossMargin": 21.47,
+          "rank": 5
+        },
+        {
+          "name": "其他产业",
+          "income": 161374174.5,
+          "incomeRatio": 0.34,
+          "cost": 68388669.02,
+          "costRatio": 0.16,
+          "profit": 92985505.48,
+          "profitRatio": 1.84,
+          "grossMargin": 57.62,
+          "rank": 6
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "煤炭",
+          "income": 24434190436.03,
+          "incomeRatio": 52.21,
+          "cost": 23883054725.73,
+          "costRatio": 57.25,
+          "profit": 551135710.3,
+          "profitRatio": 10.93,
+          "grossMargin": 2.26,
+          "rank": 1
+        },
+        {
+          "name": "管道燃气",
+          "income": 9336430613.49,
+          "incomeRatio": 19.95,
+          "cost": 7870958673.04,
+          "costRatio": 18.87,
+          "profit": 1465471940.45,
+          "profitRatio": 29.07,
+          "grossMargin": 15.7,
+          "rank": 2
+        },
+        {
+          "name": "燃煤发电",
+          "income": 7340998936.59,
+          "incomeRatio": 15.69,
+          "cost": 6126945968.7,
+          "costRatio": 14.69,
+          "profit": 1214052967.89,
+          "profitRatio": 24.08,
+          "grossMargin": 16.54,
+          "rank": 3
+        },
+        {
+          "name": "天然气发电",
+          "income": 1647683571.15,
+          "incomeRatio": 3.52,
+          "cost": 1257703851.83,
+          "costRatio": 3.02,
+          "profit": 389979719.32,
+          "profitRatio": 7.74,
+          "grossMargin": 23.67,
+          "rank": 4
+        },
+        {
+          "name": "风力发电",
+          "income": 1489957271.11,
+          "incomeRatio": 3.18,
+          "cost": 587441560.35,
+          "costRatio": 1.41,
+          "profit": 902515710.76,
+          "profitRatio": 17.9,
+          "grossMargin": 60.57,
+          "rank": 5
+        },
+        {
+          "name": "油品",
+          "income": 909673465.95,
+          "incomeRatio": 1.94,
+          "cost": 909978913.96,
+          "costRatio": 2.18,
+          "profit": -305448.01,
+          "profitRatio": -0.01,
+          "grossMargin": -0.03,
+          "rank": 6
+        },
+        {
+          "name": "光伏发电",
+          "income": 668722788.71,
+          "incomeRatio": 1.43,
+          "cost": 324080040.67,
+          "costRatio": 0.78,
+          "profit": 344642748.04,
+          "profitRatio": 6.84,
+          "grossMargin": 51.54,
+          "rank": 7
+        },
+        {
+          "name": "煤电热力",
+          "income": 456739391.42,
+          "incomeRatio": 0.98,
+          "cost": 371358797.18,
+          "costRatio": 0.89,
+          "profit": 85380594.24,
+          "profitRatio": 1.69,
+          "grossMargin": 18.69,
+          "rank": 8
+        },
+        {
+          "name": "加气混凝土",
+          "income": 155478980.26,
+          "incomeRatio": 0.33,
+          "cost": 116806712.8,
+          "costRatio": 0.28,
+          "profit": 38672267.46,
+          "profitRatio": 0.77,
+          "grossMargin": 24.87,
+          "rank": 9
+        },
+        {
+          "name": "气电热力",
+          "income": 151557322.07,
+          "incomeRatio": 0.32,
+          "cost": 155220996.96,
+          "costRatio": 0.37,
+          "profit": -3663674.89,
+          "profitRatio": -0.07,
+          "grossMargin": -2.42,
+          "rank": 10
+        },
+        {
+          "name": "金融业务",
+          "income": 98178142.59,
+          "incomeRatio": 0.21,
+          "cost": 50473228.95,
+          "costRatio": 0.12,
+          "profit": 47704913.64,
+          "profitRatio": 0.95,
+          "grossMargin": 48.59,
+          "rank": 11
+        },
+        {
+          "name": "房产租赁",
+          "income": 63196031.91,
+          "incomeRatio": 0.14,
+          "cost": 17915440.07,
+          "costRatio": 0.04,
+          "profit": 45280591.84,
+          "profitRatio": 0.9,
+          "grossMargin": 71.65,
+          "rank": 12
+        },
+        {
+          "name": "充电桩",
+          "income": 27860318.02,
+          "incomeRatio": 0.06,
+          "cost": 33858542.58,
+          "costRatio": 0.08,
+          "profit": -5998224.56,
+          "profitRatio": -0.12,
+          "grossMargin": -21.53,
+          "rank": 13
+        },
+        {
+          "name": "危化品仓储",
+          "income": 16722588.96,
+          "incomeRatio": 0.04,
+          "cost": 10919764.06,
+          "costRatio": 0.03,
+          "profit": 5802824.9,
+          "profitRatio": 0.12,
+          "grossMargin": 34.7,
+          "rank": 14
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华南地区",
+          "income": 32046686597.06,
+          "incomeRatio": 68.48,
+          "cost": 29244274667.17,
+          "costRatio": 70.11,
+          "profit": 2802411929.89,
+          "profitRatio": 55.6,
+          "grossMargin": 8.74,
+          "rank": 1
+        },
+        {
+          "name": "其他地区",
+          "income": 14750703261.2,
+          "incomeRatio": 31.52,
+          "cost": 12472442549.71,
+          "costRatio": 29.9,
+          "profit": 2278260711.49,
+          "profitRatio": 45.2,
+          "grossMargin": 15.45,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "reportDate": "2022-12-31",
+      "byIndustry": [
+        {
+          "name": "能源物流业务",
+          "income": 30348556882.59,
+          "incomeRatio": 63.42,
+          "cost": 29604081328.22,
+          "costRatio": 66.89,
+          "profit": 744475554.37,
+          "profitRatio": 20.71,
+          "grossMargin": 2.45,
+          "rank": 1
+        },
+        {
+          "name": "电力业务",
+          "income": 8321185976.15,
+          "incomeRatio": 17.39,
+          "cost": 7712064359.75,
+          "costRatio": 17.43,
+          "profit": 609121616.4,
+          "profitRatio": 16.95,
+          "grossMargin": 7.32,
+          "rank": 2
+        },
+        {
+          "name": "燃气业务",
+          "income": 6944898772.62,
+          "incomeRatio": 14.51,
+          "cost": 5963902849.92,
+          "costRatio": 13.48,
+          "profit": 980995922.7,
+          "profitRatio": 27.29,
+          "grossMargin": 14.13,
+          "rank": 3
+        },
+        {
+          "name": "新能源业务",
+          "income": 1718766280.51,
+          "incomeRatio": 3.59,
+          "cost": 659795094.43,
+          "costRatio": 1.49,
+          "profit": 1058971186.08,
+          "profitRatio": 29.46,
+          "grossMargin": 61.61,
+          "rank": 4
+        },
+        {
+          "name": "其他(补充)",
+          "income": 412167326.63,
+          "incomeRatio": 0.86,
+          "cost": 255892389.66,
+          "costRatio": 0.58,
+          "profit": 156274936.97,
+          "profitRatio": 4.35,
+          "grossMargin": 37.92,
+          "rank": 5
+        },
+        {
+          "name": "其他产业",
+          "income": 104011103.55,
+          "incomeRatio": 0.22,
+          "cost": 59268637.04,
+          "costRatio": 0.13,
+          "profit": 44742466.51,
+          "profitRatio": 1.24,
+          "grossMargin": 43.02,
+          "rank": 6
+        },
+        {
+          "name": "其中:煤炭",
+          "income": 28738309901.9,
+          "incomeRatio": 60.06,
+          "cost": 28027403561.72,
+          "costRatio": 63.33,
+          "profit": 710906340.18,
+          "profitRatio": 19.78,
+          "grossMargin": 2.47,
+          "rank": 7
+        },
+        {
+          "name": "其中:管道燃气",
+          "income": 6944898772.62,
+          "incomeRatio": 14.51,
+          "cost": 5963902849.92,
+          "costRatio": 13.48,
+          "profit": 980995922.7,
+          "profitRatio": 27.29,
+          "grossMargin": 14.13,
+          "rank": 8
+        },
+        {
+          "name": "其中:煤电",
+          "income": 6195718120.0,
+          "incomeRatio": 12.95,
+          "cost": 6161890976.98,
+          "costRatio": 13.92,
+          "profit": 33827143.02,
+          "profitRatio": 0.94,
+          "grossMargin": 0.55,
+          "rank": 9
+        },
+        {
+          "name": "其中:油品",
+          "income": 1598840450.64,
+          "incomeRatio": 3.34,
+          "cost": 1570130974.81,
+          "costRatio": 3.55,
+          "profit": 28709475.83,
+          "profitRatio": 0.8,
+          "grossMargin": 1.8,
+          "rank": 10
+        },
+        {
+          "name": "其中:气电",
+          "income": 1330947013.93,
+          "incomeRatio": 2.78,
+          "cost": 893385190.9,
+          "costRatio": 2.02,
+          "profit": 437561823.03,
+          "profitRatio": 12.17,
+          "grossMargin": 32.88,
+          "rank": 11
+        },
+        {
+          "name": "其中:风力发电",
+          "income": 1219489956.9,
+          "incomeRatio": 2.55,
+          "cost": 429512868.65,
+          "costRatio": 0.97,
+          "profit": 789977088.25,
+          "profitRatio": 21.98,
+          "grossMargin": 64.78,
+          "rank": 12
+        },
+        {
+          "name": "其中:光伏发电",
+          "income": 482212731.13,
+          "incomeRatio": 1.01,
+          "cost": 208574513.37,
+          "costRatio": 0.47,
+          "profit": 273638217.76,
+          "profitRatio": 7.61,
+          "grossMargin": 56.75,
+          "rank": 13
+        },
+        {
+          "name": "其中:煤电热力",
+          "income": 459883976.71,
+          "incomeRatio": 0.96,
+          "cost": 390767647.81,
+          "costRatio": 0.88,
+          "profit": 69116328.9,
+          "profitRatio": 1.92,
+          "grossMargin": 15.03,
+          "rank": 14
+        },
+        {
+          "name": "其中:加气混凝土",
+          "income": 196290405.97,
+          "incomeRatio": 0.41,
+          "cost": 143333825.94,
+          "costRatio": 0.32,
+          "profit": 52956580.03,
+          "profitRatio": 1.47,
+          "grossMargin": 26.98,
+          "rank": 15
+        },
+        {
+          "name": "其中:气电热力",
+          "income": 138346459.54,
+          "incomeRatio": 0.29,
+          "cost": 122686718.12,
+          "costRatio": 0.28,
+          "profit": 15659741.42,
+          "profitRatio": 0.44,
+          "grossMargin": 11.32,
+          "rank": 16
+        },
+        {
+          "name": "其中:融资租赁",
+          "income": 56409301.13,
+          "incomeRatio": 0.12,
+          "cost": 42960841.18,
+          "costRatio": 0.1,
+          "profit": 13448459.95,
+          "profitRatio": 0.37,
+          "grossMargin": 23.84,
+          "rank": 17
+        },
+        {
+          "name": "其中:房产租赁",
+          "income": 47601802.42,
+          "incomeRatio": 0.1,
+          "cost": 16307795.86,
+          "costRatio": 0.04,
+          "profit": 31294006.56,
+          "profitRatio": 0.87,
+          "grossMargin": 65.74,
+          "rank": 18
+        },
+        {
+          "name": "其中:充电桩",
+          "income": 17063592.48,
+          "incomeRatio": 0.04,
+          "cost": 21707712.41,
+          "costRatio": 0.05,
+          "profit": -4644119.93,
+          "profitRatio": -0.13,
+          "grossMargin": -27.22,
+          "rank": 19
+        },
+        {
+          "name": "其中:危化品仓储",
+          "income": 11406530.05,
+          "incomeRatio": 0.02,
+          "cost": 6546791.69,
+          "costRatio": 0.01,
+          "profit": 4859738.36,
+          "profitRatio": 0.14,
+          "grossMargin": 42.6,
+          "rank": 20
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "煤炭",
+          "income": 28741497042.39,
+          "incomeRatio": 59.99,
+          "cost": 28040343054.94,
+          "costRatio": 63.36,
+          "profit": 701153987.45,
+          "profitRatio": 19.51,
+          "grossMargin": 2.44,
+          "rank": 1
+        },
+        {
+          "name": "管道燃气",
+          "income": 7242741891.41,
+          "incomeRatio": 15.12,
+          "cost": 6197604755.56,
+          "costRatio": 14.0,
+          "profit": 1045137135.85,
+          "profitRatio": 29.08,
+          "grossMargin": 14.43,
+          "rank": 2
+        },
+        {
+          "name": "燃煤发电",
+          "income": 6281691101.17,
+          "incomeRatio": 13.11,
+          "cost": 6166509317.32,
+          "costRatio": 13.93,
+          "profit": 115181783.85,
+          "profitRatio": 3.2,
+          "grossMargin": 1.83,
+          "rank": 3
+        },
+        {
+          "name": "油品",
+          "income": 1609442301.79,
+          "incomeRatio": 3.36,
+          "cost": 1570923022.44,
+          "costRatio": 3.55,
+          "profit": 38519279.35,
+          "profitRatio": 1.07,
+          "grossMargin": 2.39,
+          "rank": 4
+        },
+        {
+          "name": "天然气发电",
+          "income": 1331038475.27,
+          "incomeRatio": 2.78,
+          "cost": 893454567.16,
+          "costRatio": 2.02,
+          "profit": 437583908.11,
+          "profitRatio": 12.17,
+          "grossMargin": 32.88,
+          "rank": 5
+        },
+        {
+          "name": "风力发电",
+          "income": 1219536904.07,
+          "incomeRatio": 2.55,
+          "cost": 429606071.65,
+          "costRatio": 0.97,
+          "profit": 789930832.42,
+          "profitRatio": 21.98,
+          "grossMargin": 64.77,
+          "rank": 6
+        },
+        {
+          "name": "光伏发电",
+          "income": 482689659.84,
+          "incomeRatio": 1.01,
+          "cost": 208574513.37,
+          "costRatio": 0.47,
+          "profit": 274115146.47,
+          "profitRatio": 7.63,
+          "grossMargin": 56.79,
+          "rank": 7
+        },
+        {
+          "name": "煤电热力",
+          "income": 459883976.71,
+          "incomeRatio": 0.96,
+          "cost": 390767647.81,
+          "costRatio": 0.88,
+          "profit": 69116328.9,
+          "profitRatio": 1.92,
+          "grossMargin": 15.03,
+          "rank": 8
+        },
+        {
+          "name": "加气混凝土",
+          "income": 198799418.41,
+          "incomeRatio": 0.41,
+          "cost": 146811801.49,
+          "costRatio": 0.33,
+          "profit": 51987616.92,
+          "profitRatio": 1.45,
+          "grossMargin": 26.15,
+          "rank": 9
+        },
+        {
+          "name": "气电热力",
+          "income": 138346459.54,
+          "incomeRatio": 0.29,
+          "cost": 122686718.12,
+          "costRatio": 0.28,
+          "profit": 15659741.42,
+          "profitRatio": 0.44,
+          "grossMargin": 11.32,
+          "rank": 10
+        },
+        {
+          "name": "金融业务",
+          "income": 116596795.61,
+          "incomeRatio": 0.24,
+          "cost": 45530131.54,
+          "costRatio": 0.1,
+          "profit": 71066664.07,
+          "profitRatio": 1.98,
+          "grossMargin": 60.95,
+          "rank": 11
+        },
+        {
+          "name": "房产租赁",
+          "income": 59039687.9,
+          "incomeRatio": 0.12,
+          "cost": 16507843.88,
+          "costRatio": 0.04,
+          "profit": 42531844.02,
+          "profitRatio": 1.18,
+          "grossMargin": 72.04,
+          "rank": 12
+        },
+        {
+          "name": "充电桩",
+          "income": 17063592.48,
+          "incomeRatio": 0.04,
+          "cost": 21707712.41,
+          "costRatio": 0.05,
+          "profit": -4644119.93,
+          "profitRatio": -0.13,
+          "grossMargin": -27.22,
+          "rank": 13
+        },
+        {
+          "name": "危化品仓储",
+          "income": 11406530.05,
+          "incomeRatio": 0.02,
+          "cost": 6546791.69,
+          "costRatio": 0.01,
+          "profit": 4859738.36,
+          "profitRatio": 0.14,
+          "grossMargin": 42.6,
+          "rank": 14
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华南地区",
+          "income": 31180951976.32,
+          "incomeRatio": 65.08,
+          "cost": 28840899525.38,
+          "costRatio": 65.17,
+          "profit": 2340052450.94,
+          "profitRatio": 65.1,
+          "grossMargin": 7.5,
+          "rank": 1
+        },
+        {
+          "name": "其他地区",
+          "income": 16728821860.21,
+          "incomeRatio": 34.92,
+          "cost": 15416674424.0,
+          "costRatio": 34.84,
+          "profit": 1312147436.21,
+          "profitRatio": 36.5,
+          "grossMargin": 7.84,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "reportDate": "2021-12-31",
+      "byIndustry": [
+        {
+          "name": "能源物流业务",
+          "income": 22616971669.38,
+          "incomeRatio": 59.66,
+          "cost": 21673843779.7,
+          "costRatio": 59.63,
+          "profit": 943127889.68,
+          "profitRatio": 60.33,
+          "grossMargin": 4.17,
+          "rank": 1
+        },
+        {
+          "name": "电力业务",
+          "income": 7888124136.18,
+          "incomeRatio": 20.81,
+          "cost": 8633444257.46,
+          "costRatio": 23.75,
+          "profit": -745320121.28,
+          "profitRatio": -47.67,
+          "grossMargin": -9.45,
+          "rank": 2
+        },
+        {
+          "name": "燃气业务",
+          "income": 5404364933.1,
+          "incomeRatio": 14.26,
+          "cost": 5174481988.75,
+          "costRatio": 14.24,
+          "profit": 229882944.35,
+          "profitRatio": 14.7,
+          "grossMargin": 4.25,
+          "rank": 3
+        },
+        {
+          "name": "新能源业务",
+          "income": 1417955733.54,
+          "incomeRatio": 3.74,
+          "cost": 509645121.31,
+          "costRatio": 1.4,
+          "profit": 908310612.23,
+          "profitRatio": 58.1,
+          "grossMargin": 64.06,
+          "rank": 4
+        },
+        {
+          "name": "其他(补充)",
+          "income": 508850955.36,
+          "incomeRatio": 1.34,
+          "cost": 320008236.75,
+          "costRatio": 0.88,
+          "profit": 188842718.61,
+          "profitRatio": 12.08,
+          "grossMargin": 37.11,
+          "rank": 5
+        },
+        {
+          "name": "其他产业",
+          "income": 73865258.45,
+          "incomeRatio": 0.19,
+          "cost": 35361853.19,
+          "costRatio": 0.1,
+          "profit": 38503405.26,
+          "profitRatio": 2.46,
+          "grossMargin": 52.13,
+          "rank": 6
+        },
+        {
+          "name": "其中:煤炭",
+          "income": 20387943718.79,
+          "incomeRatio": 53.78,
+          "cost": 19547353225.56,
+          "costRatio": 53.78,
+          "profit": 840590493.23,
+          "profitRatio": 53.77,
+          "grossMargin": 4.12,
+          "rank": 7
+        },
+        {
+          "name": "其中:电力",
+          "income": 7107631451.12,
+          "incomeRatio": 18.75,
+          "cost": 7948364210.78,
+          "costRatio": 21.87,
+          "profit": -840732759.66,
+          "profitRatio": -53.78,
+          "grossMargin": -11.83,
+          "rank": 8
+        },
+        {
+          "name": "其中:管道燃气",
+          "income": 5404364933.1,
+          "incomeRatio": 14.26,
+          "cost": 5174481988.75,
+          "costRatio": 14.24,
+          "profit": 229882944.35,
+          "profitRatio": 14.7,
+          "grossMargin": 4.25,
+          "rank": 9
+        },
+        {
+          "name": "其中:油品",
+          "income": 2229027950.59,
+          "incomeRatio": 5.88,
+          "cost": 2126490554.14,
+          "costRatio": 5.85,
+          "profit": 102537396.45,
+          "profitRatio": 6.56,
+          "grossMargin": 4.6,
+          "rank": 10
+        },
+        {
+          "name": "其中:风力发电",
+          "income": 990019945.37,
+          "incomeRatio": 2.61,
+          "cost": 322926251.65,
+          "costRatio": 0.89,
+          "profit": 667093693.72,
+          "profitRatio": 42.67,
+          "grossMargin": 67.38,
+          "rank": 11
+        },
+        {
+          "name": "其中:热力",
+          "income": 484964555.25,
+          "incomeRatio": 1.28,
+          "cost": 468731399.7,
+          "costRatio": 1.29,
+          "profit": 16233155.55,
+          "profitRatio": 1.04,
+          "grossMargin": 3.35,
+          "rank": 12
+        },
+        {
+          "name": "其中:光伏发电",
+          "income": 418079358.11,
+          "incomeRatio": 1.1,
+          "cost": 173007926.1,
+          "costRatio": 0.48,
+          "profit": 245071432.01,
+          "profitRatio": 15.68,
+          "grossMargin": 58.62,
+          "rank": 13
+        },
+        {
+          "name": "其中:加气混凝土",
+          "income": 295528129.81,
+          "incomeRatio": 0.78,
+          "cost": 216348646.98,
+          "costRatio": 0.6,
+          "profit": 79179482.83,
+          "profitRatio": 5.06,
+          "grossMargin": 26.79,
+          "rank": 14
+        },
+        {
+          "name": "其中:房产租赁",
+          "income": 48829899.5,
+          "incomeRatio": 0.13,
+          "cost": 18046841.81,
+          "costRatio": 0.05,
+          "profit": 30783057.69,
+          "profitRatio": 1.97,
+          "grossMargin": 63.04,
+          "rank": 15
+        },
+        {
+          "name": "其中:融资租赁",
+          "income": 25035358.95,
+          "incomeRatio": 0.07,
+          "cost": 17315011.38,
+          "costRatio": 0.05,
+          "profit": 7720347.57,
+          "profitRatio": 0.49,
+          "grossMargin": 30.84,
+          "rank": 16
+        },
+        {
+          "name": "其中:充电桩",
+          "income": 9856430.06,
+          "incomeRatio": 0.03,
+          "cost": 13710943.56,
+          "costRatio": 0.04,
+          "profit": -3854513.5,
+          "profitRatio": -0.25,
+          "grossMargin": -39.11,
+          "rank": 17
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "煤炭",
+          "income": 20387943718.79,
+          "incomeRatio": 53.78,
+          "cost": 19547353225.56,
+          "costRatio": 53.78,
+          "profit": 840590493.23,
+          "profitRatio": 53.77,
+          "grossMargin": 4.12,
+          "rank": 1
+        },
+        {
+          "name": "电力",
+          "income": 7107631451.12,
+          "incomeRatio": 18.75,
+          "cost": 7948364210.78,
+          "costRatio": 21.87,
+          "profit": -840732759.66,
+          "profitRatio": -53.78,
+          "grossMargin": -11.83,
+          "rank": 2
+        },
+        {
+          "name": "管道燃气",
+          "income": 5404364933.1,
+          "incomeRatio": 14.26,
+          "cost": 5174481988.75,
+          "costRatio": 14.24,
+          "profit": 229882944.35,
+          "profitRatio": 14.7,
+          "grossMargin": 4.25,
+          "rank": 3
+        },
+        {
+          "name": "油品",
+          "income": 2229027950.59,
+          "incomeRatio": 5.88,
+          "cost": 2126490554.14,
+          "costRatio": 5.85,
+          "profit": 102537396.45,
+          "profitRatio": 6.56,
+          "grossMargin": 4.6,
+          "rank": 4
+        },
+        {
+          "name": "风力发电",
+          "income": 990019945.37,
+          "incomeRatio": 2.61,
+          "cost": 322926251.65,
+          "costRatio": 0.89,
+          "profit": 667093693.72,
+          "profitRatio": 42.67,
+          "grossMargin": 67.38,
+          "rank": 5
+        },
+        {
+          "name": "其他(补充)",
+          "income": 508850955.36,
+          "incomeRatio": 1.34,
+          "cost": 320008236.75,
+          "costRatio": 0.88,
+          "profit": 188842718.61,
+          "profitRatio": 12.08,
+          "grossMargin": 37.11,
+          "rank": 6
+        },
+        {
+          "name": "热力",
+          "income": 484964555.25,
+          "incomeRatio": 1.28,
+          "cost": 468731399.7,
+          "costRatio": 1.29,
+          "profit": 16233155.55,
+          "profitRatio": 1.04,
+          "grossMargin": 3.35,
+          "rank": 7
+        },
+        {
+          "name": "光伏发电",
+          "income": 418079358.11,
+          "incomeRatio": 1.1,
+          "cost": 173007926.1,
+          "costRatio": 0.48,
+          "profit": 245071432.01,
+          "profitRatio": 15.68,
+          "grossMargin": 58.62,
+          "rank": 8
+        },
+        {
+          "name": "加气混凝土",
+          "income": 295528129.81,
+          "incomeRatio": 0.78,
+          "cost": 216348646.98,
+          "costRatio": 0.6,
+          "profit": 79179482.83,
+          "profitRatio": 5.06,
+          "grossMargin": 26.79,
+          "rank": 9
+        },
+        {
+          "name": "房产租赁",
+          "income": 48829899.5,
+          "incomeRatio": 0.13,
+          "cost": 18046841.81,
+          "costRatio": 0.05,
+          "profit": 30783057.69,
+          "profitRatio": 1.97,
+          "grossMargin": 63.04,
+          "rank": 10
+        },
+        {
+          "name": "融资租赁",
+          "income": 25035358.95,
+          "incomeRatio": 0.07,
+          "cost": 17315011.38,
+          "costRatio": 0.05,
+          "profit": 7720347.57,
+          "profitRatio": 0.49,
+          "grossMargin": 30.84,
+          "rank": 11
+        },
+        {
+          "name": "充电桩",
+          "income": 9856430.06,
+          "incomeRatio": 0.03,
+          "cost": 13710943.56,
+          "costRatio": 0.04,
+          "profit": -3854513.5,
+          "profitRatio": -0.25,
+          "grossMargin": -39.11,
+          "rank": 12
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华南地区",
+          "income": 29614199197.03,
+          "incomeRatio": 78.12,
+          "cost": 27889121006.84,
+          "costRatio": 76.73,
+          "profit": 1725078190.19,
+          "profitRatio": 110.35,
+          "grossMargin": 5.83,
+          "rank": 1
+        },
+        {
+          "name": "华北区",
+          "income": 3895498100.16,
+          "incomeRatio": 10.28,
+          "cost": 4484617027.37,
+          "costRatio": 12.34,
+          "profit": -589118927.21,
+          "profitRatio": -37.68,
+          "grossMargin": -15.12,
+          "rank": 2
+        },
+        {
+          "name": "华东区",
+          "income": 1834384884.43,
+          "incomeRatio": 4.84,
+          "cost": 2064579729.4,
+          "costRatio": 5.68,
+          "profit": -230194844.97,
+          "profitRatio": -14.72,
+          "grossMargin": -12.55,
+          "rank": 3
+        },
+        {
+          "name": "华中区",
+          "income": 1123564857.29,
+          "incomeRatio": 2.96,
+          "cost": 1045571050.35,
+          "costRatio": 2.88,
+          "profit": 77993806.94,
+          "profitRatio": 4.99,
+          "grossMargin": 6.94,
+          "rank": 4
+        },
+        {
+          "name": "西南区",
+          "income": 790502657.85,
+          "incomeRatio": 2.09,
+          "cost": 499851522.27,
+          "costRatio": 1.38,
+          "profit": 290651135.58,
+          "profitRatio": 18.59,
+          "grossMargin": 36.77,
+          "rank": 5
+        },
+        {
+          "name": "其他(补充)",
+          "income": 508850955.36,
+          "incomeRatio": 1.34,
+          "cost": 320008236.75,
+          "costRatio": 0.88,
+          "profit": 188842718.61,
+          "profitRatio": 12.08,
+          "grossMargin": 37.11,
+          "rank": 6
+        },
+        {
+          "name": "东北区",
+          "income": 143132033.89,
+          "incomeRatio": 0.38,
+          "cost": 43036664.18,
+          "costRatio": 0.12,
+          "profit": 100095369.71,
+          "profitRatio": 6.4,
+          "grossMargin": 69.93,
+          "rank": 7
+        }
+      ]
+    }
+  ],
+  "analysis": [
+    {
+      "reportDate": "2025-12-31",
+      "businessReview": "2025年,公司以习近平新时代中国特色社会主义思想为指导,全面贯彻落实党的二十大和二十届历次全会精神,在绿色转型赛道上笃行不怠、在改革创新浪潮里奋楫争先、在服务民生使命中躬耕实干,推动存量提效、增量优拓、质量提升,实现经营业绩稳健增长、产业结构向绿向新、业务规模有效扩张、竞争优势显著增强、治理效能系统提升、党的建设全面加强,营业收入、利润指标均创历史新高。1.砥砺奋进“十四五”,发展成就硕果累累“十四五”以来,公司紧紧围绕“建设成为国内领先的绿色低碳综合智慧能源企业集团”发展愿景,牢牢锚定“两大定位”,稳步推进“三大转变”,持续发挥四大功能,深入实施五大战略,实现规模实力跃升、产业结构优化、区域协同拓展、核心功能增强,完成了“十四五”规划主要目标,为“十五五”高质量发展奠定了坚实基础。经过五年攻坚,公司规模效益实现翻番倍增：“十四五”时期累计投资为“十三五”期间的3.3倍；可控发电装机容量1,097万千瓦,突破千万千瓦,为“十三五”末的2.2倍,绿色低碳能源装机占比达77%；天然气供气量超58亿立方米,为“十三五”末的3.1倍；年售电量、售煤量、售气量较“十三五”末增长48%、43%、171%,高于行业平均水平。主要经营指标全面增长、连创新高,资产总额826.96亿元、较“十三五”末增长约91%；营业总收入、利润总额、净资产收益率较“十三五”末实现大幅增长,归母净利润连续四年创历史新高,经营现金流更加稳健,取得穆迪A3国际评级,连续26年进行现金分红,圆满完成非公开发行股票,公司抗风险能力、可持续发展能力大幅提升。2.稳进提质强根基,经营质效稳步提升面对复杂严峻的外部环境和能源行业的深刻变革,公司在“固本、兴新、拓外”上全面发力,全年实现营业总收入508.83亿元,同比增加5.29%,实现利润总额、归属于母公司的净利润分别为30.51亿元和23.19亿元,同比增加27.96%和33.93%,归属于母公司的净利润连续四年创历史新高,年末公司总资产826.96亿元,比上年末增加8.09%。实现“一利五率”持续优化,经营形势稳中提质、稳中向好。（1）电力业务持续完善发售一体模式,以售电牵引经营方式变革,电力交易服务水平显著提升。中长期交易和现货市场协同发力,属下主要电厂售电均价高于全网平均水平,容量电费获取率超97%。深化煤电协同,运用数智化手段优化用煤结构,入炉不含税标煤单价同比下降。深化气电协同,珠江LNG电厂二期实现双路气源保障,引入中海油年度合同气及管道增量气,增发效益电量约5亿千瓦时。报告期内,合并口径火力发电企业完成发电量157.10亿千瓦时,上网电量149.21亿千瓦时,受省内电力供需形势偏宽松、珠江电厂煤电环保替代关停机组等因素影响,同比下降7.87%和7.77%。（2）能源物流业务深化煤炭业务区域布局与模式转型,推动产品、市场多元化发展。全面布局西北煤炭市场,实现疆煤、焦煤等销售量627万吨。成功在浙江落地供应链服务业务,推动煤炭业务从规模化向供应链化升级。深化与煤炭供应商合作,新增上下游客户129家。全年实现煤炭销售量5,202万吨,同比增长20.9%。油品业务深化“贸仓联动”,打造柔性仓储,生物类油租赁量同比增长54%。危化品仓储业务聚焦2,025种经营品种深化布局,海关查验、保税仓、出口集拼、仓配一体化服务模式初见成效,出租率稳步攀升。（3）燃气业务强化多元化资源池供应体系,创新商业销售模式,国内外“两个市场”协同发力,实现天然气供气量58.5亿立方米,连续多年保持增长。加快构建多元化资源池,参与竞拍中石油现货气,引入质价双优川气资源；新增摩科瑞五年期LNG长协资源,年供应量40万吨。打通“资源-管输-终端”全链条,大鹏、国家管网、互联互通各类销售途径协同发力,异地售气量约3.8亿立方米,同比增长33%。车载气批发突破外部市场,广州LNG应急调峰气源站实现液态外输常态化。深挖“广燃优选”增值空间,开拓非居民及团销新渠道,全年燃气保险、燃气具销售额超过8,000万元。（4）新能源业务新能源开发建设多向发力。面对政策调整抢抓重点时间窗口,年度新增新能源装机超130万千瓦,其中自建项目规模超120万千瓦新增规模创历史新高。立足基地化战略,第二个百万千瓦基地落地粤西。河南柘城100MW风电、宁夏中卫40MW风电项目完成收购,天津西青风电项目全面推进建设。深化区域化管理变革与数字赋能,设备效率稳步提升,13个站场获评中电联5A电站,连续多年优胜率居全国前列。积极拓展绿色能源资产增值空间,全年完成绿电交易约11亿千瓦时,同比增长86%；自营及代购绿证交易超3,200万张,同比增长377%。搭建“广州充联网”,推进充电桩“统建统服”“一键报桩”,行业排名跻身前列。报告期内完成发电量86.66亿千瓦时,售电量84.68亿千瓦时,同比增长26.55%和26.48%。（5）储能业务加快提升新型储能产业规模,积极布局抽水蓄能、半固态/固态电池等新型储能项目。全年新增新型储能规模超1GWh,佛山高明208MW/416MWh储能项目、河北邯郸大名200MW/400MWh储能项目全容量并网,江苏惠然实业100MW/300MWh储能项目部分并网运行。参与竞拍云南富民、禄丰抽水蓄能项目股权,实现水能资源开发重大突破。（6）能源金融业务创新资本运作,拓展产融结合新路径。财务公司以专业金融服务,保障重大项目资金需求,年末绿色信贷产品余额34亿元；拓展保函品种,助力产业高质量发展。融资租赁公司围绕主业新增内部项目投放金额7.7亿元；实现氢能金融领域“零的突破”,推动102台氢燃料电池汽车融资租赁项目落地。绿色低碳产业基金完成山东、云南等地风电项目立项超100万千瓦。积极推进公募REITs申报工作,已报送至国家发展改革委审核,已通知封卷。优化资金管理,有效降低融资成本,获批政策性金融工具贷款9.2亿元；发行中期票据、超短期融资券等公司信用债48亿元；获批新一期80亿元中期票据、60亿元超短期融资券注册。3.项目攻坚提速增效,市场开拓多点突破公司重大工程项目积极推进。增城旺隆气电及配套管线工程、天津西青风电、四川冕宁风电等重点项目建设进入加速冲刺阶段；综合能源产业稳步拓展,广州金融城综合能源项目交通枢纽冷站基本具备调试条件,临2站完成应急冷源建设并实现供冷,全域供冷管网建成70%以上；江苏惠然储能、白云恒运管线工程等项目如期开工建设；珠江电厂煤电环保替代、西北部应急联络线工程等项目稳步推进；新能源项目建设跑出加速度,超70个项目并网,形成“谋划一批、开工一批、投产一批”的滚动发展格局。加快融入全国统一大市场,积极开拓省外电力零售业务,获取甘肃、广西、湖北、四川等地售电资质,实现甘肃省零售电量破“亿”。海外市场开拓实现新突破,国际贸易气量进一步提升在海南自贸港设立天然气贸易公司,成立国际航运公司,筹备设立印尼代表处；开拓西非航线、国际航运业务实现营业收入2.2亿元；完成国际煤炭贸易量超300万吨,通过境外平台香港国际公司全年进口煤销售超4,000万美元。系统发力氢能全产业链,完成氢燃料电池汽车推广任务,稳步推进南沙龙穴岛、珠电路加氢站建设,加快推进城市燃气掺氢输配和燃气电厂掺氢燃烧示范应用；绿电、绿证、碳配额等新型能源资产交易规模持续扩大。4.创新驱动赋能升级,数智转型走深走实加速创新机制改革,制定实施公司科技创新改革（1+N）方案,逐步打造涵盖科技管理、技术研发、技术服务、成果转化、人才培养、产业孵化“六位一体”的科技创新生态体系。加大技术攻关,围绕绿色低碳、新型能源、综合智慧能源、AI等领域组织实施研发项目800余项。深化产学研融合,与华南理工大学共建联合实验室,建成“广东省博士后创新实践基地”。搭建高水平研发平台,参建国家工程研究中心通过验收并备案,全年新增省级工程技术研究中心4个、广州市制造业创新中心1个,形成以国家工程研究中心为引领的“国家—省—市”三级联动的科技创新平台体系。强化数智赋能,构建人工智能+底座,制定实施“人工智能+”三年行动方案,公司“融合人工智能的新能源功率预测和电力交易模型研究”项目完成大模型本地化部署。智慧应用多点开花,财务共享服务中心启动建设,智慧法务系统、智慧工程安全管控平台、新能源集中监视平台等全面上线,智慧电厂、智慧港口、智慧燃气等项目稳步推进,自主开发煤炭贸易等审计模型,实现抽样到全检的数智化审计关键转变。5.精益管理固本强基,改革治理效能跃升构建大安全体系,提升本质化安全水平。深入开展“安全生产治本攻坚”和“隐患排查治理年”专项行动,推动安全管理数智化转型升级,深化双重预防机制建设和安全主体责任落实。至2025年底,实现连续安全生产6,403天,安全生产形势保持总体稳定向好。坚持精益管理,持续挖潜增效。以“课题管理”为抓手,常态化开展“双增双降”专项活动,单位业务量固定成本费用全面下降。长效化开展“合理化建议6000”全员活动,累计征集合理化建议超9,700条。加大“两金”管控力度,库存余额、应收账款余额有效控制。加强投资动态评估,有效管控投资风险。优化采购策略,释放集采效益。全面深化改革,加强队伍建设。深入实施国企改革深化提升行动,46项改革任务全面完成。贯彻落实新《公司法》,完成全资企业取消监事会、重要子企业董事会建设工作。创新工资总额预算决定分配管理机制,实施“专项激励”等激励办法,深入推进工资总额周期制管理。加强市值管理,制定并披露公司估值提升计划；信披实现“零差错、零违规、零问询”,连续四年上交所信息披露工作评价为A；ESG治理水平提升,在各主要ESG评级机构中的排名均位居行业前列。",
+      "futureExpect": "(一)行业格局和趋势1.全球能源结构加速向清洁低碳转型全球能源消费“东进”、供应“西移”的态势持续强化,叠加地缘政治事件和极端气候频发问题,部分国家或地区短期能源供应出现危机、发生重大停电事故,各国开始重新审视高碳能源（特别是煤电等系统支撑性电源）的减量化发展路径及节奏,同时明显重视加强电网安全韧性,加大系统调节性资源建设力度。能源科技创新推动产业化转型加速,一方面已成熟的清洁能源技术加速规模化落地,效率持续突破；另一方面生物燃料、碳捕集利用与封存（CCUS）等技术仍面临成本瓶颈。能源领域碳排放占碳排放总量的80%左右,为实现碳达峰碳中和目标,能源需求侧要贡献55%的减排量,是“十五五”乃至中长期的关键发力点。近年来,国际绿色贸易规则不断升级,行业头部企业从产品出口、供应链采购等环节广泛地、实质性地推动产业链上下游企业节能降碳,需求侧市场萌生了大规模绿电以及能碳协同治理的需求。2.国内能源发展形势面对全球绿色低碳转型和能源安全的双重挑战,我国明确提出新型能源体系和新型电力系统建设要求。2025年9月,习近平总书记宣布新一轮国家自主贡献目标,推动我国能源转型进入系统性推进、全面提速的新阶段。“十五五”时期,是我国实现碳达峰的攻坚期,要在习近平总书记提出的“四个革命、一个合作”能源安全新战略指引下,加速推进建设新型能源体系、加快建设新型电力系统。具有中国特色的能源绿色低碳转型引领全球能源转型发展：一是能源需求在经济发展驱动下保持强劲增长态势。二是能源结构清洁低碳调整跑出“加速度”。三是能源供应安全保障水平提升。四是能源消费绿色低碳转型持续深入。五是能源新质生产力展现巨大潜力。六是能源电力市场化改革持续深化。(二)公司发展战略“十五五”期间,公司将以习近平新时代中国特色社会主义思想为指导,深入贯彻党的二十大、二十届历次全会和习近平总书记视察广东重要讲话重要指示精神,践行“四个革命、一个合作”能源安全新战略,锚定能源强国和碳达峰碳中和目标,坚持稳中求进工作总基调,深度融入新型能源体系和新型电力系统建设,加速绿色低碳转型,推动高质量发展取得显著成效。十五五”时期,公司将以“一个愿景”,即“面向2030年后碳中和阶段,将公司打造成为国内一流的能碳聚合企业集团,“十五五”时期建成国内领先的绿色低碳综合智慧能源企业集团。”为发展目标,打造“两个优势”：“产供储销全链条联动协同”“源网荷储全环节智能融合”优势。通过“三大工程”：规模效益增长及结构转型工程、支撑能力强化工程、治理体系升级工程推进能力建设与价值创造,最终实现“四大转变”:经营模式、价值创造方式、发展方式、生产方式转变重塑企业形态.并坚持以“五大战略”创新驱动战略、数智化战略、国际化战略、产业资本双驱动战略及人才强企战略作为未来可持续高质量发展的战略引领。(三)经营计划2026年是“十五五”开局之年,公司将全面贯彻党的二十大和二十届历次全会精神,深入落实中央经济工作会议部署安排,完整准确全面贯彻新发展理念,坚持稳中求进工作总基调,加快建设新型能源体系,着力优化产业生态、提升产业能级,锚定全年目标,推动“十五五”开好局、起好步。1.锚定目标全力攻坚,决战决胜再创佳绩公司2026年主要经营计划：实现营业总收入552.30亿元,火力发电上网电量171.32亿千瓦时,风力、光伏发电售电量105.40亿千瓦时,燃气供气量72.04亿立方米,煤炭销售量5,623万吨,整体经营实现效益更好、质量更实、效率更高、基础更牢、动力更足,做到存量增效、增量做优、成本领先、晋位升级,“一利五率”实现“一增一稳四提升”。2.深化改革激发活力,协同联动提质增效因时而变、因势而动,以改革创新激发活力。一是聚焦战略定位,围绕组织架构、管理模式、运行机制改革创新,提升治理效能。二是聚焦目标导向,围绕增强动力、释放活力、传导压力改革创新,推动经营目标达成。三是聚焦能力建设,围绕核心竞争力、价值创造力、盈利能力提升改革创新,锻造竞争优势。四是扩大和深化业务联动产业协同,推动煤炭业务、天然气业务和火力发电业务的优势互补、联动发展,进一步提升协同效率,实现整体利益最大化。3.紧扣国家发展战略,培育壮大新兴动能聚力广州市“12218”现代化产业体系及现代能源发展方向,在战略性新兴产业上开启“加速跑”,以新动能推动能级新跃升。争取参与能源大项目、大基地投资建设；打造储能产业新增长极；推进新疆地区综合能源开发利用；积极参与绿证、绿电、碳资产等新型绿色权益市场交易,提升绿色资产收益；围绕“源网荷储”和“多能互补”两个一体化,大力推广综合智慧能源服务,深化云大物移智等现代信息技术在新能源领域应用。4.强化科技创新驱动,数智赋能产业转型深化科技创新体制机制改革,完善适应市场化的创新体系。加大科技创新研发投入力度,加强新型储能、氢能、智慧能源、燃机检维修等前沿技术攻关、示范和产业化应用。进一步提升数智化水平,推动业务与数据融合,提升数智能力和数字价值。加大“高精尖缺”人才培育,为新业态发展、重大科技攻关、重要成果应用提供人才支撑。5.守牢安全合规底线,精益管理提升价值强化双重预防机制,提高隐患排查治理质量,以高水平安全保障高质量发展。压实压细合规主体责任,注重强化合规意识、履行合规义务,完善合规管理体制机制。进一步完善投资决策评价模型,做到投资项目优中选优。持续抓好精益管理,常态化开展、长效化推进“合理化建议6000”“双增双降”“课题管理”等专项活动。全面实施市值管理方案,做好价值传递和价值维护工作。"
+    },
+    {
+      "reportDate": "2024-12-31",
+      "businessReview": "2024年,面对国际能源市场动荡、国内能源供需失衡、电价持续走低、煤炭消费增速放缓等不利因素,公司立足实现“十四五”规划目标任务“关键一年”,在“固本、兴新、拓外”上全面发力,以细化精益管理对冲市场下行影响,以深化改革创新增强持续经营能力,以优化市场开拓提升业务发展质效,推动公司经营业绩向高、产业结构向优、规模发展向广、竞争优势向强、机制体制向新、党建效能向好,营业收入、利润总额均保持增长态势,归母净利润连续三年创历史新高,可控电力装机达到1,026万千瓦。（一）产业协同,增强企业聚合力进一步完善产业协同机制,制定实施煤、气、电协同联动方案,以构建“大产业链”为思路,广联动、大协同、深融合,有效抵御经济周期波动风险,力促各业务板块在生产经营、市场开拓、绿电交易、项目建设等方面协作共赢。电力业务与能源物流业务深化煤电协同,属下燃煤电厂通过优化燃煤结构、提高经济煤种占比,大幅压降发电成本；电力业务与燃气业务深化气电协同,高效组织气源,有效保障公司燃气发电机组平稳运行；旺隆气电项目与配套燃气管线项目协同推进,双双超额完成年度投资计划；新能源业务与电力业务紧密合作,降低绿证采购成本。新能源业务与储能业务协同联动,共享优质资源,抢占“新能源+储能”新赛道；能源金融业务与各业务深度融合,优化贷款结构,降低融资成本,提高获取资源效率。（二）深入挖潜,提升价值创造力1.电力业务充分发挥发售电一体化优势,积极应对电价下行压力,协同中长期交易和现货市场,坚持以效益为中心,不断优化调整发电和交易策略,售电均价高于全网平均水平,公司主要火力发电厂继续保持稳定盈利。做好机组运维管理,设备可靠性进一步提升,容量电费获取率超过99%。加大配煤掺烧力度,促进经济煤种安全高效利用。建立燃料市场化运作机制,提升经济性进口煤采购比例,抓住价格优势气源采购时机,全力压降燃料成本。报告期内,合并口径火力发电企业完成发电量170.52亿千瓦时,上网电量161.77亿千瓦时,受西电东送增量及现货电价维持低位等因素影响,同比下降10.05%和9.39%。2.能源物流业务巩固纵向一体化产业链优势,整合划分北部、中部、南部三大销售区域,煤炭销售量4,302万吨,同比增加4.66%。巩固拓宽资源渠道,开辟疆煤、蒙煤等新煤种,发展上游煤炭供应商15家、下游终端客户75家,国内业务扩至19个省市；进一步拓宽海外资源渠道,新增采购菲律宾煤及哥伦比亚等煤种,国际煤炭经营量突破1,800万吨。推进油品仓储改造,生物类油租赁量逆势增长,打造区域生物类油集运中心。创新开展甲苯等转口贸易、低硫保税船供油加注等业务,危化品仓储许可经营品种增至1,000种,海关目的地查验、出口集拼、仓配一体化等业务初见成效。3.燃气业务打造资源、接收、运输（管网）产业强链,科学研判市场,大力拓展用户,实现天然气供应量55亿立方米,同比增长9%。多渠道丰富资源池,开拓与省外供应商合作,成功将川气资源通过国家管网送至广州。国际贸易规模稳步扩大,天然气批发量15亿立方米,同比增长13%,国际气源获取能力、议价能力进一步提升。广州LNG应急调峰气源站投产首年实现接卸海外液化天然气50万吨。天然气利用四期工程整体竣工投产,打通广州市西北气源大动脉,实现燃气管网与国家管网连通,管网年输配能力超90亿立方米。优化发展城市燃气管网,增强跨区域输气能力。挖掘“广燃优选”增值空间,燃气保险代销收入和燃气具销售额超8,000万元。4.新能源业务全力破局,抢占资源,实现内蒙古、陕西、天津等地零的突破,投产项目覆盖国内18个省市；深耕西南、华北、华南等地,助力百万千瓦级新能源基地建设；探索布局国际市场,海外业务开发工作稳妥推进。强化精益运维,26个场站上榜中电联行业对标优胜名单,优胜占比率位居全国前列,其中8个新能源场站获评5A级。打造粤港澳大湾区充电骨干网络,充电站规模达67MW,自有平台用户量同比翻番。挖掘绿色电力价值空间,完成绿电交易超5亿千瓦时。创新推行区域集约化管理,实现场站联合运维。5.储能业务加快培育、加速布局,补齐补强产业拼图,积极布局大型抽水蓄能项目。新投产新型储能项目7个共59.4MW/118.9MWh；累计已投产储能项目15个共127.5MW/201.6MWh；首个独立储能项目,洪湖一期50MW/100MWh储能项目成功受电,整体建成后为国内最大容量的钠离子储能电站。把握投资节奏,拓展产业发展空间,在建项目共246.95MW/499.87MWh,储备项目约400MW/880MWh。佛山高明416MWh储能电站开工建设,是目前粤港澳大湾区规模最大的电网侧独立储能项目。惠然实业储能项目（100MW/300MWh）开工建设,是目前国内装机容量最大的用户侧储能项目。6.能源金融业务发挥产融功能,大幅压降融资成本。财务公司加大信贷投放,年末贷款余额突破50亿元,创历史新高；融资租赁公司围绕能源主业和转型升级战略方向,新增业务投放金额超3亿元。绿色低碳产业基金首批投资的广西防城港20万千瓦风电项目全容量并网,广东怀集120MWp地面光伏项目并网。及时锁定资源,储备项目规模超100万千瓦。有序推动REITs申报工作,搭建新的投融管退资产运作平台,实现产融互促。（三）拓域突围,培育发展新动能公司坚持“扎根广州、深耕华南、优拓全国、布局海外”发展思路,培育新业态,拓展新区域,探索新模式,推动形成价值创造和价值增长新优势。旺隆气电替代工程项目顺利完成主要拆卸工程、主厂房第一罐混凝土浇筑,配套管线工程开工建设；金融城综合能源项目实现首个商用冷站投运；珠江电厂等容量替代项目取得核准批复,公用系统改造全面推进；天然气利用四期工程整体竣工投产。抓住国家推动大规模设备更新政策红利,推动一批存量项目升级改造,中电荔新实施#2汽轮机通流改造,发电煤耗下降超15g/kWh,获中央预算内投资1,800万元、超长期特别国债680万元；发展碧辟完成#4罐区工艺改造,生物类油租赁业务实现逆势增长；广州LNG应急调峰气源站配套码头升级至具备靠泊17.5万立方米LNG船型能力；更新老旧管道97公里,进一步提升供气可靠性和安全性。全年新增新能源装机78万千瓦,广西上思那琴实现200MW全容量并网；推动四川冕宁等项目开工建设,实现省外自建风电项目落地。扩大“珠电煤”品牌辐射范围,发展国际公司开启煤炭业务国内外双轨协同发展的新模式。（四）“数智”驱动,蓄势赋能高质量发展以“智”提质。完善科技创新体系,研究制定公司科技创新改革方案。构建技术支撑体系,自主技术监督工作覆盖机组容量超350万千瓦。加大研发投入力度,2024年投入研发费用6.86亿元,围绕新能源、数智融合、储能、氢能等战略性新兴产业部署重点研发项目650项,其中“首台（套）H级M701J型燃机高效智慧发电系统”获评广州市科技创新创业项目,“从化明珠工业园多元互动多能协同示范工程”获评能源互联网最佳实践案例。累计有效专利800多项,初步形成由13项市级及以上研发平台、20家高新技术企业、11家专精特新企业组成的创新型企业群。以“数”为擎。公司数字化、网络化、智能化水平进一步提升,实现“数字化安全生产综合管理平台”推广应用,财务共享服务中心启动建设,BPM、OA等办公系统优化升级,全方位带动公司生产经营从“资源上云”迈入“深度用云”。促进“数实”融合,智慧电厂、智慧港口、智慧燃气、智慧工地平台等数字化项目加快建设,推动产业向高阶智能化迭代升级、转型发展。（五）强基固本,基础管理走深走实2024年,公司推动安全生产治本攻坚三年行动和“三外”安全管理专项整治取得成效,基层和基础安全管理工作进一步夯实；数字化安全生产综合管理系统全面推广应用,有效提升安全管理数字化和信息化水平；“一企一清单,一点一对策”安全风险辨识及管控机制持续完善,安全意识进一步提升。深入推动安全风险分级管控和隐患排查治理双重预防机制走深走实,大力开展城镇燃气安全专项整治工作,燃气用户端隐患基本实现动态清零。深入开展安全生产标准化和应急能力建设,确保生产经营安全稳定,筑牢城市运行安全屏障。聚焦核心功能和核心竞争力建设,深入实施国有企业改革深化提升行动,全面开展对标一流价值创造行动。强化资本运作,积极推进REITs申报工作。以课题管理为抓手,常态化开展“双增双降”专项行动和“合理化建议6000”全员活动。全面推进依法治企,健全风控体系建设,落实“大监督”工作机制。推动人资改革,实施工资总额周期制管理,出台管理人员末等调整和不胜任退出制度。综合施策推动提升公司回报能力和投资价值、治理水平。加强市值管理,多维度提升信披质量,连续3年获得上海证券交易所信息披露考核A类评级。",
+      "futureExpect": "(一)行业格局和趋势1.坚持底线思维,保障国家能源安全一是继续强化化石能源供应体系,发挥兜底保障作用。新型能源体系以化石能源为兜底保障,立足我国能源资源禀赋和能源消费现状,要求煤炭持续在能源供应体系中发挥基础保障作用。二是加快构建新型电力系统,从源网荷储各环节全面发力。随着可再生能源发电比例的不断提高,提高电网对可再生能源的接纳、配置和调控能力成为保障电网安全稳定的关键。“十五五”时期,我国电力系统对灵活性电源、储能,以及分布式能源、智能微电网、“虚拟电厂”等新业态的需求将不断提升。2.顺应转型趋势,加快能源绿色低碳发展推进非化石能源安全可靠有序替代化石能源,同时推进化石能源清洁高效利用。建设新型能源体系的演化进程强调有序替代、先立后破,因此在一定时期内仍然依赖化石能源的贡献,化石能源与非化石能源将是竞争-合作的关系。清洁高效的化石能源利用是新型能源体系的重要组成。3.完善能源市场体系推动能源高质量发展必须健全与之相适应的市场体系。按照《能源法》要求,要进一步开放能源市场,鼓励、引导各类经营主体依法投资能源开发利用、能源基础设施建设,推动能源领域自然垄断环节独立运营和竞争性环节市场化改革,建立市场与政府调控协同的能源价格形成机制,推动在能源领域建设全国统一大市场,开展煤炭、电力、石油、天然气等能源交易市场建设。(二)公司发展战略“十四五”期间,公司将以习近平新时代中国特色社会主义思想为指导,落实中央、省委省政府、市委市政府决策部署,坚持稳中求进工作总基调,把握粤港澳大湾区发展的机遇,坚持“创新、协调、绿色、开放、共享”的发展理念,贯彻落实“四个革命、一个合作”能源安全新战略,面向国家2060年前实现碳中和的宏伟目标,坚持改革创新,着力推动能源高质量发展,做强做优做大绿色能源产业,为粤港澳大湾区和广州市提供清洁、低碳、安全、高效的能源保障,实现国有资源优化配置和国有资产保值增值,实现企业全面可持续发展。公司围绕建设成为国内领先的绿色低碳综合智慧能源企业集团的战略目标,明确“两大定位”：打造绿色低碳综合智慧能源产业链,成为保障国民经济和改善民生的重要支撑；提升企业效益和竞争力,成为放大国有资本功能的重要平台。推动“三个转变”：推动产业布局从清洁能源为主向绿色低碳综合智慧能源为主转变；推动发展模式从产业运营型为主向产业和资本联合互动型转变；推动业务模式从生产、贸易型为主向生产、贸易、创新和综合服务复合型转变。强化“四大功能”：强化能源安全保障功能,成为能源新基建的重要主体；实现国有资本保值增值功能,成为拉动国资增长的强劲引擎；突出新兴产业培育功能,成为发展新兴能源产业的主力军；加强体制机制创新功能,成为国资国企改革的先行典范。实施绿色低碳、科技创新、智慧能源、走出去和人才强企“五大发展战略”。(三)经营计划2025年是“十四五”收官之年,是“十五五”谋篇布局之年,也是公司深化提质增效、加快改革转型的攻坚之年。公司将坚持以习近平新时代中国特色社会主义思想为指导,全面贯彻落实党的二十大和二十届二中、三中全会以及中央经济工作会议精神,主动服务和融入新型能源体系、新型电力系统构建,坚持稳中求进工作总基调,高质量完成“十四五”规划目标,实现“十五五”良好开局。1.锚定目标攻坚,争取再创佳绩公司2025年主要预算指标是：实现营业总收入510.1亿元,各业务发展指标按“十四五”规划目标推进,力争实现售电量262亿千瓦时、煤炭经营量5,000万吨、天然气供气规模72.41亿立方米、新能源装机规模达到800万千瓦。公司整体经营实现效益更好、质量更实、效率更高、基础更牢、动力更足,做到存量增效、增量做优、成本领先、晋位升级,“一利五率”实现“一增一稳四提升”。2.深化改革创新,推进提质增效一是聚焦战略定位,围绕组织架构、管理模式、运行机制改革创新,提升治理效能。二是聚焦目标导向,围绕增强动力、释放活力、传导压力改革创新,推动经营目标达成。三是聚焦能力建设,围绕核心竞争力、价值创造力、盈利能力提升改革创新,锻造竞争优势。围绕现代能源物流供应链服务商、天然气产业一体化供应商、综合智慧能源运营商、综合能源基地建设等方向加大发展力度。项目投资坚持“效益优先、风险可控”和“集中集聚集约,高端高质高效”的原则。既要聚焦支柱业务,夯实产业发展根基,也要聚焦优势区域,打造产业集群矩阵。3.提升资源效率,释放发展动能调整优化营销策略,培育市场化人才队伍,着力提升营销能力。各业务板块强化做品牌、做服务、做营销。采用市场化、专业化的方式招录、培育、使用新业务、新业态的相关专业人才。扩大和深化业务联动产业协同。落实“市场化、专业化、整体利益最大化”的原则,持续完善和创新协同联动工作机制,在煤电联营、气电联营的基础上,进一步深化煤气电联营模式,适当进行资源整合,优化多元业务合作机制和分享机制,促进天然气、煤炭销售和火力发电的优势互补、相互带动,进一步提升协同效率。提升资源利用和变现能力,加大资本运作力度,优化资产结构。在创新能力提升方面,以应用创新为主,通过并购项目、企业或技术,或与具备独特核心技术的企业展开合作,实现突围突破。4.推动价值创造,提升核心竞争力持续抓好精益管理,常态化开展、长效化推进“合理化建议6000”“双增双降”“课题管理”等专项活动。持续提升公司质量,内外兼修,练好内功,做好价值传递和价值维护工作。全面推进市值管理工作,有序处置低效低质资产,保持较高分红比例、优化分红节奏,适时进行股份回购,争取优化股东结构,积极引入重要战略投资者。"
+    },
+    {
+      "reportDate": "2023-12-31",
+      "businessReview": "2023年,公司全面贯彻落实党的二十大精神和习近平总书记视察广东重要讲话、重要指示精神,积极应对国际能源格局剧烈变化、大宗能源价格震荡波动等多重挑战,牢牢把握高质量发展首要任务,各业务板块齐头并进,在“量”上实现业务全面增长,在“质”上实现经营全面盈利,关键指标全面增长并创历史新高。燃气重点项目的建成投产进一步完善气电联营产业链,新能源装机规模突破400万千瓦,同比增加69%,绿色低碳能源装机占比达到66%,夯实新型能源体系建设基础。在《财富》中国500强企业中跃升14名,排第313位；国际信用评级稳定在穆迪A3水平；入围“第五届新财富最佳上市公司”50强,公司高质量发展底盘更稳、底气更足、动力更强。（一）深化延链补链强链,产业融合携手共进公司围绕“电”这个基本盘,持续延链补链强链,各业务板块广联动、大协同、深融合,实现了1+1>2的效果,为公司持续快速发展提供稳定保障。2023年广州LNG应急调峰气源站项目竣工投产,燃气一体化产业链不断增强；珠江LNG电厂二期项目实现双机投产,进一步为煤气电联营蓄能增势。深化煤电协同联动,电力业务与能源物流业务统筹推进,积极应对煤炭市场波动,在资源衔接、长协兑现、用煤结构调整等方面加强沟通,有效提高长协煤比例。深化气电协同联8/239动,燃气业务与电力业务合力共进,在项目建设、气源组织、气量消纳、燃气发电等方面优势互补,合力争取优质中长期气源。深化新旧动能协同联动,新能源业务与电力业务、燃气业务、储能业务等齐心协力,在绿电交易、设备采购、储能布局、项目建设等方面协作共赢,积极整合传统能源与新能源禀赋优势,携手推动新型能源体系建设,实现可持续发展。深化产融协同联动,财务公司提高资金集聚效应,优化公司融资结构,有效降低融资成本；融资租赁公司围绕公司产业链上下游开展业务,助推新能源项目投资并购,降低成本；低碳产业基金全面运作,新能源项目开发渠道进一步拓宽。公司充分发挥广州市新能源产业链综合能源分链“链主”头雁势能,积极融入区域发展战略,牵引撬动国资系统产业共建,共筑稳定、安全、互利的产业链供应链体系。推动产业互融,推动构建广州市国资系统新能源产业联盟,与市属国企共同推进光伏发电项目建设,合力打造高效协同的新能源供应链体系。深化资源共享,打造政企、国企合作新典范,与福建、贵州等地政府达成合作共识；与天津西青区签署战略合作框架协议,规划建设的750MW风电项目取得核准批复；与甘肃电气集团签署战略合作框架协议。助力城乡共进,紧密结合省市“百千万工程”,促进风电、光伏产业与乡村产业融合发展,以“新能源+”特色优势反哺地方经济,倾力打造廉江、花都等样板工程,推动梅州新铺“光伏小镇”并网发电,实现新能源产业高质量发展和生态文明建设“双丰收”。（二）产业发展优化升级,绿色低碳转型加快公司坚持深耕华南、优拓全国,全力推动新能源高质量发展,厚植绿色发展的底色底蕴。新能源公司业务版图提速扩张,在山西、江苏、甘肃、新疆等地实现项目零的突破。全年新增新能源装机容量超过160万千瓦,产业结构加速优化升级,新能源可控发电装机容量突破400万千瓦,绿色低碳能源装机占比达到66%,较“十三五”末增加29个百分点,为建立新型能源体系打下坚实基础。（三）稳健经营攀高谋新,高质量发展迸发活力1.电力业务电力集团充分发挥发售电一体化优势,持续强化技术监督、设备检修、节能降耗等措施,有效提升机组运行经济性,属下煤电厂全面盈利。优化营销策略,提升电力交易盈利水平,推动中长期交易与现货市场有效衔接,售电均价优于全省平均水平。探索建立供热价格联动机制,增加供热收入。拓宽碳配额采购渠道,显著节约碳排9/239放履约成本。绿电、绿证及调频市场共同发力,实现增收创收。报告期内,合并口径火力发电企业完成发电量189.58亿千瓦时,上网电量178.53亿千瓦时,同比增长13.30%和13.34%。2.能源物流业务能源物流集团面对煤价下行压力,巩固拓展市场份额,多措并举保持稳定盈利,报告期内完成煤炭销售量4,110.61万吨,同比增长12.77%。深耕国内市场,大力开发大中型电厂等终端客户,华南、华北、西南市场刷新历史销售记录。强化储销渠道建设,拓建华东、西南等多个中转基地,开辟日照港场地交货业务。深化共建“一带一路”倡议,首次开拓柬埔寨、越南市场,国际煤炭贸易平台——发展国际公司正式运作,国际煤炭经营量首次跨越千万吨级,同比增长89%。着力打造粤港澳大湾区危化品供应链的“五个中心”,实现危化品租赁量24万平方米,同比增长20%。3.燃气业务城镇燃气业务做优做强,贸易批发业务再攀新高。广州LNG应急调峰气源站建成投产,为公司优化气源结构,提升气源成本控制能力再添新力,终端价格顺价机制逐步完善。积极拓宽贸易渠道,完成天然气批发量14亿立方米再创新高。异地市场拓展取得新突破,与客户签署长期销售协议,年销量1亿立方米。挖掘“广燃优选”效益空间,燃气保险及燃气具销售总额再创新高。报告期内完成天然气供气量51亿立方米,同比增长51%。4.新能源业务新能源产业规模加速壮大,利润稳定增长；公司全力以赴拓市场、抢资源,全年新增并网装机规模163万千瓦。业务开发再上新台阶,首个百万千瓦级新能源产业基地落地华北区域。精益运维强化实施,5个风电场、3个光伏电站获评5A级,设备利用率稳居行业前列。深入挖掘绿色需求,完成广东省绿电交易4.7亿千瓦时。积极打造粤港澳大湾区充电骨干网络,新增投运充电站47座,已投产规模约51MW,平台用户数量从年初8万人大幅增长至23万人。报告期内新能源发电量46.85亿千瓦时,售电量45.83亿千瓦时,同比增长38.59%和38.61%。10/2395.能源金融业务财务公司提升金融服务能力,加大信贷投放,日均存贷比达到74.5%。下调贷款利率,创新保函品种,以绿色金融赋能公司业务发展。融资租赁公司围绕能源主业和转型升级战略方向,配合新能源高质量发展开展业务,内部业务新增投放金额超过1亿元。瞄准新能源赛道,探索优质项目机遇,稳妥开拓外部业务。低碳产业基金年内完成备案,首批62万千瓦新能源项目完成投资决策。（四）重点项目强劲攻坚,筑牢转型发展基石公司持续强化战略思维,着力构建新型电力系统,一批重大项目落子有声、布局有序,燃气全产业链和气电联营产业链双链增强,全年完成投资86.26亿元,同比增长9.31%,以有效投资带动产业优化、转型升级。13个市“攻城拔寨”项目完成投资30亿元,超额完成投资任务。11/239（五）市场开拓步伐加快,创新驱动日新月异公司坚守“扎根广州、深耕华南、优拓全国、走向海外”的战略布局,不断开拓新市场、培育新业务、延伸新业态,实现业务不断壮大、市场持续扩张。煤炭贸易开拓柬埔寨、越南、韩国、印度等11个国家海外煤炭销售市场,转口贸易量166万吨,同比增长33%；燃气业务拓展燃气大用户,实现异地销售1.5亿立方米；新能源业务版图提速扩张,遍布全国15个省市。公司围绕产业链部署创新链,推动资源要素集约化、创新力量规模化,形成价值创造和价值增长新动能。推动研究院实体化运作,瞄准新能源、数字化、可燃冰、氢能、储能等主导产业关键技术领域,开展关键核心技术研发,为公司产业转型升级赋能新质生产力。提升高水平创新平台能级,参与组建“天然气水合物勘探开发国家工程研究中心”“广州碳达峰碳中和产业联盟”,全面构建多方协同攻关新模式。打造高水平产业创新集群,拥有高新技术企业19家,新增专精特新企业11家,拥有创新型中小企业14家、有效专利750余项,创新能效全面提升。科技创新硕果累累,“从化明珠工业园多元用户互动多能协同示范工程”获评2023年度十大“能源数字化示范工程”,南沙电力公司科技成果获评“中国南方电网公司科技进步一等奖”。（六）安全生产从严从实,精益管理真抓实干牢固树立“安全就是竞争力,安全就是效益”理念,压紧压实安全生产主体责任,坚持以重大事故隐患专项排查整治为主线,深入推进“双重预防机制”建设,安全风险分级管控持续深化,“三外”安全管理持续强化,重点行业安全风险可控,安全生产总体状况良好,截至2023年12月31日,实现连续安全生产5,672天。部署推进对标世界一流价值创造行动,以高质量对标强化“两个能力”建设。坚持以课题管理为抓手,推动课题研究与转型升级、精益管理、改革创新、协同发展等重点工作深度融合。深化“双增双降”“合理化建议6000”专项工作,加大“两金”管控力度。强化风险管控,加强合规管理体系建设,强化风险防控机制,健全风险防控体系。强化数智驱动,“数字化安全生产管理平台”系统全面上线,全面提升数字化科学决策水平。构筑“智汇高地”,不断深化人才强企,建立人才多元培养体系。强化品牌建12/239设,搭建多层次沟通“桥梁”,业绩说明会常态化畅通价值“速递”,获颁“上市公司2022年报业绩说明会优秀实践奖”“2023公司治理最佳实践案例奖”。",
+      "futureExpect": "(一)行业格局和趋势1.全力提升能源生产供应保障能力全球能源发展环境发生深刻转变,四期叠加（即国际格局动荡变革期、极端气候灾害频发期、能源行业低碳转型期和新一轮科技革命爆发期）将使能源安全事件多发频发,风险更趋复杂难料。我国是能源消费大国和进口大国,面对错综复杂的外部形势、内部经济发展新态势以及“双碳”目标能源转型进程,需要以保障能源安全供应和经济发展为前提,协同推进能源安全、经济增长和气候行动多重目标。2.加快建设新型能源体系、新型电力系统非化石能源消费比重在2030年达到25%的基础上进一步大幅提高,可再生能源发电成为33/239主体电源,新型电力系统建设取得实质性成效,碳排放总量达峰后稳中有降,加快推动化石能源和非化石能源协同互补、融合发展。3.能源基础设施建设将进一步加强构建现代化基础设施体系：（1）加大新型电力基础设施建设力度,推进以沙漠、戈壁、荒漠地区为重点的大型风电光伏基地、西南水电基地以及电力外送通道建设；（2）强化能源安全保供基础设施建设,加快提升网间电力互济能力,增强油气供应能力,完善原油和成品油长输管网体系建设,加快天然气管网建设和互联互通。(二)公司发展战略“十四五”期间,公司将以习近平新时代中国特色社会主义思想为指导,落实中央、省委省政府、市委市政府决策部署,坚持稳中求进工作总基调,把握粤港澳大湾区发展的机遇,坚持“创新、协调、绿色、开放、共享”的发展理念,贯彻落实“四个革命、一个合作”能源安全新战略,面向国家2060年前实现碳中和的宏伟目标,坚持改革创新,着力推动能源高质量发展,做强做优做大绿色能源产业,为粤港澳大湾区和广州市提供清洁、低碳、安全、高效的能源保障,实现国有资源优化配置和国有资产保值增值,实现企业全面可持续发展。公司围绕建设成为国内领先的绿色低碳综合智慧能源企业集团的战略目标,明确“两大定位”：打造绿色低碳综合智慧能源产业链,成为保障国民经济和改善民生的重要支撑；提升企业效益和竞争力,成为放大国有资本功能的重要平台。推动“三个转变”：推动产业布局从清洁能源为主向绿色低碳综合智慧能源为主转变；推动发展模式从产业运营型为主向产业和资本联合互动型转变；推动业务模式从生产、贸易型为主向生产、贸易、创新和综合服务复合型转变。强化“四大功能”：强化能源安全保障功能,成为能源新基建的重要主体；实现国有资本保值增值功能,成为拉动国资增长的强劲引擎；突出新兴产业培育功能,成为发展新兴能源产业的主力军；加强体制机制创新功能,成为国资国企改革的先行典范。实施绿色低碳、科技创新、智慧能源、走出去和人才强企“五大发展战略”。(三)经营计划2024年是实施“十四五”规划的关键一年。公司将以习近平新时代中国特色社会主义思想为指导,全面贯彻落实党的二十大、二十届二中全会和中央经济工作会议精神,完整、准确、全面贯彻新发展理念,主动服务和融入新发展格局,紧紧围绕绿色低碳综合智慧能源体系建设,抓协同、促改革、保安全、谋发展,着力优化产业生态,加快形成新质生产力,持续推动质的有效提升和量的合理增长。1.以产业协同之进,推动高质量发展取得新突破内部协同提质增效。坚持以“十四五”规划为引领,深化产业协同融合,推动多元业务联动,34/239放大1+1>2聚能效应,进一步健全煤电联营产业链、气电联营产业链、传统能源与新能源联营产业链,促进资源优化利用,建设新型能源体系,提高整体竞争优势、价值创造能力、抗风险能力,筑牢高质量发展“硬支撑”。跨链融合赋能发展。围绕广州市“产业第一、制造业立市”重大战略部署,更好发挥广州市新能源产业链综合能源分链“链主”企业作用,以产业为支点撬动省市“百千万工程”,主动融入区域协调发展战略,助推新能源、综合能源、储能、氢能等产业集群建设。把握《南沙方案》政策机遇,借力南沙发展的区位优势,着力打造绿色低碳能源基地。发挥“产业链+资本链”引领带动作用,以低碳产业基金撬动社会资本,凝聚多方合力赋能绿色发展。2.以深化改革之进,推动价值链延伸再创新成效贯彻对标对表,树立价值理念；分层分类,提高全系统价值创造能力；提升效益效率,把握价值创造关键环节和重点指标。强化课题管理,以挑战性目标为导向,将课题管理与重点专项工作深度融合,着力激发岗位价值创造。深化“双增双降”“合理化建议6000”,强化“两金”压降,提升物资管理水平。3.以多元布局之进,推动全产业体系迈上新台阶电力业务充分发挥发售电一体化优势,科学部署发电计划和优化电力现货市场交易策略。加强精益运维,强化煤电协同联动,落实稳定的燃料资源。积极布局天然气发电、综合能源及新能源领域。能源物流业务增强煤炭资源获取和掌控能力,提升竞争优势。增强上下游业务伙伴合作粘性,深挖海外业务发展空间,扩大市场份额。优化油品仓储业务经营品种,提高租赁水平。积极打造粤港澳大湾区危化品供应链高质量发展中心。燃气业务优化气源结构,合理安排采购计划,挖掘增值空间。积极拓展异地市场,加快与周边城市燃气管网互联互通。扩大国际“朋友圈”,拓展海外天然气市场。加快智慧燃气建设,做优增值服务。新能源业务创新发展模式,扩大产业规模。携手资源大省、行业龙头企业共拓优质资源,统筹提升“新能源+”增值业务,实现多链融合、互利共赢。紧抓绿电交易试点契机,加强绿色资产管理。能源金融业务发挥金融服务功能,加强司库、智库管理,提高产融效益。依托绿色金融政策支持,有效降低融资成本。围绕集团产业链上下游,稳步开拓融资租赁业务。4.以有效投资之进,推动战略支撑力实现新跃升积极拓展本地能源设施,加快建设电力供应保障基地、煤炭储运基地、油品仓储基地、天然气调峰储气设施等能源基础设施,为高质量发展增添强劲动能。全力推进重点项目,强化项目运营管理水平。加大新能源项目开发力度,优拓全国、布局国际,加快实现新能源项目规模化发展。5.以锐意创新之进,推动新质生产力点燃新引擎科技创新“蓄势赋能”。深化创新体制机制改革,加快推进广州发展研究院公司业务开展。谋划布局重大科技项目,重点推进综合智慧能源、氢能、储能、可燃冰、数字化等技术应用研究及成果转化。新兴产业集聚动能。坚持资源优势与产业培育融合发展,拓宽产业新布局,开辟发展新路径,谋划培育新业态。探索氢能领域,拓展新型储能业务,聚焦储能产业延链补链强链,35/239加快推进智慧能源、数字化电厂和综合能源服务。"
+    }
+  ]
+}

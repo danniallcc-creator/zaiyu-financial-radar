@@ -1,0 +1,1378 @@
+{
+  "code": "600177",
+  "name": "雅戈尔",
+  "fetchTime": "2026-06-18T18:34:13",
+  "segments": [
+    {
+      "reportDate": "2025-12-31",
+      "byIndustry": [
+        {
+          "name": "品牌服装",
+          "income": 6633082800.0,
+          "incomeRatio": 57.27,
+          "cost": 2164619400.0,
+          "costRatio": 34.55,
+          "profit": 4468463400.0,
+          "profitRatio": 84.05,
+          "grossMargin": 67.37,
+          "rank": 1
+        },
+        {
+          "name": "地产开发",
+          "income": 3892817400.0,
+          "incomeRatio": 33.61,
+          "cost": 3224770200.0,
+          "costRatio": 51.47,
+          "profit": 668047200.0,
+          "profitRatio": 12.57,
+          "grossMargin": 17.16,
+          "rank": 2
+        },
+        {
+          "name": "其他主营业务",
+          "income": 759496552.9,
+          "incomeRatio": 6.56,
+          "cost": 669749962.7,
+          "costRatio": 10.69,
+          "profit": 89746590.2,
+          "profitRatio": 1.69,
+          "grossMargin": 11.82,
+          "rank": 3
+        },
+        {
+          "name": "其他(补充)",
+          "income": 296415527.54,
+          "incomeRatio": 2.56,
+          "cost": 206093099.74,
+          "costRatio": 3.29,
+          "profit": 90322427.8,
+          "profitRatio": 1.7,
+          "grossMargin": 30.47,
+          "rank": 4
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "服装",
+          "income": 6615216481.1,
+          "incomeRatio": 57.12,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "房地产开发",
+          "income": 3935314992.24,
+          "incomeRatio": 33.98,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "纺织",
+          "income": 632398871.39,
+          "incomeRatio": 5.46,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "租赁收入",
+          "income": 189404728.05,
+          "incomeRatio": 1.64,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "旅游",
+          "income": 136980608.24,
+          "incomeRatio": 1.18,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "其他",
+          "income": 72496599.42,
+          "incomeRatio": 0.63,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "品牌服装华东",
+          "income": 3388443000.0,
+          "incomeRatio": 29.26,
+          "cost": 1087200900.0,
+          "costRatio": 17.35,
+          "profit": 2301242100.0,
+          "profitRatio": 43.28,
+          "grossMargin": 67.91,
+          "rank": 1
+        },
+        {
+          "name": "地产开发宁波",
+          "income": 2998194500.0,
+          "incomeRatio": 25.89,
+          "cost": 2456911900.0,
+          "costRatio": 39.22,
+          "profit": 541282600.0,
+          "profitRatio": 10.18,
+          "grossMargin": 18.05,
+          "rank": 2
+        },
+        {
+          "name": "其他主营业务",
+          "income": 759496452.9,
+          "incomeRatio": 6.56,
+          "cost": 669750062.7,
+          "costRatio": 10.69,
+          "profit": 89746390.2,
+          "profitRatio": 1.69,
+          "grossMargin": 11.82,
+          "rank": 3
+        },
+        {
+          "name": "境外",
+          "income": 705710700.0,
+          "incomeRatio": 6.09,
+          "cost": 283188000.0,
+          "costRatio": 4.52,
+          "profit": 422522700.0,
+          "profitRatio": 7.95,
+          "grossMargin": 59.87,
+          "rank": 4
+        },
+        {
+          "name": "品牌服装华中",
+          "income": 584315300.0,
+          "incomeRatio": 5.05,
+          "cost": 169175300.0,
+          "costRatio": 2.7,
+          "profit": 415140000.0,
+          "profitRatio": 7.81,
+          "grossMargin": 71.05,
+          "rank": 5
+        },
+        {
+          "name": "地产开发上海",
+          "income": 535021900.0,
+          "incomeRatio": 4.62,
+          "cost": 419384000.0,
+          "costRatio": 6.69,
+          "profit": 115637900.0,
+          "profitRatio": 2.17,
+          "grossMargin": 21.61,
+          "rank": 6
+        },
+        {
+          "name": "品牌服装西南",
+          "income": 527253500.0,
+          "incomeRatio": 4.55,
+          "cost": 154724100.0,
+          "costRatio": 2.47,
+          "profit": 372529400.0,
+          "profitRatio": 7.01,
+          "grossMargin": 70.65,
+          "rank": 7
+        },
+        {
+          "name": "品牌服装华北",
+          "income": 501334600.0,
+          "incomeRatio": 4.33,
+          "cost": 168563900.0,
+          "costRatio": 2.69,
+          "profit": 332770700.0,
+          "profitRatio": 6.26,
+          "grossMargin": 66.38,
+          "rank": 8
+        },
+        {
+          "name": "品牌服装华南",
+          "income": 456615700.0,
+          "incomeRatio": 3.94,
+          "cost": 143386000.0,
+          "costRatio": 2.29,
+          "profit": 313229700.0,
+          "profitRatio": 5.89,
+          "grossMargin": 68.6,
+          "rank": 9
+        },
+        {
+          "name": "地产开发温州",
+          "income": 331910300.0,
+          "incomeRatio": 2.87,
+          "cost": 325261800.0,
+          "costRatio": 5.19,
+          "profit": 6648500.0,
+          "profitRatio": 0.13,
+          "grossMargin": 2.0,
+          "rank": 10
+        },
+        {
+          "name": "其他(补充)",
+          "income": 296415527.54,
+          "incomeRatio": 2.56,
+          "cost": 206093099.74,
+          "costRatio": 3.29,
+          "profit": 90322427.8,
+          "profitRatio": 1.7,
+          "grossMargin": 30.47,
+          "rank": 11
+        },
+        {
+          "name": "品牌服装西北",
+          "income": 262689000.0,
+          "incomeRatio": 2.27,
+          "cost": 87892000.0,
+          "costRatio": 1.4,
+          "profit": 174797000.0,
+          "profitRatio": 3.29,
+          "grossMargin": 66.54,
+          "rank": 12
+        },
+        {
+          "name": "品牌服装东北",
+          "income": 206721100.0,
+          "incomeRatio": 1.78,
+          "cost": 70489200.0,
+          "costRatio": 1.13,
+          "profit": 136231900.0,
+          "profitRatio": 2.56,
+          "grossMargin": 65.9,
+          "rank": 13
+        },
+        {
+          "name": "地产开发其他",
+          "income": 27690700.0,
+          "incomeRatio": 0.24,
+          "cost": 23212400.0,
+          "costRatio": 0.37,
+          "profit": 4478300.0,
+          "profitRatio": 0.08,
+          "grossMargin": 16.17,
+          "rank": 14
+        }
+      ]
+    },
+    {
+      "reportDate": "2024-12-31",
+      "byIndustry": [
+        {
+          "name": "地产开发",
+          "income": 7216376000.0,
+          "incomeRatio": 50.86,
+          "cost": 5998377500.0,
+          "costRatio": 70.22,
+          "profit": 1217998500.0,
+          "profitRatio": 21.57,
+          "grossMargin": 16.88,
+          "rank": 1
+        },
+        {
+          "name": "品牌服装",
+          "income": 5733772600.0,
+          "incomeRatio": 40.41,
+          "cost": 1565704700.0,
+          "costRatio": 18.33,
+          "profit": 4168067900.0,
+          "profitRatio": 73.82,
+          "grossMargin": 72.69,
+          "rank": 2
+        },
+        {
+          "name": "其他主营业务",
+          "income": 931391684.799999,
+          "incomeRatio": 6.56,
+          "cost": 747464923.5,
+          "costRatio": 8.75,
+          "profit": 183926761.3,
+          "profitRatio": 3.26,
+          "grossMargin": 19.75,
+          "rank": 3
+        },
+        {
+          "name": "其他(补充)",
+          "income": 306676654.16,
+          "incomeRatio": 2.16,
+          "cost": 230705217.45,
+          "costRatio": 2.7,
+          "profit": 75971436.71,
+          "profitRatio": 1.35,
+          "grossMargin": 24.77,
+          "rank": 4
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "房地产/旅游板块",
+          "income": 7471397208.22,
+          "incomeRatio": 52.66,
+          "cost": 6188700600.61,
+          "costRatio": 72.45,
+          "profit": 1282696607.61,
+          "profitRatio": 22.72,
+          "grossMargin": 17.17,
+          "rank": 1
+        },
+        {
+          "name": "服装板块",
+          "income": 5884487436.49,
+          "incomeRatio": 41.47,
+          "cost": 1700157718.88,
+          "costRatio": 19.9,
+          "profit": 4184329717.61,
+          "profitRatio": 74.11,
+          "grossMargin": 71.11,
+          "rank": 2
+        },
+        {
+          "name": "纺织板块",
+          "income": 1088584538.13,
+          "incomeRatio": 7.67,
+          "cost": 946182196.42,
+          "costRatio": 11.08,
+          "profit": 142402341.71,
+          "profitRatio": 2.52,
+          "grossMargin": 13.08,
+          "rank": 3
+        },
+        {
+          "name": "投资板块",
+          "income": 36382518.34,
+          "incomeRatio": 0.26,
+          "cost": 20838070.97,
+          "costRatio": 0.24,
+          "profit": 15544447.37,
+          "profitRatio": 0.28,
+          "grossMargin": 42.73,
+          "rank": 4
+        },
+        {
+          "name": "分部间抵销",
+          "income": -292634762.22,
+          "incomeRatio": -2.06,
+          "cost": -313626245.93,
+          "costRatio": -3.67,
+          "profit": 20991483.71,
+          "profitRatio": 0.37,
+          "grossMargin": null,
+          "rank": 5
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "品牌服装华东",
+          "income": 3294390800.0,
+          "incomeRatio": 23.22,
+          "cost": 918163400.0,
+          "costRatio": 10.75,
+          "profit": 2376227400.0,
+          "profitRatio": 42.09,
+          "grossMargin": 72.13,
+          "rank": 1
+        },
+        {
+          "name": "地产开发上海",
+          "income": 2481944300.0,
+          "incomeRatio": 17.49,
+          "cost": 1951665900.0,
+          "costRatio": 22.85,
+          "profit": 530278400.0,
+          "profitRatio": 9.39,
+          "grossMargin": 21.37,
+          "rank": 2
+        },
+        {
+          "name": "地产开发温州",
+          "income": 2462241400.0,
+          "incomeRatio": 17.35,
+          "cost": 2151681000.0,
+          "costRatio": 25.19,
+          "profit": 310560400.0,
+          "profitRatio": 5.5,
+          "grossMargin": 12.61,
+          "rank": 3
+        },
+        {
+          "name": "地产开发宁波",
+          "income": 2170603300.0,
+          "incomeRatio": 15.3,
+          "cost": 1836925400.0,
+          "costRatio": 21.5,
+          "profit": 333677900.0,
+          "profitRatio": 5.91,
+          "grossMargin": 15.37,
+          "rank": 4
+        },
+        {
+          "name": "其他主营业务",
+          "income": 931391684.799999,
+          "incomeRatio": 6.56,
+          "cost": 747465023.5,
+          "costRatio": 8.75,
+          "profit": 183926661.3,
+          "profitRatio": 3.26,
+          "grossMargin": 19.75,
+          "rank": 5
+        },
+        {
+          "name": "品牌服装华中",
+          "income": 616551300.0,
+          "incomeRatio": 4.35,
+          "cost": 149885300.0,
+          "costRatio": 1.75,
+          "profit": 466666000.0,
+          "profitRatio": 8.27,
+          "grossMargin": 75.69,
+          "rank": 6
+        },
+        {
+          "name": "品牌服装西南",
+          "income": 574421700.0,
+          "incomeRatio": 4.05,
+          "cost": 153515000.0,
+          "costRatio": 1.8,
+          "profit": 420906700.0,
+          "profitRatio": 7.46,
+          "grossMargin": 73.27,
+          "rank": 7
+        },
+        {
+          "name": "品牌服装华北",
+          "income": 453570200.0,
+          "incomeRatio": 3.2,
+          "cost": 138806600.0,
+          "costRatio": 1.62,
+          "profit": 314763600.0,
+          "profitRatio": 5.58,
+          "grossMargin": 69.4,
+          "rank": 8
+        },
+        {
+          "name": "品牌服装华南",
+          "income": 387587200.0,
+          "incomeRatio": 2.73,
+          "cost": 97584000.0,
+          "costRatio": 1.14,
+          "profit": 290003200.0,
+          "profitRatio": 5.14,
+          "grossMargin": 74.82,
+          "rank": 9
+        },
+        {
+          "name": "其他(补充)",
+          "income": 306676654.16,
+          "incomeRatio": 2.16,
+          "cost": 230705217.45,
+          "costRatio": 2.7,
+          "profit": 75971436.71,
+          "profitRatio": 1.35,
+          "grossMargin": 24.77,
+          "rank": 10
+        },
+        {
+          "name": "品牌服装西北",
+          "income": 233614700.0,
+          "incomeRatio": 1.65,
+          "cost": 60424000.0,
+          "costRatio": 0.71,
+          "profit": 173190700.0,
+          "profitRatio": 3.07,
+          "grossMargin": 74.14,
+          "rank": 11
+        },
+        {
+          "name": "品牌服装东北",
+          "income": 169796300.0,
+          "incomeRatio": 1.2,
+          "cost": 45378300.0,
+          "costRatio": 0.53,
+          "profit": 124418000.0,
+          "profitRatio": 2.2,
+          "grossMargin": 73.27,
+          "rank": 12
+        },
+        {
+          "name": "地产开发其他",
+          "income": 101587000.0,
+          "incomeRatio": 0.72,
+          "cost": 58105200.0,
+          "costRatio": 0.68,
+          "profit": 43481800.0,
+          "profitRatio": 0.77,
+          "grossMargin": 42.8,
+          "rank": 13
+        },
+        {
+          "name": "境外",
+          "income": 3840400.0,
+          "incomeRatio": 0.03,
+          "cost": 1948000.0,
+          "costRatio": 0.02,
+          "profit": 1892400.0,
+          "profitRatio": 0.03,
+          "grossMargin": 49.28,
+          "rank": 14
+        }
+      ]
+    },
+    {
+      "reportDate": "2023-12-31",
+      "byIndustry": [
+        {
+          "name": "品牌服装",
+          "income": 6258179700.0,
+          "incomeRatio": 45.52,
+          "cost": 1692124800.0,
+          "costRatio": 22.0,
+          "profit": 4566054900.0,
+          "profitRatio": 75.38,
+          "grossMargin": 72.96,
+          "rank": 1
+        },
+        {
+          "name": "地产开发",
+          "income": 6092490100.0,
+          "incomeRatio": 44.31,
+          "cost": 4863522900.0,
+          "costRatio": 63.23,
+          "profit": 1228967200.0,
+          "profitRatio": 20.29,
+          "grossMargin": 20.17,
+          "rank": 2
+        },
+        {
+          "name": "其他主营业务",
+          "income": 1033351530.43,
+          "incomeRatio": 7.52,
+          "cost": 881448602.95,
+          "costRatio": 11.46,
+          "profit": 151902927.480001,
+          "profitRatio": 2.51,
+          "grossMargin": 14.7,
+          "rank": 3
+        },
+        {
+          "name": "其他(补充)",
+          "income": 365434420.37,
+          "incomeRatio": 2.66,
+          "cost": 255224245.17,
+          "costRatio": 3.32,
+          "profit": 110210175.2,
+          "profitRatio": 1.82,
+          "grossMargin": 30.16,
+          "rank": 4
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "其他主营业务",
+          "income": 7125841630.43,
+          "incomeRatio": 51.83,
+          "cost": 5744971502.95,
+          "costRatio": 74.68,
+          "profit": 1380870127.48,
+          "profitRatio": 22.8,
+          "grossMargin": 19.38,
+          "rank": 1
+        },
+        {
+          "name": "品牌上衣",
+          "income": 2163340400.0,
+          "incomeRatio": 15.73,
+          "cost": 595174100.0,
+          "costRatio": 7.74,
+          "profit": 1568166300.0,
+          "profitRatio": 25.89,
+          "grossMargin": 72.49,
+          "rank": 2
+        },
+        {
+          "name": "品牌衬衫",
+          "income": 1712978500.0,
+          "incomeRatio": 12.46,
+          "cost": 422463900.0,
+          "costRatio": 5.49,
+          "profit": 1290514600.0,
+          "profitRatio": 21.31,
+          "grossMargin": 75.34,
+          "rank": 3
+        },
+        {
+          "name": "品牌西服",
+          "income": 1343751500.0,
+          "incomeRatio": 9.77,
+          "cost": 406230100.0,
+          "costRatio": 5.28,
+          "profit": 937521400.0,
+          "profitRatio": 15.48,
+          "grossMargin": 69.77,
+          "rank": 4
+        },
+        {
+          "name": "品牌裤子",
+          "income": 896563900.0,
+          "incomeRatio": 6.52,
+          "cost": 219110200.0,
+          "costRatio": 2.85,
+          "profit": 677453700.0,
+          "profitRatio": 11.18,
+          "grossMargin": 75.56,
+          "rank": 5
+        },
+        {
+          "name": "其他(补充)",
+          "income": 365434420.37,
+          "incomeRatio": 2.66,
+          "cost": 255224245.17,
+          "costRatio": 3.32,
+          "profit": 110210175.2,
+          "profitRatio": 1.82,
+          "grossMargin": 30.16,
+          "rank": 6
+        },
+        {
+          "name": "品牌其它",
+          "income": 141545400.0,
+          "incomeRatio": 1.03,
+          "cost": 49146500.0,
+          "costRatio": 0.64,
+          "profit": 92398900.0,
+          "profitRatio": 1.53,
+          "grossMargin": 65.28,
+          "rank": 7
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "地产开发温州",
+          "income": 3813374500.0,
+          "incomeRatio": 27.73,
+          "cost": 3343078200.0,
+          "costRatio": 43.46,
+          "profit": 470296300.0,
+          "profitRatio": 7.76,
+          "grossMargin": 12.33,
+          "rank": 1
+        },
+        {
+          "name": "品牌服装华东",
+          "income": 3571608900.0,
+          "incomeRatio": 25.98,
+          "cost": 986127500.0,
+          "costRatio": 12.82,
+          "profit": 2585481400.0,
+          "profitRatio": 42.68,
+          "grossMargin": 72.39,
+          "rank": 2
+        },
+        {
+          "name": "地产开发甘肃",
+          "income": 1282911100.0,
+          "incomeRatio": 9.33,
+          "cost": 794308800.0,
+          "costRatio": 10.33,
+          "profit": 488602300.0,
+          "profitRatio": 8.07,
+          "grossMargin": 38.09,
+          "rank": 3
+        },
+        {
+          "name": "其他主营业务",
+          "income": 1033351530.43,
+          "incomeRatio": 7.52,
+          "cost": 881448602.95,
+          "costRatio": 11.46,
+          "profit": 151902927.480001,
+          "profitRatio": 2.51,
+          "grossMargin": 14.7,
+          "rank": 4
+        },
+        {
+          "name": "地产开发宁波",
+          "income": 897156800.0,
+          "incomeRatio": 6.53,
+          "cost": 653606700.0,
+          "costRatio": 8.5,
+          "profit": 243550100.0,
+          "profitRatio": 4.02,
+          "grossMargin": 27.15,
+          "rank": 5
+        },
+        {
+          "name": "品牌服装华中",
+          "income": 662829800.0,
+          "incomeRatio": 4.82,
+          "cost": 153377900.0,
+          "costRatio": 1.99,
+          "profit": 509451900.0,
+          "profitRatio": 8.41,
+          "grossMargin": 76.86,
+          "rank": 6
+        },
+        {
+          "name": "品牌服装西南",
+          "income": 616357800.0,
+          "incomeRatio": 4.48,
+          "cost": 157970600.0,
+          "costRatio": 2.05,
+          "profit": 458387200.0,
+          "profitRatio": 7.57,
+          "grossMargin": 74.37,
+          "rank": 7
+        },
+        {
+          "name": "品牌服装华北",
+          "income": 492799900.0,
+          "incomeRatio": 3.58,
+          "cost": 147525700.0,
+          "costRatio": 1.92,
+          "profit": 345274200.0,
+          "profitRatio": 5.7,
+          "grossMargin": 70.06,
+          "rank": 8
+        },
+        {
+          "name": "品牌服装华南",
+          "income": 455592100.0,
+          "incomeRatio": 3.31,
+          "cost": 126377200.0,
+          "costRatio": 1.64,
+          "profit": 329214900.0,
+          "profitRatio": 5.44,
+          "grossMargin": 72.26,
+          "rank": 9
+        },
+        {
+          "name": "其他(补充)",
+          "income": 365434420.37,
+          "incomeRatio": 2.66,
+          "cost": 255224245.17,
+          "costRatio": 3.32,
+          "profit": 110210175.2,
+          "profitRatio": 1.82,
+          "grossMargin": 30.16,
+          "rank": 10
+        },
+        {
+          "name": "品牌服装西北",
+          "income": 264735900.0,
+          "incomeRatio": 1.93,
+          "cost": 70849400.0,
+          "costRatio": 0.92,
+          "profit": 193886500.0,
+          "profitRatio": 3.2,
+          "grossMargin": 73.24,
+          "rank": 11
+        },
+        {
+          "name": "品牌服装东北",
+          "income": 194255300.0,
+          "incomeRatio": 1.41,
+          "cost": 49896500.0,
+          "costRatio": 0.65,
+          "profit": 144358800.0,
+          "profitRatio": 2.38,
+          "grossMargin": 74.31,
+          "rank": 12
+        },
+        {
+          "name": "地产开发其他",
+          "income": 99047700.0,
+          "incomeRatio": 0.72,
+          "cost": 72529200.0,
+          "costRatio": 0.94,
+          "profit": 26518500.0,
+          "profitRatio": 0.44,
+          "grossMargin": 26.77,
+          "rank": 13
+        }
+      ]
+    },
+    {
+      "reportDate": "2022-12-31",
+      "byIndustry": [
+        {
+          "name": "地产开发",
+          "income": 8311615400.0,
+          "incomeRatio": 56.08,
+          "cost": 4332769000.0,
+          "costRatio": 65.29,
+          "profit": 3978846400.0,
+          "profitRatio": 48.61,
+          "grossMargin": 47.87,
+          "rank": 1
+        },
+        {
+          "name": "品牌服装",
+          "income": 5410311300.0,
+          "incomeRatio": 36.5,
+          "cost": 1447830900.0,
+          "costRatio": 21.82,
+          "profit": 3962480400.0,
+          "profitRatio": 48.41,
+          "grossMargin": 73.24,
+          "rank": 2
+        },
+        {
+          "name": "其他主营业务",
+          "income": 876220013.520001,
+          "incomeRatio": 5.91,
+          "cost": 736266107.15,
+          "costRatio": 11.09,
+          "profit": 139953906.370001,
+          "profitRatio": 1.71,
+          "grossMargin": 15.97,
+          "rank": 3
+        },
+        {
+          "name": "其他(补充)",
+          "income": 223056059.68,
+          "incomeRatio": 1.5,
+          "cost": 119546038.54,
+          "costRatio": 1.8,
+          "profit": 103510021.14,
+          "profitRatio": 1.26,
+          "grossMargin": 46.41,
+          "rank": 4
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "其他主营业务",
+          "income": 9187835513.52,
+          "incomeRatio": 61.99,
+          "cost": 5069035107.15,
+          "costRatio": 76.38,
+          "profit": 4118800406.37,
+          "profitRatio": 50.32,
+          "grossMargin": 44.83,
+          "rank": 1
+        },
+        {
+          "name": "品牌上衣",
+          "income": 1798047300.0,
+          "incomeRatio": 12.13,
+          "cost": 498355400.0,
+          "costRatio": 7.51,
+          "profit": 1299691900.0,
+          "profitRatio": 15.88,
+          "grossMargin": 72.28,
+          "rank": 2
+        },
+        {
+          "name": "品牌衬衫",
+          "income": 1574951700.0,
+          "incomeRatio": 10.63,
+          "cost": 377132500.0,
+          "costRatio": 5.68,
+          "profit": 1197819200.0,
+          "profitRatio": 14.63,
+          "grossMargin": 76.05,
+          "rank": 3
+        },
+        {
+          "name": "品牌西服",
+          "income": 1102941800.0,
+          "incomeRatio": 7.44,
+          "cost": 330701600.0,
+          "costRatio": 4.98,
+          "profit": 772240200.0,
+          "profitRatio": 9.44,
+          "grossMargin": 70.02,
+          "rank": 4
+        },
+        {
+          "name": "品牌裤子",
+          "income": 801561700.0,
+          "incomeRatio": 5.41,
+          "cost": 191951900.0,
+          "costRatio": 2.89,
+          "profit": 609609800.0,
+          "profitRatio": 7.45,
+          "grossMargin": 76.05,
+          "rank": 5
+        },
+        {
+          "name": "其他(补充)",
+          "income": 223056059.68,
+          "incomeRatio": 1.5,
+          "cost": 119546038.54,
+          "costRatio": 1.8,
+          "profit": 103510021.14,
+          "profitRatio": 1.26,
+          "grossMargin": 46.41,
+          "rank": 6
+        },
+        {
+          "name": "品牌其它",
+          "income": 132808700.0,
+          "incomeRatio": 0.9,
+          "cost": 49689500.0,
+          "costRatio": 0.75,
+          "profit": 83119200.0,
+          "profitRatio": 1.02,
+          "grossMargin": 62.59,
+          "rank": 7
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "地产开发宁波",
+          "income": 8304773900.0,
+          "incomeRatio": 56.03,
+          "cost": 4327149600.0,
+          "costRatio": 65.2,
+          "profit": 3977624300.0,
+          "profitRatio": 48.6,
+          "grossMargin": 47.9,
+          "rank": 1
+        },
+        {
+          "name": "品牌服装华东",
+          "income": 3170893700.0,
+          "incomeRatio": 21.39,
+          "cost": 858686300.0,
+          "costRatio": 12.94,
+          "profit": 2312207400.0,
+          "profitRatio": 28.25,
+          "grossMargin": 72.92,
+          "rank": 2
+        },
+        {
+          "name": "其他主营业务",
+          "income": 876219913.520001,
+          "incomeRatio": 5.91,
+          "cost": 736266107.15,
+          "costRatio": 11.09,
+          "profit": 139953806.370001,
+          "profitRatio": 1.71,
+          "grossMargin": 15.97,
+          "rank": 3
+        },
+        {
+          "name": "品牌服装华中",
+          "income": 559883500.0,
+          "incomeRatio": 3.78,
+          "cost": 132442900.0,
+          "costRatio": 2.0,
+          "profit": 427440600.0,
+          "profitRatio": 5.22,
+          "grossMargin": 76.34,
+          "rank": 4
+        },
+        {
+          "name": "品牌服装西南",
+          "income": 506920900.0,
+          "incomeRatio": 3.42,
+          "cost": 120873400.0,
+          "costRatio": 1.82,
+          "profit": 386047500.0,
+          "profitRatio": 4.72,
+          "grossMargin": 76.16,
+          "rank": 5
+        },
+        {
+          "name": "品牌服装华北",
+          "income": 406244600.0,
+          "incomeRatio": 2.74,
+          "cost": 131966100.0,
+          "costRatio": 1.99,
+          "profit": 274278500.0,
+          "profitRatio": 3.35,
+          "grossMargin": 67.52,
+          "rank": 6
+        },
+        {
+          "name": "品牌服装华南",
+          "income": 376497700.0,
+          "incomeRatio": 2.54,
+          "cost": 99722400.0,
+          "costRatio": 1.5,
+          "profit": 276775300.0,
+          "profitRatio": 3.38,
+          "grossMargin": 73.51,
+          "rank": 7
+        },
+        {
+          "name": "其他(补充)",
+          "income": 223056059.68,
+          "incomeRatio": 1.5,
+          "cost": 119546038.54,
+          "costRatio": 1.8,
+          "profit": 103510021.14,
+          "profitRatio": 1.26,
+          "grossMargin": 46.41,
+          "rank": 8
+        },
+        {
+          "name": "品牌服装东北",
+          "income": 195725500.0,
+          "incomeRatio": 1.32,
+          "cost": 53686100.0,
+          "costRatio": 0.81,
+          "profit": 142039400.0,
+          "profitRatio": 1.74,
+          "grossMargin": 72.57,
+          "rank": 9
+        },
+        {
+          "name": "品牌服装西北",
+          "income": 194145500.0,
+          "incomeRatio": 1.31,
+          "cost": 50453700.0,
+          "costRatio": 0.76,
+          "profit": 143691800.0,
+          "profitRatio": 1.76,
+          "grossMargin": 74.01,
+          "rank": 10
+        },
+        {
+          "name": "地产开发苏州",
+          "income": 6384400.0,
+          "incomeRatio": 0.04,
+          "cost": 5341300.0,
+          "costRatio": 0.08,
+          "profit": 1043100.0,
+          "profitRatio": 0.01,
+          "grossMargin": 16.34,
+          "rank": 11
+        },
+        {
+          "name": "地产开发上海",
+          "income": 457100.0,
+          "incomeRatio": 0.0,
+          "cost": 278100.0,
+          "costRatio": 0.0,
+          "profit": 179000.0,
+          "profitRatio": 0.0,
+          "grossMargin": 39.16,
+          "rank": 12
+        }
+      ]
+    },
+    {
+      "reportDate": "2021-12-31",
+      "byIndustry": [
+        {
+          "name": "房地产-分部",
+          "income": 6623212128.95,
+          "incomeRatio": 48.68,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "服装-分部",
+          "income": 5985883122.24,
+          "incomeRatio": 43.99,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "纺织-分部",
+          "income": 966129807.34,
+          "incomeRatio": 7.1,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "文旅-分部",
+          "income": 174670689.66,
+          "incomeRatio": 1.28,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "租赁收入",
+          "income": 108196806.24,
+          "incomeRatio": 0.8,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "投资-分部",
+          "income": 16839020.38,
+          "incomeRatio": 0.12,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "抵消-分部",
+          "income": -268068460.84,
+          "incomeRatio": -1.97,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "房地产开发",
+          "income": 6558281759.19,
+          "incomeRatio": 48.2,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "服装",
+          "income": 5940863394.67,
+          "incomeRatio": 43.66,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "纺织",
+          "income": 773567354.29,
+          "incomeRatio": 5.69,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "旅游",
+          "income": 165424760.6,
+          "incomeRatio": 1.22,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "租赁收入",
+          "income": 108196806.24,
+          "incomeRatio": 0.8,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "其他",
+          "income": 60529038.98,
+          "incomeRatio": 0.44,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "地产开发宁波",
+          "income": 6494346600.0,
+          "incomeRatio": 47.73,
+          "cost": 3370472900.0,
+          "costRatio": 58.96,
+          "profit": 3123873700.0,
+          "profitRatio": 39.59,
+          "grossMargin": 48.1,
+          "rank": 1
+        },
+        {
+          "name": "品牌服装华东",
+          "income": 3272624500.0,
+          "incomeRatio": 24.05,
+          "cost": 852880200.0,
+          "costRatio": 14.92,
+          "profit": 2419744300.0,
+          "profitRatio": 30.67,
+          "grossMargin": 73.94,
+          "rank": 2
+        },
+        {
+          "name": "其他主营业务",
+          "income": 876052885.389999,
+          "incomeRatio": 6.44,
+          "cost": 648609252.79,
+          "costRatio": 11.35,
+          "profit": 227443632.599999,
+          "profitRatio": 2.88,
+          "grossMargin": 25.96,
+          "rank": 3
+        },
+        {
+          "name": "品牌服装西南",
+          "income": 697672100.0,
+          "incomeRatio": 5.13,
+          "cost": 179443200.0,
+          "costRatio": 3.14,
+          "profit": 518228900.0,
+          "profitRatio": 6.57,
+          "grossMargin": 74.28,
+          "rank": 4
+        },
+        {
+          "name": "品牌服装华中",
+          "income": 640708800.0,
+          "incomeRatio": 4.71,
+          "cost": 145147400.0,
+          "costRatio": 2.54,
+          "profit": 495561400.0,
+          "profitRatio": 6.28,
+          "grossMargin": 77.35,
+          "rank": 5
+        },
+        {
+          "name": "品牌服装华北",
+          "income": 486058300.0,
+          "incomeRatio": 3.57,
+          "cost": 140064700.0,
+          "costRatio": 2.45,
+          "profit": 345993600.0,
+          "profitRatio": 4.38,
+          "grossMargin": 71.18,
+          "rank": 6
+        },
+        {
+          "name": "品牌服装华南",
+          "income": 321661100.0,
+          "incomeRatio": 2.36,
+          "cost": 75524900.0,
+          "costRatio": 1.32,
+          "profit": 246136200.0,
+          "profitRatio": 3.12,
+          "grossMargin": 76.52,
+          "rank": 7
+        },
+        {
+          "name": "品牌服装东北",
+          "income": 274613000.0,
+          "incomeRatio": 2.02,
+          "cost": 81079500.0,
+          "costRatio": 1.42,
+          "profit": 193533500.0,
+          "profitRatio": 2.45,
+          "grossMargin": 70.47,
+          "rank": 8
+        },
+        {
+          "name": "品牌服装西北",
+          "income": 244922400.0,
+          "incomeRatio": 1.8,
+          "cost": 67788400.0,
+          "costRatio": 1.19,
+          "profit": 177134000.0,
+          "profitRatio": 2.24,
+          "grossMargin": 72.32,
+          "rank": 9
+        },
+        {
+          "name": "其他(补充)",
+          "income": 226805428.58,
+          "incomeRatio": 1.67,
+          "cost": 139349677.06,
+          "costRatio": 2.44,
+          "profit": 87455751.52,
+          "profitRatio": 1.11,
+          "grossMargin": 38.56,
+          "rank": 10
+        },
+        {
+          "name": "地产开发苏州",
+          "income": 69150400.0,
+          "incomeRatio": 0.51,
+          "cost": 14408100.0,
+          "costRatio": 0.25,
+          "profit": 54742300.0,
+          "profitRatio": 0.69,
+          "grossMargin": 79.16,
+          "rank": 11
+        },
+        {
+          "name": "地产开发上海",
+          "income": 2247600.0,
+          "incomeRatio": 0.02,
+          "cost": 1390600.0,
+          "costRatio": 0.02,
+          "profit": 857000.0,
+          "profitRatio": 0.01,
+          "grossMargin": 38.13,
+          "rank": 12
+        }
+      ]
+    }
+  ],
+  "analysis": [
+    {
+      "reportDate": "2025-12-31",
+      "businessReview": "报告期内,公司三大板块受市场环境、监管政策、转型调整等多重挑战影响,整体业绩不及预期：完成营业收入1,158,181.23万元,实现归属于上市公司股东的净利润244,733.92万元,分别同比下降18.37%、11.57%。资产质量与现金流保持稳健水平：期末归属于上市公司股东的净资产4,233,350.84万元,较年初增长2.75%；资产负债率39.93%,较年初减少2.03个百分点；现金及现金等价物1,170,717.29万元,较年初增加398,741.83万元。（一）时尚板块报告期内,时尚板块完成营业收入743,349.07万元,由于并表BONPOINT品牌及多品牌(BONPOINT、UNDEFEATED、MAYOR、HANP、CORTHAY)快速增长,同比增长9.33%；实现归属于上市公司股东的净利润9,593.09万元,受成本、费用增加等因素影响,同比下降77.75%。1、优化品牌矩阵,实现差异化发展主品牌YOUNGOR加速转型,积极调整产品结构,加大户外休闲系列布局力度,通过大单品（羽绒服、针织系列）的销售稳步增长,缓解核心品类（衬衫、西服）的销售下滑压力。同时,公司顺利完成BONPOINT品牌的收购与整合工作,进一步完善了时尚产业生态布局。报告期内,多品牌协同发力,合计完成营业收入162,744.61万元,占比提升至24.54%。2、深耕渠道布局,提振终端竞争力为顺应消费场景变迁、更好触达年轻消费群体,公司在渠道端持续推进主品牌结构调整,加快多品牌外延拓展。截至报告期末,直营门店合计1,884家,净增加13家,其中购物中心、奥莱网点合计净增加68家,自营网点、商场网点合计净减少55家；扩店调整140家；期末营业面积55.86万平方米,净增加4.97万平方米。在优化渠道布局的过程中,公司与主要商业系统继续深化“总对总”战略合作。新开店平均店效同比增长21.74%,运营效能明显提升,调整店平均店效同比增长7.10%,未调改店铺的运营水平有待进一步焕新。3、聚焦全域营销,探索运营新模式公司持续完善全渠道营销网络布局,加大新品牌市场传播力度,系统化提升品牌整体声量与市场影响力。通过深化线上线下融合联动、渠道协同发展,不断增强线下门店综合服务能力,全面提升私域会员精细化运营管理水平。公司以商务会馆为平台,依托多元场景搭建与客群深度互动,稳步探索并形成“以商聚友”的特色行商模式,提升公司品牌在核心客群中的认知度、美誉度及忠诚度。（二）其他业务报告期内,地产业务尾盘实现预售收入95,576.81万元（订单口径,合作项目按权益比例折算）,同比下降68.46%；顺利推进明湖懿秋苑交付,结转营业收入415,688.70万元,同比下降44.36%；受存货跌价准备计提的影响,全年亏损10,579.67万元。投资业务继续推进结构调整,退出4个财务性投资项目,减持收回现金771,352.76万元；全年实现归属于上市公司股东的净利润247,051.62万元。",
+      "futureExpect": "(一)行业格局和趋势详阅本节-二、报告期内公司所处行业情况。(二)公司发展战略坚持“建世界级时尚集团”战略目标,抓住消费升级机遇,聚焦时尚产业,优化产业布局,坚持文化引领,加强团队建设,强化科技创新,改革体制机制,做好风险管控,坚守社会责任,夯实发展基础。(三)经营计划2026年,公司将以业绩稳步增长和品牌力持续提升为目标,坚持战略引领,动态优化策略,聚力提质增效,夯实发展根基,奋力开创企业发展新局面。1、品牌：精耕细作。主品牌YOUNGOR持续完善行政商务、婚庆、户外休闲、女装四大系列,聚焦商旅概念、核心品类与战略单品,以系统化的产品体系、营销策略与运营管理,应对市场多元化需求；多品牌坚守品牌基因,强化商品企划及研发能力,优化供应链管理及经销体系架构,持续提升品牌声量及渗透力。2、渠道：谋定而动。主品牌YOUNGOR以商务会馆、商务馆、雅公馆建设为抓手,打造线下渠道标杆店,发挥示范引领作用,辐射带动老店优化升级；多品牌加快渠道拓展,完善市场布局,全面提升全渠道运营效能。3、运营：守正创新。构建覆盖总部至导购的四级新媒体矩阵,重塑品牌传播体系；推动运营管理由被动向主动转型：以线下渠道为平台,推动从坐商向行商的模式升级；以三馆建设为抓手,完成从寻商到选商的关键转变。4、地产：稳妥收尾。根据市场情况,多渠道推进库存去化工作,盘活存量资产。5、投资：顺势而为。加快财务性投资项目的退出与资金回收；坚持价值投资与长期主义,强化投后跟踪赋能；继续关注优质品牌投资与合作机会,积极探索并布局新兴产业的投资方向。"
+    },
+    {
+      "reportDate": "2024-12-31",
+      "businessReview": "2024年,国内消费者信心指数低位运行,零售市场竞争加剧。面对困境和挑战,公司坚定执行聚焦主业战略,完成营业收入1,418,821.69万元,同比增长3.19%；实现归属于上市公司股东的净利润276,746.56万元,由于产业布局调整叠加消费需求疲软等因素,同比下降19.41%；期末归属于上市公司股东的净资产4,119,996.90万元,同比增长5.06%；资产负债率41.95%,较年初下降9.02个百分点。（一）时尚板块2024年,时尚板块完成营业收入679,905.20万元,实现归属于上市公司股东的净利润43,115.26万元,受消费复苏不及预期以及投入性费用增加等因素影响,分别同比下降6.94%、43.90%。1、品牌协同：打造差异化品牌矩阵主品牌YOUNGOR聚焦商务人群,优化全品类布局：稳住商务行政系列基本盘,加速拓展户外休闲产品,迎合男装运动休闲化趋势,全年完成营业收入518,669.70万元,占比90.46%,仍然是雅戈尔时尚板块营收和利润的核心支柱。子品牌UNDEFEATED、MAYOR、HANP、HARTMARX、CORTHAY立足差异化的品牌定位,抓住细分赛道的发展机遇,合计完成营业收入54,707.56万元,同比增长29.91%；合资品牌HELLYHANSEN（非并表,权益法核算）受益于户外、运动的高景气度,实现快速发展,销售增速达到116%。2、品牌向上：自营渠道全面升级报告期内,公司与多家商业系统开展“总对总”战略合作,渠道升级展现良好态势,店铺数量和营业面积实现恢复性增长。截至报告期末,公司自营门店1,777家,较年初增加46家,扩店升级164家；营业面积50.09万平方米,较年初增加4.88万平方米。深化实践“一个馆链接一座城”的策略,将时尚体验馆升级为商务会馆,旨在提供更优质的会员服务和更舒适的消费体验。截至报告期末,商务会馆已开业15家,营业面积合计2.98万平方米。3、品牌并购：完善时尚产业生态圈布局报告期内,公司与法国高端手工皮鞋品牌CORTHAY合作,在北京SKP、武汉SKP、南京德基开设3家独立店；签署法国奢侈童装品牌BONPOINT收购协议,正式进入童装、国际与奢侈品领域,开启全球化战略布局。（二）其他业务报告期内,地产业务无新推项目,尾盘实现预售收入303,075.91万元（订单口径,合作项目按权益比例折算）,同比下降69.03%；结转营业收入747,139.72万元,同比增长16.20%；实现归属于上市公司股东的净利润15,355.95万元,同比下降73.23%。投资业务继续优化投资结构,减持或退出三亚长浙等财务投资项目,收回现金179,645.11万元,全年实现归属于上市公司股东的净利润220,945.46万元,同比增长5.43%。",
+      "futureExpect": "(一)行业格局和趋势详阅本节-二、报告期内公司所处行业情况。(二)公司发展战略坚持“建世界级时尚集团”战略目标,抓住消费升级机遇,聚焦时尚产业,优化产业布局,坚持文化引领,加强团队建设,强化科技创新,改革体制机制,做好风险管控,坚守社会责任,夯实发展基础。(三)经营计划2025年,公司将以“拓渠道、促成长；开大店、提品牌；招会员、增平效；创新品,跨周期”为目标,继续推进以创建品牌为核心的高质量发展,挖掘新市场、新机遇和新增量,为企业的发展后劲注入新动能。1、品牌：主品牌YOUNGOR稳中求拓,持续优化商品体系,加快“全系列、多品类”发展,强化婚庆产品设计及推广,提升休闲系列、女装及配饰的占比；多品牌协同并进,聚焦研发创新,优化运营质效,以差异化策略精准定位消费需求、满足消费痛点,迅速扩大市场份额,提升品牌的知名度和影响力；平稳整合新收购品牌,建立有效的管控体系,积极推进融合、共享与双向赋能。2、渠道：全面推进与主要商业体总对总开拓的落地工作,持续优化渠道结构,提升运营面积与效率；聚焦标杆店铺建设,发挥样板示范效应；预计在年底前完成15家新商务会馆的建设与开业,通过产品力的打造和场景力的传递,持续提升品牌力。3、运营：加强供应链协同,优化数据中台和业务中台的统筹能力,提升运营效能；推动业财一体化,提升综合管理的有效性与风险防控的全流程化；健全人力资源体系,科学规划人才结构,构建多层次、多类型、国际化的人才梯队。4、地产：顺利完成宁波明湖懿秋苑项目的结转交付,加快推进存量项目的销售去化和平稳退出。5、投资：加快退出财务性投资项目,强化现金流量管理,持续优化投资结构。"
+    },
+    {
+      "reportDate": "2023-12-31",
+      "businessReview": "2023年,雅戈尔完成营业收入1,374,945.58万元,同比下降7.23%；实现归属于上市公司股东的净利润343,392.64万元,受整体市场环境及结转产品结构的影响,同比下降32.31%；全年经营活动产生的现金流量净额为654,180.73万元,净现比1.91；期末归属于上市公司股东的净资产3,921,671.52万元,同比增长3.42%。（一）时尚板块2023年,雅戈尔时尚板块把握消费复苏机遇,实现恢复性增长：完成营业收入730,619.56万元,实现归属于上市公司股东的净利润76,849.48万元,分别同比增长15.65%、22.82%。1、坚持“存量与增量并举”,持续推进品牌力建设主品牌YOUNGOR深耕品类细分化运营,在强化行政商务优势的同时,拓展休闲品类,重推婚庆系列,品牌力进一步提升。全年完成营业收入583,706.71万元,同比增长16.45%；实现毛利428,382.80万元,同比增长15.43%,均创历史峰值。多品牌的调整、培育稳步推进,在品牌破圈、渠道拓展等方面取得一定成效。MAYOR、HARTMARX、HANP、UNDEFEATED品牌合计完成营业收入42,111.26万元,同比增长5.90%；合计新拓店铺49家,期末店铺数量达到100家。2、坚持“破立并举”,持续推进卖场结构调整报告期内,公司继续执行“开大店、关小店”的渠道调整策略,新开自营店铺118家,平均营业面积290平方米；新扩88家,平均新增营业面积76平方米；关闭240家,平均营业面积163平方米；期末自营门店1,729家,较年初净减少122家,营业面积增加至45.21万平方米。报告期内,宁波总部时尚体验馆、南宁时尚体验馆相继开业。体验馆在打造城市制高点、提升品牌认知度的同时,充分展现了公司旗下各品牌的独立形象,为消费者提供了良好的购物体验。同时加大渠道投入,新购置店铺8家,购置面积合计11万平方米,为时尚体验馆的后续建设奠定了基础。3、坚持“激励与考核并举”,持续推进运营质效提升报告期内,公司深化目标管理,不断完善向基层倾斜的分配机制,充分调动了员工的积极性和战斗力,FA绩效大幅提升。2023年,自营门店平均单店收入达到275万元,店效同比提高25.82%,人效同比提高25.70%,经营效率持续提升。（二）其他业务报告期内,雅戈尔地产业务有序推进存量项目建设,完成预售收入978,740.22万元（订单口径,合作项目按权益比例折算）,同比增长45.19%；结转营业收入642,997.81万元,实现归属于上市公司股东的净利润57,361.08万元,受整体市场环境及结转产品结构的影响,分别同比下降24.79%、75.07%。14/246投资业务调整投资策略,一方面聚焦服装产业、时尚领域,寻找、研究并接洽潜在投资标的；另一方面强化现金流量管理,优化投资结构,战略性增持宁波银行,减持或退出百隆东方、美的置业、金田铜业、创业慧康等财务投资项目,全年实现归属于上市公司股东的净利润209,559.94万元。",
+      "futureExpect": "(一)行业格局和趋势详阅二、报告期内公司所处行业情况。(二)公司发展战略坚持“建世界级时尚集团”战略目标,抓住消费升级机遇,聚焦时尚产业,优化产业布局,坚持文化引领,加强团队建设,强化科技创新,改革体制机制,做好风险管控,坚守社会责任,夯实发展基础。(三)经营计划2024年,雅戈尔将进一步聚焦核心主业,以“上台阶”为目标谋发展,以创新为手段促转型,以融合为导向求突破,推动公司向“建世界级时尚集团”的愿景迈进。1、时尚板块继续推进品牌力建设和产品力提升主品牌YOUNGOR以核心品类衬衫为突破口,加大品牌推广力度,夯实“最受高级商务人士欢迎品牌”的优势地位；以“精致、极致”的工匠精神,持续提升产品时尚性和舒适性；围绕消费者的场景需求,充分做足行政商务、婚庆刚需市场,快速拓展户外休闲市场份额。子品牌锚定品牌定位,优化产品系列,打造优势品类,稳步推进渠道建设,提升品牌运营能力。同时关注国际国内时尚行业信息,伺机收购品牌,完善雅戈尔品牌矩阵。继续推进时尚体验馆建设加快时尚体验馆的开业和改造,提升雅戈尔在各中心城市的品牌力和知名度,带动和辐射其他渠道、区域的销售；加强线上线下一体化联动,进一步探索新零售模式。继续推进渠道结构优化坚定执行“大店战略”,加强对重点城市的投入,加大对高端购物中心的进驻力度,提高新店开设标准,加快小规模、亏损店、折扣店的关闭进度,将“上台阶”的目标细化分解到区域、城市、门店。继续推进数实、产业链、业财融合搭建全面、智能的信息系统,构建精准高效的综合管理体系；加快上下游一体化建设,推动产业链在研发、技术、品质、成本和快速反应上赋能品牌发展；加大财务统一核算步伐,夯实风险管理基础。2、其他业务2024年,地产业务计划结转宁波江上云境、上海临港星海云境、温州未来城壹号（麓台里）和珠海金湾宝龙城AD地块,完成古林二号安置房项目的竣备工作,继续加大力度推进在建项目的销售去化。投资业务方面,进一步加强对时尚行业和细分赛道的研究,关注品牌并购机会；加强存量项目的投后管理和退出处置力度,优化投资性现金流。34/246。"
+    }
+  ]
+}

@@ -1,0 +1,1312 @@
+{
+  "code": "601868",
+  "name": "中国能建",
+  "fetchTime": "2026-06-18T18:36:35",
+  "segments": [
+    {
+      "reportDate": "2025-12-31",
+      "byIndustry": [
+        {
+          "name": "工程建设业务",
+          "income": 389018116000.0,
+          "incomeRatio": 85.89,
+          "cost": 361138082000.0,
+          "costRatio": 90.8,
+          "profit": 27880034000.0,
+          "profitRatio": 50.49,
+          "grossMargin": 7.17,
+          "rank": 1
+        },
+        {
+          "name": "投资运营业务",
+          "income": 38751684000.0,
+          "incomeRatio": 8.56,
+          "cost": 26877883000.0,
+          "costRatio": 6.76,
+          "profit": 11873801000.0,
+          "profitRatio": 21.5,
+          "grossMargin": 30.64,
+          "rank": 2
+        },
+        {
+          "name": "工业制造",
+          "income": 34263663000.0,
+          "incomeRatio": 7.56,
+          "cost": 28361865000.0,
+          "costRatio": 7.13,
+          "profit": 5901798000.0,
+          "profitRatio": 10.69,
+          "grossMargin": 17.22,
+          "rank": 3
+        },
+        {
+          "name": "勘测设计及咨询业务",
+          "income": 22048764000.0,
+          "incomeRatio": 4.87,
+          "cost": 13125217000.0,
+          "costRatio": 3.3,
+          "profit": 8923547000.0,
+          "profitRatio": 16.16,
+          "grossMargin": 40.47,
+          "rank": 4
+        },
+        {
+          "name": "其他业务",
+          "income": 5271965000.0,
+          "incomeRatio": 1.16,
+          "cost": 3780788000.0,
+          "costRatio": 0.95,
+          "profit": 1491177000.0,
+          "profitRatio": 2.7,
+          "grossMargin": 28.29,
+          "rank": 5
+        },
+        {
+          "name": "分部间抵消",
+          "income": -36424584000.0,
+          "incomeRatio": -8.04,
+          "cost": -35573321000.0,
+          "costRatio": -8.94,
+          "profit": -851263000.0,
+          "profitRatio": -1.54,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "其中:工程建设业务-新能源及综合智慧能源",
+          "income": 132965485000.0,
+          "incomeRatio": 29.36,
+          "cost": 124340855000.0,
+          "costRatio": 31.26,
+          "profit": 8624630000.0,
+          "profitRatio": 15.62,
+          "grossMargin": 6.49,
+          "rank": 7
+        },
+        {
+          "name": "其中:投资运营业务-城市开发运营(房地产)",
+          "income": 17318381000.0,
+          "incomeRatio": 3.82,
+          "cost": 14543908000.0,
+          "costRatio": 3.66,
+          "profit": 2774473000.0,
+          "profitRatio": 5.02,
+          "grossMargin": 16.02,
+          "rank": 8
+        },
+        {
+          "name": "其中:工业制造-民爆",
+          "income": 9768896000.0,
+          "incomeRatio": 2.16,
+          "cost": 7305905000.0,
+          "costRatio": 1.84,
+          "profit": 2462991000.0,
+          "profitRatio": 4.46,
+          "grossMargin": 25.21,
+          "rank": 9
+        },
+        {
+          "name": "其中:工业制造-建材",
+          "income": 7301877000.0,
+          "incomeRatio": 1.61,
+          "cost": 6071329000.0,
+          "costRatio": 1.53,
+          "profit": 1230548000.0,
+          "profitRatio": 2.23,
+          "grossMargin": 16.85,
+          "rank": 10
+        },
+        {
+          "name": "其中:投资运营业务-新能源及综合智慧能源",
+          "income": 6869523000.0,
+          "incomeRatio": 1.52,
+          "cost": 4516517000.0,
+          "costRatio": 1.14,
+          "profit": 2353006000.0,
+          "profitRatio": 4.26,
+          "grossMargin": 34.25,
+          "rank": 11
+        },
+        {
+          "name": "其中:勘测设计及咨询业务-新能源及综合智慧能源",
+          "income": 4035041000.0,
+          "incomeRatio": 0.89,
+          "cost": 2453949000.0,
+          "costRatio": 0.62,
+          "profit": 1581092000.0,
+          "profitRatio": 2.86,
+          "grossMargin": 39.18,
+          "rank": 12
+        },
+        {
+          "name": "其中:投资运营业务-交通",
+          "income": 2593598000.0,
+          "incomeRatio": 0.57,
+          "cost": 1289571000.0,
+          "costRatio": 0.32,
+          "profit": 1304027000.0,
+          "profitRatio": 2.36,
+          "grossMargin": 50.28,
+          "rank": 13
+        },
+        {
+          "name": "其中:投资运营业务-生态环保",
+          "income": 269171000.0,
+          "incomeRatio": 0.06,
+          "cost": 185909000.0,
+          "costRatio": 0.05,
+          "profit": 83262000.0,
+          "profitRatio": 0.15,
+          "grossMargin": 30.93,
+          "rank": 14
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "工程建设",
+          "income": 389018116000.0,
+          "incomeRatio": 85.89,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "投资运营",
+          "income": 38751684000.0,
+          "incomeRatio": 8.56,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "工业制造",
+          "income": 34263663000.0,
+          "incomeRatio": 7.56,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "勘测设计及咨询",
+          "income": 22048764000.0,
+          "incomeRatio": 4.87,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "其他业务",
+          "income": 5271965000.0,
+          "incomeRatio": 1.16,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "分部间抵销",
+          "income": -36424584000.0,
+          "incomeRatio": -8.04,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "境内",
+          "income": 377334001000.0,
+          "incomeRatio": 83.31,
+          "cost": 331718001000.0,
+          "costRatio": 83.41,
+          "profit": 45616000000.0,
+          "profitRatio": 82.61,
+          "grossMargin": 12.09,
+          "rank": 1
+        },
+        {
+          "name": "境外",
+          "income": 75595607000.0,
+          "incomeRatio": 16.69,
+          "cost": 65992513000.0,
+          "costRatio": 16.59,
+          "profit": 9603094000.0,
+          "profitRatio": 17.39,
+          "grossMargin": 12.7,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "reportDate": "2024-12-31",
+      "byIndustry": [
+        {
+          "name": "工程建设业务",
+          "income": 366818472000.0,
+          "incomeRatio": 84.0,
+          "cost": 338926033000.0,
+          "costRatio": 88.6,
+          "profit": 27892439000.0,
+          "profitRatio": 51.48,
+          "grossMargin": 7.6,
+          "rank": 1
+        },
+        {
+          "name": "投资运营业务",
+          "income": 36129032000.0,
+          "incomeRatio": 8.27,
+          "cost": 23810347000.0,
+          "costRatio": 6.22,
+          "profit": 12318685000.0,
+          "profitRatio": 22.74,
+          "grossMargin": 34.1,
+          "rank": 2
+        },
+        {
+          "name": "工业制造业务",
+          "income": 32222493000.0,
+          "incomeRatio": 7.38,
+          "cost": 26800205000.0,
+          "costRatio": 7.01,
+          "profit": 5422288000.0,
+          "profitRatio": 10.01,
+          "grossMargin": 16.83,
+          "rank": 3
+        },
+        {
+          "name": "勘测设计及咨询业务",
+          "income": 20833916000.0,
+          "incomeRatio": 4.77,
+          "cost": 13289793000.0,
+          "costRatio": 3.47,
+          "profit": 7544123000.0,
+          "profitRatio": 13.92,
+          "grossMargin": 36.21,
+          "rank": 4
+        },
+        {
+          "name": "其他业务",
+          "income": 5340237000.0,
+          "incomeRatio": 1.22,
+          "cost": 3596941000.0,
+          "costRatio": 0.94,
+          "profit": 1743296000.0,
+          "profitRatio": 3.22,
+          "grossMargin": 32.64,
+          "rank": 5
+        },
+        {
+          "name": "分部间抵消",
+          "income": -24631393000.0,
+          "incomeRatio": -5.64,
+          "cost": -23893555000.0,
+          "costRatio": -6.25,
+          "profit": -737838000.0,
+          "profitRatio": -1.36,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "其中:工程建设业务-新能源及综合智慧能源",
+          "income": 130300172000.0,
+          "incomeRatio": 29.84,
+          "cost": 121687987000.0,
+          "costRatio": 31.81,
+          "profit": 8612185000.0,
+          "profitRatio": 15.89,
+          "grossMargin": 6.61,
+          "rank": 7
+        },
+        {
+          "name": "其中:房地产(新型城镇化)",
+          "income": 18058448000.0,
+          "incomeRatio": 4.14,
+          "cost": 13506149000.0,
+          "costRatio": 3.53,
+          "profit": 4552299000.0,
+          "profitRatio": 8.4,
+          "grossMargin": 25.21,
+          "rank": 8
+        },
+        {
+          "name": "其中:民爆",
+          "income": 8583472000.0,
+          "incomeRatio": 1.97,
+          "cost": 6365014000.0,
+          "costRatio": 1.66,
+          "profit": 2218458000.0,
+          "profitRatio": 4.09,
+          "grossMargin": 25.85,
+          "rank": 9
+        },
+        {
+          "name": "其中:建材",
+          "income": 7739626000.0,
+          "incomeRatio": 1.77,
+          "cost": 6482227000.0,
+          "costRatio": 1.69,
+          "profit": 1257399000.0,
+          "profitRatio": 2.32,
+          "grossMargin": 16.25,
+          "rank": 10
+        },
+        {
+          "name": "其中:投资运营业务-新能源及综合智慧能源",
+          "income": 5301388000.0,
+          "incomeRatio": 1.21,
+          "cost": 2869529000.0,
+          "costRatio": 0.75,
+          "profit": 2431859000.0,
+          "profitRatio": 4.49,
+          "grossMargin": 45.87,
+          "rank": 11
+        },
+        {
+          "name": "其中:勘测设计及咨询业务-新能源及综合智慧能源",
+          "income": 4160308000.0,
+          "incomeRatio": 0.95,
+          "cost": 2789154000.0,
+          "costRatio": 0.73,
+          "profit": 1371154000.0,
+          "profitRatio": 2.53,
+          "grossMargin": 32.96,
+          "rank": 12
+        },
+        {
+          "name": "其中:综合交通",
+          "income": 2556798000.0,
+          "incomeRatio": 0.59,
+          "cost": 1131598000.0,
+          "costRatio": 0.3,
+          "profit": 1425200000.0,
+          "profitRatio": 2.63,
+          "grossMargin": 55.74,
+          "rank": 13
+        },
+        {
+          "name": "其中:生态环保",
+          "income": 229212000.0,
+          "incomeRatio": 0.05,
+          "cost": 166816000.0,
+          "costRatio": 0.04,
+          "profit": 62396000.0,
+          "profitRatio": 0.12,
+          "grossMargin": 27.22,
+          "rank": 14
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "工程建设",
+          "income": 366818472000.0,
+          "incomeRatio": 84.0,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "投资运营",
+          "income": 36129032000.0,
+          "incomeRatio": 8.27,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "工业制造",
+          "income": 32222493000.0,
+          "incomeRatio": 7.38,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "勘测设计及咨询",
+          "income": 20833916000.0,
+          "incomeRatio": 4.77,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "其他业务",
+          "income": 5340237000.0,
+          "incomeRatio": 1.22,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "分部间抵销",
+          "income": -24631393000.0,
+          "incomeRatio": -5.64,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "境内",
+          "income": 380572453000.0,
+          "incomeRatio": 87.14,
+          "cost": 332947676000.0,
+          "costRatio": 87.04,
+          "profit": 47624777000.0,
+          "profitRatio": 87.9,
+          "grossMargin": 12.51,
+          "rank": 1
+        },
+        {
+          "name": "境外",
+          "income": 56140304000.0,
+          "incomeRatio": 12.86,
+          "cost": 49582088000.0,
+          "costRatio": 12.96,
+          "profit": 6558216000.0,
+          "profitRatio": 12.1,
+          "grossMargin": 11.68,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "reportDate": "2023-12-31",
+      "byIndustry": [
+        {
+          "name": "工程建设业务",
+          "income": 343464035000.0,
+          "incomeRatio": 84.59,
+          "cost": 316515654000.0,
+          "costRatio": 89.23,
+          "profit": 26948381000.0,
+          "profitRatio": 52.53,
+          "grossMargin": 7.85,
+          "rank": 1
+        },
+        {
+          "name": "工业制造业务",
+          "income": 33731946000.0,
+          "incomeRatio": 8.31,
+          "cost": 28021944000.0,
+          "costRatio": 7.9,
+          "profit": 5710002000.0,
+          "profitRatio": 11.13,
+          "grossMargin": 16.93,
+          "rank": 2
+        },
+        {
+          "name": "投资运营业务",
+          "income": 29431979000.0,
+          "incomeRatio": 7.25,
+          "cost": 19053746000.0,
+          "costRatio": 5.37,
+          "profit": 10378233000.0,
+          "profitRatio": 20.23,
+          "grossMargin": 35.26,
+          "rank": 3
+        },
+        {
+          "name": "勘测设计及咨询业务",
+          "income": 19187090000.0,
+          "incomeRatio": 4.73,
+          "cost": 11625922000.0,
+          "costRatio": 3.28,
+          "profit": 7561168000.0,
+          "profitRatio": 14.74,
+          "grossMargin": 39.41,
+          "rank": 4
+        },
+        {
+          "name": "其他业务",
+          "income": 9615991000.0,
+          "incomeRatio": 2.37,
+          "cost": 8260937000.0,
+          "costRatio": 2.33,
+          "profit": 1355054000.0,
+          "profitRatio": 2.64,
+          "grossMargin": 14.09,
+          "rank": 5
+        },
+        {
+          "name": "分部间抵消",
+          "income": -29399193000.0,
+          "incomeRatio": -7.24,
+          "cost": -28751597000.0,
+          "costRatio": -8.11,
+          "profit": -647596000.0,
+          "profitRatio": -1.26,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "其中:工程建设业务-新能源及综合智慧能源",
+          "income": 115709178000.0,
+          "incomeRatio": 28.5,
+          "cost": 109303725000.0,
+          "costRatio": 30.81,
+          "profit": 6405453000.0,
+          "profitRatio": 12.48,
+          "grossMargin": 5.54,
+          "rank": 7
+        },
+        {
+          "name": "其中:房地产(新型城镇化)",
+          "income": 13395181000.0,
+          "incomeRatio": 3.3,
+          "cost": 9786282000.0,
+          "costRatio": 2.76,
+          "profit": 3608899000.0,
+          "profitRatio": 7.03,
+          "grossMargin": 26.94,
+          "rank": 8
+        },
+        {
+          "name": "其中:民爆",
+          "income": 8404664000.0,
+          "incomeRatio": 2.07,
+          "cost": 6206092000.0,
+          "costRatio": 1.75,
+          "profit": 2198572000.0,
+          "profitRatio": 4.29,
+          "grossMargin": 26.16,
+          "rank": 9
+        },
+        {
+          "name": "其中:建材",
+          "income": 7377726000.0,
+          "incomeRatio": 1.82,
+          "cost": 6103258000.0,
+          "costRatio": 1.72,
+          "profit": 1274468000.0,
+          "profitRatio": 2.48,
+          "grossMargin": 17.27,
+          "rank": 10
+        },
+        {
+          "name": "其中:投资运营业务-新能源及综合智慧能源",
+          "income": 3718039000.0,
+          "incomeRatio": 0.92,
+          "cost": 1956921000.0,
+          "costRatio": 0.55,
+          "profit": 1761118000.0,
+          "profitRatio": 3.43,
+          "grossMargin": 47.37,
+          "rank": 11
+        },
+        {
+          "name": "其中:勘测设计及咨询业务-新能源及综合智慧能源",
+          "income": 3256227000.0,
+          "incomeRatio": 0.8,
+          "cost": 2391733000.0,
+          "costRatio": 0.67,
+          "profit": 864494000.0,
+          "profitRatio": 1.69,
+          "grossMargin": 26.55,
+          "rank": 12
+        },
+        {
+          "name": "其中:综合交通",
+          "income": 2344464000.0,
+          "incomeRatio": 0.58,
+          "cost": 948775000.0,
+          "costRatio": 0.27,
+          "profit": 1395689000.0,
+          "profitRatio": 2.72,
+          "grossMargin": 59.53,
+          "rank": 13
+        },
+        {
+          "name": "其中:生态环保",
+          "income": 97369000.0,
+          "incomeRatio": 0.02,
+          "cost": 56409000.0,
+          "costRatio": 0.02,
+          "profit": 40960000.0,
+          "profitRatio": 0.08,
+          "grossMargin": 42.07,
+          "rank": 14
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "工程建设",
+          "income": 343464035000.0,
+          "incomeRatio": 84.59,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "工业制造",
+          "income": 33731946000.0,
+          "incomeRatio": 8.31,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "投资运营",
+          "income": 29431979000.0,
+          "incomeRatio": 7.25,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "勘测设计及咨询",
+          "income": 19187090000.0,
+          "incomeRatio": 4.73,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "其他业务",
+          "income": 9615991000.0,
+          "incomeRatio": 2.37,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "分部间抵销",
+          "income": -29399193000.0,
+          "incomeRatio": -7.24,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "境内",
+          "income": 349908197000.0,
+          "incomeRatio": 86.18,
+          "cost": 305146953000.0,
+          "costRatio": 86.02,
+          "profit": 44761244000.0,
+          "profitRatio": 87.24,
+          "grossMargin": 12.79,
+          "rank": 1
+        },
+        {
+          "name": "境外",
+          "income": 56123651000.0,
+          "incomeRatio": 13.82,
+          "cost": 49579653000.0,
+          "costRatio": 13.98,
+          "profit": 6543998000.0,
+          "profitRatio": 12.75,
+          "grossMargin": 11.66,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "reportDate": "2022-12-31",
+      "byIndustry": [
+        {
+          "name": "工程建设业务",
+          "income": 302055621000.0,
+          "incomeRatio": 82.44,
+          "cost": 278942929000.0,
+          "costRatio": 86.93,
+          "profit": 23112692000.0,
+          "profitRatio": 50.79,
+          "grossMargin": 7.65,
+          "rank": 1
+        },
+        {
+          "name": "投资运营业务",
+          "income": 33595353000.0,
+          "incomeRatio": 9.17,
+          "cost": 25085091000.0,
+          "costRatio": 7.82,
+          "profit": 8510262000.0,
+          "profitRatio": 18.7,
+          "grossMargin": 25.33,
+          "rank": 2
+        },
+        {
+          "name": "工业制造",
+          "income": 27512426000.0,
+          "incomeRatio": 7.51,
+          "cost": 22642968000.0,
+          "costRatio": 7.06,
+          "profit": 4869458000.0,
+          "profitRatio": 10.7,
+          "grossMargin": 17.7,
+          "rank": 3
+        },
+        {
+          "name": "勘测设计及咨询业务",
+          "income": 17462464000.0,
+          "incomeRatio": 4.77,
+          "cost": 10214126000.0,
+          "costRatio": 3.18,
+          "profit": 7248338000.0,
+          "profitRatio": 15.93,
+          "grossMargin": 41.51,
+          "rank": 4
+        },
+        {
+          "name": "其他业务",
+          "income": 8249539000.0,
+          "incomeRatio": 2.25,
+          "cost": 6067370000.0,
+          "costRatio": 1.89,
+          "profit": 2182169000.0,
+          "profitRatio": 4.8,
+          "grossMargin": 26.45,
+          "rank": 5
+        },
+        {
+          "name": "分部间抵消",
+          "income": -22482101000.0,
+          "incomeRatio": -6.14,
+          "cost": -22061353000.0,
+          "costRatio": -6.88,
+          "profit": -420748000.0,
+          "profitRatio": -0.92,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "其中:工程建设业务-新能源及综合智慧能源",
+          "income": 83030054000.0,
+          "incomeRatio": 22.66,
+          "cost": 78616302000.0,
+          "costRatio": 24.5,
+          "profit": 4413752000.0,
+          "profitRatio": 9.7,
+          "grossMargin": 5.32,
+          "rank": 8
+        },
+        {
+          "name": "其中:房地产(新型城镇化)",
+          "income": 20067853000.0,
+          "incomeRatio": 5.48,
+          "cost": 16195854000.0,
+          "costRatio": 5.05,
+          "profit": 3871999000.0,
+          "profitRatio": 8.51,
+          "grossMargin": 19.29,
+          "rank": 9
+        },
+        {
+          "name": "其中:建材",
+          "income": 8517910000.0,
+          "incomeRatio": 2.32,
+          "cost": 6645292000.0,
+          "costRatio": 2.07,
+          "profit": 1872618000.0,
+          "profitRatio": 4.12,
+          "grossMargin": 21.98,
+          "rank": 10
+        },
+        {
+          "name": "其中:民爆",
+          "income": 5562372000.0,
+          "incomeRatio": 1.52,
+          "cost": 4260625000.0,
+          "costRatio": 1.33,
+          "profit": 1301747000.0,
+          "profitRatio": 2.86,
+          "grossMargin": 23.4,
+          "rank": 11
+        },
+        {
+          "name": "其中:勘测设计及咨询业务-新能源及综合智慧能源",
+          "income": 3266700000.0,
+          "incomeRatio": 0.89,
+          "cost": 2334992000.0,
+          "costRatio": 0.73,
+          "profit": 931708000.0,
+          "profitRatio": 2.05,
+          "grossMargin": 28.52,
+          "rank": 12
+        },
+        {
+          "name": "其中:投资运营业务-新能源及综合智慧能源",
+          "income": 2341093000.0,
+          "incomeRatio": 0.64,
+          "cost": 1222797000.0,
+          "costRatio": 0.38,
+          "profit": 1118296000.0,
+          "profitRatio": 2.46,
+          "grossMargin": 47.77,
+          "rank": 13
+        },
+        {
+          "name": "其中:综合交通",
+          "income": 2013321000.0,
+          "incomeRatio": 0.55,
+          "cost": 913522000.0,
+          "costRatio": 0.28,
+          "profit": 1099799000.0,
+          "profitRatio": 2.42,
+          "grossMargin": 54.63,
+          "rank": 14
+        },
+        {
+          "name": "其中:生态环保",
+          "income": 190572000.0,
+          "incomeRatio": 0.05,
+          "cost": 122242000.0,
+          "costRatio": 0.04,
+          "profit": 68330000.0,
+          "profitRatio": 0.15,
+          "grossMargin": 35.86,
+          "rank": 15
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "工程建设",
+          "income": 286146292000.0,
+          "incomeRatio": 78.1,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "投资运营",
+          "income": 32763822000.0,
+          "incomeRatio": 8.94,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "工业制造",
+          "income": 26633003000.0,
+          "incomeRatio": 7.27,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "勘测设计及咨询",
+          "income": 17277945000.0,
+          "incomeRatio": 4.72,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "其他业务",
+          "income": 3572239000.0,
+          "incomeRatio": 0.97,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "境内",
+          "income": 319614035000.0,
+          "incomeRatio": 87.23,
+          "cost": 278961575000.0,
+          "costRatio": 86.93,
+          "profit": 40652460000.0,
+          "profitRatio": 89.34,
+          "grossMargin": 12.72,
+          "rank": 1
+        },
+        {
+          "name": "境外",
+          "income": 46779266000.0,
+          "incomeRatio": 12.77,
+          "cost": 41929556000.0,
+          "costRatio": 13.07,
+          "profit": 4849710000.0,
+          "profitRatio": 10.66,
+          "grossMargin": 10.37,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "reportDate": "2021-12-31",
+      "byIndustry": [
+        {
+          "name": "工程建设业务",
+          "income": 263919931000.0,
+          "incomeRatio": 81.88,
+          "cost": 241495727000.0,
+          "costRatio": 86.28,
+          "profit": 22424204000.0,
+          "profitRatio": 52.88,
+          "grossMargin": 8.5,
+          "rank": 1
+        },
+        {
+          "name": "工业制造",
+          "income": 28249389000.0,
+          "incomeRatio": 8.76,
+          "cost": 21553726000.0,
+          "costRatio": 7.7,
+          "profit": 6695663000.0,
+          "profitRatio": 15.79,
+          "grossMargin": 23.7,
+          "rank": 2
+        },
+        {
+          "name": "投资运营业务",
+          "income": 27257489000.0,
+          "incomeRatio": 8.46,
+          "cost": 19873639000.0,
+          "costRatio": 7.1,
+          "profit": 7383850000.0,
+          "profitRatio": 17.41,
+          "grossMargin": 27.09,
+          "rank": 3
+        },
+        {
+          "name": "勘测设计及咨询业务",
+          "income": 14762110000.0,
+          "incomeRatio": 4.58,
+          "cost": 9542609000.0,
+          "costRatio": 3.41,
+          "profit": 5219501000.0,
+          "profitRatio": 12.31,
+          "grossMargin": 35.36,
+          "rank": 4
+        },
+        {
+          "name": "其他业务",
+          "income": 6354755000.0,
+          "incomeRatio": 1.97,
+          "cost": 5068961000.0,
+          "costRatio": 1.81,
+          "profit": 1285794000.0,
+          "profitRatio": 3.03,
+          "grossMargin": 20.23,
+          "rank": 5
+        },
+        {
+          "name": "分部间抵消",
+          "income": -18225110000.0,
+          "incomeRatio": -5.65,
+          "cost": -17624692000.0,
+          "costRatio": -6.3,
+          "profit": -600418000.0,
+          "profitRatio": -1.42,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "其中:房地产(新型城镇化)",
+          "income": 15539822000.0,
+          "incomeRatio": 4.82,
+          "cost": 13212083000.0,
+          "costRatio": 4.72,
+          "profit": 2327739000.0,
+          "profitRatio": 5.49,
+          "grossMargin": 14.98,
+          "rank": 8
+        },
+        {
+          "name": "其中:建材",
+          "income": 10155990000.0,
+          "incomeRatio": 3.15,
+          "cost": 6339667000.0,
+          "costRatio": 2.26,
+          "profit": 3816323000.0,
+          "profitRatio": 9.0,
+          "grossMargin": 37.58,
+          "rank": 9
+        },
+        {
+          "name": "其中:民爆",
+          "income": 5418089000.0,
+          "incomeRatio": 1.68,
+          "cost": 4103608000.0,
+          "costRatio": 1.47,
+          "profit": 1314481000.0,
+          "profitRatio": 3.1,
+          "grossMargin": 24.26,
+          "rank": 10
+        },
+        {
+          "name": "其中:综合交通",
+          "income": 1864784000.0,
+          "incomeRatio": 0.58,
+          "cost": 544328000.0,
+          "costRatio": 0.19,
+          "profit": 1320456000.0,
+          "profitRatio": 3.11,
+          "grossMargin": 70.81,
+          "rank": 11
+        },
+        {
+          "name": "其中:生态环保",
+          "income": 1399164000.0,
+          "incomeRatio": 0.43,
+          "cost": 1431167000.0,
+          "costRatio": 0.51,
+          "profit": -32003000.0,
+          "profitRatio": -0.08,
+          "grossMargin": -2.29,
+          "rank": 12
+        },
+        {
+          "name": "其中:新能源及综合智慧能源",
+          "income": 1252447000.0,
+          "incomeRatio": 0.39,
+          "cost": 545733000.0,
+          "costRatio": 0.19,
+          "profit": 706714000.0,
+          "profitRatio": 1.67,
+          "grossMargin": 56.43,
+          "rank": 13
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "工程建设业务",
+          "income": 263919931000.0,
+          "incomeRatio": 81.88,
+          "cost": 241495727000.0,
+          "costRatio": 86.28,
+          "profit": 22424204000.0,
+          "profitRatio": 52.88,
+          "grossMargin": 8.5,
+          "rank": 1
+        },
+        {
+          "name": "工业制造",
+          "income": 28249389000.0,
+          "incomeRatio": 8.76,
+          "cost": 21553726000.0,
+          "costRatio": 7.7,
+          "profit": 6695663000.0,
+          "profitRatio": 15.79,
+          "grossMargin": 23.7,
+          "rank": 2
+        },
+        {
+          "name": "投资运营业务",
+          "income": 27257489000.0,
+          "incomeRatio": 8.46,
+          "cost": 19873639000.0,
+          "costRatio": 7.1,
+          "profit": 7383850000.0,
+          "profitRatio": 17.41,
+          "grossMargin": 27.09,
+          "rank": 3
+        },
+        {
+          "name": "勘测设计及咨询业务",
+          "income": 14762110000.0,
+          "incomeRatio": 4.58,
+          "cost": 9542609000.0,
+          "costRatio": 3.41,
+          "profit": 5219501000.0,
+          "profitRatio": 12.31,
+          "grossMargin": 35.36,
+          "rank": 4
+        },
+        {
+          "name": "其他业务",
+          "income": 6354755000.0,
+          "incomeRatio": 1.97,
+          "cost": 5068961000.0,
+          "costRatio": 1.81,
+          "profit": 1285794000.0,
+          "profitRatio": 3.03,
+          "grossMargin": 20.23,
+          "rank": 5
+        },
+        {
+          "name": "分部间抵消",
+          "income": -18225110000.0,
+          "incomeRatio": -5.65,
+          "cost": -17624692000.0,
+          "costRatio": -6.3,
+          "profit": -600418000.0,
+          "profitRatio": -1.42,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "其中:房地产(新型城镇化)",
+          "income": 15539822000.0,
+          "incomeRatio": 4.82,
+          "cost": 13212083000.0,
+          "costRatio": 4.72,
+          "profit": 2327739000.0,
+          "profitRatio": 5.49,
+          "grossMargin": 14.98,
+          "rank": 8
+        },
+        {
+          "name": "其中:建材",
+          "income": 10155990000.0,
+          "incomeRatio": 3.15,
+          "cost": 6339667000.0,
+          "costRatio": 2.26,
+          "profit": 3816323000.0,
+          "profitRatio": 9.0,
+          "grossMargin": 37.58,
+          "rank": 9
+        },
+        {
+          "name": "其中:民爆",
+          "income": 5418089000.0,
+          "incomeRatio": 1.68,
+          "cost": 4103608000.0,
+          "costRatio": 1.47,
+          "profit": 1314481000.0,
+          "profitRatio": 3.1,
+          "grossMargin": 24.26,
+          "rank": 10
+        },
+        {
+          "name": "其中:综合交通",
+          "income": 1864784000.0,
+          "incomeRatio": 0.58,
+          "cost": 544328000.0,
+          "costRatio": 0.19,
+          "profit": 1320456000.0,
+          "profitRatio": 3.11,
+          "grossMargin": 70.81,
+          "rank": 11
+        },
+        {
+          "name": "其中:生态环保",
+          "income": 1399164000.0,
+          "incomeRatio": 0.43,
+          "cost": 1431167000.0,
+          "costRatio": 0.51,
+          "profit": -32003000.0,
+          "profitRatio": -0.08,
+          "grossMargin": -2.29,
+          "rank": 12
+        },
+        {
+          "name": "其中:新能源及综合智慧能源",
+          "income": 1252447000.0,
+          "incomeRatio": 0.39,
+          "cost": 545733000.0,
+          "costRatio": 0.19,
+          "profit": 706714000.0,
+          "profitRatio": 1.67,
+          "grossMargin": 56.43,
+          "rank": 13
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "境内",
+          "income": 276065344000.0,
+          "incomeRatio": 85.65,
+          "cost": 237246814000.0,
+          "costRatio": 84.76,
+          "profit": 38818530000.0,
+          "profitRatio": 91.53,
+          "grossMargin": 14.06,
+          "rank": 1
+        },
+        {
+          "name": "境外",
+          "income": 46253221000.0,
+          "incomeRatio": 14.35,
+          "cost": 42663165000.0,
+          "costRatio": 15.24,
+          "profit": 3590056000.0,
+          "profitRatio": 8.47,
+          "grossMargin": 7.76,
+          "rank": 2
+        }
+      ]
+    }
+  ],
+  "analysis": [
+    {
+      "reportDate": "2025-12-31",
+      "businessReview": "2025年是国家“十四五”规划收官之年,也是公司全力打造科技型绿色能源企业、全面推进战略转型的关键之年。面对复杂多变的宏观环境与行业形势,公司牢牢把握高质量发展主题,深入践行公司战略,系统性推进创新驱动、绿色低碳、数字智慧、共享融合四大转型,公司经营保持稳中有进、向新向优的发展态势,主要经营指标实现稳健增长,战略性新兴产业加速落地,科技创新成果持续产出,国际化经营质量显著提升,高质量发展迈出坚实步伐。2025年,公司全年实现新签合同额人民币14,493.84亿元,同比增长2.88%；实现营业收入人民币4,529.30亿元,同比增长3.71%；营业收现率提升至103.80%,同比提高6.98个百分点。（一）核心主业优势巩固,行业领军地位彰显公司聚焦能源电力、水利两大核心主业,持续巩固传统能源领域竞争优势,加快拓展新能源与国际化业务,核心功能和核心竞争力不断强化,行业领军地位进一步凸显。1.能源电力新签合同快速增长,市场占有率保持领先。作为能源电力行业的“国家队”,公司认真履行“双碳”目标与新型电力系统建设的双重使命,深度参与国家重大能源工程规划与建设,筑牢国家能源安全底线并引领绿色转型方向,推动能源强国建设。截至2025年末,全球在建项目超2,000个,在手订单总规模达人民币近3万亿元,其中能源电力业务在手订单占比接近65%。公司在国内传统能源电力领域龙头地位稳固,火电设计市场占有率长期保持90%以上,火电施工份额保持70%以上,核电常规岛施工份额超60%,电网勘察设计市场占有率超90%。境内传统能源工程业务新签合同实现20.3%的较快增长,境内外新能源新签合同额近3年复合增长率为13.5%,能源电力业务增长动能充沛。重大项目推进顺利,规划设计的藏粤直流、陇东—山东等特高压通道项目实现关键节点突破,承建的“华龙一号”漳州核电、甘肃常乐电厂等电源项目按期投运,三峡南疆煤电、榆能横山电厂二期等重点工程成功签约,为国家能源安全提供坚实支撑。2.水利水务优势突出,重大项目落地见效。作为国家水利建设领域的主力军,公司积极落实国家水网建设规划,充分发挥“投建营”全产业链优势,深度参与跨流域调水、重大引调水及骨干水源工程建设,为保障国家水安全屏障并支撑区域协调发展提供坚实的水资源战略支撑。公司拥有5项水利水电总承包特级资质,成立以来累计完成境内外水利工程超200项,获得詹天佑奖、鲁班奖等国家级奖项40余项,专业能力得到行业高度认可。2025年,公司高标准服务雅下水电工程等国家战略工程,成功中标三峡水运新通道、古贤水利枢纽等重点项目；投资建设的新疆大石峡水利枢纽国家重大节水供水工程顺利实现下闸蓄水,项目年发电量超18亿度、年生态输水34.2亿立方米,可有效缓解800余万亩灌区的缺水问题,社会与经济效益显著。3.国际化经营成效显著,增长动能强劲。公司始终站在高质量共建“一带一路”的最前沿,坚定不移推进国际化战略,推动中国标准、中国技术、中国装备“走出去”,深度参与构建全球能源与基础设施互联互通新格局,将中国标准与国际规则深度融合,以新质生产力赋能沿线国家能源结构绿色转型。2025年,公司境外业务实现高质量增长,新签合同额人民币3,506.73亿元,同比增长9.05%；营业收入、毛利同比分别增长34.65%、46.43%。能源电力业务在境外新签合同总额占比约80%,其中“风光氢储”业务同比增长54.07%,成功落地沙特风电、光伏项目、马来西亚三马拉朱燃气电站、印尼巴淡岛光储制氢等标志性项目。海外资产布局稳健推进,乌兹别克斯坦储能项目已成功并网投运,乌兹别克斯坦纳沃伊光伏储能项目建设顺利,海外业务盈利能力持续提升。（二）第二曲线增势强劲,新兴产业加速突破公司聚焦“能源”和”能源+”优势领域,大力培育电力运营、储能、氢能及融合新业态,转型升级成效逐步释放,战略性新兴产业进入加速突破期,成为公司高质量发展的重要增长极。2025年,战略性新兴产业实现营业收入人民币1,848.5亿元,同比增长9.5%,占公司总营收比重提升至40.81%,产业结构持续优化。公司积极服务国家区域协调发展战略,在京津冀、长三角、粤港澳大湾区等重点区域布局88个10亿元人民币以上重大项目,总投资规模超人民币900亿元,为未来中长期增长奠定坚实基础。1.电力运营资产规模快速增长,稳定贡献投资收益。公司加快推进从工程总承包服务商向能源电力综合运营服务商转型,2025年电力运营业务营业收入同比增长23.94%,增长态势良好。截至2025年末,控股并网项目装机容量约24GW,在建装机规模约16GW,近四年装机容量复合增长率达42.41%,运营资产规模持续保持快速增长,为公司贡献了稳定的现金流与利润增量。2.压缩空气储能技术行业领跑,规模化发展步入快车道。公司着力打造新型储能原创技术策源地,构建“储能项目+绿色电站”发展格局。2025年1月,公司投建的世界首座300兆瓦级压缩空气储能示范工程湖北应城“能储一号”实现全容量并网。该项目利用地下废弃岩矿作为储气库,一次储能可满足中小城市连续五小时用电需求,创造了单机功率、储能规模、转换效率三项世界第一,标志着我国压缩空气储能技术率先进入300兆瓦级工程化应用阶段。随着国家容量电价机制落地,压缩空气储能项目将获得稳定容量电价收益,经济效益显著提升。目前公司山东泰安、陕西铜川、甘肃酒泉等示范项目正加快建设,50余个项目正洽谈推进之中,形成覆盖“三北”地区与负荷中心的项目集群,行业领跑优势显著。3.氢能业务示范项目全球领先,全产业链布局加快推进。公司以“一体化氢能”为核心方向,抢占全球能源科技制高点,初步构建“制-储-运-加-用-研”全产业链业务能力,破解新能源消纳难题,促进实现深度脱碳,打通从可再生能源到绿色化工的转化通道,推动了能源体系由“资源依赖”向“技术驱动”的根本性变革,为保障国家能源安全提供了战略支撑。2025年,全球规模最大的吉林松原绿色氢氨醇一体化项目“青氢一号”成功产出首批绿色氨产品,并签订全球首单远洋航运燃料销售合同,产品销售形势良好,创新性解决了“新能源波动性与化工流程稳定性需求矛盾”这一行业难题；兰州新区制氢氨项目一期实现顺利产氢；石家庄、双鸭山等重点项目加快推进。在国内外储备绿色氢氨醇、可持续航空燃料SAF项目50余个。公司氢能业务已实现“从无到有”的历史性跨越,正全面推进做强做优做大。4.“能源+”融合创新引领产业创新,新质生产力全域渗透。公司纵深推进“能源+”融合发展战略,打造数字能源、交通能源、建筑能源等系列融合发展新标杆。在甘肃庆阳“东数西算”枢纽节点,公司投资建设的2.4万标准机柜特大型数据中心,配套20万千瓦新能源场站,通过绿电“电算协同”降低电力成本,整体算力成本降低近25%,实现“比特与瓦特”的深度协同。宁夏吴忠智算中心等电算协同、数能融合项目加速落地；山东枣菏高速交通能源融合项目入选国家能源局能源绿色低碳转型典型案例,浙江湖州“船舶电动化”等项目推进顺利。2025年,公司战略性新兴产业资产总额同比增长37.9%,具有能建特色的新质生产力培育取得突破性进展。（三）科技创新成果丰硕,助力能源绿色转型公司始终将科技创新作为高质量发展的核心引擎,围绕新型能源体系和新型电力系统建设,系统性布局原始创新、集成创新、开放创新,通过“企业出题、科研答卷、市场检验”的高效研发模式,加快推动向科技型绿色能源企业转型。1.研发投入持续增长,创新体系不断完善。公司研发投入规模从2021年的人民币87.89亿元增长至2025年的人民币148.48亿元,研发投入占营业收入比重从2.73%提升至3.28%,研发投入力度持续增强。截至报告期末,公司拥有3个院士工作站、16个博士后工作站、9个国家级、82个省级研发平台,累计获得有效专利超1.2万项。推动行业优质资源整合,牵头成立“四新”创新联盟、新型储能联盟、供应链联盟、新能源国际投资联盟等4大产业联盟,布局战略性新兴产业领域18大专业研究院,构建形成立体化研发体系。所属子企业葛洲坝集团参建土木工程绿色建造“一带一路”联合实验室,中南院、江苏院新增获批国家企业技术中心,2家子企业获评国家级“专精特新”企业,3个平台入选中央企业中试验证平台。公司在海外布局设立中欧科创中心等5家海外研发机构,全球化研发布局加快成型。2.关键技术攻关成果涌现,创新转化效率提升。公司在压缩空气储能、一体化氢能、高空风能等领域实现原创性技术突破,在超超临界发电、新型电力系统等领域不断集成创新,在核聚变、人工智能等领域开展开放创新合作。中国能建自主研发的“青氢一号”松原氢氨醇一体化示范项目,成功破解了新能源波动性与化工生产连续性之间动态耦合的世界级难题,通过应用大规模风光储氢氨醇一体化智能调控系统,实现了对波动性风电、光伏能量的毫秒级捕捉与柔性转化,确保在新能源出力波动情况下,后端合成氨、甲醇装置仍能保持高负荷、高稳定、长周期运行。内蒙古阿拉善世界最大5,000平方米高空风力发电捕风伞成功完成开伞试验,为高空风能规模化开发打开了新空间。300MW非补燃压缩空气储能用透平膨胀机、百兆瓦级新能源并网柔性功率调节装置等2项产品入选中央企业科技创新成果目录,百兆瓦级大容量半固态锂离子电池储能系统等7项装备入选能源领域首台套重大技术装备。人工硐室高效密封、全液态二氧化碳储能等关键技术实现突破。报告期内新增授权专利2,049项,其中发明专利740项,制定国家、行业标准100余项。3.数字化转型纵深推进,AI赋能产业升级。公司深入实施“人工智能+”专项行动,成立集团数智中心,制定发布“1119”AI顶层设计蓝图,累计打造188个集团级人工智能应用场景,上线“融光”大模型及6个配套智能体平台,构建人工智能技术与应用体系。完成DeepSeek等大模型的私有化部署,加快推进智慧电厂、智能建造、智慧矿山等数字化建设,落地电力知识AI智能数据查询、电力工程AI安全监管等一批实用化场景,数字化对业务发展从支撑保障转向驱动引领。（四）系统改革走深走实,治理效能持续提升公司坚持“创新图强、设计创优、数智重效、精益求实”的管理理念,以深化系统改革为引擎,全力打赢改革深化提升行动收官战,重点领域和关键环节改革取得新突破,获国务院国资委专项考评A级,改革红利加速释放,构建起适应高质量发展要求的现代化治理体系,为新质生产力发展注入了强劲动能。1.公司治理不断完善。系统修订公司章程、董事会议事规则、董事会授权管理等基本制度,强化董事会监督职责,完善独立董事深入一线调研机制,持续加强子企业董事会建设、深化数智赋能,指导子企业规范制订董事会职权,优化委派董事管理,加快推进“构建科学、决策理性、运行高效”,企业治理规范化水平不断提升；进一步优化组织机构,清理低效无效资产,完成部分子企业股权调整,压减和注销部分子企业,实施“瘦身健体”行动,优质资产进一步向主业集中。2.“三项制度”改革纵深推进。将“三项制度”改革作为深化系统改革的核心引擎,持续扩大董事会选聘经理层试点,深化任期制和契约化管理,推进中长期激励机制建设,推动工资分配向基层苦脏险累一线岗位和科技创新骨干倾斜,加强不胜任员工的市场化退出,有力激发了全员干事创业的热情,连续获国务院国资委改革评估最高等级。3.精益化管理全面推行。系统提出能建特色精益化管理方案,编制管理工具应用指南,明确总体实施路径。突出抓好项目精益化管理,聚焦项目全层级、全过程、全要素管理,强化设计、采购、施工深度融合,着力消除浪费、降低成本,项目管理效率、效益和效能持续提升。一体穿透推进精益管理落实落地,加快打造一批精益管理示范企业、示范项目,形成一批职能与业务精益化管理实施方案,建立一套能建普遍适用的精益管理工具库,形成一批精益管理典型案例,锻炼一批精益管理专业人才队伍。（五）风险防控纵深推进,发展根基更加牢固公司坚持“法治引领、价值创造”,持续优化法律、合规、内控、风险管理“四位一体”大风控体系,实现从“被动防御”向“主动赋能”的转变,加强风险隐患的动态监测与全生命周期闭环管理,有效防范化解各类风险挑战,为应对复杂多变的外部环境筑牢安全屏障。1.风险管控体系不断完善。进一步优化大风控体系管理手册、标准、清单,对战略、市场、财务、运营、法律五大风险实施分级分类管控；建立统一的风险数据库和风险地图,常态化开展重大风险监测管控,狠抓虚假贸易等五类突出问题整治,系统推进海外重大风险防控,专项督导重大涉外案件、重大风险项目、重大合规整改,为避挽经济损失发挥重要作用。2.重点风险有效化解。系统实施“1＋5”专项治理,统筹开展房地产去库存、项目分包治理等专项行动,着力整改化解巡视反馈风险。妥善处置PPP项目贷款逾期、国际项目保函索兑等突出问题,刚性债务风险得到有效控制。严格落实中小企业清欠工作,有力维护了供应链、产业链稳定。3.监督体系协同发力。从严推进审计监督,加强追责问责。发挥集团“大监督”合力,进一步健全信息共享、工作协同、成果共享机制,深入推进全级次穿透式监管,通过高强度监督检查,推动一批问题得到有效整改,专业化、体系化、法治化、高效化监管水平不断提升。",
+      "futureExpect": "(一)行业格局和趋势“十五五”时期是我国基本实现社会主义现代化夯实基础、全面发力的关键时期。我国经济基础稳、优势多、韧性强、潜能大,长期向好的支撑条件和基本趋势没有变,中国特色社会主义制度优势、超大规模市场优势、完整产业体系优势、丰富人才资源优势进一步彰显。1.电力行业。当前,绿色低碳转型是全球大势所趋。能源低碳转型是全球绿色低碳转型的主战场,而电力行业则是能源低碳转型的核心,未来较长时间内电力行业仍大有可为。党的二十届四中全会提出,加快建设新型能源体系,着力构建新型电力系统,建设能源强国。2026年政府工作报告指出,“着力构建新型电力系统,加快智能电网建设,发展新型储能,扩大绿电应用”。践行“四个革命、一个合作”能源安全新战略和“30•60”战略目标将是我国能源电力领域的主旋律,构建新型能源体系和新型电力系统将是我国能源电力转型发展的主路径。总体来看,为践行“30•60”战略目标,适应大规模、高比例新能源接入消纳,新型电力系统的加速构建将在“源、网、荷、储”四端带来重大发展机遇。从电源端来看：“以新能源为主体”是新型电力系统最主要的特征,未来较长时期内将持续保持快速增长势头,“十五五”期间市场空间大幅增加。传统能源中,雅下工程开工将带来较大增量市场；核电积极安全有序发展；煤电加快从基础支撑电源向系统调节、兜底保障电源调整转变,新一代煤电加速升级。从电网端来看：随着用电需求的持续增长,电源规模的持续扩张,新增负荷和电源接入的需要、网架加强的需要、清洁能源基地外送的需要将进一步凸显,“十五五”期间,预计电网投资规模将保持在高位。从负荷端来看：预计未来较长时期内,我国用电负荷仍将保持刚性增长,年均增长率预计为3.5%-5.5%。随着电力系统对于负荷调节需求的提升,虚拟电厂、聚合负荷等可调节负荷领域预计将释放出一定的市场空间。交能融合、数能融合、建能融合、产能融合等“能源+”融合发展新模式将迎来发展机遇。从储能端来看：新能源大规模接入对于电力系统调节能力需求大幅提升,抽水蓄能、新型储能均将迎来爆发式增长机遇。国家《“十五五”规划纲要（草案）》提出：科学布局抽水蓄能,大力发展新型储能。预计抽水蓄能新增投产装机容量1亿千瓦左右,新型储能新增装机容量2亿千瓦以上。除此之外,在“30•60”战略目标下,氢能将发挥重要作用。2026年政府工作报告提出“培育氢能、绿色燃料等新增长点”,“十五五”规划亦将氢能提升至“未来产业”战略高度。预计“十五五”是氢及氨醇航油等氢基能源从初步商业化迈向规模化的关键过渡期,未来也将面临重大发展机遇。据中国氢能联盟预计,至2030年,国内氢能产业产值将达到万亿规模。从国际看,全球电气化水平持续提升,新增用电需求蓬勃释放,为电力行业发展提供广阔空间。根据国际能源署（IEA）预测,“十五五”时期,全球电力需求年均增速将保持在3%左右,其中85%的新增需求来自亚洲、非洲、拉丁美洲等新兴经济体和发展中国家。全球装机规模仍将持续快速增长,清洁能源成为主导力量。受益于海外相对健全的绿色溢价机制,氢基能源有望早于国内实现产业化和规模化,带来重大发展机遇。在可再生能源高度市场化背景下,全球能源领域竞争与合作并行深化。以西门子、法国电力公司、GEVernova为代表的跨国能源企业,依托资金、研发、技术、管理、人才等综合优势,在燃气轮机、电网技术、全球气候融资、技术标准制定、国际项目开发等领域保持领先地位。面向更高水平对外开放与能源转型需求,我国可在技术互补、标准协同、项目共建、绿色投融资等方面加强国际合作,推动电力领域合作模式从传统工程承包加快转向“投建营”一体化与股权投资等多元形式,在开放合作中提升我国企业投融资能力、全生命周期服务能力与国际竞争力。公司将围绕服务能源强国建设,加快建设新型能源体系,发挥规划、设计、建设、运维一体化优势,围绕发展战略性新兴产业,加快培育发展新动能。重点抓好新能源、新一代煤电、抽水蓄能、海外燃机、核电常规岛、特高压电网等总承包业务,抢抓雅下水电工程更多市场机遇,加大风光新能源大基地、新型储能、一体化氢能、海上风电等优势领域重点项目投资建设,创新联合开发等模式,争取在大基地大通道开发中实现更大突破。2.水利行业。“十五五”时期是我国基本实现水利现代化夯实基础、全面发力的关键阶段,我国《“十五五”规划纲要》将水利提升至国家安全、现代化基础设施体系核心高度,提出：“加快建设现代化水网,构建系统完备、安全可靠,集约高效、绿色智能,循环通畅、调控有序的现代化水网”。行业投资规模将稳中有进,整体呈现“总量扩张、结构优化”的鲜明特征。水利领域也呈现三方面新发展态势：一是转型升级步伐加快,智慧绿色成为主航道,数字孪生流域、智能建造、BIM等技术加速渗透,智慧水利投资占比预计超过15%,节水与生态友好型技术广泛推广；二是“水利+”融合发展加速,商业模式持续创新,水利与新能源、生态治理、乡村振兴等融合,催生“水风光储一体化”“水利+生态修复”等新业态,特许经营、“投资人+EPC”等投建营一体化模式不断拓展,水权交易、REITs等创新工具逐步应用；三是竞争格局深刻重塑,综合实力决定市场地位,市场呈现“央国企主导、民企专注细分领域”的差异化竞争格局,资质、技术、业绩成为竞争核心,行业集中度进一步提升。公司将充分发挥自身优势,聚焦国家大型水利基建、防洪安全、生态修复等重点任务,围绕水资源利用和优化配置、水环境治理、农田水利、防洪减灾、海洋工程、水务（水处理）等业务领域,优化资源配置,做强做优做大工程承包业务,主动承建三峡水运新通道等战略性水利工程,全力落地一批引调水工程、大型水库枢纽、城市水网改造、污水处理、海水淡化等重点工程。3.建筑业。我国《“十五五”规划纲要（草案）》将建筑业定位为实体经济重要支柱,核心是巩固提升竞争力,并以智能化、绿色化、融合化为主线,推动行业从规模扩张转向高质量发展。从国内来看,我国经济正处于新旧动能转换的阵痛期,传统建筑也受到结构性冲击,市场规模已迈过峰值进入下行通道,行业同质化竞争日趋激烈、竞争格局渐趋固化。然而,我国经济形势长期向好的基本面没有改变,一系列支持性政策陆续出台,部分领域需求持续释放,市场空间潜力犹在。同时,国内建筑业面临生产效率低、能耗高等突出问题,推动绿色数智转型、拓展项目全生命周期服务,已成为破解同质化竞争、应对规模收缩的必然路径,但也面临技术门槛高、管理模式变革难、短期投入大等现实挑战。从国际来看,全球建筑业规模仍将保持稳步增长,发展中国家城镇化进程加速与气候应对行动催生大量基础设施建设需求,随着共建“一带一路”走深走实,国际市场潜力巨大。与此同时,国际建筑市场也面临地缘政治与经贸风险高企、安全与合规风险交织攀升等复杂局面,业务拓展风险显著增加。为此,国际建筑企业正加快从传统工程承包商向综合服务商转型,市场竞争格局也逐步由“单打独斗”转向“生态协同”。公司在持续大力开拓能源电力和水利工程承包市场基础上,重点布局绿色交通、绿色建筑和市政、数字基建（人工智能）、生态环保、城市开发运营（房地产）等相关多元领域,全面布局工程建设环节,抢抓优质现汇项目,适当发展勘察设计及咨询业务,有效支撑工程总承包项目获取。4.民爆。从市场规模看,矿山占民爆物品终端需求的75%以上,是民爆企业抢占的“主战场”。在煤矿领域,预计“十五五”时期每年原煤产量仍将增长0.5-1亿吨,“十五五”末预计原煤产量将达到50-55亿吨,为民爆需求提供稳中有升的基本盘。在黑色金属领域,预估“十五五”末国内铁矿石产量将达到12-13亿吨。在有色金属矿领域,预计“十五五”时期国内铜矿石产量有望超过200万吨,国内铝土矿开采量增速将放缓。在建材矿领域,预计“十五五”期间水泥产量将逐步止跌并保持相对稳定,结构性支撑依然存在。从行业趋势看,民爆产业正加速向集约化、服务化、智能化、国际化方向深度转型。一是行业集中度持续提升,政策鼓励并购重组与产能优化,推动产能资源向西部资源富集区集聚,头部企业领先优势进一步巩固；二是服务模式加速转型,随着矿山采掘施工及爆破作业承包规范日趋明确,民爆企业由单一产品供应商向“矿服总承包商”转型已成为必然路径；三是数智绿色升级提速,政策明确到2027年底制造能力成熟度、关键工序数控化率等指标要求,加速淘汰落后设备,数智化、绿色化成为竞争新门槛；四是国际化布局全面展开,政策积极引导民爆企业“走出去”参与“一带一路”建设,鼓励布局海外生产基地并开展一体化服务,目前主要竞争对手已加快国际化步伐,行业竞争正从国内延伸至全球市场。公司将锚定民爆行业领军者、中国能建工程特种兵、智慧矿山建设主力军定位,以民爆一体化业务为核心、以工程服务市场为延伸、以民爆关联产业为拓展,推动绿色化、数字化、本安化（本质安全化）、标准化转型。5.水泥行业。我国水泥行业将在需求持续收缩、产能深度调整、绿色低碳转型与技术智能升级等多重因素交织下,迈入深度转型期。预计“十五五”时期将压减2至3亿吨熟料产能,需求预计延续下行态势。细分市场方面,特种水泥处于从规模扩张向质量提升转型的关键时期,市场规模已达到人民币150亿元,呈现显著的结构性增长态势。商混领域,“十五五”期间产量年均复合增长率预计为-3%左右；砂石骨料将持续产能出清与调整,市场需求预计逐步回落至100亿至120亿吨。公司将坚定“一体化、差异化”发展,聚焦“特、专、精”发展路径,以创新为引领,加快推进数智化升级、低碳化转型,深耕优势区域市场,保持区域领先地位,不断做专做优水泥建材业务。(二)公司发展战略“十五五”时期,中国能建将继续以高质量发展为主题,聚焦能源电力、水利主责主业,秉持守正、创新、实干、担当“八字方针”,践行“创新图强、设计创优、数智重效、精益求实”理念,不断增强核心功能、提升核心竞争力,持续提升“五个价值”,围绕2大核心主业与9个相关多元业务,形成协同发展、互为支撑的业务体系,加快打造值得尊重的世界一流能源电力水利基础设施建设集团。1.做强做优做大能源电力、水利核心主业。锚定能源电力、水利2大核心主业,全力巩固锻强全产业链优势,持续做强做优做大,筑牢公司高质量发展的基石。能源电力业务贯通“源、网、荷、储”全链条,源端覆盖煤电、气电、水电、核电等传统能源,风电、太阳能发电、生物质发电、地热等新能源,及绿色氢基能源；网端涵盖输变电与配电网业务；荷端包括虚拟电厂、负荷聚合等调节类业务,“能源+”融合类业务,以及绿电直连、零碳园区等能源电力消费新模式、新业态；储端涵盖抽水蓄能和新型储能。水利业务除能源电力业务中已涵盖的水电和抽水蓄能外,主要包括水资源配置（水库、水网、引水调水）、防洪减灾、农田水利、水处理、水环境治理等。2.做强做优9个相关多元业务。围绕主业延伸拓展,协同发展绿色交通、绿色建筑和市政、数字基建（人工智能）、新型材料、民爆及矿山工程、生态环保、高端装备、城市开发运营（房地产）、产业金融等9个相关多元业务,有所为有所不为,积极调整存量、优化增量,推动集约化、专业化、差异化、特色化发展,构建公司高质量发展的重要支撑点。(三)经营计划2026年,公司新签合同额计划人民币14,500亿元,营业收入计划人民币4,766亿元,投资计划人民币835亿元。该经营计划并不构成公司对投资者的业绩承诺,敬请投资者对此保持足够的风险意识,并且应当理解经营计划与业绩承诺之间的差异。"
+    },
+    {
+      "reportDate": "2024-12-31",
+      "businessReview": "2024年,公司坚持以习近平新时代中国特色社会主义思想为指导,全面贯彻落实党中央、国务院决策部署和国务院国资委工作要求,紧紧围绕践行公司《若干意见》、“1466”和“四新”能建战略,全面提升价值创造,加快推动创新驱动、绿色低碳、数字智能、共享融合“四大转型”,全力聚焦“稳增长、调结构、促转型、控风险”,各项工作取得积极成效。公司总体呈现出核心功能持续增强、经营质效全面提升、新质生产力加速发展、活力动力更加强劲、凝聚力显著增强、“四新”能建品牌形象大幅跃升的良好态势。2024年,公司完成新签合同额人民币14,088.76亿元,同比增长9.75%；实现营业收入人民币4,367.13亿元,同比增长7.56%；实现利润总额人民币151.28亿元,同比增长7.97%；实现归母净利润人民币83.96亿元,同比增长5.13%。（一）抓经营提质效,拓展高质量发展空间取得新进展。一是高端营销成果丰硕。坚持高端一体化营销,公司董事长和总经理亲自出席新型储能产业创新联盟年度大会、“三新”联盟大会、新能源国际投资联盟大会等高端对接活动126场,深层次参与全球可持续交通高峰论坛、中非论坛、“一带一路”能源部长会议等大型活动30余场,与青海省、海南省、拉萨市等地方政府及中信集团、华为等行业头部企业签署战略合作协议21份,高访牵引带动作用成效显著。全年实现新签合同额突破人民币1.41万亿元,近四年新签合同额年均增长率达25%,在国内形成1个千亿级核心市场,5个500亿级核心市场,其中现汇业务合同额占比超过70%,市场经营量质齐升。二是国际化经营成效突出。坚持国际优先协同发展战略,深度参与共建“一带一路”,2024年公司境外新签合同额同比增长14.5%,增速领先中国“走出去”企业平均水平。升级升维海外市场布局方案,沙特、菲律宾新签合同额均超人民币200亿元,澳大利亚、印尼等10个国别新签合同额均超人民币100亿元。海外投资额、投资营收、投资利润同比大幅增长,装机规模突破3GW,投资建设的巴基斯坦SK水电站、乌兹别克斯坦1GW光伏等项目顺利投运,在乌兹别克斯坦建立我国首个海外能源规划研究机构,国际化经营质量大幅跃升。三是经营质效持续改善。大力发展战略性新兴产业,2024年公司战略性新兴产业收入占比达38.8%,以公司为核心资产的中国能建集团在中央企业战略性新兴产业考核中位列建筑央企首位,公司在全球品牌价值500强排名跃升至192位。扎实开展经营现金流提升、成本领先、重大债务风险管控、亏损系统治理、财务数智攻坚“五大专项行动”,经营创现能力不断增强,营业收现率同比提高8.04个百分点,全员劳动生产率同比增加人民币4.35万元/人。（二）抓改革谋创新,激发高质量发展活力取得新进展。一是强化科技创新实现新突破。大力实施“科技强企、创新发展”战略,积极打造原创技术策源地和现代产业链链长,瞄准一批重大原创性、引领性、颠覆性技术,加大科研投入和科技攻关力度,抢占发展制高点。组织600MW级压缩空气储能、人工智能等22项选题完成“揭榜挂帅”科技立项,持续加强公司关键核心技术攻关布局。形成多维度多场景“30•60”碳达峰碳中和系统解决方案和以新能源为主体的新型电力系统解决方案,率先发布世界首台（套）660MW压缩空气储能系统解决方案,突破新疆大石峡破世界最高精品面板堆石坝高效建造技术,研制亚洲最大、国际领先的年600吨级碳直接空气捕集（DAC）装置以及国内领先的蓄能空调、二氧化碳相变膨胀爆破等系列装备产品。公司牵头的“300兆瓦压缩空气蓄能系统压缩机和膨胀机”入选能源行业十大科技创新成果,“基于硬岩人工硐室的300MW级压缩空气储能系统”“沙戈荒基地大型光伏中压直流发电系统”等4项装备入选国家第四批能源领域首台（套）重大技术装备；高空风能发电、汽轮发电机基座弹簧隔振器等实现“卡脖子”技术重大突破。2024年,公司获得专利授权1,841项,其中,发明专利授权673项,同比增长57%；获得省部级\\行业级科技奖励269项。二是发展新质生产力跑出新速度。围绕“30•60”系统解决方案,系统开展综合储能、一体化氢能、新材料和生态环保等产业顶层设计。大力推动大容量储能示范项目建设,世界首套300兆瓦级压缩空气储能示范项目湖北应城示范工程于2025年1月实现全容量全商业并网发电,创造了单机功率、储能规模、转换效率等多项世界纪录,入选国家绿色低碳先进技术示范项目和新型储能试点示范项目；积极探索大容量重力储能和人工硐室压缩空气储能技术路径,河北张家口300兆瓦时重力储能项目和甘肃酒泉300兆瓦人工硐室压缩空气储能电站示范项目已纳入国家新型储能试点示范项目；福建厦门5GWh电芯生产线开工建设,生产自研的高能量密度、低成本、长循环寿命314Ah、420Ah储能专用电芯产品。着力构建氢能一体化发展格局,加大“绿电+绿氢+绿氨+绿醇”项目的投资开发,全力贯通氢能“制储运用”全链条,公司投建的吉林松原绿色氢氨醇一体化项目入选国家发改委绿色低碳先进技术示范项目,目前正处于全力建设之中,项目建成后年产氢3.24万吨,全部用于合成氨及合成甲醇,合成氨装置年产16.6万吨,二氧化碳合成甲醇装置年产1.66万吨。大力培育能源新材料和基建新材料业务,辽宁朝阳膨润土、河南南阳钙钛矿、山西大同煤矸石等绿色新材料产业集群加快建设,全力打造“工业固废—建筑新材料—新型部品部件—绿色建筑产品”示范样板。三是全面深化改革迈出新步伐。高质量推进改革深化提升行动,超前完成80%以上的目标任务。重塑项目管理体系等多个改革典型案例在权威媒体刊发,得到各界高度认同。深入开展“双百”“科改”改革专项工程,所属企业安徽电建二公司蝉联“双百”考核标杆企业,所属企业易普力公司入选科技成果赋权改革试点。全面推进对标世界一流企业价值创造行动、专业领军企业示范行动。市场化激励约束系统提质,科技创新人才全面激励和保障机制落实落地,任期制和契约化管理、劳动用工适应性改革全面推进。（三）抓转型促升级,增强高质量发展动能取得新进展。一是绿色转型持续深化。持续巩固能源电力领域自身优势,大力抢抓风光储氢等新能源市场机遇。2024年,公司新能源及综合智慧能源业务实现新签合同额人民币5,597.39亿元,占公司新签合同总额39.73%,近3年复合增长率达42.27%；新获取风光新能源开发指标2,020.9万千瓦,累计获取开发指标7,043.5万千瓦。截至2024年末,新能源控股并网项目装机容量1,519.55万千瓦,同比增长59.7%。成功签约广东汕尾红海湾四海上风电示范项目、辽宁省抚顺市分布式光伏项目、沙特哈登光伏电站、菲律宾圣金庭400MW风电项目等一批新能源重大项目。加快推进辽宁太子河、山西垣曲抽水蓄能、摩洛哥艾勒瓦达2×450MW、乌兹塔什干光储等重点项目建设,新能源及综合智慧能源业务实现营业收入人民币1,397.62亿元,同比增长13.92%,占公司总营业收入的32.00%。二是数智赋能系统深入。聚焦“AI+能源电力”“AI+产业融合”系统发力,积极发挥公司“数能融合”和“算电协同”优势,深度参与全国“东数西算”八大节点区域算力枢纽中心建设。在甘肃庆阳、宁夏中卫、安徽芜湖、广东韶关、山西大同、北京经开区等多个枢纽节点投资或布局了数据中心项目,其中甘肃庆阳“东数西算”源网荷储一体化智慧零碳大数据中心园区示范项目总投资约41亿元（含算力投资、不含配套新能源投资）,总IT功率6万kW,截至2024年底一期项目已建成1700面8～12kW高密机柜并出租。大力推动建立国家级交能融合大数据平台,建成公司业财一体化等“四大数字化平台”。扎实开展数据治理和数据价值挖掘,发布《公司人工智能三年行动方案》,完成155个人工智能场景技术开发应用布局,推动所属企业加快拓展数字产业化新战场,全面培育数字化新质生产力,全力构建全方位的数字化新型生产力体系。三是融合发展加速领跑。深入推进能源网、交通网、数字网、水网、生态网、产业网、健康网、文化网“八网”融合,持续深化技术、模式和产品创新,形成能建独特的融合优势和差异化竞争力。公司投建的全国首个高速公路全路域光储充一体化交能融合示范项目山东枣菏高速公路工程实现并网发电,并成功入选国家能源局能源绿色低碳转型典型案例；与宁德时代合作大力推动氢燃料电池车与电动重卡规模化应用；积极打造“电化运河”“沈大氢能高速走廊”等一批“交能融合”项目。成功签订沪渝高速公路武汉至宜昌段改扩建工程、肇庆至高明高速公路端州连接线工程、无锡地铁6号线项目、深圳轨道交通32号线项目等一批城市“八网”融合示范项目,持续探索与打造形成具有能建特色的融合发展新模式、新标杆。（四）抓管理提效能,夯实高质量发展基础取得新进展。一是基础管理更加巩固。深入开展基础“334”工程深化提升行动,中央企业管理提升专项考核排名跃升30名。加强对经营计划执行的定期分析和穿透管理,系统优化经营业绩考核指标和评价机制,对所属企业分类实施“一业一策”“一企一策”差异化考核,考核精准性、实效性不断提升。强化项目及供应链管理,扎实开展项目管理价值创造提升专项行动,建成生产运营调度指挥中心,提级监管国家级战略工程、战略性新兴产业项目等国内外重大项目,重点项目履约水平得到有效提升。二是市值管理系统推进。积极响应上海证券交易所开展的沪市公司“提质增效重回报”专项行动的倡议,制定并发布《公司2024-2025年提质增效重回报行动方案》,从6大类20项具体举措,进一步推动公司高质量发展。制定并实施2024年度中期分红方案,增强分红可预期性和投资者获得感。推进控股股东开展2次增持计划,不断提振市场信心。持续强化信息披露管理和投资者交流,主动回应市场关切,公司连续3年获得上海证券交易所A级评价。三是财务管理创效明显。集团级财务数智平台全面建成,司库监控系统上线运行。科学构建十大类监测模型,穿透做好动态监测,经营性现金流净额同比增长16.25%。充分利用资本市场拓展融资空间,发行科技创新、绿色等创新品种债券超人民币200亿元,综合融资利率压降39个基点。建立存量运营资产信息库,创新推动资产盘活,完善考核激励机制,实现盘活收益显著增长。全年投入支持所属企业创新产业发展、深化改革等资金共计人民币117.3亿元。四是风险管控不断升级。坚持上下联动、系统施策,重拳整治债务、工程履约、国际化经营、投资、海外合规等重点风险隐患,着力扎牢制度防控网,有效防范和化解风险。抓实“零事故月”管理举措,强化事故追责问责,全年未发生重特大生产安全事故和质量环境事件,安全质量环保形势总体稳定。",
+      "futureExpect": "(一)行业格局和趋势展望2025年,我国经济基础稳、优势多、韧性强、潜能大,长期向好的支撑条件和基本趋势没有变。1.能源行业2025年,国家将深入推进能源革命,加快规划建设新型能源体系,持续深化能源领域体制机制改革,因地制宜发展新质生产力。未来较长一段时期,在“30·60”战略目标大背景下,我国在能源电力领域最大的市场机遇仍然是新能源,未来两年年均新增装机容量均将超过2亿千瓦,且预计还将保持较长时间的快速发展势头。预计到2030年,以沙漠、戈壁、荒漠地区为重点的西北风电光伏基地装机容量达到4.5亿千瓦左右,西南水电基地装机容量达到2.6亿千瓦左右,全国核电装机容量达到1.1亿千瓦左右,建成抽水蓄能电站装机容量达到1.2亿千瓦左右。预计2025年中国海上风电累计装机容量将达到0.8亿千瓦至1亿千瓦,煤电装机规模达12.5亿千瓦至13.3亿千瓦。预计2025年电网投资将超过人民币5,000亿元,再创历史新高。根据国家发改委及国家能源局《关于加快推动新型储能发展的指导意见》,2025年国内新型储能将实现从商业化初期向规模化发展转变,新型储能的市场空间广阔。目前超过十个省份正在开展新型储能试点示范,带动锂离子电池、液流电池、压缩空气储能等多种技术路线快速发展。据中国氢能联盟预计2025年,国内氢能产业产值将达到人民币1万亿元,2030年氢气年均需求约为3,500万吨,国内将加快氢能全产业链布局,氢能未来发展空间巨大。公司将充分发挥自身优势,围绕发展战略性新兴产业,加快培育发展新动能。推动绿色化转型,大力发展新能源（低碳环保）产业；推动数智化转型,大力发展数字化产业；推动融合化转型,大力发展新基建产业。同时,突出示范牵引,建立战略性项目常态化遴选、孵化和推动机制；突出务实有效,研究推动资源向战新产业倾斜集中的政策措施；突出组织效能,建立适应战新产业快速发展的管理体系和机制。2.水利、环保行业2025年,国家将持续推进水网工程、重点水源工程及大型灌区建设,水利工程投资规模将稳步增长。具备大规模梯级开发条件的集中在金沙江上中游、澜沧江上游、黄河上游、雅鲁藏布江下游等,总装机规模约1.5亿千瓦。国家印发《国家水网建设规划纲要》,积极推进国家水网重大工程,实施一批重大引水调水工程,新（扩）建一批骨干泄洪通道和控制性水库工程,以及抗旱备用水源、水生态修复等工程,加快大中型灌区建设和现代化改造和水网数字化建设,强化蓄滞洪区建设管理、中小河流治理、山洪灾害防治。公司将充分发挥工程建设优势,聚焦国家大型水利基建、防洪安全、生态修复等重点任务,加快水利现代化和数字化建设,大力推进区域水能融合发展,跟进支撑重大水利工程建设。2025年,国家将落实生态文明体制改革重要举措,全面推进美丽中国建设,深入打好污染防治攻坚战,积极推动绿色低碳高质量发展,推进生态环境科技创新与监测体系建设。水环境治理方面,水环境、市政污水及农村污水处理市场需求加速释放,水利、厂网一体化、管网提质增效、乡镇污水治理和水环境整治等项目成为市场热点。土壤修复方面,外资、民企在土壤修复、固废处置及资源化服务方面形成了激烈的竞争格局。国内土壤修复市场仍处于发展早期,污染场地修复具有相对清晰的商业模式和市场增量空间。公司将大力补齐生态环保领域技术、资质等短板,聚焦山水林田湖草沙冰一体化保护和修复工程,做好重点项目开发。3.交通运输业根据《国家综合立体交通网规划纲要》,到2035年,国家高速公路网16万公里左右、普通国道网30万公里左右。预计东部以路网加密、中部以长江和黄河沿线通道、西部以山区公路和沿边公路建设为主。早期修建的骨干公路将陆续进入大修养护阶段,同时新增改扩建建设需求。国务院印发《2030年前碳达峰行动方案》提出,将交通运输绿色低碳行动纳入“碳达峰十大行动”。《国家综合立体交通网规划纲要》提出,推进交通基础设施网与能源网融合发展,将交通基础设施与能源设施统筹布局规划建设,强化共建共管、共享共营,提高设施与资源综合利用效率,减少能源资源消耗,促进交通基础设施网、智能电网及其他网络的融合。随着国内首个全路域交能融合示范项目-山东枣菏高速公路交能融合（源网荷储一体化）示范工程投产运营,交能融合成为了一种新发展趋势,为综合交通领域转型发展提供了新思路。公司将积极开拓公路业务、参与铁路和机场投资建设,加快“四大转型”,全力开创高质量发展“四新”能建崭新局面,推动交通与能源绿色融合发展。4.建筑业2025年,国家将持续推动房地产市场止跌回稳,加快构建房地产发展新模式,大力实施城市更新,打造“中国建造”升级版,促进建筑业转型升级。2025年实现新建建筑全面执行绿色建筑标准的目标,推进建筑领域节能降碳,开展建筑光伏高质量发展试点。建筑业将全面推广节能减排技术,如装配式建筑、低碳建材应用,以及建筑垃圾循环利用体系。光伏建筑一体化、氢能储能系统等技术加速落地,与建筑能源需求结合。根据《“十四五”建筑业发展规划》,到2025年底,中国装配式建筑占新建建筑的比例达到30%以上。AI与大数据将驱动效率提升,建筑设计、施工管理将全面引入AI算法优化方案,如BIM结合AI生成设计草图和施工模拟。公司将积极践行区域发展战略,把握城镇化发展机遇,聚焦细分潜力市场和重要民生工程,充分发挥全产业链一体化优势,大力开拓绿色建筑、装配式建筑市场。5.国际市场从国际形势看,2025年将是政治风险、金融风险、技术进步风险、人口结构风险、极端气候自然灾害风险等多重风险增加的一年。世界经济将维持温和滞胀,全球通胀仍显著高于全球经济增长,全球保护主义加剧,地缘政治冲突变数增加。同时,“一带一路”八大行动加快落地,双边多边合作机制持续发力,全球能源转型步伐加快,绿色发展、循环经济、新能源技术将成为国家竞争核心领域。(二)公司发展战略作为科技创新型、一体化能源型、综合基建型、融合发展型“四型”企业,公司贯彻落实新时代新征程下的国资央企新使命新定位,大力践行《若干意见》、“1466”和“四新”能建战略,围绕提升科技创新力、产业控制力、工程新基建力、价值创造力、企业领导力“五大能力”,全面增强核心功能,聚焦大党建引领、科技图强、改革图强、管理图强、国际化图强“一引领五图强”,全力打造核心竞争力,提升“五个价值”,发挥“三大作用”,争当“三个排头兵”。公司将紧密围绕“四个革命、一个合作”能源安全新战略,立足“30•60”系统解决方案“一个中心”和综合储能、一体化氢能“两个支撑点”,加快推进创新、绿色、数智、融合“四大转型”,系统打造以新能源、新基建、新产业、新材料为核心的“四新”能建,聚焦能源、交通、数字、水利、生态、产业、健康、文化“八网”深度融合,坚定实施“1466”战略,即秉承行业领先、世界一流,建设具有全球竞争力的世界一流企业的战略愿景,力争在践行国家战略、能源革命、高质量发展及建设美好生活上走在前列,努力打造一流的能源一体化方案解决商、一流的工程总承包商、一流的基础设施投资商、一流的生态环境综合治理商、一流的城市综合开发运营商、一流的建材、工业产品和装备提供商,在推动能源革命和能源转型、加快高质量发展、深化系统改革、全面加强科学管理、全面提升企业核心竞争力与组织能力等方面取得突破性进展。大力培育和发展战略性新兴产业和未来产业,加快建设具有全球竞争力的世界一流企业。践行以“十八八”为核心的战略体系：“十”是以“十个三”为内核的战略发展体系,即率先全面持续开展解放思想、解放人、解放生产力“三大解放”,围绕高质量发展、一体化发展、融合发展“三大发展趋势”充分研判、精准发力、系统出招,围绕绿色低碳经济、数字智慧经济、共享融合经济“三大经济形态”找准结合点、创新点、价值点,围绕产业、产品、技术、管理、服务“五大纬度”加快推动以创新为引领的绿色化、数智化、融合化“三化发展”,推动建设顶层牵引“脑子灵”、中层支撑“腰杆硬”、底层管理“脚跟稳”“三大适应性组织”,优化产业与生产力系统优化布局、全球市场与区域系统优化布局、资本与资源系统优化布局“三大布局”,推进产融、产技、产信“三大融合”,穿透式一体化与平台化推进全面预算、全成本核算、全面绩效考核“三全”管理,持续围绕专业化、标准化、数字化、精细化“四化”重构基础管理、基层管理、基本功管理“三基管理”,全面持续构建打造以前瞻性、先进性、科学性“三性”为特征的“四新”能建。第一个“八”是以“八力管理模型”为内核的卓越企业管理体系,即全面升级与充分发挥战略的牵引力、体制的活力、机制的动力、创新的驱动力、文化的合力、资本的放大力、数字的加速力、领导的推动力。第二个“八”是以“八大管理目标”为内核的世界一流企业价值创造体系,即始终坚持高效率、高质量、高效益,低成本、低风险,强党的领导（治理能力）、强创新驱动、强文化引领“三高两低三强”“八大管理目标”。(三)经营计划2025年,公司新签合同额计划人民币15,000亿元,营业收入计划人民币4,585亿元,投资计划人民币1,354亿元。该经营计划并不构成公司对投资者的业绩承诺,敬请投资者对此保持足够的风险意识,并且应当理解经营计划与业绩承诺之间的差异。"
+    },
+    {
+      "reportDate": "2023-12-31",
+      "businessReview": "2023年,是公司改革发展历程中极具挑战、极不平凡的一年。一年来,公司始终牢牢坚持以习近平总书记系列重要讲话和重要指示批示为统领,坚决贯彻落实国务院国资委部署要求,大力践行《若干意见》、“1466”和“三新”能建战略,准确把握大局大势,有效驾驭复杂变势,全面发挥独特优势,企业总体呈现出新动能加速集聚、新优势不断放大、新活力持续迸发、新品牌影响力迅速提升的良好趋势。全年完成新签合同额人民币12,837.3亿元,同比增长22.4%;实现营业收入人民币4,060.32亿元,同比增长10.82%;实现利润总额人民币140.11亿元,同比增长2.44%;实现净利润人民币112.56亿元,同比增长8.00%。(一)深入推动能源转型,战略引领升级升维。公司作为能源电力和基础设施建设领域的主力军、排头兵,坚决践行服务国家战略,积极推动能源革命和能源转型发展。2023年,公司参与编制的《新型电力系统发展蓝皮书》对外发布,承建的白鹤滩水电站入选“全球十大工程成就”,设计建设的全球首个百万千瓦级水光互补项目雅砻江光伏电站、国内装机规模最大的百万机组甘肃常乐电厂投产投运,投资建设的全国规模最大的风光储一体化示范项目乌兰察布绿色电站成功并网,进一步巩固了公司能源建设领域的领军地位。公司系统擘画、持续优化建设世界一流企业新蓝图,进一步明确了以具有能建特色的战略新兴产业和未来产业为核心重点、以打造新能源、新基建、新产业“三新”能建为核心支点、以推进创新、绿色、数智、融合为核心路径的清晰“战略地图”。依托公司能源电力领域的独特优势,重点聚焦新能源、储能、氢能、装配式建筑、绿色建材、绿色环保、高端装备等产业,积极打造原创高地,争当现代产业链链长,全力培育新质生产力。(二)大力实施高端营销,品牌形象全面彰显。2023年公司开展120余次高端对接活动,深度参与博鳌亚洲论坛、第六届中国国际进口博览会、首届中国国际供应链促进博览会、第三届“一带一路”国际合作高峰论坛等系列高端论坛活动40余场,举办“三新”联盟、新型储能产业创新联盟、供应链联盟、新能源国际投资联盟等“四大联盟”主题论坛13场,主导策划了“能建中亚—中东行”,深入中亚、中东等地区开展共建“一带一路”系列交流,有效牵引一批海外重大项目落地。公司新签合同额连续三年实现高速增长,站在万亿平台基础上再创新高。全年实现境内新签合同额人民币10,030.0亿元,同比增长23.9%;境外新签合同额人民币2,807.3亿元,同比增长17.1%,其中“一带一路”沿线市场新签合同额人民币2,673.8亿元,同比增长62.0%,签约额位居央企前列。公司在《财富》世界500强排名持续跃升,全球品牌价值500强跃升至192位,全球工程设计企业150强、国际工程设计225强排名分别位列第2位、第20位,全球工程承包商250强排名位列第10位,企业品牌知名度、美誉度、影响力大幅提升。(三)加快转型升级发展,“三新”能建再上台阶。公司紧紧围绕“创新、绿色、数智、融合”核心发展理念,全力打造“三新”能建格局。新能源业务加速领跑,全年实现新签合同额同比增长14.5%,营业收入同比增长38.41%,指标占比均超30%;新增风光新能源开发指标2,009.7万千瓦;获取新型储能、氢能项目50余个,总装机规模超过550万千瓦,签约“十四五”纳入规划的抽水蓄能装机规模超过1,600万千瓦,甘肃平川抽水蓄能项目从勘测设计到核准开工创造行业最快速度。投资建设的广西崇左市风光火储一体化综合能源等一批大基地项目并网发电,截至2023年底,公司控股新能源装机容量951.1万千瓦,装机规模较2022年底翻近1倍,新能源业务发展动能强劲。新基建业务不断突破,成功打造“能源+”融合发展先发优势,催生新业态新模式,投资建设的国内首个高速公路全路域光储充一体化交能融合示范项目实现并网发电,获得了社会广泛关注;策划实施的甘肃庆阳“东数西算”源网荷储一体化智慧零碳大数据产业园示范项目,成功打通算力网与电力网创造了新模式,被列入甘肃省“十四五”首批电力源网荷储一体化试点项目清单;投资建设的中国能建大厦二期零碳智慧园区项目入选“十四五”国家科技示范工程,成为近零碳建筑类的典范;成功获得江苏无锡洗砚湖生态科技城、山东青岛李沧区十梅庵片区城市更新项目等一批百亿级融合示范项目,持续探索与打造行业融合发展新标杆。新产业加快布局发展,聚焦构建价值共生体系,围绕新能源和新基建,大力发展绿色新材料和生态环保产业,开创的“基于工农业固废再生土壤的创新技术”获“零碳中国”十大创新技术,研发的“新型光伏建材”荣获第十五届中国(无锡)国际新能源大会暨展览会“中国十大BIPV(光伏建筑一体化)品牌”;发挥“装配式+煤矸石”模式优势,签订了国内首个千万吨级煤矸石资源化综合利用项目大同煤矸石项目;获得辽宁建平、河南南召、海南定安等一批绿色矿山项目,工业建材行业影响力持续提升。2023年公司加大战新产业投资力度,新能源、“能源+”、“绿色+”等战略新兴产业投资完成额增长64%。(四)强化核心技术攻关,科技创新加速突破。聚焦战略新兴产业和未来产业,围绕“30·60”系统解决方案“一个中心”和储能、氢能“两个支撑点”精准发力,大力推动关键核心技术攻关和新技术产业化应用,2023年公司研发费用129.8亿元,同比增长24.31%。在新能源领域,研究掌握适应大规模高比例新能源的新型电力系统规划关键技术,全面攻坚高压大容量柔性直流输电关键技术,有效解决新能源大规模接入和电网大范围互联等难题;开展源网荷储一体化示范先行先试,创新性打造内蒙古乌兰察布、广西崇左等新一代绿色电站示范项目,开创新能源供给消纳全新模式。在储能领域,打通压缩空气储能天然盐穴和人工硐室两条关键技术路线,形成具有中国能建特色的“300MW压缩空气储能系统解决方案”,“研投建营”一体化实施湖北应城300兆瓦天然盐穴压缩空气储能、甘肃酒泉300MW人工硐室型压缩空气储能,引领储能技术达到国际领先水平。其中,全球首台(套)300兆瓦非补燃压缩空气储能电站湖北应城新技术示范项目全面进入调试阶段,开创了大容量压缩空气储能绿色、零碳、高效、经济的新路线;首创的人工硐室压缩空气储能新技术示范项目甘肃酒泉300兆瓦储能电站项目有序建设,破解了压缩空气储能受地理条件制约的世界性难题;电化学储能电池完成首批电芯产品交付,自研280Ah电芯产品通过第三方检测,大力推进厦门和无锡生产线落地工作;加强重力储能科研开发,加快推动河北张家口60MW/360MWh重力储能示范项目落地实施。在氢能领域,聚焦绿电制绿氢、绿氢制绿氨、海水淡化等氢能核心领域,全力抢占产业制高点。研制成功1500Nm3/h碱性电解水制氢装备,建成了国内首座8MW级大型碱性电解水制氢机组检测平台;设计建设的全球最大体量绿色氢氨醇一体化新技术示范项目吉林松原项目开工建设,项目建成后将推动可再生能源制氢与绿色氢基化工规模化发展。此外,公司持续推进数字产业化,系统打造数字技术、数字产品、数字服务和数字解决方案,创新迭代智慧电厂、智能电网、智慧能源、智慧工地、智慧园区、智能装备等产品,完善电力规划、海上风电、新型储能等大数据平台,打造企业数字化能力“孵化器”,形成数字化产业发展“生力军”。(五)狠抓提质增效赋能,科学管理显著提升。深化改革持续发力,科学编制改革深化提升行动、建设世界一流企业、对标价值创造行动“三大实施方案”,累计实施具体改革举措160项,新增“双百”“科改”企业5家,纵深推进“3+2”中长期激励机制,任期制和契约化考核覆盖面达100%,2023年公司改革三年行动、三项制度改革获得国务院国资委考核评价最高等级。扎实开展增收降本,深化总对总金融合作,平均融资利率较年初降低32个基点;灵活运用资产处置、股权转让多种方式,有效盘活存量资产;保险集中管理促进平均费率下降。创新资本运作模式,完成控股上市公司易普力重大资产重组及配套融资,募集资金总额人民币13.39亿元,创新国内资本市场首个“专业化整合和一体化重构+‘A+H’分拆+借壳上市+央地对接+配套募集资金”模式,为央地合作、国内资本市场分拆重组上市提供了新样板,进一步夯实“能建民爆”行业龙头地位;积极推进公司A股首次再融资工作并取得阶段性进展。成功发行科技创新债券等人民币70亿元,所属企业葛洲坝集团成功获得国家开发银行建筑业首单研发贷款人民币6亿元,为公司科技创新提供有力资金支持;所属企业城市发展公司成功发行嘉佩乐酒店CMBS,募集资金人民币21亿元,打通公司房地产板块中长期融资通道。持续改善“一利五率”,2023年公司利润总额、营业现金比率、全员劳动生产率、研发经费投入强度等考核指标持续优化,公司运营质效稳步提升。持续加强项目管理,系统开展“项目履约提升年”专项行动,强化重大工程管理,2023年公司荣获国家优质工程奖23项、省部级质量奖1,186项。不断完善“大风控”体系,大力推进法律合规管控“三大专项行动”;深入开展安全管理强化年行动和重大事故隐患专项排查整治等系列行动与系列举措,全年未发生较大及以上生产安全事故。",
+      "futureExpect": "(一)行业格局和趋势展望2024年,国内坚持统筹扩大内需和深化供给侧结构性改革、统筹新型城镇化和乡村全面振兴、统筹高质量发展和高水平安全,经济回升向好、长期向好的基本趋势没有改变。根据2023年12月中央政府工作报告,2024年中国国内生产总值增长目标是5%左右。2024年,是中华人民共和国成立75周年,是实现“十四五”规划目标任务的关键一年,公司将坚持“稳中求进、以进促稳、先立后破”总基调,坚持高目标导向,持续深耕主责主业,加快发展战略性新兴产业和未来产业,不断激活高质量发展新动能。1.电力行业“十四五”期间,中国将持续调整优化能源结构,不断加快建设清洁能源基地、合理布局清洁高效煤电、大力推动调节性资源建设、布局建设输电通道超前、持续加强智能电网建设、统筹水电开发,积极安全有序发展核电。根据全国电力工业统一数据及行业预测,2024年中国风电、太阳能、水电装机规模将分别达到4.6亿千瓦、6.1亿千瓦、4.3亿千瓦左右,在运核电规模达到6,100万千瓦。中国将加快建设清洁能源基地,推进跨省区输电通道规划建设,特高压有望迎来投资建设高峰,储能市场有望迎来爆发式增长。预计2024年电网投资将超过人民币5,000亿元,再创历史新高。根据《储能产业研究白皮书》预测,2026年中国新型储能累计装机规模将达到48.5GW,2022—2026年复合年均增长率为53.3%。公司将充分发挥自身优势,围绕发展战略性新兴产业,加快培育发展新动能。一是推动绿色化转型,大力发展新能源(低碳环保)产业。二是推动数智化转型,大力发展数字化产业。三是推动融合化转型,大力发展新基建产业。四是突出示范牵引,建立战略性项目常态化遴选、孵化和推动机制。五是突出务实有效,研究推动资源向战略性新兴产业倾斜集中的政策措施。六是突出组织效能,建立适应战略性新兴产业快速发展的管理体系和机制。2.水利、环境行业“十四五”期间,水利工程投资规模稳步增长,国家印发《国家水网建设规划纲要》,积极推进国家水网重大工程,实施一批重大引水调水工程,新(扩)建一批骨干泄洪通道和控制性水库工程,以及抗旱备用水源、水生态修复等工程,加快大中型灌区建设和现代化改造和水网数字化建设,强化蓄滞洪区建设管理、中小河流治理、山洪灾害防治,预计总投资额合计可达人民币6万亿元。公司将充分发挥工程建设优势,聚焦国家大型水利基建、防洪安全、生态修复等重点任务,加快水利现代化和数字化建设,大力推进区域水能融合发展,跟进支撑重大水利工程建设。“十四五”期间,水环境治理方面,水环境、市政污水及农村污水处理市场需求正加速释放,水利、厂网一体化、管网提质增效、乡镇污水治理和水环境整治等项目成为市场热点;同时国家加大重大生态系统保护修复,推进城市生态修复、功能完善工程,实施河湖水系综合整治,加快补齐生态环保领域短板。预计“十四五”期间水环境治理市场规模约人民币2.48万亿元,流域水环境综合治理仍是重要市场。在土壤修复方面,外资、民企在土壤修复、固废处置及资源化服务方面形成了激烈的竞争格局。国内土壤修复市场仍处于发展早期,污染场地修复具有相对清晰的商业模式和市场增量空间。根据“土十条”有关指标测算,我国土壤治理总市场容量约为人民币5.32万亿元,其中工业污染场地修复约人民币1.2万亿元,农业耕地土壤修复约人民币3.9万亿元,占比较高。公司将大力补齐生态环保领域技术和资质等短板,聚焦山水林田湖草沙冰一体化保护和修复工程,做好重点项目开发。3.交通运输业“十四五”期间,中国将加快建设交通强国,构建现代综合交通运输体系,公路投资建设仍有空间,铁路投资规模预计维持高水平。根据《“十四五”现代综合交通运输体系发展规划》,“十四五”期间,中国将分别新增高速铁路营业里程、高速公路建成里程、城市轨道交通运营里程1.2万公里、2.9万公里、3,400公里。根据《国家综合立体交通网规划纲要》,到2035年,国家高速公路网16万公里左右、普通国道网30万公里左右。预计东部以路网加密、中部以长江和黄河沿线通道、西部以山区公路和沿边公路建设为主;早期修建的骨干公路将陆续进入大修养护阶段,同时新增改扩建建设需求。在铁路方面,预计2025年,铁路网规模达到16.5万公里左右,其中高速铁路5万公里左右,铁路网络覆盖进一步扩大。铁路建设施工市场,长期以来由中国中铁、中国铁建承担,两家企业在国内市场的占比份额超过90%,市场进入壁垒较高。在机场方面,“十四五”期间,国家加快机场行业市场化转型,推动完善运输机场布局,重点加快实施枢纽机场改扩建工程,推进建设一批支线机场,预计市场规模约人民币1.2万亿元。随着临空经济日趋成熟并成为建设热点,交通、市政等机场外围配套基础设施蕴含巨大机会;从竞争态势看,国有企业仍然占据主导地位,在市场竞争中具有较大的优势,目前我国机场项目95%以上由国有企业或国有控股企业承建。公司将积极开拓公路业务、参与铁路和机场投资建设,加快“四大转型”,全力开创高质量发展“三新”能建崭新局面,推动交通与能源绿色融合发展。4.建筑业房屋建筑是建筑业中市场化程度最高、竞争最为充分的细分领域,行业整体盈利水平偏低。近年来,在房地产总供给远大于需求的客观背景下,房地产行业热度有所下降,部分知名房地产开发企业债务压顶,行业投资整体收缩下滑,建设强度减弱。2023年8月,国家发布《关于规划建设保障性住房的指导意见》,明确指导加大保障性住房建设和供给,推动建立房地产行业转型发展新模式,房地产行业逐步由规模扩张转向智能化、绿色化、高效化的高质量发展阶段。同时健康中国、科技强国等战略深入实施,国民对于运动、健康、科技等需求逐步提升,医疗建筑、运动场馆、科研场所等专业工程建设行业发展持续向好。根据《“十四五”建筑业发展规划》,到2025年,中国装配式建筑占新建建筑的比例达到30%以上。公司将积极践行区域发展战略,把握城镇化发展机遇,聚焦细分潜力市场和重要民生工程,充分发挥全产业链一体化优势,大力开拓绿色建筑、装配式建筑市场。(二)公司发展战略“十四五”时期是公司的重要战略机遇期,加快发展的窗口期,业务转型与深化改革的攻坚期,培育行业竞争力、提升行业影响力、塑造行业引领力的关键期。站在新的历史起点,公司贯彻落实新时代新征程下的国资央企新使命新定位,提升企业核心竞争力,增强核心功能,发挥在建设现代化产业体系、构建新发展格局中的“科技创新、产业控制、安全支撑”作用,科学制定了面向未来发展的总纲《若干意见》和“1466”战略。公司将紧密围绕“四个革命、一个合作”能源安全新战略,立足“30·60”系统解决方案“一个中心”和综合储能、一体化氢能“两个支撑点”,加快推进创新、绿色、数智、融合“四大转型”,系统打造以新能源、新基建、新产业为核心的“三新”能建,聚焦能源、交通、数字、水利、生态、产业、文化“七网”深度融合,坚定实施“1466”战略,即秉承行业领先、世界一流,建设具有全球竞争力的世界一流企业的战略愿景,力争在践行国家战略、能源革命、高质量发展及建设美好生活上走在前列,努力打造一流的能源一体化方案解决商、一流的工程总承包商、一流的基础设施投资商、一流的生态环境综合治理商、一流的城市综合开发运营商、一流的建材、工业产品和装备提供商,在推动能源革命和能源转型、加快高质量发展、深化系统改革、全面加强科学管理、全面提升企业核心竞争力与组织能力等方面取得突破性进展。大力培育和发展战略性新兴产业和未来产业,加快建设具有全球竞争力的世界一流企业。践行以“十八八”为核心的战略体系:“十”即“十个三”:推动解放思想、解放人、解放生产力“三大解放”,聚焦绿色低碳、数字智慧、共享融合“三大经济形态”,把牢高质量发展、一体化发展、融合发展“三大发展趋势”,实现以创新为引领的绿色化、数智化、融合化“三大转型”,推动顶层牵引“脑子灵”、中层支撑“腰杆硬”、底层管理“脚跟稳”“三大适应性组织”建设,优化生产力与产业、市场与区域、资源与资本“三大布局”,推进产融、产技、产信“三大融合”,抓实全面预算、全成本核算、全面绩效考核“三全”管理,加强重基层、强基础、苦练基本功“三基”建设,全力构建新能源、新基建、新产业“三新”能建平台。第一个“八”即“八力管理模型”:全面升级与充分发挥战略的牵引力、体制的活力、机制的动力、创新的驱动力、文化的合力、资本的放大力、数字的加速力、领导的推动力“八大力量”。第二个“八”即“八大管理目标”:始终坚持高效率、高质量、高效益,低成本、低风险,强治理能力、强创新驱动、强文化引领“三高两低三强”“八大管理目标”。到2025年,再造一个高质量发展的新能建。2035年,全面建成具有全球竞争力的世界一流企业。(三)经营计划2024年,公司新签合同额计划人民币13,000亿元,营业收入计划人民币4,280亿元,投资计划人民币1,605亿元。该经营计划并不构成公司对投资者的业绩承诺,敬请投资者对此保持足够的风险意识,并且应当理解经营计划与业绩承诺之间的差异。"
+    }
+  ]
+}

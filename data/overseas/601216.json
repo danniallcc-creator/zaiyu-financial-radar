@@ -1,0 +1,1301 @@
+{
+  "code": "601216",
+  "name": "君正集团",
+  "fetchTime": "2026-06-18T18:35:56",
+  "segments": [
+    {
+      "reportDate": "2025-12-31",
+      "byIndustry": [
+        {
+          "name": "基本化学原料制造业",
+          "income": 10703651354.92,
+          "incomeRatio": 42.41,
+          "cost": 8228958477.31,
+          "costRatio": 41.24,
+          "profit": 2474692877.61,
+          "profitRatio": 46.82,
+          "grossMargin": 23.12,
+          "rank": 1
+        },
+        {
+          "name": "化工物流业",
+          "income": 6886304993.59,
+          "incomeRatio": 27.29,
+          "cost": 5499179086.97,
+          "costRatio": 27.56,
+          "profit": 1387125906.62,
+          "profitRatio": 26.24,
+          "grossMargin": 20.14,
+          "rank": 2
+        },
+        {
+          "name": "焦化行业",
+          "income": 4478303484.42,
+          "incomeRatio": 17.74,
+          "cost": 3821860787.52,
+          "costRatio": 19.15,
+          "profit": 656442696.9,
+          "profitRatio": 12.42,
+          "grossMargin": 14.66,
+          "rank": 3
+        },
+        {
+          "name": "铁合金冶炼业",
+          "income": 1651970359.44,
+          "incomeRatio": 6.55,
+          "cost": 1370653103.25,
+          "costRatio": 6.87,
+          "profit": 281317256.19,
+          "profitRatio": 5.32,
+          "grossMargin": 17.03,
+          "rank": 4
+        },
+        {
+          "name": "其他",
+          "income": 1492056721.17,
+          "incomeRatio": 5.91,
+          "cost": 1265391143.29,
+          "costRatio": 6.34,
+          "profit": 226665577.88,
+          "profitRatio": 4.29,
+          "grossMargin": 15.19,
+          "rank": 5
+        },
+        {
+          "name": "电力生产业",
+          "income": 1122667614.04,
+          "incomeRatio": 4.45,
+          "cost": 960928295.11,
+          "costRatio": 4.82,
+          "profit": 161739318.93,
+          "profitRatio": 3.06,
+          "grossMargin": 14.41,
+          "rank": 6
+        },
+        {
+          "name": "其他(补充)",
+          "income": 326659791.36,
+          "incomeRatio": 1.29,
+          "cost": 452824494.36,
+          "costRatio": 2.27,
+          "profit": -126164703.0,
+          "profitRatio": -2.39,
+          "grossMargin": -38.62,
+          "rank": 7
+        },
+        {
+          "name": "水泥制造业",
+          "income": 238405288.0,
+          "incomeRatio": 0.94,
+          "cost": 150470385.69,
+          "costRatio": 0.75,
+          "profit": 87934902.31,
+          "profitRatio": 1.66,
+          "grossMargin": 36.88,
+          "rank": 8
+        },
+        {
+          "name": "煤炭采选业",
+          "income": 210324799.8,
+          "incomeRatio": 0.83,
+          "cost": 56696253.79,
+          "costRatio": 0.28,
+          "profit": 153628546.01,
+          "profitRatio": 2.91,
+          "grossMargin": 73.04,
+          "rank": 9
+        },
+        {
+          "name": "公司内部各业务分部相互抵销",
+          "income": -1872063908.83,
+          "incomeRatio": -7.42,
+          "cost": -1854190970.68,
+          "costRatio": -9.29,
+          "profit": -17872938.15,
+          "profitRatio": -0.34,
+          "grossMargin": null,
+          "rank": 10
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "化学原料和化学制品",
+          "income": 17645741700.6,
+          "incomeRatio": 69.92,
+          "cost": 13761095593.87,
+          "costRatio": 68.97,
+          "profit": 3884646106.73,
+          "profitRatio": 73.5,
+          "grossMargin": 22.01,
+          "rank": 1
+        },
+        {
+          "name": "物流综合服务",
+          "income": 6863833172.54,
+          "incomeRatio": 27.2,
+          "cost": 5476812256.6,
+          "costRatio": 27.45,
+          "profit": 1387020915.94,
+          "profitRatio": 26.24,
+          "grossMargin": 20.21,
+          "rank": 2
+        },
+        {
+          "name": "其他",
+          "income": 581947872.5,
+          "incomeRatio": 2.31,
+          "cost": 644401209.86,
+          "costRatio": 3.23,
+          "profit": -62453337.36,
+          "profitRatio": -1.18,
+          "grossMargin": -10.73,
+          "rank": 3
+        },
+        {
+          "name": "电力和热力",
+          "income": 146757752.27,
+          "incomeRatio": 0.58,
+          "cost": 70461996.28,
+          "costRatio": 0.35,
+          "profit": 76295755.99,
+          "profitRatio": 1.44,
+          "grossMargin": 51.99,
+          "rank": 4
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "境内",
+          "income": 18684376344.16,
+          "incomeRatio": 74.03,
+          "cost": 14400703472.09,
+          "costRatio": 72.17,
+          "profit": 4283672872.07,
+          "profitRatio": 81.05,
+          "grossMargin": 22.93,
+          "rank": 1
+        },
+        {
+          "name": "境外",
+          "income": 6227244362.39,
+          "incomeRatio": 24.67,
+          "cost": 5099243090.16,
+          "costRatio": 25.56,
+          "profit": 1128001272.23,
+          "profitRatio": 21.34,
+          "grossMargin": 18.11,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 326659791.36,
+          "incomeRatio": 1.29,
+          "cost": 452824494.36,
+          "costRatio": 2.27,
+          "profit": -126164703.0,
+          "profitRatio": -2.39,
+          "grossMargin": -38.62,
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "reportDate": "2024-12-31",
+      "byIndustry": [
+        {
+          "name": "基本化学原料制造业",
+          "income": 10252298898.98,
+          "incomeRatio": 40.67,
+          "cost": 8459829407.39,
+          "costRatio": 41.44,
+          "profit": 1792469491.59,
+          "profitRatio": 37.37,
+          "grossMargin": 17.48,
+          "rank": 1
+        },
+        {
+          "name": "化工物流业",
+          "income": 7423990166.63,
+          "incomeRatio": 29.45,
+          "cost": 5753448711.41,
+          "costRatio": 28.18,
+          "profit": 1670541455.22,
+          "profitRatio": 34.83,
+          "grossMargin": 22.5,
+          "rank": 2
+        },
+        {
+          "name": "焦化行业",
+          "income": 3906758434.41,
+          "incomeRatio": 15.5,
+          "cost": 4093345108.28,
+          "costRatio": 20.05,
+          "profit": -186586673.87,
+          "profitRatio": -3.89,
+          "grossMargin": -4.78,
+          "rank": 3
+        },
+        {
+          "name": "铁合金冶炼业",
+          "income": 1978106917.2,
+          "incomeRatio": 7.85,
+          "cost": 1759859547.97,
+          "costRatio": 8.62,
+          "profit": 218247369.23,
+          "profitRatio": 4.55,
+          "grossMargin": 11.03,
+          "rank": 4
+        },
+        {
+          "name": "电力生产业",
+          "income": 1368475002.23,
+          "incomeRatio": 5.43,
+          "cost": 1087275502.84,
+          "costRatio": 5.33,
+          "profit": 281199499.39,
+          "profitRatio": 5.86,
+          "grossMargin": 20.55,
+          "rank": 5
+        },
+        {
+          "name": "其他",
+          "income": 1219960773.77,
+          "incomeRatio": 4.84,
+          "cost": 912305107.04,
+          "costRatio": 4.47,
+          "profit": 307655666.73,
+          "profitRatio": 6.41,
+          "grossMargin": 25.22,
+          "rank": 6
+        },
+        {
+          "name": "煤炭采选业",
+          "income": 583621422.53,
+          "incomeRatio": 2.31,
+          "cost": 106812342.48,
+          "costRatio": 0.52,
+          "profit": 476809080.05,
+          "profitRatio": 9.94,
+          "grossMargin": 81.7,
+          "rank": 7
+        },
+        {
+          "name": "其他(补充)",
+          "income": 330225596.56,
+          "incomeRatio": 1.31,
+          "cost": 167154709.83,
+          "costRatio": 0.82,
+          "profit": 163070886.73,
+          "profitRatio": 3.4,
+          "grossMargin": 49.38,
+          "rank": 8
+        },
+        {
+          "name": "水泥制造业",
+          "income": 260315462.97,
+          "incomeRatio": 1.03,
+          "cost": 170669988.16,
+          "costRatio": 0.84,
+          "profit": 89645474.81,
+          "profitRatio": 1.87,
+          "grossMargin": 34.44,
+          "rank": 9
+        },
+        {
+          "name": "公司内部各业务分部相互抵销",
+          "income": -2112595357.48,
+          "incomeRatio": -8.38,
+          "cost": -2095714751.45,
+          "costRatio": -10.27,
+          "profit": -16880606.03,
+          "profitRatio": -0.35,
+          "grossMargin": null,
+          "rank": 10
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "其他主营业务",
+          "income": 7418888806.07,
+          "incomeRatio": 29.43,
+          "cost": 5749479426.32,
+          "costRatio": 28.16,
+          "profit": 1669409379.75,
+          "profitRatio": 34.81,
+          "grossMargin": 22.5,
+          "rank": 1
+        },
+        {
+          "name": "聚氯乙烯",
+          "income": 4545815267.21,
+          "incomeRatio": 18.03,
+          "cost": 4070760390.58,
+          "costRatio": 19.94,
+          "profit": 475054876.63,
+          "profitRatio": 9.9,
+          "grossMargin": 10.45,
+          "rank": 2
+        },
+        {
+          "name": "焦炭",
+          "income": 3906758434.41,
+          "incomeRatio": 15.5,
+          "cost": 4093345108.28,
+          "costRatio": 20.05,
+          "profit": -186586673.87,
+          "profitRatio": -3.89,
+          "grossMargin": -4.78,
+          "rank": 3
+        },
+        {
+          "name": "电石",
+          "income": 3019912507.7,
+          "incomeRatio": 11.98,
+          "cost": 2869020352.55,
+          "costRatio": 14.05,
+          "profit": 150892155.15,
+          "profitRatio": 3.15,
+          "grossMargin": 5.0,
+          "rank": 4
+        },
+        {
+          "name": "硅铁",
+          "income": 1978106917.2,
+          "incomeRatio": 7.85,
+          "cost": 1759859547.97,
+          "costRatio": 8.62,
+          "profit": 218247369.23,
+          "profitRatio": 4.55,
+          "grossMargin": 11.03,
+          "rank": 5
+        },
+        {
+          "name": "片碱",
+          "income": 1473253870.94,
+          "incomeRatio": 5.84,
+          "cost": 561554852.16,
+          "costRatio": 2.75,
+          "profit": 911699018.78,
+          "profitRatio": 19.01,
+          "grossMargin": 61.88,
+          "rank": 6
+        },
+        {
+          "name": "电",
+          "income": 1368475002.23,
+          "incomeRatio": 5.43,
+          "cost": 1087275502.84,
+          "costRatio": 5.33,
+          "profit": 281199499.39,
+          "profitRatio": 5.86,
+          "grossMargin": 20.55,
+          "rank": 7
+        },
+        {
+          "name": "其他",
+          "income": 1219960773.77,
+          "incomeRatio": 4.84,
+          "cost": 912305107.04,
+          "costRatio": 4.47,
+          "profit": 307655666.73,
+          "profitRatio": 6.41,
+          "grossMargin": 25.22,
+          "rank": 8
+        },
+        {
+          "name": "BDO",
+          "income": 724461822.83,
+          "incomeRatio": 2.87,
+          "cost": 607888736.41,
+          "costRatio": 2.98,
+          "profit": 116573086.42,
+          "profitRatio": 2.43,
+          "grossMargin": 16.09,
+          "rank": 9
+        },
+        {
+          "name": "煤",
+          "income": 583621422.53,
+          "incomeRatio": 2.31,
+          "cost": 106812342.48,
+          "costRatio": 0.52,
+          "profit": 476809080.05,
+          "profitRatio": 9.94,
+          "grossMargin": 81.7,
+          "rank": 10
+        },
+        {
+          "name": "其他(补充)",
+          "income": 330225596.56,
+          "incomeRatio": 1.31,
+          "cost": 167154709.83,
+          "costRatio": 0.82,
+          "profit": 163070886.73,
+          "profitRatio": 3.4,
+          "grossMargin": 49.38,
+          "rank": 11
+        },
+        {
+          "name": "甲醇",
+          "income": 305414412.7,
+          "incomeRatio": 1.21,
+          "cost": 176018826.49,
+          "costRatio": 0.86,
+          "profit": 129395586.21,
+          "profitRatio": 2.7,
+          "grossMargin": 42.37,
+          "rank": 12
+        },
+        {
+          "name": "水泥熟料",
+          "income": 260315462.97,
+          "incomeRatio": 1.03,
+          "cost": 170669988.16,
+          "costRatio": 0.84,
+          "profit": 89645474.81,
+          "profitRatio": 1.87,
+          "grossMargin": 34.44,
+          "rank": 13
+        },
+        {
+          "name": "PTMEG",
+          "income": 183441017.6,
+          "incomeRatio": 0.73,
+          "cost": 174586249.2,
+          "costRatio": 0.86,
+          "profit": 8854768.4,
+          "profitRatio": 0.18,
+          "grossMargin": 4.83,
+          "rank": 14
+        },
+        {
+          "name": "公司内部各业务分部相互抵销",
+          "income": -2107493996.92,
+          "incomeRatio": -8.36,
+          "cost": -2091745466.36,
+          "costRatio": -10.25,
+          "profit": -15748530.56,
+          "profitRatio": -0.33,
+          "grossMargin": null,
+          "rank": 15
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "境内",
+          "income": 18724966229.65,
+          "incomeRatio": 74.27,
+          "cost": 15108326102.19,
+          "costRatio": 74.01,
+          "profit": 3616640127.46,
+          "profitRatio": 75.41,
+          "grossMargin": 19.31,
+          "rank": 1
+        },
+        {
+          "name": "境外",
+          "income": 6486191088.15,
+          "incomeRatio": 25.73,
+          "cost": 5306659571.76,
+          "costRatio": 25.99,
+          "profit": 1179531516.39,
+          "profitRatio": 24.59,
+          "grossMargin": 18.19,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "reportDate": "2023-12-31",
+      "byIndustry": [
+        {
+          "name": "基本化学原料制造业",
+          "income": 8662778941.01,
+          "incomeRatio": 45.3,
+          "cost": 7258801896.99,
+          "costRatio": 49.67,
+          "profit": 1403977044.02,
+          "profitRatio": 31.13,
+          "grossMargin": 16.21,
+          "rank": 1
+        },
+        {
+          "name": "化工物流业",
+          "income": 7464772258.95,
+          "incomeRatio": 39.03,
+          "cost": 5529641231.61,
+          "costRatio": 37.84,
+          "profit": 1935131027.34,
+          "profitRatio": 42.9,
+          "grossMargin": 25.92,
+          "rank": 2
+        },
+        {
+          "name": "铁合金冶炼业",
+          "income": 1897197259.58,
+          "incomeRatio": 9.92,
+          "cost": 1701043019.78,
+          "costRatio": 11.64,
+          "profit": 196154239.8,
+          "profitRatio": 4.35,
+          "grossMargin": 10.34,
+          "rank": 3
+        },
+        {
+          "name": "电力生产业",
+          "income": 1240115026.8,
+          "incomeRatio": 6.48,
+          "cost": 1209697168.17,
+          "costRatio": 8.28,
+          "profit": 30417858.63,
+          "profitRatio": 0.67,
+          "grossMargin": 2.45,
+          "rank": 4
+        },
+        {
+          "name": "其他",
+          "income": 1105033513.0,
+          "incomeRatio": 5.78,
+          "cost": 850043335.27,
+          "costRatio": 5.82,
+          "profit": 254990177.73,
+          "profitRatio": 5.65,
+          "grossMargin": 23.08,
+          "rank": 5
+        },
+        {
+          "name": "煤炭采选业",
+          "income": 579408568.27,
+          "incomeRatio": 3.03,
+          "cost": 133883142.34,
+          "costRatio": 0.92,
+          "profit": 445525425.93,
+          "profitRatio": 9.88,
+          "grossMargin": 76.89,
+          "rank": 6
+        },
+        {
+          "name": "水泥制造业",
+          "income": 276625344.75,
+          "incomeRatio": 1.45,
+          "cost": 198508033.14,
+          "costRatio": 1.36,
+          "profit": 78117311.61,
+          "profitRatio": 1.73,
+          "grossMargin": 28.24,
+          "rank": 7
+        },
+        {
+          "name": "其他(补充)",
+          "income": 204844836.66,
+          "incomeRatio": 1.07,
+          "cost": 30218387.25,
+          "costRatio": 0.21,
+          "profit": 174626449.41,
+          "profitRatio": 3.87,
+          "grossMargin": 85.25,
+          "rank": 8
+        },
+        {
+          "name": "公司内部各业务分部相互抵销",
+          "income": -2306365106.78,
+          "incomeRatio": -12.06,
+          "cost": -2298034311.35,
+          "costRatio": -15.73,
+          "profit": -8330795.43,
+          "profitRatio": -0.18,
+          "grossMargin": null,
+          "rank": 9
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "其他主营业务",
+          "income": 7464772258.95,
+          "incomeRatio": 39.03,
+          "cost": 5529641231.61,
+          "costRatio": 37.84,
+          "profit": 1935131027.34,
+          "profitRatio": 42.9,
+          "grossMargin": 25.92,
+          "rank": 1
+        },
+        {
+          "name": "聚氯乙烯",
+          "income": 4692332701.29,
+          "incomeRatio": 24.54,
+          "cost": 4410101590.17,
+          "costRatio": 30.18,
+          "profit": 282231111.12,
+          "profitRatio": 6.26,
+          "grossMargin": 6.01,
+          "rank": 2
+        },
+        {
+          "name": "电石",
+          "income": 2376712010.49,
+          "incomeRatio": 12.43,
+          "cost": 2235121502.19,
+          "costRatio": 15.29,
+          "profit": 141590508.3,
+          "profitRatio": 3.14,
+          "grossMargin": 5.96,
+          "rank": 3
+        },
+        {
+          "name": "硅铁",
+          "income": 1897197259.58,
+          "incomeRatio": 9.92,
+          "cost": 1701043019.78,
+          "costRatio": 11.64,
+          "profit": 196154239.8,
+          "profitRatio": 4.35,
+          "grossMargin": 10.34,
+          "rank": 4
+        },
+        {
+          "name": "片碱",
+          "income": 1593734229.23,
+          "incomeRatio": 8.33,
+          "cost": 613578804.63,
+          "costRatio": 4.2,
+          "profit": 980155424.6,
+          "profitRatio": 21.73,
+          "grossMargin": 61.5,
+          "rank": 5
+        },
+        {
+          "name": "电",
+          "income": 1240115026.8,
+          "incomeRatio": 6.48,
+          "cost": 1209697168.17,
+          "costRatio": 8.28,
+          "profit": 30417858.63,
+          "profitRatio": 0.67,
+          "grossMargin": 2.45,
+          "rank": 6
+        },
+        {
+          "name": "其他",
+          "income": 1105033513.0,
+          "incomeRatio": 5.78,
+          "cost": 850043335.27,
+          "costRatio": 5.82,
+          "profit": 254990177.73,
+          "profitRatio": 5.65,
+          "grossMargin": 23.08,
+          "rank": 7
+        },
+        {
+          "name": "煤",
+          "income": 579408568.27,
+          "incomeRatio": 3.03,
+          "cost": 133883142.34,
+          "costRatio": 0.92,
+          "profit": 445525425.93,
+          "profitRatio": 9.88,
+          "grossMargin": 76.89,
+          "rank": 8
+        },
+        {
+          "name": "水泥熟料",
+          "income": 276625344.75,
+          "incomeRatio": 1.45,
+          "cost": 198508033.14,
+          "costRatio": 1.36,
+          "profit": 78117311.61,
+          "profitRatio": 1.73,
+          "grossMargin": 28.24,
+          "rank": 9
+        },
+        {
+          "name": "其他(补充)",
+          "income": 204844836.66,
+          "incomeRatio": 1.07,
+          "cost": 30218387.25,
+          "costRatio": 0.21,
+          "profit": 174626449.41,
+          "profitRatio": 3.87,
+          "grossMargin": 85.25,
+          "rank": 10
+        },
+        {
+          "name": "公司内部各业务分部相互抵销",
+          "income": -2306365106.78,
+          "incomeRatio": -12.06,
+          "cost": -2298034311.35,
+          "costRatio": -15.73,
+          "profit": -8330795.43,
+          "profitRatio": -0.18,
+          "grossMargin": null,
+          "rank": 11
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "境内",
+          "income": 12282752774.52,
+          "incomeRatio": 64.23,
+          "cost": 9137076609.49,
+          "costRatio": 62.52,
+          "profit": 3145676165.03,
+          "profitRatio": 69.74,
+          "grossMargin": 25.61,
+          "rank": 1
+        },
+        {
+          "name": "境外",
+          "income": 6636813031.06,
+          "incomeRatio": 34.7,
+          "cost": 5446506906.46,
+          "costRatio": 37.27,
+          "profit": 1190306124.6,
+          "profitRatio": 26.39,
+          "grossMargin": 17.93,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 204844836.66,
+          "incomeRatio": 1.07,
+          "cost": 30218387.25,
+          "costRatio": 0.21,
+          "profit": 174626449.41,
+          "profitRatio": 3.87,
+          "grossMargin": 85.25,
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "reportDate": "2022-12-31",
+      "byIndustry": [
+        {
+          "name": "基本化学原料制造业",
+          "income": 9307784529.87,
+          "incomeRatio": 43.37,
+          "cost": 7158643812.19,
+          "costRatio": 44.57,
+          "profit": 2149140717.68,
+          "profitRatio": 39.81,
+          "grossMargin": 23.09,
+          "rank": 1
+        },
+        {
+          "name": "化工物流业",
+          "income": 8612253761.71,
+          "incomeRatio": 40.13,
+          "cost": 6480313611.6,
+          "costRatio": 40.35,
+          "profit": 2131940150.11,
+          "profitRatio": 39.49,
+          "grossMargin": 24.75,
+          "rank": 2
+        },
+        {
+          "name": "铁合金冶炼业",
+          "income": 2891880984.57,
+          "incomeRatio": 13.48,
+          "cost": 2607911015.96,
+          "costRatio": 16.24,
+          "profit": 283969968.61,
+          "profitRatio": 5.26,
+          "grossMargin": 9.82,
+          "rank": 3
+        },
+        {
+          "name": "电力生产业",
+          "income": 1437271019.97,
+          "incomeRatio": 6.7,
+          "cost": 1276003802.79,
+          "costRatio": 7.94,
+          "profit": 161267217.18,
+          "profitRatio": 2.99,
+          "grossMargin": 11.22,
+          "rank": 4
+        },
+        {
+          "name": "其他",
+          "income": 493566215.44,
+          "incomeRatio": 2.3,
+          "cost": 300324012.82,
+          "costRatio": 1.87,
+          "profit": 193242202.62,
+          "profitRatio": 3.58,
+          "grossMargin": 39.15,
+          "rank": 5
+        },
+        {
+          "name": "水泥制造业",
+          "income": 361302889.84,
+          "incomeRatio": 1.68,
+          "cost": 230848823.42,
+          "costRatio": 1.44,
+          "profit": 130454066.42,
+          "profitRatio": 2.42,
+          "grossMargin": 36.11,
+          "rank": 6
+        },
+        {
+          "name": "煤炭采选业",
+          "income": 277247829.21,
+          "incomeRatio": 1.29,
+          "cost": 114733781.23,
+          "costRatio": 0.71,
+          "profit": 162514047.98,
+          "profitRatio": 3.01,
+          "grossMargin": 58.62,
+          "rank": 7
+        },
+        {
+          "name": "其他(补充)",
+          "income": 173138910.13,
+          "incomeRatio": 0.81,
+          "cost": 1689714.1,
+          "costRatio": 0.01,
+          "profit": 171449196.03,
+          "profitRatio": 3.18,
+          "grossMargin": 99.02,
+          "rank": 8
+        },
+        {
+          "name": "公司内部各业务分部相互抵销",
+          "income": -2094785591.37,
+          "incomeRatio": -9.76,
+          "cost": -2108981721.59,
+          "costRatio": -13.13,
+          "profit": 14196130.22,
+          "profitRatio": 0.26,
+          "grossMargin": null,
+          "rank": 9
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "其他主营业务",
+          "income": 8612253761.71,
+          "incomeRatio": 40.13,
+          "cost": 6480313611.6,
+          "costRatio": 40.35,
+          "profit": 2131940150.11,
+          "profitRatio": 39.49,
+          "grossMargin": 24.75,
+          "rank": 1
+        },
+        {
+          "name": "聚氯乙烯",
+          "income": 5925333582.74,
+          "incomeRatio": 27.61,
+          "cost": 5138375854.07,
+          "costRatio": 31.99,
+          "profit": 786957728.67,
+          "profitRatio": 14.58,
+          "grossMargin": 13.28,
+          "rank": 2
+        },
+        {
+          "name": "硅铁",
+          "income": 2891880984.57,
+          "incomeRatio": 13.48,
+          "cost": 2607911015.96,
+          "costRatio": 16.24,
+          "profit": 283969968.61,
+          "profitRatio": 5.26,
+          "grossMargin": 9.82,
+          "rank": 3
+        },
+        {
+          "name": "片碱",
+          "income": 2007967135.57,
+          "incomeRatio": 9.36,
+          "cost": 683164965.09,
+          "costRatio": 4.25,
+          "profit": 1324802170.48,
+          "profitRatio": 24.54,
+          "grossMargin": 65.98,
+          "rank": 4
+        },
+        {
+          "name": "电",
+          "income": 1437271019.97,
+          "incomeRatio": 6.7,
+          "cost": 1276003802.79,
+          "costRatio": 7.94,
+          "profit": 161267217.18,
+          "profitRatio": 2.99,
+          "grossMargin": 11.22,
+          "rank": 5
+        },
+        {
+          "name": "电石",
+          "income": 1374483811.56,
+          "incomeRatio": 6.4,
+          "cost": 1337102993.03,
+          "costRatio": 8.32,
+          "profit": 37380818.53,
+          "profitRatio": 0.69,
+          "grossMargin": 2.72,
+          "rank": 6
+        },
+        {
+          "name": "其他",
+          "income": 493566215.44,
+          "incomeRatio": 2.3,
+          "cost": 300324012.82,
+          "costRatio": 1.87,
+          "profit": 193242202.62,
+          "profitRatio": 3.58,
+          "grossMargin": 39.15,
+          "rank": 7
+        },
+        {
+          "name": "水泥熟料",
+          "income": 361302889.84,
+          "incomeRatio": 1.68,
+          "cost": 230848823.42,
+          "costRatio": 1.44,
+          "profit": 130454066.42,
+          "profitRatio": 2.42,
+          "grossMargin": 36.11,
+          "rank": 8
+        },
+        {
+          "name": "煤",
+          "income": 277247829.21,
+          "incomeRatio": 1.29,
+          "cost": 114733781.23,
+          "costRatio": 0.71,
+          "profit": 162514047.98,
+          "profitRatio": 3.01,
+          "grossMargin": 58.62,
+          "rank": 9
+        },
+        {
+          "name": "其他(补充)",
+          "income": 173138910.13,
+          "incomeRatio": 0.81,
+          "cost": 1689714.1,
+          "costRatio": 0.01,
+          "profit": 171449196.03,
+          "profitRatio": 3.18,
+          "grossMargin": 99.02,
+          "rank": 10
+        },
+        {
+          "name": "公司内部各业务分部相互抵销",
+          "income": -2094785591.37,
+          "incomeRatio": -9.76,
+          "cost": -2108981721.59,
+          "costRatio": -13.13,
+          "profit": 14196130.22,
+          "profitRatio": 0.26,
+          "grossMargin": null,
+          "rank": 11
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "境内",
+          "income": 13442546820.49,
+          "incomeRatio": 62.64,
+          "cost": 9743949639.53,
+          "costRatio": 60.67,
+          "profit": 3698597180.96,
+          "profitRatio": 68.52,
+          "grossMargin": 27.51,
+          "rank": 1
+        },
+        {
+          "name": "境外",
+          "income": 7843974818.75,
+          "incomeRatio": 36.55,
+          "cost": 6315847498.89,
+          "costRatio": 39.32,
+          "profit": 1528127319.86,
+          "profitRatio": 28.31,
+          "grossMargin": 19.48,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 173138910.13,
+          "incomeRatio": 0.81,
+          "cost": 1689714.1,
+          "costRatio": 0.01,
+          "profit": 171449196.03,
+          "profitRatio": 3.18,
+          "grossMargin": 99.02,
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "reportDate": "2021-12-31",
+      "byIndustry": [
+        {
+          "name": "基本化学原料制造业",
+          "income": 9045918526.2,
+          "incomeRatio": 46.88,
+          "cost": 5197340525.28,
+          "costRatio": 42.0,
+          "profit": 3848578000.92,
+          "profitRatio": 55.6,
+          "grossMargin": 42.54,
+          "rank": 1
+        },
+        {
+          "name": "化工物流业",
+          "income": 6435593015.93,
+          "incomeRatio": 33.35,
+          "cost": 5289547522.9,
+          "costRatio": 42.75,
+          "profit": 1146045493.03,
+          "profitRatio": 16.56,
+          "grossMargin": 17.81,
+          "rank": 2
+        },
+        {
+          "name": "铁合金冶炼业",
+          "income": 2938025204.23,
+          "incomeRatio": 15.23,
+          "cost": 2127189049.64,
+          "costRatio": 17.19,
+          "profit": 810836154.59,
+          "profitRatio": 11.71,
+          "grossMargin": 27.6,
+          "rank": 3
+        },
+        {
+          "name": "电力生产业",
+          "income": 1343331762.83,
+          "incomeRatio": 6.96,
+          "cost": 1098736745.48,
+          "costRatio": 8.88,
+          "profit": 244595017.35,
+          "profitRatio": 3.53,
+          "grossMargin": 18.21,
+          "rank": 4
+        },
+        {
+          "name": "煤炭采选业",
+          "income": 577728071.19,
+          "incomeRatio": 2.99,
+          "cost": 198038149.77,
+          "costRatio": 1.6,
+          "profit": 379689921.42,
+          "profitRatio": 5.49,
+          "grossMargin": 65.72,
+          "rank": 5
+        },
+        {
+          "name": "其他",
+          "income": 536519303.32,
+          "incomeRatio": 2.78,
+          "cost": 304057703.0,
+          "costRatio": 2.46,
+          "profit": 232461600.32,
+          "profitRatio": 3.36,
+          "grossMargin": 43.33,
+          "rank": 6
+        },
+        {
+          "name": "水泥制造业",
+          "income": 264133527.93,
+          "incomeRatio": 1.37,
+          "cost": 162428671.6,
+          "costRatio": 1.31,
+          "profit": 101704856.33,
+          "profitRatio": 1.47,
+          "grossMargin": 38.51,
+          "rank": 7
+        },
+        {
+          "name": "其他(补充)",
+          "income": 157457615.42,
+          "incomeRatio": 0.82,
+          "cost": 6573939.68,
+          "costRatio": 0.05,
+          "profit": 150883675.74,
+          "profitRatio": 2.18,
+          "grossMargin": 95.82,
+          "rank": 8
+        },
+        {
+          "name": "公司内部各业务分部相互抵消",
+          "income": -2003752542.51,
+          "incomeRatio": -10.38,
+          "cost": -2010407316.91,
+          "costRatio": -16.25,
+          "profit": 6654774.4,
+          "profitRatio": 0.1,
+          "grossMargin": null,
+          "rank": 9
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "聚氯乙烯",
+          "income": 7121876585.85,
+          "incomeRatio": 36.91,
+          "cost": 4227272262.63,
+          "costRatio": 34.16,
+          "profit": 2894604323.22,
+          "profitRatio": 41.82,
+          "grossMargin": 40.64,
+          "rank": 1
+        },
+        {
+          "name": "物流综合服务",
+          "income": 6435593015.93,
+          "incomeRatio": 33.35,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "硅铁",
+          "income": 2938025204.23,
+          "incomeRatio": 15.23,
+          "cost": 2127189049.64,
+          "costRatio": 17.19,
+          "profit": 810836154.59,
+          "profitRatio": 11.71,
+          "grossMargin": 27.6,
+          "rank": 3
+        },
+        {
+          "name": "电",
+          "income": 1343331762.83,
+          "incomeRatio": 6.96,
+          "cost": 1098736745.48,
+          "costRatio": 8.88,
+          "profit": 244595017.35,
+          "profitRatio": 3.53,
+          "grossMargin": 18.21,
+          "rank": 4
+        },
+        {
+          "name": "片碱",
+          "income": 1182134652.32,
+          "incomeRatio": 6.13,
+          "cost": 510959077.98,
+          "costRatio": 4.13,
+          "profit": 671175574.34,
+          "profitRatio": 9.7,
+          "grossMargin": 56.78,
+          "rank": 5
+        },
+        {
+          "name": "电石",
+          "income": 741907288.03,
+          "incomeRatio": 3.85,
+          "cost": 459109184.67,
+          "costRatio": 3.71,
+          "profit": 282798103.36,
+          "profitRatio": 4.09,
+          "grossMargin": 38.12,
+          "rank": 6
+        },
+        {
+          "name": "其他",
+          "income": 693976918.74,
+          "incomeRatio": 3.6,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "煤",
+          "income": 577728071.19,
+          "incomeRatio": 2.99,
+          "cost": 198038149.77,
+          "costRatio": 1.6,
+          "profit": 379689921.42,
+          "profitRatio": 5.49,
+          "grossMargin": 65.72,
+          "rank": 8
+        },
+        {
+          "name": "水泥熟料",
+          "income": 264133527.93,
+          "incomeRatio": 1.37,
+          "cost": 162428671.6,
+          "costRatio": 1.31,
+          "profit": 101704856.33,
+          "profitRatio": 1.47,
+          "grossMargin": 38.51,
+          "rank": 9
+        },
+        {
+          "name": "公司内部各业务分部相互抵消",
+          "income": -2003752542.51,
+          "incomeRatio": -10.38,
+          "cost": -2010407316.91,
+          "costRatio": -16.25,
+          "profit": 6654774.4,
+          "profitRatio": 0.1,
+          "grossMargin": null,
+          "rank": 10
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "境内",
+          "income": 13817350664.76,
+          "incomeRatio": 71.61,
+          "cost": 7727560900.85,
+          "costRatio": 62.45,
+          "profit": 6089789763.91,
+          "profitRatio": 87.98,
+          "grossMargin": 44.07,
+          "rank": 1
+        },
+        {
+          "name": "境外",
+          "income": 5320146204.36,
+          "incomeRatio": 27.57,
+          "cost": 4639370149.91,
+          "costRatio": 37.49,
+          "profit": 680776054.45,
+          "profitRatio": 9.84,
+          "grossMargin": 12.8,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 157457615.42,
+          "incomeRatio": 0.82,
+          "cost": 6573939.68,
+          "costRatio": 0.05,
+          "profit": 150883675.74,
+          "profitRatio": 2.18,
+          "grossMargin": 95.82,
+          "rank": 3
+        }
+      ]
+    }
+  ],
+  "analysis": [
+    {
+      "reportDate": "2025-12-31",
+      "businessReview": "2025年,国际经贸环境复杂严峻,单边主义、保护主义抬头,市场预期波动加剧,国内外经济承压前行。报告期,面对全球经济复苏乏力、行业竞争日趋激烈的复杂环境,在董事会和党委的正确领导和科学决策下,全体君正人迎难而上,砥砺前行,紧密围绕能源化工和化工物流两大核心业务,统筹生产运营和绿色低碳创新发展,公司整体运营保持高质量发展良好势头,圆满完成公司年度各项工作任务。报告期,公司持续强化安全风险分级管控与隐患排查治理,筑牢生产经营安全底线；坚持向内挖潜、苦练内功,推动各产业板块协同发力,充分释放产业链整体优势,围绕降本降耗、创新增效核心目标,持续推进工艺改进、技术攻关、渠道拓展与管理优化；化工物流领域通过优化航线布局、罐队运营及船队结构,拓展运力规模,提升运输稳定性与市场响应效率,巩固成本竞争优势,保障产业链供应链畅通。此外,公司以数字化、智能化与绿色低碳为双轮驱动,加快技术创新与产业升级,用能结构持续优化,为高质量可持续发展注入新动能,助力行业转型升级。具体如下：1、能源化工板块报告期,公司坚持创新引领,围绕降本降耗、创新增效核心目标,持续推进工艺改进、技术攻关、市场拓展与管理提升,着力向内挖潜、苦练内功,推动各产业板块高效协同。同时,以组织变革与人才建设为重要支撑,全面推进集团组织扁平化改革及生产系统“两部制”优化,实现管理层级精简、技术力量强化。此外,数智化建设稳步落地,初步建成覆盖生产运营与经营管理的数字化体系,为提升管理效能、实现精益运营打下坚实基础。总体来看,全年公司乌海、鄂尔多斯两大循环经济产业链基地保持稳定运行,生产经营平稳有序。报告期,公司生产聚氯乙烯88.59万吨,较上年同期增加1.04%；生产烧碱59.42万吨,较上年同期增加3.52%；生产硅铁33.55万吨,较上年同期增加0.15%；生产焦炭326.85万吨,较上年同期增加38.29%；生产甲醇29.23万吨,较上年同期增加54.57%；生产BDO17.60万吨,较上年同期增加40.46%；生产PTMEG10.02万吨,较上年同期增加294.49%。2、化工物流板块报告期内,公司化工物流板块坚定推进全球化战略,以绿色智能船队升级为核心,动态优化全球航线网络与运力配置。2025年,两艘25,900载重吨及两艘9,200载重吨不锈钢化学品船相继投运,显著增强在高端精细化学品运输领域的服务能力；船队覆盖范围持续拓展至中国沿海、东南亚及远洋干线,并创新实施内贸船队“内外贸兼营”模式,实现运力跨区域弹性调配。公司同步深化数字化、智能化应用,将技术全面融入船舶运营、安全管理和船员培训,依托行业领先的培训体系与安全机制,夯实全球运营根基。面对全球集装罐市场供给过剩与需求分化的新常态,公司强化总部协同与区域业务统筹管理,优化量价策略,提升经营韧性；并通过数据驱动的信息化建设,提升调度、租罐及维修等环节的响应效率与运营效能。仓储码头业务虽受宏观经济下行及客户罐区布局调整影响,仍通过精准研判新兴品类需求、加快业务结构优化,实现平稳过渡,并推动仓储周转率与码头综合吞吐量逆势增长。三大业务板块高效协同,持续强化一体化服务能力,为全球石化客户提供更高效、专业、安全的液体化工品物流解决方案,整体经营质效与行业竞争力稳步提升。报告期,船队程租承运货量1,006万吨,较上年增长2.9%；集装罐罐队总罐天1,581万天,较上年增长1.1%；仓储周转量109.22万吨,较上年增长4%,码头吞吐量143.67万吨,较上年增长4%。",
+      "futureExpect": "(一)行业格局和趋势1、基础化学原料制造业在国家“双碳”相关政策引导下,我国氯碱行业产能扩张得到有效控制,产能增速持续放缓,行业布局更趋清晰,单个企业平均规模继续提升。近年来PVC行业随着成本因素的驱动和产业政策的指引逐步实现向西北地区转移,西北地区依托丰富的资源能源优势已成为业内公认的电石法PVC低成本地区,且大力发展“煤—电—氯碱—PVC—水泥”一体化项目,特别是近年来当地氯碱企业积极探索与新能源的耦合发展,运用光照时间长、风能丰富等区位优势,利用绿电降低企业用电成本,获得新的发展动力。在全球能源转型与生物基材料兴起的背景下,BDO（1,4-丁二醇）工业化呈现多条技术路线,而中国凭借丰富廉价的电石资源,确立了以炔醛法为主的煤化工路径,电石与甲醇为核心原料。同时,中国已成为全球BDO核心产销地,产能约占世界83.93%,并呈现显著的自给自足特征。下游应用中,PTMEG占比近半（50.11%）,是BDO最主要的消费方向；PBT占比约20.78%,主要用于汽车与纺丝；GBL/NMP占比17.07%,服务于锂电池及医药农药。虽受“限塑令”与“双碳”政策驱动存在增长预期,但未来主力下游仍将集中于PTMEG-氨纶板块,显示出BDO产业与纺织、新能源等终端消费的深度绑定。2、焦化行业目前“产能调控”与“绿色转型”已成为焦化行业发展的核心基调。供应层面,虽然2025年焦化产能呈现净新增态势,但行业面临低利润与结构调整的双重压力,产能利用率维持在73.5%左右,进入2026年,预计全年焦炭产能新增1,028万吨,暂无明确淘汰计划,供应增量将取决于产业链利润分配。需求层面,2025年焦炭供需维持“紧平衡”,生铁产量约9亿吨；2026年受房地产低迷及粗钢调控影响,生铁产量预计减少800-1,000万吨。价格方面,受原料煤成本支撑及宏观政策博弈,预计2026年焦炭价格中枢将上移至1,500元/吨,整体呈现震荡偏强走势。3、化工物流运输业化工物流行业参与者众多,形成了多元化的竞争格局。主要企业类型包括石化企业下属物流子公司、大型综合物流服务商及其化工物流子公司、专业第三方化工物流服务商。近年来全球化工行业的产业结构调整开始提速,趋向规模大型化、装置集中化态势。而中国作为亚洲新兴市场的核心,其化学品市场的不断增长也带动了化工物流需求的稳步提升,带动了化学品船运业务的进一步发展。同时精细化工品行业的发展以及罐箱运输标准的逐步提高,为集装罐物流运输需求的增长提供了有力支持。并随着科技的进步与发展,行业正从“规模驱动”向“技术驱动”转型,智能化、绿色化、服务多元化将成为核心发展趋势和主流。根据中国物流与采购联合会发布的行业数据,2025年石化行业物流总额预计达到25.7万亿元,化工品运输总量接近20亿吨,规模保持增长态势。虽然行业呈现“增量不增价”态势,石化物流市场规模约2.26万亿元,但我国作为全球最大的化工品生产国和消费国,同时也是全球最大的化工品贸易和物流市场的地位持续巩固。在海外经济体通胀压力与能源成本高企的背景下,我国化工产业凭借完善的产业链配套及规模优势,有望持续扩大在全球的影响力,进一步推动化工物流市场规模的增长。(二)公司发展战略公司将继续坚持内增式成长与外延式发展并重的发展方向,以循环经济产业链与全球化物流网络为根基,秉承“日进一寸、精益致远”的企业精神,践行“以人为本、科学管理”的企业文化,不断追求技术创新与管理进步,致力于成为具有全球竞争力的科技驱动型、现代化大型企业集团。为此,一方面公司将坚定不移地做强做大现有能源化工产业,依托现有循环经济产业链积累的管理、技术和人才优势,在“绿”上谋转型、在“链”上谋发展,推动能源化工产业智能化、绿色化升级发展；同时物流业务将以全球化运营的物流网络为载体,在“网”上谋布局,通过深度融合信息技术与安全管理体系,不断夯实和提升公司在全球液体化工品运输领域的核心竞争力；另一方面公司将充分依托现有产业链条和业务体系积累的管理、技术和人才优势,通过战略投资、并购进入前景光明的战略新兴产业,推动公司持续高质量发展。(三)经营计划为进一步提升经营管理水平,围绕公司战略目标,2026年公司将重点做好以下工作：1、强化生产管控与经营意识,提升公司运营效率公司将以“提质增效”为核心导向,系统推进生产运营精益化、经营管理全员化、组织效能协同化。通过构建全要素统筹调度体系,深化技术改造与设备全生命周期管理,破解生产瓶颈,推动各系统“安、稳、长、满、优”运行；加速MES、智慧能源等数字化平台建设,以智能化生产控制与数字化运营管理双轮驱动,实现生产效率与能源利用效率协同提升,筑牢成本领先根基。同时,将经营理念贯穿全流程,推行“创新创效项目制”并配套激励容错机制,激活全员活力,聚焦降本降耗、提质增效、开源拓市深挖潜力,提升核心盈利能力。此外,以高效协同为目标深化组织变革,明确“责任在心、担当在行”的干部履职准则,健全动态用人机制,营造风清气正的组织生态,为运营效率提升提供坚实保障。2、持续推动公司产业结构优化、绿色转型发展2026年,公司将紧紧围绕“延链、补链、强链”与绿色转型战略方向,持续深化技术攻关与创新,持续加大在节能减排、产品升级、工艺优化及新技术引进等方面的创新研发投入,积极开展各项绿色清洁生产改造项目、节能降耗改造项目；同时,公司也积极开展绿电、绿氢等产业的研究和布局,推动公司产业结构优化,从而实现向绿色、清洁发展的转型升级。3、加强区域融合,提升全球化物流网络运营和管理能力公司在船运业务制定了清晰的全球航线商务布局计划,围绕红海及中东核心锚点搭建航线网络,持续拓展连接亚洲、欧洲、美洲、非洲的远洋运输通道,不断完善全球化物流运输网络,强化全球化工品物流服务的覆盖能力与适配性。与此同时,公司紧扣全球化工品贸易流向,在中东、欧洲、美洲等核心贸易区域深耕布局,依托本土化的航线运营策略和稳定的COA长约合作,精准把握当地市场货流需求,为客户提供贴合化工品运输特性的定制化物流解决方案,夯实区域市场运营根基,为全球化业务持续发展筑牢基础。在远洋区域,公司持续加大市场开发与运力调配力度,优化船型分工与航线闭环设计,提升在国际远洋化工品运输市场的核心竞争力和行业影响力。在巩固远洋业务优势的同时,公司也将目光聚焦于近洋区域,凭借丰富的化工品船运运营经验和精细化的航线管理模式,稳步提升在东北亚、东南亚等近洋市场的市场地位,高效满足客户在近洋航线中多样化、高时效的化工品物流运输需求。集装罐业务将持续推进全球化、标准化和自动化的运营模式,发挥各区域优势,探索建立共享服务中心,以此优化资源配置,提高运营效率。在业务策略方面,公司将着力优化定价机制,通过精准的市场分析和成本把控,探索新业务模式,持续以客户服务为中心,根据市场需求和自身资源优势,灵活调整业务结构,在追求业务规模的同时,保障业务的盈利能力和可持续发展。4、筑牢安全管理体系、为经营提供坚实保障为筑牢安全根基,公司将持续构建以“风险预控、持续改进、全员参与”为核心的君正特色安全管理体系,形成“决策—管理—执行”三级联动机制,全方位保障化工生产、物流业务安全高效运行。公司依托MES安全信息模块实现动态跟踪与责任落地,按风险分级理念开展事故分级管控与防范措施“回头看”,严格执行检修作业前风险研判并全面推行线上办票,系统梳理高风险作业并细化管控措施、完善异常工况应急处置卡并常态化开展演练。同时,公司通过自动化控制系统、巡检机器人、船岸一体化安全信息化管理平台等建设,强化技术赋能,推动智慧管控,实现安全生产“可预测、可管控”目标。通过以上多维度举措,公司将安全理念融入生产运营全流程,以体系化建设筑牢防线、以技术手段提升效能,为可持续经营提供坚实保障。"
+    },
+    {
+      "reportDate": "2024-12-31",
+      "businessReview": "2024年,党的二十届三中全会胜利召开,对进一步全面深化改革、推进中国式现代化作出战略部署。一年来,面对外部压力加大、内部困难增多的复杂严峻形势,在党中央坚强领导下,全国各族人民砥砺奋进、攻坚克难,经济运行总体平稳、稳中有进,全年经济社会发展主要目标任务顺利完成,高质量发展扎实推进,新质生产力稳步发展,我国经济实力、科技实力、综合国力持续增强。同时,经济发展亦面临诸多问题与挑战：国际上,世界经济增长动能不足,单边主义、保护主义加剧,多边贸易体制受阻,关税壁垒增多,整体外部环境更趋复杂严峻；从国内看,经济回升向好,经济基础仍待持续稳固,市场有效需求不足。报告期,面对错综复杂的经济形势和竞争激烈的市场环境,在公司董事会的正确领导下,全体君正人团结一致、主动作为、克难前行,紧密围绕能源化工和化工物流两大核心业务,统筹生产运营、新项目投资建设和绿色低碳创新发展,公司整体运营保持着持续高质量发展的良好势头。报告期,公司在发挥产业链协同优势的同时,持续推动产业链各环节开展创新增效、节能降耗、成本管控等工作,深挖产业链和装置潜力；公司不断优化航线结构和罐队运营,提升经营及管理效率,进一步巩固公司的成本竞争优势；公司绿色低碳环保可降解塑料循环产业链项目已经全部建成并投入运行,450MW光伏发电项目已全部建设完成并实现全容量并网发电。同时,为进一步优化公司船队结构,拓展船队规模,本年度公司投资建造了部分液体化工品船舶。新产能的投产、新运力的投资以及用能结构的优化,将为公司可持续发展提供新动能。此外,公司聚焦数字化、智能化建设及绿色低碳发展领域持续推动行业转型升级和技术进步,助力公司向高质量发展迈进。报告期,公司实现营业收入252.11亿元,同比增加31.83%；归属于上市公司股东的净利润28.04亿元,同比增加2.96%；归属于上市公司股东的扣除非经常性损益的净利润25.73亿元,同比增加7.08%。报告期末,公司资产总额428.23亿元,较年初增长6.59%。具体经营情况如下：1、能源化工板块报告期,国际环境复杂多变,国内需求仍待提振,消费动能不足,受此影响公司主要产品价格较上年降幅明显,主要原材料价格虽然有所下降但依然处在高位,对公司能源化工板块的生产经营产生了一定冲击。在此背景下,公司持续强化全员经营意识、推动运营体系高效协作,在产量提升、消耗降低、原料替代与掺配、成本管控等诸多方面实现突破,同时配套构建多元化绩效考核机制,鼓励各业务板块主动在重大突破、创新增效、战略保障创新项目上追求更高目标。另外,公司不断加强外部对标工作,深挖管理短板,制定并实施可量化、能落地的改进举措,持续完善管理体系与流程,提升管理效能。总体来看,2024年公司在乌海和鄂尔多斯的两个循环经济产业链基地继续高效运转,生产经营平稳有序,未发生重大设备、安全、环保事故。报告期,公司生产聚氯乙烯87.68万吨,较上年同期增加2.14%；生产烧碱57.40万吨,较上年同期增加1.06%；生产硅铁33.50万吨,较上年同期增加17.05%；生产水泥熟料159.39万吨,较上年同期增加5.74%。报告期,公司投资建设的绿色低碳环保可降解塑料循环产业链项目已经全部建成并投入运行,主要生产指标基本达到设计标准,生产焦炭236.64万吨、甲醇30.46万吨、BDO15.55万吨、PTMEG2.54万吨。2、化工物流板块报告期,公司化工物流板块通过深化全球化战略布局,基于市场动态精准实施航线运力弹性配置,同步推进数字化中台系统建设与业务数字化系统迭代升级,实现服务能效提升,取得了良好的经营业绩。公司船运业务积极拓展全球市场,深入研究各市场的化工产品需求特点、贸易政策以及竞争对手情况,重点开拓和优化国际航线结构、提升市场占有率；内贸船队积极探索内外贸兼营经营举措,结合内贸船队现有业务优势,对航线进行整合规划,拓展更多外贸市场航线,从而更好地融入全球化工产业链。随着全球供应链紧张局势逐步缓解,集装罐物流业务的客户平均使用罐箱时间有所减少,集装罐供需关系趋于平衡。为应对市场变化,公司积极调整策略,通过优化业务规模与单罐次盈利能力,确保集装罐物流业务的整体盈利水平。在集装罐租赁业务方面,公司通过持续开拓全球市场,提升运营效率,集装罐租赁业务运营率稳定,维持较高水平,进一步巩固了市场竞争力。2024年受到油品消费税征收范围扩大、欧盟提高进口中国生物柴油关税以及中国降低工业油脂出口退税等政策影响,仓储码头业务遇到较大挑战。公司继续深化一体化经营的思路,持续开发拳头产品的业务量,全年仓储周转量与码头吞吐量保持稳定。3、战略投资项目（1）绿色低碳环保可降解塑料循环产业链项目报告期,公司投资建设的以BDO生产为核心的“石灰石—电石—煤焦化—甲醇—BDO—PTMEG”绿色低碳环保可降解塑料循环产业链项目建设的30万吨/年BDO项目、12万吨/年PTMEG项目及配套的碳化钙升级改造项目、300万吨/年焦化项目、55万吨/年甲醇综合利用项目已经全部建成并投入运行,主要生产指标基本达到设计标准。（2）450MW光伏发电项目公司紧跟国家“生态优先,绿色发展”和“双碳”目标的政策导向,报告期公司建设的450MW光伏发电项目已实现全容量并网发电,有效助力公司节能减排、稳定电力供应和降低能源成本。（3）造船项目报告期,为进一步优化公司船队结构、拓展船队规模,积极打造经济性高、竞争力强的化学品运输船队,不断提升公司竞争力,公司全资子公司通过投资建设及船舶租赁的方式,共达成20艘25.9K载重吨化学品船舶的建设和租赁协议。截至报告披露日,该批船舶建造项目正在按计划推进。",
+      "futureExpect": "(一)行业格局和趋势1、基础化学原料制造业在国家“双碳”相关政策引导下,我国氯碱行业产能扩张得到有效控制,产能增速持续放缓,行业布局更趋清晰,单个企业平均规模继续提升。据中国氯碱网最新调查数据显示,截至2024年底,我国PVC生产企业73家,总产能2,951万吨（其中包含聚氯乙烯糊状树脂148万吨）,平均PVC生产规模约为40万吨/年,PVC产能排名前十位企业进入规模提升至80万吨/年,大部分集中在西北电石一体化厂家以及沿海地区乙烯法厂家。PVC产品属于大宗化工基础原料,产品的竞争能力主要体现在生产成本的高低。近年来PVC行业随着成本因素的驱动和产业政策的指引逐步实现向西北地区转移,西北地区依托丰富的资源能源优势已成为业内公认的电石法PVC低成本地区,且大力发展“煤—电—氯碱—PVC—水泥”一体化项目,特别是近年来当地氯碱企业积极探索与新能源的耦合发展,运用光照时间长、风能丰富等区位优势,利用绿电降低企业用电成本,获得新的发展动力。华北地区化工发展基础雄厚,近年来随着沿海乙烯法PVC装置陆续投产,区域内乙烯法产能已超过电石法,且未来扩能仍以乙烯法为主。华东地区是我国氯碱产品主要消费市场,依托下游需求支撑和相对便利的对外贸易条件,当地氯碱产业逐渐探索出与石化行业、氟化工、精细化工和农药等行业结合发展的模式。BDO（1,4-丁二醇）的工业化生产主要有炔醛法、顺酐（丁烷）法、丙烯醇（环氧丙烷）法、丁二烯法。近年来在全球能源转型的背景下,生物基材料受到追捧,生物法BDO也有工业化生产。中国具有丰富且廉价的电石资源,因此中国的BDO工艺以炔醛法为主,两大主要原料为电石、甲醇,属于煤化工下游。目前行业进入新一轮产能扩张期,且上下游一体化趋势增强,宏观经济影响下终端出口情况、可降解行业支持政策的落地执行、新能源汽车的替代速度以及下游产业链国际市场份额的争夺等将成为影响BDO行情的关键。一体化、规模化、多元化发展趋势下,未来BDO行业竞争趋势增强。预计短期内BDO在供应能力充足的背景下,行业持续消化过剩产能,价格围绕成本线上下波动,价格季节波动规律性可能被改变。2、焦化行业目前“能耗双控”已经成为焦化行业高质量发展的长期目标和常态化要求。供应层面,焦炭产能虽有增加预期,但并不会带动焦炭产量的增加,焦炭供应仍会跟随下游需求变化,供需总量相对平衡,焦炭供需矛盾有限,目前主流观点下游铁水产量减量预期相对较强,焦炭产量也会匹配下游消费同步减量。需求层面,政策刺激下拉动内需成为需求主要增长点,焦炭基本面维持平衡状态运行。价格层面,目前处在需求消费和高炉复产周期,叠加产业链常态化低库存,焦炭价格存在阶段性反弹机会,加上焦炭价格已经连创新低,接近底部成本,因此继续下降的空间也比较有限。价格底部将受到支撑,市场将在低位震荡中寻找新的平衡点。3、化工物流运输业化工物流行业参与者众多,形成了多元化的竞争格局。主要企业类型包括石化企业下属物流子公司、大型综合物流服务商及其化工物流子公司、专业第三方化工物流服务商。近年来全球化工行业的产业结构调整开始提速,趋向规模大型化、装置集中化态势。而中国作为亚洲新兴市场的核心,其化学品市场的不断增长也带动了化工物流需求的稳步提升,带动了化学品船运业务的进一步发展。同时精细化工品行业的发展以及罐箱运输标准的逐步提高,为集装罐物流运输需求的增长提供了有力支持。根据中国物流与采购联合会发布的《2024中国化工品物流行业年度发展报告》,化工品物流作为连接生产与消费的关键环节,其重要性日益凸显。报告预测,2024年我国化工品物流总额将达到27.1万亿元,显示出化工品物流行业的巨大发展潜力。预计我国化工产业的规模将不断增强,从而带来较大的生产和运输、仓储需求,化工物流市场规模有望稳步提升。我国已经成为全球最大的化工品生产国和消费国,同时也是全球最大的化工品贸易和物流市场。在海外经济体通胀高企与能源紧张的背景下,我国化工业有望加速扩大在全球的影响力,进一步推动化工物流市场规模的增长。(二)公司发展战略公司将继续坚持内增式成长与外延式发展并重的发展方向,以循环经济产业链与全球化物流网络为根基,秉承“日进一寸、精益致远”的企业精神,践行“以人为本、科学管理”的企业文化,不断追求技术创新与管理进步,致力于成为具有全球竞争力的科技驱动型、现代化大型企业集团。为此,一方面公司将坚定不移地做强做大现有能源化工产业,依托现有循环经济产业链积累的管理、技术和人才优势,在“绿”上谋转型、在“链”上谋发展,推动能源化工产业智能化、绿色化升级发展；同时物流业务将以全球化运营的物流网络为载体,在“网”上谋布局,通过深度融合信息技术与安全管理体系,不断夯实和提升公司在全球液体化工品运输领域的核心竞争力；另一方面公司将充分依托现有产业链条和业务体系积累的管理、技术和人才优势,通过战略投资、并购进入前景光明的战略新兴产业,推动公司持续高质量发展。(三)经营计划为进一步提升经营管理水平,围绕公司战略目标,2025年公司将重点做好以下工作：1、持续推动公司产业结构优化升级2025年,公司将深入研究产业链延链、补链、强链措施,积极研究布局绿电、绿氢、绿氨等产业。同时,公司持续深化技术攻关与创新,持续加大在节能减排、产品升级、工艺优化及新技术引进等方面的创新研发投入,推动公司向绿色、清洁发展的转型升级。2、加强区域融合,提升全球化物流网络运营和管理能力公司在船运业务制定了清晰的全球航线商务拓展计划,逐步开辟连接各大洲的新航线,不断拓展物流运输网络,增强全球物流服务的覆盖范围。与此同时,公司大力推进海外网点建设,在欧洲、美洲等重要地区积极布局,通过建立本土化的运营团队和服务设施,深入了解当地市场需求,提供更加贴近客户的个性化物流解决方案,扎根当地市场,为长期发展奠定坚实基础。在远洋区域,公司持续加大市场开发力度,优化航线布局,提升在国际远洋运输市场的竞争力和影响力。在巩固远洋业务优势的同时,公司也将目光聚焦于近洋区域,凭借丰富的运营经验和不断创新的服务模式,稳步提升在近洋市场的领先地位,满足客户多样化的物流需求。集装罐物流业务将持续推进全球化、标准化和自动化的运营模式,发挥各区域优势,探索建立共享服务中心,以此优化资源配置,提高运营效率。在业务策略方面,公司将着力优化定价机制,通过精准的市场分析和成本把控,探索新业务模式,持续以客户服务为中心,根据市场需求和自身资源优势,灵活调整业务结构,在追求业务规模的同时,保障业务的盈利能力和可持续发展。3、强化生产管控、经营意识,提升公司运营效率一是强化生产管控,加强对标管理。2025年,公司将实施总调度管理,实现生产要素的合理匹配与高效利用。同时,加强设备更新换代和技术改造,引进先进的生产设备和技术,推动智能化、自动化和生产信息化进程,提高生产效率和产品质量。此外,通过不断地对标、分析,发现自身管理存在的差距和不足,并采取一系列可量化、可执行的改进措施,不断完善自我、追求行业领先。二是强化全员经营意识。2025年,公司将以“追求进步、创造价值”为导向,从思想上强化经营意识,提升全员经营分析能力,通过数据分析和决策支持体系,鼓励员工主动思考效率提升、降低成本、创新突破并提出建议,形成全员参与的经营管理氛围。三是构建更加科学、合理、公正的绩效评价体系。公司将推进考核激励体系变革,以工作贡献和创新能力为导向,增强全员经营思维,调动全体员工创新积极性,形成全员参与创新、价值创造的氛围,促进生产经营不断改善、提升,进而提高企业运营效率。4、筑牢全球化安全管理体系,深耕安全文化建设为筑牢安全根基,公司将持续构建具有君正特色的安全管理体系,以责任落实为核心、以能力提升为驱动、以技术创新为支撑,全方位保障化工生产、物流业务安全高效运行。公司明确各级安全环保责任,强化安全管理部门“服务+监督+管理”三位一体职能,通过制度完善与流程优化,实现从风险预防到隐患整改的全链条闭环管控。持续优化“安全标杆岗位”评选机制,深化“金点子活动”与“吹哨人”隐患上报机制,结合物质奖励与荣誉激励,鼓励员工主动发现、上报安全隐患。同时,公司通过自动化控制系统、巡检机器人、船岸一体化安全信息化管理平台等建设,强化技术赋能,推动智慧管控,实现安全生产“可预测、可管控”目标,提升精细化管理水平,降低人为操作风险。通过以上多维度举措,公司将安全环保理念融入生产运营全流程,以体系化建设筑牢防线、以创新机制激发活力、以技术手段提升效能,最终实现安全与发展的动态平衡,为可持续经营提供坚实保障。"
+    },
+    {
+      "reportDate": "2023-12-31",
+      "businessReview": "2023年是我国全面贯彻党的二十大精神的开局之年,也是全球宏观环境复杂多变的一年。我国经济在面对有效内需不足、外需较弱、房地产行业调整等重重挑战下,宏观经济政策不断发力,出台了涵盖降息、降准、减税、鼓励房地产以及促进民营经济发展等一系列措施,推动中国经济运行持续回升向好。反观国际政治经济形势,2023年全球经济增长动能趋弱,美欧主要发达经济体维持紧缩货币政策,地缘政治局势复杂,外部环境对我国经济发展的不利影响持续加大。报告期,全球经济环境充满不确定性,行业竞争持续加剧,面对主要产品价格下跌、原材料和燃料价格仍处于高位的不利影响,在公司董事会的正确领导下,公司坚持稳字当头、稳中求进的总基调,原有生产运营体系以市场为导向,在发挥产业链协同优势的同时持续推动产业链各环节开展节能降耗、降本增效工作,深度挖掘潜力以提高企业经济效益。与此同时,公司进一步采取有效激励措施,营造全员参与创新的氛围,促进生产经营和管理不断改善、提升,为公司可持续发展奠定基础。针对新项目建设,公司加强统筹协调,加大资源投入力度,不断优化施工组织安排,全力以赴推动新项目攻坚突破,抢抓项目进度,力争早日投入生产运营。此外,公司积极响应“双碳”国家战略,从源头加强碳足迹管理,投资建设光伏项目,提高清洁能源的利用水平,为企业高质量可持续发展夯实基础。报告期,公司原有生产体系稳健运营,化工物流板块持续提升管理和运营效率,取得了较好的经营业绩,新项目有序建设,各项工作取得了阶段性成果,完成了既定目标。报告期,公司实现营业收入191.24亿元,同比减少10.88%；归属于上市公司股东的净利润27.23亿元,同比减少34.50%；归属于上市公司股东的扣除非经常性损益的净利润24.02亿元,同比减少25.31%。报告期末,公司资产总额401.74亿元,较年初增长3.40%。具体经营情况如下：1、能源化工板块报告期,公司能源化工板块受有效内需不足、外需较弱的影响,公司主要产品价格较上年同期降幅相对较大,主要原燃材料包括煤炭、兰炭等采购价格虽然有所下降但依然处在高位,对公司能源化工板块的生产经营产生了一定冲击。在此背景下,公司密切关注市场变化,灵活调整产品结构和原材料配比来降低市场变化对公司经营业绩的冲击。同时,公司内部全面开展创新提效工作,引导全体员工增强创新增效意识,立足本职,扎实工作,以创新增效益,以创新谋发展,为公司二次创业注入新的动力和活力,促进公司可持续发展。总体来看,2023年公司在乌海和鄂尔多斯的两个循环经济产业链基地继续高效运转,生产经营平稳有序,未发生重大设备、安全、环保事故。11/272报告期,公司生产聚氯乙烯85.84万吨,较上年同期增加0.23%；生产烧碱56.80万吨,较上年同期增加0.18%；生产硅铁28.62万吨,较上年同期减少23.66%,硅铁产量下降的主要原因为公司10×12500KVA硅铁炉于2023年3月停产进行产能置换升级改造,报告期该项目已建设完成并投入运行；生产水泥熟料150.74万吨,较上年同期减少1.80%。2、化工物流板块报告期,公司化工物流板块通过进一步开拓全球市场,灵活调整航线运力配置,优化经营模式,并不断提升经营管理能力,推进信息化建设及集成,化工物流业务取得较好经营业绩。船运业务：国内市场方面,随着大型炼化项目的稳定投产支撑了国内需求,运价保持基本稳定。国际市场方面,俄乌冲突局势未显著改变,巴以冲突又带来红海局势紧张,同时季节性因素导致巴拿马运河拥堵,在各种综合因素多重情况下,国际海运市场运力依旧紧张,运价持续处于高位。在此背景下,船运业务通过自身高质量的船舶管理能力及科学运力调配,抓住市场机遇,经营业绩创历史最好水平。集装罐业务：随着全球供应瓶颈程度缓解及集装箱船公司运力投入,集装罐物流业务缺少舱位及周转慢的局面得以缓解。公司集装罐物流业务紧跟国际环境及市场的变化,积极调整经营策略,通过增加罐次来缓解单罐次盈利能力的下降。报告期,全年国际物流罐次增长5.3%。在集装罐租赁业务方面,通过坚持不断的市场开发,起租率较上年相比保持稳定。码头储罐业务：公司码头储罐业务继续贯彻“一体化”经营理念,以码头吞吐量提升带动业务整体发展作为工作重点,不断提升码头作业效率；同时不断推动提升仓储长包业务罐比例,提升货物周转次数,长包业务比例同比上年增长了1.4%。3、战略投资项目（1）绿色低碳环保可降解塑料循环产业链项目2021年,公司基于对宏观经济形势和行业政策的研判,结合国家禁塑、限塑政策的逐步推行,决定在乌海市乌达工业园区投资建设以BDO生产为核心的“石灰石—电石—BDO—可降解塑料”绿色低碳环保可降解塑料循环产业链项目,具体包括：绿色可降解塑料项目以及配套的碳化钙升级改造项目、300万吨/年焦化项目、55万吨/年甲醇综合利用项目等。截至报告披露日,公司绿色低碳环保可降解塑料循环产业链项目进展顺利,第一批次建设的30万吨/年BDO项目和12万吨/年PTMEG项目已完成总体建设进度的90%,配套的碳化钙升级改造项目、300万吨/年焦化项目及55万吨/年甲醇综合利用项目均已完成总体建设,并陆续分阶段转入试生产。（2）8万吨/年硅铁升级改造项目2022年,公司为积极响应内蒙古自治区《关于确保完成“十四五”能耗双控目标任务若干保障措施》和《关于加强全区高耗能、高排放项目准入管理的意见》文件要求,将原有10台12500KVA矿热炉（设计产能10万吨）按照1.25:1减量置换比例升级为2×45000KVA铁合金矿热炉,置换后产能为8万吨,产品为高品质硅铁。2022年8月,该项目取得了乌达区工信和科12/272技局项目备案告知书。2023年3月,公司对10×12500KVA硅铁炉停产拆除并进行产能置换升级改造,2023年12月转入正式生产运行。（3）450MW光伏发电项目2023年,公司积极响应国家“生态优先,绿色发展”和“双碳目标”的政策要求,贯彻内蒙古自治区“十四五”能源发展规划以及2022年内蒙古自治区人民政府发布的《关于推动全区风电光伏新能源产业高质量发展的意见》精神,为推进公司绿色低碳经济和循环经济发展,增强企业竞争力,建设资源节约型、环境友好型企业,公司以全资子公司鄂尔多斯君正为投资主体,在内蒙古鄂尔多斯市鄂托克旗蒙西高新技术工业园区内新建450MW光伏发电项目。截至报告披露日,该项目各项前期手续正在办理中,项目设计、设备选型、招标正在推进中,施工准备工作已全面展开。",
+      "futureExpect": "（一）行业格局和趋势1、氯碱化工行业公司能源化工板块所处行业为大宗原料和化学品制造行业,具体细分行业为氯碱化工行业,主要产品为聚氯乙烯和烧碱。2023年全球聚氯乙烯总产能约为6,129万吨,主要生产地依然集中45/272在亚洲、美洲和欧洲地区,需求主要集中在东北亚（主要是中国）,东南亚、北美（主要是美国）以及欧洲西部。（数据来源：中国氯碱网）目前我国氯碱行业的布局逐渐清晰,总量更趋于合理,主要产品烧碱和聚氯乙烯开工率均达到85%以上,产业结构、产品结构进一步优化,企业发展也将紧密围绕高质量发展而调整,行业发展进入从规模增长向质量提升的重要窗口期。据中国氯碱网最新调查数据显示,截至2023年底,我国PVC生产企业73家,总产能2,881万吨（其中包含聚氯乙烯糊状树脂148万吨）,平均PVC生产规模约为39万吨/年,PVC产能排名前十位企业进入规模继续保持为65万吨/年,大部分集中在西北的新疆、内蒙古、宁夏、陕西以及华北地区的山东和天津。2023年中国PVC区域集中度和一体化程度维持高位,产能仍然集中在西北、华北、华东三大产区,三大产区总产能2,454.5万吨,占中国总产能的85.2%。从省份分布来看,产能排名前五位的依然是内蒙古、新疆、山东、青海、陕西,这五个地区总产能1,679.50万吨,占中国总产能的58.30%。内蒙古及新疆地区仍具有明显的规模优势,两地产能947万吨,占总产能的32.87%,并且这些地区龙头企业较多。以内蒙古及新疆为代表的西北地区既是PVC的主产区也是原料电石的主产区,多数企业都配套原料电石厂,成本优势明显。PVC一体化装置成本优势明显,开工不会受电石行情变动的制约,供应量较为稳定,所以竞争力相对较强。PVC产品属于大宗化工基础原料,产品质量和性能差异较小,产品的竞争能力主要体现在生产成本的高低。近年来PVC行业随着成本因素的驱动和产业政策的指引逐步实现向西北地区转移,西北地区依托丰富的资源能源优势已成为业内公认的电石法PVC低成本地区,在中国PVC产业格局中具有重要地位。华北、华东地区呈现出电石法和乙烯法长期并存发展的状态,而且得益于进口乙烯渠道和乙烯生产来源的多样化,未来两至三年内天津、山东、浙江、江苏地区的乙烯法工艺的扩能更加集中。2、化工物流行业近年来,全球化工行业的产业结构调整开始提速,趋向规模大型化、装置集中化态势。化学品市场的快速增长也带动了化工物流需求的稳步提升,带动了化学品船运业务的进一步发展。同时精细化工品行业的发展以及罐箱运输标准的逐步提高,为集装罐物流运输需求的增长提供了有力支持。化工物流行业的发展将呈现以下特点,一是化学品运输行业的数字化发展,例如云计算、大数据等新技术的发展,带来了理念的创新,也加速将行业推向更有效地提供高安全标准、低成本、快效率的发展通道。二是受经济周期以及安全监管强化的影响,专业的第三方化工物流运营商将在未来起到越来越重要的角色,参与各大石化、炼化企业的全产业链的方方面面,不仅提供日常的配套服务,更作为上述企业的专业合作伙伴,建立长期发展共赢局面。三是环保法规的不断完善,也推动了化工物流行业节能减排工作更大的进步。46/272（二）公司发展战略公司将继续坚持内增式成长与外延式发展并重的发展方向,一方面坚定不移地做强做大现有能源化工产业,秉承“日进一寸、精益致远”的企业精神,践行“以人为本、科学管理”的企业文化,通过不懈追求科学高效的运营管理和员工综合素质的持续提升等途径,进一步巩固和扩大现有产业链条的综合竞争优势,同时更加重视科学技术的创新和科学管理的应用,坚持技术自主创新,不断提高科学管理能力,以奠定公司未来可持续发展的坚实基础；另一方面充分依托现有产业链条积累的管理、技术和人才优势,通过战略投资、战略并购进入前景光明的战略新兴产业,真正成为一家具有创新精神的科技驱动型现代企业集团。（三）经营计划为进一步提升经营管理水平,围绕公司战略目标,2024年公司将重点做好以下工作：1、依托“数字化、智能化”推动公司管理提升2024年,公司将“数字化、智能化”作为构筑新优势的重要战略举措,加快数字化、智能化的课题研究,加大技术攻关力度,把“数字化、智能化”融入到公司生产、经营、管理的方方面面,推动管理变革与提升。2、强化经营,勇于创新,持续提升公司盈利能力一是从思想上强化经营意识,提升全员经营分析能力,建立数据分析和决策支持体系,通过数据挖掘和分析,发现经营过程中的不足,制定相应的整改措施,跟踪落实整改效果。二是推动产业链各环节开展创新、降本、增效工作。销售方面,以效益最大化为中心,开拓市场,优化区域布局,引入优质客户长期合作,提升销售价格。采购方面,加强供应商管理,优化采购渠道与模式,引导供应商积极参与竞标,形成充分竞争,降低采购成本。生产管理方面,通过分析生产过程中的瓶颈和问题,进行工艺改进和设备更新,减少生产中的浪费和损耗,提高生产效率和产品质量。此外,还要推进助剂配方优化、原材料替代、原料经济性掺配、产品结构灵活性调整等举措提升企业效益。三是以市场为导向,发挥产业链联动优势,协同生产单位及其他相关部门建立跨企业、跨部门的沟通协作机制,共同从产业链角度思考、处理问题。采购、销售两端及时反馈市场信息,经营部门快速准确测算,生产单位及时响应调整,职能部室给予充分支持,促进产业链综合效益提升。四是建立创新增效机制,配套相应的绩效评价管理办法,调动全体员工创新积极性,鼓励员工敢于尝试,乐于创新,形成全员参与创新的氛围,促进生产经营不断改善、提升,进而提高企业经济效益。3、优化人才结构,强化人才管理47/272人才是企业发展的核心竞争力。公司广开人才引进渠道,通过多种渠道招募吸纳各类高、精、专人才,设立职业发展晋升通道并提供良好的培训和发展机会。同时,公司将进一步完善人才培养机制,通过制定有效的关键岗位继任者和后备人才甄选、岗位轮换、在职培训以及挂职锻炼等人才培养机制,合理挖掘、储备人才队伍,建立人才发展梯队。此外,在人才培养过程中,时刻关注人才成长的情况,做好过程的引导、监督、考察等动态管理,使人才各得其所、各尽其才、才尽其用,为公司高质量发展提供人才保障。4、抓好项目建设,力争新项目尽快达标投产持续在安全管理、人力资源、资金、技术及运营管理等方面给予大力支持,加快新项目的建设与投产进程；推进新项目从投入试生产到快速达标达产,尽快实现“安稳长满优”的目标。与此同时,逐步开展成本核算和经营分析,在稳产的基础上加强成本费用管控,快速提升经济性。5、强化本质安全,巩固安全根基安全、环保既是红线,也是底线。要持续深化安全管理体系建设、推进风险隐患排查整治、压实各级安全主体责任,特别是目前新员工不断增加、新建项目陆续投产,进一步强化员工安全教育培训,加大各类安全检查力度,落实整改效果,将安全管理工作摆在更加突出的位置抓实、抓牢,确保公司安全环保工作长治久安。"
+    }
+  ]
+}

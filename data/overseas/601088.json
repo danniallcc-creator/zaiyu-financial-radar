@@ -1,0 +1,817 @@
+{
+  "code": "601088",
+  "name": "中国神华",
+  "fetchTime": "2026-06-18T18:35:41",
+  "segments": [
+    {
+      "reportDate": "2025-12-31",
+      "byIndustry": [
+        {
+          "name": "煤炭收入",
+          "income": 178342000000.0,
+          "incomeRatio": 60.47,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "发电收入",
+          "income": 82708000000.0,
+          "incomeRatio": 28.04,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "运输收入",
+          "income": 15102000000.0,
+          "incomeRatio": 5.12,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "其他(补充)",
+          "income": 13677000000.0,
+          "incomeRatio": 4.64,
+          "cost": 7155000000.0,
+          "costRatio": 3.74,
+          "profit": 6522000000.0,
+          "profitRatio": 6.3,
+          "grossMargin": 47.69,
+          "rank": 4
+        },
+        {
+          "name": "煤化工收入",
+          "income": 5087000000.0,
+          "incomeRatio": 1.72,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "煤炭收入",
+          "income": 178342000000.0,
+          "incomeRatio": 60.47,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "发电收入",
+          "income": 82708000000.0,
+          "incomeRatio": 28.04,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "运输收入",
+          "income": 15102000000.0,
+          "incomeRatio": 5.12,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "其他(补充)",
+          "income": 13677000000.0,
+          "incomeRatio": 4.64,
+          "cost": 7155000000.0,
+          "costRatio": 3.74,
+          "profit": 6522000000.0,
+          "profitRatio": 6.3,
+          "grossMargin": 47.69,
+          "rank": 4
+        },
+        {
+          "name": "煤化工收入",
+          "income": 5087000000.0,
+          "incomeRatio": 1.72,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "境内",
+          "income": 286561000000.0,
+          "incomeRatio": 97.17,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "境外",
+          "income": 8355000000.0,
+          "incomeRatio": 2.83,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "reportDate": "2024-12-31",
+      "byIndustry": [
+        {
+          "name": "煤炭",
+          "income": 268618000000.0,
+          "incomeRatio": 79.38,
+          "cost": 188066000000.0,
+          "costRatio": 84.26,
+          "profit": 80552000000.0,
+          "profitRatio": 69.93,
+          "grossMargin": 29.99,
+          "rank": 1
+        },
+        {
+          "name": "发电",
+          "income": 94217000000.0,
+          "incomeRatio": 27.84,
+          "cost": 78832000000.0,
+          "costRatio": 35.32,
+          "profit": 15385000000.0,
+          "profitRatio": 13.36,
+          "grossMargin": 16.33,
+          "rank": 2
+        },
+        {
+          "name": "铁路",
+          "income": 43115000000.0,
+          "incomeRatio": 12.74,
+          "cost": 26819000000.0,
+          "costRatio": 12.02,
+          "profit": 16296000000.0,
+          "profitRatio": 14.15,
+          "grossMargin": 37.8,
+          "rank": 3
+        },
+        {
+          "name": "港口",
+          "income": 6842000000.0,
+          "incomeRatio": 2.02,
+          "cost": 4058000000.0,
+          "costRatio": 1.82,
+          "profit": 2784000000.0,
+          "profitRatio": 2.42,
+          "grossMargin": 40.69,
+          "rank": 4
+        },
+        {
+          "name": "煤化工",
+          "income": 5633000000.0,
+          "incomeRatio": 1.66,
+          "cost": 5305000000.0,
+          "costRatio": 2.38,
+          "profit": 328000000.0,
+          "profitRatio": 0.28,
+          "grossMargin": 5.82,
+          "rank": 5
+        },
+        {
+          "name": "航运",
+          "income": 4996000000.0,
+          "incomeRatio": 1.48,
+          "cost": 4457000000.0,
+          "costRatio": 2.0,
+          "profit": 539000000.0,
+          "profitRatio": 0.47,
+          "grossMargin": 10.79,
+          "rank": 6
+        },
+        {
+          "name": "未分配项目",
+          "income": 894000000.0,
+          "incomeRatio": 0.26,
+          "cost": 0.0,
+          "costRatio": null,
+          "profit": 894000000.0,
+          "profitRatio": 0.78,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "分部抵销",
+          "income": -85940000000.0,
+          "incomeRatio": -25.4,
+          "cost": -84345000000.0,
+          "costRatio": -37.79,
+          "profit": -1595000000.0,
+          "profitRatio": -1.38,
+          "grossMargin": null,
+          "rank": 8
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "煤炭收入",
+          "income": 218462000000.0,
+          "incomeRatio": 64.56,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "发电收入",
+          "income": 87830000000.0,
+          "incomeRatio": 25.96,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 13926000000.0,
+          "incomeRatio": 4.12,
+          "cost": 9432000000.0,
+          "costRatio": 4.23,
+          "profit": 4494000000.0,
+          "profitRatio": 3.9,
+          "grossMargin": 32.27,
+          "rank": 3
+        },
+        {
+          "name": "运输收入",
+          "income": 13096000000.0,
+          "incomeRatio": 3.87,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "煤化工收入",
+          "income": 5061000000.0,
+          "incomeRatio": 1.5,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "来源于境内市场的对外交易收入",
+          "income": 325332000000.0,
+          "incomeRatio": 96.15,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "来源于境外市场的对外交易收入",
+          "income": 13043000000.0,
+          "incomeRatio": 3.85,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "reportDate": "2023-12-31",
+      "byIndustry": [
+        {
+          "name": "煤炭",
+          "income": 273306000000.0,
+          "incomeRatio": 79.66,
+          "cost": 185752000000.0,
+          "costRatio": 84.46,
+          "profit": 87554000000.0,
+          "profitRatio": 71.09,
+          "grossMargin": 32.04,
+          "rank": 1
+        },
+        {
+          "name": "发电",
+          "income": 92407000000.0,
+          "incomeRatio": 26.93,
+          "cost": 76785000000.0,
+          "costRatio": 34.91,
+          "profit": 15622000000.0,
+          "profitRatio": 12.69,
+          "grossMargin": 16.91,
+          "rank": 2
+        },
+        {
+          "name": "铁路",
+          "income": 42961000000.0,
+          "incomeRatio": 12.52,
+          "cost": 27059000000.0,
+          "costRatio": 12.3,
+          "profit": 15902000000.0,
+          "profitRatio": 12.91,
+          "grossMargin": 37.02,
+          "rank": 3
+        },
+        {
+          "name": "港口",
+          "income": 6749000000.0,
+          "incomeRatio": 1.97,
+          "cost": 3754000000.0,
+          "costRatio": 1.71,
+          "profit": 2995000000.0,
+          "profitRatio": 2.43,
+          "grossMargin": 44.38,
+          "rank": 4
+        },
+        {
+          "name": "煤化工",
+          "income": 6098000000.0,
+          "incomeRatio": 1.78,
+          "cost": 5412000000.0,
+          "costRatio": 2.46,
+          "profit": 686000000.0,
+          "profitRatio": 0.56,
+          "grossMargin": 11.25,
+          "rank": 5
+        },
+        {
+          "name": "航运",
+          "income": 4836000000.0,
+          "incomeRatio": 1.41,
+          "cost": 4594000000.0,
+          "costRatio": 2.09,
+          "profit": 242000000.0,
+          "profitRatio": 0.2,
+          "grossMargin": 5.0,
+          "rank": 6
+        },
+        {
+          "name": "未分配项目",
+          "income": 548000000.0,
+          "incomeRatio": 0.16,
+          "cost": 0.0,
+          "costRatio": null,
+          "profit": 548000000.0,
+          "profitRatio": 0.45,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "分部抵销",
+          "income": -83831000000.0,
+          "incomeRatio": -24.44,
+          "cost": -83434000000.0,
+          "costRatio": -37.94,
+          "profit": -397000000.0,
+          "profitRatio": -0.32,
+          "grossMargin": null,
+          "rank": 8
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "煤炭收入",
+          "income": 221448000000.0,
+          "incomeRatio": 64.55,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "发电收入",
+          "income": 85418000000.0,
+          "incomeRatio": 24.9,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 16248000000.0,
+          "incomeRatio": 4.74,
+          "cost": 9016000000.0,
+          "costRatio": 4.1,
+          "profit": 7232000000.0,
+          "profitRatio": 5.87,
+          "grossMargin": 44.51,
+          "rank": 3
+        },
+        {
+          "name": "运输收入",
+          "income": 14465000000.0,
+          "incomeRatio": 4.22,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "煤化工收入",
+          "income": 5495000000.0,
+          "incomeRatio": 1.6,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "来源于境内市场的对外交易收入",
+          "income": 330746000000.0,
+          "incomeRatio": 96.41,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "来源于境外市场的对外交易收入",
+          "income": 12328000000.0,
+          "incomeRatio": 3.59,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "reportDate": "2022-12-31",
+      "byIndustry": [
+        {
+          "name": "煤炭",
+          "income": 277474000000.0,
+          "incomeRatio": 65.59,
+          "cost": 177821000000.0,
+          "costRatio": 84.65,
+          "profit": 99653000000.0,
+          "profitRatio": 74.11,
+          "grossMargin": 35.91,
+          "rank": 1
+        },
+        {
+          "name": "发电",
+          "income": 84525000000.0,
+          "incomeRatio": 19.98,
+          "cost": 72432000000.0,
+          "costRatio": 34.48,
+          "profit": 12093000000.0,
+          "profitRatio": 8.99,
+          "grossMargin": 14.31,
+          "rank": 2
+        },
+        {
+          "name": "铁路",
+          "income": 42197000000.0,
+          "incomeRatio": 9.97,
+          "cost": 24710000000.0,
+          "costRatio": 11.76,
+          "profit": 17487000000.0,
+          "profitRatio": 13.0,
+          "grossMargin": 41.44,
+          "rank": 3
+        },
+        {
+          "name": "港口",
+          "income": 6441000000.0,
+          "incomeRatio": 1.52,
+          "cost": 3481000000.0,
+          "costRatio": 1.66,
+          "profit": 2960000000.0,
+          "profitRatio": 2.2,
+          "grossMargin": 45.96,
+          "rank": 4
+        },
+        {
+          "name": "煤化工",
+          "income": 6379000000.0,
+          "incomeRatio": 1.51,
+          "cost": 5363000000.0,
+          "costRatio": 2.55,
+          "profit": 1016000000.0,
+          "profitRatio": 0.76,
+          "grossMargin": 15.93,
+          "rank": 5
+        },
+        {
+          "name": "航运",
+          "income": 6051000000.0,
+          "incomeRatio": 1.43,
+          "cost": 5203000000.0,
+          "costRatio": 2.48,
+          "profit": 848000000.0,
+          "profitRatio": 0.63,
+          "grossMargin": 14.01,
+          "rank": 6
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "煤炭收入",
+          "income": 230050000000.0,
+          "incomeRatio": 66.77,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "发电收入",
+          "income": 77767000000.0,
+          "incomeRatio": 22.57,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 15555000000.0,
+          "incomeRatio": 4.51,
+          "cost": 10014000000.0,
+          "costRatio": 4.77,
+          "profit": 5541000000.0,
+          "profitRatio": 4.12,
+          "grossMargin": 35.62,
+          "rank": 3
+        },
+        {
+          "name": "运输收入",
+          "income": 15384000000.0,
+          "incomeRatio": 4.47,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "煤化工收入",
+          "income": 5777000000.0,
+          "incomeRatio": 1.68,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "来源于境内市场的对外交易收入",
+          "income": 332253000000.0,
+          "incomeRatio": 96.44,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "来源于境外市场的对外交易收入",
+          "income": 12280000000.0,
+          "incomeRatio": 3.56,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "reportDate": "2021-12-31",
+      "byIndustry": [
+        {
+          "name": "煤炭",
+          "income": 292661000000.0,
+          "incomeRatio": 70.36,
+          "cost": 212019000000.0,
+          "costRatio": 94.46,
+          "profit": 80642000000.0,
+          "profitRatio": 72.81,
+          "grossMargin": 27.55,
+          "rank": 1
+        },
+        {
+          "name": "发电",
+          "income": 64124000000.0,
+          "incomeRatio": 15.42,
+          "cost": 59173000000.0,
+          "costRatio": 26.36,
+          "profit": 4951000000.0,
+          "profitRatio": 4.47,
+          "grossMargin": 7.72,
+          "rank": 2
+        },
+        {
+          "name": "铁路",
+          "income": 40699000000.0,
+          "incomeRatio": 9.78,
+          "cost": 21546000000.0,
+          "costRatio": 9.6,
+          "profit": 19153000000.0,
+          "profitRatio": 17.29,
+          "grossMargin": 47.06,
+          "rank": 3
+        },
+        {
+          "name": "港口",
+          "income": 6440000000.0,
+          "incomeRatio": 1.55,
+          "cost": 3241000000.0,
+          "costRatio": 1.44,
+          "profit": 3199000000.0,
+          "profitRatio": 2.89,
+          "grossMargin": 49.67,
+          "rank": 4
+        },
+        {
+          "name": "航运",
+          "income": 6195000000.0,
+          "incomeRatio": 1.49,
+          "cost": 5006000000.0,
+          "costRatio": 2.23,
+          "profit": 1189000000.0,
+          "profitRatio": 1.07,
+          "grossMargin": 19.19,
+          "rank": 5
+        },
+        {
+          "name": "煤化工",
+          "income": 5851000000.0,
+          "incomeRatio": 1.41,
+          "cost": 4633000000.0,
+          "costRatio": 2.06,
+          "profit": 1218000000.0,
+          "profitRatio": 1.1,
+          "grossMargin": 20.82,
+          "rank": 6
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "煤炭收入",
+          "income": 249569000000.0,
+          "incomeRatio": 74.45,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "发电收入",
+          "income": 56599000000.0,
+          "incomeRatio": 16.88,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 15949000000.0,
+          "incomeRatio": 4.76,
+          "cost": 6166000000.0,
+          "costRatio": 2.75,
+          "profit": 9783000000.0,
+          "profitRatio": 8.83,
+          "grossMargin": 61.34,
+          "rank": 3
+        },
+        {
+          "name": "运输收入",
+          "income": 7822000000.0,
+          "incomeRatio": 2.33,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "煤化工收入",
+          "income": 5277000000.0,
+          "incomeRatio": 1.57,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "来源于境内市场的对外交易收入",
+          "income": 324488000000.0,
+          "incomeRatio": 96.8,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "来源于境外市场的对外交易收入",
+          "income": 10728000000.0,
+          "incomeRatio": 3.2,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        }
+      ]
+    }
+  ],
+  "analysis": [
+    {
+      "reportDate": "2025-12-31",
+      "businessReview": "2025年,本集团深入践行能源安全新战略,持续巩固一体化运营核心优势,保障能源安全稳定供应;深化提质增效,全力拓市增收,加强成本管控,推行全员、全过程、全要素精益管理,不断提高发展质效。受市场供需形势和价格变化等因素影响,本集团煤炭销售量、营业收入等部分指标低于年度经营目标。2025年,本集团实现营业利润75,532百万元(2024年:87,082百万元,已重述),同比下降13.3%;归属于本公司股东的净利润52,849百万元(2024年:55,805百万元,已重述),基本每股收益2.660元/股(2024年:2.809元/股,已重述),同比下降5.3%。",
+      "futureExpect": "(一)行业格局和趋势2026年,我国经济工作将以习近平新时代中国特色社会主义思想为指导,深入贯彻党的二十大和二十届历次全会精神,完整准确全面贯彻新发展理念,加快构建新发展格局,着力推动高质量发展,坚持稳中求进工作总基调,更好统筹国内经济工作和国际经贸斗争,更好统筹发展和安全,实施更加积极有为的宏观政策,增强政策前瞻性针对性协同性,持续扩大内需、优化供给,做优增量、盘活存量,因地制宜发展新质生产力,纵深推进全国统一大市场建设,持续防范化解重点领域风险,着力稳就业、稳企业、稳市场、稳预期,推动经济实现质的有效提升和量的合理增长,保持社会和谐稳定,实现“十五五”良好开局。煤炭行业来看,预计我国煤炭需求将总体保持平稳,预计电力和炼焦用煤基本保持稳定,化工用煤等仍有增长空间。煤炭产量预计总体保持稳定,保供应和产能核查等政策共同引导煤炭有序供应。进口煤量维持平稳或小幅减少。总体来看,2026年煤炭市场供需基本平衡,煤炭市场价格在合理区间震荡运行。受季节性波动、突发事件、极端天气等因素影响,局部地区、部分时段可能出现供应偏紧的局面。电力行业来看,我国宏观经济保持增长将拉动电力消费需求平稳较快增长。依据中国电力企业联合会测算,预计2026年全国全社会用电量同比增长5%-6%。新能源继续保持较大投产规模,新增发电装机有望超过3亿千瓦。全国电力供需总体平衡,局地高峰时段电力供需偏紧,供应不足部分可以通过跨省跨区余缺互济后基本消除。(二)公司发展战略2025年是“十四五”规划决胜收官之年,也是擘画“十五五”发展蓝图的关键之年。能源行业深入贯彻落实党中央、国务院决策部署,坚持统筹发展和安全,实现能源安全保障能力与绿色低碳转型水平同步跃升,为经济持续健康发展和社会民生改善提供了更加有力的支撑。当前,能源供应体系更趋完善,煤炭的兜底保障作用进一步夯实,煤电在新型电力系统中的基础性支撑和灵活性调节功能持续增强,可再生能源规模化发展迈上新台阶,能源结构优化取得新突破。一年来,本集团坚决贯彻落实党中央决策部署,牢牢把握高质量发展首要任务,锚定可持续增长目标,以“旗帜领航、干在实处、走在前列”的奋斗姿态,攻坚克难、砥砺奋进,圆满完成全年各项目标任务,为迈向“十五五”新征程奠定了坚实基础。2026年,本集团将坚持以习近平新时代中国特色社会主义思想为指导,全面贯彻党的二十大和二十届历次全会精神,深入落实“四个革命、一个合作”能源安全新战略和碳达峰碳中和目标要求,认真践行本集团总体发展战略,锚定建设创新型世界一流能源上市公司的目标,全力推进五方面重点工作:坚持强基固本,继续巩固强化煤电运化一体化运营优势;加快扩绿降碳,推动现有产业板块加速转型升级;坚持创新引领,加快科技创新培育和发展新质生产力;强化资本运作,进一步发挥上市公司投融资平台作用;推动治理提升,对标世界一流不断强化价值创造能力,全过程发挥党建示范引领保障作用。加快“大而全”向“强而优”转型、传统能源向绿色低碳转型、管理模式向市场化经营转型,打好价值创造、科技创新、安全环保、深化改革、党建提质“五大攻坚战”,全面构建“创新引领、以煤为基、以电为本、油化互补、物流协同、绿色低碳、数智赋能”的产业链体系,实现本集团高质量发展。"
+    },
+    {
+      "reportDate": "2024-12-31",
+      "businessReview": "2024年,本集团深入践行能源安全新战略,保持煤炭稳产高产,畅通路港航运输大通道,实现一体化平稳高效运营,煤炭产销量、发电量等指标达成年度目标。受煤炭销售价格、售电价格下行等因素影响,本集团经营业绩同比略有下降。2024年,本集团实现营业利润88,362百万元(2023年:91,367百万元),同比下降3.3%;归属于本公司股东的净利润58,671百万元(2023年:59,694百万元),基本每股收益2.953元/股(2023年:3.004元/股),同比下降1.7%。",
+      "futureExpect": "(一)行业格局和趋势2025年,我国经济工作将坚持稳中求进工作总基调,完整准确全面贯彻新发展理念,加快构建新发展格局,扎实推动高质量发展,进一步深化改革开放,实施更加积极有为的宏观政策,扩大国内需求,推动科技创新和产业创新融合发展,稳定预期、激发活力,推动经济持续回升向好,不断提高人民生活水平,保持社会和谐稳定,高质量完成“十四五”规划目标任务,为实现“十五五”良好开局打牢基础。煤炭行业来看,我国经济增长将持续拉动能源需求,煤炭作为全球最重要的能源来源之一,尽管面临着可再生能源、低碳发展和环保要求的多重挑战,在可预见的未来市场中依旧扮演着关键角色。预计电力和化工用煤是煤炭消费的主要增量来源。煤炭产量预计总体保持稳定。进口煤价格优势缩小,进口煤量或小幅减少。总体来看,2025年煤炭市场供需向平衡偏宽松方向发展,市场煤占比增加,煤炭市场价格中枢或小幅下降,稳定在合理区间。受季节性波动、突发事件等因素影响,局部地区、部分时段可能出现供应偏紧的局面。电力行业来看,综合考虑我国目前阶段经济增长潜力、“十四五”规划和国家宏观调控政策措施等因素,根据中国电力企业联合会预测结果,预计2025年全国全社会用电量同比增长6%左右。新能源装机持续增长,部分地区新能源消纳压力凸显。预计2025年底煤电占总装机比重将降至三分之一。综合考虑电力消费需求增长、电源投产等情况,预计2025年迎峰度夏等用电高峰期部分地区电力供需形势紧平衡。(二)公司发展战略2024年,能源行业按照党中央、国务院部署,统筹发展和安全,推动能源高质量发展,实现能源安全保供和清洁转型双提升、双平稳,为推动经济高质量发展和满足人民美好生活需要提供了坚实保障。当前,能源保供已转入常态化,煤炭兜底保供以及煤电在构建新型电力系统中的基础保障和系统调节作用日益明显。2025年,本集团将坚持以习近平新时代中国特色社会主义思想为引领,全面贯彻党的二十大和二十届二中、三中全会精神,深入落实“四个革命、一个合作”能源安全新战略和碳达峰碳中和目标要求,认真践行“一个目标、三个作用、六个担当”总体发展战略,持续巩固一体化运营核心优势,保障能源安全稳定供应。加大煤炭资源获取力度,加快煤炭清洁高效开发利用,提升能源利用综合效能。建设清洁高效火电机组,推动煤电低碳化改造。优化运输网络布局,推动专用线、联络线接轨进度,创新发展大物流业务,打造多功能、综合性、现代化能源运输大通道。发展煤基新材料等高附加值产品,推动煤化工高端化多元化低碳化发展。发挥上市公司平台和资金优势,落实市值管理和考核要求,加强同地方政府企业合作,推动风电、光伏等可再生能源稳定可持续增长,布局储能、氢能、生物质能等战略性新兴产业,培育未来产业,加快形成新质生产力,为公司可持续健康发展奠定坚实基础。(三)2025年度经营计划2024年,本集团资本开支总额为330.19亿元(不含矿业权支出),主要用于新街台格庙矿区基建工程、煤矿设备购置及技术改造,江西九江电厂二期、广东清远二期等发电项目建设,铁路线扩能改造、铁路机车购置,黄骅港(煤炭港区)油品码头工程、珠海港高栏港区国能散货码头工程等建设,煤制烯烃升级示范项目建设等。2024年,本集团矿业权相关资本开支35.2亿元,主要用于获取新街台格庙矿区新街一井、二井采矿权,以及支付神东矿区寸草塔煤矿深部资源采矿权首付款等。本公司董事会批准的2025年资本开支计划总额为417.93亿元(不含矿业权支出)。其中:(1)煤炭分部资本开支中,用于新建及改扩建项目(含基建相关的设备采购)的支出为30.93亿元,用于设备购置的支出为32.43亿元,其他支出33.45亿元。主要投资项目包括:新街台格庙矿区新街一井、二井建设,杭锦能源塔然高勒矿井建设,绿色智能矿山建设等。(2)发电分部资本开支中,用于新建项目(含相关设备采购)的支出为119.39亿元,用于环保类技术改造的支出为5.52亿元,用于非环保类技术改造的支出为23.11亿元,其他支出1.70亿元。主要投资项目包括:江西九江电厂二期、广东清远电厂二期、广西北海电厂二期等在建火电项目。新能源业务资本开支24.39亿元,主要用于江西、陕西等地的光伏发电项目建设等。(3)铁路分部资本开支,主要用于东月铁路等煤炭外运专线建设、铁路机车购置、铁路扩能改造项目等。(4)港口业务资本开支,主要用于黄骅港(煤炭港区)五期工程、黄骅港(煤炭港区)油品码头工程、珠海港高栏港区国能散货码头工程建设等。(5)煤化工分部资本开支,主要用于煤制烯烃升级示范项目等。(6)其他资本开支,主要用于信息化项目建设等。"
+    },
+    {
+      "reportDate": "2023-12-31",
+      "businessReview": "2023年,本集团积极落实国家能源保供稳价政策,践行“能源供应压舱石、能源革命排头兵”的公司使命,一体化运营安全高效,能源保供坚实有力,聚焦煤炭清洁高效利用,推动战略性新兴产业发展,高效完成年度经营目标。受煤炭销售价格下行等因素影响,本年经营业绩同比有所下降。2023年,本集团实现营业利润91,367百万元(2022年:98,138百万元),同比下降6.9%;归属于本公司股东的净利润59,694百万元(2022年:69,648百万元,已重述),同比下降14.3%;基本每股收益3.004元/股(2022年:3.505元/股,已重述),同比下降14.3%。",
+      "futureExpect": "(一)行业格局和趋势2024年,我国发展面临的有利条件强于不利因素,经济回升向好、长期向好的基本趋势没有改变。经济工作将坚持稳中求进、以进促稳、先立后破,强化宏观政策逆周期和跨周期调节,继续实施积极的财政政策和稳健的货币政策,积极实施稳预期、稳增长、稳就业政策,发展壮大战略性新兴产业,加快发展新质生产力,在转方式、调结构、提质量、增效益上积极进取,不断推动中国经济行稳致远。预计2024年中国经济将持续回升向好,GDP增速5%左右。煤炭行业来看,我国经济持续回升将拉动能源需求增长。煤炭新增产能释放,安全生产监管力度加强,煤炭产量将总体保持稳定。煤炭进口量预计仍将保持高位。总体来看,2024年煤炭市场供需向平衡偏宽松方向发展,煤炭价格中枢或将稳定在合理区间。受季节性波动、突发事件等因素影响,局部地区、部分时段可能出现供应偏紧的局面。电力行业来看,综合考虑宏观经济、终端用能电气化等因素,中国电力企业联合会预测,预计2024年全年全社会用电量同比增长6%左右,全国新增发电装机规模与2023年基本相当。综合考虑电力消费需求增长、电源投产等情况,预计2024年全国电力供需形势总体紧平衡,部分区域用电高峰时段电力供需偏紧。(二)公司发展战略2023年是全面贯彻党的二十大精神的开局之年,能源行业按照党中央、国务院部署,统筹发展和安全,推动能源高质量发展,实现能源安全保供和清洁转型双提升、双平稳,为推动经济高质量发展和满足人民美好生活需要提供了坚实保障。当前,能源保供已转入常态化,煤炭兜底保供以及煤电在构建新型电力系统中的基础保障和系统调节作用日益明显。2024年,本集团将坚持以习近平新时代中国特色社会主义思想为引领,全面贯彻党的二十大精神,深入落实“四个革命、一个合作”能源安全新战略和碳达峰碳中和目标要求,认真践行“一个目标、三个作用、六个担当”总体发展战略,坚持以“稳中求进、以进促稳、先立后破”为工作导向,围绕增强核心功能、提升核心竞争力,聚力安全发展、创新发展、绿色发展、协同发展、价值发展和党建引领,全面建设世界一流清洁低碳能源科技领军企业和一流综合能源上市公司,走稳高质量发展之路,持续稳定回报投资者,更好发挥科技创新、产业控制、安全支撑作用,为以中国式现代化全面推进强国建设、民族复兴伟业贡献中国神华力量。“十四五”下半程,本集团将持续巩固一体化运营核心优势,保障能源安全稳定供应。加大煤炭资源获取力度,加快煤炭清洁高效开发利用,提升能源利用综合效能。建设清洁高效火电机组,加强综合能源项目开发。优化运输网络布局,推动专用线、联络线接轨进度,创新发展大物流业务,打造多功能、综合性、现代化能源运输大通道。发展煤基新材料等高附加值产品,推动煤化工高端化多元化低碳化发展。发挥上市公司平台和资金优势,落实市值管理和考核要求,加强同地方政府企业合作,推动风电、光伏等可再生能源稳定可持续增长,研究储能、氢能、生物质能等战略性新兴产业投资机会,培育未来产业,加快形成新质生产力,为公司可持续健康发展奠定坚实基础。(三)2024年度经营计划2023年,本集团资本开支总额为419.59亿元。主要用于矿业权获取、煤矿生产设备购置;湖南岳阳电厂、广东清远电厂一期等发电项目;铁路扩能改造工程建设、铁路电气化改造工程建设、机车购置;以及煤制烯烃升级示范项目等。本公司董事会批准2024年资本开支计划总额为368.04亿元(不含股权投资)。其中:(1)煤炭分部资本开支中,用于新建及改扩建项目(含基建相关的设备采购)的支出为21.50亿元,用于设备购置的支出为22.74亿元,其他支出53.92亿元。主要投资项目包括:煤矿采掘设备购置,新街台格庙矿区新街一井、二井建设等。(2)发电分部资本开支中,用于新建项目(含相关设备采购)的支出为101.59亿元,用于环保类技术改造的支出为6.55亿元,用于非环保类技术改造的支出为18.21亿元,其他支出2.36亿元。主要投资项目包括:江西九江电厂二期扩建工程、广东清远电厂二期扩建工程、广西北海电厂二期扩建工程等。新能源业务资本开支43.07亿元,主要用于广东、江西等地的光伏发电项目建设等。(3)铁路分部资本开支,主要用于东月铁路等煤炭外运专线建设、铁路机车购置、铁路扩能改造项目等。(4)港口业务资本开支,主要用于黄骅港(煤炭港区)五期工程、黄骅港(煤炭港区)油品码头工程、珠海港高栏港区国能散货码头工程建设等。(5)煤化工分部资本开支,主要用于煤制烯烃升级示范项目等。"
+    }
+  ]
+}

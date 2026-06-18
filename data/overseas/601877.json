@@ -1,0 +1,1455 @@
+{
+  "code": "601877",
+  "name": "正泰电器",
+  "fetchTime": "2026-06-18T18:36:38",
+  "segments": [
+    {
+      "reportDate": "2025-12-31",
+      "byIndustry": [
+        {
+          "name": "光伏业务",
+          "income": 36274454800.0,
+          "incomeRatio": 61.33,
+          "cost": 27462957300.0,
+          "costRatio": 62.75,
+          "profit": 8811497500.0,
+          "profitRatio": 57.3,
+          "grossMargin": 24.29,
+          "rank": 1
+        },
+        {
+          "name": "低压电器",
+          "income": 21918678100.0,
+          "incomeRatio": 37.06,
+          "cost": 15646528400.0,
+          "costRatio": 35.75,
+          "profit": 6272149700.0,
+          "profitRatio": 40.78,
+          "grossMargin": 28.62,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 951715100.0,
+          "incomeRatio": 1.61,
+          "cost": 656412817.3,
+          "costRatio": 1.5,
+          "profit": 295302282.7,
+          "profitRatio": 1.92,
+          "grossMargin": 31.03,
+          "rank": 3
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "光伏电站工程承包",
+          "income": 20031252300.0,
+          "incomeRatio": 33.87,
+          "cost": 18412573100.0,
+          "costRatio": 42.07,
+          "profit": 1618679200.0,
+          "profitRatio": 10.53,
+          "grossMargin": 8.08,
+          "rank": 1
+        },
+        {
+          "name": "电站运营",
+          "income": 11035941700.0,
+          "incomeRatio": 18.66,
+          "cost": 5183021000.0,
+          "costRatio": 11.84,
+          "profit": 5852920700.0,
+          "profitRatio": 38.06,
+          "grossMargin": 53.04,
+          "rank": 2
+        },
+        {
+          "name": "终端电器",
+          "income": 7223394500.0,
+          "incomeRatio": 12.21,
+          "cost": 4958960400.0,
+          "costRatio": 11.33,
+          "profit": 2264434100.0,
+          "profitRatio": 14.72,
+          "grossMargin": 31.35,
+          "rank": 3
+        },
+        {
+          "name": "配电电器",
+          "income": 5928100500.0,
+          "incomeRatio": 10.02,
+          "cost": 4133161500.0,
+          "costRatio": 9.44,
+          "profit": 1794939000.0,
+          "profitRatio": 11.67,
+          "grossMargin": 30.28,
+          "rank": 4
+        },
+        {
+          "name": "控制电器",
+          "income": 3800122300.0,
+          "incomeRatio": 6.43,
+          "cost": 3093654700.0,
+          "costRatio": 7.07,
+          "profit": 706467600.0,
+          "profitRatio": 4.59,
+          "grossMargin": 18.59,
+          "rank": 5
+        },
+        {
+          "name": "逆变器及储能",
+          "income": 2390074600.0,
+          "incomeRatio": 4.04,
+          "cost": 1588288900.0,
+          "costRatio": 3.63,
+          "profit": 801785700.0,
+          "profitRatio": 5.21,
+          "grossMargin": 33.55,
+          "rank": 6
+        },
+        {
+          "name": "仪器仪表",
+          "income": 2053974000.0,
+          "incomeRatio": 3.47,
+          "cost": 1186788800.0,
+          "costRatio": 2.71,
+          "profit": 867185200.0,
+          "profitRatio": 5.64,
+          "grossMargin": 42.22,
+          "rank": 7
+        },
+        {
+          "name": "建筑电器",
+          "income": 1741415400.0,
+          "incomeRatio": 2.94,
+          "cost": 1442682400.0,
+          "costRatio": 3.3,
+          "profit": 298733000.0,
+          "profitRatio": 1.94,
+          "grossMargin": 17.15,
+          "rank": 8
+        },
+        {
+          "name": "其他",
+          "income": 1448215900.0,
+          "incomeRatio": 2.45,
+          "cost": 1288022100.0,
+          "costRatio": 2.94,
+          "profit": 160193800.0,
+          "profitRatio": 1.04,
+          "grossMargin": 11.06,
+          "rank": 9
+        },
+        {
+          "name": "金属制品业",
+          "income": 1368970200.0,
+          "incomeRatio": 2.31,
+          "cost": 991052200.0,
+          "costRatio": 2.26,
+          "profit": 377918000.0,
+          "profitRatio": 2.46,
+          "grossMargin": 27.61,
+          "rank": 10
+        },
+        {
+          "name": "其他(补充)",
+          "income": 951715080.95,
+          "incomeRatio": 1.61,
+          "cost": 656412817.3,
+          "costRatio": 1.5,
+          "profit": 295302263.65,
+          "profitRatio": 1.92,
+          "grossMargin": 31.03,
+          "rank": 11
+        },
+        {
+          "name": "电源电器",
+          "income": 660179800.0,
+          "incomeRatio": 1.12,
+          "cost": 470856200.0,
+          "costRatio": 1.08,
+          "profit": 189323600.0,
+          "profitRatio": 1.23,
+          "grossMargin": 28.68,
+          "rank": 12
+        },
+        {
+          "name": "控制系统",
+          "income": 274288700.0,
+          "incomeRatio": 0.46,
+          "cost": 192066100.0,
+          "costRatio": 0.44,
+          "profit": 82222600.0,
+          "profitRatio": 0.53,
+          "grossMargin": 29.98,
+          "rank": 13
+        },
+        {
+          "name": "电子电器",
+          "income": 237202900.0,
+          "incomeRatio": 0.4,
+          "cost": 168358400.0,
+          "costRatio": 0.38,
+          "profit": 68844500.0,
+          "profitRatio": 0.45,
+          "grossMargin": 29.02,
+          "rank": 14
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华东地区",
+          "income": 23568533700.0,
+          "incomeRatio": 39.85,
+          "cost": 18168932500.0,
+          "costRatio": 41.51,
+          "profit": 5399601200.0,
+          "profitRatio": 35.11,
+          "grossMargin": 22.91,
+          "rank": 1
+        },
+        {
+          "name": "华中地区",
+          "income": 10765389600.0,
+          "incomeRatio": 18.2,
+          "cost": 8326648400.0,
+          "costRatio": 19.03,
+          "profit": 2438741200.0,
+          "profitRatio": 15.86,
+          "grossMargin": 22.65,
+          "rank": 2
+        },
+        {
+          "name": "海外",
+          "income": 9950796400.0,
+          "incomeRatio": 16.82,
+          "cost": 6610196700.0,
+          "costRatio": 15.1,
+          "profit": 3340599700.0,
+          "profitRatio": 21.72,
+          "grossMargin": 33.57,
+          "rank": 3
+        },
+        {
+          "name": "华北地区",
+          "income": 4896235700.0,
+          "incomeRatio": 8.28,
+          "cost": 3261706100.0,
+          "costRatio": 7.45,
+          "profit": 1634529600.0,
+          "profitRatio": 10.63,
+          "grossMargin": 33.38,
+          "rank": 4
+        },
+        {
+          "name": "华南地区",
+          "income": 4334744800.0,
+          "incomeRatio": 7.33,
+          "cost": 3453931100.0,
+          "costRatio": 7.89,
+          "profit": 880813700.0,
+          "profitRatio": 5.73,
+          "grossMargin": 20.32,
+          "rank": 5
+        },
+        {
+          "name": "西北地区",
+          "income": 1766462800.0,
+          "incomeRatio": 2.99,
+          "cost": 1302015700.0,
+          "costRatio": 2.97,
+          "profit": 464447100.0,
+          "profitRatio": 3.02,
+          "grossMargin": 26.29,
+          "rank": 6
+        },
+        {
+          "name": "东北地区",
+          "income": 1759943300.0,
+          "incomeRatio": 2.98,
+          "cost": 1168033300.0,
+          "costRatio": 2.67,
+          "profit": 591910000.0,
+          "profitRatio": 3.85,
+          "grossMargin": 33.63,
+          "rank": 7
+        },
+        {
+          "name": "西南地区",
+          "income": 1151026500.0,
+          "incomeRatio": 1.95,
+          "cost": 818021800.0,
+          "costRatio": 1.87,
+          "profit": 333004700.0,
+          "profitRatio": 2.17,
+          "grossMargin": 28.93,
+          "rank": 8
+        },
+        {
+          "name": "其他(补充)",
+          "income": 951715080.95,
+          "incomeRatio": 1.61,
+          "cost": 656412817.3,
+          "costRatio": 1.5,
+          "profit": 295302263.65,
+          "profitRatio": 1.92,
+          "grossMargin": 31.03,
+          "rank": 9
+        }
+      ]
+    },
+    {
+      "reportDate": "2024-12-31",
+      "byIndustry": [
+        {
+          "name": "光伏业务",
+          "income": 42987901100.0,
+          "incomeRatio": 66.63,
+          "cost": 34277083000.0,
+          "costRatio": 69.45,
+          "profit": 8710818100.0,
+          "profitRatio": 57.44,
+          "grossMargin": 20.26,
+          "rank": 1
+        },
+        {
+          "name": "低压电器",
+          "income": 20921762700.0,
+          "incomeRatio": 32.43,
+          "cost": 14646955800.0,
+          "costRatio": 29.68,
+          "profit": 6274806900.0,
+          "profitRatio": 41.38,
+          "grossMargin": 29.99,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 609723100.0,
+          "incomeRatio": 0.95,
+          "cost": 431268301.61,
+          "costRatio": 0.87,
+          "profit": 178454798.39,
+          "profitRatio": 1.18,
+          "grossMargin": 29.27,
+          "rank": 3
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "光伏电站工程承包",
+          "income": 30837518700.0,
+          "incomeRatio": 47.8,
+          "cost": 27126332100.0,
+          "costRatio": 54.96,
+          "profit": 3711186600.0,
+          "profitRatio": 24.47,
+          "grossMargin": 12.03,
+          "rank": 1
+        },
+        {
+          "name": "电站运营",
+          "income": 7875625400.0,
+          "incomeRatio": 12.21,
+          "cost": 3895689100.0,
+          "costRatio": 7.89,
+          "profit": 3979936300.0,
+          "profitRatio": 26.25,
+          "grossMargin": 50.53,
+          "rank": 2
+        },
+        {
+          "name": "终端电器",
+          "income": 6851313000.0,
+          "incomeRatio": 10.62,
+          "cost": 4622119500.0,
+          "costRatio": 9.37,
+          "profit": 2229193500.0,
+          "profitRatio": 14.7,
+          "grossMargin": 32.54,
+          "rank": 3
+        },
+        {
+          "name": "配电电器",
+          "income": 5729669200.0,
+          "incomeRatio": 8.88,
+          "cost": 3951559400.0,
+          "costRatio": 8.01,
+          "profit": 1778109800.0,
+          "profitRatio": 11.73,
+          "grossMargin": 31.03,
+          "rank": 4
+        },
+        {
+          "name": "控制电器",
+          "income": 3552494500.0,
+          "incomeRatio": 5.51,
+          "cost": 2744026700.0,
+          "costRatio": 5.56,
+          "profit": 808467800.0,
+          "profitRatio": 5.33,
+          "grossMargin": 22.76,
+          "rank": 5
+        },
+        {
+          "name": "仪器仪表",
+          "income": 1975300600.0,
+          "incomeRatio": 3.06,
+          "cost": 1148893100.0,
+          "costRatio": 2.33,
+          "profit": 826407500.0,
+          "profitRatio": 5.45,
+          "grossMargin": 41.84,
+          "rank": 6
+        },
+        {
+          "name": "逆变器及储能",
+          "income": 1646274400.0,
+          "incomeRatio": 2.55,
+          "cost": 1088621400.0,
+          "costRatio": 2.21,
+          "profit": 557653000.0,
+          "profitRatio": 3.68,
+          "grossMargin": 33.87,
+          "rank": 7
+        },
+        {
+          "name": "建筑电器",
+          "income": 1590527700.0,
+          "incomeRatio": 2.47,
+          "cost": 1289846400.0,
+          "costRatio": 2.61,
+          "profit": 300681300.0,
+          "profitRatio": 1.98,
+          "grossMargin": 18.9,
+          "rank": 8
+        },
+        {
+          "name": "金属制品业",
+          "income": 1334143000.0,
+          "incomeRatio": 2.07,
+          "cost": 983124800.0,
+          "costRatio": 1.99,
+          "profit": 351018200.0,
+          "profitRatio": 2.31,
+          "grossMargin": 26.31,
+          "rank": 9
+        },
+        {
+          "name": "其他",
+          "income": 1294339600.0,
+          "incomeRatio": 2.01,
+          "cost": 1183315600.0,
+          "costRatio": 2.4,
+          "profit": 111024000.0,
+          "profitRatio": 0.73,
+          "grossMargin": 8.58,
+          "rank": 10
+        },
+        {
+          "name": "电源电器",
+          "income": 657156300.0,
+          "incomeRatio": 1.02,
+          "cost": 480203700.0,
+          "costRatio": 0.97,
+          "profit": 176952600.0,
+          "profitRatio": 1.17,
+          "grossMargin": 26.93,
+          "rank": 11
+        },
+        {
+          "name": "其他(补充)",
+          "income": 609723119.0,
+          "incomeRatio": 0.95,
+          "cost": 431268301.61,
+          "costRatio": 0.87,
+          "profit": 178454817.39,
+          "profitRatio": 1.18,
+          "grossMargin": 29.27,
+          "rank": 12
+        },
+        {
+          "name": "控制系统",
+          "income": 283286200.0,
+          "incomeRatio": 0.44,
+          "cost": 204942300.0,
+          "costRatio": 0.42,
+          "profit": 78343900.0,
+          "profitRatio": 0.52,
+          "grossMargin": 27.66,
+          "rank": 13
+        },
+        {
+          "name": "电子电器",
+          "income": 282015200.0,
+          "incomeRatio": 0.44,
+          "cost": 205364700.0,
+          "costRatio": 0.42,
+          "profit": 76650500.0,
+          "profitRatio": 0.51,
+          "grossMargin": 27.18,
+          "rank": 14
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华东地区",
+          "income": 28801943700.0,
+          "incomeRatio": 44.64,
+          "cost": 22756400600.0,
+          "costRatio": 46.11,
+          "profit": 6045543100.0,
+          "profitRatio": 39.87,
+          "grossMargin": 20.99,
+          "rank": 1
+        },
+        {
+          "name": "海外",
+          "income": 10047867200.0,
+          "incomeRatio": 15.57,
+          "cost": 7059447400.0,
+          "costRatio": 14.3,
+          "profit": 2988419800.0,
+          "profitRatio": 19.71,
+          "grossMargin": 29.74,
+          "rank": 2
+        },
+        {
+          "name": "华中地区",
+          "income": 9110656500.0,
+          "incomeRatio": 14.12,
+          "cost": 7192538900.0,
+          "costRatio": 14.57,
+          "profit": 1918117600.0,
+          "profitRatio": 12.65,
+          "grossMargin": 21.05,
+          "rank": 3
+        },
+        {
+          "name": "华北地区",
+          "income": 7301336500.0,
+          "incomeRatio": 11.32,
+          "cost": 5578398000.0,
+          "costRatio": 11.3,
+          "profit": 1722938500.0,
+          "profitRatio": 11.36,
+          "grossMargin": 23.6,
+          "rank": 4
+        },
+        {
+          "name": "华南地区",
+          "income": 4310367700.0,
+          "incomeRatio": 6.68,
+          "cost": 3217009300.0,
+          "costRatio": 6.52,
+          "profit": 1093358400.0,
+          "profitRatio": 7.21,
+          "grossMargin": 25.37,
+          "rank": 5
+        },
+        {
+          "name": "西北地区",
+          "income": 1974745700.0,
+          "incomeRatio": 3.06,
+          "cost": 1487250700.0,
+          "costRatio": 3.01,
+          "profit": 487495000.0,
+          "profitRatio": 3.21,
+          "grossMargin": 24.69,
+          "rank": 6
+        },
+        {
+          "name": "东北地区",
+          "income": 1442614000.0,
+          "incomeRatio": 2.24,
+          "cost": 962659400.0,
+          "costRatio": 1.95,
+          "profit": 479954600.0,
+          "profitRatio": 3.17,
+          "grossMargin": 33.27,
+          "rank": 7
+        },
+        {
+          "name": "西南地区",
+          "income": 920132600.0,
+          "incomeRatio": 1.43,
+          "cost": 670334400.0,
+          "costRatio": 1.36,
+          "profit": 249798200.0,
+          "profitRatio": 1.65,
+          "grossMargin": 27.15,
+          "rank": 8
+        },
+        {
+          "name": "其他(补充)",
+          "income": 609723119.0,
+          "incomeRatio": 0.95,
+          "cost": 431268301.61,
+          "costRatio": 0.87,
+          "profit": 178454817.39,
+          "profitRatio": 1.18,
+          "grossMargin": 29.27,
+          "rank": 9
+        }
+      ]
+    },
+    {
+      "reportDate": "2023-12-31",
+      "byIndustry": [
+        {
+          "name": "光伏业务",
+          "income": 36604031800.0,
+          "incomeRatio": 63.94,
+          "cost": 29857039600.0,
+          "costRatio": 66.84,
+          "profit": 6746992200.0,
+          "profitRatio": 53.63,
+          "grossMargin": 18.43,
+          "rank": 1
+        },
+        {
+          "name": "低压电器",
+          "income": 20138542800.0,
+          "incomeRatio": 35.18,
+          "cost": 14490734800.0,
+          "costRatio": 32.44,
+          "profit": 5647808000.0,
+          "profitRatio": 44.89,
+          "grossMargin": 28.04,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 508239800.0,
+          "incomeRatio": 0.89,
+          "cost": 322980226.99,
+          "costRatio": 0.72,
+          "profit": 185259573.01,
+          "profitRatio": 1.47,
+          "grossMargin": 36.45,
+          "rank": 3
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "光伏电站工程承包",
+          "income": 27298324000.0,
+          "incomeRatio": 47.68,
+          "cost": 24554610300.0,
+          "costRatio": 54.97,
+          "profit": 2743713700.0,
+          "profitRatio": 21.81,
+          "grossMargin": 10.05,
+          "rank": 1
+        },
+        {
+          "name": "终端电器",
+          "income": 6085778100.0,
+          "incomeRatio": 10.63,
+          "cost": 4452366000.0,
+          "costRatio": 9.97,
+          "profit": 1633412100.0,
+          "profitRatio": 12.98,
+          "grossMargin": 26.84,
+          "rank": 2
+        },
+        {
+          "name": "电站运营",
+          "income": 6022749800.0,
+          "incomeRatio": 10.52,
+          "cost": 2809944900.0,
+          "costRatio": 6.29,
+          "profit": 3212804900.0,
+          "profitRatio": 25.54,
+          "grossMargin": 53.34,
+          "rank": 3
+        },
+        {
+          "name": "配电电器",
+          "income": 5873733100.0,
+          "incomeRatio": 10.26,
+          "cost": 4219386500.0,
+          "costRatio": 9.45,
+          "profit": 1654346600.0,
+          "profitRatio": 13.15,
+          "grossMargin": 28.17,
+          "rank": 4
+        },
+        {
+          "name": "控制电器",
+          "income": 3446709900.0,
+          "incomeRatio": 6.02,
+          "cost": 2532583800.0,
+          "costRatio": 5.67,
+          "profit": 914126100.0,
+          "profitRatio": 7.27,
+          "grossMargin": 26.52,
+          "rank": 5
+        },
+        {
+          "name": "仪器仪表",
+          "income": 1920439100.0,
+          "incomeRatio": 3.35,
+          "cost": 1108312900.0,
+          "costRatio": 2.48,
+          "profit": 812126200.0,
+          "profitRatio": 6.46,
+          "grossMargin": 42.29,
+          "rank": 6
+        },
+        {
+          "name": "建筑电器",
+          "income": 1463522100.0,
+          "incomeRatio": 2.56,
+          "cost": 1187978200.0,
+          "costRatio": 2.66,
+          "profit": 275543900.0,
+          "profitRatio": 2.19,
+          "grossMargin": 18.83,
+          "rank": 7
+        },
+        {
+          "name": "其他",
+          "income": 1282533900.0,
+          "incomeRatio": 2.24,
+          "cost": 1117033900.0,
+          "costRatio": 2.5,
+          "profit": 165500000.0,
+          "profitRatio": 1.32,
+          "grossMargin": 12.9,
+          "rank": 8
+        },
+        {
+          "name": "逆变器及储能",
+          "income": 1252847100.0,
+          "incomeRatio": 2.19,
+          "cost": 811199500.0,
+          "costRatio": 1.82,
+          "profit": 441647600.0,
+          "profitRatio": 3.51,
+          "grossMargin": 35.25,
+          "rank": 9
+        },
+        {
+          "name": "金属制品业",
+          "income": 747577000.0,
+          "incomeRatio": 1.31,
+          "cost": 564250900.0,
+          "costRatio": 1.26,
+          "profit": 183326100.0,
+          "profitRatio": 1.46,
+          "grossMargin": 24.52,
+          "rank": 10
+        },
+        {
+          "name": "电源电器",
+          "income": 680063700.0,
+          "incomeRatio": 1.19,
+          "cost": 498393700.0,
+          "costRatio": 1.12,
+          "profit": 181670000.0,
+          "profitRatio": 1.44,
+          "grossMargin": 26.71,
+          "rank": 11
+        },
+        {
+          "name": "其他(补充)",
+          "income": 508239779.39,
+          "incomeRatio": 0.89,
+          "cost": 322980226.99,
+          "costRatio": 0.72,
+          "profit": 185259552.4,
+          "profitRatio": 1.47,
+          "grossMargin": 36.45,
+          "rank": 12
+        },
+        {
+          "name": "电子电器",
+          "income": 335599100.0,
+          "incomeRatio": 0.59,
+          "cost": 233645800.0,
+          "costRatio": 0.52,
+          "profit": 101953300.0,
+          "profitRatio": 0.81,
+          "grossMargin": 30.38,
+          "rank": 13
+        },
+        {
+          "name": "控制系统",
+          "income": 332697700.0,
+          "incomeRatio": 0.58,
+          "cost": 258067800.0,
+          "costRatio": 0.58,
+          "profit": 74629900.0,
+          "profitRatio": 0.59,
+          "grossMargin": 22.43,
+          "rank": 14
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华东地区",
+          "income": 19857497600.0,
+          "incomeRatio": 34.69,
+          "cost": 15196518200.0,
+          "costRatio": 34.02,
+          "profit": 4660979400.0,
+          "profitRatio": 37.05,
+          "grossMargin": 23.47,
+          "rank": 1
+        },
+        {
+          "name": "华中地区",
+          "income": 13771005400.0,
+          "incomeRatio": 24.05,
+          "cost": 11510610200.0,
+          "costRatio": 25.77,
+          "profit": 2260395200.0,
+          "profitRatio": 17.97,
+          "grossMargin": 16.41,
+          "rank": 2
+        },
+        {
+          "name": "海外",
+          "income": 8267523500.0,
+          "incomeRatio": 14.44,
+          "cost": 5902560500.0,
+          "costRatio": 13.21,
+          "profit": 2364963000.0,
+          "profitRatio": 18.8,
+          "grossMargin": 28.61,
+          "rank": 3
+        },
+        {
+          "name": "华北地区",
+          "income": 7553993900.0,
+          "incomeRatio": 13.19,
+          "cost": 6075485900.0,
+          "costRatio": 13.6,
+          "profit": 1478508000.0,
+          "profitRatio": 11.75,
+          "grossMargin": 19.57,
+          "rank": 4
+        },
+        {
+          "name": "华南地区",
+          "income": 3364933100.0,
+          "incomeRatio": 5.88,
+          "cost": 2733581500.0,
+          "costRatio": 6.12,
+          "profit": 631351600.0,
+          "profitRatio": 5.02,
+          "grossMargin": 18.76,
+          "rank": 5
+        },
+        {
+          "name": "西北地区",
+          "income": 1422910400.0,
+          "incomeRatio": 2.49,
+          "cost": 972052800.0,
+          "costRatio": 2.18,
+          "profit": 450857600.0,
+          "profitRatio": 3.58,
+          "grossMargin": 31.69,
+          "rank": 6
+        },
+        {
+          "name": "东北地区",
+          "income": 1338712800.0,
+          "incomeRatio": 2.34,
+          "cost": 1056453300.0,
+          "costRatio": 2.37,
+          "profit": 282259500.0,
+          "profitRatio": 2.24,
+          "grossMargin": 21.08,
+          "rank": 7
+        },
+        {
+          "name": "西南地区",
+          "income": 1165997800.0,
+          "incomeRatio": 2.04,
+          "cost": 900512100.0,
+          "costRatio": 2.02,
+          "profit": 265485700.0,
+          "profitRatio": 2.11,
+          "grossMargin": 22.77,
+          "rank": 8
+        },
+        {
+          "name": "其他(补充)",
+          "income": 508239779.39,
+          "incomeRatio": 0.89,
+          "cost": 322980226.99,
+          "costRatio": 0.72,
+          "profit": 185259552.4,
+          "profitRatio": 1.47,
+          "grossMargin": 36.45,
+          "rank": 9
+        }
+      ]
+    },
+    {
+      "reportDate": "2022-12-31",
+      "byIndustry": [
+        {
+          "name": "光伏业务",
+          "income": 25650636400.0,
+          "incomeRatio": 55.79,
+          "cost": 20597768200.0,
+          "costRatio": 58.27,
+          "profit": 5052868200.0,
+          "profitRatio": 47.55,
+          "grossMargin": 19.7,
+          "rank": 1
+        },
+        {
+          "name": "低压电器",
+          "income": 19527585100.0,
+          "incomeRatio": 42.48,
+          "cost": 14238749800.0,
+          "costRatio": 40.28,
+          "profit": 5288835300.0,
+          "profitRatio": 49.77,
+          "grossMargin": 27.08,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 796109800.0,
+          "incomeRatio": 1.73,
+          "cost": 510357646.66,
+          "costRatio": 1.44,
+          "profit": 285752153.34,
+          "profitRatio": 2.69,
+          "grossMargin": 35.89,
+          "rank": 3
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "光伏电站工程承包",
+          "income": 12033185700.0,
+          "incomeRatio": 26.17,
+          "cost": 10402405700.0,
+          "costRatio": 29.43,
+          "profit": 1630780000.0,
+          "profitRatio": 15.35,
+          "grossMargin": 13.55,
+          "rank": 1
+        },
+        {
+          "name": "太阳能电池组件",
+          "income": 8396195800.0,
+          "incomeRatio": 18.26,
+          "cost": 7824022700.0,
+          "costRatio": 22.13,
+          "profit": 572173100.0,
+          "profitRatio": 5.38,
+          "grossMargin": 6.81,
+          "rank": 2
+        },
+        {
+          "name": "终端电器",
+          "income": 6381968400.0,
+          "incomeRatio": 13.88,
+          "cost": 4822439800.0,
+          "costRatio": 13.64,
+          "profit": 1559528600.0,
+          "profitRatio": 14.67,
+          "grossMargin": 24.44,
+          "rank": 3
+        },
+        {
+          "name": "电站运营",
+          "income": 5221254900.0,
+          "incomeRatio": 11.36,
+          "cost": 2371339800.0,
+          "costRatio": 6.71,
+          "profit": 2849915100.0,
+          "profitRatio": 26.82,
+          "grossMargin": 54.58,
+          "rank": 4
+        },
+        {
+          "name": "配电电器",
+          "income": 5150575300.0,
+          "incomeRatio": 11.2,
+          "cost": 3790201200.0,
+          "costRatio": 10.72,
+          "profit": 1360374100.0,
+          "profitRatio": 12.8,
+          "grossMargin": 26.41,
+          "rank": 5
+        },
+        {
+          "name": "控制电器",
+          "income": 2945257700.0,
+          "incomeRatio": 6.41,
+          "cost": 2241165600.0,
+          "costRatio": 6.34,
+          "profit": 704092100.0,
+          "profitRatio": 6.63,
+          "grossMargin": 23.91,
+          "rank": 6
+        },
+        {
+          "name": "仪器仪表",
+          "income": 1460177900.0,
+          "incomeRatio": 3.18,
+          "cost": 845691200.0,
+          "costRatio": 2.39,
+          "profit": 614486700.0,
+          "profitRatio": 5.78,
+          "grossMargin": 42.08,
+          "rank": 7
+        },
+        {
+          "name": "建筑电器",
+          "income": 1300951800.0,
+          "incomeRatio": 2.83,
+          "cost": 991579000.0,
+          "costRatio": 2.81,
+          "profit": 309372800.0,
+          "profitRatio": 2.91,
+          "grossMargin": 23.78,
+          "rank": 8
+        },
+        {
+          "name": "电子电器",
+          "income": 1121617900.0,
+          "incomeRatio": 2.44,
+          "cost": 641012100.0,
+          "costRatio": 1.81,
+          "profit": 480605800.0,
+          "profitRatio": 4.52,
+          "grossMargin": 42.85,
+          "rank": 9
+        },
+        {
+          "name": "其他(补充)",
+          "income": 796109754.34,
+          "incomeRatio": 1.73,
+          "cost": 510357646.66,
+          "costRatio": 1.44,
+          "profit": 285752107.68,
+          "profitRatio": 2.69,
+          "grossMargin": 35.89,
+          "rank": 10
+        },
+        {
+          "name": "电源电器",
+          "income": 752235400.0,
+          "incomeRatio": 1.64,
+          "cost": 583305200.0,
+          "costRatio": 1.65,
+          "profit": 168930200.0,
+          "profitRatio": 1.59,
+          "grossMargin": 22.46,
+          "rank": 11
+        },
+        {
+          "name": "控制系统",
+          "income": 414800600.0,
+          "incomeRatio": 0.9,
+          "cost": 323355700.0,
+          "costRatio": 0.91,
+          "profit": 91444900.0,
+          "profitRatio": 0.86,
+          "grossMargin": 22.05,
+          "rank": 12
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华东地区",
+          "income": 14990307600.0,
+          "incomeRatio": 32.61,
+          "cost": 10770428500.0,
+          "costRatio": 30.47,
+          "profit": 4219879100.0,
+          "profitRatio": 39.71,
+          "grossMargin": 28.15,
+          "rank": 1
+        },
+        {
+          "name": "海外",
+          "income": 10392103400.0,
+          "incomeRatio": 22.6,
+          "cost": 8610796300.0,
+          "costRatio": 24.36,
+          "profit": 1781307100.0,
+          "profitRatio": 16.76,
+          "grossMargin": 17.14,
+          "rank": 2
+        },
+        {
+          "name": "华中地区",
+          "income": 6285643000.0,
+          "incomeRatio": 13.67,
+          "cost": 4876188000.0,
+          "costRatio": 13.8,
+          "profit": 1409455000.0,
+          "profitRatio": 13.26,
+          "grossMargin": 22.42,
+          "rank": 3
+        },
+        {
+          "name": "华北地区",
+          "income": 6239647300.0,
+          "incomeRatio": 13.57,
+          "cost": 4685444300.0,
+          "costRatio": 13.26,
+          "profit": 1554203000.0,
+          "profitRatio": 14.62,
+          "grossMargin": 24.91,
+          "rank": 4
+        },
+        {
+          "name": "西北地区",
+          "income": 2678287300.0,
+          "incomeRatio": 5.83,
+          "cost": 2199678100.0,
+          "costRatio": 6.22,
+          "profit": 478609200.0,
+          "profitRatio": 4.5,
+          "grossMargin": 17.87,
+          "rank": 5
+        },
+        {
+          "name": "华南地区",
+          "income": 2190452900.0,
+          "incomeRatio": 4.76,
+          "cost": 1778731700.0,
+          "costRatio": 5.03,
+          "profit": 411721200.0,
+          "profitRatio": 3.87,
+          "grossMargin": 18.8,
+          "rank": 6
+        },
+        {
+          "name": "东北地区",
+          "income": 1373005700.0,
+          "incomeRatio": 2.99,
+          "cost": 1069072700.0,
+          "costRatio": 3.02,
+          "profit": 303933000.0,
+          "profitRatio": 2.86,
+          "grossMargin": 22.14,
+          "rank": 7
+        },
+        {
+          "name": "西南地区",
+          "income": 1028774300.0,
+          "incomeRatio": 2.24,
+          "cost": 846178500.0,
+          "costRatio": 2.39,
+          "profit": 182595800.0,
+          "profitRatio": 1.72,
+          "grossMargin": 17.75,
+          "rank": 8
+        },
+        {
+          "name": "其他(补充)",
+          "income": 796109754.34,
+          "incomeRatio": 1.73,
+          "cost": 510357646.66,
+          "costRatio": 1.44,
+          "profit": 285752107.68,
+          "profitRatio": 2.69,
+          "grossMargin": 35.89,
+          "rank": 9
+        }
+      ]
+    },
+    {
+      "reportDate": "2021-12-31",
+      "byIndustry": [
+        {
+          "name": "低压电器",
+          "income": 19654415800.0,
+          "incomeRatio": 50.57,
+          "cost": 13966306400.0,
+          "costRatio": 47.72,
+          "profit": 5688109400.0,
+          "profitRatio": 59.27,
+          "grossMargin": 28.94,
+          "rank": 1
+        },
+        {
+          "name": "光伏业务",
+          "income": 18197017100.0,
+          "incomeRatio": 46.82,
+          "cost": 14639406500.0,
+          "costRatio": 50.02,
+          "profit": 3557610600.0,
+          "profitRatio": 37.07,
+          "grossMargin": 19.55,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 1013190800.0,
+          "incomeRatio": 2.61,
+          "cost": 661531176.91,
+          "costRatio": 2.26,
+          "profit": 351659623.09,
+          "profitRatio": 3.66,
+          "grossMargin": 34.71,
+          "rank": 3
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "光伏电站工程承包",
+          "income": 7164693100.0,
+          "incomeRatio": 18.44,
+          "cost": 6259322900.0,
+          "costRatio": 21.39,
+          "profit": 905370200.0,
+          "profitRatio": 9.43,
+          "grossMargin": 12.64,
+          "rank": 1
+        },
+        {
+          "name": "太阳能电池组件",
+          "income": 6818926700.0,
+          "incomeRatio": 17.55,
+          "cost": 6376220100.0,
+          "costRatio": 21.79,
+          "profit": 442706600.0,
+          "profitRatio": 4.61,
+          "grossMargin": 6.49,
+          "rank": 2
+        },
+        {
+          "name": "终端电器",
+          "income": 6167553200.0,
+          "incomeRatio": 15.87,
+          "cost": 4409276300.0,
+          "costRatio": 15.07,
+          "profit": 1758276900.0,
+          "profitRatio": 18.32,
+          "grossMargin": 28.51,
+          "rank": 3
+        },
+        {
+          "name": "配电电器",
+          "income": 5719304100.0,
+          "incomeRatio": 14.72,
+          "cost": 4028395800.0,
+          "costRatio": 13.76,
+          "profit": 1690908300.0,
+          "profitRatio": 17.62,
+          "grossMargin": 29.56,
+          "rank": 4
+        },
+        {
+          "name": "电站运营",
+          "income": 4213397200.0,
+          "incomeRatio": 10.84,
+          "cost": 2003863500.0,
+          "costRatio": 6.85,
+          "profit": 2209533700.0,
+          "profitRatio": 23.02,
+          "grossMargin": 52.44,
+          "rank": 5
+        },
+        {
+          "name": "控制电器",
+          "income": 3194327000.0,
+          "incomeRatio": 8.22,
+          "cost": 2298845900.0,
+          "costRatio": 7.85,
+          "profit": 895481100.0,
+          "profitRatio": 9.33,
+          "grossMargin": 28.03,
+          "rank": 6
+        },
+        {
+          "name": "仪器仪表",
+          "income": 1449711700.0,
+          "incomeRatio": 3.73,
+          "cost": 895221700.0,
+          "costRatio": 3.06,
+          "profit": 554490000.0,
+          "profitRatio": 5.78,
+          "grossMargin": 38.25,
+          "rank": 7
+        },
+        {
+          "name": "建筑电器",
+          "income": 1245043800.0,
+          "incomeRatio": 3.2,
+          "cost": 966892200.0,
+          "costRatio": 3.3,
+          "profit": 278151600.0,
+          "profitRatio": 2.9,
+          "grossMargin": 22.34,
+          "rank": 8
+        },
+        {
+          "name": "其他(补充)",
+          "income": 1013190770.01,
+          "incomeRatio": 2.61,
+          "cost": 661531176.91,
+          "costRatio": 2.26,
+          "profit": 351659593.1,
+          "profitRatio": 3.66,
+          "grossMargin": 34.71,
+          "rank": 9
+        },
+        {
+          "name": "电源电器",
+          "income": 718829800.0,
+          "incomeRatio": 1.85,
+          "cost": 549159400.0,
+          "costRatio": 1.88,
+          "profit": 169670400.0,
+          "profitRatio": 1.77,
+          "grossMargin": 23.6,
+          "rank": 10
+        },
+        {
+          "name": "电子电器",
+          "income": 700179700.0,
+          "incomeRatio": 1.8,
+          "cost": 445127900.0,
+          "costRatio": 1.52,
+          "profit": 255051800.0,
+          "profitRatio": 2.66,
+          "grossMargin": 36.43,
+          "rank": 11
+        },
+        {
+          "name": "控制系统",
+          "income": 459466500.0,
+          "incomeRatio": 1.18,
+          "cost": 373387200.0,
+          "costRatio": 1.28,
+          "profit": 86079300.0,
+          "profitRatio": 0.9,
+          "grossMargin": 18.73,
+          "rank": 12
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华东地区",
+          "income": 15194879500.0,
+          "incomeRatio": 39.1,
+          "cost": 11045174900.0,
+          "costRatio": 37.74,
+          "profit": 4149704600.0,
+          "profitRatio": 43.24,
+          "grossMargin": 27.31,
+          "rank": 1
+        },
+        {
+          "name": "海外",
+          "income": 8586526100.0,
+          "incomeRatio": 22.09,
+          "cost": 7193131100.0,
+          "costRatio": 24.58,
+          "profit": 1393395000.0,
+          "profitRatio": 14.52,
+          "grossMargin": 16.23,
+          "rank": 2
+        },
+        {
+          "name": "华中地区",
+          "income": 4023980800.0,
+          "incomeRatio": 10.35,
+          "cost": 3017741800.0,
+          "costRatio": 10.31,
+          "profit": 1006239000.0,
+          "profitRatio": 10.48,
+          "grossMargin": 25.01,
+          "rank": 3
+        },
+        {
+          "name": "西北地区",
+          "income": 2760756800.0,
+          "incomeRatio": 7.1,
+          "cost": 2151441300.0,
+          "costRatio": 7.35,
+          "profit": 609315500.0,
+          "profitRatio": 6.35,
+          "grossMargin": 22.07,
+          "rank": 4
+        },
+        {
+          "name": "华北地区",
+          "income": 2760629100.0,
+          "incomeRatio": 7.1,
+          "cost": 1788463200.0,
+          "costRatio": 6.11,
+          "profit": 972165900.0,
+          "profitRatio": 10.13,
+          "grossMargin": 35.22,
+          "rank": 5
+        },
+        {
+          "name": "华南地区",
+          "income": 2010239700.0,
+          "incomeRatio": 5.17,
+          "cost": 1496833800.0,
+          "costRatio": 5.11,
+          "profit": 513405900.0,
+          "profitRatio": 5.35,
+          "grossMargin": 25.54,
+          "rank": 6
+        },
+        {
+          "name": "西南地区",
+          "income": 1319911900.0,
+          "incomeRatio": 3.4,
+          "cost": 1048797800.0,
+          "costRatio": 3.58,
+          "profit": 271114100.0,
+          "profitRatio": 2.82,
+          "grossMargin": 20.54,
+          "rank": 7
+        },
+        {
+          "name": "东北地区",
+          "income": 1194508900.0,
+          "incomeRatio": 3.07,
+          "cost": 864128900.0,
+          "costRatio": 2.95,
+          "profit": 330380000.0,
+          "profitRatio": 3.44,
+          "grossMargin": 27.66,
+          "rank": 8
+        },
+        {
+          "name": "其他(补充)",
+          "income": 1013190770.01,
+          "incomeRatio": 2.61,
+          "cost": 661531176.91,
+          "costRatio": 2.26,
+          "profit": 351659593.1,
+          "profitRatio": 3.66,
+          "grossMargin": 34.71,
+          "rank": 9
+        }
+      ]
+    }
+  ],
+  "analysis": [
+    {
+      "reportDate": "2025-12-31",
+      "businessReview": "（一）概述2025年,是“十四五”规划收官之年,也是公司直面风浪、砥砺前行的关键一年。面对复杂严峻的外部环境与行业周期的深度调整,在董事会领导下,在广大客户一如既往信赖与支持、全产业链合作伙伴通力协同下,全体员工艰苦奋斗、迎难而上,紧紧围绕“强化变革创新,促进开放融合”经营主线,在风浪中保持定力,在变局中开创新局。智慧电器产业在新旧动能转换中稳中有进,绿色能源产业在深度调整期中勇毅前行。报告期内,公司实现营业收入591.45亿元,实现归属于上市公司股东的净利润45.01亿元,同比增长16.19%。（二）智慧电器产业2025年,智慧电器产业全面践行全球区域本土化战略,深化“区域、行业、产品”三位一体营销体系,全链融合拓展“1+5”区域业务,经营质效持续向新向优。以全面预算为牵引,全过程刚性控本降费,全链精细运营逐见成效。“泰无界”数智互联平台焕新发布,多项关键应用技术取得突破,技术创新攻坚持续深入。新加坡日光集成配电工厂数智化改造升级、捷克低压元件适配点敏捷响应,本土化交付夯基固本筑能,盈利能力逐步提升。报告期内,智慧电器产业实现营业收入227.36亿元,同比增长4.76%。1.国内业务,强基固本,拓域跃新2025年,持续优化“532+1”渠道生态结构,全面提升渠道中坚力量市场拓展效能。抢抓节能降碳改造、零碳园区等新兴应用场景机遇,依托生态联盟搭建、平台赋能支撑、一站式服务落地,深度深耕电网、新能源等核心客户群体,推动工业“高精尖”领域、信息与通信领域业务实现突破性增长,稳固国内业务行业龙头地位。图1：正泰电器各行业解决方案（1）分销业务,稳中求进依托城市群与经济带发展布局,持续优化渠道网络布局；聚焦中坚潜力经销商,通过“支、帮、促、赋”全方位举措,提升其专业化营销能力,推动经销商“亿元俱乐部”规模扩充至50家以上。积极引入优质合作伙伴,加速新领域业务渗透,全面提升渠道覆盖率与运营效率,助力合作伙伴实现转型升级,推动分销业务结构持续优化升级。紧扣新质生产力发展方向及关键应用场景,通过技术深度植入、产品专业适配、定制化解决方案输出,全力突破锂电池、充电桩、半导体等高景气赛道。全面推行“壳体+元件”一体化销售模式,实施定向授权、就地集成运营模式,稳步扩大智能集成三箱业务规模。（2）行业业务,多点突破精准攻坚新兴场景与赛道,成功切入汇川储能、青山控股、珠海泰坦等重点应用领域,打造一批标杆性示范项目,构建业务增长新引擎。持续深化技术协同创新,推进蒙电智能台区、分布式光伏接入、负荷管理等多场景技术创新应用；深度参与光伏“四可”、零碳园区等10项行业技术规范与标准编制,牢牢抢占行业技术话语权。深化融通协同,推进产品定制化研发,顺利落地华为上板开关、塑壳及电力模块、牧原智能单元箱、远景风电专供产品、库柏UL数据中心专供产品、UL储能机型等定制化项目,强化与专业客户深度合作,筑牢行业竞争壁垒。聚合各类资源,全力开拓“五投”业务,深化科技平台市场化运作,构建互利共赢的价值生态链；充分发挥区域资源禀赋优势,深耕智慧城市基础设施建设、节能降碳改造业务,推动业务规模提质倍增。2.海外市场,深化运营,向新向优抓住电网升级改造、数字基础建设、绿色经济以及高附加值工业发展等机会,纵深推进“全球区域本土化”战略,巩固欧洲核心市场,全力拓展亚太、西亚非区域市场,培育发展北美、拉美等区域市场。图2：正泰国际与PSAU签署备忘录欧洲区持续深耕分销渠道,新增11家专业批发商,意大利、西班牙、英国等区域稳健增长。突破西班牙、德国、芬兰等新能源行业头部客户,扩张电梯行业、光储充等关键领域标杆客户业务。亚太区深化渠道建设与赋能,通用市场同比增长13%；新加坡、马来、印尼等区域快速增长；全力拓展能源与电力、数字基建、建筑楼宇市场,获得淡马锡、华为等数据中心标志性项目,以及新加坡政府基建、工业园等项目。西亚非区强化行业通路建设,深耕沙特示范区市场,突破迪拜、阿尔及利亚电力局,阿布扎比能源局业务。扎实推进本土研发中心和工厂运营,聚焦智慧配网、民生工程领域,成功实现智能终端断路器、中压环网柜等产品在中东电网客户的入网突破。拉美区布局秘鲁、智利、阿根廷等国家分销渠道,深耕巴西、哥伦比亚、智利等重点国家的电力与新能源行业业务,培育工业领域客户,实现高速增长。北美区聚焦数据中心领域,以“北美接单—总部设计—越南制造”新范式,打破业务壁垒,获得多个超大型算力中心项目订单,为北美区业务发展注入新动力。3.数智融合,向新而行,育新赋能聚焦新型电力系统、新能源风光储充、数据中心、轨道交通等关键应用场景,以数智融合驱动技术创新,攻坚智能配电与电力电子等核心技术,打造面向未来的新一代创新产品。图3：正泰电器产品系列图在电网推出全球首款AI智能框架控制系统；在发电与新能源领域,上市风光储用框架、塑壳断路器等新品,旋转隔离开关突破逆变器125A大通流应用；在信息与通讯领域,推出5G基站及数据中心专供系列产品。创新成套柜体产品结构与绝缘工艺,实现UL认证助力北美市场业务拓展。轨交系列产品突破行业应用瓶颈,通过ISO/TS22163铁路质量体系认证,性能与结构优势显著,全面满足新一代高铁应用需求。“泰无界”平台重塑能源数字化格局,以“开放互联、敏捷交付、灵活部署、AI使能”四大核心能力为基底,构建智慧配电、智慧工商业微电网、智慧户用微电网、智慧电力运维四大软硬件一体化解决方案,为能源转型注入超强动能。报告期内,公司深入推进“产学研”协同创新,积极参与国家重点研发计划,承担“光储直柔建筑直流配电系统关键技术研究与应用”项目课题3项。“集群工业园区能-碳精准感知与柔性调控关键技术及应用”荣获浙江省科学技术进步奖一等奖；“复杂工况低压用电安全智能量测与诊断关键技术及应用”获中国仪器仪表学会科技进步奖二等奖,NXC系列交流接触器获评“浙江省优秀工业新产品”称号。全年新产品研发成果显著,8项产品达国际领先水平,22项达国际先进水平,17项达国内领先水平,主导或参与制修订国家和行业标准8项。公司获评“5A级标准化良好行为企业”、“中国电器工业创新企业”等荣誉。（三）绿色能源业务在全球“双碳”目标深入推进、能源结构系统性调整与重构的时代背景下,多国加速清洁能源转型、保障自身能源安全、提升能源供应链韧性。据统计,全年国内光伏新增装机315GW,同比增长35.4%,占全国新增发电装机的58.1%。1.户用光伏,高质发展正泰安能以户用光伏电站建设与运营服务为发展基石,聚焦“综合能源”与“综合服务”两大业务领域,聚力构建数字技术驱动的投资、开发、建设、运营、售电一体化综合能源服务平台。2025年度,正泰安能实现营业收入287.28亿元,净利润30.40亿元,新增装机容量超14GW,电站交易规模超7GW,报告期末持有电站装机容量约27GW。（1）深耕户用蓝海,创新能源解决方案正泰安能持续深化“光伏共富”商业模式,构建覆盖海内外乡村与城市家庭的品牌矩阵,业务涵盖综合能源解决方案、智能微电网解决方案、虚拟电厂（VPP）及综合能源服务等,精准匹配各类用户差异化能源需求,实现从家庭终端到产业场景的全链条绿色赋能。公司持续完善多元化客户网络,不断深化与中央及地方国企、租赁企业、地方平台及产业基金等多方合作,电站累计销售规模约30GW。图4：正泰安能品牌矩阵报告期内,公司面向多元创新用能场景,推出“自发自用、余电上网”模式的“泰益宝”产品,切实为用户降低用电成本。发布“泰墅”系列家庭绿电解决方案,深度融合家庭绿电与智能家居科技,助力用户实现能源自主和用电自由。推出“即发即用、就近消纳”的阳台光伏产品,凭借灵活便捷、低门槛的优势,成为大众管控电费支出的务实优选。公司市场占有率连续多年位居行业首位,资产规模与服务网络均保持行业领先。截至目前累计投产户用光伏电站超200万座,年发绿电约593亿度,累计发放电站收益近80亿元,带动就业超30万人,减排二氧化碳约4825万吨。（2）数智赋能质效,驱动运维效能革命正泰安能以数智技术为核心驱动力,系统性推动运维体系与质量管理向智能化、精细化转型,全面提升电站资产全生命周期的管理效能,获取运维带来的发电提升超额收益。依托智慧运维大数据云平台,研发海量电站发电数据高效采集与分析系统,构建损失电量核算模型、电站健康度评估、组件脏污检测等多维度智能诊断模型,搭配无人机红外巡检、自动机器人清洗等线下智能化运维手段,依托千站级服务集群,打造分布式光伏智慧运维新模式。截至目前,正泰安能户用电站运维规模近60GW。图5：正泰安能智慧运维方案（3）锻造综合能力,重塑价值增长逻辑随着新能源上网电价市场化改革不断深化,电力的商品属性和环境属性日益凸显。正泰安能积极构建集发电到售电于一体的端到端全流程电力交易服务能力,推动户用分布式电站资产入围机制电价,稳定电站资产收益基本盘。打造主动参与电力市场交易能力,通过中长期交易锁定电价,减少现货价格冲击,2025年度实现电力交易签约量超15亿度。打造虚拟电厂聚合交易平台,高效链接百万级分散户用光伏能源的灵活价值与电力市场的绿色效益,相关业务资质已在浙江、广东、安徽、上海等多地落地；深度挖掘绿证、绿电、碳资产等环境权益价值,截至目前累计核发绿色电力证书超500万张,助力70余家企业客户完成环境指标履约,组建全新价值增长引擎。截至目前,正泰安能已搭建覆盖全国超20个省份的购售电等综合能源服务网络,主动拥抱新能源全面入市变革,深度融入国家新型电力系统建设,全力实现电力价值全链路闭环。（4）拓展海外版图,输出中国绿色模式正泰安能主动融入全球能源转型浪潮,依托“一带一路”倡议拓展清洁能源合作版图,积极拓展海外业务,结合区域实际能源痛点,推出针对性能源解决方案。针对非洲部分地区电力基础设施薄弱、供电覆盖不足等问题,提供小型离网直流太阳能系统；针对欧洲部分电网老化、能源价格较高的痛点,推出“光储充热”一体化解决方案,保证家庭用能经济便捷、供应稳定。截至目前,正泰安能海外业务已布局肯尼亚、德国、法国、波兰、西班牙等国家,与本地团队协同发展,共创价值。2.电站业务结构持续优化升级抢抓“双碳”机遇,开创绿色发展新格局,深度融入全球碳中和进程,实现清洁能源产业链上下游资源的协同与融合,服务各国能源转型,目前新能源项目投资开发、建设运维已遍布五大洲。正泰新能源以多元化业务布局促进协同发展,积极探索物联网技术与智慧能源深度融合,加快数字化、智能化转型升级与清洁能源解决方案供应,有效保证整体运营效能持续提升。国内市场,利用自身电力新能源全产业链能力,搭建平台,在国家新型电力系统建设大背景下,围绕松江区实际需求,打造城市级虚拟电厂。通过将智能化配电网、储能调节、源网荷储一体化等应用场景,充分进行聚合优化,更灵活地实现削峰填谷的功能,优化运行控制和市场交易。图6：正泰全球光伏项目海外市场,加速推进海外电站布局,在欧洲、澳洲等市场实现多点突破。在土耳其与烟草公司OTP投资建设的4.55MWp光伏电站顺利并网发电。项目投运后,将显著降低OTP生产基地的用电成本与碳排放水平,为其提供清洁、可靠的绿色电力。澳大利亚南部的Kerta5.5MWh储能项目在南澳电网公司（SAPowerNetworks）也成功实现并网运行。此外,在荷兰交付了Larendeel38MW光伏项目,为公司在海外新能源领域的稳健发展再添成功案例。报告期内,正泰新能源荣登“2025全球新能源企业500强”,并获评“2025碳中和绿色影响力领跑品牌”。正泰新能源持续多年位列全球新能源企业500强榜单,综合实力与品牌影响力充分彰显。3.逆变器储能未来可期在新能源领域,正泰电源聚焦光伏逆变器与储能系统解决方案,持续深化全球化战略布局,以本土化运营为核心抓手,全面提升市场竞争力。报告期内市场布局从以北美、韩国市场为主,拓展至覆盖欧美日韩核心区域,经营业绩稳步提升,综合竞争力持续增强。铸就发展动能,拓展海外版图。在北美、韩国等传统重点优势市场,建立坚实的竞争壁垒,持续巩固领先地位。面对整体规模庞大、保持快速增长的北美市场,以本土化直销模式,充分发挥业务协同效应。凭借工商业逆变器领域客户优势,成功实现向地面电站组串式逆变器和储能系统市场的战略拓展。通过多年本土化运营和卓越售后服务体系,正泰电源已确立市场领导地位,连续多年保持北美三相组串逆变器出货量第一。持续深化与战略合作伙伴现代集团协同关系,不断巩固和扩大工商业光伏领域客户基础,市场占有率蝉联韩国市场第一。图7：正泰电源参加美国国际太阳能展欧洲光储业务再谱新篇。在欧洲光储业务,系统推进欧洲市场品牌建设和渠道拓展,逐步实现全欧市场战略覆盖。波兰、土耳其、西班牙、葡萄牙、罗马尼亚、保加利亚、意大利、乌克兰等多个重点市场实现光储项目落地,为后续大规模市场拓展奠定了坚实基础。这一系列成果标志着欧洲市场全球业务版图更趋完善。在欧洲持续推进西班牙Blueprom10MWh、摩尔多瓦26MW/50MWh、德国POR4.8MW/10MWh、乌克兰15MW/60MWh、罗马尼亚GRT7.2MW/30MWh、丹麦10MW/20MWh等多个关键储能项目,为客户优化区域能源供需结构、增强能源网络韧性、提升区域电力系统稳定提供了坚实保障。海外储能业务稳健突破。坚持以客户需求为导向,以技术创新针对性破局。面向日本市场,定制化推出2MW/8MWh电网侧储能解决方案,方案提供集装箱式与户外柜式两种灵活配置；并按客户需求配置2MW/4MWh、2.4MW/5MWh、2.4MW/10MWh等多种储能方案,精准适配日本不同地区工商业用户的多元需求,实现了降本增效与本地化适配的有机结合。在日本,正在推进香川县FL2MW/8.35MWh、岐阜县养老郡2.4MW/5MWh、日本AJ中国电力、九州电力、中部电力2MW/8.35MWh及2.2MW/9.1MWh等储能项目。2025年,九州熊本光储一体化项目、千叶2MW/8MWh储能项目、栃木县2MW/8MWh储能项目、鹿儿岛3.2MW/10MWh储能项目等多个标志性项目成功并网投运,正泰电源在日本调频市场中的竞争优势显著。夯实渠道优势,深耕国内市场。公司依托现有销售渠道优势,持续强化营销体系,积极拓展国内市场纵深。报告期内,公司成功实现多个光储标杆项目顺利投运,其中广西百色300MW光伏项目,在复杂应用场景下显著提升了运维效率,有力保障了电站生命周期内高效稳定；凤阳一、二期大型工商业储能电站项目（项目总容量33.975MW/100MWh）,以智能需量预测功能,有效预测后期用电需求,动态优化储能充放电策略,更好地实现“削峰填谷”与需量管理双效合一,最大限度帮助客户降低用电成本、提升能源利用效率。报告期内,正泰电源坚持以技术创新为核心驱动,持续加大产品研发力度,丰富产品矩阵,筑牢市场竞争壁垒,赢得了全球客户与合作伙伴的长期认可与信赖。截至目前,根据彭博新能源财经（BloombergNEF）公布的Tier1榜单,上海电源已连续10个季度稳居全球光伏逆变器一级制造商,连续6个季度入选全球一级储能集成商榜单。",
+      "futureExpect": "(一)行业格局和趋势1、低压电器行业保持稳定增长低压电器产品广泛应用于国民经济各个行业,市场发展相对成熟,市场规模整体呈现稳定增长态势。低压电器行业与宏观经济发展联系紧密,与GDP、全社会用电量增长趋势趋同。国内低压电器发展与电网工程投资、固定资产投资、工业投资关系密切,新能源、数据中心、通信等行业的快速发展为低压电器行业增长带来新动能。图1：低压电器市场规模稳定增长,与GDP、全社会用电量增长趋势趋同资料来源：格物致胜、IFind根据中国电力企业联合会《2025-2026年度全国电力供需形势分析预测报告》,2025年,全国电网工程建设完成投资6395亿元,同比增长5.1%。其中,电网重点项目投资同比增长7.1%,能源投资增速与主要行业相比处于较高水平。近年来,风光大基地建设推动特高压直流输电通道工程投资快速增长,2025年直流工程投资同比增长25.7%；交流工程投资同比增长4.7%。2025年全社会用电量达10.37万亿千瓦时,同比增长5.0%。“十四五”期间,全社会用电量年均增长6.6%,比“十三五”年均增速提高0.9个百分点。预计2026年全国全社会用电量10.9-11万亿千瓦时,同比增长5%-6%。“双碳”目标下,我国进一步提出构建以新能源为主体的新型电力系统,明确了能源电力转型发展方向,国家电网、南方电网相继发布了相关行动方案。国家电网在行动方案中指出,以新能源为主体的新型电力系统是清洁低碳、安全高效能源体系的重要组成部分,是以新能源为供给主体、以确保能源电力安全为基本前提、以满足经济社会发展电力需求为首要目标,以坚强智能电网为枢纽平台,以源网荷储互动与多能互补为支撑,具有清洁低碳、安全可控、灵活高效、智能友好、开放互动基本特征的电力系统。低压电器量大面广,是广泛应用于诸多行业的传统电器设备,具有工业消费品属性,是构建坚强电网、新型电力系统的关键一环,随着构建新型电力系统不断深化发展,有望带动低压电器需求稳步增长。此外,新型电力系统对低压电器产品需求也提出了新的要求,以智能化、模块化、可通信为主要特征的新一代智能化低压电器将成为市场主流,具备研发实力的头部公司竞争优势显著、成长空间广阔。第三方研究机构格物致胜发布《2025年中国低压电器白皮书》,报告预计2025年中国低压电器市场规模为888亿元。报告显示,低压电器中国市场竞争格局中,两家企业销售规模超过百亿元,正泰电器为其中之一；在其6星市场模型中,两家企业获得6星评级,正泰电器为唯一一家上榜的内资企业。2、新能源行业发展势头正劲（1）光伏装机增长迅速当前全球已有多个国家提出了“零碳”或“碳中和”的气候目标,大力发展可再生能源已成为全球共识,以光伏发电为代表的新能源产业成为实现我国能源结构优化与“双碳”目标的主力军。根据中国光伏行业协会编制的《中国光伏产业发展路线图（2025-2026年）》数据显示,2025年全球光伏新增装机规模预计在580GW,继续保持上升态势。2026年后,受印度、中东北非等发展中国家及地区的需求拉动,新增装机将回调至持续增长态势。自2023年以来,光伏上游产业链价格整体呈下降趋势,产业链各环节价格回落,光伏电站系统投资主材组件价格下降,进一步激发了下游装机需求。根据国家能源局统计数据,2025年,国内光伏新增装机316.57GW,同比增加超14%,其中,分布式光伏装机153GW,同比增长29.4%,约占全部新增光伏发电装机的48%。公司控股子公司正泰安能主要从事户用光伏能源运营与服务,专注于为广大农村用户提供屋顶光伏系统的全流程解决方案与服务。正泰安能致力成为全球领先C端综合能源服务平台,紧抓国内户用分布式光伏发展机遇,累计用户数已突破200万户。公司全资子公司新能源开发为集开发、建设、运营、服务于一体的清洁能源解决方案提供商。在国内,新能源开发创新性地探索光伏电站建设模式,拥有大中型地面电站、工商业分布式屋顶光伏电站、农光/沙光/渔光/牧光等“光伏+”电站等各类电站建设经验。在全球,新能源开发积极参与“一带一路”共建,在埃及、泰国、荷兰、越南、保加利亚、美国、西班牙、韩国、日本等多个国家开展光伏电站建设与EPC服务。公司将充分受益于全球光伏产业的蓬勃发展趋势。（2）逆变器、储能市场空间广阔逆变器是光伏发电系统的核心设备之一,其主要作用是利用电力电子变换技术,将光伏发电系统产生的直流电转换为我们日常所需的交流电,承担着连接光伏阵列及电网的重要职责,其运行效率和转换效率直接影响整个光伏发电系统的运行效率。随着全球光伏产业快速扩张,光伏逆变器市场整体规模也呈现高速增长趋势,行业正处于景气上行阶段。根据全球知名能源研究机构WoodMackenzie预测,到2031年,全球光伏逆变器出货量有望达到560GW。与此同时,随着光伏等可再生能源的加速渗透,储能技术作为解决能源供需矛盾、提高电力系统灵活性和稳定性的关键手段,其市场需求呈现出爆发式增长。根据WoodMackenzie数据,2025年,全球新增装机容量达106吉瓦。这一数据较2024年的73吉瓦装机容量同比提升超过45%,彰显出该行业的快速扩张与日益增长的投资吸引力。目前全球总装机容量约为270吉瓦,预测显示,到2034年该市场规模将达到1545吉瓦,增长近六倍。储能已成为全球能源转型的关键组成部分。公司控股子公司正泰电源主要从事光伏逆变器、储能变换器及系统集成研发、生产、销售及服务,专注于光伏发电转换、电化学储能存储、变换与智能化管理,为家庭、工商业及地面电站等提供全场景的光伏与储能系统解决方案。公司所处行业发展势头正劲,空间广阔。(二)公司发展战略公司践行电气行业智能化应用,开拓区域能源物联网模式,打造平台型企业,构筑区域智慧能源综合运营管理生态圈,面向区域内政府及终端用户提供一揽子能源解决方案。以智慧科技和数据应用为载体,实现企业对内与对外的数字化应用与服务,为能源物联网与工业物联网提供端到端的连接服务；以产品智能化与智能制造为核心,践行电气行业智能化应用,支撑能源物联网的基础能力,通过构建智慧能源生态体系,开拓区域能源物联网创新模式。(三)经营计划绿色低碳叠加人工智能新时代,为公司带来巨大市场机遇。公司要紧抓时代机遇,坚定“绿智齐驱”的战略信心,发扬务实创新的正泰精神,坚持长期主义、专业主义、共创主义、共享主义,知难而进,迎难而上,做强平台化能力,做大品牌影响力,做专产业,做精产品,做优服务。1、聚焦主业,打造电力能源综合解决方案服务商聚焦“智能电器”与“绿色能源”主赛道,强化补链延链强链,孵化培育新质生产力。智能电器产业,要以客户为中心重构产品线,推动技术、市场与业务的深度融合,打造技术型营销“铁四角”队伍,持续提升“四新”领域业务占比,巩固并提升市场领先地位。核心产业要明确各自“生态化”、“全价值链”、“核心专业领域”的发展路径,持续推动产业结构升级,加快盈利模式从单纯的设备销售向“全生命周期服务”和“软件定义硬件”转型。新能源产业,优化组织与流程,加快构建“解决方案、综合服务、非电绿色能源第二曲线”的业务体系,积极探索“绿电-微网-虚拟电厂-电力交易-用户服务”的全链条商业模式。深耕零碳园区、光储充、绿电直连、源网荷储一体化场景；从单一光伏转向风光储综合服务,深挖算力负荷一体化、离微网项目机会。深化推进虚拟电厂项目,以“软件定义能源”为核心,推动AI负荷预测与多能互补优化算法突破,加速向“能源数智运营商”转型。2、提升科技成果加速转化能力,持续打造奔涌向前的叠加“抛物线”坚持“存钱不如存技术”的理念,围绕主赛道攻克关键技术,持续加大研发投入。优化研发人才结构,优化科创孵化机制,携手高校及产业链伙伴,打通“研发—中试—产业化”全链条,加速科技成果转化落地。探索碳汇新商业模式,推动低碳能源、智慧银发工程、智慧生态农业等合作创新和示范应用。加大首台套、首批次、首版次的推广应用力度,以产业链资源优势培育新技术、新业态。3、推进区域本土化布局,构建全球资源协同机制要因地制宜、循序渐进地实施全球区域本土化布局,促进全球资源高效配置。在战略支点国家建立全要素工厂,形成独立的区域供应链闭环,以规避原产地规则限制。构建覆盖市场、研发、制造、供应链、物流等全球区域协同体系,加速财务、税务、法务、知识产权等全球化能力建设,以支撑业务的本地化高效、合规运营。在重点市场探索并完善全球事业合伙人制度,吸纳本地领军人才、技术专家及产业链伙伴,打造本土化团队。根据产业、产品及区域细分市场特点等,构建全球化品牌矩阵,做大品牌影响力。4、以数据驱动业务流程,提升全价值链运营效率持续深化“数字正泰经纬工程”,坚持“一个正泰、一个体系、一套标准”,打造从“战略规划、全面预算、运营管控到绩效评估”的闭环管理体系,让有效数据成为智能决策的重要依据。以AI赋能“研产销服”全流程,构建自主可控的AI技术体系,推动智能制造转型。5、开放融合,做强资源集约与协同共享载体全面强化前中后台深度融通融合协同发展机制,进一步发挥资源共享与业务协同平台作用；要做强数智互联平台,推进平台市场化生态构建,提升软硬件一体化、源网荷储一体化解决方案能力,加快在新型储能、数据中心等新赛道的标杆应用。做深做细研发、全球客户与客服、采购、物流等业务管理平台。通过平台沉淀标准、共享资源、赋能前线,将产业间协同优势,转化为整体成本效率优势和具体项目竞争优势。6、筑牢根基,提升部门智能高效服务水平与安全监管能力强化职能协同,主动赋能一线业务发展,构建“智能高效、协同有力、安全可控”的支撑体系。深化业财融合与价值创造闭环,强化全面预算与精细化运营,提升全价值链资本效率与风险管控能力。深化“三支柱”模式,构建以“战略引领、业务驱动、服务支撑”为核心的高效协同体系,全面提升组织运营效能与战略执行力。构建“三位一体”全球风控网,完善常态化审计整改机制,强化数据安全、贸易壁垒等新型风险防控。推进全球知识产权申请与保护,提升运营效能。"
+    },
+    {
+      "reportDate": "2024-12-31",
+      "businessReview": "一、概述2024年,面对全球经济格局深度重构、产业链供应链加速重塑、地缘冲突跌宕涌动、国内经济高质量发展韧性推进等因素影响,在董事会领导下,在广大客户一如既往信赖与支持,全产业链合作伙伴通力协同,全体员工砥砺奋进下,在变局中开新局,着力打造智慧电器和绿色能源两大产业核心竞争力,推动全球区域本土化战略落地,推进中后台专业化能力建设,加速推进公司安全高质量发展。报告期内,公司实现营业收入645.19亿元,同比增长12.70%,实现归属于上市公司股东的净利润38.74亿元,同比增长5.1%。（一）智慧电器产业2024年,智慧电器产业深化产业融合协同,以市场为导向,精准施策,全力拓展国内外市场增收增利；以应用为抓手,新质驱动,全力提振技术价值效能；以数字化为引擎,全力提升要素资源运营效率；以价值为导向,全力提升人力资本效应,加速打造国内外业务增长新曲线,实现产业效能与综合竞争力的系统性提升。报告期内,公司智慧电器板块实现营业收入217.04亿元,同比增长2.79%。1.国内业务,强基固本2024年,抢抓新能源、新型电力系统建设、新基建、新型工业化带来的新机遇,聚焦电网、新能源场站、OEM等专业行业市场,以及算力中心与智慧城市重点项目,深耕倍增“四新四高”业务。国内业务持续保持市场领导者地位,稳定了发展“基本盘”,行业市场份额“破茧增长”,进一步筑牢了“压舱石”,实现规模与盈利“双增长”。（1）分销业务,稳定基本盘深度践行“区域-行业-产品”三位一体平台化营销体系,有序推进5321渠道生态重构,深挖潜力区域市场,构建高效低成本储运配一体化网络,强化区域市场管理。（2）行业业务,聚能拓新电网行业,持续精进,厚积新底色。持续提增国网省网统招协议库存与电商化业务,智能化物联产品在南网实现应用,自主品牌低压成套设备进入浙江省网、蒙电等标志性配网项目应用,智能台区解决方案实现典型项目应用。新能源行业,逆势增长,迸发新亮色。聚焦深耕新能源集成商、新能源材料制造商业务。E系交直流框架断路器、直流旋钮开关、低功耗接触器、行程限位开关、隔离开关等新产品在风电、储能、光伏等领域实现批量应用。流程工业行业,结构升级,点染新成色。巩固深耕石油石化、民营炼化、钢铁冶金、有色金属等头部客户业务；深挖突破“三桶油”炼化核心领域,以及化工、建材水泥、制药污水等新客户业务。信息通讯行业,生态合作,赋予新泽色。深度与华为、中兴等战略合作,突破性获取中国联通、中国移动等多个项目订单,全栈自研预制一体化电力模组在智算中心供配电系统广泛应用。离散工业行业,技术引领,增添新韵色。深度挖掘智能制造装备、环保设备、高端数控机床等高景气高附加值行业市场；针对现代物流装备、现代畜牧装备等新兴行业头部客户,“产、销、研”协同,精准识别客户应用新需求,实现新一代OEM专供产品规模性国产化替代。图1：正泰智慧电器自动化制造2.海外业务,深耕厚植2024年,抢抓新能源、新基建、制造业脱碳升级等新机遇,重点聚焦欧洲、中东、北非、亚太等高潜力区域,深挖“风-光-储-数”应用新领域、新场景,深化与重点客户战略合作,持续巩固核心市场领先地位,释放全球化业务的价值潜能,以差异化策略实现精准破局,加速推进“全球区域本土化”战略布局进程。（1）洲区业务,纵深突破欧洲核心市场,保持低压元器件渠道业务稳定增长,发挥全球大客户集群效应,突破工业脱碳解决方案等创新业务发展。持续促进意大利、西班牙、土耳其南欧等国家的快速发展,构建德法国家新增长曲线。亚太成长市场,以新加坡为中心,发挥本土区域工厂制造优势,紧抓中资建设及产能外溢带来的新机遇,实现马来西亚、印尼、越南、菲律宾东盟经济圈业务快速发展。西亚非新兴市场,紧抓海湾国家发展动能,打造沙特和迪拜双总部驱动,推进基础设施建设,绿色能源和智慧电网的新型业务探索。（2）本土化布局,构筑供应链韧性加速区域工厂布局与供应链资源整合,沙特、肯尼亚、巴西、墨西哥等本土化制造工厂相继投运,本土化制造与交付能力持续提升。充分借助本土化仓储物流资源,优化升级仓储物流网络,布局跨区域服务仓储中心20个,提升物流效率与客户满意度。图2：正泰国际参加肯尼亚工厂开业仪式和国际大电网会议3.技术创新,精研产品以新应用场景为主线,开发了多种具有创新性和竞争力的产品,发电与新能源行业专供的新型直流框架断路器、塑壳断路器,电网行业专供的2500A框架断路器、“四合一”量测控制器,基础能源与流程工业专供的系列塑壳断路器及附件、防爆产品,信息与通信行业专供的智能断路器、单断点直流塑壳断路器等。着力新技术、新材料、新工艺的研究与应用,完成低温锡、水基清洗剂与助焊剂等新材料研究与应用,实现非晶纳米晶互感器、石墨烯等关键技术突破。石墨烯复合电镀技术,已广泛应用于低压元件系列产品。各系列产品研发投入占销售收入比达到4-12%,新产品上市率达90%以上。4.产学研合作,技术升级持续推进“产-学-研-政-用”平台,与清华大学、西安交通大学、浙江大学等知名高校,与行业研发机构常态化技术合作,持续与行业客户定制化产品开发、产品标准制修订与升级,在新能源关键设备、电力电子、AI大模型、人才培养、成果转化等领域达成合作共识,联合开发新产品。低压实验中心相继通过了中国（CNAS）、美国（ULWTDP）、加拿大（CSAWMTC）、欧洲（VDE）等权威机构认证与认可,成为行业首家获得ISO56005创新与知识产权管理能力四级评价证书的企业。报告期内,获取专利与软著311项,参与制修订31项国家和行业标准,2项新产品达到国际领先水平,27项新产品达到国际先进水平,荣获“国家级标准创新型企业”“国家高端装备制造业标准化试点项目”等32项科创荣誉。NXBLE-32/63剩余电流动作断路器等4款产品获评“浙江制造精品”、“浙江省优秀工业新产品”等称号。图3：正泰低压智能电器研究院5.接轨国际,践行可持续发展将可持续发展理念融入公司治理核心,构建ESG战略发展体系。在联合国全球契约组织的框架下,积极参与全球能源峰会与行业论坛,与多家跨国企业达成合作共识,共同开展了10余个可持续发展项目,组织可持续运动日活动推广低碳理念,获得国际权威机构评级认可。（二）绿色能源产业在全球多国“双碳”目标落地、地缘政治局势不稳定、国际能源结构急速变化等大背景下,加速清洁能源转型、保障自身能源安全、提升能源供应链韧性、实现绿色发展已成为各国广泛共识。根据英国能源智库Ember的报告,2024年全球太阳能发电新增装机容量达到593GW,同比增长29%。据国家能源局数据显示,国内下游新增装机规模依然保持较快增长,达到277.57GW,同比增长28.3%,光伏累计装机量已突破880GW。1.户用光伏,高质发展正泰安能作为户用光伏领域的领军企业,依托全生命周期质量管理体系、卓越的电站设计开发能力、智能运维系统及全流程服务生态,持续输出高品质户用光伏解决方案。2024年度,实现营业收入318.26亿元,净利润28.61亿元,年度新增装机容量超13GW,电站交易规模超8GW,报告期内持有电站装机容量突破19GW,持续领跑行业高质量发展赛道。（1）拓展渠道纵深,共筑市场护城河正泰安能积极响应国家“双碳”战略与乡村振兴政策,通过“动态分级+区域深耕”驱动策略,提升整体协同服务能力,实现渠道网络纵深拓展,截至报告期内招募加盟代理商近3700家,业务覆盖29个省级行政区、2000个区县,累计交付超160万座“多-快-好-省”品质电站,市占率连续多年蝉联行业榜首。图4：正泰安能+光伏星+小安到家+绿电家+PVSTAR+安能智电”六维品牌矩阵正泰安能持续拓展客户群体的多样性,构建央国企战略合作、地方平台共建、民营资本协同、产业基金联动的多元合作网络。通过着力打造“正泰安能+光伏星+小安到家+绿电家+PVSTAR+安能智电”六维品牌矩阵,以PVSTAR品牌实现“光-储-充-热”系统海外市场突破,依托“安能智电”品牌创新推出源网荷储一体化解决方案,借助“绿电家”品牌专注中高端用户多样化需求,已形成覆盖户用光伏全场景的价值链生态。（2）探索模式创新,重构产业生态随着国家加快构建以新能源为主体的新型电力系统,积极探索新型商业模式、带动行业生态实现健康持续协同发展,已成为必然发展路径。图5：正泰安能户用分布式光伏场景方案正泰安能持续增加研发投入,不断创新应用场景解决方案,开创整村开发、集中汇流模式,在山东诸城等地成功打造行业标杆项目,破解户用光伏行业配电容量限制与消纳难题,实现户用光伏从分散式开发向集约化管理的跨越式发展。推出首个智能微电网项目,构建“能源孤岛”到“生态网络”的进化路径,打造分布式能源智慧生态系统。针对多元化应用场景,开发差异化解决方案,城市区域落地“光伏+建筑”一体化项目,探索“光伏+储能”的家庭绿电新模式；针对复杂房型推出专用桁架方案,保障建筑安全前提的同时,提升电站装机容量。（3）聚焦碳资产运营,开辟价值蓝海正泰安能积极探索户用光伏绿色电力及绿色证书交易衍生的商业模式。在广东、浙江、江苏等省份实现户用光伏绿电交易破冰,月平均交易量超过1000万千瓦时,成为绿电交易规模最大的户用光伏企业之一。在绿证开发方面,正泰安能已成为全国首批实现户用绿证签发的企业之一,首家实现“万户”户用电站的建档立卡企业。户用光伏率先实现绿电、绿证交易,创造项目盈利新增长点、挖掘行业发展潜能,创造了良好契机。（4）赋能数字基建,驱动效能革命正泰安能推动智能化升级,将数字技术与户用光伏电站的开发、建设、运维等环节深度融合,引领行业数智化发展。应用AI技术开发“泰智绘”系统,通过不同电站场景下的机器学习算法,实现快速出图,综合效率提升6倍以上。集合业务进度、周期分析、超期预警、结算分析等功能的业绩看板,赋能代理商提升电站全链路开发效率。率先开展运维云端部署,建立统一的数据中心,使电站运维从“被动等待”转变为“主动预见”,全面提升合作伙伴的数智化管理水平。推出首个安全管理平台,通过智能算法实现事前预防、事中处置、事后复盘的全过程管理,推动行业安全标准升级,保障主营业务稳健发展。图6：AI智能绘图系统“泰智绘”2.电站业务结构持续优化升级以“国内多元布局、海外精准突破”双轮驱动,在光伏电站开发、运营维护等方面助力全球新能源转型,推动能源治理结构优化,减少碳排放,开创绿色发展新格局。充分利用国内外资源,积极深化与合作伙伴战略合作,加快项目建设,推动资产管理与资本高效流转,实现产业结构升级。国内市场,主动尝试探索新模式、新发展,建造了浙江省首座滩涂储能电站——温州乐清湾共享储能电站项目,实现了多元化储能商业模式创新应用。中核汇能三门健跳东部一期200MW光伏项目实现并网发电,标志着公司在“核光储一体化”示范项目中取得新突破,是清洁能源基地规模化开发中采用央国企与民企合作的新范式。与蔚来能源合作,聚焦换电站综合能源市场业务拓展,顺利推进肃北县马鬃山300MW风电项目,标志着公司在绿色产业链中实现全方位拓展。图7：正泰全球光伏电站项目海外市场,加快多元化拓展,推动多地业务实现突破。在新西兰,为国际电站开发巨头（LightsourceBP）提供170MW光伏项目的总包服务,推动新西兰现阶段最大的光伏项目建设；与新西兰当地开发商（SolarBay）达成合作协议,成功取得芒阿图罗托（Maungaturoto）21MW光伏项目的EPC建设合同。与纳米比亚国家电力公司（NamPower）签署了罗什平纳地区100MW光伏电站EPC项目合作协议。为土耳其知名食品企业（AytaçGıda）交付6MW光伏项目,并与土耳其工业发展银行（TSKB）签署了战略合作协议,强化土耳其本地可再生能源项目开发领域合作。与国际新能源投资商博枫旗下的欧洲电站投资平台签署合作协议,向其出售公司在荷兰和西班牙共计90MW的光伏项目,并提供工程总包服务。报告期内,光伏项目群建设成果荣登2024年中国光伏电站EPC总包企业20强第3位,2024年中国光伏电站投资企业20强第8位,荣获“全球新能源企业500强”、“光储绿色融合金工奖”等。3.逆变器储能未来可期以技术创新为核心驱动力,在光伏逆变器、储能系统和智能电网设备等领域取得了多项突破性进展,推出了多款具有国际先进水平的产品,为客户提供了高可靠高性能的光伏逆变器、储能产品及解决方案。（1）聚焦重点市场突破,加强多元化场景应用构建全球业务格局,持续发力北美、韩国优势市场,加快欧洲市场突破。积极开拓日本、拉美、亚太等新兴市场,推动逆变器及储能业务持续提升。在北美,通过多年本土化运营、卓越售后服务取得了较高的市场占有率,连续多年稳居北美工商业光伏逆变器出货量第一。在韩国,持续保持市场市占率第一的优势地位。在欧洲,搭建波兰、荷兰子公司及售后服务中心,以海外本土化为抓手,全场景光储解决方案、大功率组串产品,已在波兰、土耳其、西班牙、葡萄牙等国实现光储项目突破。在日本,强劲增长工商业储能,稳固了中小型项目业务领先地位,签约两单大型储能项目,更积极向大型高压、地面电站储能系统市场迈进。在巴西、乌克兰、巴基斯坦等多个新兴市场渠道商建立了合作关系,成功落地巴西马托格罗索工厂光伏电站项目,与巴基斯坦等国贸易公司签署了逆变器分销合作协议,有力推动了当地清洁能源转型进程。图8：正泰电源参加国际太阳能展（2）推动产品技术创新,深化长期稳定合作持续加大研发投入,引入培养研发人才,致力于新技术和新产品开发。先后荣获2024“北极星杯”储能影响力PCS供应商奖、上海市企业技术中心、上海市智能工厂、EESA-2024中国储能百大品牌、“光能杯”四个奖项,上海市技术发明一等奖等。与光伏储能行业中核汇能、中核南京、上海电气、中石油、国电投、三峡集团等建立了稳定的合作关系。在现有客户群体基础上,加强下游户用、工商业、大型地面电站光伏新客户的拓展力度。抓住配套储能系统建设的市场增量机遇,充分利用现有渠道,根据行业发展趋势、市场需求与竞争情况,强化营销队伍建设、完善销售网络布局,取得良好效果。在2024年实现连续五个季度入选知名研究机构彭博新能源财经(BloombergNEF)季度全球光伏逆变器制造商榜单（T1）,并在10月同时入选彭博2024年第四季度全球一级储能厂商榜单中,实现双榜T1级,也充分体现了正泰电源在技术研发、设备性能、业务拓展等方面的卓越成长性。",
+      "futureExpect": "(一)行业格局和趋势1、低压电器行业保持稳定增长低压电器产品广泛应用于国民经济各个行业,市场发展相对成熟,市场规模整体呈现稳定增长态势。低压电器行业与宏观经济发展联系紧密,与GDP、全社会用电量增长趋势趋同。国内低压电器发展与电网工程投资、固定资产投资、工业投资关系密切,新能源、数据中心、通信等行业的快速发展为低压电器行业增长带来新动能。图1：低压电器市场规模稳定增长,与GDP、全社会用电量增长趋势趋同资料来源：格物致胜、IFind根据国家能源局2024年全国电力工业统计数据显示,2024年全国主要发电企业电源工程建设完成投资11,687亿元,同比增长12.1%。电网工程建设完成投资6,083亿元,同比增长15.3%。根据国家能源局统计数据,2024年,全国全社会用电量9.85万亿千瓦时,同比增长6.8%。中国电力企业联合会预计2025年全国全社会用电量10.4万亿千瓦时,比2024年增长6%左右。“双碳”目标下,我国进一步提出构建以新能源为主体的新型电力系统,明确了能源电力转型发展方向,国家电网、南方电网相继发布了相关行动方案。国家电网在行动方案中指出,以新能源为主体的新型电力系统是清洁低碳、安全高效能源体系的重要组成部分,是以新能源为供给主体、以确保能源电力安全为基本前提、以满足经济社会发展电力需求为首要目标,以坚强智能电网为枢纽平台,以源网荷储互动与多能互补为支撑,具有清洁低碳、安全可控、灵活高效、智能友好、开放互动基本特征的电力系统。低压电器量大面广,是广泛应用于诸多行业的传统电器设备,具有工业消费品属性,是构建坚强电网、新型电力系统的关键一环,随着构建新型电力系统不断深化发展,有望带动低压电器需求稳步增长。此外,新型电力系统对低压电器产品需求也提出了新的要求,以智能化、模块化、可通信为主要特征的新一代智能化低压电器将成为市场主流,具备研发实力的头部公司竞争优势显著、成长空间广阔。第三方研究机构格物致胜发布《2024年中国低压电器白皮书》,报告预计2024年中国低压电器市场规模为854亿元。报告显示,低压电器中国市场竞争格局中,两家企业销售规模超过百亿元,正泰电器为其中之一；在其6星市场模型中,两家企业获得6星评级,正泰电器为唯一一家上榜的内资企业。2、新能源行业发展势头正劲（1）光伏装机增长迅速当前全球已有多个国家提出了“零碳”或“碳中和”的气候目标,大力发展可再生能源已成为全球共识,以光伏发电为代表的新能源产业成为实现我国能源结构优化与“双碳”目标的主力军。根据中国光伏行业协会编制的《中国光伏产业发展路线图（2024-2025年）》数据显示,2024年全球光伏新增装机超过530GW,再创历史新高。未来,在光伏发电成本持续下降和新兴市场需求增长等有利因素的推动下,全球光伏新增装机仍将快速增长。自2023年以来,光伏上游产业链价格整体呈下降趋势,产业链各环节价格回落,光伏电站系统投资主材组件价格下降,进一步激发了下游装机需求。根据国家能源局统计数据,2024年,国内光伏新增装机277.57GW,同比增加超28%,其中,分布式光伏装机118.18GW,约占全部新增光伏发电装机的43%。公司控股子公司正泰安能主要从事户用光伏能源运营与服务,专注于为广大农村用户提供屋顶光伏系统的全流程解决方案与服务。正泰安能致力成为全球领先C端综合能源服务平台,紧抓国内户用分布式光伏发展机遇,累计用户数已突破160万户。公司全资子公司新能源开发为集开发、建设、运营、服务于一体的清洁能源解决方案提供商。在国内,新能源开发创新性地探索光伏电站建设模式,拥有大中型地面电站、工商业分布式屋顶光伏电站、农光/沙光/渔光/牧光等“光伏+”电站等各类电站建设经验。在全球,新能源开发积极参与“一带一路”共建,在埃及、泰国、荷兰、越南、保加利亚、美国、西班牙、韩国、日本等多个国家开展光伏电站建设与EPC服务。公司将充分受益于全球光伏产业的蓬勃发展趋势。（2）逆变器、储能市场空间广阔逆变器是光伏发电系统的核心设备之一,其主要作用是利用电力电子变换技术,将光伏发电系统产生的直流电转换为我们日常所需的交流电,承担着连接光伏阵列及电网的重要职责,其运行效率和转换效率直接影响整个光伏发电系统的运行效率。随着全球光伏产业快速扩张,光伏逆变器市场整体规模也呈现高速增长趋势,行业正处于景气上行阶段。根据全球知名能源研究机构WoodMackenzie预测,到2031年,全球光伏逆变器出货量有望达到560GW。与此同时,随着光伏等可再生能源的加速渗透,储能技术作为解决能源供需矛盾、提高电力系统灵活性和稳定性的关键手段,其市场需求呈现出爆发式增长。根据彭博新能源财经（BNEF）数据,2024年全球储能新增装机容量达到69GW/169GWh,以GWh计同比增速达到76%,到2030年底前的年增长率将达到21.2%。另一家机构集邦咨询（TrendForce）预计,2025年全球储能的新增装机将会达到约86GW/221GWh,同比实现27%/36%的增长。公司控股子公司正泰电源主要从事光伏逆变器、储能变换器及系统集成研发、生产、销售及服务,专注于光伏发电转换、电化学储能存储、变换与智能化管理,为家庭、工商业及地面电站等提供全场景的光伏与储能系统解决方案。公司所处行业发展势头正劲,空间广阔。(二)公司发展战略公司践行电气行业智能化应用,开拓区域能源物联网模式,打造平台型企业,构筑区域智慧能源综合运营管理生态圈,面向区域内政府及终端用户提供一揽子能源解决方案。以智慧科技和数据应用载体,实现企业对内与对外的数字化应用与服务,为能源物联网与工业物联网提供端到端的连接服务；以产品智能化与智能制造为核心,践行电气行业智能化应用,支撑能源物联网的基础能力,通过构建智慧能源生态体系,开拓区域能源物联网创新模式。(三)经营计划2025年是“十四五”收关攻坚之年,也是“十五五”谋篇布局的一年。面对新一轮科技革命和产业变革,公司将紧紧围绕“强化变革创新,促进开放融合”的工作方向,系统落实战略任务,强化产业一体化,推进全球区域本土化纵深发展,打造数字正泰3.0,加快构建中台战略支撑体系,加大新动能新产业培植发展和核心能力提升,优化升级高能级渠道生态,挖掘两重两新优质业务,扩大国内区域行业增量业务,升级筹建区域工厂,着力构建正泰综合能源平台、正泰工业互联网平台,完善项目全周期全场景、端到端、源网荷储一体化解决方案,开展关键核心技术、原创性技术攻关迭代和绿色数字产品更新升级,共同开启正泰高质量发展可持续的新征程。1、打造平台化、赋能型的市场运营体系,加快全球市场职能机制建设和综合能力提升。强化市场研究与机制洞察体系,聚焦产品综合竞争能力提升,加快新技术新产品的市场化,强化市场一线与中后台、国内国际总部与洲区中心协同机制,推动跨产业链解决方案、大客户合作和综合项目协同机制建设,先试先行AI大模型等应用场景和成功案例并复制推广。2、强化产业一体化发展,发挥协同效能,持续提升发展质量和效益。积极把握政策机遇,围绕新型电力系统、新型基础设施建设等需求,大力开发新一代绿色化数字化产品,大力推进电力自动化、工业自动化、电力能源服务及全生命周期系统解决方案的开发,加快智能化产品与系统的迭代更新,统筹推进关键应用技术研究,推动低压配电产业进一步巩固行业领跑地位。深化开展1+5全球市场营销管理模式的试点,构建市场营销与产品技术研发、制造与供应链、物流服务与投资并购等全球区域本土化资源配置和精准投放的能力。推进渠道生态重构,加速壮大四新业务,提升专业市场高精尖领域业务份额；稳步推进产业整合,加强产业并购与投后专业化管理服务支持,强化业务运营规范性,完善产能布局,打造数字低碳工厂,全面推进绿色数字供应链管理,建立健全产品碳足迹管理体系。3、整合内外资源,推动绿色能源产业平稳跨越行业周期,加速新质发展。主动推进内外部资源贯通协同,不断夯实组织运营水平,持续推进多维度降本控费增效,加强海外业务拓展,多线布局新技术,培育新业态新模式,提升整体抗风险能力。完善全面成本管理机制,推进精细化费控,在制造、采购、物流、仓储等环节实现成本优化；加速海外布局,深挖高毛利区域,以确保经营利润稳步改善。探索合作新模式与发展新路径,全面提升全球化业务能力,推动跨产业链协同,培育新的增长极。4、加快构建中台战略支撑保障体系,强化提质降本增效,加速深化中台融通和能力建设。以变革促创新,充分结合产业公司经营需要,聚焦兵种建设与战区赋能两大目标,遵循开发突破、产品经营、协同降本、产能优化四条主线；通过数字化平台整合,实现为产业公司提质增效,为全球化能力提供有力支撑；全面拥抱AI技术,加速能力迭代与升级,持续引进全球技术领军人物和人才,完善研发体系,探索软硬件一体化整合解决方案,鼓励产品和技术创新。5、大力推进数字正泰经纬工程3.0,持续夯实研产供销服融通共享。构筑数字化精细化的全球经营管理体系,形成平台支撑有力、一线作战高效、治理调节精准的运作模式,逐步实现从组织驱动到流程驱动,进而从数据驱动到人工智能驱动的转型进化,对标APQC世界500强实践,持续推进大运营体系建设,强化流程管理与流程运营能力,扎实推动流程再造与组织变革,以及相关业务运营规范的建章立制,加大力度推进数据治理,完善数据治理体系和治理运营平台建设,让数据成为管理和决策的有力支撑。"
+    },
+    {
+      "reportDate": "2023-12-31",
+      "businessReview": "(一)概述2023年,面对复杂严峻的内外部环境,在董事会的正确领导和经营层以及全体员工的共同努力下,公司因时因势作出了在坚持实施“产业化、科技化、国际化”战略方针基础上,叠加延伸“数字化、平台化”的发展要求。按照“五化”战略方针,做强做大集团平台化“聚变”能力,各产业板块通过“做优做强行业品牌、做精做专产品与服务”,打造“裂变”发展模式,积极探索实现“基业长青”的正泰之路。报告期内,公司坚持“强化融合创新、促进协同发展”的理念,持续深耕智慧电器和绿色能源两大板块,实现营业收入572.51亿元,同比增长24.53%;智慧电器方面,国内业务深度践行全链数字化营销体系,推进市场升级、产品升级、产业升级,依托数字化平台的建设推进及智能制造的改造升级,持续优化履约服务;国际业务持续推进全球区域本土化,通过全球化战略、全产业能力、开放的合作模式、多场景定制能力等,与全球客户更紧密链接,提升品牌影响力。绿色能源方面,户用业务进一步扩大渠道优势,通过降本措施弱化光伏产业链价格的波动;电站业务聚焦推动大型光伏基地项目落地,加强国央企合作,持续以滚动开发模式优化资产结构;逆变器及储能业务实现资产证券化,并通过研发积累及技术创新优势不断提升品牌影响力,在户用、工商业、地面电站等各种光伏发电应用场景不断提升产品市占率,创造了成长新动能。(二)智慧电器业务2023年,在“新型工业化”、“双碳目标”、“数字经济”、“新型电力系统建设”等发展趋势因素的驱动下,公司紧跟时代趋势,抢抓国产替代新机遇,深耕从元件设备到解决方案和集成服务的全产业链业务,利用研发、制造、交付、快速响应等优势嫁接合作伙伴客户资源,全力支持行业客户进一步开拓细分市场,持续扩大市场占有率,加快构建国内外市场的国货发展格局,立足长远、优势互补、资源共享、共同发展,为企业发展提供源源不绝的内生动力。报告期内,公司智慧电器板块实现营业收入211亿元,同比增长5.9%。1、正泰中国,融合协同、以进促稳正泰中国贯彻落实“产业融合协同,技术创新升级,营销全链竞力,运营高质发展”的经营方针,在面对多元化用户的需求,加速对多技术融合并迭代升级,推动电力装备行业加速发展,更加趋向电气化、绿色化、智能化,更加转向全链路一体化竞争,更加注重高质量发展。在“融合创新、以进促稳”方面迈出了坚实步伐。(1)创新变革、合力突破,行业拓展迸发新活力报告期内,公司立足于集团全产业链与渠道资源优势,主动迎接行业新一轮竞争,创新变革、整合共享,全链营销开启新格局,推进市场升级、产品升级、产业升级。在渠道端,公司进一步重构分销渠道生态,持续提振渠道竞争力,围绕“业务拓展、技术服务、仓储配送、组织运营、团队建设、业务信息化”六维能力,对所有网点伙伴进行能力评价,识别改善提升机会,科学制定市场营销发展策略与目标、执行适宜的价格策略,有效配置资源,针对性开展“支帮促赋”活动,促进网点合作伙伴综合能力提升,实现渠道的共创共享共赢发展。截至报告期末,公司拥有445家一级经销商,21,860家二级分销商,超10+万家终端渠道,实现区县级覆盖率约92%。在行业端,公司聚焦深耕、合力突破,迸发出新活力。凭借完整、高性价比的产品线布局,产品研发、智能制造、快速响应体系以及全产业链优势,尤其是在5G&通讯、新能源、流程工业领域,推出行业领先的系统解决方案及系列产品,以满足市场对高端化、智能化低压电器的需求,报告期内,公司市场份额显著增长,为公司业绩增长增添新动力。(2)拉通协同、迭代升级,新品投放提振新竞力报告期内,公司以市场为导向,根据需求的更新,迭代升级相关配电产品,比如新能源交直流塑壳、框架、隔离开关等E系列产品,智能化3系断路器、NB2小型断路器,电网新5P塑壳、框架断路器、特殊应用场景的专供变频器、接触器等工控产品、自动化产品等,均在报告期内上市应用。报告期内,公司以技术创新研发新品,以价值创造驱动市场需求,支撑业务健康增长。(3)系统融合、赋能卓越,数字化营销夯实新基础报告期内,公司搭建全球客户数字化管理平台,聚焦电网、发电集团等“总部+区域”行业大客户,以及“五投”战略客户,强化客户资源管理与共享,识别需求特点、采购情景、决策链等关键要素,为大客户业务协同、军团式作战、全链营销提供赋能支持。与此同时,公司构建“泰知数”治理平台,依托“正泰云”,实时获取、分析、研判前端销售数据与后端供应链数据,实现精准治理,以数字治理净化渠道生态。(4)智能升级、交付提效,履约服务打造新驱力报告期内,公司建设华东智能仓储示范基地,实现物流智能化、自动化与密集储存,整合华东地区分拣中心,全面覆盖华东区域配送当日达;升级改造临沂、湖南、天津、大湾区等物流中心的装卸与分拣设备,优化仓储布局,采用高架储存充分利用仓储空间;物流运输配送通过“公路、铁路、海河”多式联运、同线路多站点集串式配运、同区域客户多产品组合配送等方式,提高整车一次配载率。根据下游客户行业特性,分类构建超50个技术服务站,实现技术服务资源的统筹共享、就地化快速响应。报告期内,公司持续提升履约综合能力,发力服务侧,铸牢市场拓展的压舱石。与此同时,公司近年来也陆续投建了智能制造“未来工厂”、智能低碳量测园区、“双百万”绿色智慧工厂、光伏“零碳工厂”等,把高端化、智能化、绿色化理念融入于源头到末端全过程和产品全生命周期中,通过数字技术创新实现个性化定制、柔性化生产,带动整个产业链转型升级,助力新型工业化发展。以标准化推动先进制造业的智能化转型,基于数字化、电动化趋势打造出“智”造行业最佳例证。报告期内,正泰电器凭借在践行信息技术与制造技术全产业链深度融合方面的卓越实践,荣获国家工信部“数字领航”示范企业,成为低压电器行业唯一入选的企业,再次彰显出行业“龙头”的实力与担当。2、正泰国际,区域本土化,开辟“新空间”面对全球经济复苏的步伐放缓与政经环境的快速变化,正泰国际始终坚持以客户为中心,通过组织变革赋能,以区域总部建设为抓手,加速推动全球化业务布局,深化全球产能布局和供应链深度整合,持续深化国际品牌形象建设,实现海外业务平稳增长。(1)持续推进全球区域本土化报告期内,公司加速推进以区域总部和本土化子公司为核心的全球业务架构体系,本土化国家公司累计达30+,本土化率达65%;持续推进全球渠道倍增及战略大客户合作,新增渠道商40+,不断加强与全球头部客户的合作,全球活跃渠道与项目客户达2,000余家,实现全球140多个国家业务覆盖。公司国际业务实现营业收入44.69亿元,同比增长16%。其中,大亚太地区收入同比增长12%;大欧洲地区收入同比增长13%;北美地区收入同比增长51%;西亚非地区收入同比增长23%;拉美地区收入与同期保持持平。(2)不断扩大全球伙伴生态圈公司在强化自身创新实力的同时积极拓展海外业务,持续升级外贸结构,在全球范围内建立起完善的销售和服务网络。报告期内,公司凭借深厚的行业积累与卓越的服务能力,与多类型客户建立了稳固的合作关系。与沙特电力局SEC、菲律宾电力局NGCP等电网公司客户深度合作,提供高效稳定的低压设备与服务,助力其保障电力供应与能源安全。同时,在新能源领域,公司积极面对全球能源变革新时代,紧抓绿色低碳发展趋势,着力推进与RWE,GreenlineEnergy等新能源头部开发商的合作,为客户提供创新的电器解决方案。此外,与巴西某州正式签署“智能制造”谅解备忘录,共话智慧城市建设,同时正式投入运营建设于罗马尼亚的新海外仓库,为连接东欧、西欧市场,提升海外供应链效率迈出关键一步。报告期内,公司加快全球供应链布局,新建海外工厂2家、区域总部累计3家、区域物流中心4家,逐步构筑起全球产能、供应链布局和业务保障体系。公司抢抓新兴经济体机遇,紧密链接当地客户,充分发挥沙特,印尼,巴西,墨西哥示范国辐射效应,积极布局海外本土产能,形成更大范围的服务能力。(3)稳步提升国际品牌影响力在业务发展的同时,公司举办首届零碳大会暨第10届国际营销大会,来访新客户及区域电力能源头部客户占比较多,客户结构持续迭代升级,携手开启零碳新征程。同时,公司举办了多场海外博览会、经销商大会、行业论坛、技术推介会等形式多样的线上、线下活动,成功增强客户粘性,提升品牌知名度,进一步提振企业以自主创新、品牌赋能为核心的国际化发展信心,更为响应“一带一路”国家战略进行国际市场布局打下坚实的基础。3、持续迭代研发技术,精细化管理赋能业务拓展报告期内,公司坚定应对市场的竞争压力和客户需求的多样化,持续加大研发力度,成功推出了多款新品和解决方案;持续迭代行业头部客户定制化需求,实施敏捷转型和研发“精细化”管理,快速提升产品项目推进效能和质量效率,满足了来自不同产业客户的需求,显著增强了产品的市场竞争力。与此同时,公司紧抓国际能源转型机遇,用一项又一项科技创新和突破为企业发展构建新质生产力,并凭借自研自产的深厚技术推动国际国内标准化建设。2023年度公司取得国内专利申请1330件,授权838件,其中发明专利申请369件,授权71件;PCT专利申请25件,进入国家阶段101件;国外授权专利39件。截至报告期末,公司研发投入支出11.79亿元,累计申请专利8,000余件,累计授权专利6,000余件,累计授权有效专利5,000余件,以行业龙头企业的实力担当推动国家先进制造业创新发展。(1)研发创新项目取得多项重大进展报告期内,在新材料、新工艺方面,公司研发的耐高压、耐烧蚀触点和热双金属等关键材料实现了国产化替代,显著提升了材料自给率;在石墨烯铜复合材料及其电镀、涂覆等表面处理工艺方面进行了深入研究,显著改善了产品的温升、寿命、抗熔焊性和防盐雾性能;在PCBA强化保护技术方面取得突破,显著增强了产品在极端环境下的可靠性。新材料新工艺的不断突破不仅确保了关键零部件的自制能力,加强了对自主权的把控,也降低了供应链风险,并提高了国产化水平。在产品研发方面,重点涉及电力、新能源、流程工业与5G通信等关键行业,并为头部客户提供了技术和产品上的突破,进一步促进了公司市场份额的增长。同时,基于市场的需求,公司对产品线进行了优化整合,形成了具有强大市场竞争力的核心产品和解决方案。(2)智能制造持续助力业务持续发展公司运用数字孪生、虚拟仿真、人工智能等新技术,实现生产过程智能排产、智能质检、设备预测和维护,智能供应链管理和远程监控等功能,全面提高生产效率和产品质量;通过工业物联网实现与MES、WMS等系统衔接,集成数字化设计、产品全生命周期管理(PLM)、供应链管理、制造过程管理(MES)、能效管理、智能物流仓储、智能物流管理系统、订单交付系统等一体化企业数字化平台,进一步提升端到端产品快速交付能力。上海诺雅克电气公司成功入围《工信部2023年度智能制造示范工厂揭榜单位》。(3)科技成果与荣誉报告期内公司在科技创新领域也取得了丰硕成果。成功承担了《光储直柔建筑直流配电系统关键技术研究与应用》这一国家级科技项目,并在业界获得了广泛认可,荣获包括“浙江省科技领军企业”和“中国机械工业科学技术一等奖”在内的科学及创新类荣誉。此外,公司还全面开展了与双碳目标相关的产品、碳足迹认证、绿色工厂评价以及绿色产品设计等科研项目。公司也成功入选浙江省商务厅2023年度“浙江出口名牌”名单、国家标准化委员会“第三批国家高端装备制造业标准化试点项目”;强势蝉联“标准化良好行为企业AAAAA级”。(三)绿色能源业务随着全球对可再生能源的需求日益增长,太阳能光伏凭借能源来源路径最短、转换效率最高、储量最大、清洁安全等特性,成为全球能源绿色低碳转型进程中重要构成部分。为促进光伏产业健康可持续发展,近年来我国政府出台多项政策推动光伏市场化进程,“碳中和、碳达峰”目标奠定了我国光伏行业飞速发展的基调。根据国家能源局数据,2023年国内光伏新增装机超216GW,同比增加超147%;其中,2023年户用光伏装机超43GW,约占2023年我国光伏新增装机20%。1、户用光伏迅猛增长正泰安能专注于户用光伏领域,具备优秀的户用光伏电站设计与开发能力、高效的电站监测与运维能力,可以向客户交付高质量、高标准的户用光伏电站产品,以及涵盖户用光伏电站全生命周期的优质服务。报告期内,正泰安能实现营业收入296.06亿元,净利润26.03亿元,2023年度新增装机容量超12GW,约占全国户用光伏新增装机容量的29%,出售电站体量约8GW,资产周转效率大幅提升。截至报告期末,正泰安能自持装机容量约14GW。(1)规模领先,效率致胜,打造新质生产力绿色发展是新质生产力的内在要求,也是高质量发展的底色,是科技革命和产业变革的方向,也是未来企业发展的核心竞争力所在。正泰安能培育户用光伏新质生产力,围绕高科技、高效能、高质量要求,累计向用户交付超120万座“多快好省”品质电站。正泰安能创新开展全品类业务模式,满足百万乡村用户差异化需求;将标准化贯彻到电站全生命周期的各个环节,建立了涵盖勘察设计、原材管控、施工管理、电站检验、运维管理的质量机制保障,做到全部工序可靠可控;持续进行流程与数字化转型,打造数据指标综合看板、全流程数字化质量管理平台及运维管理平台,指导现场工作,提高电站资产管理质量和效率;开展“南泥湾行动”,从材料、施工、运维等方面着手,有效落实成本控制,提高电站收益率;加强行业标准引领和质量支撑,主导或参与了多项地方行业标准制定工作,为国家能源局发布的《户用光伏电站合作开发合同(范本)》《户用光伏建设运行百问百答》《户用光伏建设运行指南》等提供关键内容。(2)开拓市场,模式创新,保障持续发展能力正泰安能报告期内实现户用光伏电站并网超12GW,市占率连续多年保持行业第一。报告期内,正泰安能积极扩大触及农户的代理商队伍,截至报告期末,合计招募代理商近2,700家,渠道覆盖27个省级行政区、近1,600个区县,在保持传统省份领先优势的同时,推动两湖、两广、东三省区域高速增长。报告期内,正泰安能积极做好全年资产交易进度规划管理,完成电站资产销售规模约8GW,持续深化与大型国央企客户及金融租赁公司客户的合作,初步构建了多行业、多场景的客户生态体系。与此同时,正泰安能不断创新,推行国内碳交易CCER、绿证、绿电的试点工作,进行智能微电网数字化平台建设,确保在激烈的市场竞争环境下能够安全、稳步、健康发展。报告期内,公司通过“正泰安能+光伏星+小安到家”三大品牌持续打造第一生产力,开展“合作开发、经营性租赁”等全品类业务模式。根据用户需求,提供“大阳房”、“沐光庭”、“金屋顶”、“彩光屋”、“南北坡”五大场景解决方案,为用户量身打造“多快好省”品质电站。在行业跃升的关键时期,正泰安能创新升级并融合“比特”与“瓦特”,建立了完善的全生命周期信息化管理系统,实现电站资产运营效率和运维管理效率的双提升,推动户用光伏率先成为高质量发展的新兴产业典范。正泰安能响应“碳达峰、碳中和”与乡村振兴两大国家重大战略,深刻洞察乡村能源绿色转型需求,以光伏入户的合作共建模式,因地制宜推进“零碳乡村”建设,发布《中国零碳乡村白皮书》,率先为整县推进分布式光伏试点工作出谋划策,为打通乡村能源转型最后一公里提供理论支撑和实践样本。从经济价值来看,正泰安能户用光伏电站已为超120万户用户提供了稳定可靠、可预期的新增收入来源,每户每年平均增收1,000-3,000元;从生态价值来看,每年能为全社会提供近240亿度绿电,减排超1,900万吨二氧化碳,约700万吨煤;从社会价值来看,在推广、开发、施工、物流、仓储、运维等多个环节累计增加就业岗位超20万,系统化培训累计覆盖超20万人,促进人才回流,构建永续发展的美丽乡村。报告期内,正泰安能成功举办第二届中国户用光伏创新发展论坛,成立“一度电”公益基金,发布行业首份ESG报告,提升品牌影响力的同时,赋能百万家庭实现碳中和。此外,正泰安能凭借户用光伏领域超百万座建站实践,在助力乡村振兴的道路上践行双碳目标,发挥“头雁”作用,获评“2023全国乡村振兴优秀案例”。2、电站资产持续优化正泰新能源是集开发、建设、运营、服务于一体的清洁能源解决方案提供商,具备电站设计、采购、施工和调试并网、运营维护于一体的总承包能力,可提供一站式系统解决方案。国内电站方面,正泰新能源积极探索与央国企合作新模式,以联合体身份获得开发指标;国外电站方面,首次和全球最大的清洁能源资产投资机构brookfield完成超过300MW电站项目交易,在葡萄牙完成了5.5GW项目权收购,约占葡萄牙已获批光伏项目的32%,正泰德国Schoenermark65.4MW项目成功入选德国电价补贴光伏项目,进一步增加了收益,为后续电站做出了良好的示范效应。3、逆变器储能勇拓新征程2023年,正泰电源在全球能源变革和技术革新的浪潮中,以稳健的步伐和前瞻的视野,实现了经营与业务的双重突破。报告期内,正泰电源以技术创新为核心驱动力,紧跟市场趋势,推出了一系列智能化、模块化的储能解决方案,为客户提供了更加灵活、高效的能源管理手段。在光伏逆变器领域,针对不同应用场景,研发出了多款高效、稳定、可靠的产品,满足了客户的多样化需求。凭借在分布式逆变器领域中取得的亮眼成绩,荣获了“分布式光伏优秀制造奖”。在储能系统领域,自2015年进入储能领域以来,研发的储能产品通过了CGC、UL、TüV等国内外权威认证机构的测试,满足不同国家的并网标准,可根据不同的应用场景灵活配置。正泰电源充分借助大功率组串式逆变器的优势,积极拓展国际市场。截至2023年底,正泰电源在北美工商业的市场份额连续九年第一,并积极开拓地面电站市场;在东欧市场进行了战略的初步布局并成功设立样板点,扩大区域市场覆盖。同时,积极参与国际能源展会和技术交流,大幅提升了品牌知名度和影响力,为公司的未来发展奠定了坚实基础。",
+      "futureExpect": "(一)行业格局和趋势1、低压电器行业保持稳定增长低压电器产品广泛应用于国民经济各个行业,市场发展相对成熟,市场规模整体呈现稳定增长态势。低压电器行业与宏观经济发展联系紧密,与GDP、全社会用电量增长趋势趋同。国内低压电器发展与电网工程投资、固定资产投资、工业投资关系密切,新能源、数据中心、通信等行业的快速发展为低压电器行业增长带来新动能。根据国家能源局2023年全国电力工业统计数据显示,2023年全国主要发电企业电源工程建设完成投资9,675亿元,同比增长30.1%。其中,电网工程建设完成投资5,275亿元,同比增长5.4%。根据国家能源局统计数据,2023年,全国全社会用电量9.22万亿千瓦时,同比增长6.7%。中国电力企业联合会预计2024年全国全社会用电量9.8万亿千瓦时,比2023年增长6%左右。“双碳”目标下,我国进一步提出构建以新能源为主体的新型电力系统,明确了能源电力转型发展方向,国家电网、南方电网相继发布了相关行动方案。国家电网在行动方案中指出,以新能源为主体的新型电力系统是清洁低碳、安全高效能源体系的重要组成部分,是以新能源为供给主体、以确保能源电力安全为基本前提、以满足经济社会发展电力需求为首要目标,以坚强智能电网为枢纽平台,以源网荷储互动与多能互补为支撑,具有清洁低碳、安全可控、灵活高效、智能友好、开放互动基本特征的电力系统。低压电器量大面广,是广泛应用于诸多行业的传统电器设备,具有工业消费品属性,是构建坚强电网、新型电力系统的关键一环,随着构建新型电力系统不断深化发展,有望带动低压电器需求稳步增长。此外,新型电力系统对低压电器产品需求也提出了新的要求,以智能化、模块化、可通信为主要特征的新一代智能化低压电器将成为市场主流,具备研发实力的头部公司竞争优势显著、成长空间广阔。第三方研究机构格物致胜发布《中国低压电器市场白皮书(2023)》,报告预计2023年中国低压电器市场规模为829.9亿元。报告显示,低压电器中国市场竞争格局中,两家企业销售规模超过百亿元,正泰电器为其中之一;在其6星市场模型中,两家企业获得6星评级,正泰电器为唯一一家上榜的内资企业。2、新能源行业发展势头正劲(1)光伏装机增长迅速当前全球已有多个国家提出了“零碳”或“碳中和”的气候目标,大力发展可再生能源已成为全球共识,以光伏发电为代表的新能源产业成为实现我国能源结构优化与“双碳”目标的主力军。根据中国光伏行业协会编制的《中国光伏产业发展路线图(2023-2024年)》数据显示,2023年全球光伏新增装机超过390GW,创历史新高。未来,在光伏发电成本持续下降和全球绿色复苏等有利因素的推动下,全球光伏新增装机仍将快速增长。根据国家能源局统计数据,2023年,国内光伏新增装机超216GW,同比增加超147%,其中,分布式光伏装机超96GW,占全部新增光伏发电装机的45%。2023年户用装机达超43GW,占2023年我国新增光伏装机的20%,占到分布式市场的45%,整体都保持较高增速。此外,自2023年以来,光伏上游产业链价格整体呈下降趋势,产业链各环节价格回落,光伏电站系统投资主材组件价格下降,预期将进一步激发下游装机需求。公司控股子公司正泰安能主要从事户用光伏能源运营与服务,专注于为广大农村用户提供屋顶光伏系统的全流程解决方案与服务。正泰安能致力成为全球领先C端综合能源服务平台,紧抓国内户用分布式光伏发展机遇,累计用户数已突破120万户。公司全资子公司新能源开发为集开发、建设、运营、服务于一体的清洁能源解决方案提供商。在国内,新能源开发创新性地探索光伏电站建设模式,拥有大中型地面电站、工商业分布式屋顶光伏电站、农光/沙光/渔光/牧光等“光伏+”电站等各类电站建设经验。在全球,新能源开发积极参与“一带一路”共建,在埃及、泰国、荷兰、越南、保加利亚、美国、西班牙、韩国、日本等多个国家开展光伏电站建设与EPC服务。公司将充分受益于全球光伏产业的蓬勃发展趋势。(2)逆变器、储能市场空间广阔逆变器是光伏发电系统的核心设备之一,其主要作用是利用电力电子变换技术,将光伏发电系统产生的直流电转换为我们日常所需的交流电,承担着连接光伏阵列及电网的重要职责,其运行效率和转换效率直接影响整个光伏发电系统的运行效率。随着全球光伏产业快速扩张,光伏逆变器市场整体规模也呈现高速增长趋势,行业正处于景气上行阶段。根据全球知名能源研究机构WoodMackenzie预测,到2031年,全球光伏逆变器出货量有望达到560GW。与此同时,随着光伏等可再生能源的加速渗透,储能技术作为解决能源供需矛盾、提高电力系统灵活性和稳定性的关键手段,其市场需求呈现出爆发式增长。根据彭博新能源财经(BNEF)数据,2023年全球新型储能新增储能装机容量有望达到42GW/99GWh,同比增长163%/183%。随后直至2030年将以27%的复合年增长率增长,其中2030年年新增装机容量达110GW/372GWh,是2023年预期数字的2.6倍;与此同时,到2030年,中国累计装机容量将达250GW/701GWh,几乎是2022年底水平的23倍。公司控股子公司正泰电源主要从事光伏逆变器、储能变换器及系统集成研发、生产、销售及服务,专注于光伏发电转换、电化学储能存储、变换与智能化管理,为家庭、工商业及地面电站等提供全场景的光伏与储能系统解决方案。公司所处行业发展势头正劲,空间广阔。(二)公司发展战略公司践行电气行业智能化应用,开拓区域能源物联网模式,打造平台型企业,构筑区域智慧能源综合运营管理生态圈,面向区域内政府及终端用户提供一揽子能源解决方案。以智慧科技和数据应用载体,实现企业对内与对外的数字化应用与服务,为能源物联网与工业物联网提供端到端的连接服务;以产品智能化与智能制造为核心,践行电气行业智能化应用,支撑能源物联网的基础能力,通过构建智慧能源生态体系,开拓区域能源物联网创新模式。(三)经营计划2024年是实现“十四五”规划目标任务的关键一年,高质量发展是新时代的硬道理,强调以科技创新引领现代化产业体系建设,公司按照新型工业化路径要求,持续推进“一云两网”战略,实施“产业化、科技化、国际化、数字化、平台化”战略举措,落实“高科技、轻资产、平台化、服务型”经营方针,着力打造智能电气和新能源两大产业集群化能力,区域本土化能力,中后台集成化能力和数智化经营管理能力,全面进入高质量发展新阶段。1、推进智能电气一体化,提振行业全链营销能力聚集运用“产学研政金用”资源优势,加快整合科技创新平台与技术研发体系,提升软硬件一体化能力,着力打造数智互联架构与解决方案,培植发展电力电子、电力能源服务产业。加快构建绿色数智供应链体系,升级扩展智造一体化平台,整合统筹大宗原材料集采分供,科学适宜开展投标、议标的管理,深入推进阳光采购,全面落实提质降本增效举措,打造公司在细分领域及新兴产业领域的电气设备领导者地位。融合融通前中后台一体化运作,有效整合线上和线下资源,优化新零售运行体系与4EF7值分配机制,重构强韧分销渠道,加快“新产品、新领域、新客户、新业态”突破性增长,实现行业全链营销跨越式发展。2、深化新能源产业协同,绘制业务增长新曲线新能源各产业板块将紧密协同,持续夯实基础管理,激发组织效能,强化规模降本、技术降本和模式降本,为客户提供一站式服务。在保持户用光伏电站装机量和市场占有率全面领先的同时,积极部署电价引导、消纳、投资主体等政策变化的应对措施,主动探索城市别墅、海外户用和智能微电网等新业务增长曲线。在保持逆变器和储能产品差异化竞争策略的同时,持续提升大功率组串式逆变器在国内外地面电站的渗透率,抢占国内用户侧储能空间。在保持地面电站多点布局“产业-电站-业务”协同闭环的同时,重视电力交易创新能力培育,全面加速指标交易与业务落地的时效,积极突破新业态。3、变革业务组织管理模式,推动海外业务战略转型锁定高速增长的新能源建设市场和聚焦改造电网的海外重点市场,打造“示范国”样板,有节奏地推动业务与组织形态的区域全球化。以区域供应链能力建设为核心抓手,持续推动区域总部和研发平台建设,加速区域全球化组织从区域总部、次级区域中心和本地三级业务组织的梯级有序建设,推进总部统筹平台输出能力,叠加区域敏捷定制快速决策能力,达到高效交互和双向赋能的效果。加强海外核心市场的本土制造布局,提升品牌赋能和渠道复用,深化与海外本土资源的合作,打造区域重点行业的产品方案交付能力,实现本土价值链的深度绑定,完善全球渠道管理体系,推进国际化经营和数字化运营的系统建设。4、集成中后台系统资源,支撑业务高质量发展加快实现各产业之间中后台能力的集成贯通和及时有效联动,高效落实需求管理,真正实现“铁三角”运营模式,构建产品能力和提升产品竞争力。打造全球中台各条线专业化队伍,以专业线串联和衔接各产业,有效支撑全球市场业务拓展。持续推进深度流程变革和数据治理,提升高中低压产业整体成本控制能力,聚焦全球区域本土化业务需求,不断提升综合资源利用率,逐步推进中后台人员前置和能力前移,形成总部治理、平台赋能和区域业务经营的高质量发展模式。5、推动流程再造,提升平台化数字分析管理能力为提升核心竞争力,以数字正泰经纬工程2.0为抓手,面向未来提前布局数字化能力,加快综合运营体系的建设,打造数字化经营平台分析能力,并深化流程体系建设,提升纵向组织能力。"
+    }
+  ]
+}

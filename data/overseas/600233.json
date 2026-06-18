@@ -1,0 +1,1356 @@
+{
+  "code": "600233",
+  "name": "圆通速递",
+  "fetchTime": "2026-06-18T18:34:19",
+  "segments": [
+    {
+      "reportDate": "2025-12-31",
+      "byIndustry": [
+        {
+          "name": "快递行业",
+          "income": 69593374300.0,
+          "incomeRatio": 92.45,
+          "cost": 62935068300.0,
+          "costRatio": 92.4,
+          "profit": 6658306000.0,
+          "profitRatio": 92.96,
+          "grossMargin": 9.57,
+          "rank": 1
+        },
+        {
+          "name": "货代行业",
+          "income": 2284419700.0,
+          "incomeRatio": 3.03,
+          "cost": 2107271800.0,
+          "costRatio": 3.09,
+          "profit": 177147900.0,
+          "profitRatio": 2.47,
+          "grossMargin": 7.75,
+          "rank": 2
+        },
+        {
+          "name": "航空业务",
+          "income": 1760769800.0,
+          "incomeRatio": 2.34,
+          "cost": 1886635600.0,
+          "costRatio": 2.77,
+          "profit": -125865800.0,
+          "profitRatio": -1.76,
+          "grossMargin": -7.15,
+          "rank": 3
+        },
+        {
+          "name": "其他(补充)",
+          "income": 939909153.47,
+          "incomeRatio": 1.25,
+          "cost": 525621674.9,
+          "costRatio": 0.77,
+          "profit": 414287478.57,
+          "profitRatio": 5.78,
+          "grossMargin": 44.08,
+          "rank": 4
+        },
+        {
+          "name": "其他行业",
+          "income": 698374400.0,
+          "incomeRatio": 0.93,
+          "cost": 659365200.0,
+          "costRatio": 0.97,
+          "profit": 39009200.0,
+          "profitRatio": 0.54,
+          "grossMargin": 5.59,
+          "rank": 5
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "国内时效产品",
+          "income": 67585159900.0,
+          "incomeRatio": 89.78,
+          "cost": 61373390700.0,
+          "costRatio": 90.1,
+          "profit": 6211769200.0,
+          "profitRatio": 86.72,
+          "grossMargin": 9.19,
+          "rank": 1
+        },
+        {
+          "name": "货代服务",
+          "income": 2284419700.0,
+          "incomeRatio": 3.03,
+          "cost": 2107271800.0,
+          "costRatio": 3.09,
+          "profit": 177147900.0,
+          "profitRatio": 2.47,
+          "grossMargin": 7.75,
+          "rank": 2
+        },
+        {
+          "name": "航空业务",
+          "income": 1760769800.0,
+          "incomeRatio": 2.34,
+          "cost": 1886635600.0,
+          "costRatio": 2.77,
+          "profit": -125865800.0,
+          "profitRatio": -1.76,
+          "grossMargin": -7.15,
+          "rank": 3
+        },
+        {
+          "name": "其他",
+          "income": 1736516300.0,
+          "incomeRatio": 2.31,
+          "cost": 1341288200.0,
+          "costRatio": 1.97,
+          "profit": 395228100.0,
+          "profitRatio": 5.52,
+          "grossMargin": 22.76,
+          "rank": 4
+        },
+        {
+          "name": "其他(补充)",
+          "income": 939909153.47,
+          "incomeRatio": 1.25,
+          "cost": 525621674.9,
+          "costRatio": 0.77,
+          "profit": 414287478.57,
+          "profitRatio": 5.78,
+          "grossMargin": 44.08,
+          "rank": 5
+        },
+        {
+          "name": "国际快递及包裹服务",
+          "income": 625903900.0,
+          "incomeRatio": 0.83,
+          "cost": 609231400.0,
+          "costRatio": 0.89,
+          "profit": 16672500.0,
+          "profitRatio": 0.23,
+          "grossMargin": 2.66,
+          "rank": 6
+        },
+        {
+          "name": "增值服务",
+          "income": 344168700.0,
+          "incomeRatio": 0.46,
+          "cost": 270523300.0,
+          "costRatio": 0.4,
+          "profit": 73645400.0,
+          "profitRatio": 1.03,
+          "grossMargin": 21.4,
+          "rank": 7
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华东",
+          "income": 27378863700.0,
+          "incomeRatio": 36.37,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "华南",
+          "income": 15572253600.0,
+          "incomeRatio": 20.69,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "华北",
+          "income": 9685586500.0,
+          "incomeRatio": 12.87,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "华中",
+          "income": 7725029200.0,
+          "incomeRatio": 10.26,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "西南",
+          "income": 4239238500.0,
+          "incomeRatio": 5.63,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "增值服务及其他",
+          "income": 3842618400.0,
+          "incomeRatio": 5.1,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "东北",
+          "income": 2363211900.0,
+          "incomeRatio": 3.14,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "西北",
+          "income": 1514949900.0,
+          "incomeRatio": 2.01,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "港澳台",
+          "income": 1471311600.0,
+          "incomeRatio": 1.95,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "其他(补充)",
+          "income": 939909153.47,
+          "incomeRatio": 1.25,
+          "cost": 525621674.9,
+          "costRatio": 0.77,
+          "profit": 414287478.57,
+          "profitRatio": 5.78,
+          "grossMargin": 44.08,
+          "rank": 10
+        },
+        {
+          "name": "海外",
+          "income": 543875000.0,
+          "incomeRatio": 0.72,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        }
+      ]
+    },
+    {
+      "reportDate": "2024-12-31",
+      "byIndustry": [
+        {
+          "name": "快递行业",
+          "income": 62294713900.0,
+          "incomeRatio": 90.24,
+          "cost": 56571868200.0,
+          "costRatio": 90.49,
+          "profit": 5722845700.0,
+          "profitRatio": 87.81,
+          "grossMargin": 9.19,
+          "rank": 1
+        },
+        {
+          "name": "货代行业",
+          "income": 3759106800.0,
+          "incomeRatio": 5.45,
+          "cost": 3440281800.0,
+          "costRatio": 5.5,
+          "profit": 318825000.0,
+          "profitRatio": 4.89,
+          "grossMargin": 8.48,
+          "rank": 2
+        },
+        {
+          "name": "航空行业",
+          "income": 1717315700.0,
+          "incomeRatio": 2.49,
+          "cost": 1883740800.0,
+          "costRatio": 3.01,
+          "profit": -166425100.0,
+          "profitRatio": -2.55,
+          "grossMargin": -9.69,
+          "rank": 3
+        },
+        {
+          "name": "其他(补充)",
+          "income": 1161979883.92,
+          "incomeRatio": 1.68,
+          "cost": 551704979.84,
+          "costRatio": 0.88,
+          "profit": 610274904.08,
+          "profitRatio": 9.36,
+          "grossMargin": 52.52,
+          "rank": 4
+        },
+        {
+          "name": "其他行业",
+          "income": 99550600.0,
+          "incomeRatio": 0.14,
+          "cost": 67757900.0,
+          "costRatio": 0.11,
+          "profit": 31792700.0,
+          "profitRatio": 0.49,
+          "grossMargin": 31.94,
+          "rank": 5
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "国内时效产品",
+          "income": 59751028700.0,
+          "incomeRatio": 86.55,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "货代服务",
+          "income": 3759106800.0,
+          "incomeRatio": 5.45,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "航空业务",
+          "income": 1717315700.0,
+          "incomeRatio": 2.49,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "国际快递及包裹服务",
+          "income": 1260264100.0,
+          "incomeRatio": 1.83,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "其他(补充)",
+          "income": 1161979883.92,
+          "incomeRatio": 1.68,
+          "cost": 551704979.84,
+          "costRatio": 0.88,
+          "profit": 610274904.08,
+          "profitRatio": 9.36,
+          "grossMargin": 52.52,
+          "rank": 5
+        },
+        {
+          "name": "其他",
+          "income": 1130026200.0,
+          "incomeRatio": 1.64,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "增值服务",
+          "income": 252945500.0,
+          "incomeRatio": 0.37,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华东",
+          "income": 25530325300.0,
+          "incomeRatio": 36.98,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "华南",
+          "income": 14991148400.0,
+          "incomeRatio": 21.72,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "华北",
+          "income": 7912686100.0,
+          "incomeRatio": 11.46,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "华中",
+          "income": 6263224900.0,
+          "incomeRatio": 9.07,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "西南",
+          "income": 3601478600.0,
+          "incomeRatio": 5.22,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "增值服务及其他",
+          "income": 3217340900.0,
+          "incomeRatio": 4.66,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "东北",
+          "income": 2142362900.0,
+          "incomeRatio": 3.1,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "港澳台",
+          "income": 1953723300.0,
+          "incomeRatio": 2.83,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "西北",
+          "income": 1226586800.0,
+          "incomeRatio": 1.78,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "其他(补充)",
+          "income": 1161979883.92,
+          "incomeRatio": 1.68,
+          "cost": 551704979.84,
+          "costRatio": 0.88,
+          "profit": 610274904.08,
+          "profitRatio": 9.36,
+          "grossMargin": 52.52,
+          "rank": 10
+        },
+        {
+          "name": "海外",
+          "income": 1031809900.0,
+          "incomeRatio": 1.49,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        }
+      ]
+    },
+    {
+      "reportDate": "2023-12-31",
+      "byIndustry": [
+        {
+          "name": "快递行业",
+          "income": 52268959500.0,
+          "incomeRatio": 90.61,
+          "cost": 46902544200.0,
+          "costRatio": 90.5,
+          "profit": 5366415300.0,
+          "profitRatio": 91.59,
+          "grossMargin": 10.27,
+          "rank": 1
+        },
+        {
+          "name": "货代行业",
+          "income": 3068315100.0,
+          "incomeRatio": 5.32,
+          "cost": 2753647800.0,
+          "costRatio": 5.31,
+          "profit": 314667300.0,
+          "profitRatio": 5.37,
+          "grossMargin": 10.26,
+          "rank": 2
+        },
+        {
+          "name": "航空行业",
+          "income": 1199246500.0,
+          "incomeRatio": 2.08,
+          "cost": 1443254400.0,
+          "costRatio": 2.78,
+          "profit": -244007900.0,
+          "profitRatio": -4.16,
+          "grossMargin": -20.35,
+          "rank": 3
+        },
+        {
+          "name": "其他(补充)",
+          "income": 1098153544.77,
+          "incomeRatio": 1.9,
+          "cost": 698300223.54,
+          "costRatio": 1.35,
+          "profit": 399853321.23,
+          "profitRatio": 6.82,
+          "grossMargin": 36.41,
+          "rank": 4
+        },
+        {
+          "name": "其他行业",
+          "income": 49674900.0,
+          "incomeRatio": 0.09,
+          "cost": 27500600.0,
+          "costRatio": 0.05,
+          "profit": 22174300.0,
+          "profitRatio": 0.38,
+          "grossMargin": 44.64,
+          "rank": 5
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "国内时效产品",
+          "income": 49837031700.0,
+          "incomeRatio": 86.4,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "货代服务",
+          "income": 3068315100.0,
+          "incomeRatio": 5.32,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "国际快递及包裹服务",
+          "income": 1334748500.0,
+          "incomeRatio": 2.31,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "航空业务",
+          "income": 1199246500.0,
+          "incomeRatio": 2.08,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "其他(补充)",
+          "income": 1098153544.77,
+          "incomeRatio": 1.9,
+          "cost": 698300223.54,
+          "costRatio": 1.35,
+          "profit": 399853321.23,
+          "profitRatio": 6.82,
+          "grossMargin": 36.41,
+          "rank": 5
+        },
+        {
+          "name": "其他",
+          "income": 981698400.0,
+          "incomeRatio": 1.7,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "增值服务",
+          "income": 165155900.0,
+          "incomeRatio": 0.29,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华东",
+          "income": 22235120800.0,
+          "incomeRatio": 38.55,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "华南",
+          "income": 12472517400.0,
+          "incomeRatio": 21.62,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "华北",
+          "income": 5755495600.0,
+          "incomeRatio": 9.98,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "华中",
+          "income": 4877886200.0,
+          "incomeRatio": 8.46,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "港澳台",
+          "income": 2971606900.0,
+          "incomeRatio": 5.15,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "西南",
+          "income": 2656231200.0,
+          "incomeRatio": 4.6,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "增值服务及其他",
+          "income": 2341625000.0,
+          "incomeRatio": 4.06,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "东北",
+          "income": 1686618000.0,
+          "incomeRatio": 2.92,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "其他(补充)",
+          "income": 1098153544.77,
+          "incomeRatio": 1.9,
+          "cost": 698300223.54,
+          "costRatio": 1.35,
+          "profit": 399853321.23,
+          "profitRatio": 6.82,
+          "grossMargin": 36.41,
+          "rank": 9
+        },
+        {
+          "name": "西北",
+          "income": 868226100.0,
+          "incomeRatio": 1.51,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "海外",
+          "income": 720868700.0,
+          "incomeRatio": 1.25,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        }
+      ]
+    },
+    {
+      "reportDate": "2022-12-31",
+      "byIndustry": [
+        {
+          "name": "快递行业",
+          "income": 46144612000.0,
+          "incomeRatio": 86.19,
+          "cost": 41011719200.0,
+          "costRatio": 86.36,
+          "profit": 5132892800.0,
+          "profitRatio": 84.84,
+          "grossMargin": 11.12,
+          "rank": 1
+        },
+        {
+          "name": "货代行业",
+          "income": 4487069200.0,
+          "incomeRatio": 8.38,
+          "cost": 4105745600.0,
+          "costRatio": 8.65,
+          "profit": 381323600.0,
+          "profitRatio": 6.3,
+          "grossMargin": 8.5,
+          "rank": 2
+        },
+        {
+          "name": "航空行业",
+          "income": 1777888000.0,
+          "incomeRatio": 3.32,
+          "cost": 1575299800.0,
+          "costRatio": 3.32,
+          "profit": 202588200.0,
+          "profitRatio": 3.35,
+          "grossMargin": 11.39,
+          "rank": 3
+        },
+        {
+          "name": "其他(补充)",
+          "income": 1062443693.89,
+          "incomeRatio": 1.98,
+          "cost": 757857806.1,
+          "costRatio": 1.6,
+          "profit": 304585887.79,
+          "profitRatio": 5.03,
+          "grossMargin": 28.67,
+          "rank": 4
+        },
+        {
+          "name": "其他行业",
+          "income": 67301100.0,
+          "incomeRatio": 0.13,
+          "cost": 38887900.0,
+          "costRatio": 0.08,
+          "profit": 28413200.0,
+          "profitRatio": 0.47,
+          "grossMargin": 42.22,
+          "rank": 5
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "国内时效产品",
+          "income": 44413862100.0,
+          "incomeRatio": 82.96,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "货代服务",
+          "income": 4487069200.0,
+          "incomeRatio": 8.38,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "航空业务",
+          "income": 1777888000.0,
+          "incomeRatio": 3.32,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "其他(补充)",
+          "income": 1062443693.89,
+          "incomeRatio": 1.98,
+          "cost": 757857806.1,
+          "costRatio": 1.6,
+          "profit": 304585887.79,
+          "profitRatio": 5.03,
+          "grossMargin": 28.67,
+          "rank": 4
+        },
+        {
+          "name": "其他",
+          "income": 838298900.0,
+          "incomeRatio": 1.57,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "国际快递及包裹服务",
+          "income": 799246900.0,
+          "incomeRatio": 1.49,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "增值服务",
+          "income": 155846700.0,
+          "incomeRatio": 0.29,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "仓储服务",
+          "income": 4658600.0,
+          "incomeRatio": 0.01,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华东",
+          "income": 20662451100.0,
+          "incomeRatio": 38.59,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "华南",
+          "income": 11165191800.0,
+          "incomeRatio": 20.85,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "华北",
+          "income": 5229226800.0,
+          "incomeRatio": 9.77,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "华中",
+          "income": 4243362800.0,
+          "incomeRatio": 7.93,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "港澳台",
+          "income": 3305179600.0,
+          "incomeRatio": 6.17,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "增值服务及其他",
+          "income": 2539012000.0,
+          "incomeRatio": 4.74,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "西南",
+          "income": 2045524400.0,
+          "incomeRatio": 3.82,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "东北",
+          "income": 1362263900.0,
+          "incomeRatio": 2.54,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "海外",
+          "income": 1253411600.0,
+          "incomeRatio": 2.34,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "其他(补充)",
+          "income": 1062443693.89,
+          "incomeRatio": 1.98,
+          "cost": 757857806.1,
+          "costRatio": 1.6,
+          "profit": 304585887.79,
+          "profitRatio": 5.03,
+          "grossMargin": 28.67,
+          "rank": 10
+        },
+        {
+          "name": "西北",
+          "income": 671246300.0,
+          "incomeRatio": 1.25,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        }
+      ]
+    },
+    {
+      "reportDate": "2021-12-31",
+      "byIndustry": [
+        {
+          "name": "快递行业",
+          "income": 38151654000.0,
+          "incomeRatio": 84.49,
+          "cost": 35632345300.0,
+          "costRatio": 85.98,
+          "profit": 2519308700.0,
+          "profitRatio": 67.82,
+          "grossMargin": 6.6,
+          "rank": 1
+        },
+        {
+          "name": "货代行业",
+          "income": 4406148800.0,
+          "incomeRatio": 9.76,
+          "cost": 3839817900.0,
+          "costRatio": 9.27,
+          "profit": 566330900.0,
+          "profitRatio": 15.25,
+          "grossMargin": 12.85,
+          "rank": 2
+        },
+        {
+          "name": "航空业务",
+          "income": 1536150500.0,
+          "incomeRatio": 3.4,
+          "cost": 1184954800.0,
+          "costRatio": 2.86,
+          "profit": 351195700.0,
+          "profitRatio": 9.45,
+          "grossMargin": 22.86,
+          "rank": 3
+        },
+        {
+          "name": "其他(补充)",
+          "income": 1046635060.46,
+          "incomeRatio": 2.32,
+          "cost": 772700365.2,
+          "costRatio": 1.86,
+          "profit": 273934695.26,
+          "profitRatio": 7.37,
+          "grossMargin": 26.17,
+          "rank": 4
+        },
+        {
+          "name": "其他行业",
+          "income": 14365300.0,
+          "incomeRatio": 0.03,
+          "cost": 10363000.0,
+          "costRatio": 0.03,
+          "profit": 4002300.0,
+          "profitRatio": 0.11,
+          "grossMargin": 27.86,
+          "rank": 5
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "国内时效产品",
+          "income": 35518142300.0,
+          "incomeRatio": 78.66,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "货代服务",
+          "income": 4406148800.0,
+          "incomeRatio": 9.76,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "国际快递及包裹服务",
+          "income": 1826010300.0,
+          "incomeRatio": 4.04,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "航空业务",
+          "income": 1536150500.0,
+          "incomeRatio": 3.4,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "其他(补充)",
+          "income": 1046635060.46,
+          "incomeRatio": 2.32,
+          "cost": 772700365.2,
+          "costRatio": 1.86,
+          "profit": 273934695.26,
+          "profitRatio": 7.37,
+          "grossMargin": 26.17,
+          "rank": 5
+        },
+        {
+          "name": "其他",
+          "income": 736338200.0,
+          "incomeRatio": 1.63,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "增值服务",
+          "income": 70971800.0,
+          "incomeRatio": 0.16,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "仓储服务",
+          "income": 14556600.0,
+          "incomeRatio": 0.03,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华东",
+          "income": 18174641600.0,
+          "incomeRatio": 40.25,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "华南",
+          "income": 8609556900.0,
+          "incomeRatio": 19.07,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "华北",
+          "income": 3921598300.0,
+          "incomeRatio": 8.68,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "港澳台",
+          "income": 3493756000.0,
+          "incomeRatio": 7.74,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "华中",
+          "income": 3293731600.0,
+          "incomeRatio": 7.29,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "增值服务及其他",
+          "income": 1997772500.0,
+          "incomeRatio": 4.42,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "海外",
+          "income": 1531342900.0,
+          "incomeRatio": 3.39,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "西南",
+          "income": 1489395500.0,
+          "incomeRatio": 3.3,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "其他(补充)",
+          "income": 1046635060.46,
+          "incomeRatio": 2.32,
+          "cost": 772700365.2,
+          "costRatio": 1.86,
+          "profit": 273934695.26,
+          "profitRatio": 7.37,
+          "grossMargin": 26.17,
+          "rank": 9
+        },
+        {
+          "name": "东北",
+          "income": 1030499100.0,
+          "incomeRatio": 2.28,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "西北",
+          "income": 566024200.0,
+          "incomeRatio": 1.25,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        }
+      ]
+    }
+  ],
+  "analysis": [
+    {
+      "reportDate": "2025-12-31",
+      "businessReview": "(一)经营质效稳步向好,综合能力持续增强报告期内,公司坚定深耕快递主业,以客户体验为中心,创新应用人工智能等前沿技术,全面推进智能化发展,以科技赋能公司提质降本增效。公司扎实推进全网一体数字化、标准化全面见效,推行精益中心自驱改善,精细管控核心成本,并逐步完善差异化的产品和服务体系,强化客户服务和营销创新能力,快件时效、服务质量、客户体验等持续改善,品牌价值和溢价显著增强,全网经营实力稳步提升。同时,公司深化国际化发展布局,依托自有机队、优质航线、全球网络和专业团队等优势资源,着力拓展国际快递、国际货运和供应链业务,并不断强化国内国际一体化协同,增强跨境全链路物流服务能力,国际综合服务能力稳步提升。2025年公司快递业务完成量311.44亿件,同比增长17.20%,超出行业平均增速3.60个百分点；公司2025年实现营业收入752.77亿元,同比增长9.05%；实现归属于母公司股东净利润43.22亿元,同比增长7.73%,其中,快递业务实现归属于母公司股东净利润46.14亿元,同比增长7.14%。业务完成量(亿件)营业收入311.44752.77亿元同比增长9.05%265.73212.04归母净利润43.22亿元同比增长7.73%17.20%其中：快递业务归母净利润2023年2024年2025年46.14亿元同比增长7.14%(二)深化科技创新引领,智能化能力全面升级报告期内,公司持续深化自然语言理解、大模型、数字孪生等前沿技术的垂直运用,打造全链路智能化矩阵,实现人工智能技术和业务场景的深度融合,全面推动公司智能化发展。首先,公司聚焦高频业务流程和应用场景,深化智多星（“YTO-GPT”）等智能体全网应用,实现各类经营管理数据的智能化调取和分析,有效提升全网管理决策效率；为管理人员、一线员工等不同群体打造专属AI助手,实现数据自动分析、前置提醒和主动推送,进一步提高管理效率和操作人效；持续优化智慧路由系统,基于历史订单量、成本等多维要素,强化运输路径的智能规划和动态调整,提升干线运输时效、降低运输成本；全面推广智能派件系统应用,实现包裹智能分堆,揽派路径智能规划,提升快递员揽派效率和履约能力,并结合客户画像标签优化揽派消息推送,满足客户精准化、差异化服务需求；公司迭代升级“客户管家”系统模块,不断完善智能客服系统,推进工单自动生成、智能判责和申诉审核,不断提高客服接待、处理和仲裁各环节智能化水平,服务效率显著提升；研发和升级ERP系统,为客户提供商流、物流一站式解决方案,助力客户实现售后集中处理、专业化库存管理及订单数据聚合分析等,增强客户粘性。同时,公司持续迭代客服、财务、人资等核心系统,提升网络整体经营管理质效,增强全网综合竞争力。(三)多维改善服务和体验,品牌价值和溢价持续增强报告期内,公司持续强化时效管控,着力改善服务质量,全面优化客户体验,客户满意度逐步提升,品牌价值和溢价能力明显增强。加强全链路时效管控,履约能力全面升级公司持续加强快递服务全链路时效管理,健全各业务主体协同管控机制,基于流量流向和设备建包能力动态优化建包策略,强化建包和交件双协同,推广无缝对接,交件及时率持续改善；着力提升进出港设备效率,加强中心标准化、精益化管理,并依托数字孪生技术研发“交叉带可视化”“矩阵可视化”等工具,实时管理现场操作异常,操作效率稳步提升,操作时长持续缩短；不断强化运输过程管控,优化运输时速,加强出车检查,并对在途异常车辆实施专项干预,有效降低运输在途延误率；动态优化干线路由,着力降低中转次数和二次中转量,干线运输时效显著提升；同时,公司持续推动加盟商离场时间优化,扩大车等货、中心直送等覆盖范围,降低离场后库存,并通过智能揽派功能提升末端揽派时效。报告期内,公司全程时长较去年同期缩短超2小时,整体履约能力稳步提升。减少快件遗失破损,服务质量显著改善公司持续加强快件安全管理,通过视频巡查和智能监控系统及时识别、实时规范拆包、建包等现场操作,持续升级改造运输车型和中心设备工艺,实施AI错分预警,强化破损前置预防和拦截修复,加强破损定责闭环管理,着力减少遗失破损。截至报告期末,公司快件遗失率同比下降超48%。同时,公司前置分析客户派送偏好,推行按需派送,并强化虚假签收考核管控,聚焦提升签收位置照片的使用率及合规率,保障快件安全送达。持续深化客服能力,客户体验明显提升报告期内,公司聚焦管控客户投诉重复进线,精准识别客户诉求,强化客服一次性解决问题能力,健全多部门协同联动处理机制,重复进线率持续下降,截至报告期末,公司重复进线率同比降幅超14%；持续推进智能客服体系建设,优化智能机器人接待策略,全面升级工单管理系统,实现工单全量覆盖和闭环管控,迭代升级工单系统规则及完结校验机制,保障客户问题有效解决,多维提升客户服务响应及时度和效率,截至报告期末,公司工单及时解决率提升近15%；全面推广智能仲裁应用,提高AI判责覆盖率和准确度,推动各业务场景精准判责,持续加大快速理赔推广力度,拓宽应用场景,提升理赔时效；不断优化揽派服务体验,通过短信、公众号等多渠道推送订单和工单状态,提升客户感知,客户体验明显改善。(四)强化基础设施建设,筑牢主业发展基石强化基础设施建设,厚植高质量发展根基报告期内,公司持续加大基础设施建设,全年资本开支超86亿元,主要用于转运中心建设、自动化设备升级等,核心资源掌控力明显增强。公司逐步完善转运中心布局,落实转运中心新建及改扩建计划,持续升级改造设备工艺,推广应用窄带分拣、无人供件等先进设备,提升转运中心自动化、智能化水平。截至报告期末,公司在转运中心等共布局完成自动化分拣设备386套。公司合理配置运能运力,优化车队规模和车型结构,提升甩挂车辆、大型运输车辆占比,截至报告期末,公司自有干线运输车辆达6,810辆；同时,公司稳步加强中远途航空货运能力建设,提升航空物流综合服务能力,截至报告期末,公司自有航空机队数量13架,其中波音767-300共2架,波音757-200共10架,ARJ21-700共1架。完善终端配送网络,末端服务提质增效报告期内,公司持续加强多元化配送终端建设,满足消费者差异化服务需求。公司逐步完善终端驿站布局,活跃驿站数量同比逐步增加；支持加盟商与智能快递柜、第三方驿站等合作,构建多元化末端配送网络；试点推广智能自助驿站系统,积极探索无人车、无人机等先进技术应用,推行智能室内柜铺设,提高配送终端智能化水平；同时,公司秉承“快递+”运营理念,基于快递业务的流量优势,拓展多样化便民商贸服务,发掘终端市场潜力,赋能末端提质增效。(五)深化成本精细管控,核心成本稳步下降运输成本报告期内,公司深化车辆装载质量管控,实时监控车辆装载情况,推动单车装载率和单车装载票数持续提升,截至报告期末,公司单车装载票数同比提升超7%；持续优化车队和车型结构,推行智能化车队管理,依托智能调度系统实现运能资源精准匹配,提高运输效率；不断加强运价管控,优化单双边运价和计费模式；动态优化干线路由,专项改善异常单边线路,推广干线延伸,提高单车行驶里程；同时,公司积极探索智能驾驶车辆应用,延长车辆运行时长,提升燃油经济性,助力运输成本持续下降。2025年,公司单票运输成本0.37元,较去年同期下降0.05元,降幅10.35%。中心操作成本公司深化自驱型精益中心建设,精细管控工序效能,提升装卸统筹人员复用率,逐步落实中心全员绩效管理,推行智能排班,有效提升中心人均效能；持续扩大中心智能化设备应用规模,推广柔性分拣和无人化技术等技术应用,减少分拣操作次数,提升中转效率。截至报告期末,公司人均效能提升超13%。2025年,公司单票中心操作成本0.27元,较去年同期下降0.01元,降幅3.75%。单票运输成本单票中心操作成本0.37元0.27元同比下降0.05元,降幅10.35%同比下降0.01元,降幅3.75%(六)数字化标准化成效显著,全网一体降本增效报告期内,公司秉持“非直营的直营化管理”理念,全面推进加盟网络数字化、标准化建设落地见效,全网管理与服务水平稳步提升。首先,总部项目组通过数字化系统和智能化工具,为加盟商量身定制经营管理改善方案,全面提升全网加盟商经营实力；持续迭代客服、财务、智能派件、AI助手等系统应用,赋能网络提质降本增效；不断完善客服中台系统建设,强化客服体系协同,提升网络整体服务质量。同时,公司动态优化加盟商规模和结构,推动场地、设备、车辆、服务等的标准化、规范化；强化对加盟商基础设施投放和建设支持,在重点城市和区域推广建设城市服务中心,降低加盟商成本投入和经营压力,增强核心网络稳定性；加大无人车推广力度,并助力加盟商拓展个人散件、逆向物流、仓储配送等业务,打造富有竞争力的加盟网络。(七)完善差异化产品及服务,全方位纵深拓展市场报告期内,公司在保障普遍服务品质的基础上,推进“圆准达”等差异化产品在全链路的优先操作,持续完善“普遍服务-圆准达-高端时效产品”的产品矩阵,精准匹配客户差异化需求；同时,公司逐步健全国际产品体系,打造包含国际快递、国际供应链、国际货运等八大产品,深化国内国际营销协同和客户互联互通,积极拓展产业带、品牌客户等多元客户群体,提升国内国际产品综合竞争力,稳步打造“仓干线配关”一体化的国际供应链物流服务能力。公司持续迭代数字营销平台,赋能市场拓展与客户经营,通过对客户分类施策,加强商机开发和服务保障,提高客户转化率,客户结构稳步改善；深化与电商平台的对接和合作,开展精准营销,推动散单、逆向物流等业务发展,拓宽个人寄递渠道,全方位深化市场布局,助力业务稳健增长。报告期内,公司散单和逆向物流快件同比增长达63%。(八)深化国际化发展战略,构建跨境综合物流体系报告期内,公司积极推进国际化发展战略,紧跟“一带一路”倡议和跨境电商、华人企业出海趋势,稳步构筑“中国联世界,世界联世界”的全球物流网络。通过持续优化国际产品体系和延伸服务链条,公司已逐步构建起覆盖集货发运、干线运输、清关转运、末端派送等一站式服务,综合解决方案能力稳步提升。公司充分发挥自有航空、航线网络等优势资源,做精做专中澳、中日等优质专线,深化拓展哈萨克斯坦等中亚国家的全链路快递服务；加快中东、东欧、非洲等新兴市场布局,探索适应市场和区域特点的快递网络发展路径和布局方案,积极搭建本地化配送能力；同时,公司积极拓展“卡空联运”“空空联运”等多式联运业务,不断丰富在服装、汽车、装备制造、电子产品等多领域的供应链物流产品和解决方案,推动国际货运、供应链业务协同发展,提升客户粘性与综合服务价值。公司亦持续夯实国际业务基础能力,强化覆盖亚洲全域及东欧核心区域的优质航线布局,现已累计开通160多条货运航线,并通过自有全货机机队和包机资源协同,实现航空运力资源灵活配置；逐步完善自建、合作、联盟的分层口岸关务体系,已在上海、深圳、阿拉木图、东京、釜山等近40个重点口岸完成能力布局,形成了覆盖国内主要口岸及海外关键节点的清关网络,通关效率稳步提升。同时,公司持续打造国际化、专业化、年轻化的人才队伍,并以数字化、智能化为驱动,迭代优化国际快递、货运、关务等管理应用和信息系统,在重点区域布局自动化分拣设备,着力提高国际业务运营效率和管理水平。国际快递及包裹服务国际供应链做精做专中澳、中日等优质专线覆盖行业：电子电器服务时尚深化拓展哈萨克斯坦等中亚国家的全链路快递服务食品医药高端制造跨境电商合作平台：合作客户：航空网络关务自有航空机队数量13架业务范围覆盖150+国家/地区清关网络已覆盖全国主要口岸圆通航空累计开通航线超160条和海外部分重点口岸近40个(九)绿色安全统筹推进,夯实可持续发展根基报告期内,公司通过绿色工作委员会统筹推进绿色工作,在全网开展环保培训宣贯,强化员工责任意识和环保理念；优化包材使用,推广使用可循环快递箱,减少过度包装及二次包装；持续完善“碳足迹”系统,优化碳减排核算体系,实时收集油耗、用电、包装等碳排放数据,增强对包裹碳排放情况全流程、数字化、清晰化管理；试点智能驾驶车辆应用,引导加盟商投入新能源车辆,并推动转运中心陆续建设、运营光伏发电项目,多措并举打造绿色物流新生态。公司深入实施安全生产体系化、标准化工程,完善安全操作规范及管控标准并进行推广宣教,前置化防范安全隐患；更新迭代智能安检系统,构建智慧安全矩阵,通过智慧抓拍、安全GPT等实现违规预警与隐患闭环管理,推动“人防”向“智防”转变；持续增强信息安全管控能力,保障各类数据和信息安全,筑牢全网安全发展根基。",
+      "futureExpect": "(一)行业格局和趋势1.行业格局近年来,主要快递服务企业持续增强科技创新能力,推动优化成本管控、升级服务品质、强化网络运营,不断夯实核心竞争壁垒,行业份额加速向服务品质更优、客户体验更佳、管理能力更强、网络健康度更好的头部企业集中。数据显示,2025年快递行业前八大企业市场份额总和达到86.8%,同比提升1.6个百分点,行业格局呈现加速分化趋势。2.行业发展趋势多维需求驱动共振,行业扩容稳健发展2026年,伴随内需政策持续加码、下沉市场潜力释放、电商新业态快速发展,快递业务量将保持稳步增长,国家邮政局预计2026年快递业务量完成2,140亿件,同比增长8%左右。首先,电商新业态赋能,直播电商、社区团购等模式持续渗透,催生高频次、碎片化的即时性消费需求,逆向物流需求同步攀升,为行业持续增长注入动力。其次,下沉市场持续发力,“快递进村”工程深化推进,农村消费升级带动农产品上行与工业品下行双向流通,成为业务量增长的重要支撑。第三,快递行业与制造业、农业、服务业加速融合,工业快递、冷链快递、医药快递等细分领域逐步兴起,进一步拓宽行业增长空间。最后,跨境电商蓬勃发展,区域全面经济伙伴关系协定（RCEP）等经贸合作深化,促进亚太区域跨境贸易便利化,相关国际寄递需求持续释放,成为行业新的重要增长极。聚焦深耕品牌价值,高质量发展动能不断增强近年来,在政策引导、技术革新与市场需求的多重驱动下,快递行业正加速从规模扩张向以价值创造为核心的高质量发展阶段转型。首先,消费端需求结构深刻变化,消费者对时效精准度、送货上门等服务体验的要求不断提升,个性化、定制化寄递需求增长,服务品质日益成为行业竞争的关键因素。同时,国家层面持续强化“反内卷”导向,明确反对低水平同质化竞争。2026年中央经济工作会议提出“制定全国统一大市场建设条例,深入整治内卷式竞争”,全国邮政工作会议亦明确提出“综合整治内卷式竞争”,为行业健康、规范和有序发展指明了方向。在此背景下,主要快递服务企业聚焦核心能力建设,加快数字化转型、智能化发展,通过提升运营效率、优化成本结构和增强客户粘性,不断夯实长期竞争优势。同时,企业积极拓展多元化服务场景,持续构建差异化竞争壁垒。展望未来,随着全国统一大市场建设持续推进,行业发展环境有望进一步优化,快递企业将持续推进转型创新,强化核心竞争力,实现更高质量的发展。科技驱动智能化发展,培育壮大新质生产力2026年,科技创新将继续作为快递行业高质量发展的核心驱动力,推动行业加速迈向智能化、数字化发展新阶段。随着人工智能、大数据、物联网等前沿技术在行业中持续深化应用,智慧物流体系建设不断推进,快递服务企业正加快构建覆盖全链路的数字化运营体系,实现由单环节数字化向全流程智能化的升级。同时,无人配送技术加速推广,无人机、无人车等智能设备的应用场景持续拓展,人机协同的智能末端配送网络逐步形成,着力破解“最后一公里”配送瓶颈,有效缓解配送压力,推动行业从“劳动密集型”向“技术密集型”转型,不断培育壮大新质生产力,为行业长期可持续发展注入新的动能。持续深化降本增效,构建集约物流网络近年来,伴随我国经济运行效率持续提升,全社会物流成本呈现稳步下降趋势。数据显示,2025年我国社会物流总费用与GDP的比率进一步降至13.9%,创下有统计以来的最低水平,物流体系整体运行效率持续提升。在此过程中,主要快递服务企业持续加大科技投入,推进自动化分拣系统、智能仓储设施的规模化落地应用,并依托人工智能、大数据、数字孪生等前沿技术,实现科学预测需求、智能规划路由等,推动资源精细化配置。同时,主要快递服务企业将精益管理从中转环节延伸至末端配送,通过枢纽强化、干线提效、末端融合,纵深挖掘全链路降本潜力。此外,行业持续深化与制造业、农业等产业的供应链协同,积极推进仓配一体化、产地直发、预售下沉等模式创新,进一步优化供应链成本结构,加速构建高效能、低成本的现代物流服务体系。多元布局综合物流,深化推进国际化发展2026年,快递行业将加速推进综合化转型与国际化拓展,推动形成内外联动、多元协同的现代物流生态体系。主要快递服务企业将持续突破传统业务边界,拓展冷链物流、即时配送、仓配一体化、逆向物流等多元业态,探索综合物流解决方案,不断提升在客户价值链条中的服务深度和战略地位,增强客户粘性和竞争壁垒。同时,在跨境电商持续发展与制造业加快出海的背景下,行业头部企业正加速完善覆盖主要贸易通道的国际物流网络,通过自建航空货运枢纽、拓展海外仓配节点、布局末端派送网络等,持续强化跨境干线运输、海外清关、本地配送等核心能力,逐步形成全球一体化运营体系。随着跨境物流网络不断完善,行业整体服务时效与稳定性有望持续提升,企业参与全球供应链竞争的能力亦将进一步增强。末端服务多维进阶,协同赋能提质增效近年来,随着终端基础设施布局日趋完善,快递行业服务触达能力与运营效率稳步提升,末端服务生态在技术创新与模式升级的推动下加快演进,正逐步向智能化、多元化和协同化方向发展。主要快递服务企业强化终端驿站的综合服务功能,积极推动与社区物业、本地商超、便民服务机构等主体的资源整合,向社区商业、生活服务等多元业态延伸,既丰富了消费者便民服务体验,也为末端网点和终端驿站拓宽了盈利边界,增强末端网络的稳定性和韧性。同时,各企业持续推进无人车、无人机、智能快递柜等无人化、智能化设备应用,有效破解末端人力瓶颈与配送时效压力,助力末端服务提质增效。未来,随着技术应用持续深化和服务生态不断完善,主要快递服务企业将继续深耕末端服务场景与产业生态耦合,强化末端服务效能,持续改善客户体验。完善绿色治理体系,深化行业低碳转型近年来,我国快递行业绿色发展迈入深化提质阶段,在政策引导、技术驱动、企业履责的多重推动下,绿色低碳已成为行业高质量发展的重要方向。首先,政策支撑持续完善,刚性约束与正向引导并行。2026年7月1日,强制性国家标准《限制快递过度包装要求》将正式实施,对快递包装减量、无害化处理提出更加明确的规范要求,推动行业进一步强化包装治理；国家邮政局亦持续加大绿色技术推广力度,重点推进循环包装、新能源运输装备等应用,行业内主要服务企业切实履行主体责任,逐步构建技术驱动、全链路覆盖的绿色治理体系,将包装绿色化、循环化要求全面融入运营全流程,持续投放新能源干线运输车辆,推广应用分布式光伏,进一步夯实绿色发展基础。未来,主要快递服务企业将持续推进全链路低碳转型进程,深化包装材料绿色治理,完善包装物回收的逆向物流网络,推动新能源车辆规模化应用,并通过优化运输组织和路径规划,提升全链路能源利用效率,积极助力实现“双碳”战略目标,推动绿色低碳现代物流体系建设。(二)公司发展战略公司定位于互联网信息技术的快递平台,致力于成为全球领先的综合性快递物流运营商和供应链集成商,秉承“中国人的快递,世界因我们触手可得”的发展愿景,以“诚信守法”为立企之基,坚持“诚信、创新、共建、共享”的核心价值观,构建圆通网络生态命运共同体,以“提质增效、变革创新”为行动指南,秉持“安全、快速、便捷、可靠、科技”十字方针,注重绿色安全,打造品质圆通、科技圆通、绿色圆通、德善圆通。中国人的快递诚信、创新世界因我们触手可得共建、共享全球领先的综合性快递物流运营商和供应链集成商提质增效诚信守法变革创新公司坚定深耕快递主业,不断拓展、夯实快递服务网络,完善国内、国际综合服务体系,并推进全面数字化转型和智能化发展,聚焦提升品牌价值和溢价,重点提升服务质量和客户体验。公司以电商快递为基础,强化与科技创新等资源的深度融合,增强人才、系统、网络的专业化能力,完善多层次产品体系,打造高品质、高时效的差异化产品与服务,并持续加大研发投入,提升公司科研实力和研发效率,构建物流信息共享体系,推动公司运营数字化、智能化、自动化,打造以科技与信息技术为主要驱动力的智慧圆通,全面提升公司综合服务能力。深耕快递主业,夯实市场核心竞争力公司将持续深耕快递主业,不断推进管理变革,通过持续完善组织保障、绩效评价、考核指标等建立科学的管控体系,并细化服务质量、客户体验管理举措及指标,依托核心的数字化、智能化系统优势,推进公司服务质量、客户体验的有效、实时管控,增强客户粘性,实现管理高效、服务优质、客户满意的良性循环,培育和夯实服务质量核心竞争力；公司亦将持续完善基础设施布局,健全终端配送体系,强化成本管控,深化营销创新,并推动全网一体数字化、标准化,提升全网经营实力和盈利能力,夯实主业发展根基。以快递服务为核心,构筑快递物流新体系公司秉承“快递+”模式,以快递服务为核心,积极探索多元化战略布局,构筑快递物流生态体系。公司将根据客户需求、市场发展及行业动态,不断扩展产品及服务范围,打造差异化产品和服务体系,为广大消费者提供高品质、高时效的快递产品与服务,并通过自营、合作、参股、收购等方式打造仓配、供应链、冷链产品与城市配送服务,全方位满足客户及消费者的个性化、差异化、定制化需要。公司亦将充分发挥覆盖国内国际的资源、网络等优势,调动社会资源,为网络和广大客户提供商贸、供应链金融等综合服务方案,构筑快递、物流、科技、金融、商贸等开放共享的生态服务圈,增强综合服务能力,打造圆通网络生态命运共同体。深化国际化发展战略,国际国内融合发展公司秉承“跟着‘一带一路’走出去、跟着跨境电商走出去、跟着华人华企走出去”的理念,深入践行“快递出海”工程,积极推进落实国际化发展战略,稳步拓展全球网络布局,着力发展国际快递、国际货运和供应链等服务,实现“中国联世界,世界联世界”。公司将集聚优势资源,通过自建自营、战略合作等方式,加速拓展全球网络覆盖、完善海外网络布局、搭建海外转运平台,将发展多式联运,结合圆通航空、中欧班列等优势运能运力,增强公司关键资源掌控力和议价能力,强化国际仓储、干线运输、关务清算、本地自派等能力建设,全面升级国际产品体系,打造跨境物流全链路产品与服务,建设国际业务专业化人才梯队,以“运全球,送全球”为宗旨助力中国电商、携手中国制造走出去,且积极引进来,逐步为海内外客户提供清关便捷、时效优良、服务稳定的综合物流服务,并实现国际国内融合共生、持续健康发展,构建国际供应链网络生态命运共同体,打造全球供应链一体化,增强公司全球化综合服务能力。科技创新引领发展,强化数字化、智能化管理公司顺应智慧物流发展趋势,贯彻科技引领战略,高度重视科技与信息技术研发与发展,全面推进数字化转型和智能化升级,实现创新发展。公司持续加大研发投入,凝聚具有创新精神的专业研发团队,借鉴国内外先进经验,应用云计算、大数据、人工智能等新兴技术,打通各板块信息化系统,联通各板块信息端口,实现全网全过程数字化运作和智能化管控。公司将以信息化、数字化、智能化为主线,进一步增强快件全生命周期可视可控能力,提升内部运营的安全和效率,并为全链路的信息数据采集、产业链上下游的信息交互提供支持和保障,全面实现物流、信息流、关务流、资金流合一；公司致力于逐步建立起大数据分析、智慧化决策的技术与能力,在保障数据安全的前提下,将公司运营过程中产生的大数据转化为实际生产力,深度挖掘信息与数据的价值,逐步实现业务流程与公司管理的智能化和智慧化转变；公司亦将坚持数字化赋能网络,立足国内国际协同推进,推动全网一体数字化、标准化体系建设,全面提升网络综合竞争力。(三)经营计划2026年,公司将践行高质量发展理念,坚持稳中有进的发展策略,聚焦实现规模增长与业绩提升的协同共振,持续增强综合服务能力和核心竞争力。公司将坚定深耕快递主业,以客户体验为中心,全方位提升服务质量,持续增强品牌价值和溢价能力,深化人工智能等前沿技术的全链路应用,全面推动公司智能化发展,加速培育科技生产力；公司亦将持续聚焦成本精细化管理,探索创新营销模式,打造差异化产品和服务矩阵,并积极赋能全网一体数字化、标准化,提升网络整体效能和综合竞争力；同时,公司将深化推进国际化拓展,依托自有航空、专业团队及全球网络资源,加强自有航空和国际业务的协同融合,构建国内国际一体化的服务和网络运营体系,推动国际快递、国际货运和供应链业务取得新突破。"
+    },
+    {
+      "reportDate": "2024-12-31",
+      "businessReview": "(一)科技驱动引领发展,综合实力持续提升报告期内,公司坚定深耕快递主业,以客户体验为中心,全面推进数字化转型升级,广泛应用人工智能等先进技术,赋能公司提质降本增效。公司扎实推进全网一体数字化、标准化落地见效,推动精益中心自驱改善,精细管控核心成本,并逐步完善差异化的产品与服务体系,增强客户服务及精准营销能力,快件时效、服务质量、客户体验等显著改善,履约能力和品牌溢价不断提升,全网盈利能力及经营实力稳步增强。同时,公司持续深化国际化发展战略,积极制定明晰的发展规划,基于自有机队、优质航线、网络布局等优势资源,着力拓展国际快递、国际货运及供应链业务,并不断强化国内外业务协同,增强跨境全链路物流服务能力,国际综合服务能力稳步提升。2024年公司快递业务完成量265.73亿件,同比增长25.32%,超出行业平均增速3.8个百分点；2022年至2024年,公司业务完成量分别为174.79亿件、212.04亿件、265.73亿件,业务规模持续提升。公司2024年实现营业收入690.33亿元,同比增长19.67%；实现归属于母公司股东净利润40.12亿元,同比增长7.78%,其中,快递业务实现归属于母公司股东净利润43.07亿元,同比增长12.16%。业务完成量(亿件)营业收入265.73亿元同比增长19.67%212.04690.33174.79归母净利润40.1225.32%其中：快递业务归母净利润2022年2023年2024年43.07(二)全面推进智能化发展,培育科技生产力2024年,公司依托领先的自主创新能力及完善的数字化系统,创新应用自然语言理解、机器视觉、语音识别、地图技术、人机交互、大模型等前沿科技,实现人工智能技术与数字化系统深度融合,全面推进智能化发展,加速培育壮大科技生产力。首先,公司紧抓人工智能技术变革机遇,结合业务全流程应用场景,加速布局人工智能定制化部署与场景落地,研发并升级智多星（“YTO-GPT”）等系统应用,实现各项经营管理数据智能化调取和分析,进一步发挥数据资产价值,提升全网管理决策效率；公司亦搭建并完善智慧路由系统,可根据历史订单量、成本等要素实时、动态计算和优化路由调整方案,进一步促进运输成本下降,提升干线运输时效；公司亦持续优化智能揽派系统,通过动态数字地图技术智能规划揽派路由,提升业务员履约率,并基于语音识别、图像识别等技术,结合客户画像标签,生成并推送揽派消息,满足客户精准化、差异化服务需求；公司稳步构建并完善数字营销中心,多维分析市场营销数据,深度挖掘潜在客户,标准化客户开发机制和流程,基于客户需求匹配营销政策,并逐步加强电商平台对接,推动逆向物流服务能力提升,赋能全网市场拓展；公司持续优化“客户管家”系统模块,不断提升智能客服系统的响应能力,提高客服接待、处理、仲裁等各环节智能化水平,服务效率显著提升,服务品质持续优化；公司亦推动智能终端建设,完善驿站管理系统,上线驿站智能助手,实现驿站运营数据智能总结及诊断,打造更高效、便捷的寄递体验。同时,公司持续迭代客服、财务、人资等核心系统,全面推动加盟网络智能化发展,提高经营管理能效,增强全网市场竞争力。(三)服务质量持续提升,品牌溢价显著增强强化全链路管控,提升时效履约水平公司加强全链路业务协同,围绕重点线路、重点区域,着力改善快件时效、提升线路时效达成率。首先,公司搭建并完善覆盖业务全流程的管控机制,通过提升进出港设备效率、合理排班、动态清场等,强化中心标准化、精益化管理,平衡中心操作各环节产能,实现快件先进先出、快进快出,降低超时库存,中转效率不断提升；公司不断强化运输过程管控,由事后考核转为事前干预,并对有责晚到进行专项改善,优化运输时效考核体系,降低运输在途延误率；推进干线前置,持续优化加盟商交件路由,减少二次中转,并动态调整优化干线路由,进一步提升运输时效；同时,公司不断加强转运中心与加盟商等主体的协同提效,聚焦提升交件、取件协同,基于流量流向动态优化建包策略,实现加盟商建包科学调配,及时清理离场库存,持续推进车等货、中心直送等覆盖范围,推广无缝对接。2024年,公司全程时长较去年同期下降1.34%,快件时效水平稳步提升。减少快件遗失破损,多维改善服务品质公司加强中心智能质控体系建设,实现拆包、建包等操作全流程实时监控,优化智能监控识别、预警系统,提升异常情况的及时发现和处理能力,并持续优化、升级中心设备工艺,完善装车、分拣、卸车等各环节的操作标准,加强循环线拥堵治理,强化现场督查,完善破损定责闭环管理,着力减少遗失破损,截至报告期末,公司快件遗失率同比下降超47%；同时,公司精准分析客户派送偏好,推行按需派送,提高派件履约率,并不断加强虚假签收考核管控,保障快件安全送达,截至报告期末,公司虚假签收率同比下降近28%。全面升级客服能力,客户体验明显提升报告期内,公司持续深化智能客服系统的应用,强化客户服务的制度化与标准化建设,聚焦减少重复进线,全面升级客户服务能力,进一步增强客户粘性,提升品牌溢价。首先,公司聚焦管控客户投诉重复进线,优化工单管理机制,细化客户问题类型管理,提高客服一次性解决问题能力,强化多次进线工单提级管控,重复进线率持续下降,截至报告期末,公司重复进线率同比降幅近42%；建立覆盖全网的客服能力指标体系,定期跟踪全网客服指标完成情况,制定考核方案及阶段性目标,并复盘跟踪闭环改善,全网一体联动管控,全面提升客服能力；推进智能客服建设,实时跟踪客服专属群信息,抓取客服回复情况,监测回复质量,着力提升客服专属群回复有效性,并加强工单信息互联互通,及时提醒超时未回复消息,减少内部沟通时长,同时升级优化智能机器人接待策略,降低人工客服介入比例,赋能客服人效提升；持续加大快速理赔推广力度,推动理赔线上化、即时化,优化系统自动分单,推进系统准时介入、及时分单,提高智能判责占比,提升快速理赔时效,并主动调研客户评价,持续挖掘客户痛点,优化快速理赔机制和应用,增强客户粘性；持续优化揽派服务,通过短信、公众号等多渠道推送订单和工单状态,优化消息触达效果,全方位提升消费者收寄体验。(四)完善差异化产品及服务,推进市场纵深发展报告期内,公司推进“圆准达”等差异化产品在全链路的优先操作,改善全程跟单、派前电联、极速理赔等服务体验,稳步完善“普遍服务-圆准达-高端时效产品”产品体系,打造差异化产品及服务竞争优势；进一步优化数字营销平台,分析评估市场需求与潜力,推动分类客户的商机开发及服务保障,逐步改善客户结构；公司亦加强与电商平台对接,推动逆向物流等业务发展,并依托智能算法,实现营销策略精准化、差异化投放,强化散单业务营销,全方位深化市场拓展,助力业务持续增长,报告期内,公司散单和逆向物流快件同比增长超70%。公司亦构建并完善国际产品体系,打造包含国际快递、国际供应链、国际货运等八大产品,强化快递、货运及供应链业务协同。同时,公司加强国内国际营销协同,深化国内国际客户互联互通,打造“仓干线配关”一体化的国际供应链物流服务能力,进一步加速国际业务拓展,为全球客户提供安全、高效的快递物流解决方案。(五)持续投入资产建设,全面提升综合实力强化基础设施建设,夯实高质量发展基础报告期内,公司持续加大核心资产建设投入,全年资本开支超67亿元,主要用于转运中心建设、自动化设备升级等,夯实主业发展根基。公司持续优化转运中心布局,稳步落实转运中心新建及改扩建计划,完成唐山、常德、临沂、泉州等69个中心的新设及升级改造计划,进一步提升网络运行稳定性,巩固核心资源优势；同时,公司不断推进转运中心无人化、少人化设备升级,推广双层大件交叉带、窄带分拣、无人供件等先进设备,在多个中心落地无人拉包、无人供件等,助力中心智能水平和产能规模快速升级。截至报告期末,公司在转运中心等共布局完成自动化分拣设备310套。公司动态调整运能运力,提升甩挂车辆、大型运输车辆比例,试点无人驾驶车辆应用,截至报告期末,公司自有干线运输车辆达5,913辆。同时,公司亦稳步推进中远途航空货运能力建设,提升自有航空运营效能,增强航空物流服务能力,截至报告期末,公司自有航空机队数量13架,其中波音767-300共2架,波音757-200共10架,ARJ21-700共1架。完善终端配送网络,优化末端服务质量报告期内,公司针对消费者多样化、差异化服务需求,不断优化圆通妈妈驿站布局,活跃驿站数量同比提升15%；公司亦鼓励加盟商与第三方驿站或智能快递柜等进行合作,打造多种形式的末端配送网络；积极推进乡村寄递物流综合服务站建设,增加乡村网点覆盖,提升农村配送服务质量。公司坚持“快递+”运营理念,以快递服务为核心,拓展多样化便民商贸服务,挖掘终端市场潜力,并试点推广智能自助驿站系统,提高终端数字化管理水平；同时,公司积极关注无人车、无人机等新兴技术的发展应用,研发无人车运营管理平台,提升配送终端智能化水平,促进末端派件降本增效。(六)深化成本精细管控,核心成本稳步下降运输成本报告期内,公司持续强化运输过程管理,实时监控车辆装载情况,建立标准化装车流程和绩效考核机制,推动单车装载率持续提升。公司优化车队结构,通过智能调度系统实现运能资源的精准匹配,推进车辆复用,提高运输效率。公司动态优化干线路由,完善加盟网络的路由规划,提高路由直达率。同时,公司积极探索自动驾驶技术应用,助力延长车辆运输时间,降低人工成本,提升燃油经济性,推动运输成本持续优化。截至报告期末,公司单车装载票数同比提升近12%。2024年,公司单票运输成本0.42元,较去年同期下降0.04元,降幅9.41%。中心操作成本公司深化转运中心精益管理,精细管控工序效能,逐步提高装卸统筹人员复用率,提升人员操作效能,有序推进中心全员绩效管理,激发操作人员积极性。同时,公司持续推进中心自动化改造,推广柔性分拣和无人化技术应用,减少分拣环节操作次数,提升中转效率。截至报告期末,公司人均效能提升近10%。2024年,公司单票中心操作成本0.28元,较去年同期下降0.01元,降幅5.41%。单票运输成本单票中心操作成本0.420.28元元同比下降0.049.410.015.41(七)全网一体数字化标准化,赋能网络提质降本增效报告期内,公司秉承打造“非直营的类直营化”的理念,全面推动加盟网络数字化、标准化建设落地见效,提升全网服务及管理水平。首先,总部项目组入驻加盟商,为加盟商制定经营管理改善方案,并升级优化客服、财务等系统应用,赋能加盟网络提质降本增效,截至报告期末,加盟商已基本实现全覆盖。公司推动质量管理机制落地执行,聚焦加盟商核心服务指标完成情况,并推进客服中台系统建设,升级智能客服应用,提升网络整体服务质量；动态调整加盟商规模和结构,及时汰换、合并加盟商及其经营区域,并优化完善各项制度体系,加强对加盟商的业务培训,推动场地、车辆、设备、形象、服务等的标准化、规范化,提高加盟商服务及运营水平。同时,公司强化对加盟商基础设施投放和建设支持,推进重要城市和区域布局城市服务中心,进一步推动加盟网络降本,提高核心网络稳定性,并助力加盟商拓展个人零散件、逆向物流、仓储配送等业务,打造富有竞争力的加盟网络。(八)深化践行国际化发展战略,构建跨境综合物流体系报告期内,公司深化践行国际化发展战略,紧跟跨境电商、华人企业和“一带一路”发展趋势,积极布局海外市场,打造“中国联世界,世界联世界”的全球物流网络,并全面升级国际产品体系,拓展增量国际物流市场,搭建覆盖集货发运、干线运输、清关转运、末端派送等一体化、一站式的服务链条,国际综合服务能力稳步提升。公司依托自有航空、航线网络等优势资源,着力发展国际快递及包裹服务,做精做专中日、中澳、陆台等优质线路,报告期内,该等精品线路整体业务量提升超80%。公司亦全面进入哈萨克斯坦等中亚国家,持续开拓布局中东、东欧等区域；公司国际货运基础不断夯实,逐步落实“陆空联运”“空空联运”等多式联运业务,国际供应链服务稳步发展,业务覆盖服装、汽车、半导体、电子产品等行业,逐步构建“仓干线配关”一体化的国际供应链物流服务能力。公司亦持续加强国际业务基础建设,通过自有全货机机队与包机资源协同布局,灵活配置航空运力资源,并持续加密亚洲和东欧等区域的航线,强化覆盖亚洲全域、东欧核心区域的优质航线布局,现已累计开通150多条货运航线；公司通过自建自营、战略合作等方式稳步拓展全球,尤其是重点国家、地区的服务网络,并完善自建、合作、联盟的分层口岸关务体系,持续打造便捷可靠的关务能力,目前公司已在上海、深圳、阿拉木图、东京、釜山等口岸完成关务能力建设,清关网络已覆盖全国主要口岸和海外部分重点口岸,高效通关体系逐步完善；公司持续打造国际化、专业化、年轻化的人才团队,引进并选拔优秀青年骨干参与海外市场运营,为全球业务拓展提供人才支撑；公司发挥数字化领先优势,上线国际快递、国际货运等管理应用,更新迭代国际快递、货运、关务等信息系统,在重点区域投入自动化分拣设备,提高国际业务自动化、智能化运营及管理水平。国际快递及包裹服务国际供应链精品线路整体业务量提升超80%覆盖行业：电子电器服务时尚中日、中哈、中澳、陆台等精品专线产品稳步拓展食品医药高端制造跨境电商合作平台：合作客户：航空网络关务自有航空机队数量13150+清关网络已覆盖全国主要口岸圆通航空累计开通航线超条和海外部分重点口岸150(九)安全绿色并重发展,构建可持续发展格局报告期内,公司通过绿色工作委员会统筹推进和实施绿色工作,开展全网环保培训,强化员工责任意识,由上而下贯彻绿色环保理念；持续推广可循环快递箱应用,优化包材使用,减少电商快件二次包装；聚焦全网碳排指标情况,优化“碳足迹”管理系统,实时收集油耗、用电、包装等碳排放数据,实现包裹全生命周期碳排放可视化；积极引导加盟商投入运行新能源车辆,全网一体绿色减排,并推动转运中心陆续投用、建设和运营光伏发电项目,构建覆盖包装、运输、中转等环节的智慧绿色物流体系,助力打造绿色物流新生态。公司持续完善全网安全生产体系,制定并完善安全标准制度,根据区域产业和市场制定寄递安全专项管控方案,搭建网络运营安全审批流程,强化安全考核管理,落实安全管理专项培训,筑牢安全运营根基；增设安检机器设备,更新迭代智能安检系统,提升中心进出港安检效率,及时识别风险,严防违禁寄递产品流入；升级车辆动态监控设备,上线智能驾驶系统,完善车辆安全风险画像、车辆事故上报等系统模块,提升车辆安全数字化管理能力；持续增强信息安全管控能力,优化安全防控体系,加强风险识别及调查取证能力,确保各类数据和信息安全,为业务稳健发展提供安全保障。",
+      "futureExpect": "(一)行业格局和趋势1.行业格局近年来,主要快递服务企业通过深化科技创新应用、强化成本精细管控、持续提升服务品质,进一步巩固核心竞争优势,行业市场份额逐步向具备高效管理能力、稳定服务网络、智能技术优势和优质客户体验的头部企业集中。数据显示,2024年快递行业前八大企业市场份额总和达到85.2%,同比提升0.9个百分点。2.行业发展趋势消费动能加速释放,行业规模稳定增长快递行业作为链接生产与消费的关键纽带,在扩大内需相关政策的引导和驱动下,将继续保持稳步上升态势。国家邮政局预计2025年快递业务量、业务收入分别完成1,900亿件和1.5万亿元,同比增速均为8%左右。首先,电商消费市场的稳健增长与深化拓展为快递行业发展提供了持续动能,以抖音、快手、小红书等为代表的新兴直播电商平台近年持续蓬勃发展,驱动消费场景碎片化、商品轻小化的趋势显著,带动快件寄递需求进一步释放,轻小件、逆向件成为快递业务增长重要助力。其次,2024年“快递进村”工程纵深推进,全国累计建成超48万个村级综合服务站,乡镇快递站点覆盖率显著提升,农产品上行与消费品下乡通道高效畅通,全年农村快递业务量同比增长77%,成为内需扩大的重要支撑。第三,伴随国家推动县域商业体系建设等举措,加速区县、农村等下沉市场消费潜力释放,叠加新兴渠道渗透率提升,中西部及农村地区快递业务量增速达30%至35%,快递行业与消费市场的协同效应持续增强。同时,跨境消费需求扩容推动国际业务提质增效,伴随“丝路电商”“快递出海”等项目的实施落地,国际及港澳台快件寄递网络日臻成熟。此外,个性化消费需求催生服务场景多元化,消费者对生鲜冷链、即时配送、逆向物流等服务需求亦快速增长。品牌价值筑基,推动行业良性竞争随着消费者对时效履约、服务稳定性及绿色环保的需求不断升级,行业竞争重心进一步转向数字化赋能下的全流程精准管控、差异化服务分层及绿色物流体系建设。主要快递服务企业通过人工智能、大数据等先进技术优化运营效率,深化供应链协同能力,并以可循环包装、新能源运输等实践响应“双碳”目标,增强品牌社会责任价值。同时,国家出台各项政策,强化“反内卷”政策导向,明确反对恶性价格竞争,推动行业聚焦服务质量提升、技术创新与绿色发展。未来,行业将继续着力服务精进、质效提升和绿色转型的协同推进,通过精细化运营与模式创新突破同质化壁垒,推动形成高效、可持续的良性生态,实现品牌溢价与综合竞争力的全面提升。先进技术加快应用,提升行业数智化水平我国持续深化数字技术与实体经济融合政策导向,《数字商务三年行动计划（2024-2026年）》等文件明确要求推进智慧物流体系建设,强化人工智能、物联网等技术在快递行业的深度应用。近年来,主要快递服务企业推进人工智能、大数据、云计算等前沿技术在管理、服务和产品等领域的深度应用与全面推广,驱动快递网络数字化能力迭代跃迁。未来,行业将进一步推动人工智能与业务系统深度融合,探索生成式AI在需求预测、供应链协同等领域的创新应用,加速构建以数据驱动为核心的智慧决策体系,全面增强全链路精细化管控能力,引领快递行业向智能化方向持续进阶。成本管控持续深化,稳固行业竞争基础近年来,快递行业加速推动全链路、多维度效能优化。国家出台各项降费政策,通过专项行动统筹物流成本降低目标,社会物流总费用占GDP比率进一步下降至14.4%,为物流行业系统性降本奠定了基础。主要快递服务企业聚焦基础设施智能化建设和改造,并与网络高度协同,强化转运枢纽、自动化分拣设备及多式联运设施布局,通过规模化运营与资源整合提升产能利用率。同时,行业通过智能分拣、无人车配送、智能调度等技术的持续落地,实现业务链条精准管控,全面降低操作、运输及揽派环节的成本。未来,行业将依托数据共享与生态协同,持续深化全流程精益管理,构建集约化的高效物流体系,稳固行业竞争基础,提升企业盈利能力。综合化国际化拓展,增强综合服务能力当前,客户需求进一步多元化、精准化,快递行业在持续优化基础服务质量的前提下,加速推进服务分层的精细化与产品体系的立体化升级,适配客户多元需求,构建差异化服务解决方案。主要快递服务企业以基础的快递产品和服务为支点,不断深化践行多元化、综合化战略,深度嵌入网络零售、逆向物流、社区经济、个性化定制等新兴业务模式,并通过技术赋能与生态协同强化资源整合能力,迭代升级冷链、医药物流、智能仓配等综合服务矩阵,推动行业向高附加值领域延伸。同时,主要快递服务企业不断践行“快递出海”工程,积极拓展海外市场布局,充分发挥覆盖国内外的网络、自有全货机等优势,加速完善自主可控的全球物流网络,优化海外枢纽节点与区域配送体系,并加强与跨境电商、国际供应链平台的战略协作,强化国际快递及包裹服务、供应链、关务协同、跨境履约等一体化服务能力,逐步构建高效的全球化物流服务生态。科技赋能末端升级,匹配终端多元化需求伴随终端消费者对服务质量、客户体验的需求升级,行业需着力构建智慧化、多元化、差异化的末端服务生态。在政策引导与技术标准突破的双重驱动下,无人配送车、无人机等设备通过高精度定位、动态避障及多机协同技术,实现复杂路况下的精准投递,覆盖社区、园区、乡村等差异化场景；智能分拣机器人、移动快递柜与云端调度系统的深度联动,支撑“按需预约”“错峰配送”等弹性服务模式落地,显著优化末端资源利用率。同时,主要快递服务企业秉承“快递+”的运营理念,无人配送网络与社区零售、即时物流、冷链服务等业态加速融合,依托末端网点和终端驿站构建“基础配送+增值服务”的立体生态,既满足消费者个性化需求,又为末端网点和终端驿站创造多元收益,形成降本增效与体验升级的双向循环。未来,行业将持续推进技术标准化、场景精细化与生态协同化,以无人化、智能化重塑末端服务,进一步增强客户粘性,改善终端驿站盈利能力,增强终端驿站的稳定性,提升末端综合服务能力。健全环保治理体系,深化行业绿色发展绿色环保作为快递行业高质量发展的关键要素,正加速向全链路、系统化治理模式迈进。2024年,国家邮政局发布《快递业绿色低碳发展三年行动计划（2024-2026）》,重点聚焦全生命周期碳足迹管理、数字化赋能绿色运营、包装废弃物全链条治理三大方向,推动建立覆盖生产、运输、仓储、配送、回收的绿色闭环体系。行业将深化基础设施绿色改造,推广光伏发电与储能系统集成应用,建立干线运输新能源车辆试点,构建智能路由优化与多式联运深度融合的低碳运输网络。在包装治理领域,行业将全面推行生态设计规范,实施电子面单与包装材料碳标识认证,建立逆向物流包装回收激励机制,推进电商平台绿色包装强制性采购标准落地。未来,主要快递服务企业还将继续落实减污降碳各项工作,加大新能源和清洁能源运输车辆购置,推进智能分仓、科学配载、线路优化、循环共用,持续建设绿色中心、绿色园区、绿色网点等,形成中转循环化、运输减排化、仓储节能化、末端减量化等绿色环保实践,促进行业减污降碳与生态效益的深度协同,推动绿色转型。(二)公司发展战略公司定位于互联网信息技术的快递平台,致力于成为全球领先的综合性快递物流运营商和供应链集成商,秉承“中国人的快递,世界因我们触手可得”的发展愿景,以“诚信守法”为立企之基,坚持“诚信、创新、共建、共享”的核心价值观,构建圆通网络生态命运共同体,以“提质增效、变革创新”为行动指南,秉持“安全、快速、便捷、可靠、科技”十字方针,注重绿色安全,打造品质圆通、科技圆通、绿色圆通、德善圆通。中国人的快递诚信、创新世界因我们触手可得共建、共享全球领先的综合性快递物流运营商和供应链集成商提质增效诚信守法变革创新公司坚定深耕快递主业,不断拓展、夯实快递服务网络,完善国内、国际综合服务体系,并推进全面数字化转型和智能化发展,聚焦提升品牌价值和溢价,重点提升服务质量和客户体验。公司以电商快递为基础,强化与科技创新等资源的深度融合,增强人才、系统、网络的专业化能力,完善多层次产品体系,打造高品质、高时效的差异化产品与服务,并持续加大研发投入,提升公司科研实力和研发效率,构建物流信息共享体系,推动公司运营数字化、智能化、自动化,打造以科技与信息技术为主要驱动力的智慧圆通,全面提升公司综合服务能力。深耕快递主业,夯实市场核心竞争力公司将持续深耕快递主业,不断推进管理变革,通过持续完善组织保障、绩效评价、考核指标等建立科学的管控体系,并细化服务质量、客户体验管理举措及指标,依托核心的数字化、智能化系统优势,推进公司服务质量、客户体验的有效、实时管控,增强客户粘性,实现管理高效、服务优质、客户满意的良性循环,培育和夯实服务质量核心竞争力；公司亦将持续完善基础设施布局,健全终端配送体系,强化成本管控,深化营销创新,并推动全网一体数字化、标准化,着力打造“非直营的类直营化体系”,提升全网经营实力和盈利能力,夯实主业发展根基。以快递服务为核心,构筑快递物流新体系公司秉承“快递+”模式,以快递服务为核心,积极探索多元化战略布局,构筑快递物流生态体系。公司将根据客户需求、市场发展及行业动态,不断扩展产品及服务范围,打造差异化产品和服务体系,为广大消费者提供高品质、高时效的快递产品与服务,并通过自营、合作、参股、收购等方式打造仓配、供应链、冷链产品与城市配送服务,全方位满足客户及消费者的个性化、差异化、定制化需要。公司亦将充分发挥覆盖国内国际的资源、网络等优势,调动社会资源,为网络和广大客户提供商贸、供应链金融等综合服务方案,构筑快递、物流、科技、金融、商贸等开放共享的生态服务圈,增强综合服务能力,打造圆通网络生态命运共同体。深化国际化发展战略,国际国内融合发展公司秉承“跟着‘一带一路’走出去、跟着跨境电商走出去、跟着华人华企走出去”的理念,深入践行“快递出海”工程,积极推进落实国际化发展战略,稳步拓展全球网络布局,全面升级国际产品体系,延伸国际跨境产品服务链路,着力发展国际快递、国际货运和供应链等服务。公司将集聚优势资源,打造国际业务专业化人才梯队,并通过自建自营、战略合作等方式加速拓展全球网络覆盖、完善海外网络布局、搭建海外转运平台,将发展多式联运,结合圆通航空、中欧班列等优势运能运力,增强公司关键资源掌控力和议价能力,强化国际仓储、干线运输、关务清算、本地自派等能力建设,打造跨境物流全链路产品与服务,以“运全球,送全球”为宗旨助力中国电商、携手中国制造走出去,且积极引进来,逐步为海内外客户提供清关便捷、时效优良、服务稳定的综合物流服务,并实现国际国内融合共生、持续健康发展,构建国际供应链网络生态命运共同体,打造全球供应链一体化,增强公司全球化综合服务能力。科技创新引领发展,强化数字化、智能化管理公司顺应智慧物流发展趋势,贯彻科技引领战略,高度重视科技与信息技术研发与发展,全面推进数字化转型和智能化升级,实现创新发展。公司持续加大研发投入,凝聚具有创新精神的专业研发团队,借鉴国内外先进经验,应用云计算、大数据、人工智能等新兴技术,打通各板块信息化系统,联通各板块信息端口,实现全网全过程数字化运作和智能化管控。公司将以提升信息化、数字化、智能化为主线,进一步增强快件全生命周期可视可控能力,提升内部运营的安全和效率,并为全链路的信息数据采集、产业链上下游的信息交互提供支持和保障,全面实现物流、信息流、关务流、资金流合一；公司致力于逐步建立起大数据分析、智慧化决策的技术与能力,在保障数据安全的前提下,将公司运营过程中产生的大数据转化为实际生产力,深度挖掘信息与数据的价值,逐步实现业务流程与公司管理的智能化和智慧化转变；公司亦将坚持数字化赋能网络,立足国内国际协同推进,推动全网一体数字化、标准化体系建设,全面提升网络综合竞争力。(三)经营计划2025年,公司将继续坚定深耕快递主业,以客户体验为中心,着力提升服务质量,持续增强品牌溢价能力,运用人工智能等先进技术全面推动公司智能化发展,持续提高科技生产力；公司亦将强化成本精细管理,探索创新营销模式,构建差异化产品与服务体系,并积极推进全网一体数字化、标准化落地见效,提升全网综合实力；同时,公司将继续践行国际化发展战略,依托自有航空、专业团队及全球网络等资源禀赋,搭建国际国内一体化的服务和网络运营体系,推动自有航空和国际业务的协同融合发展,着力发展国际快递、国际货运和供应链业务,全面增强公司综合服务和竞争能力。深化科技创新引领,智能化能力全面升级2025年,公司将人工智能技术的应用创新作为工作重点,持续推进自然语言理解、大模型、机器视觉、数字孪生等人工智能技术的垂直运用,实现从“人+AI”到“AI+人”的转变,推动公司智能化转型升级,并优化业务流程,促使管理决策更智能、更高效,全面提升管理能力和效率；公司亦将结合动态数字地图技术,在全网推广智能揽派应用,进一步提高快递员揽派效率,增强末端履约能力；同时,公司将对加盟商财务、运营、管理等进行全方位赋能,增强加盟网络的经营管理能力,提升全网综合竞争力。改善服务和体验,持续提升品牌溢价2025年,公司持续加强时效管控,着力提升服务质量、全面改善客户体验,稳步提高客户满意度和品牌美誉度,增强品牌溢价能力。公司将持续加强全链路各环节时效管控,梳理优化揽收交件时效标准,推广无缝对接,提升交件及时率；强化在途车辆过程管控,优化运输时速,降低运输时效延误率,并持续优化、动态调整快件中转路由,减少中转次数,提升运输时效；加强现场管理,聚焦清理进出港超时库存,提升中心操作效率；公司亦将推广智能揽派系统应用,进一步缩短揽派时长。同时,公司将强化各业务主体联动管控机制,优化理包与建包标准,落实质控现场巡查机制,加强装车、分拣、卸车等各环节的操作规范,升级改造车型及设备工艺,强化破损前置预防及拦截修复,着力减少遗失破损；强化虚假签收考核管控,聚焦提升签收位置照使用率及合规率,推广按需派送,切实保障快件寄递安全,多措并举提升服务品质。公司将持续推动智能客服建设,强化智能工具的使用,提升专属群响应速度,优化智能机器人接待策略,提高客户服务智能化水平,进一步提升客户服务效率；完善客服工单处理机制,加强客服工单信息互联互通,联动各部门协同处理,强化客服工单有效闭环管理,提升工单一次性解决率,着力减少重复进线；围绕产品分层、服务分类,持续完善大客户权益,提升直营客服效能,并不断优化理赔机制,提升快速理赔占比,增强客户粘性；全面优化客服管理体系,以解决问题为导向,驱动客服团队全方位提升服务水平,改善客户体验。加大基础设施建设,夯实主业发展基石2025年,公司将继续加大基础设施建设投入,落实转运中心新建及改扩建计划,夯实核心资源优势,并持续升级改造工艺设备,推广无人供件等先进设备应用,提升转运中心自动化、智能化水平,提高中心操作效能；动态监测业务增长情况并合理规划运能运力,优化车队规模和车型结构,提高甩挂车辆、大型运输车辆比例,稳固自有运能基础；根据业务发展和经营规划需要进一步扩充航空机队规模并优化结构,提升中远途航空货运能力,拓展航线网络覆盖范围,增强航空物流服务能力。公司亦将围绕消费者差异化的服务需求,持续发力多元化配送终端建设,探索创新终端服务模式。公司将持续推广建设圆通妈妈驿站,提升终端覆盖密度,并将紧跟政策指引,推进“快递进村”工程,拓展乡村服务网点布局,健全乡村末端服务水平；赋能驿站运营,凭借无人驿站、室内柜等技术和设备助力驿站提高出库效率,提升驿站人效；同时,公司将持续秉持“快递+”的终端运营理念,充分利用快递业务的流量优势,创新发展多样化便民商贸服务,激发配送终端发展的内生动力；公司亦将推广无人车、无人机等应用,提升配送终端的智能化水平。聚焦深化成本管控,深挖核心成本降幅空间2025年,公司将加强车辆装载质量管控,根据车辆载重需求合理配置车轴数量,提升车辆装载率和单车装载票数；优化单双边运价及计费模式,推进运输价格公开化、透明化管理；公司亦将智能化管理车队,前置化管控用车计划,提高社会车辆、闲置车辆利用率,并进一步提高大型运输车辆、甩挂车辆、双边运输车辆及自有车辆占比,更加合理配置运能资源；综合考量运力平衡、转运中心布局等因素,动态优化干线路由,提升单车行驶里程；公司亦将探索自动驾驶技术的应用,降低用工成本,提升燃油经济性,促使运能成本进一步降低。同时,公司将继续推动建设自驱型精益中心,聚焦提升中心人均效能,加强工序效能管理,提高固定员工占比,落实中心全员绩效,提高中心人员管理素质及操作水平；持续提升自动化设备效率,改良工艺设计,提高中转操作效率,全方位挖掘中心操作成本降幅空间。构建差异化产品和服务体系,全方位深入开拓市场2025年,公司将全面增强服务品质和产品创新能力,构建精准化、差异化、数字化的产品和服务体系,强化国内国际营销协同共享,加强客户互联互通,稳固国内市场竞争力,拓展国际新兴市场。首先,公司将持续提升普遍服务品质,稳步打造“普遍服务-圆准达-高端时效产品”的差异化服务体系；同时,公司将全面升级国际产品体系,稳步打造“仓干线配关”一体化国际供应链物流服务。公司将持续更新迭代数字营销平台,赋能市场营销各项举措,覆盖更多业务场景,推动全网资源整合；优化客户结构,加强分类客户的商机开发和服务保障,完善客户拜访系统,推进客户闭环管理；持续推进精准营销,助力营销政策精准化、差异化投放并直达客户,全方位深入开拓市场。数字化标准化全面见效,增强全网综合实力2025年,公司将继续推动加盟网络数字化、标准化全面见效,助力加盟网络实现精益化、差异化、数字化、智能化管理和发展,构建“非直营的类直营化体系”。首先,公司总部项目组将继续入驻加盟商,加速推进全网落地见效,并推广智多星、客服、财务、智能派件等系统应用,赋能加盟商经营管理,推动全网一体提质降本增效,提升全网综合实力；公司将持续升级智能客服应用,加强客服体系协同,降低加盟商客服投入及成本,提升加盟商及全网服务效率和质量；公司还将根据市场竞争和网点运营状况,科学、动态地优化加盟商规模和结构,加强加盟网络前置化管理,并提升加盟商场地规划、设备投入、操作运营等的标准化、规范化水平,强化加盟商基础设施投放和建设支持,推广建设城市服务中心,降低加盟商运营成本,增强加盟网络经营和服务的稳定性,并将助力加盟商拓展个人零散件、逆向物流、仓储配送等业务。深化推进国际化战略,强化国际航空协同融合2025年,公司将深化推进国际化发展战略,把握“快递出海”战略机遇,着力发展国际快递业务,平稳推进国际货物运输代理业务,稳步构建国际供应链一体化服务能力。公司将聚焦拓展国际增量物流市场,逐步布局海外业务基础设施,不断延伸国际物流服务链条,逐步覆盖集货发运、干线运输、清关转运、末端派送等服务,拓展全球服务网络；同时,公司将继续强化国际航空协同融合,做精做专中日、中澳、陆台等优质航线,并拓展服装、汽车、半导体、电子产品等多领域的供应链物流产品,因地制宜推动快递、货运、供应链业务协同发展；公司还将加强关务能力建设,完善自建、合作、联盟的分层口岸关务体系,形成覆盖全国主要口岸和海外部分重点口岸的整体清关网络,持续构建便捷可靠的关务能力；公司亦将加大国际化人才的引进及培养,助力海外市场开拓,搭建并优化核心业务系统、服务商协同系统、关务系统等信息化、数字化系统,完善国际数据中台建设,多措并举赋能国际业务发展。践行绿色发展理念,筑牢全网安全根基2025年,公司将加快推动快件包装绿色低碳转型,进一步推广可循环快递箱（盒）、减少过度包装及二次包装等环保举措；积极探索可再生能源解决方案,在部分中心园区建设光伏发电项目,持续打造绿色园区,加大新能源车辆的应用,减少能源消耗,实现包裹的绿色运输；同时,公司将持续完善“碳足迹”系统,进一步优化碳减排核算体系,加强碳排放精细化管理,并逐步落实各项节能减排举措,推动绿色物流建设,助力行业绿色低碳发展。2025年,公司将统筹完善安全生产管理体系,形成应急事件全流程闭环管理机制,强化营运安全、车辆安全、加盟商安全等的标准化体系,并推动国际业务安全标准化建设,制定符合要求的安全操作规范及安全管控标准；公司将修订完善安全生产理论和培训课程并进行推广宣教,增强全网安全意识和操作技能,前置化防范安全隐患；公司亦将强化视频监控等系统应用,加强寄递安全全链路综合管控；同时,公司将持续加强终端安全防护,保障用户信息安全,牢固全网安全发展根基。"
+    },
+    {
+      "reportDate": "2023-12-31",
+      "businessReview": "（一）综合实力稳步提升,全网一体稳健发展报告期内,公司坚定深耕快递主业,以客户体验为中心,融合人工智能等新兴技术,推动数字化转型全面升级,并加速推进全网一体数字化、标准化建设全面落地,深化推行精益生产,着力提升服务质量、改善客户体验、强化成本管控、深化营销创新,快件时效、服务质量、客户体验等稳步改善,品牌溢价能力持续提升,公司综合服务与竞争能力不断增强；同时,公司整合自有航空、全球网络等优势资源,稳步拓展国际快递及供应链服务,并以承接杭州亚运会物流服务为契机,进一步沉淀国际物流全链路服务,国际综合服务能力再升级。2023年公司快递业务完成量212.04亿件,同比增长21.31%,超出行业平均增速1.9个百分点；2021年至2023年,公司业务完成量分别为165.43亿件、174.79亿件、212.04亿件,业务规模稳健提升。公司2023年实现营业收入576.84亿元,同比增长7.74%；实现归属于母公司股东净利润37.23亿元,其中,快递业务实现归属于母公司股东净利润38.40亿元,同比增长5.15%。业务完成量(亿件)2023年营业收入212.04576.84亿元,同比增长7.74%174.792023年归母净利润165.4321.31%37.23亿元其中：快递业务归母净利润2021年2022年2023年38.40亿元,同比增长5.15%（二）科技创新引领发展,数字化能力全面升级2023年,公司坚持科技创新引领发展,密切关注大数据、机器视觉、自然语言理解、智适应学习等人工智能前沿科技的发展及应用,推动数字化转型全面升级,赋能全网一体数字化、标准化建设,提升全网运营效率与精细化管理水平。报告期内,公司以数字化、智能化管理工具为抓手,对加盟商财务、运营、管理等全方位赋能,助力加盟商业务发展降本增效提质,逐步打造“非直营的类直营化体系”,全面提升加盟网络经营管理能力和综合竞争力。公司持续迭代、优化“客户管家”等各系统模块,拓展智能客服的应用场景,强化人机交互,加强“客户管家”“网点管家”“行者”等系统联动互通,推动服务前置和及时响应,客户服务的智能化水平明显提高,服务品质稳步提升；公司逐步构建和完善大客户权益体系,提高快件寄递全链路差异化服务水平,助力打造多层次的服务体系,改善客户体验,增强客户粘性。公司逐步搭建完善数字营销中心,描绘和完善客户画像,运用大数据分析,智能匹配营销方案,推进营销政策精准投放、直达客户,赋能公司及加盟网点拓展市场。同时,公司持续探索人工智能的垂直应用,深度挖掘数据要素价值,自行研发并上线应用“YTO-GPT”,全面降低数字化工具学习难度和成本,提高全网数字化管理水平及效率；公司亦通过地图技术的应用,构建区域绘制平台,研发应用“智能派件”等系统,将业务员经验知识化、知识数字化,助力业务员合理规划揽派任务、优化完善派送路径,促进末端降低揽派成本、提升派送效率。（三）持续改善服务质量,多维提升品牌溢价全链路过程管控,多维提高时效水平公司深入攻坚快递服务全链路各环节时效管理,细化全链路各环节、各主体的时效、操作标准和责任,落实异常流向定位及闭环跟踪机制,持续加强日常过程管控。公司动态调整和优化快件中转路由,提高路由直达率,实现运输、操作衔接准时准点。公司持续升级优化中心智能设备,强化设备效能提升和操作规范标准,精准定位包裹流转状态,通过区域内统筹调度,实现快件的快进快出；公司逐步推广装卸统筹,并聚焦消除超时库存,缩短中转停留时长,快件运输、操作时效稳步改善。公司强化转运中心与末端网点的联动,提升车等货、中心直送等覆盖范围,并通过智能派件等系统实现派送包裹智能分堆、揽派信息智能提醒等,提高末端揽派效率、缩短派送时长。2023年,公司全程时长较去年同期缩短5.63小时,快件时效水平持续提升。着力减少遗失破损,服务质量持续提升报告期内,公司落实专项管控各项举措,积极优化工艺设备,通过对各岗位人员、机器设备、操作环节的精益管理,提高各环节管理效能,实现运营情况智能抓取、现场整改、精细考核,并针对拥堵、夹件、高差等开展专项整治工作,快件遗失破损逐步减少。公司持续完善产品服务质控中台建设,形成实时上报、实时处理、实时考核的质量管控体系,实现质量稽查、任务协同、质控培训、奖惩公布等线上处理。同时,公司针对性调整优化末端考核标准,加强对虚假签收的考核管控,全年虚假签收改善明显,服务质量持续提升。全面增强服务能力,稳步改善客户体验报告期内,公司持续优化智能化客服系统应用,加强客户服务制度化、标准化建设,多维增强客户服务能力、改善客户体验,进一步提升品牌溢价能力。公司搭建优化客服中台,整合客服系统,实现一站式查询处理运单信息,并提供待办提醒、数据看板、知识学习等功能,实现客服任务主动触达客服人员,有效提升客服工作效能；公司持续拓展智能客服应用,推动数字化管理工具互联互通,打通客服工单直达业务员,多渠道同步客服工单处理结果,并着力提升客户专属群回复速度,保障客户服务及时、高效；公司拓展智能机器人应用场景,加强智能外呼、智能对话、智能查件等智能化服务能力,提高前置化服务水平,改善客户服务感知；公司亦持续推进理赔线上化、标准化,优化仲裁督办系统,推行直通总部快速理赔,改善理赔服务体验。公司不断优化全网客服组织体系,强化总部、加盟网络客户服务协同,推进客户服务中心标准化建设,并持续完善客服评价标准,多维度重构客服能力指数,聚焦改善客户重复进线,针对多次进线工单提级管控,推动客服工单闭环管理,着力降低客户负反馈。截至报告期末,公司重复进线率较期初下降超50%。同时,公司优化触达客户的揽派服务,通过自发短信或公众号信息推送,完善工单状态反馈,提高快件揽派消息触达率,改善揽派环节的服务感知。截至报告期末,公司客户投诉率同比下降近14%,客户体验稳步改善。构建差异化服务能力,促进市场深度拓展报告期内,公司逐步构建差异化、精准化服务能力,推进完善产品分层、客户分级,全面提高公司竞争能力。近年来公司在普遍服务质量持续向好的基础上,继续推动“圆准达”等差异化产品在全链路的快速识别、优先操作,并强化全程跟单、派前电联、异常快速处理等服务,实现优先操作、按需派送、直营客服、快速理赔等差异化服务,促进中高端产品竞争力不断提升。公司积极利用和开拓仓储资源,依托自主研发的仓储运营系统,实现仓储运营管理可视化、智能化,并不断增强与各电商平台、商家的对接能力,持续沉淀和强化一站式供应链物流服务能力；公司亦利用国内、国际的网络资源禀赋,逐步拓宽营销渠道,打造并推广跨境电商专递、跨境仓配、国际散单等国际产品服务,进一步完善国际产品体系,构建联动国内国际的高品质快递服务体系,促进市场全面拓展。同时,公司实行精准营销策略,加快营销活动响应速度,推进营销政策精准投放、直达客户,稳步实现差异定价、优质优价,并实现大客户快速理赔、工单优先处理等,提升直营客服岗位效能,提高差异化、精准化服务能力,助力客户分层、产品分级。（四）强化全网综合实力,厚植高质量发展根基1.完善基础设施布局,夯实主业发展基础2023年,公司持续夯实网络基础设施建设,投入资本开支近49亿元,用于转运中心建设、自动化设备升级、运能运力改善及全货机引进等,进一步强化核心资产掌控力,筑牢主业发展根基。报告期内公司科学优化转运中心布局,持续推进转运中心升级改造,完成佛山、无锡、宁波、广州、天津、西安等59个中心的升级改造计划,进一步提升中心枢纽转运能力,转运中心稳定性和服务能力进一步提升。公司持续加强自动化分拣设备的升级改造,增加无人化、少人化等新技术设备的应用,采用和推进柔性分拣,并投入窄带自动化分拣机、翻板机、圆盘分拣机等设备,逐步打造“无人中心”,转运中心的自动化、智能化水平明显提高。截至2023年底,公司在转运中心、城配中心等共布局完成自动化分拣设备238套。公司稳步提升自有运能运力,持续优化车型车队结构,提升高运力车辆比例,并通过数字化系统实现智能调度,保障运力合理投入,截至报告期末,公司自有干线运输车辆达5,354辆；公司亦稳步扩充自有航空机队规模,提升中远途航空货运能力,报告期内引入2架全货机,截至报告期末自有航空机队数量达13架,其中波音767-300共2架,波音757-200共10架,ARJ21-700共1架。2.数字化标准化赋能网络,提升全网综合竞争力报告期内,公司聚焦全网一体数字化、标准化建设,在全网派出70多个落地小组和专业团队,通过对加盟商派送、操作、运能、客服等业务环节的全方位调研、问诊,针对性出具整改和优化方案,助力加盟商经营降本提质增效。截至报告期末,加盟商覆盖范围已超1,800家,全网综合经营实力提升显著。●提升单车装载●提升操作人效●提升派送人效●提升客服人效●升级车辆车型●管控操作质量●实行统一结算●梳理客服架构●优化运行线路●严抓操作效率●推行驿站直送●升级智能工具●落地车辆复用●降低物料成本●优化派费结构●降低重复进线运能操作派送客服公司亦推进“YTO-GPT”等的全网应用,加盟商可快速、简便了解和掌握其综合运营数据,实时动态调整运营,有效提升了加盟网络的数字化系统应用水平,进一步提高网络整体管理效率和管理能力。公司持续完善各项制度体系建设,强化场地、车辆、设备、形象、服务等的标准化、规范化,提高加盟商标准化服务及运营水平；同时,公司积极优化加盟商培训机制,构建总部、省区、加盟商三级培训体系,培训课程涵盖客户服务、财务分析、市场营销、质量管控等方面,2023年累计为加盟商提供培训超1,000场,参训网点各项指标均有明显改善。同时,公司在加盟网络全面推广和应用精益生产理念,支持加盟商投放、升级自动化设备,提高派件直送占比,进一步提升加盟商操作效率和运营管理水平,并协同加盟商拓展个人零散件、逆向物流、仓储配送等业务,助力加盟商、末端网点等开拓市场,全面提升加盟网络综合竞争力。3.健全终端配送体系,提升末端服务水平报告期内,公司持续完善终端配送体系建设,打造多元化、智能化末端服务网络,满足客户差异化、个性化的服务需求。公司综合区域发展、市场需求等要素,在全国范围内持续推广布局圆通妈妈驿站,并积极践行“快递进村”工程,推进乡镇快递服务终端建设,完善城乡快递配送体系,截至报告期末,公司共建设乡村妈妈驿站4.5万家,全国30多个省市基本实现全覆盖。公司鼓励加盟商充分吸纳多方资源,合作建立和布局菜鸟驿站、第三方驿站及智能快递柜等,畅通多元化终端派送渠道,进一步提高派送终端的覆盖范围和密度。公司亦积极探索无人车、无人机、人工智能等先进技术在配送领域的应用,提高末端配送的自动化和智能化水平,进一步提升末端配送效率。同时,公司顺应“快递+”的发展趋势,充分挖掘终端经济市场潜力,强化与社区服务等多业态融合,助力驿站分销商品,赋能终端商业发展,激活终端商业属性,提高末端综合服务及发展水平。截至报告期末,公司多元化终端体系日臻完善,在全国范围内共拥有超82,000个终端门店,快件入库入柜比例超71%,配送效率持续提高。（五）聚焦精细化管控,核心成本稳步下降1.运输成本报告期内,公司持续优化运力结构,稳步提升大型运输车辆、甩挂车辆、双边运输车辆及自有车辆占比,并实时监控业务量情况,前置管控用车计划,加强区域内转运车辆的统一调配,及时调节运力资源,提高社会车辆、闲置车辆利用率,保障运力投入的合理、高效利用。公司动态优化干线路由,延伸干线覆盖、推进跨省双路由、提高单车行使里程,并下沉完善加盟网络的路由设计,提高路由直达率。公司逐步拓展和优化城配中心、建包中心等覆盖范围,推广无缝对接；公司亦推进运输价格公开化、透明化管理,进一步提升干线运输价格管控能力。同时,公司持续强化现场装载标准化水平,强化单车装载的日常管控,并不断完善干线运输装车激励机制,单车装载票数进一步提升,截至报告期末,公司单车装载票数较期初提升超19%。2023年,公司单票运输成本0.46元,较去年同期下降0.05元,降幅9.67%。2.中心操作成本报告期内,公司全面落实转运中心精益生产,精准管控工序效能、岗位效率,提高固定员工占比,提升装卸统筹人员复用率,确保岗位操作熟练度；公司亦落实转运中心全员绩效,推进绩效结算线上化、可视化,有效激励操作员工,提升岗位人员积极性和主动性,中心人均效能稳步提升。同时,公司升级场地工艺设备,加速提升自动化设备效能,并推广机械臂、翻板机、柔性分拣、末端无人拉包等应用,减少分拣操作次数。2023年,公司单票中心操作成本0.29元,较去年同期下降0.02元,降幅5.37%。单票运输成本单票中心操作成本0.460.29元元同比下降0.05元,降幅9.67%同比下降0.02元,降幅5.37%（六）积极推进国际化发展战略,全面强化综合物流服务能力报告期内,公司积极践行国际化发展战略,综合运用自建自营、战略合作等多种方式,强化RCEP成员国、欧洲、美洲等国家地区网络布局,充分挖掘市场需求,为客户提供量身定制的一站式解决方案,国际货运业务现已涵盖空运、海运、铁路、公路、多式联运等,报告期内公司国际货运业务运行稳定。公司着力推进国际快递业务发展,针对主流国际市场构建“中国联世界,世界联世界”优势产品,推出国际标快、国际特快、跨境电商专递、落地配及海外本地业务、增值服务等细分产品,满足客户差异化服务需求,并持续拓展中日、中韩、陆台等精品专线产品,稳固重点专线产品优势,积极开拓中美、英、澳等专线,国际快递产品及服务能力稳步提升。报告期内,公司完成国际快递及包裹服务约1.48亿件,同比增长近20%。此外,公司聚焦服装、汽车、半导体、电子产品等领域,持续强化全球供应链能力建设,与小米、VIVO、传音、浙江大华等大型跨国企业维持良好合作,并以承办国际综合性赛事物流服务为契机,进一步沉淀“仓干线配关”一体化的国际供应链物流服务能力。同时,公司强化国际化发展的基础建设,持续优化机队规模和结构,报告期内新增投入一架波音757全货机、一架ARJ21全货机,稳步扩充航空运力,夯实自有航空稀缺资源优势；公司持续加密亚洲和东欧等核心区域的航线网络布局,报告期内开通运行了广州=德里、杭州=迪拜、宁波=河内、宁波=曼谷、南宁=拉合尔、杭州=达卡等超30条货运航线,现已累计开通130多条覆盖亚洲全域、东欧核心区域的优质航线。公司以自建、合作及联盟等方式,进一步拓展清关网络,在国内主要口岸和国际部分重点口岸完成关务能力建设,清关网络已基本覆盖全国主要口岸,清关体系日趋成熟,可为多业态客户提供精准高效的通关服务。国际快递及包裹服务国际供应链业务完成量1.48亿件同比增长+20%赛事物流：承办国际综合性赛事物流服务中日、陆台、中韩精品专线产品稳步拓展覆盖行业：电子电器服务时尚日本、澳洲、菲律宾自派能力建设食品医药高端制造跨境电商合作平台：合作客户：*本图仅为示意,不代表真实地图航空网络关务自有航空机队数量13架业务范围覆盖150+国家/地区42个重点口岸关务能力建设圆通航空累计开通航线超130条全球18个国家/地区拥有实体（七）贯彻落实绿色发展,严守安全生产底线报告期内,公司绿色工作委员会继续贯彻落实工作职责,统筹修订完善绿色工作管理制度,并推行全网宣贯培训,督促全体员工加强法规政策学习,树牢全网绿色生态环保责任意识；公司积极落实“9218”等绿色发展工程,进一步推广可循环快递箱（盒）、减少包装填充物、降低电商快件二次包装比例,推进快递包装绿色低碳转型；公司自愿加入《快递业限制快递过度包装自律公约》成员单位,积极参加绿色发展论坛,为行业绿色发展建言献策；公司完善绿色科技研发应用,基于自行研发的“碳足迹”数字化管理系统,实时查看包裹碳排放数据,推动公司数字化管控碳排情况,该系统荣获中国物流与采购联合会“2023年电子商务物流ESG实践创新案例”；公司亦不断加大绿色发展投入力度,在揭阳、杭州、上海等多地转运中心陆续投用光伏发电项目,并在北京、杭州等地试行投入新能源车,助力构建智慧绿色的现代化物流体系。公司完善全网安全管理与防范工作机制,建立安全管理组织架构及管理体系,明确安全生产管理责任,并修订完善《安全管理手册》《车辆安全监控运行标准化手册》等一系列制度手册,为安全管理提供制度保障。公司定期组织召开安全培训及演练,围绕安全寄递、安全生产和信息安全等核心内容,开展全网安全培训,增强员工安全生产意识,并就火灾处置等组织应急演练,提高员工应急处理能力。同时,公司持续完善信息安全和风控能力建设,建设数据安全分析系统,将涉及到个人信息的明文内容进行识别和风险预警,并持续优化软件安全防控系统,保障各项数据及信息安全,捍卫公司安全生产经营底线。",
+      "futureExpect": "(一)行业格局和趋势1.行业格局近年来,主要快递服务企业持续强化综合能力建设,深化科技创新引领,稳步巩固企业核心竞争优势,快递行业市场份额逐步向服务品质更佳、客户体验更好、管理能力更强、成本管控更优的行业头部企业集中。2023年,我国快递行业前两名企业的市场份额约为39%,同比提升超1个百分点,行业集中度持续提升。2.行业发展趋势消费潜力持续释放,行业规模稳定增长2024年,国家提出要激发有潜能的消费,推动消费从疫后恢复转向持续扩大,培育壮大新型消费。快递作为国内消费的关键环节,亦将受益于消费潜力的持续释放,行业规模将持续稳定增长。国家邮政局预计2024年全国快递业务量、业务收入分别完成1,425亿件和1.3万亿元,增速8%左右,继续保持稳步上升态势。首先,电商消费市场的稳健增长为快递行业发展提供了重要驱动力,以抖音、快手、小红书等为代表的新兴直播电商及社交电商平台近年持续蓬勃发展,“直播电商”和“即时零售”渗透的领域和产品种类不断扩大,快件寄递需求亦将随之持续释放。其次,乡镇、农村等下沉市场潜力持续释放是行业增长的重要因素。近年来,主要快递服务企业响应国家号召,积极推进落实畅通城乡经济循环、服务乡村振兴战略的“快递进村”工程,快递服务网络不断向中西部县、镇、村三级消费市场深度拓展,乡村寄递物流体系建设趋于完善,逐步打通农产品出村进城、消费品下乡进村的双向流通渠道,进一步提振消费扩大内需。第三,“电商出海”也成为推动我国快递企业发展国际业务的重要契机,国际及港澳台快件寄递业务规模进一步扩张,据统计,2023年国际/港澳台业务量累计完成30.7亿件,同比增长约52%,成为行业新的增长点。主要快递服务企业亦积极开拓国际市场,深入拓展国际航空、海运等常态化跨境寄递渠道,逐步布局海外仓建设,国际快递网络、产品服务体系日益完善。同时,随着社会消费习惯的变化,针对生鲜食品、服装配饰、商场超市等产品个性化、差异化的个人散件需求也在日益增大。聚焦提升品牌价值,推动行业良性发展随着快递行业高质量发展的稳步推进和居民消费水平、消费理念的持续升级,广大客户和消费者个性化、差异化、品质化的快递服务需求愈发明显,快递服务企业以往粗放式管理、“以价换量”的竞争方式将难以获得竞争优势,服务质量、客户体验、成本管控、业务创新等综合能力更强的企业将进一步获得竞争的主动权,主要快递服务企业均回归快递服务的本源,坚持以客户为中心,不断升级服务模式、完善产品分层,精准匹配客户的多样化服务需求,行业主要竞争策略正逐步由价格竞争转向价值竞争。近年来,主要快递服务企业依托数字化、人工智能等先进技术,推动全链路业务信息精准识别、追踪,精准管控快件时效,保障寄递安全,并不断完善配送终端建设,持续提高客户粘性,增强快递服务履约能力。未来,主要快递服务企业将进一步推进先进技术赋能,强化运营精细管理,深化管理模式创新,巩固核心竞争壁垒,着力提升综合服务能力,打造优质、良好的市场口碑和品牌形象,提升企业品牌溢价和盈利能力,推动行业健康有序发展。数字化引领变革,助力行业智慧发展报告期内,国务院发布《数字中国建设整体布局规划》,指出要进一步推动数字技术和实体经济深度融合,提出在工业、金融、交通等重点领域,加快数字技术创新应用。近年来,主要快递服务企业稳步提升自身研发创新能力,积极推动大数据、云计算等科学技术在业务、管理、服务与产品上的推广和应用,推行智能决策、智能客服、智慧网点、无人分拨等发展,快递服务和运营全链路精细管理能力及智慧分析决策水平逐步提升。未来,主要快递服务企业将加快业务运营系统与人工智能等新兴技术的深度融合,推动行业由数字化时代迈向人工智能时代,提升快递业务智能化管理水平,加速行业信息化、数字化、智能化发展。关注成本效能优化,夯实行业竞争基础成本效能系快递行业竞争的基础,主要快递服务企业未来将持续加强转运中心、干线运输车辆、末端网点等基础设施的投入和建设,合理提升和配置产能,并以数字化系统赋能管理,优化设备效能,提升人均效能,提高运输效率,降低派送成本,深度挖掘成本降幅空间,着力降低业务运营全链路、全流程的运营成本,为提升企业盈利能力、促进全社会物流降本等奠定坚实基础。综合化国际化发展,拓展行业服务边界现阶段,客户对快递服务及产品的需求日益多元化,主要快递服务企业在自身主要快递服务及产品的服务质量持续改善的基础上,不断推进服务分层、产品分级,构建差异化的产品与服务体系,并深化营销模式创新,精准描绘客户画像,按需满足多元需求。主要快递服务企业以快递服务为核心,积极探索多元化战略布局,不断拓宽服务领域,深度融入网络零售、逆向物流、社区经济、个性化定制等新兴业务模式,并通过合作、收购和交叉持股等多种方式强化资源整合,积极探索快运、冷链、仓配一体化等综合物流产品与服务。同时,主要快递服务企业不断践行“快递出海”工程,积极拓展海外网络布局,充分发挥覆盖国内外的网络优势、自有全货机规模优势等,与跨境电商平台、跨国大型企业等开展全方位合作,着力发展国际快递、供应链服务,增强企业综合化、国际化服务能力,助力行业打造全球自主可控的综合物流和供应链体系。科技赋能终端建设,增强末端服务能力伴随终端消费者对服务质量、客户体验提出的更高需求,打造高效、便捷、无忧的智慧化、多元化、差异化末端服务生态成为行业发展新趋势。近年来,快递服务企业、电商平台及第三方服务企业等均通过自营或合作建设驿站、店中店、代办点等形式加大末端配送体系建设,并通过数字化系统提升末端管理和配送能力,满足消费者按需派送的服务需求,夯实“最后一公里”服务品质。现阶段,智能快递柜、共享配送、快递公共投递站、快递超市（驿站）、智能信报箱等多种配送形式已推广普及,行业末端配送体系逐步完善；各快递服务企业亦持续加强无人化运输设备及人工智能技术的应用,推动末端服务无人化进程,提升末端收派的智能化和自动化水平。同时,主要快递服务企业秉承“快递+”的运营理念,在末端收派件的基础上叠加零售、生鲜配送、洗衣、彩票等多种便民服务,搭建“线上社群+线下社区”等引流获客新场景,进一步增强客户粘性,改善终端门店盈利能力,增强终端门店的稳定性,提升末端综合服务能力。完善环保治理体系,深化行业绿色转型绿色环保系快递行业高质量发展的应有之义,绿色转型和可持续发展已经成为快递行业共识。2023年,国家邮政局出台《关于推动邮政快递业绿色低碳发展的实施意见》,明确了我国邮政快递业低碳转型的三大重点,即建设低碳高效的寄递运输体系、推进行业基础设施绿色建设运营和推进邮件快件包装减量化标准化循环化。现阶段,绿色环保理念已深入贯穿行业监管、业务运营、职能管理各环节,主要快递服务企业将深入践行绿色发展理念,积极实施快递包装产品绿色认证,推进快递包装减量化、标准化、循环化,引导商家和消费者使用可循环、可降解的快递包装,并规范快递包装废弃物回收和再利用,推动行业绿色发展。同时,主要快递服务企业将继续落实减污降碳各项工作,加大新能源和清洁能源运输车辆购置,推进智能分仓、科学配载、线路优化、循环共用,持续建设绿色网点、绿色中心、绿色园区等,不断推进末端减量化、中转循环化、运输减排化、仓储节能化等绿色环保实践,推动快递服务企业自身及行业实现全面绿色转型。(二)公司发展战略公司定位于互联网信息技术的快递平台,致力于成为全球领先的综合性快递物流运营商和供应链集成商,秉承“中国人的快递,世界因我们触手可得”的发展愿景,以“诚信守法”为立企之基,坚持“诚信、创新、共建、共享”的核心价值观,构建圆通网络生态命运共同体,以“提质增效、变革创新”为行动指南,秉持“安全、快速、便捷、可靠、科技”十字方针,注重绿色安全,打造品质圆通、科技圆通、绿色圆通、德善圆通。中国人的快递诚信、创新世界因我们触手可得共建、共享全球领先的综合性快递物流运营商和供应链集成商提质增效诚信守法变革创新公司坚定深耕快递主业,不断拓展、夯实快递服务网络,完善国内、国际综合服务体系,并推进全面数字化转型和智能化发展,聚焦提升品牌价值和溢价,重点提升服务质量和客户体验。公司以电商快递为基础,强化与科技创新等资源的深度融合,增强人才、系统、网络的专业化能力,完善多层次产品体系,打造高品质、高时效的差异化产品与服务,并持续加大研发投入,提升公司科研实力,构建物流信息共享体系,推动公司运营数字化、智能化、自动化,打造以科技与信息技术为主要驱动力的智慧圆通,全面提升公司综合服务能力。深耕快递主业,夯实市场核心竞争力公司将持续深耕快递主业,不断推进管理变革,通过持续完善组织保障、绩效评价、考核指标等建立科学的管控体系,并细化服务质量、客户体验管理举措及指标,依托核心的数字化、智能化系统优势,推进公司服务质量、客户体验的有效、实时管控,增强客户粘性,实现管理高效、服务优质、客户满意的良性循环,培育和夯实服务质量核心竞争力；公司亦将持续完善基础设施布局,健全终端配送体系,强化成本管控,深化营销创新,并推动全网一体数字化、标准化,着力打造“非直营的类直营化体系”,提升全网经营实力和盈利能力,夯实主业发展根基。以快递服务为核心,构筑快递物流新体系公司秉承“快递+”的战略模式,以快递服务为核心,积极探索多元化战略布局,构筑快递物流生态体系。公司将根据客户需求、市场发展及行业动态,不断扩展产品及服务范围,打造差异化产品和服务体系,为广大消费者提供高品质、高时效的快递产品与服务,并通过自营、合作、参股、收购等方式打造仓配、供应链、冷链产品与城市配送服务,全方位满足客户及消费者的个性化、差异化、定制化需要。公司亦将充分发挥覆盖国内国际的资源、网络等优势,调动社会资源,为网络和广大客户提供商贸、供应链金融等综合服务方案,构筑快递、物流、科技、金融、商贸等开放共享的生态服务圈,增强综合服务能力,打造圆通网络生态命运共同体。深化国际化发展战略,国际国内融合发展公司秉承“跟着‘一带一路’走出去、跟着跨境电商走出去、跟着华人华企走出去”的发展理念,深入践行“快递出海”工程,积极推进落实国际化发展战略,稳步拓展全球网络布局,全面升级国际产品体系,延伸国际跨境产品服务链路,着力发展国际快递、供应链等服务。公司将集聚优势资源,打造国际业务专业化人才梯队,并通过自建自营、战略合作等方式加速拓展全球网络覆盖、完善海外网络布局、搭建海外转运平台,将发展多式联运,结合圆通航空、中欧班列等优势运能运力,增强公司关键资源掌控力和议价能力,强化国际仓储、干线运输、关务清算、本地自派等能力建设,打造跨境物流全链路产品与服务,以“运全球,送全球”为宗旨助力中国电商、携手中国制造走出去,且积极引进来,逐步为海内外客户提供清关便捷、时效优良、服务稳定的综合物流服务,并实现国际国内融合共生、持续健康发展,构建国际供应链网络生态命运共同体,打造全球供应链一体化,增强公司全球化综合服务能力。推进全面数字化转型,科技创新引领智慧发展公司顺应智慧物流发展趋势,贯彻科技引领战略,高度重视科技与信息技术研发与发展,全面推进数字化转型和智能化升级,实现创新发展。公司持续加大研发投入,凝聚具有创新精神的专业研发团队,借鉴国内外先进经验,应用云计算、大数据、人工智能等新兴技术,打通各板块信息化系统,联通各板块信息端口,实现全网全过程数字化运作和智能化管控。公司将以提升数字化、信息化、智能化为主线,进一步增强快件全生命周期可视可控能力,提升内部运营的安全和效率,并为全链路的信息数据采集、产业链上下游的信息交互提供支持和保障,全面实现物流、信息流、关务流、资金流合一；公司致力于逐步建立起大数据分析、智慧化决策的技术与能力,在保障数据安全的前提下,将公司运营过程中产生的大数据转化为实际生产力,深度挖掘信息与数据的价值,逐步实现业务流程与公司管理的智能化和智慧化转变；公司亦将坚持数字化赋能网络,立足国内国际协同推进,推动全网一体数字化、标准化体系建设,全面提升网络综合竞争力。(三)经营计划2024年,公司将继续坚定深耕快递主业,坚持以客户体验为中心,持续改善服务质量,运用人工智能等新兴技术推动数字化转型全面升级创新,持续提高科技生产力；公司亦将推广精益生产赋能全网,强化成本精细管控,深化创新营销模式,打造差异化产品与服务体系,推动全网一体数字化、标准化全面见效,提升全网经营实力和盈利能力；同时,公司将深化推进国际化发展进程,充分发挥自有航空、专业团队及全球网络等资源优势,搭建国际国内一体化的服务和网络运营体系,着力发展国际快递和供应链业务,全面增强公司综合服务与竞争能力。坚持科技创新引领,数字化全面升级智能化2024年,公司将持续关注人工智能等新兴技术的发展,紧抓科技变革和产业融合的发展机遇,锻造领先的科技创新和自主研发能力,在行业领先的数字化应用基础上,推动自然语言理解、机器视觉、语音识别、地图技术等人工智能技术的创新融合,发挥生成式人工智能技术的商业价值,实现数字化向智能化的全面升级转变,促进管理决策更智慧、更高效,提升全网管理能力和效率。同时,公司亦将加速推进全网一体数字化、标准化全面见效,持续迭代客服、财务、人资等系统,赋能加盟网络,持续提升加盟网络经营管理能力,增强全网综合竞争力。改善服务和体验,增强品牌溢价能力2024年,公司将坚持以客户体验为中心,着力缩短全程时长、全面提升服务质量、多维改善客户体验,持续提高客户满意度和品牌美誉度,增强品牌溢价能力。公司将构建全链路分段、全网协同的时效管控机制,完善揽收交件时效标准,推行落实分批交件,加强无缝对接,推动交件时效持续改善；加强在途车辆过程管控,优化快件中转路由,减少中转次数,提升线路时效达成率；持续落实转运中心的改扩建及设备升级计划,提升中心操作标准化水平,清理超时库存,加速快件包裹运转,持续推行装卸统筹,多维提高操作效率；公司亦将推广智能取派系统应用,进一步缩短揽派时长,提高揽派效率。同时,公司将升级优化质控中台,落实质控现场巡查机制,通过智能监控系统,加强循环线拥堵治理,强化装车、分拣、卸车等各环节的操作规范,完善破损定责闭环管理,着力减少遗失破损,并将结合地理信息系统及用户画像,强化虚假签收考核管控,保障快件寄递安全,多维提升服务品质。公司将持续推进智能客服建设,提高客服专属群响应速度,加强客服工单信息互联互通,并持续优化智能机器人接待策略,提高客户服务智能化水平,进一步提升客户服务效率；改善客服工单处理机制,联动各部门协同处理,加强客服工单闭环管理,着力减少重复进线；围绕产品分层、服务分类,持续完善大客户权益,提升直营客服效能,打造差异化、精准化服务能力,增强客户粘性；持续优化理赔流程,拓宽快速理赔应用范围,推广直通总部,推行理赔线上化,提升理赔服务体验；全面升级客服体系,实行客服全员绩效化管理,应用客服评级储备培养人才,并强化数字化系统应用,多维提升客户服务水平,全面改善客户体验。加强核心资产投放,持续夯实竞争壁垒2024年,公司将持续加大基础设施建设投入,推进转运中心新建及改扩建,巩固核心资源优势,并持续改良工艺设备,推进自动化升级,推广双层大件交叉带、窄带分拣、无人供件等先进设备应用,提升转运中心自动化、智能化水平,提高中心各环节操作效能。公司将合理规划运能需求,优化车队规模和车型结构,提升甩挂车辆、大型运输车辆比例,逐步试用和推广无人驾驶车辆,夯实自有运能运力,并将动态监测业务需求,灵活调度运力资源,保障运能投入合理且保有弹性；公司亦将稳步优化航空机队规模和结构,提升中远途航空货运能力,增强自有航空运营效率,强化航空物流服务能力,助力打造自主可控的航空物流体系。公司亦将围绕消费者多元化服务需求,创新终端服务模式,完善配送终端体系建设。公司将持续推广建设圆通妈妈驿站,提升终端覆盖密度,并将紧跟政策指引,推进“快递进村”工程,推动乡村资源共建共享,拓展乡村服务网点布局,提升乡村末端服务水平,助力健全县乡村物流配送体系建设；公司将通过数字化工具赋能驿站管理运营,试点推广智能自助驿站系统,提高终端数字化水平,为客户提供更加优质便捷的末端服务；同时,公司将继续秉承“快递+”的运营理念,以快递服务为切入点,拓展多样化便民商贸服务,激发终端经济市场潜力；公司亦将加强无人车、无人机、人工智能等先进技术应用,提升配送终端体系的智能化水平。聚焦成本精细管控,深挖核心成本降幅空间2024年,公司将强化车辆装载管控,实时监控异常装载情况,优化干线运输装车绩效考核及激励机制,着力提升车辆装载率及单车装载票数；公司亦将智能化车队管理,前置化用车管控,并进一步提升大型运输车辆、甩挂车辆、双边运输车辆及自有车辆占比,促进运能资源合理配置；公司亦将探索自动驾驶技术应用,助力增加车辆运行时间、降低用工成本、提高燃油经济性,推动运能成本进一步降低。同时,公司将全面升级中心精益运营体系,加强工序效能及人员绩效的智能管控,持续推广中心绩效管理,着力提升人均效能；全面升级自动化设备,改良工艺设计,推广柔性分拣、无人化技术等应用,提高中转操作效率,精细化管控期间费用,深挖中心操作降幅空间。实现精准化、差异化服务,全方位纵深拓展市场2024年,公司将优化数字营销平台,赋能市场营销各项举措,通过大数据分析评估市场需求及潜力,运用产品精益管理,助力市场拓展和产品创新,并逐步搭建完善客户拜访系统,推动客户闭环管理,强化对分层客户的商机开发及服务保障；公司亦将持续推进精准营销,推动营销政策精准化、差异化投放并直达客户,全方位纵深拓展市场。公司将全面提升服务品质和产品创新能力,持续推进产品分层体系建设,打造精准化、差异化、数字化的产品和服务体系。首先,公司将推进时效产品在全链路的优先操作,提升全程跟单、派前电联、快速理赔等方面的服务体验,强化差异化、精准化服务能力,稳步打造“普遍服务-圆准达-高端时效产品”的差异化产品体系；其次,公司将全面升级国际产品体系,形成包含国际快递、国际货运、国际供应链、航空货运、关务、供应链金融、仓配、数字化产品的八大国际产品体系,并着力推动国内国际营销协同共享,加强客户互联互通,强化快递、货运及供应链业务协同发展,稳步构建“仓干线配关”一站式供应链集成物流服务。数字化标准化全面见效,助力全网提质降本增效2024年,公司将继续秉承打造“非直营的类直营化体系”的理念,推进加盟网络数字化、标准化全面见效,实现加盟网络精益化、差异化、数字化、智能化发展。首先,公司将持续推动总部项目组入驻加盟商,发挥标杆作用,带动帮扶弱势网点,并持续推广客服、财务等系统应用,加速推进项目覆盖,推动全网一体提质降本增效,提升全网经营实力；公司将持续升级智能客服应用,完善客服中台系统建设,强化客服组织协同,降低加盟商客服投入,提高客户服务质量。同时,公司将结合市场竞争及网点运营情况,动态优化加盟商规模和结构,持续提升加盟商场地规划、设施建设、操作运营等的标准化水平,并将助力加盟商拓展个人零散件、逆向物流、仓储配送等业务,打造富有竞争力的加盟网络。推进国际航空协同融合,深化国际化发展战略2024年,公司将深化国际化发展战略,继续推进“快递出海”工程,秉持跟着跨境电商走出去、跟着华人华企走出去、跟着一带一路走出去的发展策略,保持国际货物运输代理业务稳定发展,聚焦拓展增量物流市场,全面升级国际产品体系,不断延长国际物流服务链条,逐步覆盖集货发运、干线运输、清关转运、末端派送等服务,着力发展国际快递与供应链业务；同时,公司将依托自有航空、航线网络等资源禀赋,做精做专中日、陆台等优质航线,持续开拓中美、英、澳等专线市场,并拓展服装、汽车、半导体、电子产品等多领域的供应链物流产品,并将因地制宜推动快递、货运、供应链业务协同发展；公司将深化国际化人才团队培养和任用机制,通过自建自营、战略合作等方式稳步拓展全球,尤其是重点国家、地区的服务网络,并将完善自建、合作、联盟的分层口岸关务体系,形成覆盖全国主要口岸和海外部分重点口岸的整体清关网络,持续打造便捷可靠的关务能力。推进绿色低碳发展,牢固全网安全根基2024年,公司将坚定不移地贯彻“绿色圆通”发展理念,以积极行动推动行业绿色革新。首先,公司将紧密围绕“9218”等绿色发展工程,深化快件包装绿色治理,推进可持续包装的研发及应用,推广减少过度包装、二次包装等,推进快递包装绿色低碳；其次,公司将积极应用新能源车辆,提升车辆使用效率,减少能源消耗,并将持续打造绿色园区,加大园区光伏项目覆盖范围,探索可再生能源解决方案,推动基础设施绿色低碳建设；同时,公司将创新绿色低碳科技研发应用,完善“碳足迹”系统,探索优化碳减排核算体系,提升碳排放精细化管理水平,持续推进绿色物流体系建设,助力行业实现绿色低碳发展。2024年,公司将持续落实安全委员会的职责,统筹完善安全生产管理体系,健全优化安全管理标准,明确全网员工在安全生产中的责任和操作规范；公司将持续加强全网安全教育培训,提高全网安全意识和操作技能,前置化防范安全隐患；公司将持续加强视频监控等管理系统应用,强化数字化工具赋能安全管理,推进寄递全链路安全综合整治；同时,公司将持续加强终端安全防护,保障个人信息安全,筑牢全网安全发展根基。"
+    }
+  ]
+}

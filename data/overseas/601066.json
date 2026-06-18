@@ -1,0 +1,1829 @@
+{
+  "code": "601066",
+  "name": "中信建投",
+  "fetchTime": "2026-06-18T18:35:38",
+  "segments": [
+    {
+      "reportDate": "2025-12-31",
+      "byIndustry": [
+        {
+          "name": "交易及机构客户服务",
+          "income": 9724393298.36,
+          "incomeRatio": 41.7,
+          "cost": 3959359467.92,
+          "costRatio": 34.44,
+          "profit": 5765033830.44,
+          "profitRatio": 48.75,
+          "grossMargin": 59.28,
+          "rank": 1
+        },
+        {
+          "name": "财富管理业务",
+          "income": 8220833414.63,
+          "incomeRatio": 35.25,
+          "cost": 4600535789.63,
+          "costRatio": 40.02,
+          "profit": 3620297625.0,
+          "profitRatio": 30.61,
+          "grossMargin": 44.04,
+          "rank": 2
+        },
+        {
+          "name": "投资银行业务",
+          "income": 3132174861.65,
+          "incomeRatio": 13.43,
+          "cost": 1966912414.78,
+          "costRatio": 17.11,
+          "profit": 1165262446.87,
+          "profitRatio": 9.85,
+          "grossMargin": 37.2,
+          "rank": 3
+        },
+        {
+          "name": "资产管理业务",
+          "income": 1428258632.05,
+          "incomeRatio": 6.12,
+          "cost": 696364484.4,
+          "costRatio": 6.06,
+          "profit": 731894147.65,
+          "profitRatio": 6.19,
+          "grossMargin": 51.24,
+          "rank": 4
+        },
+        {
+          "name": "其他",
+          "income": 816054254.04,
+          "incomeRatio": 3.5,
+          "cost": 271777401.09,
+          "costRatio": 2.36,
+          "profit": 544276852.95,
+          "profitRatio": 4.6,
+          "grossMargin": 66.7,
+          "rank": 5
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "交易及机构客户服务",
+          "income": 9724393298.36,
+          "incomeRatio": 41.7,
+          "cost": 3959359467.92,
+          "costRatio": 34.44,
+          "profit": 5765033830.44,
+          "profitRatio": 48.75,
+          "grossMargin": 59.28,
+          "rank": 1
+        },
+        {
+          "name": "财富管理业务",
+          "income": 8220833414.63,
+          "incomeRatio": 35.25,
+          "cost": 4600535789.63,
+          "costRatio": 40.02,
+          "profit": 3620297625.0,
+          "profitRatio": 30.61,
+          "grossMargin": 44.04,
+          "rank": 2
+        },
+        {
+          "name": "投资银行业务",
+          "income": 3132174861.65,
+          "incomeRatio": 13.43,
+          "cost": 1966912414.78,
+          "costRatio": 17.11,
+          "profit": 1165262446.87,
+          "profitRatio": 9.85,
+          "grossMargin": 37.2,
+          "rank": 3
+        },
+        {
+          "name": "资产管理业务",
+          "income": 1428258632.05,
+          "incomeRatio": 6.12,
+          "cost": 696364484.4,
+          "costRatio": 6.06,
+          "profit": 731894147.65,
+          "profitRatio": 6.19,
+          "grossMargin": 51.24,
+          "rank": 4
+        },
+        {
+          "name": "其他",
+          "income": 816054254.04,
+          "incomeRatio": 3.5,
+          "cost": 271777401.09,
+          "costRatio": 2.36,
+          "profit": 544276852.95,
+          "profitRatio": 4.6,
+          "grossMargin": 66.7,
+          "rank": 5
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "境内",
+          "income": 21830154109.11,
+          "incomeRatio": 93.6,
+          "cost": 11023609748.42,
+          "costRatio": 95.9,
+          "profit": 10806544360.69,
+          "profitRatio": 91.37,
+          "grossMargin": 49.5,
+          "rank": 1
+        },
+        {
+          "name": "境外",
+          "income": 1491560351.62,
+          "incomeRatio": 6.4,
+          "cost": 471339809.4,
+          "costRatio": 4.1,
+          "profit": 1020220542.22,
+          "profitRatio": 8.63,
+          "grossMargin": 68.4,
+          "rank": 2
+        },
+        {
+          "name": "其中:公司本部",
+          "income": 14460433593.98,
+          "incomeRatio": 62.0,
+          "cost": 8117689276.76,
+          "costRatio": 70.62,
+          "profit": 6342744317.22,
+          "profitRatio": 53.63,
+          "grossMargin": 43.86,
+          "rank": 3
+        },
+        {
+          "name": "其中:其他地区",
+          "income": 3571109438.88,
+          "incomeRatio": 15.31,
+          "cost": 1427197217.61,
+          "costRatio": 12.42,
+          "profit": 2143912221.27,
+          "profitRatio": 18.13,
+          "grossMargin": 60.03,
+          "rank": 4
+        },
+        {
+          "name": "其中:北京市",
+          "income": 1989033455.58,
+          "incomeRatio": 8.53,
+          "cost": 550575927.09,
+          "costRatio": 4.79,
+          "profit": 1438457528.49,
+          "profitRatio": 12.16,
+          "grossMargin": 72.32,
+          "rank": 5
+        },
+        {
+          "name": "其中:上海市",
+          "income": 1151931187.35,
+          "incomeRatio": 4.94,
+          "cost": 604248861.41,
+          "costRatio": 5.26,
+          "profit": 547682325.94,
+          "profitRatio": 4.63,
+          "grossMargin": 47.54,
+          "rank": 6
+        },
+        {
+          "name": "其中:广东省",
+          "income": 657646433.32,
+          "incomeRatio": 2.82,
+          "cost": 323898465.55,
+          "costRatio": 2.82,
+          "profit": 333747967.77,
+          "profitRatio": 2.82,
+          "grossMargin": 50.75,
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "reportDate": "2024-12-31",
+      "byIndustry": [
+        {
+          "name": "交易及机构客户服务业务",
+          "income": 8053430746.78,
+          "incomeRatio": 38.12,
+          "cost": 3292811591.35,
+          "costRatio": 26.67,
+          "profit": 4760619155.43,
+          "profitRatio": 54.2,
+          "grossMargin": 59.11,
+          "rank": 1
+        },
+        {
+          "name": "财富管理业务",
+          "income": 6609790484.47,
+          "incomeRatio": 31.28,
+          "cost": 4049195168.31,
+          "costRatio": 32.8,
+          "profit": 2560595316.16,
+          "profitRatio": 29.15,
+          "grossMargin": 38.74,
+          "rank": 2
+        },
+        {
+          "name": "其他",
+          "income": 2719360941.31,
+          "incomeRatio": 12.87,
+          "cost": 2311571235.07,
+          "costRatio": 18.72,
+          "profit": 407789706.24,
+          "profitRatio": 4.64,
+          "grossMargin": 15.0,
+          "rank": 3
+        },
+        {
+          "name": "投资银行业务",
+          "income": 2490504951.9,
+          "incomeRatio": 11.79,
+          "cost": 2006294364.24,
+          "costRatio": 16.25,
+          "profit": 484210587.66,
+          "profitRatio": 5.51,
+          "grossMargin": 19.44,
+          "rank": 4
+        },
+        {
+          "name": "资产管理业务",
+          "income": 1255657914.99,
+          "incomeRatio": 5.94,
+          "cost": 685306791.55,
+          "costRatio": 5.55,
+          "profit": 570351123.44,
+          "profitRatio": 6.49,
+          "grossMargin": 45.42,
+          "rank": 5
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "交易及机构客户服务",
+          "income": 8053430746.78,
+          "incomeRatio": 38.12,
+          "cost": 3292811591.35,
+          "costRatio": 26.67,
+          "profit": 4760619155.43,
+          "profitRatio": 54.2,
+          "grossMargin": 59.11,
+          "rank": 1
+        },
+        {
+          "name": "财富管理业务",
+          "income": 6609790484.47,
+          "incomeRatio": 31.28,
+          "cost": 4049195168.31,
+          "costRatio": 32.8,
+          "profit": 2560595316.16,
+          "profitRatio": 29.15,
+          "grossMargin": 38.74,
+          "rank": 2
+        },
+        {
+          "name": "其他",
+          "income": 2719360941.31,
+          "incomeRatio": 12.87,
+          "cost": 2311571235.07,
+          "costRatio": 18.72,
+          "profit": 407789706.24,
+          "profitRatio": 4.64,
+          "grossMargin": 15.0,
+          "rank": 3
+        },
+        {
+          "name": "投资银行业务",
+          "income": 2490504951.9,
+          "incomeRatio": 11.79,
+          "cost": 2006294364.24,
+          "costRatio": 16.25,
+          "profit": 484210587.66,
+          "profitRatio": 5.51,
+          "grossMargin": 19.44,
+          "rank": 4
+        },
+        {
+          "name": "资产管理业务",
+          "income": 1255657914.99,
+          "incomeRatio": 5.94,
+          "cost": 685306791.55,
+          "costRatio": 5.55,
+          "profit": 570351123.44,
+          "profitRatio": 6.49,
+          "grossMargin": 45.42,
+          "rank": 5
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "境内",
+          "income": 20392853583.75,
+          "incomeRatio": 96.52,
+          "cost": 12008348004.32,
+          "costRatio": 97.27,
+          "profit": 8384505579.43,
+          "profitRatio": 95.46,
+          "grossMargin": 41.11,
+          "rank": 1
+        },
+        {
+          "name": "境外",
+          "income": 735891455.7,
+          "incomeRatio": 3.48,
+          "cost": 336831146.2,
+          "costRatio": 2.73,
+          "profit": 399060309.5,
+          "profitRatio": 4.54,
+          "grossMargin": 54.23,
+          "rank": 2
+        },
+        {
+          "name": "其中:公司本部",
+          "income": 14747681186.12,
+          "incomeRatio": 69.8,
+          "cost": 9027746369.94,
+          "costRatio": 73.13,
+          "profit": 5719934816.18,
+          "profitRatio": 65.12,
+          "grossMargin": 38.79,
+          "rank": 3
+        },
+        {
+          "name": "其中:其他地区",
+          "income": 2587024744.04,
+          "incomeRatio": 12.24,
+          "cost": 1433580144.27,
+          "costRatio": 11.61,
+          "profit": 1153444599.77,
+          "profitRatio": 13.13,
+          "grossMargin": 44.59,
+          "rank": 4
+        },
+        {
+          "name": "其中:北京市",
+          "income": 1539197916.88,
+          "incomeRatio": 7.28,
+          "cost": 550169995.76,
+          "costRatio": 4.46,
+          "profit": 989027921.12,
+          "profitRatio": 11.26,
+          "grossMargin": 64.26,
+          "rank": 5
+        },
+        {
+          "name": "其中:上海市",
+          "income": 1016001140.9,
+          "incomeRatio": 4.81,
+          "cost": 665260642.11,
+          "costRatio": 5.39,
+          "profit": 350740498.79,
+          "profitRatio": 3.99,
+          "grossMargin": 34.52,
+          "rank": 6
+        },
+        {
+          "name": "其中:广东省",
+          "income": 502948595.81,
+          "incomeRatio": 2.38,
+          "cost": 331590852.24,
+          "costRatio": 2.69,
+          "profit": 171357743.57,
+          "profitRatio": 1.95,
+          "grossMargin": 34.07,
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "reportDate": "2023-12-31",
+      "byIndustry": [
+        {
+          "name": "交易及机构客户服务业务",
+          "income": 8016685593.03,
+          "incomeRatio": 34.49,
+          "cost": 3853691292.73,
+          "costRatio": 28.04,
+          "profit": 4162994300.3,
+          "profitRatio": 43.83,
+          "grossMargin": 51.93,
+          "rank": 1
+        },
+        {
+          "name": "财富管理业务",
+          "income": 6065605417.18,
+          "incomeRatio": 26.1,
+          "cost": 3751888740.23,
+          "costRatio": 27.3,
+          "profit": 2313716676.95,
+          "profitRatio": 24.36,
+          "grossMargin": 38.14,
+          "rank": 2
+        },
+        {
+          "name": "投资银行业务",
+          "income": 4802602234.65,
+          "incomeRatio": 20.66,
+          "cost": 2935710651.24,
+          "costRatio": 21.36,
+          "profit": 1866891583.41,
+          "profitRatio": 19.65,
+          "grossMargin": 38.87,
+          "rank": 3
+        },
+        {
+          "name": "其他",
+          "income": 2895487504.95,
+          "incomeRatio": 12.46,
+          "cost": 2417757877.63,
+          "costRatio": 17.59,
+          "profit": 477729627.32,
+          "profitRatio": 5.03,
+          "grossMargin": 16.5,
+          "rank": 4
+        },
+        {
+          "name": "资产管理业务",
+          "income": 1462919466.38,
+          "incomeRatio": 6.29,
+          "cost": 785700610.43,
+          "costRatio": 5.72,
+          "profit": 677218855.95,
+          "profitRatio": 7.13,
+          "grossMargin": 46.29,
+          "rank": 5
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "交易及机构客户服务业务",
+          "income": 8016685593.03,
+          "incomeRatio": 34.49,
+          "cost": 3853691292.73,
+          "costRatio": 28.04,
+          "profit": 4162994300.3,
+          "profitRatio": 43.83,
+          "grossMargin": 51.93,
+          "rank": 1
+        },
+        {
+          "name": "财富管理业务",
+          "income": 6065605417.18,
+          "incomeRatio": 26.1,
+          "cost": 3751888740.23,
+          "costRatio": 27.3,
+          "profit": 2313716676.95,
+          "profitRatio": 24.36,
+          "grossMargin": 38.14,
+          "rank": 2
+        },
+        {
+          "name": "投资银行业务",
+          "income": 4802602234.65,
+          "incomeRatio": 20.66,
+          "cost": 2935710651.24,
+          "costRatio": 21.36,
+          "profit": 1866891583.41,
+          "profitRatio": 19.65,
+          "grossMargin": 38.87,
+          "rank": 3
+        },
+        {
+          "name": "其他",
+          "income": 2895487504.95,
+          "incomeRatio": 12.46,
+          "cost": 2417757877.63,
+          "costRatio": 17.59,
+          "profit": 477729627.32,
+          "profitRatio": 5.03,
+          "grossMargin": 16.5,
+          "rank": 4
+        },
+        {
+          "name": "资产管理业务",
+          "income": 1462919466.38,
+          "incomeRatio": 6.29,
+          "cost": 785700610.43,
+          "costRatio": 5.72,
+          "profit": 677218855.95,
+          "profitRatio": 7.13,
+          "grossMargin": 46.29,
+          "rank": 5
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "公司本部",
+          "income": 17370231641.61,
+          "incomeRatio": 74.73,
+          "cost": 9981424159.05,
+          "costRatio": 72.62,
+          "profit": 7388807482.56,
+          "profitRatio": 77.79,
+          "grossMargin": 42.54,
+          "rank": 1
+        },
+        {
+          "name": "北京市",
+          "income": 1586494391.85,
+          "incomeRatio": 6.83,
+          "cost": 612259893.42,
+          "costRatio": 4.45,
+          "profit": 974234498.43,
+          "profitRatio": 10.26,
+          "grossMargin": 61.41,
+          "rank": 2
+        },
+        {
+          "name": "上海市",
+          "income": 1104414805.85,
+          "incomeRatio": 4.75,
+          "cost": 778000149.25,
+          "costRatio": 5.66,
+          "profit": 326414656.6,
+          "profitRatio": 3.44,
+          "grossMargin": 29.56,
+          "rank": 3
+        },
+        {
+          "name": "境外",
+          "income": 538637132.37,
+          "incomeRatio": 2.32,
+          "cost": 348297012.88,
+          "costRatio": 2.53,
+          "profit": 190340119.49,
+          "profitRatio": 2.0,
+          "grossMargin": 35.34,
+          "rank": 4
+        },
+        {
+          "name": "广东省",
+          "income": 433047009.04,
+          "incomeRatio": 1.86,
+          "cost": 375505025.54,
+          "costRatio": 2.73,
+          "profit": 57541983.5,
+          "profitRatio": 0.61,
+          "grossMargin": 13.29,
+          "rank": 5
+        },
+        {
+          "name": "江苏省",
+          "income": 254902996.85,
+          "incomeRatio": 1.1,
+          "cost": 210363079.68,
+          "costRatio": 1.53,
+          "profit": 44539917.17,
+          "profitRatio": 0.47,
+          "grossMargin": 17.47,
+          "rank": 6
+        },
+        {
+          "name": "湖北省",
+          "income": 195643831.64,
+          "incomeRatio": 0.84,
+          "cost": 123138176.64,
+          "costRatio": 0.9,
+          "profit": 72505655.0,
+          "profitRatio": 0.76,
+          "grossMargin": 37.06,
+          "rank": 7
+        },
+        {
+          "name": "山东省",
+          "income": 192418070.88,
+          "incomeRatio": 0.83,
+          "cost": 127586083.34,
+          "costRatio": 0.93,
+          "profit": 64831987.54,
+          "profitRatio": 0.68,
+          "grossMargin": 33.69,
+          "rank": 8
+        },
+        {
+          "name": "福建省",
+          "income": 189528278.01,
+          "incomeRatio": 0.82,
+          "cost": 148383991.54,
+          "costRatio": 1.08,
+          "profit": 41144286.47,
+          "profitRatio": 0.43,
+          "grossMargin": 21.71,
+          "rank": 9
+        },
+        {
+          "name": "四川省",
+          "income": 187353877.61,
+          "incomeRatio": 0.81,
+          "cost": 99190905.66,
+          "costRatio": 0.72,
+          "profit": 88162971.95,
+          "profitRatio": 0.93,
+          "grossMargin": 47.06,
+          "rank": 10
+        },
+        {
+          "name": "江西省",
+          "income": 163401579.47,
+          "incomeRatio": 0.7,
+          "cost": 102832111.44,
+          "costRatio": 0.75,
+          "profit": 60569468.03,
+          "profitRatio": 0.64,
+          "grossMargin": 37.07,
+          "rank": 11
+        },
+        {
+          "name": "重庆市",
+          "income": 144943578.02,
+          "incomeRatio": 0.62,
+          "cost": 103056059.92,
+          "costRatio": 0.75,
+          "profit": 41887518.1,
+          "profitRatio": 0.44,
+          "grossMargin": 28.9,
+          "rank": 12
+        },
+        {
+          "name": "浙江省",
+          "income": 134881870.75,
+          "incomeRatio": 0.58,
+          "cost": 132292528.98,
+          "costRatio": 0.96,
+          "profit": 2589341.77,
+          "profitRatio": 0.03,
+          "grossMargin": 1.92,
+          "rank": 13
+        },
+        {
+          "name": "陕西省",
+          "income": 129075116.7,
+          "incomeRatio": 0.56,
+          "cost": 84278346.29,
+          "costRatio": 0.61,
+          "profit": 44796770.41,
+          "profitRatio": 0.47,
+          "grossMargin": 34.71,
+          "rank": 14
+        },
+        {
+          "name": "湖南省",
+          "income": 127560464.5,
+          "incomeRatio": 0.55,
+          "cost": 104848676.85,
+          "costRatio": 0.76,
+          "profit": 22711787.65,
+          "profitRatio": 0.24,
+          "grossMargin": 17.8,
+          "rank": 15
+        },
+        {
+          "name": "辽宁省",
+          "income": 72682821.43,
+          "incomeRatio": 0.31,
+          "cost": 65733705.05,
+          "costRatio": 0.48,
+          "profit": 6949116.38,
+          "profitRatio": 0.07,
+          "grossMargin": 9.56,
+          "rank": 16
+        },
+        {
+          "name": "河北省",
+          "income": 71820151.44,
+          "incomeRatio": 0.31,
+          "cost": 59538166.81,
+          "costRatio": 0.43,
+          "profit": 12281984.63,
+          "profitRatio": 0.13,
+          "grossMargin": 17.1,
+          "rank": 17
+        },
+        {
+          "name": "天津市",
+          "income": 66397064.73,
+          "incomeRatio": 0.29,
+          "cost": 58309109.19,
+          "costRatio": 0.42,
+          "profit": 8087955.54,
+          "profitRatio": 0.09,
+          "grossMargin": 12.18,
+          "rank": 18
+        },
+        {
+          "name": "海南省",
+          "income": 46029137.88,
+          "incomeRatio": 0.2,
+          "cost": 30351929.86,
+          "costRatio": 0.22,
+          "profit": 15677208.02,
+          "profitRatio": 0.17,
+          "grossMargin": 34.06,
+          "rank": 19
+        },
+        {
+          "name": "河南省",
+          "income": 42590936.53,
+          "incomeRatio": 0.18,
+          "cost": 47750163.43,
+          "costRatio": 0.35,
+          "profit": -5159226.9,
+          "profitRatio": -0.05,
+          "grossMargin": -12.11,
+          "rank": 20
+        },
+        {
+          "name": "甘肃省",
+          "income": 34206997.06,
+          "incomeRatio": 0.15,
+          "cost": 20232882.07,
+          "costRatio": 0.15,
+          "profit": 13974114.99,
+          "profitRatio": 0.15,
+          "grossMargin": 40.85,
+          "rank": 21
+        },
+        {
+          "name": "安徽省",
+          "income": 30395742.68,
+          "incomeRatio": 0.13,
+          "cost": 26548287.34,
+          "costRatio": 0.19,
+          "profit": 3847455.34,
+          "profitRatio": 0.04,
+          "grossMargin": 12.66,
+          "rank": 22
+        },
+        {
+          "name": "山西省",
+          "income": 25867897.12,
+          "incomeRatio": 0.11,
+          "cost": 15984479.31,
+          "costRatio": 0.12,
+          "profit": 9883417.81,
+          "profitRatio": 0.1,
+          "grossMargin": 38.21,
+          "rank": 23
+        },
+        {
+          "name": "黑龙江省",
+          "income": 25788305.91,
+          "incomeRatio": 0.11,
+          "cost": 20111191.88,
+          "costRatio": 0.15,
+          "profit": 5677114.03,
+          "profitRatio": 0.06,
+          "grossMargin": 22.01,
+          "rank": 24
+        },
+        {
+          "name": "新疆",
+          "income": 23435282.41,
+          "incomeRatio": 0.1,
+          "cost": 13510613.46,
+          "costRatio": 0.1,
+          "profit": 9924668.95,
+          "profitRatio": 0.1,
+          "grossMargin": 42.35,
+          "rank": 25
+        },
+        {
+          "name": "广西",
+          "income": 16320570.45,
+          "incomeRatio": 0.07,
+          "cost": 14440298.59,
+          "costRatio": 0.11,
+          "profit": 1880271.86,
+          "profitRatio": 0.02,
+          "grossMargin": 11.52,
+          "rank": 26
+        },
+        {
+          "name": "吉林省",
+          "income": 15669598.86,
+          "incomeRatio": 0.07,
+          "cost": 13351351.72,
+          "costRatio": 0.1,
+          "profit": 2318247.14,
+          "profitRatio": 0.02,
+          "grossMargin": 14.79,
+          "rank": 27
+        },
+        {
+          "name": "云南省",
+          "income": 6087812.6,
+          "incomeRatio": 0.03,
+          "cost": 7513088.93,
+          "costRatio": 0.05,
+          "profit": -1425276.33,
+          "profitRatio": -0.01,
+          "grossMargin": -23.41,
+          "rank": 28
+        },
+        {
+          "name": "贵州省",
+          "income": 4183145.54,
+          "incomeRatio": 0.02,
+          "cost": 4389739.8,
+          "costRatio": 0.03,
+          "profit": -206594.26,
+          "profitRatio": -0.0,
+          "grossMargin": -4.94,
+          "rank": 29
+        },
+        {
+          "name": "宁夏",
+          "income": 3455619.25,
+          "incomeRatio": 0.01,
+          "cost": 7600667.21,
+          "costRatio": 0.06,
+          "profit": -4145047.96,
+          "profitRatio": -0.04,
+          "grossMargin": -119.95,
+          "rank": 30
+        },
+        {
+          "name": "内蒙古",
+          "income": 3410227.78,
+          "incomeRatio": 0.01,
+          "cost": 4088648.56,
+          "costRatio": 0.03,
+          "profit": -678420.78,
+          "profitRatio": -0.01,
+          "grossMargin": -19.89,
+          "rank": 31
+        },
+        {
+          "name": "青海省",
+          "income": 2424259.37,
+          "incomeRatio": 0.01,
+          "cost": 3838648.57,
+          "costRatio": 0.03,
+          "profit": -1414389.2,
+          "profitRatio": -0.01,
+          "grossMargin": -58.34,
+          "rank": 32
+        }
+      ]
+    },
+    {
+      "reportDate": "2022-12-31",
+      "byIndustry": [
+        {
+          "name": "其他",
+          "income": 7182978857.79,
+          "incomeRatio": 26.06,
+          "cost": 6805548661.46,
+          "costRatio": 37.67,
+          "profit": 377430196.33,
+          "profitRatio": 3.97,
+          "grossMargin": 5.25,
+          "rank": 1
+        },
+        {
+          "name": "交易及机构客户服务业务",
+          "income": 6724294944.36,
+          "incomeRatio": 24.39,
+          "cost": 4000516175.6,
+          "costRatio": 22.15,
+          "profit": 2723778768.76,
+          "profitRatio": 28.67,
+          "grossMargin": 40.51,
+          "rank": 2
+        },
+        {
+          "name": "财富管理业务",
+          "income": 6139575484.84,
+          "incomeRatio": 22.27,
+          "cost": 3571932388.92,
+          "costRatio": 19.77,
+          "profit": 2567643095.92,
+          "profitRatio": 27.02,
+          "grossMargin": 41.82,
+          "rank": 3
+        },
+        {
+          "name": "投资银行业务",
+          "income": 5837869644.61,
+          "incomeRatio": 21.18,
+          "cost": 2916164835.06,
+          "costRatio": 16.14,
+          "profit": 2921704809.55,
+          "profitRatio": 30.75,
+          "grossMargin": 50.05,
+          "rank": 4
+        },
+        {
+          "name": "资产管理业务",
+          "income": 1680478969.99,
+          "incomeRatio": 6.1,
+          "cost": 770012848.18,
+          "costRatio": 4.26,
+          "profit": 910466121.81,
+          "profitRatio": 9.58,
+          "grossMargin": 54.18,
+          "rank": 5
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "其他",
+          "income": 7182978857.79,
+          "incomeRatio": 26.06,
+          "cost": 6805548661.46,
+          "costRatio": 37.67,
+          "profit": 377430196.33,
+          "profitRatio": 3.97,
+          "grossMargin": 5.25,
+          "rank": 1
+        },
+        {
+          "name": "交易及机构客户服务业务",
+          "income": 6724294944.36,
+          "incomeRatio": 24.39,
+          "cost": 4000516175.6,
+          "costRatio": 22.15,
+          "profit": 2723778768.76,
+          "profitRatio": 28.67,
+          "grossMargin": 40.51,
+          "rank": 2
+        },
+        {
+          "name": "财富管理业务",
+          "income": 6139575484.84,
+          "incomeRatio": 22.27,
+          "cost": 3571932388.92,
+          "costRatio": 19.77,
+          "profit": 2567643095.92,
+          "profitRatio": 27.02,
+          "grossMargin": 41.82,
+          "rank": 3
+        },
+        {
+          "name": "投资银行业务",
+          "income": 5837869644.61,
+          "incomeRatio": 21.18,
+          "cost": 2916164835.06,
+          "costRatio": 16.14,
+          "profit": 2921704809.55,
+          "profitRatio": 30.75,
+          "grossMargin": 50.05,
+          "rank": 4
+        },
+        {
+          "name": "资产管理业务",
+          "income": 1680478969.99,
+          "incomeRatio": 6.1,
+          "cost": 770012848.18,
+          "costRatio": 4.26,
+          "profit": 910466121.81,
+          "profitRatio": 9.58,
+          "grossMargin": 54.18,
+          "rank": 5
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "公司本部",
+          "income": 22146285187.04,
+          "incomeRatio": 80.34,
+          "cost": 14514038936.12,
+          "costRatio": 80.35,
+          "profit": 7632246250.92,
+          "profitRatio": 80.33,
+          "grossMargin": 34.46,
+          "rank": 1
+        },
+        {
+          "name": "北京市",
+          "income": 1366522753.49,
+          "incomeRatio": 4.96,
+          "cost": 583990285.34,
+          "costRatio": 3.23,
+          "profit": 782532468.15,
+          "profitRatio": 8.24,
+          "grossMargin": 57.26,
+          "rank": 2
+        },
+        {
+          "name": "上海市",
+          "income": 1083168128.2,
+          "incomeRatio": 3.93,
+          "cost": 694333125.43,
+          "costRatio": 3.84,
+          "profit": 388835002.77,
+          "profitRatio": 4.09,
+          "grossMargin": 35.9,
+          "rank": 3
+        },
+        {
+          "name": "广东省",
+          "income": 449513681.64,
+          "incomeRatio": 1.63,
+          "cost": 329633794.2,
+          "costRatio": 1.82,
+          "profit": 119879887.44,
+          "profitRatio": 1.26,
+          "grossMargin": 26.67,
+          "rank": 4
+        },
+        {
+          "name": "境外",
+          "income": 264334876.37,
+          "incomeRatio": 0.96,
+          "cost": 329439215.95,
+          "costRatio": 1.82,
+          "profit": -65104339.58,
+          "profitRatio": -0.69,
+          "grossMargin": -24.63,
+          "rank": 5
+        },
+        {
+          "name": "江苏省",
+          "income": 255361906.96,
+          "incomeRatio": 0.93,
+          "cost": 195635540.08,
+          "costRatio": 1.08,
+          "profit": 59726366.88,
+          "profitRatio": 0.63,
+          "grossMargin": 23.39,
+          "rank": 6
+        },
+        {
+          "name": "四川省",
+          "income": 202776372.45,
+          "incomeRatio": 0.74,
+          "cost": 104181186.43,
+          "costRatio": 0.58,
+          "profit": 98595186.02,
+          "profitRatio": 1.04,
+          "grossMargin": 48.62,
+          "rank": 7
+        },
+        {
+          "name": "湖北省",
+          "income": 202447757.73,
+          "incomeRatio": 0.73,
+          "cost": 125257918.36,
+          "costRatio": 0.69,
+          "profit": 77189839.37,
+          "profitRatio": 0.81,
+          "grossMargin": 38.13,
+          "rank": 8
+        },
+        {
+          "name": "福建省",
+          "income": 198628733.98,
+          "incomeRatio": 0.72,
+          "cost": 145095059.02,
+          "costRatio": 0.8,
+          "profit": 53533674.96,
+          "profitRatio": 0.56,
+          "grossMargin": 26.95,
+          "rank": 9
+        },
+        {
+          "name": "山东省",
+          "income": 182475240.59,
+          "incomeRatio": 0.66,
+          "cost": 126002138.99,
+          "costRatio": 0.7,
+          "profit": 56473101.6,
+          "profitRatio": 0.59,
+          "grossMargin": 30.95,
+          "rank": 10
+        },
+        {
+          "name": "江西省",
+          "income": 170775712.63,
+          "incomeRatio": 0.62,
+          "cost": 96407989.78,
+          "costRatio": 0.53,
+          "profit": 74367722.85,
+          "profitRatio": 0.78,
+          "grossMargin": 43.55,
+          "rank": 11
+        },
+        {
+          "name": "重庆市",
+          "income": 152849919.27,
+          "incomeRatio": 0.55,
+          "cost": 98620874.53,
+          "costRatio": 0.55,
+          "profit": 54229044.74,
+          "profitRatio": 0.57,
+          "grossMargin": 35.48,
+          "rank": 12
+        },
+        {
+          "name": "陕西省",
+          "income": 138722504.86,
+          "incomeRatio": 0.5,
+          "cost": 87683666.94,
+          "costRatio": 0.49,
+          "profit": 51038837.92,
+          "profitRatio": 0.54,
+          "grossMargin": 36.79,
+          "rank": 13
+        },
+        {
+          "name": "湖南省",
+          "income": 131959921.24,
+          "incomeRatio": 0.48,
+          "cost": 103876953.07,
+          "costRatio": 0.57,
+          "profit": 28082968.17,
+          "profitRatio": 0.3,
+          "grossMargin": 21.28,
+          "rank": 14
+        },
+        {
+          "name": "浙江省",
+          "income": 128963961.12,
+          "incomeRatio": 0.47,
+          "cost": 119531019.33,
+          "costRatio": 0.66,
+          "profit": 9432941.79,
+          "profitRatio": 0.1,
+          "grossMargin": 7.31,
+          "rank": 15
+        },
+        {
+          "name": "河北省",
+          "income": 76968210.89,
+          "incomeRatio": 0.28,
+          "cost": 58326084.07,
+          "costRatio": 0.32,
+          "profit": 18642126.82,
+          "profitRatio": 0.2,
+          "grossMargin": 24.22,
+          "rank": 16
+        },
+        {
+          "name": "辽宁省",
+          "income": 76100710.01,
+          "incomeRatio": 0.28,
+          "cost": 67482451.2,
+          "costRatio": 0.37,
+          "profit": 8618258.81,
+          "profitRatio": 0.09,
+          "grossMargin": 11.32,
+          "rank": 17
+        },
+        {
+          "name": "天津市",
+          "income": 65662526.7,
+          "incomeRatio": 0.24,
+          "cost": 59338539.07,
+          "costRatio": 0.33,
+          "profit": 6323987.63,
+          "profitRatio": 0.07,
+          "grossMargin": 9.63,
+          "rank": 18
+        },
+        {
+          "name": "海南省",
+          "income": 47427181.57,
+          "incomeRatio": 0.17,
+          "cost": 29154968.86,
+          "costRatio": 0.16,
+          "profit": 18272212.71,
+          "profitRatio": 0.19,
+          "grossMargin": 38.53,
+          "rank": 19
+        },
+        {
+          "name": "甘肃省",
+          "income": 36442327.58,
+          "incomeRatio": 0.13,
+          "cost": 20411553.79,
+          "costRatio": 0.11,
+          "profit": 16030773.79,
+          "profitRatio": 0.17,
+          "grossMargin": 43.99,
+          "rank": 20
+        },
+        {
+          "name": "河南省",
+          "income": 34238148.46,
+          "incomeRatio": 0.12,
+          "cost": 45632687.36,
+          "costRatio": 0.25,
+          "profit": -11394538.9,
+          "profitRatio": -0.12,
+          "grossMargin": -33.28,
+          "rank": 21
+        },
+        {
+          "name": "黑龙江省",
+          "income": 29062953.42,
+          "incomeRatio": 0.11,
+          "cost": 21450051.04,
+          "costRatio": 0.12,
+          "profit": 7612902.38,
+          "profitRatio": 0.08,
+          "grossMargin": 26.19,
+          "rank": 22
+        },
+        {
+          "name": "安徽省",
+          "income": 27748239.04,
+          "incomeRatio": 0.1,
+          "cost": 25726651.2,
+          "costRatio": 0.14,
+          "profit": 2021587.84,
+          "profitRatio": 0.02,
+          "grossMargin": 7.29,
+          "rank": 23
+        },
+        {
+          "name": "山西省",
+          "income": 24132993.4,
+          "incomeRatio": 0.09,
+          "cost": 16015436.89,
+          "costRatio": 0.09,
+          "profit": 8117556.51,
+          "profitRatio": 0.09,
+          "grossMargin": 33.64,
+          "rank": 24
+        },
+        {
+          "name": "新疆",
+          "income": 19224060.96,
+          "incomeRatio": 0.07,
+          "cost": 12927735.23,
+          "costRatio": 0.07,
+          "profit": 6296325.73,
+          "profitRatio": 0.07,
+          "grossMargin": 32.75,
+          "rank": 25
+        },
+        {
+          "name": "吉林省",
+          "income": 18144823.11,
+          "incomeRatio": 0.07,
+          "cost": 14005739.05,
+          "costRatio": 0.08,
+          "profit": 4139084.06,
+          "profitRatio": 0.04,
+          "grossMargin": 22.81,
+          "rank": 26
+        },
+        {
+          "name": "广西",
+          "income": 15373409.31,
+          "incomeRatio": 0.06,
+          "cost": 14098602.68,
+          "costRatio": 0.08,
+          "profit": 1274806.63,
+          "profitRatio": 0.01,
+          "grossMargin": 8.29,
+          "rank": 27
+        },
+        {
+          "name": "云南省",
+          "income": 6309687.04,
+          "incomeRatio": 0.02,
+          "cost": 6776122.52,
+          "costRatio": 0.04,
+          "profit": -466435.48,
+          "profitRatio": -0.0,
+          "grossMargin": -7.39,
+          "rank": 28
+        },
+        {
+          "name": "贵州省",
+          "income": 4593704.31,
+          "incomeRatio": 0.02,
+          "cost": 4038065.51,
+          "costRatio": 0.02,
+          "profit": 555638.8,
+          "profitRatio": 0.01,
+          "grossMargin": 12.1,
+          "rank": 29
+        },
+        {
+          "name": "宁夏",
+          "income": 3574646.5,
+          "incomeRatio": 0.01,
+          "cost": 7332885.01,
+          "costRatio": 0.04,
+          "profit": -3758238.51,
+          "profitRatio": -0.04,
+          "grossMargin": -105.14,
+          "rank": 30
+        },
+        {
+          "name": "内蒙古",
+          "income": 2870319.9,
+          "incomeRatio": 0.01,
+          "cost": 3783744.0,
+          "costRatio": 0.02,
+          "profit": -913424.1,
+          "profitRatio": -0.01,
+          "grossMargin": -31.82,
+          "rank": 31
+        },
+        {
+          "name": "青海省",
+          "income": 2537301.82,
+          "incomeRatio": 0.01,
+          "cost": 3945888.17,
+          "costRatio": 0.02,
+          "profit": -1408586.35,
+          "profitRatio": -0.01,
+          "grossMargin": -55.52,
+          "rank": 32
+        }
+      ]
+    },
+    {
+      "reportDate": "2021-12-31",
+      "byIndustry": [
+        {
+          "name": "交易及机构客户服务业务",
+          "income": 8986556012.8,
+          "incomeRatio": 30.08,
+          "cost": 3602567826.66,
+          "costRatio": 21.4,
+          "profit": 5383988186.14,
+          "profitRatio": 41.29,
+          "grossMargin": 59.91,
+          "rank": 1
+        },
+        {
+          "name": "其他主营业务",
+          "income": 7184820709.55,
+          "incomeRatio": 24.05,
+          "cost": 6749498894.24,
+          "costRatio": 40.1,
+          "profit": 435321815.309999,
+          "profitRatio": 3.34,
+          "grossMargin": 6.06,
+          "rank": 2
+        },
+        {
+          "name": "财富管理业务",
+          "income": 6383593185.03,
+          "incomeRatio": 21.37,
+          "cost": 3228673737.09,
+          "costRatio": 19.18,
+          "profit": 3154919447.94,
+          "profitRatio": 24.19,
+          "grossMargin": 49.42,
+          "rank": 3
+        },
+        {
+          "name": "投资银行业务",
+          "income": 5528053595.39,
+          "incomeRatio": 18.51,
+          "cost": 2585936700.0,
+          "costRatio": 15.36,
+          "profit": 2942116895.39,
+          "profitRatio": 22.56,
+          "grossMargin": 53.22,
+          "rank": 4
+        },
+        {
+          "name": "资产管理业务",
+          "income": 1788995169.36,
+          "incomeRatio": 5.99,
+          "cost": 665257104.2,
+          "costRatio": 3.95,
+          "profit": 1123738065.16,
+          "profitRatio": 8.62,
+          "grossMargin": 62.81,
+          "rank": 5
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "交易及机构客户服务",
+          "income": 8986556012.8,
+          "incomeRatio": 30.08,
+          "cost": 3602567826.66,
+          "costRatio": 21.4,
+          "profit": 5383988186.14,
+          "profitRatio": 41.29,
+          "grossMargin": 59.91,
+          "rank": 1
+        },
+        {
+          "name": "其他",
+          "income": 7184820709.55,
+          "incomeRatio": 24.05,
+          "cost": 6749498894.24,
+          "costRatio": 40.1,
+          "profit": 435321815.31,
+          "profitRatio": 3.34,
+          "grossMargin": 6.06,
+          "rank": 2
+        },
+        {
+          "name": "财富管理业务",
+          "income": 6383593185.03,
+          "incomeRatio": 21.37,
+          "cost": 3228673737.09,
+          "costRatio": 19.18,
+          "profit": 3154919447.94,
+          "profitRatio": 24.19,
+          "grossMargin": 49.42,
+          "rank": 3
+        },
+        {
+          "name": "投资银行业务",
+          "income": 5528053595.39,
+          "incomeRatio": 18.51,
+          "cost": 2585936700.0,
+          "costRatio": 15.36,
+          "profit": 2942116895.39,
+          "profitRatio": 22.56,
+          "grossMargin": 53.22,
+          "rank": 4
+        },
+        {
+          "name": "资产管理业务",
+          "income": 1788995169.36,
+          "incomeRatio": 5.99,
+          "cost": 665257104.2,
+          "costRatio": 3.95,
+          "profit": 1123738065.16,
+          "profitRatio": 8.62,
+          "grossMargin": 62.81,
+          "rank": 5
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "公司总部及境内子公司本部",
+          "income": 24047216152.13,
+          "incomeRatio": 80.5,
+          "cost": 13740170795.18,
+          "costRatio": 81.63,
+          "profit": 10307045356.95,
+          "profitRatio": 79.04,
+          "grossMargin": 42.86,
+          "rank": 1
+        },
+        {
+          "name": "北京市",
+          "income": 1419135057.59,
+          "incomeRatio": 4.75,
+          "cost": 527997977.1,
+          "costRatio": 3.14,
+          "profit": 891137080.49,
+          "profitRatio": 6.83,
+          "grossMargin": 62.79,
+          "rank": 2
+        },
+        {
+          "name": "上海市",
+          "income": 1083590094.83,
+          "incomeRatio": 3.63,
+          "cost": 527218642.28,
+          "costRatio": 3.13,
+          "profit": 556371452.55,
+          "profitRatio": 4.27,
+          "grossMargin": 51.35,
+          "rank": 3
+        },
+        {
+          "name": "广东省",
+          "income": 486643702.94,
+          "incomeRatio": 1.63,
+          "cost": 282739780.09,
+          "costRatio": 1.68,
+          "profit": 203903922.85,
+          "profitRatio": 1.56,
+          "grossMargin": 41.9,
+          "rank": 4
+        },
+        {
+          "name": "境外",
+          "income": 382015942.75,
+          "incomeRatio": 1.28,
+          "cost": 288183009.2,
+          "costRatio": 1.71,
+          "profit": 93832933.55,
+          "profitRatio": 0.72,
+          "grossMargin": 24.56,
+          "rank": 5
+        },
+        {
+          "name": "江苏省",
+          "income": 265459156.39,
+          "incomeRatio": 0.89,
+          "cost": 166010646.65,
+          "costRatio": 0.99,
+          "profit": 99448509.74,
+          "profitRatio": 0.76,
+          "grossMargin": 37.46,
+          "rank": 6
+        },
+        {
+          "name": "四川省",
+          "income": 236918384.38,
+          "incomeRatio": 0.79,
+          "cost": 98990480.13,
+          "costRatio": 0.59,
+          "profit": 137927904.25,
+          "profitRatio": 1.06,
+          "grossMargin": 58.22,
+          "rank": 7
+        },
+        {
+          "name": "湖北省",
+          "income": 231401128.31,
+          "incomeRatio": 0.77,
+          "cost": 123754849.65,
+          "costRatio": 0.74,
+          "profit": 107646278.66,
+          "profitRatio": 0.83,
+          "grossMargin": 46.52,
+          "rank": 8
+        },
+        {
+          "name": "江西省",
+          "income": 198380317.62,
+          "incomeRatio": 0.66,
+          "cost": 93079779.64,
+          "costRatio": 0.55,
+          "profit": 105300537.98,
+          "profitRatio": 0.81,
+          "grossMargin": 53.08,
+          "rank": 9
+        },
+        {
+          "name": "福建省",
+          "income": 197002591.35,
+          "incomeRatio": 0.66,
+          "cost": 128152403.82,
+          "costRatio": 0.76,
+          "profit": 68850187.53,
+          "profitRatio": 0.53,
+          "grossMargin": 34.95,
+          "rank": 10
+        },
+        {
+          "name": "山东省",
+          "income": 191978509.66,
+          "incomeRatio": 0.64,
+          "cost": 114100183.27,
+          "costRatio": 0.68,
+          "profit": 77878326.39,
+          "profitRatio": 0.6,
+          "grossMargin": 40.57,
+          "rank": 11
+        },
+        {
+          "name": "湖南省",
+          "income": 170373319.55,
+          "incomeRatio": 0.57,
+          "cost": 96548081.69,
+          "costRatio": 0.57,
+          "profit": 73825237.86,
+          "profitRatio": 0.57,
+          "grossMargin": 43.33,
+          "rank": 12
+        },
+        {
+          "name": "陕西省",
+          "income": 158893417.78,
+          "incomeRatio": 0.53,
+          "cost": 79385786.54,
+          "costRatio": 0.47,
+          "profit": 79507631.24,
+          "profitRatio": 0.61,
+          "grossMargin": 50.04,
+          "rank": 13
+        },
+        {
+          "name": "重庆市",
+          "income": 158104837.56,
+          "incomeRatio": 0.53,
+          "cost": 87664904.63,
+          "costRatio": 0.52,
+          "profit": 70439932.93,
+          "profitRatio": 0.54,
+          "grossMargin": 44.55,
+          "rank": 14
+        },
+        {
+          "name": "浙江省",
+          "income": 151660712.57,
+          "incomeRatio": 0.51,
+          "cost": 101425385.71,
+          "costRatio": 0.6,
+          "profit": 50235326.86,
+          "profitRatio": 0.39,
+          "grossMargin": 33.12,
+          "rank": 15
+        },
+        {
+          "name": "辽宁省",
+          "income": 84414377.29,
+          "incomeRatio": 0.28,
+          "cost": 64796193.28,
+          "costRatio": 0.39,
+          "profit": 19618184.01,
+          "profitRatio": 0.15,
+          "grossMargin": 23.24,
+          "rank": 16
+        },
+        {
+          "name": "河北省",
+          "income": 80049117.8,
+          "incomeRatio": 0.27,
+          "cost": 53119831.96,
+          "costRatio": 0.32,
+          "profit": 26929285.84,
+          "profitRatio": 0.21,
+          "grossMargin": 33.64,
+          "rank": 17
+        },
+        {
+          "name": "天津市",
+          "income": 74647041.18,
+          "incomeRatio": 0.25,
+          "cost": 54476861.98,
+          "costRatio": 0.32,
+          "profit": 20170179.2,
+          "profitRatio": 0.15,
+          "grossMargin": 27.02,
+          "rank": 18
+        },
+        {
+          "name": "海南省",
+          "income": 50720813.39,
+          "incomeRatio": 0.17,
+          "cost": 25260207.67,
+          "costRatio": 0.15,
+          "profit": 25460605.72,
+          "profitRatio": 0.2,
+          "grossMargin": 50.2,
+          "rank": 19
+        },
+        {
+          "name": "河南省",
+          "income": 36709596.05,
+          "incomeRatio": 0.12,
+          "cost": 41110672.38,
+          "costRatio": 0.24,
+          "profit": -4401076.33,
+          "profitRatio": -0.03,
+          "grossMargin": -11.99,
+          "rank": 20
+        },
+        {
+          "name": "甘肃省",
+          "income": 36150688.49,
+          "incomeRatio": 0.12,
+          "cost": 19176967.11,
+          "costRatio": 0.11,
+          "profit": 16973721.38,
+          "profitRatio": 0.13,
+          "grossMargin": 46.95,
+          "rank": 21
+        },
+        {
+          "name": "黑龙江省",
+          "income": 32418082.08,
+          "incomeRatio": 0.11,
+          "cost": 21839384.09,
+          "costRatio": 0.13,
+          "profit": 10578697.99,
+          "profitRatio": 0.08,
+          "grossMargin": 32.63,
+          "rank": 22
+        },
+        {
+          "name": "安徽省",
+          "income": 22163421.2,
+          "incomeRatio": 0.07,
+          "cost": 22195592.16,
+          "costRatio": 0.13,
+          "profit": -32170.96,
+          "profitRatio": -0.0,
+          "grossMargin": -0.15,
+          "rank": 23
+        },
+        {
+          "name": "吉林省",
+          "income": 17751713.26,
+          "incomeRatio": 0.06,
+          "cost": 13161343.85,
+          "costRatio": 0.08,
+          "profit": 4590369.41,
+          "profitRatio": 0.04,
+          "grossMargin": 25.86,
+          "rank": 24
+        },
+        {
+          "name": "山西省",
+          "income": 13856129.61,
+          "incomeRatio": 0.05,
+          "cost": 13704581.25,
+          "costRatio": 0.08,
+          "profit": 151548.36,
+          "profitRatio": 0.0,
+          "grossMargin": 1.09,
+          "rank": 25
+        },
+        {
+          "name": "新疆",
+          "income": 11567452.6,
+          "incomeRatio": 0.04,
+          "cost": 11811351.39,
+          "costRatio": 0.07,
+          "profit": -243898.79,
+          "profitRatio": -0.0,
+          "grossMargin": -2.11,
+          "rank": 26
+        },
+        {
+          "name": "广西",
+          "income": 10573291.37,
+          "incomeRatio": 0.04,
+          "cost": 13285047.34,
+          "costRatio": 0.08,
+          "profit": -2711755.97,
+          "profitRatio": -0.02,
+          "grossMargin": -25.65,
+          "rank": 27
+        },
+        {
+          "name": "云南省",
+          "income": 7761434.8,
+          "incomeRatio": 0.03,
+          "cost": 6410986.62,
+          "costRatio": 0.04,
+          "profit": 1350448.18,
+          "profitRatio": 0.01,
+          "grossMargin": 17.4,
+          "rank": 28
+        },
+        {
+          "name": "贵州省",
+          "income": 4466772.81,
+          "incomeRatio": 0.01,
+          "cost": 3414503.5,
+          "costRatio": 0.02,
+          "profit": 1052269.31,
+          "profitRatio": 0.01,
+          "grossMargin": 23.56,
+          "rank": 29
+        },
+        {
+          "name": "宁夏",
+          "income": 4242079.2,
+          "incomeRatio": 0.01,
+          "cost": 5686131.38,
+          "costRatio": 0.03,
+          "profit": -1444052.18,
+          "profitRatio": -0.01,
+          "grossMargin": -34.04,
+          "rank": 30
+        },
+        {
+          "name": "青海省",
+          "income": 3088360.25,
+          "incomeRatio": 0.01,
+          "cost": 3373441.98,
+          "costRatio": 0.02,
+          "profit": -285081.73,
+          "profitRatio": -0.0,
+          "grossMargin": -9.23,
+          "rank": 31
+        },
+        {
+          "name": "内蒙古",
+          "income": 2664975.34,
+          "incomeRatio": 0.01,
+          "cost": 3688458.67,
+          "costRatio": 0.02,
+          "profit": -1023483.33,
+          "profitRatio": -0.01,
+          "grossMargin": -38.41,
+          "rank": 32
+        }
+      ]
+    }
+  ],
+  "analysis": [
+    {
+      "reportDate": "2025-12-31",
+      "businessReview": "截至2025年12月31日,本集团总资产人民币6,768.16亿元,较2024年12月31日增长19.49%;归属于母公司股东的权益为人民币1,191.02亿元,较2024年12月31日增长11.87%;报告期本集团营业收入合计为人民币233.22亿元,同比增长22.41%;归属于母公司股东的净利润为人民币94.39亿元,同比增长30.68%。投资银行业务板块实现营业收入合计人民币31.32亿元,同比增长25.76%;财富管理业务板块实现营业收入合计人民币82.21亿元,同比增长24.37%;交易及机构客户服务业务板块实现营业收入合计人民币97.24亿元,同比增长20.75%;资产管理业务板块实现营业收入合计人民币14.28亿元,同比增长13.75%。(一)投资银行业务板块本集团的投资银行业务板块主要包括股权融资业务、债务融资业务及财务顾问业务。1、股权融资业务2025年,境内股权融资一级市场共发行股权融资项目255家,同比增长15.91%,募集资金人民币8,561.01亿元,同比增长308.26%。其中,IPO项目112家,同比增长9.80%,募集资金人民币1,308.35亿元,同比增长97.40%;股权再融资项目143家,同比增长21.19%,募集资金人民币7,252.66亿元,同比增长405.71%。(数据来源:按发行日统计,IPO项目含北交所上市项目,再融资项目不含资产类向特定对象发行股票、不含可转债)2025年,香港市场共发行股权融资项目450家,同比增长89.87%,募集资金7,407.89亿港元,同比增长174.62%。其中,IPO项目114家,同比增长70.15%,募集资金2,864.62亿港元,同比增长226.15%;发行再融资项目336家,同比增长97.65%,募集资金4,543.27亿港元,同比增长149.74%。(数据来源:Dealogic,按发行日统计)2025年,公司积极应对挑战,股权融资业务继续位居市场前列。境内业务方面,公司完成A股股权融资项目33家,主承销金额人民币917.73亿元,分别位居行业第3名、第5名。其中,IPO主承销家数12家,主承销金额人民币196.61亿元,分别位居行业第3名、第2名;完成股权再融资项目21家,主承销金额人民币721.12亿元,分别位居行业第3名、第5名。公司积极贯彻落实国家战略,作为保荐机构或主承销商,协助中国银行、建设银行、交通银行、邮储银行完成向特定对象发行A股股票工作,助力首批四家国有大型商业银行核心一级资本补充项目圆满收官;深度服务国家创新体系,服务科技型企业股权融资项目22家,承销金额超人民币300亿元,完成了中国铀业、天有为、强一股份、昂瑞微、恒坤新材等IPO项目;全力响应国防和军队现代化建设要求,服务我国重点航空防务装备研制企业中航沈飞股权再融资项目。此外,公司完成上市公司可转债项目3家,主承销金额人民币42.49亿元。(数据来源:公司统计)境内项目储备方面,截至报告期末,公司在审IPO项目30家,位居行业第3名;在审股权再融资项目(含可转债)14家,位居行业第4名。数据来源:中国证监会、沪深交易所、北交所、公司统计)2025年,公司完成新三板挂牌22家,完成新三板挂牌企业定向发行项目7家,募集资金人民币8.32亿元(包含1家自办发行);截至报告期末,持续督导新三板创新层企业70家。(数据来源:全国股转公司、Choice金融终端)国际业务方面,2025年,中信建投国际在香港市场共参与并完成港股IPO保荐项目7家,其中含1家De-SPAC项目,股权融资规模合计458.39亿港元。其中,作为联席保荐人,服务全球新能源龙头宁德时代的港股IPO项目,募集资金410.06亿港元,为近四年来港股最大IPO、历史上最大新能源行业港股IPO项目;服务希迪智驾港股IPO项目,为2025年规模最大的港股18C项目。另外,中信建投国际在香港市场参与并完成再融资项目3家,合计募资23.50亿美元。其中,作为配售代理,服务古法手工金器品牌老铺黄金再融资项目、全球铝行业龙头中国宏桥再融资项目;作为联席全球协调人,服务通信与信息技术解决方案商中兴通讯可转债项目。(数据来源:Dealogic、公司统计)2026年发展展望2026年,公司投资银行业务机遇与挑战并存。随着境内资本市场制度的包容性和适应性不断提升,投资银行业务发展取得了良好的外部条件。公司将把投资银行业务的功能性放在首要位置,在服务现代化产业体系建设、高水平科技自立自强等方面发挥积极作用,助力新质生产力加快发展。在股权融资领域,公司将继续坚持“以客户为中心”,深化“行业+区域+产品”的矩阵式布局,不断提升服务实体经济质效,全力建设价值投行、新质投行、数智投行,构建客户驱动的新发展模式,着力提升国际化水平。同时,进一步强化质量控制工作,不断提高执业质量,努力做好资本市场“看门人”;紧跟市场做好估值定价和销售工作;支持资本市场双向开放,促进香港股权融资业务稳健发展;持续加强与投资及公司其他业务的协同发展,增强对客户的综合服务能力。国际业务方面,中信建投国际将继续拓展在香港市场的业务范围,实现在中概股回归、港股私有化、跨境收购等不同类型业务领域的多样化发展,进一步增强全方位服务客户的能力。2、债务融资业务2025年,境内债券市场收益率整体呈现震荡格局,全市场信用债和地方政府债发行规模总计人民币32.52万亿元,同比增长7.70%。其中,证券公司承销规模总计人民币15.97万亿元,同比增长12.97%。境外债券市场方面,2025年中资企业离岸债券发行量约2,856.90亿美元,同比增长45.14%。(数据来源:彭博终端)2025年,公司境内债务融资业务继续保持行业领先地位,共计完成主承销项目5,131单,主承销金额人民币17,334.90亿元,均位居行业第2名。其中,公司债主承销项目1,497单,主承销金额人民币5,523.53亿元,均位居行业第3名。2025年,公司积极践行国家战略,扎实做好金融“五篇大文章”。公司主承销绿色债券家数、金额均位居行业第3名;主承销科技创新公司债券家数、金额均位居行业第2名。公司积极响应中央金融工作会议关于做好“科技金融”大文章的决策部署,作为牵头主承销商及簿记管理人,协助工商银行率先落地首批科技创新债券,发行规模人民币200亿元;服务中国葛洲坝集团成功发行全市场首单长江经济带发展债券,发行规模人民币20亿元;作为计划管理人和销售机构,协助国家电投集团发行蓝色碳中和类REITs项目,该项目实现年碳减排量约50万吨,为山东首批海上风电示范项目,是积极推进新能源发展和绿色低碳转型的良好典范。国际业务方面,2025年,中信建投国际在离岸市场参与并完成债券承销项目222单,承销金额4,591.27亿港元。其中,全球协调人项目共81单,承销金额1,663.81亿港元。2026年发展展望在债券融资业务展业过程中,公司将扎实做好金融“五篇大文章”,服务实体经济,支持国家战略,深入推进“行业+区域+产品”的矩阵式布局,坚持优质客户开发战略,持续加强业务风险防控,持续深耕重资产客户的相关业务,不断加强公司内部协同展业,为客户提供综合、高质量的金融服务。国际业务方面,中信建投国际在境外债项目中将继续聚焦和服务好核心客户,持续发挥在国际信用评级、ESG顾问等领域的专业性优势,拓宽与企业的合作领域;持续提高境内外协同服务水平,发挥一体化战略合作资源优势,提供多元化债务融资产品,增强境外债全链条服务能力,不断提升在境外债券融资领域的市场影响力。3、财务顾问业务2025年,A股上市公司合计完成发行股份购买资产及重大资产重组项目80单,交易金额人民币4,705.71亿元。其中,公司完成12单,位居行业第1名;交易金额人民币1,044.46亿元,位居行业第2名。公司通过并购重组业务积极助力国有资本优化布局,在中国船舶换股吸收合并中国重工项目中担任被吸并方独立财务顾问,该项目是迄今为止A股资本市场完成的交易规模最大的行政许可类并购重组项目。同时,公司坚持以并购重组服务上市公司高质量发展,积极做好金融“五篇大文章”。在绿色金融领域,公司作为独立财务顾问,在远达环保发行股份及支付现金购买国家电投集团旗下新能源资产项目中助力国家电投集团打造水电资产整合平台;服务赛力斯发行股份购买龙盛新能源,高效推进新能源汽车资产整合。在科技金融领域,公司助力华海诚科发行股份、可转债并支付现金收购衡所华威,推动半导体封装材料实现同行业整合,是新质生产力并购的代表项目。(数据来源:公司统计)国际业务方面,中信建投国际在香港市场参与并完成财务顾问类项目3单。其中,中信建投国际充分发挥境内外一体化优势,协助金属包装行业龙头企业奥瑞金收购中粮包装并完成私有化退市。2026年发展展望2026年,公司将持续“以客户为中心”,通过“投行+投资+投研”联动机制,为客户的并购交易提供专业服务,为推动产业升级、协助企业强链补链和打造第二增长曲线提供助力;坚持服务国家战略,加大对央国企及民营链主企业并购业务的投入力度,助力企业实现高质量发展;加快提升交易撮合能力,推动市场化并购业务持续增长。此外,大力发展跨境并购业务,助力中国企业“走出去”和外资“引进来”,持续巩固在上市公司破产重整财务顾问领域的优势,实现各类型并购业务均衡发展,不断提升公司并购业务的市场影响力和品牌知名度。国际业务方面,2026年,中信建投国际将继续拓展跨境收购、上市前引战融资和私有化等业务,提升全球并购业务竞争力。(二)财富管理业务板块本集团的财富管理业务板块主要包括经纪及财富管理业务、融资融券业务、回购业务。1、经纪及财富管理业务2025年,A股市场交投活跃度显著提升,整体呈现量价齐升运行态势,市场交易规模大幅增长,全市场日均股基交易量约人民币2.07万亿元,同比增长70.34%;主要市场指数表现亮眼,上证指数年内上涨18.40%,创近十年新高,深证成指年内上涨30.38%,资本市场整体运行态势向好。(数据来源:上交所、深交所)证券经纪及财富管理业务方面,公司坚守“以客户为中心”的经营理念,依托全品类综合金融服务平台,精准匹配大众客户、零售客户及高净值客户多元化、多层次的财富管理需求,推动业务规模稳步扩张与服务质效同步提升。公司持续优化线上线下一体化获客渠道体系,互联网渠道引流成效位居行业前列,客户黏性与交易活跃度实现同步增长。2025年,公司证券经纪业务全年新增开户客户173.25万户,截至报告期末,客户总量1,712.31万户。公司不断丰富金融产品谱系,健全全链条财富管理服务体系,着力打造专业买方投顾服务能力,金融产品时点规模突破人民币4,100亿元,同比增长60.27%;非货币公募基金保有规模人民币1,432亿元,位居行业第5名,非货币公募保有增量人民币606亿元,位居行业第2名;投顾服务覆盖108.52万人,同比增长71.95%;代销公募个人养老基金产品308只,覆盖率达100%。买方业务规模人民币110.39亿元,同比增长189.81%。公司持续迭代升级“蜻蜓点金”APP客户体验与功能体系,APP月均活跃用户规模位居行业第7名。在行业内首次探索建立“1家总部普惠中心+3家区域分中心”的数字普惠服务架构,覆盖中小投资者616万户;企业家办公室创设“柏年向善”慈善项目,服务200余位爱心投资人聚焦公益事业。(数据来源:公司统计、中基协、易观千帆)公司自主打造“信谛听(DeepTiming)AI智数平台”,以AI技术为核心驱动,为从入门到专业用户提供智能投研策略研发与验证等特色产品工具,通过连接客户、赋能员工、驱动业务增长,持续推动财富管理转型与普惠金融实践深化。期货业务方面,2025年,全球大宗商品市场供需两端都经历深刻重构,科技革命与绿色转型提速,全国期货市场累计成交量和成交额同比均有增长。截至报告期末,全国期货市场累计成交量约90.74亿手,同比增长17.40%;累计成交额约人民币766.25万亿元,同比增长23.74%。中信建投期货聚焦期货市场功能发挥,突出服务实体经济重点任务,深入实施“人才强企、数字化转型、严格风险管控和国际化发展”四大战略,各项业务持续向好发展。2025年,中信建投期货实现代理交易额人民币32.60万亿元,同比增长25.73%;期末客户权益规模同比增长35.47%。截至本报告期末,中信建投期货设有30家分支机构,并在重庆设有风险管理子公司,为期货经纪及风险管理业务的发展奠定了坚实基础。(数据来源:中国期货业协会、公司统计)国际业务方面,2025年,中信建投国际累计代理股票交易金额1,783.46亿港元;截至本报告期末,累计客户数15,401户,客户托管股份总市值231.19亿港元。2025年,中信建投国际持续深化综合金融服务能力,聚焦金融产品体系建设与布局优化,通过跨境理财通业务、企业融资项目协同等举措丰富客户类型,精准对接各类客户境外投资需求,实现交易总量显著增长。2026年发展展望证券经纪及财富管理业务方面,公司将紧扣高质量发展核心主线,全面构建客户驱动的新发展模式,顺应行业变革与转型趋势,以客户需求为核心导向,深耕核心业务领域,全面提升综合服务能力。一是持续推进“三方合作+自主渠道”的双轮获客模式,深化与核心互联网渠道合作,扩大自主渠道覆盖范围,筑牢客户根基。以客户需求为原点,构建完善“开发-服务-留存”全周期双向赋能体系,依托数字化运营工具实施客户精准分层精细化经营,深化客户服务广度与深度,扩大普惠金融服务覆盖面,持续擦亮“企业家办公室”“柏年”“点亮中国行”等特色服务品牌,以客户价值创造驱动业务长效增长。二是立足客户资产保值增值核心诉求,健全投资顾问与金融产品全生命周期服务机制,聚焦提升大类资产配置专业能力,稳步扩大“财富50”“基金投顾”买方投顾业务规模。三是围绕客户使用体验与服务需求,加快数智化转型升级步伐,持续优化“蜻蜓点金”APP等核心数字化服务载体功能,构建以客户为中心的智能化、一站式财富管理服务生态。四是锚定客户综合金融服务需求,强化全业务链协同联动,打造一体化综合金融服务能力。五是深耕重点区域市场,优化区域业务布局,持续提升重点区域市场竞争力与品牌影响力。期货业务方面,中信建投期货将发挥期货市场功能,提升服务实体经济质效,融入地方发展大局,坚持均衡发展、全面深化协同、强化科技赋能,构建完善国际业务服务体系,夯实高质量发展的人才基石,牢牢守住防风险底线,稳步发展、守正创新,奋力打造一流衍生品投行。国际业务方面,中信建投国际将持续拓展投资区域覆盖、优化境外投资产品矩阵,精准满足客户多元化跨境投资需求,致力于以专业化、国际化的综合服务,打造“引进来”与“走出去”双向赋能的金融服务平台。2、融资融券业务2025年,融资融券业务市场需求持续释放,行业整体呈现规模扩张与风控升级并行的特征。截至报告期末,境内全市场融资融券余额人民币25,406.82亿元,同比上升36.26%。截至报告期末,公司融资融券余额人民币851.12亿元,市场占比为3.35%;融资融券账户21.65万户,同比增长11.08%;信用账户净新增开户市占率为3.35%,同比增长24.96%;融资融券业务整体维持担保比例为261.38%,业务风险整体可控。(数据来源:公司统计)公司持续优化智能风控及投顾产品“北极星账户诊断产品”,为两融客户构建全链条诊断服务体系,全方位提示潜在市场风险、诊断持仓个股风险、解析非理性行为风险;持续推进普通账户版产品研发工作。截至报告期末,该产品累计签约两融客户数量近3万户,产品活跃使用客群的风险标的持仓占比情况、收益率情况具有向好趋势,助力客户进行投资风险管理。国际业务方面,2025年,中信建投国际严格遵守监管机构和公司制定的各项融资类业务风险管理要求,做好客户信用和持仓证券的管理监控,在满足客户融资需求的同时,严格控制风险。截至报告期末,中信建投国际孖展融资业务余额2.99亿港元。2026年发展展望2026年,公司融资融券业务将贯彻“基础开户战略”,并不断加强机构客户、高净值客户开发,持续提升服务能力,迈向高质量发展与高品质服务的新阶段。为此,公司将根据客群特征建立多层次的客群服务体系,为客户提供精细化服务;同时,进一步拓宽金融科技护城河,努力将“北极星账户诊断产品”打造为业内一流的智能风控及投顾产品,更好地满足客户风险管理需求。国际业务方面,中信建投国际在日常运营中严格恪守合规“三道防线”要求,切实筑牢业务“第一道防线”,坚定践行“融资业务服务于真实交易需求”的核心原则,严把优质项目筛选关,推动融资业务健康有序发展。3、回购业务2025年,沪深交易所修订发布《股票质押式回购交易及登记结算业务办法》等业务规则,进一步完善股票质押式回购交易业务违约处置机制,明确特殊情形下的合约延期要求,鼓励证券公司通过多元方式纾解优质上市公司股东流动性压力,在防范风险的同时服务好实体经济,有效引导市场规范发展。公司稳健、审慎开展股票质押式回购交易业务,业务风险整体可控。截至报告期末,公司股票质押式回购交易业务本金余额人民币57.91亿元。其中,投资类(表内)股票质押式回购交易业务本金余额人民币18.99亿元,平均履约保障比例为339.50%;管理类(表外)股票质押式回购交易业务本金余额人民币38.92亿元。(数据来源:公司统计)2026年发展展望2026年,公司将在确保风险可测、可控、可承受的前提下,稳健、审慎推进股票质押式回购交易业务发展,围绕优质上市公司客户群体,整合投研、投行等内部资源,提供一站式综合金融服务;通过在业务风控环节应用AI大模型,进一步强化风险识别与管控能力;积极响应监管导向,在服务实体经济发展中实现业务质量与社会效益的共同提升。(三)交易及机构客户服务业务板块本集团的交易及机构客户服务业务板块主要包括股票销售及交易业务、固定收益产品销售及交易业务、投资研究业务、主经纪商业务、QFI和WFOE业务,以及另类投资业务。1、股票销售及交易业务公司股票销售及交易业务主要向机构客户提供交易、咨询和研究服务,并向其销售由本公司承销的股票。公司亦从事自营交易、做市业务及场外衍生品业务,品种涵盖股票、基金、ETF、股指期货、商品期货、期权、收益互换等金融衍生品,其中场外衍生品业务为客户提供与各类资产挂钩的定制化期权及收益互换产品,满足机构客户的风险管理及资产配置需求。股票交易业务方面,2025年,国内权益市场波动水平整体有所提升。随着国内宏观经济结构调整持续推进以及资本市场政策不断优化,市场长期稳健向好的态势进一步加强。公司以绝对收益作为业务定位,在管理好市场风险的基础上,紧密跟踪市场及行业动态,在市场行情出现积极信号时,主动捕捉趋势性和结构性投资机会。衍生品交易业务方面,公司作为行业首批场外期权一级交易商,稳步推进场外期权、收益互换等场外衍生品业务,进一步丰富挂钩标的种类及收益结构,满足境内外客户个性化的风险管理及资产配置需求,为投资者提供多元化的全球衍生品资产配置解决方案。公司以衍生品工具为载体,持续推动“中信建投中国多资产风险平价指数2.0”“中信建投世界大类资产配置指数2.0”,复合策略指数“中信建投世界大类资产配置多空策略指数2.0”和“中信建投世界大类资产配置宏观对冲指数2A”在财富管理及资产配置中的应用;在现有策略指数产品体系基础之上,进一步丰富产品结构和策略体系,为财富市场提供多资产衍生品产品解决方案。此外,公司不断扩展做市业务品类与规模,持续提升做市业务的市场竞争力。股票销售业务方面,公司股票销售业务在市场波动中继续保持了优势地位与市场影响力。2025年,公司完成33家主承销A股股票项目的销售工作,其中IPO项目12家、向特定对象发行股票项目21家,并完成可转债项目3家,累计销售金额人民币960.22亿元。(数据来源:公司统计)国际业务方面,中信建投国际机构销售及交易业务主要向机构客户提供交易、咨询和研究服务,并向其销售公司承销的股票。中信建投国际形成了跨行业、跨市场、跨资产类别的研究服务矩阵,不断完善针对机构客户的服务体系,进一步提升公司在香港股票二级市场的影响力,逐步巩固品牌知名度。中信建投国际持续完善股权衍生品业务服务体系,有效激发业务活力、提升市场竞争力,在模式创新、风险管理、基础建设等方面均取得显著成效与全新突破。2026年发展展望2026年,公司股票交易业务将继续坚持绝对收益业务导向,聚焦投研团队能力建设,紧密跟踪国内外宏观经济形势及政策变化,深入研究行业及个股机会,秉承价值投资理念进行板块和个股配置,在严格控制持仓风险的基础上,积极关注阶段性和结构性投资机会;逐步做大跨境业务规模,增加一体化收入占比;积极提升做市服务能力和质量,拓展做市业务品种范围,为市场提供优质的流动性服务,不断提升公司在市场中的影响力和竞争力。国际业务方面,中信建投国际将全力推进股票研究、销售及交易业务,持续拓展知名买方机构客户,进一步夯实客户基础。股权衍生品业务以服务客户为导向深化产品创新,致力于构建产品丰富、交易高效、收益稳健的业务生态,并通过数字化运营提升市场流动性。通过不断拓宽境外市场覆盖范围及丰富产品线,为客户提供跨时区、跨市场的全球一站式投资交易服务。2、固定收益产品销售及交易业务公司固定收益产品销售及交易业务涵盖FICC领域的自营、做市、销售、投资顾问及相关跨境业务等,为境内外客户提供全方位、多层次、一站式综合服务,服务范围涉及利率、信用、汇率、商品、结构化产品及相关衍生品等领域,致力于成为境内外客户可信赖的产品供应商、策略供应商和交易服务供应商。2025年,公司以扎实推进金融“五篇大文章”为指引,持续完善境内外FICC业务布局,助力资本市场高质量发展。公司积极开展科技创新债券与绿色债券的销售业务,深耕上海、湖北碳市场,荣获上海碳市场“碳金融实践奖”、湖北碳市场“碳金融创新奖”。以加强投资能力建设为核心,强化市场研判,积极开拓新品种、新策略;做大做强国际化投资,积极把握境外市场机遇,连续2年获评《财资》杂志(《TheAsset》)债券顶级投资机构。强化客户服务能力,拓宽做市业务边界,连续4年被债券通公司评为“北向通优秀做市商”;夯实债券销售业务根基,债券销售规模稳居市场第2名;进一步创新服务模式,不断丰富挂钩境内外全品类FICC资产的对客产品与服务工具箱,推出“固收+场外衍生品”投顾策略服务,稳步做大对客业务规模,精准匹配境内客户“走出去”与优质国际资本“引进来”的多元化需求,提升客户综合服务水平。持续推动业务数智化转型,深化人工智能在投研、交易、风控及客户服务等场景的应用。公司自主研发的“八爪鱼”固收对客业务一体化大数据智能平台在AI可解释性方向取得突破,相关研究论文被中国计算机学会认定的A类国际顶级学术会议ACMSIGKDD(国际数据挖掘与知识发现大会,KDD)录用,系国内证券公司首次在该类会议发表金融科技智能化领域研究成果。国际业务方面,中信建投国际持续完善FICC产品矩阵与服务生态,实现业务规模稳健增长,在风险可控前提下保持良好收益水平。依托多元化销售服务体系,客户覆盖广度与客户黏性持续提升,特别是在境外一级市场承销业务稳定输出、背靠背交易业务持续发展、做市交易业务显著突破、客需类结构化产品定制能力持续升级的驱动下,中信建投国际FICC业务整体销售规模迈上新台阶。2026年发展展望2026年,公司将继续锚定一流投行建设目标,发挥在FICC业务领域的专业优势,更好服务实体经济高质量发展。秉持“专业立足、客户至上、国际视野、追求卓越”的经营理念,持续强化投资能力建设,通过“强优势、补短板”,深挖新机会、新模式、新策略,构建以价值创造为根本、创新发展为引擎、数智化转型为支撑的核心竞争力;加速国际化布局,拓展全球业务版图,强化境内外协同,提升全球市场知名度与影响力;深耕客户市场,做实做深客户服务体系,丰富对客服务场景,提升全链条客户服务能力。国际业务方面,中信建投国际将进一步提升各类固定收益资产交易量,在巩固既有的境外一级债及背靠背交易业务的基础上,大力拓展做市交易、结构化票据、外汇和商品客需业务等,为境内外客户提供有力的跨市场流动性支持和一站式跨境FICC业务解决方案,打造多资产销售服务协同平台,在稳健的风险控制下进一步拓展资产类别边界,持续优化资产组合的币种配置、区域分布及品种结构,构建更具韧性的全球资产配置体系。3、投资研究业务公司投资研究业务主要为境内外机构客户提供包括宏观经济、固定收益、经济及产业政策、大类资产配置、市场策略、金融工程、行业、公司等领域的研究咨询服务,主要客户包括公募基金、保险资产管理机构、私募基金、全国社保基金、银行及银行理财子公司、证券公司及资产管理子公司、信托公司等境内外金融机构。2025年是资本市场新“国九条”、公募佣金新规等重要政策法规落地实施的首个完整年度,相关监管政策有效统筹了行业的功能性和营利性之间的关系,促使行业加速回归研究本源。公司注重发挥全行业研究优势,聚焦做好金融“五篇大文章”、新质生产力发展等重点领域研究,持续加大研究投入,深入推进产业链协同深度研究。截至报告期末,公司拥有证券投资咨询分析师181名,覆盖国内A股上市公司、香港及海外上市公司1,600余家;2025年共计发布证券研究报告5,083篇,其中,有920篇面向香港市场(含单独或两地同步)发布。公司持续深化投资研究业务数字化转型,依托大模型技术成功建成行业领先的“智研、智问、智数”三位一体智能投研平台;成立全球研究团队,持续深化研究业务境内外一体化运营,加大海外上市公司研究覆盖范围,举办全球投资者大会、中沙投资合作论坛等特色会议,组织开展东南亚和中东地区的制造业、物流和金融等板块联合调研活动,国际化研究迈出坚实步伐;完善不同类型客户投研服务体系建设,努力为各类机构客户提供专业、深度的研究服务。报告期内,公司研究品牌的行业影响力不断提升,受到市场和机构客户充分认可,在中国证券报、证券时报、上海证券报等多家权威媒体组织的各类评选中分别荣获“本土最佳研究所”或“最具影响力研究机构”等重要奖项。同时,公司着力发挥智库功能,为国家战略、政府部门等提供有力智力支持,为公司各业务线提供全方位研究支持,有效发挥了参谋助手作用。2026年发展展望2026年,公司投资研究业务将坚持“立足于外、服务于内”的战略,坚持回归研究本源,不断提升研究专业能力、资产定价能力和市场影响力,进一步扩大上市公司的研究覆盖范围和机构客户的服务覆盖范围,持续提升研究服务质量;加大国际化研究投入,不断完善全球化的研究和服务体系,向境内外客户提供更优质的全球综合研究服务;进一步发挥好智库功能,持续为政府部门提供高质量智库研究,加强对公司各项业务的研究支持,努力打造公司“第一名片”,不断增强公司的品牌影响力和市场认可度。4、主经纪商业务公司向机构客户提供市场领先的全链条主经纪商服务,包括交易服务、账户服务、产品设计代销、机构投融资服务、资产托管服务、产品运营服务、研究服务、融资解决方案和增值服务等。公司机构业务构建了包含主经纪商(PB)服务、机构通服务、策略算法总线服务、机构专用柜台服务等多维一体的机构客户交易服务体系。公司是拥有对接业务最全面、支持主经纪商系统种类最多的证券公司之一,目前已经支持上交所、深交所、北交所、融资融券、股指期货、商品期货、股票期权、港股通、场外公募基金等市场和交易品种,为客户同时开展各类业务提供了便利和良好体验。公司主经纪商系统内嵌自主研发的算法交易平台,保持着业内领先的算法交易执行效果,得到银行、保险公司、公募基金、私募基金、企业和高净值个人等客户(含QFI业务客户)的广泛认可和信赖,商品期货和期权算法交易等新型服务亦满足了客户多样化的交易需求。公司自建的机构交易专用柜台,为金融机构提供独立且功能更丰富的交易通道,得到银行、公募基金、保险资管机构等机构客户的广泛认可。2025年,公司主经纪商业务成交量持续增长,算法交易的交易效果持续优化,客户种类和规模持续扩大。截至报告期末,公司主经纪商(PB)服务存续客户23,394户,同比增长25.34%;共有30家公募基金和13家保险资管机构实盘使用本公司算法交易服务,共有239家客户使用本公司代理委托服务,合计交易329个标的。托管业务方面,截至报告期末,公司托管公募基金122只,公募基金托管规模、数量均位居行业前3名。公司资产托管及运营服务总规模为人民币14,044.29亿元,同比增长45.03%。其中,资产托管产品规模人民币5,990.20亿元,运营服务产品规模人民币8,054.08亿元,分别同比增长28.10%和60.83%。2026年发展展望2026年,公司将以持续满足专业机构投资者交易需求为目标,继续完善各类主经纪商系统和机构专用柜台服务,通过内嵌算法平台提高交易绩效、交易完成度及交易自动化程度,为客户提供更加便捷的交易体验。公司将紧跟市场环境和监管政策变化,进一步建设多种类、个性化的专业交易服务体系,以进一步满足各类客户的交易需求。托管业务方面,公司将创新客户服务手段,打造“数字托管”,为客户提供个性化问题解决方案。通过部门协同,做好“销售、交易、投资、托管”动态循环,提升公司整体价值。紧跟政策导向,筑牢托管业务合规风控防线,服务国家战略。5、QFI和WFOE业务2025年,国家进一步全面深化改革开放,QFI投资范围扩大、流程简化,持续吸引外资中长期配置。公司作为QFI、WFOE在国内的经纪券商,已积累多年外资客户服务经验,始终立足于为QFI、WFOE等外资机构提供全产品、一站式金融服务。2025年,公司纵深推进跨境一体化,重构境内外销售布局,持续深入挖掘QFI、WFOE等外资机构业务机会。公司凭借一流的证券研究和企业关系服务加强客户粘性,持续升级完善交易系统及交易算法,优化交易运营流程,努力提升外资客户投资和交易体验。目前,公司已经形成以丰富的证券研究服务、北京-上海双交易中心、先进的交易系统和智能的交易算法为特色的专业化外资机构投资交易服务体系。2026年发展展望2026年,在中国资本市场持续高质量对外开放的背景下,公司将依托中信建投国际位于香港的桥头堡优势,深化跨境一体化布局,持续拓展多元化外资客户网络,加强对头部外资机构的覆盖与服务。公司将不断提高研究服务能力,重点推进研究业务的国际化布局,升级交易系统功能,优化交易流程,加快业务数字化转型,以更好地满足客户多元化的交易策略需求,为QFI、WFOE等外资客户提供行业领先的证券研究及交易服务。同时,公司将整合优势资源,致力于为外资机构客户提供高层次、全方位、多元化、差异化的综合金融解决方案,以专业化服务为核心,以研究业务为支撑,全面提升包含衍生品、融资融券、大宗交易等在内的全产品销售能力与全链条服务能力,助力客户实现收益最大化,进一步增强公司的国际影响力,推动境内外业务协同发展。6、另类投资业务2025年,在人工智能、具身智能等新兴投资主题带动下,叠加国家积极的产业和资本市场政策引导支持,境内股权投融资市场活跃度显著提升。面对不断变化的宏观经济和资本市场环境,中信建投投资紧扣科技创新与新质生产力主线,持续加强对国家战略重点领域的投研能力,积极发掘优质企业,加大对战略性新兴产业和未来产业的支持力度和覆盖范围,推动业绩稳步提升。报告期内,中信建投投资完成项目投资26个,投资金额人民币10.67亿元,其中超过90%投资于新质生产力项目。2026年发展展望2026年是“十五五”规划开局之年,受益于政策支持与产业升级,中国股权投资市场将迎来多重发展机会。中信建投投资将紧抓资本市场新机遇,积极践行金融强国建设要求,强化战略投资平台的功能定位,将投资业务深度嵌入国家创新体系。2026年,中信建投投资将进一步聚焦战略性新兴产业和未来产业,积极拓展投资布局,全力服务新质生产力发展,促进资产规模稳步增长和资产结构持续优化。(四)资产管理业务板块本集团的资产管理业务板块主要包括证券公司资产管理业务、基金管理业务及私募股权投资业务。1、证券公司资产管理业务2025年,资本市场综合改革持续深化,资产管理行业始终立足服务实体经济本源,聚焦中长期资金入市与居民财富管理核心需求,保持稳健发展态势。在此背景下,证券公司资产管理业务需聚焦主责主业,不断加强专业能力建设,打造差异化竞争优势。报告期内,公司资产管理业务积极融入金融强国建设大局,扎实推进金融“五篇大文章”,特别是在养老金融领域,立足专业优势,自主研发“家鑫相传”系列资管产品,积极参与养老保险商业养老金和养老理财的受托投资管理,以创新实践为养老金融发展贡献“中信建投方案”。同时,锚定长期价值创造,聚焦投研能力与主动管理能力提升,持续夯实风险识别与资产配置能力,着力构建全产品、全客户、全生命周期的资产管理服务体系;完善产品线布局,丰富差异化产品供给;深化跨境一体化与国际化布局,增强海外资产配置专业能力,满足客户全球资产高效配置需求;依托数智化转型全面赋能业务发展。截至报告期末,公司客户资产管理受托资金规模人民币5,245.08亿元,同比增长5.99%。其中,集合资产管理业务规模人民币1,045.63亿元,单一资产管理业务规模人民币1,799.47亿元,专项资产管理业务规模人民币2,399.98亿元,管理产品合计1,041只。国际业务方面,中信建投国际的资产管理业务实现跨越式发展,截至报告期末,管理规模突破100亿港元。2025年,中信建投国际首次发行于开曼交易所上市的基金产品,积极拓展股票及固收专户业务,覆盖境内多家大型商业银行、地方性银行、央企等优质客户群体,客户结构更趋多元均衡。同时,凭借专业的投资管理能力,中信建投国际担任多个产品的投资顾问。管理产品业绩表现稳健优异,赢得客户的广泛认可,为资管业务的持续增长注入了强劲动力。2026年发展展望2026年,公司资产管理业务将持续强化功能性定位,坚持以客户为中心,以协同效能与价值创造为导向,聚焦主动管理能力提升,以投研体系优化为核心抓手,持续构建多元化产品矩阵,满足客户多样化资产管理需求;加速跨境业务布局,完善跨境产品供给体系,提升全球大类资产配置能力;深化数智化转型,以科技赋能投研决策、风险管理与客户服务全链条,系统构建智能化、精益化运营生态,全面推动公司资产管理业务实现更高质量发展。国际业务方面,中信建投国际将持续推动资管业务向高质量增长阶段迈进,以管理规模和收入的协同提升为核心目标,致力于成为香港中资同业中具有显著竞争力的资管平台。一方面,积极通过跨境理财通、互认基金等渠道拓展内地高净值客户及机构资金;另一方面,紧密把握中资企业及机构的境外资产配置需求,持续丰富多资产、多策略的产品体系,提升全球资源配置能力与服务效率,优化跨境服务流程,强化主动管理能力,为客户创造持续稳健的长期回报。2、基金管理业务2025年,公募基金行业迎来监管政策的密集发力。以中国证监会《推动公募基金高质量发展行动方案》为指引,行业从“规模导向”向“投资者回报导向”转型,重塑基金公司与投资者的利益绑定机制。随着权益市场行情扭转,市场回暖带来权益类基金业绩上涨,投资者信心逐步恢复。受益于政策引导、市场环境、产品业绩提升,行业资产管理总规模持续攀升、屡创新高。其中,股票型基金、货币型基金以及混合型基金规模增长较多,被动指数型基金成为规模增长的主力。2025年,中信建投基金着力提升投研能力,做好产品投资业绩,结合客户需求不断丰富产品线,拓宽拓深各类销售渠道,提升客户服务能力,努力为投资者创造良好收益。截至报告期末,中信建投基金资产管理规模人民币1,759.89亿元,较2024年末增长23.78%。其中,公募基金管理规模人民币1,072.57亿元,较2024年末增长13.87%;中信建投基金的专户产品及其基金子公司的专户产品管理规模合计人民币687.32亿元,较2024年末增长43.24%。中信建投基金深入落实公募基金高质量发展监管要求,关注中长期收益,截至报告期末,共管理公募基金68只,三年期可参与市场排名的基金47只。其中,28只基金的近三年整体收益排名进入市场前50%,22只基金进入市场前30%,16只基金进入市场前20%,5只基金进入市场前10%。(数据来源:公司统计)2026年发展展望2026年,中信建投基金将深入贯彻落实《推动公募基金高质量发展行动方案》,秉持“以投资者为本”的宗旨,将切实保护投资者利益放在首要位置,持续提升投研能力和产品投资业绩,进一步优化产品布局,丰富产品供给体系,加强客户服务体系建设,努力提升投资者获得感、信任感与长期持有体验,在高质量发展道路上实现与投资者的共赢共生。3、私募股权投资业务2025年,中国股权投资市场加速迈向高质量发展,硬科技成为市场投资主线,半导体、人工智能、生物医药等战略性新兴领域获得资本高度聚焦。国资引导基金规模持续扩大,人民币基金在募资格局中逐渐占据主导地位,多元化退出渠道得到显著改善。在政策支持与产业升级双轮驱动下,市场活力得到有效释放,为培育新质生产力和构建现代化产业体系提供了有力支撑。2025年,中信建投资本聚焦人工智能、商业航天、未来材料、未来能源等前沿科技领域,系统性布局未来产业与硬科技赛道,持续发挥国有金融资本在推动“科技—产业—金融”良性循环中的引领作用,为推进中国式现代化和建设金融强国贡献专业力量。报告期内,中信建投资本完成项目投资人民币35亿元,其中投资科技型企业60余家,投资金额超人民币22亿元,既往已投项目中完成IPO上市2单;新增备案基金6只,完成基金扩募1只,新增规模合计人民币77.81亿元,位居券商私募子公司第5名(数据来源:中基协、公司统计)。截至报告期末,中信建投资本在管备案基金83只,管理规模逾人民币780亿元。2026年发展展望2026年,中信建投资本将立足服务实体经济与科技创新的使命,以投资为核心,以赋能为抓手,以协同为特色,积极融入国家未来产业体系。聚焦新质生产力培育,加大对战略性新兴产业、“专精特新”企业及产业链关键环节的支持力度,强化“科技—产业—金融”良性循环。同时,持续优化“募投管退”全链条能力,拓宽多元化退出路径,为高质量发展贡献专业力量。",
+      "futureExpect": "(一)行业格局和趋势展望2026年,证券行业有望在服务国家战略和扎实推进自身建设中迈向高质量发展新阶段。从宏观经济看,2026年世界经济预计将保持温和增长,全球流动性有望进一步宽松,同时大国博弈、地缘政治风险可能持续为国际市场带来不确定性和不稳定性。以人工智能、商业航天、生物医药、绿色能源等为代表的新一轮科技革命和产业变革正加速推进,科技竞争将成为国际竞争格局的关键因素。面对复杂多变的外部环境,我国经济韧性强、潜能大的特点没有改变,长期向好的支撑条件和基本趋势依然稳固。宏观政策将坚持“稳中求进、提质增效”的总基调,继续实施更加积极的财政政策和适度宽松的货币政策,引导金融机构加力支持扩大内需、科技创新、中小微企业等重点领域。从资本市场看,2026年资本市场改革将持续深化。监管机构将紧扣“防风险、强监管、促高质量发展”的工作主线,通过持续完善“长钱长投”的制度环境,精准聚焦服务科技创新企业服务、赋能新质生产力发展,加快培育一流投资银行与投资机构,并进一步提升监管执法精准性、有效性,更好推动资本市场高质量发展。证券行业发展趋势稳健向好,预计继续沿三个方向纵深演进:一是并购整合持续加速,行业集中度进一步提升;二是国际化布局不断深化,国际业务升级为第二增长引擎;三是科技赋能创新升级,AI等前沿技术加快融入业务与服务生态,有力推动行业数智化转型。新的发展形势为公司带来了新的发展机遇及挑战。政策引导资本市场服务新质生产力,为公司投行业务巩固与扩大市场优势提供了长期发展空间;“长钱长投”的制度环境,为公司财富管理业务转型提供了新动力;股票市场预计在震荡中延续“慢牛”行情,为买方业务、资产管理业务提供了丰富的投资和服务机会;中国资本市场高水平双向开放,为公司国际化业务深化发展创造了有利环境。与此同时,行业竞争格局深化、监管要求持续强化、外部宏观环境波动以及金融科技加速渗透,正推动行业向更专业、更规范和更数智化的方向演进。这要求公司必须不断增强综合金融服务能力、风险合规管理水平和数智转型实效,以构筑面向未来的持续竞争优势。(二)公司发展战略新形势下,中信建投证券旨在打造和壮大“国内一流”的综合实力,到2030年全面达到与行业优质头部机构相称的引领水平;再用5年时间,到2035年,力争全面达到国内一流水平,努力成为具备国际竞争力和市场引领力的一流投资银行和投资机构。为此,中信建投证券将贯彻落实“专注主业、完善治理、错位发展”的要求,以价值创造为核心,以新质生产力为方向,以数智化为引擎,打造价值投行、新质投行、数智投行,加快建立客户驱动新发展模式,着力提升国际化水平,把公司各项工作切实融入到金融强国建设大局中。为实现以上战略愿景,公司将强化全方位支撑保障,筑牢公司治理、合规风控、组织机构、基础管理、数智科技五大保障体系,打造一支政治过硬、作风过硬、能力过硬、成绩过硬的党的金融铁军。(三)经营计划2026年是“十五五”规划的开局之年,更是公司全力推进“一流投行”建设的关键之年。公司将持续加强党的建设,强化党建引领作用;加快建立客户驱动新发展模式,打通业务价值链循环;聚焦服务新质生产力,打造“产业整合型”投行;推进财富管理业务转型,加强与资产管理业务的融合;完善区域管理架构,深入发掘区域价值;增强国际业务竞争力,提升国际业务收入比重;推进“人工智能+”,建设“数智投行”;加强人力资源保障,完善人才激励机制;夯实合规风控管理架构,加强合规风控保障力度。"
+    },
+    {
+      "reportDate": "2024-12-31",
+      "businessReview": "截至2024年12月31日,本集团总资产人民币5,664.18亿元,较2023年12月31日增长8.35%;归属于母公司股东的权益为人民币1,064.69亿元,较2023年12月31日增长9.22%;报告期本集团营业收入合计为人民币211.29亿元,同比下降9.10%;归属于母公司股东的净利润为人民币72.23亿元,同比增长2.68%。投资银行业务板块实现营业收入合计人民币24.91亿元,同比下降48.14%;财富管理业务板块实现营业收入合计人民币66.10亿元,同比增长8.97%;交易及机构客户服务业务板块实现营业收入合计人民币80.53亿元,同比增长0.46%;资产管理业务板块实现营业收入合计人民币12.56亿元,同比下降14.17%。1、投资银行业务板块本集团的投资银行业务板块主要包括股权融资业务、债务融资业务及财务顾问业务。(1)股权融资业务2024年,境内股权融资一级市场政策和环境发生较大变化,发行和在审的IPO、股权再融资项目数量均有所下降,融资规模缩减。A股全市场2024年共发行股权融资项目220家,同比下降64.05%,募集资金人民币2,096.95亿元,同比下降72.84%。其中,IPO项目102家,同比下降67.52%,募集资金人民币662.80亿元,同比下降81.54%;股权再融资项目118家,同比下降60.40%,募集资金人民币1,434.15亿元,同比下降65.29%。(数据来源:资讯,按发行日统计,不含资产类定向增发)境外市场方面,2024年,香港股权融资一级市场呈现显著回暖态势,IPO及再融资活动均展现出强劲的复苏势头。其中,港股主板市场2024年共发行IPO项目67家,同比下降1.47%,募集资金872.43亿港元,同比增长88.34%;发行再融资项目141家,同比增长约31.78%,募集资金约1,389.50亿港元,同比增长113.94%。(数据来源:香港交易所、金融终端、彭博终端,按发行日统计)2024年,公司积极应对挑战,股权融资业务继续位居市场前列。境内业务方面,报告期内,公司完成A股股权融资项目27家,主承销金额人民币150.60亿元,分别位居行业第2名、第3名。其中,IPO主承销家数12家,主承销金额人民币61.77亿元,分别位居行业第1名、第3名;完成股权再融资15家,主承销金额人民币88.83亿元,分别位居行业第2名、第3名。公司积极贯彻落实国家战略,服务实体经济高质量发展,扎实做好科技金融,助力新质生产力加快发展。报告期内,公司保荐北交所IPO项目4家,主承销金额人民币8.89亿元,均位居行业第1名;保荐战略性新兴产业IPO项目11家、国家级专精特新“小巨人”企业IPO项目9家,保荐数量均位居行业第1名,其中代表性项目包括:保荐承销联芸科技在科创板上市(新“国九条”发布后全市场首家过会IPO项目),保荐承销星图测控在北交所上市(2024年北交所发行申购资金规模最大的项目)等。1股权再融资方面,公司保荐承销长源电力向特定对象发行股票,助力能源保供企业绿色转型;保荐承销中信重工向特定对象发行股票,服务国内重型装备骨干企业稳步迈进世界一流高端装备制造企业行列。此外,公司完成上市公司可转债项目6家,主承销金额人民币58.22亿元,均位居行业第1名。(数据来源:资讯、公司统计)2024年,公司完成新三板挂牌20家,完成新三板挂牌企业定增10单,募集资金人民币35.35亿元;截至报告期末,持续督导新三板创新层企业59家。(数据来源:全国股转公司、Choice金融终端)境内项目储备方面,截至报告期末,公司在审IPO项目20家,位居行业第3名;在审股权再融资项目(含可转债)13家,位居行业第2名。(数据来源:中国证监会、沪深交易所、资讯、公司统计)国际业务方面,2024年,中信建投国际在香港市场共参与并完成港股IPO保荐项目3家,募集资金73.62亿港元。其中,作为联席保荐人服务智能驾驶行业领先企业地平线机器人实现港股IPO,募集资金60.87亿港元,为近两年来中国科技企业最大规模港股IPO项目;作为独家保荐人服务中国古法手工金器专业第一品牌老铺黄金实现港股IPO,募集资金10.42亿港元。2025年发展展望2025年,投资银行业务挑战与机遇并存。公司将全面贯彻落实新“国九条”等一系列资本市场政策,在股权融资领域继续坚持以客户需求为中心,进一步深化“行业+区域+产品”的矩阵式布局,全面服务国家战略布局,不断提升服务实体经济的质效,努力打造向客户提供全生命周期、全产品服务的一流投资银行。同时,进一步强化质量控制工作,不断提高执业质量,努力做好资本市场“看门人”;紧跟市场做好估值定价和销售工作;支持资本市场双向开放,促进香港股权融资业务迈上新台阶;加强投资以及与公司其他业务的协同发展,增强对客户的综合服务能力。继续以北交所深化改革为契机,牢牢抓住北交所高质量发展的历史机遇,加大投入,全面布局,大力支持专精特新中小企业创新发展,服务高水平科技自立自强。国际业务方面,中信建投国际将持续推进内地和香港投行一体化工作,继续拓展在香港市场的业务范围,实现在中概股回归、港股私有化、跨境收购等不同类型业务领域的多样化发展,进一步增强全方位服务客户的能力。(2)债务融资业务2024年,境内债券市场活跃程度进一步提升,收益率全年震荡呈下降趋势。全市场信用债及地方政府债发行规模人民币301,896.55亿元,同比增长6.62%。(数据来源:资讯)境外债券市场方面,受美联储降息等影响,2024年中资企业离岸债券发行量约1,968.4亿美元,同比增长40.44%。(数据来源:彭博终端)2024年,公司境内债务融资业务继续保持良好发展势头,共计完成主承销项目4,021单,主承销金额人民币16,471.59亿元,均位居行业第2名。其中,公司债主承销项目1,130单,主承销金额人民币4,481.01亿元,均位居行业第2名。(数据来源:中国证券业协会、资讯)2024年,公司积极落实金融“五篇大文章”要求,在科技金融、绿色金融领域的债务融资业务方面屡屡发力,主承销绿色债券107只,主承销金额人民币573.43亿元,其中碳中和专项债31只,主承销金额人民币231.16亿元。作为牵头主承销商,公司协助工商银行发行绿色金融债券,发行规模达人民币200亿元,有力推动其绿色发展战略的落地实施;协助申能股份发行全国首单碳中和绿色科技创新乡村振兴可续期公司债,助力传统能源降耗增效。公司携手明阳智能成功发行全国首单陆上风电公募REITs项目——中信建投明阳智能新能源REIT,该项目由中信建投证券担任计划管理人和财务顾问、中信建投基金担任基金管理人,为我国公募REITs市场引入了新的资产类型和发行主体。公司主承销科技创新公司债券(含资产支持证券)及科创票据共299只,主承销金额人民币1,004.07亿元。其中,主承销科技创新公司债券家数、金额均位居行业第2名,科创票据主承销金额排名行业第3名(数据来源:中国证券业协会、中国银行间市场交易商协会)。国际业务方面,2024年,中信建投国际在离岸市场参与并完成债券承销项目215单,同比增长104.76%,承销金额4,085.43亿港元,同比增长82.55%;其中全球协调人项目共73单,同比增长65.91%,承销金额1,427.98亿港元,同比增长98.61%。2025年发展展望2025年,公司将持续聚焦债务融资业务的高质量发展,重视服务实体经济,积极落实国家战略,扎实推进“行业+区域+产品”的矩阵式布局,不断完善客户服务体系,持续加强业务风险防控,保持稳定的项目储备,不断开拓创新业务模式,实现品种齐全、均衡发展的格局,不断提升债务融资业务的整体实力。国际业务方面,中信建投国际在境外债项目中将继续聚焦和服务好核心客户,持续发挥在国际信用评级、ESG顾问等领域的专业性优势,拓宽与企业的合作领域;持续提高境内外协同服务水平,发挥一体化战略合作资源优势,提供多元化债务融资产品,增强境外债全链条服务能力,不断提升在境外债券融资领域的市场影响力。(3)财务顾问业务2024年,A股上市公司合计完成发行股份购买资产及重大资产重组项目41单,交易金额人民币853.96亿元。报告期内,公司完成A股发行股份购买资产及重大资产重组项目4单,位居行业第2名;交易金额合计人民币238.06亿元,位居行业第1名。其中,担任独立财务顾问助力紫光股份收购新华三重大资产重组项目顺利完成,该项目为2024年国内信息与通信技术行业上市公司最大规模的跨境并购案例;担任独立财务顾问助力甘肃能源完成发行股份购买资产并募集配套资金项目,为中国证监会“并购六条”发布后首家过会的重大资产重组项目。项目储备方面,截至报告期末,公司审结未完成、在审及草案阶段的发行股份购买资产及重大资产重组项目6单,位居行业第3名。(数据来源:资讯、公司统计)国际业务方面,报告期内,中信建投国际在香港市场参与并完成财务顾问类项目2单。2025年发展展望2025年,公司将坚持以客户需求为中心,加大对央国企及民营链主企业并购业务的投入力度,服务国家战略,助力国家产业升级和经济高质量发展。同时,加快提升交易撮合能力,推动市场化并购业务增长,大力发展跨境业务,服务“中企走出去、外资引进来”,持续巩固在上市公司破产重整财务顾问领域的优势,实现各类型并购业务均衡发展,不断提升公司并购业务的市场影响力和品牌知名度。国际业务方面,2025年,中信建投国际将继续拓展跨境收购、上市前引战融资和私有化等业务,提升全球并购业务竞争力。2、财富管理业务板块本集团的财富管理业务板块主要包括经纪及财富管理业务、融资融券业务、回购业务。(1)经纪及财富管理业务2024年,沪深A股市场整体呈现出新的发展格局,市场活跃度、指数表现、投资者行为等诸多方面均呈现积极变化,特别是9月下旬以来,各主要证券指数显著上行,为市场整体向好发展奠定坚实基础。2024年,沪深A股市场股票基金日均交易量人民币10,016亿元,同比增长23.18%。(数据来源:沪深交易所)证券经纪及财富管理业务方面,2024年,公司积极整合资源,向不同客群精准提供股票、基金、固定收益产品、融资融券、投资顾问、期货等品种丰富的金融产品和服务,着力打造业务品种齐全的客户综合服务平台及业务生态链。一方面,公司持续坚持以客户为中心的理念,提升服务水平,丰富服务手段,推动经纪业务和财富管理高质量发展,努力满足零售客户、高净值客户、机构客户以及公司客户多层次、多样化的财富管理与投融资需求。另一方面,公司充分利用多渠道、多模式线上获客手段,不断提升客户数量和用户黏性,互联网引流效果位居行业前列。2024年,公司证券经纪业务新开发客户199.02万户,同比增长62.73%,高净值客户数量创近5年新高。金融产品保有规模接近人民币2,400亿元,公司直接A股交易量市场占比保持行业前十名。公司不断优化移动交易客户端“蜻蜓点金”APP的客户体验,客户月均活跃数位居行业第7名;继续强化股票投顾服务业务领先优势,基金投顾业务进展良好,线上投顾平台服务人次大幅增长;持续优化金融产品体系,不断完善各类产品供给。截至本报告期末,公司下辖319家证券经纪业务分支机构(不含上海自贸区分公司),57%集中在五省二市(北京、上海、广东、福建、浙江、江苏和山东),其中北京地区分支机构56家,是北京地区设立营业网点最多的证券公司。公司营业网点数量众多且分布有序,为财富管理业务的稳健发展奠定坚实基础。(数据来源:沪深交易所、易观千帆、公司统计)期货经纪及财富管理业务方面,2024年,受全球经济复苏放缓、各主要经济体分化加剧等多种因素影响,我国期货市场呈现“量减额增”的新态势,累计成交量约77.29亿手,同比下降9.08%;累计成交额约人民币619.26万亿元,同比增长8.93%。中信建投期货着力聚焦服务能力布局、业务转型布局和金融科技布局,深化内外部协同,既注重发挥业务优势、弥补业务短板,又着力优化内部管理、增强中后台支持保障力度,各主要业务板块持续向好。2024年,中信建投期货实现代理交易额人民币25.93万亿元,同比增长25.32%;新增客户数同比增长21.54%;期末客户权益规模同比增长3.12%。截至本报告期末,中信建投期货设有30家分支机构,并在重庆设有风险管理子公司,为期货经纪及风险管理业务的发展奠定了坚实基础。(数据来源:中国期货业协会、公司统计)国际业务方面,2024年,中信建投国际累计代理股票交易金额1,036.37亿港元;截至本报告期末,累计客户数16,407户,客户托管股份总市值394.36亿港元。2024年,中信建投国际持续加强高净值个人客户和公司金融类业务开发力度,不断完善金融产品线布局,提升产品销售能力,交易量和金融产品销量均显著增长。2025年发展展望证券经纪及财富管理业务方面,公司将在服务实体经济和投资者的过程中不断提升专业服务水平,创新业务模式,坚持线上引流与线下获客协同并行,构建高效客户分层服务体系;持续完善投资顾问和金融产品的全生命周期服务体系,提高资产配置及买方业务服务水平;加速数字化转型,提升资源利用效率与服务精准度;深化集约化经营,强化财富管理能力建设,坚持走具有中信建投特色的财富管理高质量发展之路。期货经纪及财富管理业务方面,2025年,在中国证监会等七部门出台的《关于加强监管防范风险促进期货市场高质量发展的意见》指引下,我国期货市场运行稳定性、期货行业服务实体经济能力以及期货市场的国际化影响力将进一步提升。中信建投期货将聚焦期货市场功能发挥,持续完善客户服务体系,着力打造核心竞争力,稳健审慎推进国际化布局,坚定走好高质量发展道路。国际业务方面,中信建投国际作为公司财富管理业务在境外的延伸,致力于通过不断丰富和优化境外投资产品,满足客户多样化的境外投资需求。2025年,中信建投国际将继续加强产品线建设,利用好“跨境理财通”“基金互认”等业务机会不断扩大跨境端产品规模,在保障客户投资收益的前提下不断扩大境外产品销售规模,并以专业化、国际化的服务助力客户实现全球资产保值增值。(2)融资融券业务2024年,中国证监会全面加强融券业务监督管理,发挥融券业务的逆周期调节作用。随着新“国九条”出台,退市监管力度进一步加大,这既有利于证券市场的长远健康发展,也对业务开展提出了新的要求。2024年9月下旬以来,证券市场活跃度大幅提高,境内全市场融资融券业务规模有所上升。截至本报告期末,境内全市场融资融券余额人民币18,645.83亿元,同比上升12.94%。截至本报告期末,公司融资融券余额人民币628.20亿元,市场占比为3.37%;融资融券账户19.49万户,同比增长6.30%;信用账户净新增开户市占率为2.68%,同比增长39.99%;融资融券业务整体维持担保比例为292.24%,业务风险整体可控。(数据来源:资讯、公司统计)国际业务方面,2024年,中信建投国际严格遵守监管机构和公司制定的各项融资类业务风险管理要求,做好客户信用和持仓证券的管理监控,在满足客户融资需求的同时,严格控制风险。截至本报告期末,中信建投国际孖展融资业务余额6.62亿港元。2025年发展展望2025年,公司融资融券业务将聚焦渠道与产品多措并举,以服务质效促业务增量,着力夯实融资融券业务根基,提升对高净值客户的服务深度,通过拓展业务渠道、增强内部协同、丰富服务内容等举措进一步提升专业化的综合服务能力。同时,推动金融科技成果转化,深化以投资者为本的理念,打造客户线上服务生态,推动数字化运营体系建设,为客户提供多样化、智能化、个性化的产品服务,打造业内一流的智能投研产品。国际业务方面,中信建投国际将继续遵循“融资业务服务于真实交易需求”的原则,定期根据客户信用状况及其所持有的证券担保品情况判断客户潜在风险情况,坚持融资规模的提升应以客户资产规模的提升为前提,不盲目提升融资规模,健康有序推动融资业务发展。(3)回购业务2024年,中国证监会出台《上市公司股东减持股份管理暂行办法》《上市公司董事、监事和高级管理人员所持本公司股份及其变动管理规则》,全面完善减持规则体系,防范各类绕道减持行为,细化违规责任条款,引导市场恢复供需平衡,促进证券市场稳定发展。公司积极应对市场环境变化,审慎开展股票质押式回购交易业务,业务风险整体可控。截至本报告期末,公司股票质押式回购交易业务本金余额人民币78.24亿元。其中,投资类(表内)股票质押式回购交易业务本金余额人民币36.85亿元,平均履约保障比例为296.63%;管理类(表外)股票质押式回购交易业务本金余额人民币41.39亿元。(数据来源:公司统计)2025年发展展望2025年,公司将在确保风险可测、可控、可承受的前提下,稳健、审慎开展股票质押式回购交易业务。公司将加速资源整合,为战略客户提供综合金融服务;依托自身投研能力,加大对上市公司的风险识别,持续防范业务风险;通过内部精细化管理,持续提升公司股票质押式回购交易业务的资产质量。3、交易及机构客户服务业务板块本集团的交易及机构客户服务业务板块主要包括股票销售及交易业务、固定收益产品销售及交易业务、投资研究业务、主经纪商业务、QFI和WFOE业务,以及另类投资业务。(1)股票销售及交易业务公司股票销售及交易业务主要向机构客户提供交易、咨询和研究服务,并向其销售由本公司承销的股票。公司亦从事自营交易、做市业务及场外衍生品业务,品种涵盖股票、基金、ETF、股指期货、商品期货、期权、收益互换等金融衍生品,其中场外衍生品业务为客户提供与各类资产挂钩的定制化期权及收益互换产品,满足机构客户的对冲及风险管理需求。2024年,受国内宏观经济调整以及资本市场政策变化影响,国内权益市场波动加剧。股票交易业务方面,在A股市场大幅波动的环境下,公司股票交易业务坚持绝对收益的业务定位,强化风险控制,积极寻找投资机会。衍生品交易业务方面,公司作为行业首批场外期权一级交易商,稳步推进场外期权、收益互换等场外衍生品业务,进一步丰富挂钩标的种类及收益结构,满足境内外客户个性化的风险管理及资产配置需求,公司商品期货和期权做市品种持续增加。公司以衍生品工具为载体,持续推动“中信建投中国多资产风险平价指数2.0(CARP2.WI)”“中信建投世界大类资产配置指数2.0(WARP2.WI)”及复合策略指数“中信建投世界大类资产配置宏观对冲指数2.0(WARPMACRO2.WI)”在财富管理及资产配置中的应用,同时在现有策略指数产品体系基础上,进一步丰富产品结构和策略体系,服务上市公司、金融机构等客户群体,践行金融服务实体经济和普惠金融的业务拓展理念。此外,公司不断扩展做市业务品类与规模,提升做市业务市场竞争力,目前做市品种涵盖ETF基金、期权、期货、股票等多个交易品种。股票销售业务方面,2024年公司完成27家主承销A股股票项目的销售工作,涵盖IPO项目12单、非公开发行股票项目15单,并完成可转债项目6单,累计销售金额人民币208.82亿元。公司整体股票销售业务在市场波动中保持了优势地位与市场影响力,IPO项目和股权再融资项目的主承销金额均位居行业第3名。(数据来源:公司统计、资讯)国际业务方面,中信建投国际机构销售及交易业务主要向机构客户提供交易、咨询和研究服务,并向其销售公司承销的股票。中信建投国际形成了跨行业、跨市场、跨资产类别的研究服务矩阵,不断完善针对机构客户的服务体系,进一步提升公司在香港股票二级市场的影响力,逐步建立品牌知名度。2025年发展展望2025年,公司股票交易业务将继续致力于建设专业的投研团队,紧密跟踪国内外宏观经济形势及政策变化,深入研究行业及个股机会,秉承价值投资理念进行板块和个股配置,在严格控制风险的基础之上,积极关注阶段性和结构性机会。逐步做大跨境业务规模,增加一体化收入占比。积极提升做市服务能力和质量,拓展做市业务范围,深化做市品种覆盖程度,为市场提供优质流动性服务,不断提升公司在市场中的影响力和竞争力。国际业务方面,中信建投国际将全力推进股票研究、销售及交易业务,持续拓展知名买方机构客户,进一步打造公司境外研究品牌。(2)固定收益产品销售及交易业务公司固定收益业务涵盖FICC领域的自营、做市、销售、投资顾问及相关跨境业务等,为境内外客户提供全方位、多层次、一站式综合服务,服务范围涉及利率、信用、汇率、商品、结构化产品及相关衍生品等领域,致力于成为境内外客户可信赖的产品供应商、策略供应商和交易服务供应商。2024年,公司固定收益业务积极践行金融“五篇大文章”要求,持续推进FICC业务体系建设,全面提升专业能力服务资本市场高质量发展。稳健开展自营投资,不断丰富交易品种及策略,扩大境外投资品种与规模。新落地跨境理财通“美债通”交易、H股“全流通”代客结售汇业务,开展上海碳市场首批次碳配额回购交易、湖北碳市场碳配额回购交易及其首批借碳交易,达成挂钩绿色债券、中小微企业主题债券指数的收益互换交易等,荣获上海碳市场“优秀会员奖”以及“湖北碳市场开市10周年市场先锋奖”,在服务实体经济发展、助力绿色金融和普惠金融建设方面取得显著成效。公司顺利升级成为国债期货主做市商,国债期货、上交所信用债做市排名位居同业前五名,连续3年被债券通公司评为“北向通优秀做市商”。债券销售规模位居同业第2名,在保持传统优势地位的基础上积极挖掘新增长点,分销、回转售等业务规模显著提升。投顾业务规模大幅增长,客户综合服务能力进一步提升。(数据来源:资讯、公司统计)国际业务方面,中信建投国际持续完善FICC产品矩阵与服务生态,实现业务规模稳健增长,在风险可控前提下保持良好收益水平。依托多元化销售服务体系,客户覆盖广度与客户黏性显著提升,特别是在境外一级市场承销业务快速发展、客需类结构化产品定制能力持续升级的驱动下,中信建投国际FICC业务整体销售规模迈上新台阶。2025年发展展望2025年,公司FICC业务将继续秉持“专业立足、客户至上、国际视野、追求卓越”的经营理念,围绕国家各项战略部署及证券行业发展趋势,发挥专业优势助力实体经济实现高质量发展。积极践行“专业化、国际化、数字化”发展战略,加强投资能力建设,进一步挖掘新机会、新模式、新策略,稳扎稳打做好FICC方向性与非方向性投资;不断丰富对客产品与服务,依靠科技赋能提升业务自动化、智能化水平;强化内外部协作和境内外联动,推动国际化业务迈上新台阶。国际业务方面,中信建投国际将进一步提升各类固定收益资产交易量,为境内外客户提供有力的跨市场流动性支持和一站式跨境交易解决方案,打造多资产销售服务协同平台,在稳健的风险控制下进一步拓展资产类别边界,持续优化资产组合的币种配置、区域分布及品种结构,构建更具韧性的全球资产配置体系。(3)投资研究业务公司投资研究业务主要为机构客户提供包括宏观经济、固定收益、经济及产业政策、大类资产配置、市场策略、金融工程、行业、公司等领域的研究咨询服务,主要客户包括公募基金、保险公司、全国社保基金、银行及银行理财子公司、私募基金、券商、信托公司等境内外金融机构。2024年,新“国九条”、《关于推动中长期资金入市的指导意见》以及《公开募集证券投资基金证券交易费用管理规定》等一系列政策规定相继出台,短期内公司投资研究业务的佣金收入规模和结构受到一定影响。但从中长期来看,随着资本市场活跃程度提高以及公募基金、保险资管公司、私募基金、银行理财子公司等各类机构投资者规模持续扩容,将有利于重塑行业生态、促进行业健康发展。2024年,公司发挥专业研究优势,顺应政策监管环境及机构客户市场发展趋势,着力布局前瞻性、深度性研究,同时持续深化内部各业务线间的协同合作,加快推进研究业务数字化转型进程,努力为机构客户提供优质且专业的研究服务。公司研究品牌的行业影响力不断提升,受到市场和机构客户充分认可,在中国证券报、上海证券报、证券时报等多家权威媒体组织的各类评选中分别荣获本土最佳研究所或最具影响力研究机构等重要奖项。2024年上半年,公司公募基金佣金分仓收入市场占比为5.16%,位居行业第3名(数据来源:资讯)。同时,公司还着力发挥投资研究业务的智库功能,聚焦海内外宏观政策、产业布局、区域发展、资本市场等重要领域,积极开展研究咨询工作,为经济社会与资本市场高质量发展提供了强有力的智力支持。截至报告期末,公司投资研究业务的研究、销售及运营支持团队共287人,研究业务分为10个产业大组,涵盖41个研究领域。报告期内,公司共完成证券研究报告5,966篇,其中706篇研究报告面向香港市场(含单独或两地同步)发布;为机构客户提供线上线下路演58,644次,开展调研4,730次。国际业务方面,中信建投国际继续发挥境内外研究一体化的优势,在提升海外研究深度和广度的同时,精准把握客户投资偏好,创新推出包含海外产业链深度调研等多种特色投研服务,并积极协同公司投资银行业务在海外市场的战略布局,实现跨境业务协同效应的最大化。2025年发展展望2025年,公司投资研究业务将继续胸怀“国之大者”,聚焦发展新质生产力、做好金融“五篇大文章”等重点领域,进一步完善产业链、跨行业、国际化等协同研究模式,持续推动“智研、智数、智问”三位一体的智能投研平台建设,不断提高境内外研究深度和质量,为各类机构投资者提供高质量的研究服务。同时,着力推动研究驱动发展模式,发挥研究对公司核心业务的赋能推动作用,并持续提升在国家战略重点领域的研究能力与决策支持力,更好发挥智库功能。(4)主经纪商业务公司向机构客户提供市场领先的全链条主经纪商服务,包括交易服务、账户服务、产品设计代销、机构投融资服务、资产托管服务、产品运营服务、研究服务、融资解决方案和增值服务等。公司是拥有对接业务最全面、支持主经纪商系统种类最多的证券公司之一,目前已经支持融资融券、股指期货、商品期货、股票期权、北交所、港股通、场外公募基金等市场和交易品种,为客户同时开展各类业务提供了便利和良好体验。公司主经纪商系统内嵌自主研发的算法交易平台,保持着业内领先的算法交易执行效果,得到银行、保险公司、公募基金、私募基金、企业和高净值个人等客户(含QFI业务客户)的广泛认可和信赖,北交所股票、沪深REITs和商品期货算法交易等新型服务更是满足了客户多样化的交易需求。公司自建的机构交易专用柜台,为金融机构提供独立且功能更丰富的交易通道,得到银行、公募基金、保险资管等机构客户的广泛认可。2024年,公司主经纪商业务成交量持续增长,算法交易的交易效果持续优化,客户种类和规模持续扩大。截至本报告期末,公司主经纪商(PB)服务存续客户18,665户,同比增加15.72%;共有29家公募基金公司和10家保险资管机构实盘使用本公司算法交易服务,共有234家客户使用本公司代理委托服务,合计交易350个标的。截至本报告期末,公司托管公募基金100只,公募基金托管数量位居行业第2名。截至本报告期末,公司资产托管及运营服务总规模为人民币9,683.84亿元,同比增长15.04%。其中,资产托管产品规模人民币4,676.15亿元、运营服务产品规模人民币5,007.69亿元,分别同比增长11.37%和18.69%。2025年发展展望2025年,公司将以持续满足专业机构投资者交易需求为目标,继续完善各类主经纪商系统和机构专用柜台服务,通过内嵌算法平台提高交易绩效、交易完成度及交易自动化程度,为客户提供更加便捷的交易体验。公司将紧跟市场环境和监管政策变化,进一步建设多种类、个性化的专业交易服务体系,以进一步满足各类客户的交易需求。托管业务方面,公司将以数字化转型为抓手,以智慧化运营为目标,发挥桥梁与纽带作用,助力各类基金管理人与资金提供方的资源共享,共筑“安全、稳定、高效、共赢”的托管外包生态。(5)QFI和WFOE业务公司作为QFI、WFOE在国内的经纪券商,已积累多年外资客户服务经验,始终立足于为QFI、WFOE等外资机构提供全产品、一站式金融服务。2024年,公司通过跨境一体化机构销售布局,境内外团队分工协作、属地化服务客户,持续深入挖掘QFI和WFOE业务机会。公司借助一流的证券研究服务资源加强客户粘性,持续升级完善交易系统及交易算法,不断优化开户和交易流程,丰富非交易执行的增值服务产品种类,努力提升外资客户投资和交易体验。目前,公司已经形成以丰富的证券研究服务、北京-上海双交易中心、先进的交易系统和智能的交易算法为特色的专业化外资机构投资交易服务体系。2025年发展展望2025年,在国家推动资本市场高水平开放的大背景下,公司将充分发挥中信建投国际地处香港的区域优势,深入推动跨境一体化发展,继续构建多元化的外资客户网络,加大头部外资机构的覆盖力度。不断夯实研究服务能力,提升交易系统功能,持续优化交易链路,推进业务数字化转型,致力于满足多元化交易策略的客户需求,为QFI、WFOE等外资客户提供行业领先的证券研究及交易服务。同时,公司将整合优势资源,积极协同为外资机构客户提供高层次、全方位、多元化、差异化的综合金融服务,努力以专业化服务为手段,以研究业务为支点,大力提升涵盖衍生品、融资融券、大宗交易等业务的全产品销售能力和全条线服务能力,促进客户收益最大化,提高公司的国际影响力,促进公司境内外业务的协同发展。(6)另类投资业务2024年,面对复杂的宏观经济形势和资本市场变化,中信建投投资积极作为,以服务国家战略为出发点,将服务新质生产力发展作为中心工作,不断优化投资策略,持续加强投研能力建设。在投资方向上,加大布局战略新兴产业和未来产业力度,进一步挖掘新三板、北交所投资机会,积极探索长期资产配置的大类投资机遇,多措并举拓展公司利润增长点。报告期内,中信建投投资完成项目投资19个,投资金额人民币5.67亿元;完成股权退出项目(不含科创板跟投项目)13个。2025年发展展望2025年,中信建投投资将持续优化投资布局与投资策略,完善多维度投资策略,立足战略新兴产业,积极布局未来产业,拓展长期资产配置策略,全力服务新质生产力发展。4、资产管理业务板块本集团的资产管理业务板块主要包括证券公司资产管理业务、基金管理业务及私募股权投资业务。(1)证券公司资产管理业务2024年,国务院出台新“国九条”,明确提出要加强监管、防范风险,从多个方面提升资本市场的质量和稳定性,标志着我国金融改革进入了一个新的阶段,促使资产管理行业更加注重质量和效益,推动行业向高质量发展转型。面对市场投资者对于资产管理服务和产品更加多元化和精细化的需求,券商资管机构仍需持续加强专业能力建设,提升产品创新能力,增强市场核心竞争力。2024年,公司资产管理业务践行金融为民理念,坚持“以客户为中心”,大力提升主动管理能力,发挥券商资管特色优势,完善产品线布局,为个人和机构客户提供全方位资产管理服务,客群覆盖更加多元化、精细化,通过数字化建设赋能业务发展,合规风控、运营管理能力不断提升。同时,公司有序推进资管子公司设立工作。截至报告期末,公司受托资产管理规模人民币4,948.58亿元,其中集合资产管理业务规模人民币1,120.57亿元,单一资产管理业务规模人民币1,796.05亿元,专项资产管理业务规模人民币2,031.96亿元,管理产品合计666只。国际业务方面,中信建投国际积极提升主动资产管理能力以及客户拓展能力,持续增加资产管理规模,报告期内管理的私募基金产品业绩表现优异。同时,中信建投国际凭借专业的投资能力和定制化的服务方案,持续获取优质新增客户,为业务的可持续发展奠定坚实基础。2025年发展展望2025年,公司将以打造全能型资管机构为目标,聚焦市场和客户需求,进一步完善丰富产品线,推动多元化产品布局;持续提升投研能力,加强深度研究和策略储备,多举措提升投资业绩表现;持续深化跨境一体化布局,提升跨境资产配置能力;稳步推进资管子公司设立,打造一流券商资管品牌。国际业务方面,中信建投国际将继续构建多资产类别的全谱系资管产品线,进一步开发多样性的投资策略,深化”以客户为中心”的服务理念,优化跨境服务流程,强化全球资产配置能力,致力于成为连接境内外资本市场的专业化服务窗口,为客户创造可持续的长期价值。(2)基金管理业务2024年,公募基金费率改革推动行业实现高质量发展,有力提升投资者获得感。受益于政策环境支持、市场行情反弹、产品业绩提升等因素,投资者信心逐渐回暖,行业管理规模稳步上升,屡次创下历史新高。其中,债券基金、货币基金成为规模增长的主力,ETF基金管理规模迎来爆发性增长,新发基金份额突破万亿份。公募基金不同类型的产品满足了投资者的多样化投资需求和不同风险偏好,成为资金配置的重要工具,进而为行业的稳定发展提供了有力支撑。2024年,中信建投基金以公募基金为主营业务,不断丰富产品线,积极拓展销售渠道,增强客户服务水平,着力提升产品投资业绩,为投资者持续创造收益。截至报告期末,中信建投基金资产管理规模人民币1,421.79亿元,较2023年末增长51.64%。其中,公募基金管理规模人民币941.95亿元,较2023年末增长38.21%;中信建投基金的专户产品及其基金子公司的专户产品管理规模合计人民币479.84亿元,较2023年末增长87.39%。截至报告期末,中信建投基金共管理公募基金59只。其中,28只基金的收益排名进入市场前50%,22只基金进入市场前30%,19只基金进入市场前20%,6只基金进入市场前10%,投资业绩稳定。(数据来源:资讯、公司统计)2025年发展展望2025年,中信建投基金将继续坚持以投资者利益为核心,持续提升投研能力和投资业绩,不断提质增效,强化内部治理,通过产品创新进一步扩展和丰富产品体系,加强客户服务体系建设,更好地满足投资者多样化的投资需求,提高客户的获得感与幸福感。(3)私募股权投资业务2024年,中国股权投资市场在变革中展现出蓬勃生机与无限潜力,正迈向高质量发展的新阶段。宏观经济的稳健转型与科技创新的强劲驱动,为市场注入了源源不断的活力。投资领域愈发多元,科技、医疗、新能源等战略性新兴产业成为资本追逐的焦点,推动产业升级与创新突破。国资引导基金规模持续扩大,千亿级规模的引导基金全面布局产业上下游,为市场注入强大动力。2024年,中信建投资本坚持“面向世界科技前沿、面向经济主战场、面向国家重大需求、面向人民生命健康”的战略导向,始终坚守符合金融“五篇大文章”要求的投资方向,重点关注强化国家安全、实施科技创新及推进高质量发展等蕴含着未来产业发展及投资的机遇,积极为金融强国建设贡献力量。2024年,中信建投资本既往已投项目中完成上市3单,完成项目投资金额超过人民币22亿元;新增备案基金11只,新增备案规模人民币125.01亿元,新增规模位居券商私募子公司第3名。此外,中信建投资本还首次参与完成S基金(私募股权二级市场基金)交易。截至本报告期末,中信建投资本在管备案基金80只,基金管理规模超过人民币770亿元。2025年发展展望2025年,中信建投资本将持续聚焦新质生产力领域,加大对战略性新兴产业的投资布局,积极服务实体经济,助力国家重大战略实施和重点领域安全能力建设,投资于“专精特新”中小企业等,满足企业多元化综合金融服务需求。",
+      "futureExpect": "(一)行业格局和趋势从宏观经济看,过去一年中国经济面临外部压力大、内部困难多的复杂严峻形势,经济运行面临不少挑战,但我国经济基础稳、优势多、韧性强、潜能大、长期向好的支撑条件和基本趋势没有变,高质量发展扎实推进。2025年是推动经济在质与量上协同共进、迈向新高度的重要一年。全球发展格局深度重塑,经济复苏分化加剧,外部环境的不稳定性、不确定性依然存在。国内经济长期向好的基本面始终稳固,党的二十届三中全会部署的三百多项改革举措、去年下半年以来的一揽子增量政策将持续落地,在中央经济工作会议实施更加积极有为的宏观政策引导下,更加积极的财政政策和适度宽松的货币政策将聚焦扩大国内需求,推动科技创新和产业创新融合发展,推动经济持续回升向好。从资本市场看,随着新“国九条”及资本市场“1+N”政策体系落实、落地,更加注重投资者回报的市场生态进一步形成:一是资本市场将更加注重投融资平衡,优先保护投资者特别是中小投资者合法权益;二是突出“稳”与“进”的统筹,着力增强资本市场内在稳定性,健全维护资本市场平稳运行的有效机制;三是大力推动提升上市公司可投性,完善上市公司质量评价标准。在此背景下,证券行业将呈现以下特点:一是居民财富配置多元化需求将推动财富管理业务向个性化、智能化转型,围绕养老金融、绿色金融等新兴领域的产品和服务将成为新的业务增长点。二是受企业融资节奏影响,投行业务仍将面临一定压力,但随着经济复苏与资本市场改革深化,股权融资需求将逐步释放。三是数字化转型深入推进,金融科技在证券行业的应用场景不断拓展,从智能客服、智能投研到全面提升运营效率和客户体验,数字化能力将构成券商核心竞争力。四是中资券商国际化进程加速,中国企业“出海”和外资“投资中国”从需求侧助推中资券商国际化,资本市场双向开放政策的持续深化也为券商国际化提供了更好的基础设施和制度条件。五是行业整合趋势逐步显现,随着一流投资银行建设步伐加快,部分证券公司通过并购重组优化业务结构,行业集中度将进一步提高。展望2025年,证券行业有望在提升服务实体经济能力的深入实践中加速创新转型,迈向高质量发展新阶段。(二)公司发展战略公司旨在成为一家客户信赖、员工认同、股东满意的中国一流投资银行。公司牢记“汇聚人才,服务客户,创造价值,回报社会”的使命,强调“以人为本、以邻为师、以史为鉴”的经营哲学。公司坚持正确而清晰的战略方向,坚持发展速度与质量的平衡,坚持把风险管理放在重要位置,坚持先人后事和五湖四海的用人理念,坚持走健康发展之路。公司期望通过建立长期有效战略,致力提升客户服务能力,更好服务国家战略与实体经济,实现自身与证券行业共同的高质量发展。为实现以上愿景,公司将巩固价值创造能力领先的优势,着重加强客户开发和客户服务工作,提高服务质量;强化人才战略,提升队伍素质;增强资本和资金实力,做优做大资产负债表;提升信息技术能力,推进公司数字化转型;持续完善合规风控能力,确保公司健康发展;不断加强现代管理和运营能力,提升效率和效益。(三)经营计划2025年是“十四五”规划的收官之年,公司将继续坚持和加强党的领导,弘扬中国特色金融文化;深入落实巡视整改工作,巩固审计整改成效;深化“五篇大文章”机制,服务实体经济提质增效;全面落实“一个客户”理念,做好客户协同服务;加强统筹,推动财富管理和资产管理互促互进;做强香港业务,跨出国际化布局关键一步;筑牢底线思维,夯实风险合规管理架构;加强顶层设计,提升数字化转型能力;强化“一流人才”建设,提升人才战略适配度。"
+    },
+    {
+      "reportDate": "2023-12-31",
+      "businessReview": "截至2023年12月31日,本集团总资产人民币5,227.52亿元,较2022年12月31日增长2.66%;归属于本公司股东的权益为人民币974.78亿元,较2022年12月31日增长4.53%;报告期本集团营业收入合计为人民币232.43亿元,同比减少15.68%;归属于本公司股东的净利润为人民币70.34亿元,同比减少6.45%。投资银行业务板块实现营业收入合计人民币48.03亿元,同比减少17.73%;财富管理业务板块实现营业收入合计人民币60.66亿元,同比减少1.20%;交易及机构客户服务业务板块实现营业收入合计人民币80.17亿元,同比增长19.22%;资产管理业务板块实现营业收入合计人民币14.63亿元,同比减少12.95%。截至2023年12月31日,公司主要经营财务数据1.投资银行业务板块(1)股权融资业务2023年,全市场共发行股权融资项目611家,同比下降18.53%,募集资金人民币7,719.35亿元,同比下降35.19%。其中,IPO项目314家,同比下降24.52%,募集资金人民币3,589.71亿元,同比下降31.27%;股权再融资项目297家,同比下降11.08%,募集资金人民币4,129.64亿元,同比下降38.25%。(数据来源:资讯,按发行日统计,不含资产类定向增发)2023年,公司完成股权融资项目67家,主承销金额人民币947.76亿元,均位居行业第2名。其中,IPO主承销家数33家,主承销金额人民币407.54亿元,分别位居行业第2名、第3名;完成股权再融资34家,主承销金额人民币540.22亿元,分别位居行业第2名、第3名。公司保荐央企IPO项目4家,连续五年位居行业第1名。公司切实发挥金融支持实体经济的作用,积极围绕国家战略开展业务。服务战略性新兴产业IPO项目30家,服务国家级专精特新“小巨人”企业IPO项目15家,科创板、创业板、专精特新“小巨人”企业IPO保荐家数均位居市场第1名。服务企业包括国内主要的锂离子电池正极材料供应商湖南裕能、电子特种气体龙头企业中船特气、国内防空预警雷达引领者航天南湖、国内领先的模拟和嵌入式芯片设计企业南芯科技、MEMS(微机电系统)惯性传感器龙头企业芯动联科、集成电路高端先进封装测试服务商颀中科技,以及储能电池系统提供商派能科技、光伏新能源企业东方日升、新能源汽车产业开拓者北汽蓝谷等。公司继续践行乡村振兴战略、促进共同富裕,协助位于曾是国家扶贫开发工作重点县、深度贫困县凉山州木里藏族自治县的发行人四川黄金完成首次公开发行股票项目。此外,公司还完成可转债项目8家,主承销金额人民币135.38亿元。(数据来源:资讯、公司统计)2023年,公司完成新三板挂牌13家,完成新三板挂牌企业定增21单,募集资金人民币5.20亿元;截至报告期末,持续督导新三板创新层企业51家。(数据来源:全国股转公司、Choice金融终端)项目储备方面,截至报告期末,公司在审IPO项目61家,位居行业第2名;在审股权再融资项目(含可转债)24家,位居行业第2名。(数据来源:中国证监会、沪深交易所、资讯、公司统计)国际业务方面,2023年,中信建投国际在香港市场共参与并完成IPO保荐项目8家,股权融资规模83.27亿港元。2024年发展展望2024年,投资银行业务挑战和机遇并存。中央金融工作会议提出优化融资结构,更好发挥资本市场枢纽功能,推动股票发行注册制走深走实。2024年3月,中国证监会集中发布《关于严把发行上市准入关从源头上提高上市公司质量的意见(试行)》等四项政策文件,为投资银行业务的高质量发展明确了方向。公司将深入贯彻中央金融工作会议精神,积极落实中国证监会系列政策,全面服务国家战略布局,不断提升服务实体经济质效,努力打造一流投资银行。股权融资业务方面,持续提升项目甄别、估值定价、保荐承销能力,强化质量控制工作,做好资本市场“看门人”;进一步深化“行业+区域+产品”的矩阵式布局,坚持“以客户为中心”,为客户提供全生命周期、全产品的优质服务,当好直接融资“服务商”;聚焦科技创新,服务高水平科技自立自强,助力新质生产力加快形成;以北交所深化改革为契机,大力支持专精特新中小企业创新发展。同时,在合法合规前提下,加强与投资等公司其他业务的协同发展,进一步提升金融服务高质量发展的能力。国际业务方面,中信建投国际将持续推进内地和香港投行一体化工作,继续拓展在香港市场的业务范围,实现中概股回归、港股私有化、跨境收购等不同类型产品的多样化发展,进一步增强全方位服务客户的能力。(2)债务融资业务2023年,债券市场收益率水平呈现震荡格局,债券融资成本整体呈下降趋势。全市场信用债(扣除同业存单)发行规模人民币187,909.49亿元,同比增长5.62%。2023年,公司债务融资业务继续保持良好发展势头,共计完成主承销项目3,280单,主承销规模人民币15,457.06亿元,双双位居行业第2名。其中,公司债主承销项目1,007单,位居行业第1名,主承销规模人民币4,179.67亿元,位居行业第2名。(数据来源:中国证券业协会、资讯)2023年,公司积极落实国家重大战略政策,主承销绿色债券105只,主承销规模人民币626.21亿元,其中碳中和专项债21只,主承销规模人民币77.02亿元。公司牵头主承销的中广核风电粤港澳大湾区绿色科技创新公司债券(蓝色债券),有利于推进海洋风能资源的可持续利用,助力粤港澳大湾区能源结构和布局的进一步优化。由公司作为计划管理人和财务顾问、中信建投基金作为基金管理人的中信建投国家电投新能源REIT项目,是以优质大型海上风电项目及配套运维驿站作为标的资产发行的全国首单海上风电基础设施公募REITs项目,也是全国首单央企新能源基础设施公募REITs项目。公司主承销科技创新公司债及科创票据148只,主承销规模人民币645.60亿元。公司主承销科技创新公司债券家数、金额均位居行业第2名。(数据来源:中国证券业协会)国际业务方面,2023年,中信建投国际在离岸市场参与并完成债券承销项目105单,承销规模2,238亿港元,其中全球协调人项目共44单,承销规模719亿港元。2024年发展展望2024年,公司在开展债务融资业务时将持续深入贯彻执行公司“十四五”规划要求,聚焦高质量发展。公司将深入推进“行业+区域+产品”的矩阵式布局,不断完善客户服务体系,持续加强业务风险防控,保持稳定的项目储备,不断开拓创新业务,实现品种齐全、均衡发展的发展格局,不断提升债务融资业务的整体实力。国际业务方面,中信建投国际在境外债项目中将继续为企业提供优质的产品服务,不断拓展评级顾问和绿色结构顾问服务,丰富债务融资衍生产品,持续发挥境内外团队一体化战略合作优势,拓宽与企业的合作领域,打造境外债全链条服务能力。(3)财务顾问业务2023年,A股上市公司合计完成发行股份购买资产及重大资产重组项目78单,交易金额人民币3,190.08亿元。其中,公司完成发行股份购买资产及重大资产重组项目9单,位居行业第3名;交易金额人民币696.09亿元,位居行业第2名。项目储备方面,截至报告期末,公司在审及审结尚未完成项目2单,位居行业第4名。(数据来源:资讯、公司统计)国际业务方面,截至本报告期末,中信建投国际在香港市场参与并完成财务顾问类项目4单。2024年发展展望2024年,公司将坚持以客户为中心,加大央企、国企以及产业龙头客户并购业务的投入力度,努力把握符合国家产业政策的国资整合和行业并购重组机遇,巩固在上市公司破产重整财务顾问领域的优势,同时在跨境业务方面积极作为,不断提升公司并购业务的市场影响力和全面综合化服务能力,通过并购重组财务顾问服务助力上市公司实现高质量发展。国际业务方面,中信建投国际将继续拓展跨境收购、上市前引战融资和私有化等业务。2.财富管理业务板块(1)经纪及财富管理业务2023年,沪深A股市场股票基金日均交易量人民币8,131亿元,同比下降8%(数据来源:沪深交易所)。全年来看,上证指数主要宽基指数行情承压,两市成交量波动较大,投资者对股票交易和权益理财的态度更为审慎,经纪业务经营面临挑战。2023年,公司积极整合资源,打造客户综合服务平台及业务生态链,继续坚持以客户为中心,通过提升服务水平和丰富服务手段,持续增强经纪业务核心竞争力,努力满足客户多层次、多样化的财富管理需求。证券经纪及财富管理业务方面,公司以“让财富保值增值不再困难”为使命,持续加大客户开发、产品销售、专业交易客户服务的力度,完善运营体系建设,加快科技赋能步伐,打造财富铁军队伍,持续推进财富管理转型工作,为顺利完成公司“十四五”规划打下坚实基础。公司在财富管理领域进一步加强客户开发与产品布局,实现客户规模与产品收入双增长。截至2023年末,公司证券经纪业务新开发客户121.76万户,累计客户总数1,337.32万户,同比增长10.20%,客户总资产人民币5.14万亿元;代销金融产品收入同比增长3.97%,金融产品保有规模同比增长2.37%。同时,经过多年来的稳步发展,经纪业务的收入结构更加均衡,产品类业务收入在证券经纪业务收入的占比由2019年的20.63%提升至2023年的42.99%,处于行业领先水平。公司不断优化移动交易客户端“蜻蜓点金”APP的客户体验,客户月均活跃数位居行业第7名;继续强化股票投顾服务业务领先优势,基金投顾业务进展良好;持续优化金融产品体系,不断完善各类产品供给。截至本报告期末,公司下辖317家经纪业务分支机构(不含上海自贸区分公司),57%集中在五省二市(北京、上海、广东、福建、浙江、江苏和山东),其中北京地区分支机构55家,是北京地区设立营业网点最多的证券公司。公司营业网点数量众多且分布有序,为财富管理业务的稳健发展奠定坚实基础。期货经纪及财富管理业务方面,2023年,我国期货市场明显回暖,累计成交量和成交额分别为85.01亿手、人民币568.51万亿元,同比分别增长25.60%、6.28%。中信建投期货在近年来取得的良好发展基础上,持续提升互联网营销及协同合作水平,实现了主要财务指标和业务指标的持续向好发展。2023年,中信建投期货营业收入和净利润均取得历史最好成绩,实现代理交易额人民币20.69万亿元,同比增长39.18%;新增客户数同比增长28.78%;期末客户权益规模同比增长17.08%;期末资产管理规模位居行业第2名。截至本报告期末,中信建投期货设有29家分支机构,并在重庆设有风险管理子公司,为期货经纪及风险管理业务的发展打下了坚实的基础。国际业务方面,2023年,中信建投国际累计代理股票交易金额721.35亿港元;新增客户232户,截至本报告期末,累计客户数25,907户,客户托管股份总市值236.08亿港元。2023年,中信建投国际及时调整业务发展策略,深化集团协同合作,加强高净值个人客户和公司机构类业务开发,加强金融产品销售能力建设,交易量排名显著提升,2023年三季度交易量首次进入香港交易所B组券商行列,市场认可度不断提高。2024年发展展望证券经纪及财富管理业务方面,公司将聚焦本源、创新升级,持续提升证券经纪业务收入和重点地区市场份额,强化科技赋能,优化服务体系,提升运营效率,防范经营风险,夯实“好投顾、好产品、好交易”三大品牌竞争力,努力做好社会财富“管理者”,不断推进财富管理高质量发展。期货经纪及财富管理业务方面,2024年,随着《期货和衍生品法》及其配套制度的全面落地,期货公司在资本、人员、专业能力、风控等方面面临更高、更全面的监管要求和更激烈的竞争。聚焦服务实体经济依然是全行业最主要的发展方向。中信建投期货将以“找准定位,做强专业,强化服务,守住底线”为总体发展要求,围绕服务实体经济,提升服务质量,探索适合自身的发展方向。国际业务方面,中信建投国际将继续坚定主业,借助公司品牌和境内外一体化业务平台的优势,做好公司证券业务境外平台的建设工作,在以稳定发展、寻求突破为目标的前提下,不断丰富境外业务和产品种类,提高团队的专业化和国际化水平,优化海外资产配置能力,助力客户实现全球资产的保值增值目标。(2)融资融券业务2023年,全市场融资融券业务规模有所上升。截至本报告期末,沪深两市融资融券余额人民币16,508.96亿元,同比上升7.17%。截至本报告期末,公司融资融券余额人民币589.97亿元,市场占比3.57%,整体维持担保比例为290.59%;融资融券账户18.34万户,同比增长4.04%。(数据来源:资讯、公司统计)国际业务方面,2023年港股市场融资规模有明显回落。在行情回落时,中信建投国际严格遵守监管机构和公司制定的各项融资类业务风险管理政策和规定,做好客户信用和持仓证券的管理监控,在满足客户融资需求的同时,严格控制风险。截至本报告期末,中信建投国际孖展融资业务余额1.60亿港元。2024年发展展望2024年,公司融资融券业务将着力提升对高净值客户的服务深度,通过拓展业务渠道、增强内部协同、丰富业务模式等举措进一步提升专业化的综合服务能力;同时推动金融科技成果转化,打造客户线上服务生态,推动产品服务体系、数字化运营体系建设,为客户提供多样化、智能化、个性化的产品服务。国际业务方面,中信建投国际将重点挖掘优质交易型的融资类客户需求,严格把控客户质量和抵押品质量,在贯彻公司风险控制优先原则的基础上,进一步优化多市场多品种的融资业务。(3)回购业务2023年,市场股票质押式回购业务平稳健康发展。截至本报告期末,公司股票质押式回购业务本金余额人民币88.20亿元。其中,投资类(表内)股票质押式回购业务本金余额人民币55.18亿元,平均履约保障比例248.35%;管理类(表外)股票质押式回购业务本金余额人民币33.02亿元。(数据来源:公司统计)2024年发展展望2024年,公司将在确保风险可测、可控、可承受的前提下,稳健、审慎开展股票质押式回购业务。公司将加速资源整合,为战略客户提供综合金融服务;依托自身投研能力,加大对上市公司的风险识别,持续防范业务风险;通过内部精细化管理,持续提升公司股票质押式回购业务的资产质量。3.交易及机构客户服务业务板块本集团的交易及机构客户服务业务板块主要包括股票销售及交易业务、固定收益产品销售及交易业务、投资研究业务、主经纪商业务、QFI和WFOE业务,以及另类投资业务。(1)股票销售及交易业务公司股票销售及交易业务主要向机构客户提供交易、咨询和研究服务,并向其销售由本公司承销的股票。公司亦从事自营交易及做市业务,品种涵盖股票、基金、ETF、股指期货、商品期货、期权、收益互换等金融衍生品,为客户提供与各类资产挂钩的定制化期权及掉期产品,满足机构客户的对冲及投资需求。股票交易业务方面,2023年在A股市场整体高波动、结构分化明显的环境下,公司股票交易业务坚持绝对收益的业务定位,强化风险控制。衍生品交易业务方面,公司进一步扩充投资交易品种,拓展做市服务范围,为交易所的股票、基金、期权、期货等品种提供流动性做市服务;稳步推进场外衍生品业务,不断加强数字化建设,满足客户资产配置及风险管理需求;积极拓展跨境衍生品业务,为海内外客户提供全球资产配置服务和风险管理服务,交易品种覆盖国际主流市场;不断完善以“中信建投世界大类资产配置宏观对冲指数(WARPMACRO)”为代表的策略指数产品体系,通过持续提升产品设计能力为客户提供多元化的产品服务和交易服务。股票销售业务方面,2023年公司完成67单主承销股票项目的销售工作,累计销售金额人民币947.76亿元,涵盖33单IPO项目、33单非公开发行股票项目、1单配股项目的销售工作,并完成8单可转债项目。公司整体股票销售业务再创佳绩,完成多单有较高市场影响力的项目,IPO项目和股权再融资项目的承销金额均排名行业第3名。(数据来源:公司统计、资讯)国际业务方面,2023年,中信建投国际机构销售及交易业务主要向机构客户提供交易、咨询和研究服务,并向其销售公司承销的股票。中信建投国际形成了跨行业、跨市场、跨资产类别的投资研究服务矩阵,不断完善针对机构客户的服务体系,进一步提升公司在香港股票二级市场的影响力,逐步建立品牌知名度。截至报告期末,中信建投国际机构销售与交易业务累计机构客户数528户,2023年累计实现机构客户股票交易量464.74亿港元。2024年发展展望2024年,公司股票交易业务将继续紧密跟踪国内外宏观经济形势及政策变化,深入研究行业及个股机会,秉承价值投资理念进行板块和个股配置,在严格控制风险的基础上,积极关注阶段性和结构性机会,并稳步推进投资品种的多元化。为满足客户的资产配置及风险管理需求,公司将积极推进场外衍生品业务开展,持续推进跨境业务,不断丰富策略指数产品体系,提供满足各类客户需求的解决方案,继续拓展做市领域的资源投入,完善自有资金投资体系。国际业务方面,中信建投国际将全力推进境外投研业务对股票销售及交易业务的支持力度,进一步打造公司境外投资研究品牌。(2)固定收益产品销售及交易业务公司固定收益业务涵盖FICC领域的自营、做市、销售、投资顾问及相关跨境业务等,为境内外企业和机构客户提供全方位、多层次、一站式综合服务,服务范围涉及利率、信用、汇率、商品、结构化产品及相关衍生品等领域。2023年,国内经济企稳回升、政策持续发力,海外通胀压力缓和、货币紧缩政策逐步进入尾声;境内债券市场流动性整体宽松,利率债呈现震荡下行态势,信用利差全面压缩,全年中债综合财富指数涨幅4.78%。2023年,公司固定收益业务稳步推进买方投研与客需交易“双平台”体系建设。公司继续保持债券销售业务行业领先地位,信用债销售规模位居国内金融机构第2名(数据来源:彭博资讯),并在依托债券产品业务传统优势的基础上,大力发展非方向性交易,中性、量化策略不断迭代升级;持续丰富衍生品、外汇、商品等相关FICC产品类型,外汇、黄金交易量均位居同业前列;新获自营参与碳排放权交易业务资格,在上海、湖北碳市场完成多笔碳配额交易。公司坚持“服务实体经济”“以客户为中心”等理念,全力布局客需交易平台,新落地“乡村振兴”和“绿色金融”主题的债券指数收益互换业务,完成6只实体企业债券的信用保护工具,助力资本市场发挥在社会责任和绿色发展方面的资源配置作用。完成横跨银行间、沪深交易所以及国债期货市场的做市全版图构建,公司自主研发的做市系统助推国债期货全年做市量超人民币3万亿元名义本金;新开展交易所债券做市业务,全年做市量超人民币2万亿元;银行间市场交易量超人民币11万亿元,连续2年被债券通公司评为“北向通优秀做市商”。推出衍生品投顾服务丰富“固收+”策略类型,进一步提升财富管理服务能力。大力推动FICC智能平台建设,运用人工智能算法推荐销售债券,面向投顾客户开放自研平台打造客群生态,全面提升客户体验。国际业务方面,固定收益业务一体化管理及协同日趋稳健,内部运营运转顺畅。FICC多资产投资业务规模稳步增加,投资收益率表现稳健,投资品种日益丰富。销售与交易业务服务质量进一步提升,做市交易和代客交易日趋活跃,境内外客户覆盖程度深化。跨境收益互换、结构化票据等多种产品业务逐步向客需服务转型,业务类型进一步完善,中性策略收入提升。2024年发展展望2024年,公司FICC业务将继续秉持“专业立足、客户至上、国际视野、追求卓越”的经营理念,围绕国家各项战略部署及证券行业发展导向,发挥专业优势服务实体经济高质量发展;持续迭代推进投研及客需交易平台建设,不断丰富对客产品与服务图谱,积极践行“专业化、国际化、数字化”的发展战略,致力于成为境内外客户可信赖的产品供应商、策略供应商和交易服务供应商。国际业务方面,中信建投国际将秉承在一贯的风险可控原则上增厚投资业务收益,同时进一步提升服务质量,为境内外客户提供多元化的解决方案;加强一级市场债券承销业务项目的销售工作,拓展客户范围,深耕客户需求,维护中资美元债承销排名;深化客需业务的转型发展,丰富产品线,不断精细业务流程。(3)投资研究业务公司研究业务主要为机构客户提供包括宏观经济、固定收益、策略、金融工程、大类资产配置、基金研究、行业研究等领域的研究咨询服务。公司主要客户包括公募基金、保险公司、全国社保基金、银行及银行理财子公司、私募基金、券商、信托公司等境内外金融机构等,为其提供研究报告及各类个性化研究咨询服务。2023年,公司加强研究深度,提升产业链研究协同,积极组织各类产业链主题调研,大力提升战略客户覆盖率,对重点客户的服务频次大幅增长,强化收入来源的多元化,同时利用信息化率的提高进一步增强业务管理的精细化和合规管理的有效性,持续优化业务管理流程,提高数据统计、共享与分析功能。截至本报告期末,公司研究及销售团队共292人,研究业务分为10个产业大组,涵盖38个研究领域。报告期内,公司共完成证券研究报告6,685篇,其中有714篇研究报告面向香港市场(含单独或两地同步)发布,全面覆盖“中特估”“人工智能”和“数字经济”等市场热点;为机构客户提供线上线下路演53,268次,开展调研7,835次,并成功组织包括“聚势而起·2024年度资本市场峰会”“春暖花开·鹏程万里”春季资本市场峰会和“聚力新格局,共迎新机遇”中期资本市场峰会等大型会议及其他各类专业研究服务活动。2023年上半年,公司公募基金佣金分仓收入市场占比为5.12%,位居行业第2名(数据来源:资讯)。国际业务方面,境内外研究一体化实施以来,公司充分调动两地研究资源持续服务境外机构客户,发挥国际化人才队伍优势,建立英文产品体系,系统性推进海外优质标的覆盖。公司针对境外机构客户的投资偏好和研究需求提供优质投研服务,配合境外机构销售团队积极覆盖外资机构客户,落实行业首席分析师常态化赴香港路演机制,并积极协同公司一级市场业务线共同提升中信建投国际在香港市场的影响力。2024年发展展望2024年,公司研究业务将切实把握好当前宏观经济温和复苏下的市场结构性机会,加强对数字化、人工智能、高端制造和ESG等领域的研究,不断提高研究业务覆盖的广度和深度。在内外部环境复杂变化及公募基金佣金呈现下降趋势的背景下,公司将进一步加强投资研究业务的金融科技投入,提升合规管理的信息化水平,强化数据沉淀和共享,通过信息手段提升研究员基础工作效率,并通过数据归集和共享降低成本,丰富数字资产,提升数字化服务客户水平;提升多元化盈利能力,增加国际业务创收。(4)主经纪商业务公司向机构客户提供市场领先的全链条主经纪商服务,包括交易服务、账户服务、产品设计代销、机构投融资服务、资产托管服务、产品运营服务、研究服务、融资解决方案和增值服务等。公司是拥有对接业务最全面、支持主经纪商系统种类最多的证券公司之一,目前已经支持融资融券、股指期货、商品期货、股票期权、北交所、港股通、场外公募基金等市场和交易品种,为客户同时开展各类业务提供了便利和良好体验;主经纪商系统内嵌自主研发的算法交易平台,保持着业内领先的算法交易执行效果,得到银行、保险公司、公募基金、私募基金、企业和高净值个人等客户(含QFI业务客户)的广泛认可和信赖,北交所股票、沪深REITs和商品期货算法交易等新型服务更是满足了客户多样化的交易需求。公司自建的机构交易专用柜台,为金融机构提供独立且功能更丰富的交易通道,得到银行、公募基金、保险资管机构客户的广泛认可。2023年,公司主经纪商业务成交量持续增长,算法交易的交易效果持续优化,客户种类和规模持续扩大。截至本报告期末,公司主经纪商(PB)系统存续客户数为12,953户,同比增加38.71%;共有31家公募基金公司和10家保险资管机构实盘使用本公司算法交易服务,共有193家客户使用本公司代理委托服务,合计交易266个标的。截至本报告期末,公司托管88只公募基金,公募基金托管数量位居行业第1名。截至本报告期末,公司资产托管及运营服务总规模为人民币8,417.94亿元,同比增长5.83%。其中,资产托管产品6,132只、运营服务产品6,405只,分别同比增长5.56%和6.73%。2024年发展展望2024年,公司将以持续满足专业机构投资者交易需求为目标,继续完善各类主经纪商系统和机构专用柜台服务,通过内嵌算法平台提高交易绩效、交易完成度及交易自动化程度,为客户提供更加便捷的交易体验。公司将紧跟市场环境和监管政策变化,进一步建设多种类、个性化的专业交易服务体系,以进一步满足各类客户的交易需求。托管业务方面,公司将坚持“严谨、专业、高效”的运营服务理念,推动托管业务数字化转型,以“平台赋能、协同行动、精准对接”为抓手,发挥多业务联动优势,打造“托管+”新业态。(5)QFI和WFOE业务公司作为QFI、WFOE在国内的经纪券商,已积累多年外资客户服务经验,始终立足于为QFI、WFOE等外资机构提供全产品、一站式金融服务。2023年,公司通过跨境一体化销售、扩充QFI/WFOE交易团队,持续深入挖掘QFI和WFOE业务机会,借助一流的证券研究服务资源加强客户粘性,持续升级完善交易系统及交易算法,不断优化开户和交易流程,努力提升外资客户投资和交易体验。目前,公司已经形成以丰富的证券研究服务、北京-上海双交易中心、先进的交易系统和智能的交易算法为特色的专业化外资机构投资交易服务体系。2024年发展展望2024年,在金融双向开放的大背景下,公司将充分发挥香港子公司中信建投国际的地域优势,深入推动跨境一体化发展,继续构建多元化的外资客户网络,加大交易服务能力建设,致力于为QFI、WFOE等外资客户提供行业领先的证券研究及交易服务。同时,公司将整合优势资源,积极协同为外资机构客户提供高层次、全方位、多元化、差异化的综合金融服务,努力以专业化服务为手段,以研究业务为支点,大力提升涵盖衍生品、融资融券、大宗交易等业务的全产品销售能力和全条线服务能力,促进客户收益最大化,提高公司的国际影响力,促进公司境内外业务的协同发展。(6)另类投资业务2023年,中信建投投资秉承“行稳致远”原则和“服务实体经济、服务科技创新、服务经济转型、服务国家战略”理念,聚焦以股权投资为主、泛股权投资及创新投资业务为辅的投资范围,在严控项目质量的前提下,有序做好项目开发、储备及投资布局工作。报告期内,中信建投投资完成项目投资26个(其中科创板IPO跟投项目10个),投资金额人民币13.35亿元。2024年发展展望2024年,中信建投投资将在坚持自身战略定位与投资理念的基础上守正创新,适时优化投资布局与投资策略,探索前沿科技投资、长期资产持有等创新投资策略,进一步完善对科技创新及国家战略的支持,同时提升资产组合的总体平衡性,增强抵御市场周期与波动的能力。4.资产管理业务板块本集团的资产管理业务板块主要包括证券公司资产管理业务、基金管理业务及私募股权投资业务。(1)证券公司资产管理业务2023年,我国金融改革持续深化、多层次资本市场体系不断完善、资产管理业务制度体系不断健全,行业进入高质量发展的新阶段。同时,受监管规则趋严、市场行情波动等因素影响,资产管理行业的发展面临较多挑战,行业经历资金端、策略端、产品端等多个层面的结构化调整,券商资管机构需要持续加强投研核心能力建设,稳步提升产品创新能力,推动金融科技应用,发挥全业务链优势,形成差异化发展路径,推动业务高质量发展。2023年,公司资产管理业务坚持“以客户为中心”理念,大力提升主动管理能力,注重发挥券商资产管理独特优势,全面布局产品线,打造特色产品谱系,提供产品全策略、多元化服务,满足投资者不同期限、策略和风险偏好需求,市场营销和客户服务水平显著提升。同时,公司有序推进资管子公司设立工作。截至报告期末,公司受托资产管理规模人民币4,694.00亿元,包括集合资产管理业务、单一资产管理业务和专项资产管理业务,规模分别为人民币1,207.36亿元、人民币1,604.23亿元和人民币1,882.42亿元,管理产品合计648只。国际业务方面,中信建投国际积极提升主动管理能力以及客户拓展能力,增加资产管理规模。在2023年港股和中资美元债市场均经历了市场大幅波动的市场情况下,中信建投国际稳扎稳打,在符合风控要求的规范下稳健运行,管理的私募基金产品业绩良好。同时积极拓展客户资源,在市场竞争激烈的情况下开发优质新客户,增加资产管理规模,确保业务稳步向前发展。截至报告期末,中信建投国际的资产管理类业务规模约为10,510万美元,其中债券类投资管理规模约为570万美元,平衡型基金管理规模约为1,940万美元,专户管理规模约为8,000万美元。2024年发展展望2024年,公司将持续提升主动管理能力,以打造全能型资管机构为目标,加强投研体系建设和投研人才培养,推动研究成果向优秀投资业绩转化,聚焦市场和客户需求,持续提升客户服务能力,深耕渠道服务体系,推动新产品、新策略落地,全面梳理品牌宣传体系,提升品牌认可度。未来,公司将稳步推进资管子公司设立和运行工作,持续提升市场竞争力和影响力。国际业务方面,中信建投国际将继续积极建立全面的资管产品线,为客户提供优质服务,做好海外资产管理业务的服务窗口。(2)基金管理业务2023年,公募基金行业受权益市场影响出现较大波动,但未来依然存在众多机遇。2023年,非货币公募固收基金市场保持了持续增长的态势,尤其在投资策略、产品创新以及风险管理等方面均取得了显著进步。该增长不仅反映了投资者对固收类基金的信任和认可,也体现了基金行业在资产配置和风险管理方面专业能力的提升。其中,中长期信用债基金依然是市场的主体,其规模和数量均占据重要地位。同时,其他类型的基金,如主动利率债基金和“固收+”基金等也呈现出良好的发展态势。不同类型的基金满足了投资者多样化的投资需求和风险偏好,为市场的稳定发展提供了有力支撑。2023年,中信建投基金以公募基金为主营业务,着力在公募基金产品的投资、销售、服务等方面提升市场竞争力,积极调整业务结构,开拓新业务,不断丰富产品体系。截至本报告期末,中信建投基金资产管理规模人民币937.59亿元,其中公募产品管理规模人民币681.52亿元,同比增长20.71%;专户产品管理规模人民币254.94亿元,同比下降44.46%;ABS产品管理规模人民币1.13亿元,同比下降47.22%。截至本报告期末,中信建投基金共管理公募基金54只(含2023年新成立的7只产品),管理规模人民币681.52亿元。在参与排名的47只公募基金产品中有30只排名进入市场前50%,其中19只进入市场前20%、10只进入市场前10%。(数据来源:资讯、公司统计)2024年发展展望2024年,中信建投基金将继续坚持以投资者利益为核心,努力提升投研能力和投资业绩,扩展和丰富产品线,深耕各销售渠道,加强客户体系建设,强化内部治理,实现管理规模的平稳增长和客户财富的保值增值,打造专业化与特色化兼具的资产管理机构。(3)私募股权投资业务2023年,我国私募股权市场展现出稳健发展态势。中央经济工作会议首次提出“鼓励发展创业投资、股权投资”,并视其为“以科技创新引领现代化产业体系建设”的重要资本力量,有力支持了私募股权市场健康发展。2023年,中信建投资本积极围绕建设现代化产业体系和高质量发展的产业方向进行布局,持续提升投研能力与投资业绩。2023年,中信建投资本完成项目投资超过人民币40亿元,已投项目中完成上市6单,过会7单。新增备案基金13只,新增备案规模人民币116亿元。截至本报告期末,中信建投资本在管备案基金73只,基金管理规模超人民币650亿元。截至2023年末,中信建投资本月均实缴规模位居券商私募子公司第5名(数据来源:中国基金业协会)。2024年发展展望2024年,中信建投资本将继续坚持服务实体经济的出发点与落脚点,牢记金融服务实体经济的初心使命,加大对科技创新、“专精特新”、绿色低碳等重点领域的参与力度,助力科技创新高质量发展,展现国有投资机构的使命担当。",
+      "futureExpect": "(一)行业格局和趋势在过去一年里,中国经济在持续承压中走出一条回升向好的复苏曲线,虽然发展面临的形势错综复杂,国际政治经济环境不利因素增多,国内周期性和结构性矛盾叠加,但中国经济韧性强、潜力大、活力足等特点也同步存在,各项政策效果持续显现。2023年,沪深A股市场股票基金日均交易量人民币8,131亿元,资本市场服务实体经济质效不断提升,全市场共发行股权融资项目611家,募集资金人民币7,719.35亿元。(数据来源:沪深交易所、资讯,按发行日统计,不含资产类定向增发)2024年是巩固和增强经济回升向好态势,持续推动经济实现质的有效提升和量的合理增长的关键一年。世界发展格局正在经历深刻变革,全球经济周期错位、地缘政治矛盾突出,外部环境的复杂性、严峻性和不确定性进一步上升。从长期看,中国正以一往无前的奋斗姿态向第二个百年目标迈进,市场空间广阔、产业体系完备、物质基础雄厚,是世界经济稳定增长的重要引擎,经济长期向好的基本趋势没有改变。2023年下半年以来,围绕“活跃资本市场,提振投资者信心”的一揽子政策陆续出台,体现了党中央对资本市场的高度重视和殷切期望。随着中央金融工作会议、中央经济工作会议,以及省部级主要领导干部推动金融高质量发展专题研讨班等的相继召开,在“金融强国”目标指引下,资本市场改革建设任务愈发清晰。“更好发挥资本市场枢纽功能”“发展多元化股权融资”“推动股票发行注册制走深走实”“促进债券市场高质量发展”“大力提高上市公司质量”和“培育一流投资银行和投资机构”等一系列任务、举措逐渐明确。与过去相比,资本市场将更加聚焦“功能性”,具体来看:一是坚持高质量发展和高水平安全的良性互动,资本市场“稳预期”“防风险”摆在了更加突出的位置,金融机构要进一步积极配合化解城投债、房地产企业等各类风险,同时也要高度关注自身经营环节与其他金融主体的关联性,牢牢守住不发生系统性风险的底线,紧握发展主动权。二是坚持服务实体经济的根本宗旨,围绕“五篇大文章”为经济社会发展提供高质量的金融服务,引导和服务更多社会资源用于促进科技创新、先进制造、绿色发展和中小微企业。三是更加注重促进投融资的动态平衡,从投融资两端双向发力,不断引导中长期资金入市、鼓励机构投资者逆市布局,壮大“耐心资本”“长期资本”和“战略资本”;落实多元化股权融资理念,建立围绕企业全生命周期的融资模式。在此背景下,公司认为,证券行业将会呈现以下特点:一是细分领域差异化,自营、资管、投行等行业集中度近年来显著攀升,马太效应显著;传统经纪、融资融券业务集中度下降,同质化竞争激烈。二是政策支持国有大型金融机构做优做强,行业并购重组预期显著提升,长期看,扶优限劣和“一流投行”培育等措施均有望推动行业格局优化或重塑。三是短期内投行业务承压,各大券商同时转战北交所业务,竞争全面化,从中长期看,全面注册制下投行业务回归常态是大势所趋。四是国内财富管理、机构客户服务模式尚未定型,各券商转型发展空间较大,仅资管子公司已扩容至29家,细分领域先发优势显著。五是行业数字化转型百花齐放,各大券商以及部分第三方机构在财富管理领域、机构客户定制化服务和员工管理等方面的数字化转型取得成效,带动了相关业务跨越式发展,金融科技成为了不可忽视的竞争力量。综上所述,2024年,证券行业挑战与机遇并存,全行业将在“金融强国”和“培育一流投资银行和投资机构”的目标下积极转型、奋力拼搏,行业发展可期。(二)公司发展战略公司旨在成为一家客户信赖、员工认同、股东满意的中国一流投资银行。公司牢记“汇聚人才,服务客户,创造价值,回报社会”的使命,强调“以人为本、以邻为师、以史为鉴”的经营哲学。公司坚持正确而清晰的战略方向,坚持发展速度与质量的平衡,坚持把风险管理放在重要位置,坚持先人后事和五湖四海的用人理念,坚持走健康发展之路。公司期望通过建立长期有效战略,致力提升客户服务能力,更好服务国家战略与实体经济,实现自身与证券行业共同的高质量发展。为实现以上愿景,公司将巩固价值创造能力领先的优势,着重加强客户开发和客户服务工作,提高服务质量;强化人才战略,提升队伍素质;增强资本和资金实力,做优做大资产负债表;提升信息技术能力,推进公司数字化转型;持续完善合规风控能力,确保公司健康发展;不断加强现代管理和运营能力,提升效率和效益。(三)经营计划024年,公司将全面加强党的建设,培育中国特色一流投行文化;积极培育利润增长点,提高利润考核权重;完善客户服务体系建设,搭建分类分层客户服务体系,探索矩阵式服务建构;持续做强资产管理业务,加强投研能力建设;稳步提升国际化发展水平,持续提升跨境一体化工作质效;夯实风险合规管理架构,强化合规、审慎经营导向;持续推进数字化转型,树立“管用结合更求用、质量并举更讲质”理念;加强人才管理体系建设,打造“忠诚干净担当作为”的领导人队伍,持续优化干部人才培训培养体系。各业务线的具体经营计划截至2023年12月31日,本集团总资产人民币5,227.52亿元,较2022年12月31日增长2.66%;归属于本公司股东的权益为人民币974.78亿元,较2022年12月31日增长4.53%;报告期本集团营业收入合计为人民币232.43亿元,同比减少15.68%;归属于本公司股东的净利润为人民币70.34亿元,同比减少6.45%。投资银行业务板块实现营业收入合计人民币48.03亿元,同比减少17.73%;财富管理业务板块实现营业收入合计人民币60.66亿元,同比减少1.20%;交易及机构客户服务业务板块实现营业收入合计人民币80.17亿元,同比增长19.22%;资产管理业务板块实现营业收入合计人民币14.63亿元,同比减少12.95%。截至2023年12月31日,公司主要经营财务数据1.投资银行业务板块(1)股权融资业务2023年,全市场共发行股权融资项目611家,同比下降18.53%,募集资金人民币7,719.35亿元,同比下降35.19%。其中,IPO项目314家,同比下降24.52%,募集资金人民币3,589.71亿元,同比下降31.27%;股权再融资项目297家,同比下降11.08%,募集资金人民币4,129.64亿元,同比下降38.25%。(数据来源:资讯,按发行日统计,不含资产类定向增发)2023年,公司完成股权融资项目67家,主承销金额人民币947.76亿元,均位居行业第2名。其中,IPO主承销家数33家,主承销金额人民币407.54亿元,分别位居行业第2名、第3名;完成股权再融资34家,主承销金额人民币540.22亿元,分别位居行业第2名、第3名。公司保荐央企IPO项目4家,连续五年位居行业第1名。公司切实发挥金融支持实体经济的作用,积极围绕国家战略开展业务。服务战略性新兴产业IPO项目30家,服务国家级专精特新“小巨人”企业IPO项目15家,科创板、创业板、专精特新“小巨人”企业IPO保荐家数均位居市场第1名。服务企业包括国内主要的锂离子电池正极材料供应商湖南裕能、电子特种气体龙头企业中船特气、国内防空预警雷达引领者航天南湖、国内领先的模拟和嵌入式芯片设计企业南芯科技、MEMS(微机电系统)惯性传感器龙头企业芯动联科、集成电路高端先进封装测试服务商颀中科技,以及储能电池系统提供商派能科技、光伏新能源企业东方日升、新能源汽车产业开拓者北汽蓝谷等。公司继续践行乡村振兴战略、促进共同富裕,协助位于曾是国家扶贫开发工作重点县、深度贫困县凉山州木里藏族自治县的发行人四川黄金完成首次公开发行股票项目。此外,公司还完成可转债项目8家,主承销金额人民币135.38亿元。(数据来源:资讯、公司统计)2023年,公司完成新三板挂牌13家,完成新三板挂牌企业定增21单,募集资金人民币5.20亿元;截至报告期末,持续督导新三板创新层企业51家。(数据来源:全国股转公司、Choice金融终端)项目储备方面,截至报告期末,公司在审IPO项目61家,位居行业第2名;在审股权再融资项目(含可转债)24家,位居行业第2名。(数据来源:中国证监会、沪深交易所、资讯、公司统计)国际业务方面,2023年,中信建投国际在香港市场共参与并完成IPO保荐项目8家,股权融资规模83.27亿港元。2024年发展展望2024年,投资银行业务挑战和机遇并存。中央金融工作会议提出优化融资结构,更好发挥资本市场枢纽功能,推动股票发行注册制走深走实。2024年3月,中国证监会集中发布《关于严把发行上市准入关从源头上提高上市公司质量的意见(试行)》等四项政策文件,为投资银行业务的高质量发展明确了方向。公司将深入贯彻中央金融工作会议精神,积极落实中国证监会系列政策,全面服务国家战略布局,不断提升服务实体经济质效,努力打造一流投资银行。股权融资业务方面,持续提升项目甄别、估值定价、保荐承销能力,强化质量控制工作,做好资本市场“看门人”;进一步深化“行业+区域+产品”的矩阵式布局,坚持“以客户为中心”,为客户提供全生命周期、全产品的优质服务,当好直接融资“服务商”;聚焦科技创新,服务高水平科技自立自强,助力新质生产力加快形成;以北交所深化改革为契机,大力支持专精特新中小企业创新发展。同时,在合法合规前提下,加强与投资等公司其他业务的协同发展,进一步提升金融服务高质量发展的能力。国际业务方面,中信建投国际将持续推进内地和香港投行一体化工作,继续拓展在香港市场的业务范围,实现中概股回归、港股私有化、跨境收购等不同类型产品的多样化发展,进一步增强全方位服务客户的能力。(2)债务融资业务2023年,债券市场收益率水平呈现震荡格局,债券融资成本整体呈下降趋势。全市场信用债(扣除同业存单)发行规模人民币187,909.49亿元,同比增长5.62%。2023年,公司债务融资业务继续保持良好发展势头,共计完成主承销项目3,280单,主承销规模人民币15,457.06亿元,双双位居行业第2名。其中,公司债主承销项目1,007单,位居行业第1名,主承销规模人民币4,179.67亿元,位居行业第2名。(数据来源:中国证券业协会、资讯)2023年,公司积极落实国家重大战略政策,主承销绿色债券105只,主承销规模人民币626.21亿元,其中碳中和专项债21只,主承销规模人民币77.02亿元。公司牵头主承销的中广核风电粤港澳大湾区绿色科技创新公司债券(蓝色债券),有利于推进海洋风能资源的可持续利用,助力粤港澳大湾区能源结构和布局的进一步优化。由公司作为计划管理人和财务顾问、中信建投基金作为基金管理人的中信建投国家电投新能源REIT项目,是以优质大型海上风电项目及配套运维驿站作为标的资产发行的全国首单海上风电基础设施公募REITs项目,也是全国首单央企新能源基础设施公募REITs项目。公司主承销科技创新公司债及科创票据148只,主承销规模人民币645.60亿元。公司主承销科技创新公司债券家数、金额均位居行业第2名。(数据来源:中国证券业协会)国际业务方面,2023年,中信建投国际在离岸市场参与并完成债券承销项目105单,承销规模2,238亿港元,其中全球协调人项目共44单,承销规模719亿港元。2024年发展展望2024年,公司在开展债务融资业务时将持续深入贯彻执行公司“十四五”规划要求,聚焦高质量发展。公司将深入推进“行业+区域+产品”的矩阵式布局,不断完善客户服务体系,持续加强业务风险防控,保持稳定的项目储备,不断开拓创新业务,实现品种齐全、均衡发展的发展格局,不断提升债务融资业务的整体实力。国际业务方面,中信建投国际在境外债项目中将继续为企业提供优质的产品服务,不断拓展评级顾问和绿色结构顾问服务,丰富债务融资衍生产品,持续发挥境内外团队一体化战略合作优势,拓宽与企业的合作领域,打造境外债全链条服务能力。(3)财务顾问业务2023年,A股上市公司合计完成发行股份购买资产及重大资产重组项目78单,交易金额人民币3,190.08亿元。其中,公司完成发行股份购买资产及重大资产重组项目9单,位居行业第3名;交易金额人民币696.09亿元,位居行业第2名。项目储备方面,截至报告期末,公司在审及审结尚未完成项目2单,位居行业第4名。(数据来源:资讯、公司统计)国际业务方面,截至本报告期末,中信建投国际在香港市场参与并完成财务顾问类项目4单。2024年发展展望2024年,公司将坚持以客户为中心,加大央企、国企以及产业龙头客户并购业务的投入力度,努力把握符合国家产业政策的国资整合和行业并购重组机遇,巩固在上市公司破产重整财务顾问领域的优势,同时在跨境业务方面积极作为,不断提升公司并购业务的市场影响力和全面综合化服务能力,通过并购重组财务顾问服务助力上市公司实现高质量发展。国际业务方面,中信建投国际将继续拓展跨境收购、上市前引战融资和私有化等业务。2.财富管理业务板块(1)经纪及财富管理业务2023年,沪深A股市场股票基金日均交易量人民币8,131亿元,同比下降8%(数据来源:沪深交易所)。全年来看,上证指数主要宽基指数行情承压,两市成交量波动较大,投资者对股票交易和权益理财的态度更为审慎,经纪业务经营面临挑战。2023年,公司积极整合资源,打造客户综合服务平台及业务生态链,继续坚持以客户为中心,通过提升服务水平和丰富服务手段,持续增强经纪业务核心竞争力,努力满足客户多层次、多样化的财富管理需求。证券经纪及财富管理业务方面,公司以“让财富保值增值不再困难”为使命,持续加大客户开发、产品销售、专业交易客户服务的力度,完善运营体系建设,加快科技赋能步伐,打造财富铁军队伍,持续推进财富管理转型工作,为顺利完成公司“十四五”规划打下坚实基础。公司在财富管理领域进一步加强客户开发与产品布局,实现客户规模与产品收入双增长。截至2023年末,公司证券经纪业务新开发客户121.76万户,累计客户总数1,337.32万户,同比增长10.20%,客户总资产人民币5.14万亿元;代销金融产品收入同比增长3.97%,金融产品保有规模同比增长2.37%。同时,经过多年来的稳步发展,经纪业务的收入结构更加均衡,产品类业务收入在证券经纪业务收入的占比由2019年的20.63%提升至2023年的42.99%,处于行业领先水平。公司不断优化移动交易客户端“蜻蜓点金”APP的客户体验,客户月均活跃数位居行业第7名;继续强化股票投顾服务业务领先优势,基金投顾业务进展良好;持续优化金融产品体系,不断完善各类产品供给。截至本报告期末,公司下辖317家经纪业务分支机构(不含上海自贸区分公司),57%集中在五省二市(北京、上海、广东、福建、浙江、江苏和山东),其中北京地区分支机构55家,是北京地区设立营业网点最多的证券公司。公司营业网点数量众多且分布有序,为财富管理业务的稳健发展奠定坚实基础。期货经纪及财富管理业务方面,2023年,我国期货市场明显回暖,累计成交量和成交额分别为85.01亿手、人民币568.51万亿元,同比分别增长25.60%、6.28%。中信建投期货在近年来取得的良好发展基础上,持续提升互联网营销及协同合作水平,实现了主要财务指标和业务指标的持续向好发展。2023年,中信建投期货营业收入和净利润均取得历史最好成绩,实现代理交易额人民币20.69万亿元,同比增长39.18%;新增客户数同比增长28.78%;期末客户权益规模同比增长17.08%;期末资产管理规模位居行业第2名。截至本报告期末,中信建投期货设有29家分支机构,并在重庆设有风险管理子公司,为期货经纪及风险管理业务的发展打下了坚实的基础。国际业务方面,2023年,中信建投国际累计代理股票交易金额721.35亿港元;新增客户232户,截至本报告期末,累计客户数25,907户,客户托管股份总市值236.08亿港元。2023年,中信建投国际及时调整业务发展策略,深化集团协同合作,加强高净值个人客户和公司机构类业务开发,加强金融产品销售能力建设,交易量排名显著提升,2023年三季度交易量首次进入香港交易所B组券商行列,市场认可度不断提高。2024年发展展望证券经纪及财富管理业务方面,公司将聚焦本源、创新升级,持续提升证券经纪业务收入和重点地区市场份额,强化科技赋能,优化服务体系,提升运营效率,防范经营风险,夯实“好投顾、好产品、好交易”三大品牌竞争力,努力做好社会财富“管理者”,不断推进财富管理高质量发展。期货经纪及财富管理业务方面,2024年,随着《期货和衍生品法》及其配套制度的全面落地,期货公司在资本、人员、专业能力、风控等方面面临更高、更全面的监管要求和更激烈的竞争。聚焦服务实体经济依然是全行业最主要的发展方向。中信建投期货将以“找准定位,做强专业,强化服务,守住底线”为总体发展要求,围绕服务实体经济,提升服务质量,探索适合自身的发展方向。国际业务方面,中信建投国际将继续坚定主业,借助公司品牌和境内外一体化业务平台的优势,做好公司证券业务境外平台的建设工作,在以稳定发展、寻求突破为目标的前提下,不断丰富境外业务和产品种类,提高团队的专业化和国际化水平,优化海外资产配置能力,助力客户实现全球资产的保值增值目标。(2)融资融券业务2023年,全市场融资融券业务规模有所上升。截至本报告期末,沪深两市融资融券余额人民币16,508.96亿元,同比上升7.17%。截至本报告期末,公司融资融券余额人民币589.97亿元,市场占比3.57%,整体维持担保比例为290.59%;融资融券账户18.34万户,同比增长4.04%。(数据来源:资讯、公司统计)国际业务方面,2023年港股市场融资规模有明显回落。在行情回落时,中信建投国际严格遵守监管机构和公司制定的各项融资类业务风险管理政策和规定,做好客户信用和持仓证券的管理监控,在满足客户融资需求的同时,严格控制风险。截至本报告期末,中信建投国际孖展融资业务余额1.60亿港元。2024年发展展望2024年,公司融资融券业务将着力提升对高净值客户的服务深度,通过拓展业务渠道、增强内部协同、丰富业务模式等举措进一步提升专业化的综合服务能力;同时推动金融科技成果转化,打造客户线上服务生态,推动产品服务体系、数字化运营体系建设,为客户提供多样化、智能化、个性化的产品服务。国际业务方面,中信建投国际将重点挖掘优质交易型的融资类客户需求,严格把控客户质量和抵押品质量,在贯彻公司风险控制优先原则的基础上,进一步优化多市场多品种的融资业务。(3)回购业务2023年,市场股票质押式回购业务平稳健康发展。截至本报告期末,公司股票质押式回购业务本金余额人民币88.20亿元。其中,投资类(表内)股票质押式回购业务本金余额人民币55.18亿元,平均履约保障比例248.35%;管理类(表外)股票质押式回购业务本金余额人民币33.02亿元。(数据来源:公司统计)2024年发展展望2024年,公司将在确保风险可测、可控、可承受的前提下,稳健、审慎开展股票质押式回购业务。公司将加速资源整合,为战略客户提供综合金融服务;依托自身投研能力,加大对上市公司的风险识别,持续防范业务风险;通过内部精细化管理,持续提升公司股票质押式回购业务的资产质量。3.交易及机构客户服务业务板块本集团的交易及机构客户服务业务板块主要包括股票销售及交易业务、固定收益产品销售及交易业务、投资研究业务、主经纪商业务、QFI和WFOE业务,以及另类投资业务。(1)股票销售及交易业务公司股票销售及交易业务主要向机构客户提供交易、咨询和研究服务,并向其销售由本公司承销的股票。公司亦从事自营交易及做市业务,品种涵盖股票、基金、ETF、股指期货、商品期货、期权、收益互换等金融衍生品,为客户提供与各类资产挂钩的定制化期权及掉期产品,满足机构客户的对冲及投资需求。股票交易业务方面,2023年在A股市场整体高波动、结构分化明显的环境下,公司股票交易业务坚持绝对收益的业务定位,强化风险控制。衍生品交易业务方面,公司进一步扩充投资交易品种,拓展做市服务范围,为交易所的股票、基金、期权、期货等品种提供流动性做市服务;稳步推进场外衍生品业务,不断加强数字化建设,满足客户资产配置及风险管理需求;积极拓展跨境衍生品业务,为海内外客户提供全球资产配置服务和风险管理服务,交易品种覆盖国际主流市场;不断完善以“中信建投世界大类资产配置宏观对冲指数(WARPMACRO)”为代表的策略指数产品体系,通过持续提升产品设计能力为客户提供多元化的产品服务和交易服务。股票销售业务方面,2023年公司完成67单主承销股票项目的销售工作,累计销售金额人民币947.76亿元,涵盖33单IPO项目、33单非公开发行股票项目、1单配股项目的销售工作,并完成8单可转债项目。公司整体股票销售业务再创佳绩,完成多单有较高市场影响力的项目,IPO项目和股权再融资项目的承销金额均排名行业第3名。(数据来源:公司统计、资讯)国际业务方面,2023年,中信建投国际机构销售及交易业务主要向机构客户提供交易、咨询和研究服务,并向其销售公司承销的股票。中信建投国际形成了跨行业、跨市场、跨资产类别的投资研究服务矩阵,不断完善针对机构客户的服务体系,进一步提升公司在香港股票二级市场的影响力,逐步建立品牌知名度。截至报告期末,中信建投国际机构销售与交易业务累计机构客户数528户,2023年累计实现机构客户股票交易量464.74亿港元。2024年发展展望2024年,公司股票交易业务将继续紧密跟踪国内外宏观经济形势及政策变化,深入研究行业及个股机会,秉承价值投资理念进行板块和个股配置,在严格控制风险的基础上,积极关注阶段性和结构性机会,并稳步推进投资品种的多元化。为满足客户的资产配置及风险管理需求,公司将积极推进场外衍生品业务开展,持续推进跨境业务,不断丰富策略指数产品体系,提供满足各类客户需求的解决方案,继续拓展做市领域的资源投入,完善自有资金投资体系。国际业务方面,中信建投国际将全力推进境外投研业务对股票销售及交易业务的支持力度,进一步打造公司境外投资研究品牌。(2)固定收益产品销售及交易业务公司固定收益业务涵盖FICC领域的自营、做市、销售、投资顾问及相关跨境业务等,为境内外企业和机构客户提供全方位、多层次、一站式综合服务,服务范围涉及利率、信用、汇率、商品、结构化产品及相关衍生品等领域。2023年,国内经济企稳回升、政策持续发力,海外通胀压力缓和、货币紧缩政策逐步进入尾声;境内债券市场流动性整体宽松,利率债呈现震荡下行态势,信用利差全面压缩,全年中债综合财富指数涨幅4.78%。2023年,公司固定收益业务稳步推进买方投研与客需交易“双平台”体系建设。公司继续保持债券销售业务行业领先地位,信用债销售规模位居国内金融机构第2名(数据来源:彭博资讯),并在依托债券产品业务传统优势的基础上,大力发展非方向性交易,中性、量化策略不断迭代升级;持续丰富衍生品、外汇、商品等相关FICC产品类型,外汇、黄金交易量均位居同业前列;新获自营参与碳排放权交易业务资格,在上海、湖北碳市场完成多笔碳配额交易。公司坚持“服务实体经济”“以客户为中心”等理念,全力布局客需交易平台,新落地“乡村振兴”和“绿色金融”主题的债券指数收益互换业务,完成6只实体企业债券的信用保护工具,助力资本市场发挥在社会责任和绿色发展方面的资源配置作用。完成横跨银行间、沪深交易所以及国债期货市场的做市全版图构建,公司自主研发的做市系统助推国债期货全年做市量超人民币3万亿元名义本金;新开展交易所债券做市业务,全年做市量超人民币2万亿元;银行间市场交易量超人民币11万亿元,连续2年被债券通公司评为“北向通优秀做市商”。推出衍生品投顾服务丰富“固收+”策略类型,进一步提升财富管理服务能力。大力推动FICC智能平台建设,运用人工智能算法推荐销售债券,面向投顾客户开放自研平台打造客群生态,全面提升客户体验。国际业务方面,固定收益业务一体化管理及协同日趋稳健,内部运营运转顺畅。FICC多资产投资业务规模稳步增加,投资收益率表现稳健,投资品种日益丰富。销售与交易业务服务质量进一步提升,做市交易和代客交易日趋活跃,境内外客户覆盖程度深化。跨境收益互换、结构化票据等多种产品业务逐步向客需服务转型,业务类型进一步完善,中性策略收入提升。2024年发展展望2024年,公司FICC业务将继续秉持“专业立足、客户至上、国际视野、追求卓越”的经营理念,围绕国家各项战略部署及证券行业发展导向,发挥专业优势服务实体经济高质量发展;持续迭代推进投研及客需交易平台建设,不断丰富对客产品与服务图谱,积极践行“专业化、国际化、数字化”的发展战略,致力于成为境内外客户可信赖的产品供应商、策略供应商和交易服务供应商。国际业务方面,中信建投国际将秉承在一贯的风险可控原则上增厚投资业务收益,同时进一步提升服务质量,为境内外客户提供多元化的解决方案;加强一级市场债券承销业务项目的销售工作,拓展客户范围,深耕客户需求,维护中资美元债承销排名;深化客需业务的转型发展,丰富产品线,不断精细业务流程。(3)投资研究业务公司研究业务主要为机构客户提供包括宏观经济、固定收益、策略、金融工程、大类资产配置、基金研究、行业研究等领域的研究咨询服务。公司主要客户包括公募基金、保险公司、全国社保基金、银行及银行理财子公司、私募基金、券商、信托公司等境内外金融机构等,为其提供研究报告及各类个性化研究咨询服务。2023年,公司加强研究深度,提升产业链研究协同,积极组织各类产业链主题调研,大力提升战略客户覆盖率,对重点客户的服务频次大幅增长,强化收入来源的多元化,同时利用信息化率的提高进一步增强业务管理的精细化和合规管理的有效性,持续优化业务管理流程,提高数据统计、共享与分析功能。截至本报告期末,公司研究及销售团队共292人,研究业务分为10个产业大组,涵盖38个研究领域。报告期内,公司共完成证券研究报告6,685篇,其中有714篇研究报告面向香港市场(含单独或两地同步)发布,全面覆盖“中特估”“人工智能”和“数字经济”等市场热点;为机构客户提供线上线下路演53,268次,开展调研7,835次,并成功组织包括“聚势而起·2024年度资本市场峰会”“春暖花开·鹏程万里”春季资本市场峰会和“聚力新格局,共迎新机遇”中期资本市场峰会等大型会议及其他各类专业研究服务活动。2023年上半年,公司公募基金佣金分仓收入市场占比为5.12%,位居行业第2名(数据来源:资讯)。国际业务方面,境内外研究一体化实施以来,公司充分调动两地研究资源持续服务境外机构客户,发挥国际化人才队伍优势,建立英文产品体系,系统性推进海外优质标的覆盖。公司针对境外机构客户的投资偏好和研究需求提供优质投研服务,配合境外机构销售团队积极覆盖外资机构客户,落实行业首席分析师常态化赴香港路演机制,并积极协同公司一级市场业务线共同提升中信建投国际在香港市场的影响力。2024年发展展望2024年,公司研究业务将切实把握好当前宏观经济温和复苏下的市场结构性机会,加强对数字化、人工智能、高端制造和ESG等领域的研究,不断提高研究业务覆盖的广度和深度。在内外部环境复杂变化及公募基金佣金呈现下降趋势的背景下,公司将进一步加强投资研究业务的金融科技投入,提升合规管理的信息化水平,强化数据沉淀和共享,通过信息手段提升研究员基础工作效率,并通过数据归集和共享降低成本,丰富数字资产,提升数字化服务客户水平;提升多元化盈利能力,增加国际业务创收。(4)主经纪商业务公司向机构客户提供市场领先的全链条主经纪商服务,包括交易服务、账户服务、产品设计代销、机构投融资服务、资产托管服务、产品运营服务、研究服务、融资解决方案和增值服务等。公司是拥有对接业务最全面、支持主经纪商系统种类最多的证券公司之一,目前已经支持融资融券、股指期货、商品期货、股票期权、北交所、港股通、场外公募基金等市场和交易品种,为客户同时开展各类业务提供了便利和良好体验;主经纪商系统内嵌自主研发的算法交易平台,保持着业内领先的算法交易执行效果,得到银行、保险公司、公募基金、私募基金、企业和高净值个人等客户(含QFI业务客户)的广泛认可和信赖,北交所股票、沪深REITs和商品期货算法交易等新型服务更是满足了客户多样化的交易需求。公司自建的机构交易专用柜台,为金融机构提供独立且功能更丰富的交易通道,得到银行、公募基金、保险资管机构客户的广泛认可。2023年,公司主经纪商业务成交量持续增长,算法交易的交易效果持续优化,客户种类和规模持续扩大。截至本报告期末,公司主经纪商(PB)系统存续客户数为12,953户,同比增加38.71%;共有31家公募基金公司和10家保险资管机构实盘使用本公司算法交易服务,共有193家客户使用本公司代理委托服务,合计交易266个标的。截至本报告期末,公司托管88只公募基金,公募基金托管数量位居行业第1名。截至本报告期末,公司资产托管及运营服务总规模为人民币8,417.94亿元,同比增长5.83%。其中,资产托管产品6,132只、运营服务产品6,405只,分别同比增长5.56%和6.73%。2024年发展展望2024年,公司将以持续满足专业机构投资者交易需求为目标,继续完善各类主经纪商系统和机构专用柜台服务,通过内嵌算法平台提高交易绩效、交易完成度及交易自动化程度,为客户提供更加便捷的交易体验。公司将紧跟市场环境和监管政策变化,进一步建设多种类、个性化的专业交易服务体系,以进一步满足各类客户的交易需求。托管业务方面,公司将坚持“严谨、专业、高效”的运营服务理念,推动托管业务数字化转型,以“平台赋能、协同行动、精准对接”为抓手,发挥多业务联动优势,打造“托管+”新业态。(5)QFI和WFOE业务公司作为QFI、WFOE在国内的经纪券商,已积累多年外资客户服务经验,始终立足于为QFI、WFOE等外资机构提供全产品、一站式金融服务。2023年,公司通过跨境一体化销售、扩充QFI/WFOE交易团队,持续深入挖掘QFI和WFOE业务机会,借助一流的证券研究服务资源加强客户粘性,持续升级完善交易系统及交易算法,不断优化开户和交易流程,努力提升外资客户投资和交易体验。目前,公司已经形成以丰富的证券研究服务、北京-上海双交易中心、先进的交易系统和智能的交易算法为特色的专业化外资机构投资交易服务体系。2024年发展展望2024年,在金融双向开放的大背景下,公司将充分发挥香港子公司中信建投国际的地域优势,深入推动跨境一体化发展,继续构建多元化的外资客户网络,加大交易服务能力建设,致力于为QFI、WFOE等外资客户提供行业领先的证券研究及交易服务。同时,公司将整合优势资源,积极协同为外资机构客户提供高层次、全方位、多元化、差异化的综合金融服务,努力以专业化服务为手段,以研究业务为支点,大力提升涵盖衍生品、融资融券、大宗交易等业务的全产品销售能力和全条线服务能力,促进客户收益最大化,提高公司的国际影响力,促进公司境内外业务的协同发展。(6)另类投资业务2023年,中信建投投资秉承“行稳致远”原则和“服务实体经济、服务科技创新、服务经济转型、服务国家战略”理念,聚焦以股权投资为主、泛股权投资及创新投资业务为辅的投资范围,在严控项目质量的前提下,有序做好项目开发、储备及投资布局工作。报告期内,中信建投投资完成项目投资26个(其中科创板IPO跟投项目10个),投资金额人民币13.35亿元。2024年发展展望2024年,中信建投投资将在坚持自身战略定位与投资理念的基础上守正创新,适时优化投资布局与投资策略,探索前沿科技投资、长期资产持有等创新投资策略,进一步完善对科技创新及国家战略的支持,同时提升资产组合的总体平衡性,增强抵御市场周期与波动的能力。4.资产管理业务板块本集团的资产管理业务板块主要包括证券公司资产管理业务、基金管理业务及私募股权投资业务。(1)证券公司资产管理业务2023年,我国金融改革持续深化、多层次资本市场体系不断完善、资产管理业务制度体系不断健全,行业进入高质量发展的新阶段。同时,受监管规则趋严、市场行情波动等因素影响,资产管理行业的发展面临较多挑战,行业经历资金端、策略端、产品端等多个层面的结构化调整,券商资管机构需要持续加强投研核心能力建设,稳步提升产品创新能力,推动金融科技应用,发挥全业务链优势,形成差异化发展路径,推动业务高质量发展。2023年,公司资产管理业务坚持“以客户为中心”理念,大力提升主动管理能力,注重发挥券商资产管理独特优势,全面布局产品线,打造特色产品谱系,提供产品全策略、多元化服务,满足投资者不同期限、策略和风险偏好需求,市场营销和客户服务水平显著提升。同时,公司有序推进资管子公司设立工作。截至报告期末,公司受托资产管理规模人民币4,694.00亿元,包括集合资产管理业务、单一资产管理业务和专项资产管理业务,规模分别为人民币1,207.36亿元、人民币1,604.23亿元和人民币1,882.42亿元,管理产品合计648只。国际业务方面,中信建投国际积极提升主动管理能力以及客户拓展能力,增加资产管理规模。在2023年港股和中资美元债市场均经历了市场大幅波动的市场情况下,中信建投国际稳扎稳打,在符合风控要求的规范下稳健运行,管理的私募基金产品业绩良好。同时积极拓展客户资源,在市场竞争激烈的情况下开发优质新客户,增加资产管理规模,确保业务稳步向前发展。截至报告期末,中信建投国际的资产管理类业务规模约为10,510万美元,其中债券类投资管理规模约为570万美元,平衡型基金管理规模约为1,940万美元,专户管理规模约为8,000万美元。2024年发展展望2024年,公司将持续提升主动管理能力,以打造全能型资管机构为目标,加强投研体系建设和投研人才培养,推动研究成果向优秀投资业绩转化,聚焦市场和客户需求,持续提升客户服务能力,深耕渠道服务体系,推动新产品、新策略落地,全面梳理品牌宣传体系,提升品牌认可度。未来,公司将稳步推进资管子公司设立和运行工作,持续提升市场竞争力和影响力。国际业务方面,中信建投国际将继续积极建立全面的资管产品线,为客户提供优质服务,做好海外资产管理业务的服务窗口。(2)基金管理业务2023年,公募基金行业受权益市场影响出现较大波动,但未来依然存在众多机遇。2023年,非货币公募固收基金市场保持了持续增长的态势,尤其在投资策略、产品创新以及风险管理等方面均取得了显著进步。该增长不仅反映了投资者对固收类基金的信任和认可,也体现了基金行业在资产配置和风险管理方面专业能力的提升。其中,中长期信用债基金依然是市场的主体,其规模和数量均占据重要地位。同时,其他类型的基金,如主动利率债基金和“固收+”基金等也呈现出良好的发展态势。不同类型的基金满足了投资者多样化的投资需求和风险偏好,为市场的稳定发展提供了有力支撑。2023年,中信建投基金以公募基金为主营业务,着力在公募基金产品的投资、销售、服务等方面提升市场竞争力,积极调整业务结构,开拓新业务,不断丰富产品体系。截至本报告期末,中信建投基金资产管理规模人民币937.59亿元,其中公募产品管理规模人民币681.52亿元,同比增长20.71%;专户产品管理规模人民币254.94亿元,同比下降44.46%;ABS产品管理规模人民币1.13亿元,同比下降47.22%。截至本报告期末,中信建投基金共管理公募基金54只(含2023年新成立的7只产品),管理规模人民币681.52亿元。在参与排名的47只公募基金产品中有30只排名进入市场前50%,其中19只进入市场前20%、10只进入市场前10%。(数据来源:资讯、公司统计)2024年发展展望2024年,中信建投基金将继续坚持以投资者利益为核心,努力提升投研能力和投资业绩,扩展和丰富产品线,深耕各销售渠道,加强客户体系建设,强化内部治理,实现管理规模的平稳增长和客户财富的保值增值,打造专业化与特色化兼具的资产管理机构。(3)私募股权投资业务2023年,我国私募股权市场展现出稳健发展态势。中央经济工作会议首次提出“鼓励发展创业投资、股权投资”,并视其为“以科技创新引领现代化产业体系建设”的重要资本力量,有力支持了私募股权市场健康发展。2023年,中信建投资本积极围绕建设现代化产业体系和高质量发展的产业方向进行布局,持续提升投研能力与投资业绩。2023年,中信建投资本完成项目投资超过人民币40亿元,已投项目中完成上市6单,过会7单。新增备案基金13只,新增备案规模人民币116亿元。截至本报告期末,中信建投资本在管备案基金73只,基金管理规模超人民币650亿元。截至2023年末,中信建投资本月均实缴规模位居券商私募子公司第5名(数据来源:中国基金业协会)。2024年发展展望2024年,中信建投资本将继续坚持服务实体经济的出发点与落脚点,牢记金融服务实体经济的初心使命,加大对科技创新、“专精特新”、绿色低碳等重点领域的参与力度,助力科技创新高质量发展,展现国有投资机构的使命担当。"
+    }
+  ]
+}

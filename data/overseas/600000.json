@@ -1,0 +1,1240 @@
+{
+  "code": "600000",
+  "name": "浦发银行",
+  "fetchTime": "2026-06-18T18:33:40",
+  "segments": [
+    {
+      "reportDate": "2025-12-31",
+      "byIndustry": [],
+      "byProduct": [],
+      "byRegion": [
+        {
+          "name": "总行",
+          "income": 56629000000.0,
+          "incomeRatio": 32.55,
+          "cost": 39599000000.0,
+          "costRatio": 32.9,
+          "profit": 17030000000.0,
+          "profitRatio": 31.77,
+          "grossMargin": 30.07,
+          "rank": 1
+        },
+        {
+          "name": "长三角地区",
+          "income": 43995000000.0,
+          "incomeRatio": 25.29,
+          "cost": 20256000000.0,
+          "costRatio": 16.83,
+          "profit": 23739000000.0,
+          "profitRatio": 44.28,
+          "grossMargin": 53.96,
+          "rank": 2
+        },
+        {
+          "name": "境外及附属机构",
+          "income": 16492000000.0,
+          "incomeRatio": 9.48,
+          "cost": 10523000000.0,
+          "costRatio": 8.74,
+          "profit": 5969000000.0,
+          "profitRatio": 11.13,
+          "grossMargin": 36.19,
+          "rank": 3
+        },
+        {
+          "name": "环渤海地区",
+          "income": 15800000000.0,
+          "incomeRatio": 9.08,
+          "cost": 9053000000.0,
+          "costRatio": 7.52,
+          "profit": 6747000000.0,
+          "profitRatio": 12.59,
+          "grossMargin": 42.7,
+          "rank": 4
+        },
+        {
+          "name": "珠三角及海西地区",
+          "income": 13122000000.0,
+          "incomeRatio": 7.54,
+          "cost": 13178000000.0,
+          "costRatio": 10.95,
+          "profit": -56000000.0,
+          "profitRatio": -0.1,
+          "grossMargin": -0.43,
+          "rank": 5
+        },
+        {
+          "name": "中部地区",
+          "income": 12101000000.0,
+          "incomeRatio": 6.96,
+          "cost": 10253000000.0,
+          "costRatio": 8.52,
+          "profit": 1848000000.0,
+          "profitRatio": 3.45,
+          "grossMargin": 15.27,
+          "rank": 6
+        },
+        {
+          "name": "西部地区",
+          "income": 11642000000.0,
+          "incomeRatio": 6.69,
+          "cost": 14182000000.0,
+          "costRatio": 11.78,
+          "profit": -2540000000.0,
+          "profitRatio": -4.74,
+          "grossMargin": -21.82,
+          "rank": 7
+        },
+        {
+          "name": "东北地区",
+          "income": 4196000000.0,
+          "incomeRatio": 2.41,
+          "cost": 3325000000.0,
+          "costRatio": 2.76,
+          "profit": 871000000.0,
+          "profitRatio": 1.62,
+          "grossMargin": 20.76,
+          "rank": 8
+        },
+        {
+          "name": "地区间抵销",
+          "income": -13000000.0,
+          "incomeRatio": -0.01,
+          "cost": -13000000.0,
+          "costRatio": -0.01,
+          "profit": 0.0,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        }
+      ]
+    },
+    {
+      "reportDate": "2024-12-31",
+      "byIndustry": [],
+      "byProduct": [
+        {
+          "name": "发放贷款和垫款-公司贷款",
+          "income": 110307000000.0,
+          "incomeRatio": 34.7,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "发放贷款和垫款-个人贷款",
+          "income": 87913000000.0,
+          "incomeRatio": 27.65,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "金融投资-债权投资",
+          "income": 41264000000.0,
+          "incomeRatio": 12.98,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "金融投资-其他债权投资",
+          "income": 19227000000.0,
+          "incomeRatio": 6.05,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "拆出资金",
+          "income": 12881000000.0,
+          "incomeRatio": 4.05,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "银行卡业务",
+          "income": 11462000000.0,
+          "incomeRatio": 3.61,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "托管及其他受托业务",
+          "income": 6038000000.0,
+          "incomeRatio": 1.9,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "发放贷款和垫款-票据贴现",
+          "income": 5117000000.0,
+          "incomeRatio": 1.61,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "存放中央银行款项",
+          "income": 4964000000.0,
+          "incomeRatio": 1.56,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "存放同业及其他金融机构款项",
+          "income": 4286000000.0,
+          "incomeRatio": 1.35,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "代理业务",
+          "income": 4026000000.0,
+          "incomeRatio": 1.27,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        },
+        {
+          "name": "投行类业务",
+          "income": 3836000000.0,
+          "incomeRatio": 1.21,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 12
+        },
+        {
+          "name": "信用承诺",
+          "income": 2307000000.0,
+          "incomeRatio": 0.73,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 13
+        },
+        {
+          "name": "买入返售金融资产",
+          "income": 2166000000.0,
+          "incomeRatio": 0.68,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 14
+        },
+        {
+          "name": "其他",
+          "income": 1239000000.0,
+          "incomeRatio": 0.39,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 15
+        },
+        {
+          "name": "结算与清算业务",
+          "income": 880000000.0,
+          "incomeRatio": 0.28,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 16
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "总行",
+          "income": 66988000000.0,
+          "incomeRatio": 39.23,
+          "cost": 53320000000.0,
+          "costRatio": 43.24,
+          "profit": 13668000000.0,
+          "profitRatio": 28.81,
+          "grossMargin": 20.4,
+          "rank": 1
+        },
+        {
+          "name": "长三角地区",
+          "income": 39256000000.0,
+          "incomeRatio": 22.99,
+          "cost": 17457000000.0,
+          "costRatio": 14.16,
+          "profit": 21799000000.0,
+          "profitRatio": 45.95,
+          "grossMargin": 55.53,
+          "rank": 2
+        },
+        {
+          "name": "环渤海地区",
+          "income": 14944000000.0,
+          "incomeRatio": 8.75,
+          "cost": 8194000000.0,
+          "costRatio": 6.65,
+          "profit": 6750000000.0,
+          "profitRatio": 14.23,
+          "grossMargin": 45.17,
+          "rank": 3
+        },
+        {
+          "name": "珠三角及海西地区",
+          "income": 12323000000.0,
+          "incomeRatio": 7.22,
+          "cost": 12952000000.0,
+          "costRatio": 10.5,
+          "profit": -629000000.0,
+          "profitRatio": -1.33,
+          "grossMargin": -5.1,
+          "rank": 4
+        },
+        {
+          "name": "中部地区",
+          "income": 11384000000.0,
+          "incomeRatio": 6.67,
+          "cost": 6668000000.0,
+          "costRatio": 5.41,
+          "profit": 4716000000.0,
+          "profitRatio": 9.94,
+          "grossMargin": 41.43,
+          "rank": 5
+        },
+        {
+          "name": "西部地区",
+          "income": 11260000000.0,
+          "incomeRatio": 6.59,
+          "cost": 11942000000.0,
+          "costRatio": 9.68,
+          "profit": -682000000.0,
+          "profitRatio": -1.44,
+          "grossMargin": -6.06,
+          "rank": 6
+        },
+        {
+          "name": "境外及附属机构",
+          "income": 10865000000.0,
+          "incomeRatio": 6.36,
+          "cost": 9763000000.0,
+          "costRatio": 7.92,
+          "profit": 1102000000.0,
+          "profitRatio": 2.32,
+          "grossMargin": 10.14,
+          "rank": 7
+        },
+        {
+          "name": "东北地区",
+          "income": 3857000000.0,
+          "incomeRatio": 2.26,
+          "cost": 3138000000.0,
+          "costRatio": 2.54,
+          "profit": 719000000.0,
+          "profitRatio": 1.52,
+          "grossMargin": 18.64,
+          "rank": 8
+        },
+        {
+          "name": "地区间抵销",
+          "income": -129000000.0,
+          "incomeRatio": -0.08,
+          "cost": -129000000.0,
+          "costRatio": -0.1,
+          "profit": 0.0,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        }
+      ]
+    },
+    {
+      "reportDate": "2023-12-31",
+      "byIndustry": [],
+      "byProduct": [
+        {
+          "name": "发放贷款和垫款-公司贷款",
+          "income": 102076000000.0,
+          "incomeRatio": 30.97,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "发放贷款和垫款-个人贷款",
+          "income": 98636000000.0,
+          "incomeRatio": 29.92,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "金融投资:债权投资",
+          "income": 45699000000.0,
+          "incomeRatio": 13.86,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "金融投资:其他债权投资",
+          "income": 20197000000.0,
+          "incomeRatio": 6.13,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "拆出资金",
+          "income": 13911000000.0,
+          "incomeRatio": 4.22,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "银行卡业务",
+          "income": 13344000000.0,
+          "incomeRatio": 4.05,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "发放贷款和垫款-票据贴现",
+          "income": 5837000000.0,
+          "incomeRatio": 1.77,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "存放中央银行款项",
+          "income": 5570000000.0,
+          "incomeRatio": 1.69,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "托管及其他受托业务",
+          "income": 5382000000.0,
+          "incomeRatio": 1.63,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "代理业务",
+          "income": 5292000000.0,
+          "incomeRatio": 1.61,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "存放同业及其他金融机构款项",
+          "income": 3581000000.0,
+          "incomeRatio": 1.09,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        },
+        {
+          "name": "投行类业务",
+          "income": 3293000000.0,
+          "incomeRatio": 1.0,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 12
+        },
+        {
+          "name": "信用承诺",
+          "income": 2424000000.0,
+          "incomeRatio": 0.74,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 13
+        },
+        {
+          "name": "买入返售金融资产",
+          "income": 2091000000.0,
+          "incomeRatio": 0.63,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 14
+        },
+        {
+          "name": "其他",
+          "income": 1283000000.0,
+          "incomeRatio": 0.39,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 15
+        },
+        {
+          "name": "结算与清算业务",
+          "income": 1017000000.0,
+          "incomeRatio": 0.31,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 16
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "总行",
+          "income": 67701000000.0,
+          "incomeRatio": 39.04,
+          "cost": 69126000000.0,
+          "costRatio": 52.09,
+          "profit": -1425000000.0,
+          "profitRatio": -3.5,
+          "grossMargin": -2.1,
+          "rank": 1
+        },
+        {
+          "name": "长三角地区",
+          "income": 38381000000.0,
+          "incomeRatio": 22.13,
+          "cost": 15434000000.0,
+          "costRatio": 11.63,
+          "profit": 22947000000.0,
+          "profitRatio": 56.33,
+          "grossMargin": 59.79,
+          "rank": 2
+        },
+        {
+          "name": "境外及附属机构",
+          "income": 15305000000.0,
+          "incomeRatio": 8.82,
+          "cost": 9115000000.0,
+          "costRatio": 6.87,
+          "profit": 6190000000.0,
+          "profitRatio": 15.2,
+          "grossMargin": 40.44,
+          "rank": 3
+        },
+        {
+          "name": "环渤海地区",
+          "income": 13922000000.0,
+          "incomeRatio": 8.03,
+          "cost": 9871000000.0,
+          "costRatio": 7.44,
+          "profit": 4051000000.0,
+          "profitRatio": 9.94,
+          "grossMargin": 29.1,
+          "rank": 4
+        },
+        {
+          "name": "珠三角及海西地区",
+          "income": 12554000000.0,
+          "incomeRatio": 7.24,
+          "cost": 7485000000.0,
+          "costRatio": 5.64,
+          "profit": 5069000000.0,
+          "profitRatio": 12.44,
+          "grossMargin": 40.38,
+          "rank": 5
+        },
+        {
+          "name": "中部地区",
+          "income": 11807000000.0,
+          "incomeRatio": 6.81,
+          "cost": 11162000000.0,
+          "costRatio": 8.41,
+          "profit": 645000000.0,
+          "profitRatio": 1.58,
+          "grossMargin": 5.46,
+          "rank": 6
+        },
+        {
+          "name": "西部地区",
+          "income": 10971000000.0,
+          "incomeRatio": 6.33,
+          "cost": 9593000000.0,
+          "costRatio": 7.23,
+          "profit": 1378000000.0,
+          "profitRatio": 3.38,
+          "grossMargin": 12.56,
+          "rank": 7
+        },
+        {
+          "name": "东北地区",
+          "income": 3057000000.0,
+          "incomeRatio": 1.76,
+          "cost": 1176000000.0,
+          "costRatio": 0.89,
+          "profit": 1881000000.0,
+          "profitRatio": 4.62,
+          "grossMargin": 61.53,
+          "rank": 8
+        },
+        {
+          "name": "地区间抵销",
+          "income": -264000000.0,
+          "incomeRatio": -0.15,
+          "cost": -264000000.0,
+          "costRatio": -0.2,
+          "profit": 0.0,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        }
+      ]
+    },
+    {
+      "reportDate": "2022-12-31",
+      "byIndustry": [],
+      "byProduct": [
+        {
+          "name": "发放贷款和垫款-个人贷款",
+          "income": 110209000000.0,
+          "incomeRatio": 32.68,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "发放贷款和垫款-公司贷款",
+          "income": 96127000000.0,
+          "incomeRatio": 28.5,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "金融投资:债权投资",
+          "income": 45430000000.0,
+          "incomeRatio": 13.47,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "金融投资:其他债权投资",
+          "income": 16534000000.0,
+          "incomeRatio": 4.9,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "银行卡业务",
+          "income": 14403000000.0,
+          "incomeRatio": 4.27,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "托管及其他受托业务",
+          "income": 11222000000.0,
+          "incomeRatio": 3.33,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "拆出资金",
+          "income": 11083000000.0,
+          "incomeRatio": 3.29,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "发放贷款和垫款-票据贴现",
+          "income": 10585000000.0,
+          "incomeRatio": 3.14,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "存放中央银行款项",
+          "income": 5599000000.0,
+          "incomeRatio": 1.66,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "代理业务",
+          "income": 4090000000.0,
+          "incomeRatio": 1.21,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "投行类业务",
+          "income": 3775000000.0,
+          "incomeRatio": 1.12,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        },
+        {
+          "name": "买入返售金融资产",
+          "income": 2122000000.0,
+          "incomeRatio": 0.63,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 12
+        },
+        {
+          "name": "信用承诺",
+          "income": 2093000000.0,
+          "incomeRatio": 0.62,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 13
+        },
+        {
+          "name": "存放同业及其他金融机构款项",
+          "income": 1831000000.0,
+          "incomeRatio": 0.54,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 14
+        },
+        {
+          "name": "其他",
+          "income": 1191000000.0,
+          "incomeRatio": 0.35,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 15
+        },
+        {
+          "name": "结算与清算业务",
+          "income": 992000000.0,
+          "incomeRatio": 0.29,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 16
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "总行",
+          "income": 76816000000.0,
+          "incomeRatio": 40.72,
+          "cost": 54573000000.0,
+          "costRatio": 41.23,
+          "profit": 22243000000.0,
+          "profitRatio": 39.53,
+          "grossMargin": 28.96,
+          "rank": 1
+        },
+        {
+          "name": "长三角地区",
+          "income": 39685000000.0,
+          "incomeRatio": 21.04,
+          "cost": 19491000000.0,
+          "costRatio": 14.73,
+          "profit": 20194000000.0,
+          "profitRatio": 35.89,
+          "grossMargin": 50.89,
+          "rank": 2
+        },
+        {
+          "name": "环渤海地区",
+          "income": 15405000000.0,
+          "incomeRatio": 8.17,
+          "cost": 8144000000.0,
+          "costRatio": 6.15,
+          "profit": 7261000000.0,
+          "profitRatio": 12.9,
+          "grossMargin": 47.13,
+          "rank": 3
+        },
+        {
+          "name": "境外及附属机构",
+          "income": 14382000000.0,
+          "incomeRatio": 7.62,
+          "cost": 7961000000.0,
+          "costRatio": 6.02,
+          "profit": 6421000000.0,
+          "profitRatio": 11.41,
+          "grossMargin": 44.65,
+          "rank": 4
+        },
+        {
+          "name": "珠三角及海西地区",
+          "income": 13431000000.0,
+          "incomeRatio": 7.12,
+          "cost": 8405000000.0,
+          "costRatio": 6.35,
+          "profit": 5026000000.0,
+          "profitRatio": 8.93,
+          "grossMargin": 37.42,
+          "rank": 5
+        },
+        {
+          "name": "中部地区",
+          "income": 12961000000.0,
+          "incomeRatio": 6.87,
+          "cost": 11967000000.0,
+          "costRatio": 9.04,
+          "profit": 994000000.0,
+          "profitRatio": 1.77,
+          "grossMargin": 7.67,
+          "rank": 6
+        },
+        {
+          "name": "西部地区",
+          "income": 11792000000.0,
+          "incomeRatio": 6.25,
+          "cost": 18774000000.0,
+          "costRatio": 14.19,
+          "profit": -6982000000.0,
+          "profitRatio": -12.41,
+          "grossMargin": -59.21,
+          "rank": 7
+        },
+        {
+          "name": "东北地区",
+          "income": 4359000000.0,
+          "incomeRatio": 2.31,
+          "cost": 3243000000.0,
+          "costRatio": 2.45,
+          "profit": 1116000000.0,
+          "profitRatio": 1.98,
+          "grossMargin": 25.6,
+          "rank": 8
+        },
+        {
+          "name": "地区间抵销",
+          "income": -209000000.0,
+          "incomeRatio": -0.11,
+          "cost": -209000000.0,
+          "costRatio": -0.16,
+          "profit": 0.0,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        }
+      ]
+    },
+    {
+      "reportDate": "2021-12-31",
+      "byIndustry": [],
+      "byProduct": [
+        {
+          "name": "发放贷款和垫款-个人贷款",
+          "income": 112530000000.0,
+          "incomeRatio": 33.04,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "发放贷款和垫款-公司贷款",
+          "income": 91588000000.0,
+          "incomeRatio": 26.89,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "金融投资-以摊余成本计量的金融投资",
+          "income": 46765000000.0,
+          "incomeRatio": 13.73,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "金融投资-以公允价值计量且其变动计入其他综合收益的金融投资",
+          "income": 17858000000.0,
+          "incomeRatio": 5.24,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "发放贷款和垫款-票据贴现",
+          "income": 14428000000.0,
+          "incomeRatio": 4.24,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "托管及其他受托业务",
+          "income": 13657000000.0,
+          "incomeRatio": 4.01,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "银行卡业务",
+          "income": 12863000000.0,
+          "incomeRatio": 3.78,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "存放和拆放同业及其他金融机构款项",
+          "income": 9520000000.0,
+          "incomeRatio": 2.8,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "存放中央银行款项",
+          "income": 5734000000.0,
+          "incomeRatio": 1.68,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "代理业务",
+          "income": 4799000000.0,
+          "incomeRatio": 1.41,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "投行类业务",
+          "income": 3694000000.0,
+          "incomeRatio": 1.08,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        },
+        {
+          "name": "信用承诺",
+          "income": 2300000000.0,
+          "incomeRatio": 0.68,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 12
+        },
+        {
+          "name": "买入返售金融资产",
+          "income": 2270000000.0,
+          "incomeRatio": 0.67,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 13
+        },
+        {
+          "name": "其他",
+          "income": 1563000000.0,
+          "incomeRatio": 0.46,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 14
+        },
+        {
+          "name": "结算与清算业务",
+          "income": 971000000.0,
+          "incomeRatio": 0.29,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 15
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "总行",
+          "income": 78730000000.0,
+          "incomeRatio": 41.22,
+          "cost": 47979000000.0,
+          "costRatio": 36.41,
+          "profit": 30751000000.0,
+          "profitRatio": 51.94,
+          "grossMargin": 39.06,
+          "rank": 1
+        },
+        {
+          "name": "长三角地区",
+          "income": 40095000000.0,
+          "incomeRatio": 20.99,
+          "cost": 17437000000.0,
+          "costRatio": 13.23,
+          "profit": 22658000000.0,
+          "profitRatio": 38.27,
+          "grossMargin": 56.51,
+          "rank": 2
+        },
+        {
+          "name": "中部地区",
+          "income": 15778000000.0,
+          "incomeRatio": 8.26,
+          "cost": 7764000000.0,
+          "costRatio": 5.89,
+          "profit": 8014000000.0,
+          "profitRatio": 13.54,
+          "grossMargin": 50.79,
+          "rank": 3
+        },
+        {
+          "name": "环渤海地区",
+          "income": 15538000000.0,
+          "incomeRatio": 8.14,
+          "cost": 9644000000.0,
+          "costRatio": 7.32,
+          "profit": 5894000000.0,
+          "profitRatio": 9.96,
+          "grossMargin": 37.93,
+          "rank": 4
+        },
+        {
+          "name": "珠三角及海西地区",
+          "income": 13883000000.0,
+          "incomeRatio": 7.27,
+          "cost": 6999000000.0,
+          "costRatio": 5.31,
+          "profit": 6884000000.0,
+          "profitRatio": 11.63,
+          "grossMargin": 49.59,
+          "rank": 5
+        },
+        {
+          "name": "境外及附属机构",
+          "income": 13197000000.0,
+          "incomeRatio": 6.91,
+          "cost": 6746000000.0,
+          "costRatio": 5.12,
+          "profit": 6451000000.0,
+          "profitRatio": 10.9,
+          "grossMargin": 48.88,
+          "rank": 6
+        },
+        {
+          "name": "西部地区",
+          "income": 9745000000.0,
+          "incomeRatio": 5.1,
+          "cost": 29591000000.0,
+          "costRatio": 22.46,
+          "profit": -19846000000.0,
+          "profitRatio": -33.52,
+          "grossMargin": -203.65,
+          "rank": 7
+        },
+        {
+          "name": "东北地区",
+          "income": 4016000000.0,
+          "incomeRatio": 2.1,
+          "cost": 5617000000.0,
+          "costRatio": 4.26,
+          "profit": -1601000000.0,
+          "profitRatio": -2.7,
+          "grossMargin": -39.87,
+          "rank": 8
+        }
+      ]
+    }
+  ],
+  "analysis": [
+    {
+      "reportDate": "2025-12-31",
+      "businessReview": "2025年是公司深耕实体经济、践行数智化战略的提升之年。报告期内,公司深入贯彻党中央、国务院和上海市委、市政府决策部署,严格落实监管要求,扎实做好金融“五篇大文章”,锚定上海“五个中心”建设,坚持高目标引领、高效率协同、高质量发展“三高”要求,在“五大赛道”上精耕细作,在超级平台、超级产品、超级系统“三超”建设的征程中开拓创新,实现了“服务能级迈上新台阶、经营效益韧性改善、资产结构向新向好、负债质量持续夯实、资产质量稳步提升、资本实力有序扩充”的良好经营发展态势。服务能级迈上新台阶。报告期末,本集团资产总额突破10万亿元至100,817.46亿元,较上年末增加6,198.66亿元,增长6.55%;其中,本外币贷款总额(含票据贴现)为57,039.73亿元,较上年末增加3,124.43亿元,增长5.80%。本集团负债总额92,573.16亿元,较上年末增加5,402.17亿元,增长6.20%;其中,本外币存款总额为55,824.35亿元,较上年末增加4,364.76亿元,增长8.48%。经营效益韧性改善。报告期内,本集团实现营业收入1,739.64亿元,同比增加32.16亿元,增长1.88%;实现利润总额533.74亿元,同比增加50.08亿元,增长10.35%。归属于母公司股东的净利润500.17亿元,同比增加47.60亿元,增长10.52%,连续两年保持两位数增长。归属于母公司股东的扣除非经常性损益的净利润501.44亿元,同比增加59.37亿元,增长13.43%。集团净息差为1.42%,较上年持平。平均总资产收益率(ROA)为0.52%,较上年上升0.02个百分点;加权平均净资产收益率(ROE)为6.76%,较上年上升0.48个百分点;成本收入比为28.50%,较上年下降0.66个百分点。资产结构向新向好。报告期内,公司积极响应国家政策导向,聚焦中长期制造业发展和现代化产业体系等关键领域,加大信贷投放力度,以精准的金融资源配置,推动资产结构向新而行。报告期内,“五大赛道”业务成为公司贷款主要增长极;制造业中长期贷款总额3,599.26亿元,较上年末增加410.14亿元,增长12.86%,高于整体贷款增速7个百分点。同时,坚持“提质增效、动态调优”策略,将资源向高收益资产倾斜,推动资产结构深度优化。2025年集团本外币贷款(不含票据贴现)在生息资产日均占比提升近2个百分点,有效缓解了降息周期下资产收益率的下行压力。负债质量持续夯实。报告期内,本集团强化市场趋势前瞻性研判,系统构建负债质量管理体系,多措并举拓展高价值、低成本负债,合理安排期限结构,推动整体负债呈现“量增、价降、质升”的良好局面,负债付息率较上年下降46bps。报告期末,集团本外币存款总额55,824.35亿元,较上年末增加4,364.76亿元,增长8.48%;存款在计息负债日均占比较上年提升近3个百分点;本外币存款付息率较上年下降38bps,有效支撑成本压降和净息差企稳。资产质量稳步提升。报告期内,本集团坚持“控新降旧”并举,构建数字化风控体系,严格新增准入标准,同时持续加大存量不良资产处置力度,风险压降成效显著。报告期末,本集团不良贷款余额、不良贷款率较上年实现“双降”,其中不良贷款额719.90亿元,较上年末减少11.64亿元,为2019年以来最低水平;不良贷款率1.26%,较上年末下降0.10个百分点,为2015年以来最好水平;风险抵补能力持续提升,拨备覆盖率200.72%,较上年末上升13.76个百分点,为2016年以来最优水平;资产质量前瞻性指标表现良好,逾欠90天和60天偏离度持续保持在100%以内。资本实力有序扩充。本集团统筹推进外源资本补充与内源资本积累,成功完成498.37亿元可转债转股,创A股历史单笔最大规模转股纪录,并顺利发行500亿元无固定期限资本债券和200亿元二级资本债券;持续深化资本集约化转型及精细化管理,打造“盈利增长-资本积累-业务发展”的资本内生循环机制。报告期末,本集团资本充足率12.47%,一级资本充足率9.99%,核心一级资本充足率8.99%,资本对业务发展的保障支持作用稳步增强。",
+      "futureExpect": "行业格局和趋势2025年银行业稳健经营态势持续巩固,核心经营指标保持良性运行。2025年末,银行业金融机构总资产规模保持增长,本外币资产总额480万亿元;信贷资产质量总体稳定,年末商业银行不良贷款余额3.5万亿元,不良贷款率1.50%;风险抵补能力整体充足,资本充足率为15.46%,一级资本充足率为12.37%,核心一级资本充足率为10.92%;不良贷款率稳定在1.50%;净利润与上年同期基本持平,展现出较强的风险抵御能力与经营韧性。机构格局呈现“国有大行主导、股份制银行突破、多元主体协同”的特征,国有大行凭借资金成本与网点优势,在服务国家重大战略、普惠金融、消费提振等领域持续发挥主力军作用;股份制银行则通过布局金融资产投资公司(AIC),在资产盘活、资本运作及产融协同等维度实现突破性进展,为行业注入新生力量。同时,银行业竞争逻辑从规模转向质量,精细化运营与专业能力成为核心竞争力,资本市场对行业估值修复的认可,进一步印证了格局优化的积极成效。未来,随着金融“五篇大文章”持续深化、金融科技与产业融合提质升级,银行业将在风险防控与转型创新中寻求更高水平的发展,持续为经济社会发展提供坚实金融支撑。对商业银行经营业务和盈利能力构成重大影响情况一是银行业呈现一定“资产荒”现象。一方面,宏观经济复苏面临“产能过剩、有效需求不足、预期转弱”三重压力持续叠加,信贷需求增长动能不足。另一方面,地方政府化债工作稳步推进、逆周期调节方式优化转型,叠加大型企业融资结构持续向直接融资倾斜,进一步挤压传统信贷市场的拓展空间。二是在存款利率调整和资本市场活跃度提升的双重影响下,居民资产配置呈现多元化趋势。部分存款从银行体系流向基金、理财、股票、黄金等投资渠道,对商业银行的存款基础构成了一定调整压力。面对存款结构的变化,商业银行需要加强负债端管理,优化成本结构,在流动性管理、产品创新和服务优化等方面做出应对。三是净息差收窄压力仍然较大。受全年适度宽松货币政策导向影响,贷款端定价中枢持续下移,而存款端虽经多轮挂牌利率调降、中长期高息存款压降,但负债成本刚性特征仍较明显。息差承压直接导致行业传统盈利模式受限,银行更加注重非利息收入业务的拓展。净息差的变化对银行的利润积累能力形成了一定影响,关系到资本内生补充效率和拨备计提的灵活性。银行业需要在盈利模式转型和风险抵御能力建设方面强化主动管理。"
+    },
+    {
+      "reportDate": "2024-12-31",
+      "businessReview": "2024年,公司深入贯彻党的二十届三中全会会议精神,认真落实上海市委市政府决策部署及监管要求,扎实做好金融“五篇大文章”,服务上海“五个中心”建设,坚定践行数智化战略,聚焦科技金融、供应链金融、普惠金融、跨境金融、财资金融“五大赛道”,不断提升服务实体经济成效,资产负债规模稳步增长,经营效益实现较好增长,资产质量持续改善,继续保持和巩固稳健向好的经营发展态势。资产负债规模稳步增长经营效益实现较好增长资产质量持续改善报告期末,本集团资产总额为94,618.80亿元,较上年末增加4,546.33亿元,增长5.05%;其中,本外币贷款总额(含票据贴现)为53,915.30亿元,较上年末增加3,737.76亿元,增长7.45%。本集团负债总额87,170.99亿元,较上年末增加4,427.36亿元,增长5.35%;其中,本外币存款总额为51,459.59亿元,较上年末增加1,613.29亿元,增长3.24%。报告期内,本集团实现营业收入1,707.48亿元,同比减少26.86亿元,下降1.55%;剔除上年同期出售上投摩根股权一次性因素影响后,营业收入同比增加15.55亿元,增长0.92%。实现利润总额483.66亿元,同比增加76.74亿元,增长18.86%;归属于母公司股东的净利润452.57亿元,同比增加85.55亿元,增长23.31%。归属于母公司股东的扣除非经常性损益的净利润442.07亿元,同比增加103.25亿元,增长30.47%。平均总资产收益率(ROA)为0.50%,较上年上升0.08个百分点;加权平均净资产收益率(ROE)为6.28%,较上年上升1.07个百分点;成本收入比为29.16%,较上年下降0.49个百分点。经营效益增长的主要原因为:一是信贷实现快速增长,公司聚焦重点赛道、重点领域、重点区域,加快信贷资产投放,集团信贷净增量超3,700亿元,创历史新高,量能提升抵御市场利率下行的效果显著,为利息净收入的稳定提供支撑。二是强化负债统筹管理,付息成本管控取得成效,集团存款付息率比去年同期下降19bps,其中公司客户、零售客户存款付息率分别下降21bps和14bps。三是主动把握投资交易机遇,积极增厚投资收益。集团其他非利息净收入(不含手续费)332.15亿元,同比增加26.69亿元,增长8.74%。四是资产质量不断夯实,精细化管理实现降本增效。加大多方式、多渠道、市场化不良资产处置力度,持续强化现金清收,报告期内实现不良资产现金清收378亿元,集团信用减值损失及其他资产减值损失同比下降9.61%;业务及管理费同比下降3.17%。报告期内,本集团坚持风险“控新降旧”并举,持续加大存量不良资产处置力度,风险压降成效显著,不良贷款余额、不良贷款率较年初实现“双降”。截至报告期末,本集团不良贷款余额为731.54亿元,较上年末减少10.44亿元,不良贷款率1.36%,较上年末下降0.12个百分点;资产质量前瞻性指标表现良好,逾欠90天和60天偏离度保持在100%以内;风险抵补能力持续提升,拨备覆盖率186.96%,较上年末上升13.45个百分点。",
+      "futureExpect": "行业格局和趋势2024年,银行业经营状况基本平稳,资产规模保持增长,金融服务持续加强,资产质量总体稳定,风险抵补能力整体充足,流动性水平保持平稳。截至2024年末,我国银行业金融机构本外币资产总额444.6万亿元,同比增长6.5%。其中,大型商业银行本外币资产总额190.3万亿元,同比增长7.6%,占比42.8%;股份制商业银行本外币资产总额74.2万亿元,同比增长4.7%,占比16.7%;商业银行不良贷款率1.50%;商业银行(不含外国银行分行)资本充足率、一级资本充足率以及核心一级资本充足率分别为15.74%、12.57%和11.00%;贷款损失准备余额为6.9万亿元;拨备覆盖率为211.19%;贷款拨备率为3.18%。当前,商业银行正积极调整战略,将全面深化改革作为发展主基调,全面加强风险内控管理,不断优化资产负债业务总量与结构,为经济社会发展提供高质量金融服务。下一阶段公司管理措施面对当前形势与高质量发展的工作要求,公司将坚持以习近平新时代中国特色社会主义思想为指导,深入贯彻党的二十大和二十届二中、三中全会精神以及中央经济工作会议精神,坚决落实党中央、国务院、上海市委、市政府决策部署及监管要求,坚持完整、准确、全面贯彻新发展理念,紧扣数智化战略核心,围绕“强赛道、优结构、控风险、提效益”的经营主线,锚定高质量发展目标不动摇,凝聚共识、坚定信心、抢抓机遇、奋力一跳,全力打造上海国际金融中心金融名片,全力打造浦发银行核心竞争能力,全力完成年度各项工作目标任务,开创“具有国际竞争力的一流股份制商业银行”建设新局面。2025年,公司将重点围绕一个战略核心、坚持三高要求、做强五大赛道、聚焦八项工作、强化三类支撑,即“1-3-5-8-3”核心经营举措,不折不扣抓落实、久久为功创佳绩。围绕一个战略核心:继续围绕数智化战略核心,坚持一张蓝图干到底,持续推动数字基建、数字产品、数字运营、数字风控、数字生态等“五数”工程落地见效,进一步推进数智化战略在集团内落地生根。坚持三高要求:坚持高目标引领,全力服务好国家重大战略、上海重大任务,奋力展现上海金融名片和龙头企业的新气象;坚持高质量发展,持续调优资产、负债、客户等结构,培育高质量发展新动能,守牢风险合规底线,夯实高质量发展根基;坚持高效率协同,在信息系统、产品队伍、体制机制等方面加强协同融合,提高经营效率。做强五大赛道:科技金融强化智能化全流程线上经营,构建体系化比较优势;供应链金融通过升级打磨供应链产品方案不断提升服务质效;普惠金融依托小微及个人贷款中心建设和“浦惠来了”APP平台,打造线上线下有机融合的高效作业模式;跨境金融做透战略客户跨境经营、做优跨境结算产品服务、建成跨境服务生态体系,树立“浦赢跨境”品牌形象;财资金融持续打造客户财富管理优选银行。聚焦八项重点工作:因客施策,做大客群底盘;增存稳存,实现量的突破增长和结构优化;聚力投放,确保战略赛道及数智化重点产品在增量中的占比优势;稳定营收,持续做好结构优化、产品创新、定价管理;拓展中收,加速推进轻资本模式转型发展;全面风控,完善风险合规管理体系,不断夯实高质量发展的长效根基;打造特色,持续提升并购、绿色、养老等优势业务的市场竞争力;平台助力,加速打造集团整体协同作战能力。强化三类支撑:持续完善全过程考核机制建设,考核侧重点更加关注与全行战略落地相呼应,加强政策优化,动态检验经营成效;持续提高全领域干部人才素质,扎实推进人才队伍建设三年行动计划,围绕人才发展“引、育、选、用、励”全链发力;持续抓好全方位精细化管理,锻造稳健发展的强劲韧性。"
+    },
+    {
+      "reportDate": "2023-12-31",
+      "businessReview": "3.1公司总体经营情况2023年,面对复杂严峻的内外部环境,公司深入贯彻党中央、国务院和上海市委市政府决策部署,认真落实监管要求,坚定不移践行中国特色金融发展之路,齐心协力、共克时艰,深入推进改革创新与转型发展,不断提高服务实体经济质效。2023年四季度以来,公司以数智化战略为引领,开展“百日攻坚”,加大资产投放力度,净利润降幅较前三季度收窄,风险压降成效显著,经营发展整体呈现企稳向好态势,夯实了高质量发展的基础。资产负债规模稳步增长报告期末,本集团资产总额为90,072.47亿元,较上年末增加3,025.96亿元,增长3.48%;其中,本外币贷款总额(含票据贴现)为50,177.54亿元,较上年末增加1,170.92亿元,增长2.39%。对公贷款总额(不含票据贴现)28,409.99亿元,零售贷款总额18,658.22亿元。本集团负债总额82,743.63亿元,较上年末增加2,764.87亿元,增长3.46%;其中,本外币存款总额为49,846.30亿元,较上年末增加1,581.52亿元,增长3.28%。经营效益阶段性承压报告期内,公司积极服务实体经济,加快转型发展步伐,不断夯实客户基础。受资产重定价、市场利率下行、资本市场波动,以及公司信贷增长动能不足、业务结构调整等因素影响,公司效益指标阶段性承压。本集团实现营业收入1,734.34亿元,同比减少151.88亿元,下降8.05%;实现利润总额406.92亿元,同比减少154.57亿元,下降27.53%;归属于母公司股东的净利润367.02亿元,同比减少144.69亿元,下降28.28%。服务实体经济提质增效报告期内,公司持续推进业务结构转型和优化,加大支持实体经济力度。报告期末,母公司本外币对公贷款总额(不含贴现)27,414.93亿元,较上年末增加2,374.60亿元,增长9.48%。其中,制造业中长期贷款余额2,780亿元,较上年末增加597亿元,增长27.35%。绿色信贷余额5,246亿元,较上年末增加975亿元,增长22.82%。科技型企业贷款余额超5,000亿元,增长超30%。普惠两增贷款余额4,224亿元,较上年末增加457亿元,增长12.15%。民营企业贷款余额15,211亿元,较上年末增加1,425亿元,增长10.34%。涉农贷款余额3,827亿元,较上年末增加329亿元,增长9.42%。资产质量持续改善报告期内,公司风险管理坚持“控新降旧”并举,持续加大存量不良资产处置力度,全年现金清收金额创新高,不良贷款余额、不良贷款率连续四年“双降”。报告期末,本集团不良贷款余额741.98亿元,较上年末减少4.21亿元;不良贷款率1.48%,较上年末下降0.04个百分点;拨备覆盖率173.51%,较上年末上升14.47个百分点;贷款拨备率(拨贷比)2.57%,较上年末上升0.15个百分点。集团化、国际化经营稳步拓展报告期内,本集团强化协同力度,推动子公司落实监管要求,保持稳健发展。公司充分利用跨境业务平台,稳步推进国际化经营。报告期内,境外及附属机构实现营收合计150.41亿元,营业利润61.90亿元。国际业务平台资产合计3,590.66亿元。3.2公司战略优化及战略执行情况3.2.1公司发展战略公司坚持党对金融工作的领导,以务实行动践行金融工作的政治性和人民性,提升金融服务的专业性,履行好国有金融企业的政治责任、经济责任和社会责任。公司积极推动战略优化,强化战略驱动,将数智化作为构建发展新动能的战略安排,聚焦科技金融、供应链金融、普惠金融、跨境金融、财资金融“五大赛道”,加快构建数字基建、数字产品、数字运营、数字风控、数字生态,着力打造客户经营与服务体系、数据经营管理体系、智能化的大运营体系、产品创新和服务体系、风险管理体系“五大体系”,配套实施区域策略、行业策略、线上化策略、数字化创新策略“四大策略”,加强组织保障、资源保障和政策保障“三大保障”体系建设,全力推动数智化战略落地生根,打造“第二增长曲线”。3.2.2聚焦“五大赛道”,推动数智化战略实施科技金融方面,公司积极贯彻落实中央金融工作会议要求,深入做好“科技金融”大文章,聚焦数智化战略,将科技金融作为战略主赛道深入推进,全力服务现代化产业体系建设,深度赋能科技企业创新发展,成为科技金融生态圈的重要纽带,陪伴科技企业成长的伙伴银行。报告期内,公司打造“商行+投行+生态”模式,提供“股、贷、债、保、租、孵、撮、联”一体化服务,推出全新“浦科”产品系列,为企业提供“浦创贷”“浦投贷”“浦新贷”“浦研贷”“浦科并购贷”等“5+7+X”组合产品(5大拳头产品、7大重点产品、X个定制化产品),为科技型企业提供全生命周期的多元化、接力式金融服务,持续深化“浦发科创”品牌建设。截至报告期末,科技型企业贷款余额超5,000亿元,增幅超30%。服务科技型企业超5万户,超70%的科创板上市企业为公司服务客户。供应链金融方面,公司全力推动供应链金融发展,以产业赋能、提升服务实体经济质效为目标,构建全场景、全线上、全智能、全生态的数智供应链体系,助力企业稳链、固链、强链。聚焦汽车、新能源、高端制造等产业链,丰富供应链金融服务的应用场景,并持续加强区块链、物联网、大数据、云计算、人工智能等新技术的应用,推动“浦链通”品牌系列在线供应链金融产品创新、功能迭代、流程优化、服务升级以及“浦链e融”供应链金融平台的建设。报告期末,公司累计服务供应链核心客户1,664户,上下游供应链客户20,456户,表内外融资业务规模3,665亿元,其中保理及国内证业务均位列股份制同业前列。普惠金融方面,公司从数字普惠发展、强化产品创新、发挥政策协同等方面强化普惠金融体制机制建设,紧密围绕金融支持实体经济的工作主线,深化数据运用和科技赋能,不断扩大客户触达面和覆盖面,提升小微企业和零售客户金融服务效能。通过科技赋能实现普惠线下贷款线上化转型,打造标准化、高效化、线上化申请的抵押产品“浦惠抵贷”“宅抵速贷”,以及信用类产品“浦惠易贷”;推出线上化“一键续贷”功能,提升客户续贷体验;充分发挥互联网贷款无接触服务优势,以浦慧税贷、在线供应链、平台合作场景贷三大优势产品为抓手,将线上经营贷打造成为普惠贷款重要增长极。同时,持续完善全流程数字风控体系。报告期末,普惠两增口径贷款余额4,224亿元,两增口径小微贷款户数31.29万户。跨境金融方面,公司紧跟国家高水平对外开放,服务共建“一带一路”和上海“五个中心”建设,发挥集团各持牌机构的整合优势,以优质、高效、便捷的跨境金融服务为企业国际化经营保驾护航。推出“6+X”跨境金融服务体系(6指境内跨境、离岸银行、FT牌照、金融市场、托管、境外机构,X为集团子公司跨境业务、外资同业机构跨境合作、金融要素市场联盟等),通过加载对公、金融市场、财资管理、跨境托管等全场景产品服务,支持中资客户“走出去”、承接海外客户“引进来”,满足公司、机构、个人全维度客户跨境金融活动中各类业务需求。截至报告期末,公司跨境活跃客户数3.6万户,累计为逾5000多家跨国企业客户提供自贸金融服务。报告期内,实现跨境业务量3.2万亿元,跨境人民币代理结算业务30.15万笔,同比增长49.8%,结算金额3.89万亿元,同比增长48.82%。“浦银避险”年交易量超1.1万亿元,服务客户2.4万户。报告期末,自贸FT存、贷款余额分别超600亿元、700亿元,累计搭建自贸资金池超490个,公司CIPS代理间参客户254家,境外及外资间参客户127家,均保持股份制同业领先地位。财资金融方面,公司坚持“人民金融”底色,发挥集团内各经营牌照优势和差异化经营特色,实现“财富管理+资产管理”双轮一体,循环驱动,为客户提供普惠化、数智化、专业化的资产配置服务。聚焦“价值创造、专业服务、渠道协同、数字赋能”,打造“投研输出-产品优选-资产配置-持营陪伴”的服务闭环。优化财资产品货架建设,丰富养老金融产品和服务,提升法人客户财富管理业务定制化能力,推出“浦发企明星”企业家客群服务平台。强化线上财资能力建设,增强全量客户经营能力。报告期末,个人客户(含信用卡)达到1.57亿户,AUM个人金融资产余额(含市值)3.68万亿元,个人存款余额1.38万亿元。3.2.3围绕“五篇大文章”,以高质量发展助力金融强国建设3.2.3.1服务国家区域重大战略报告期内,公司紧抓长三角一体化发展契机,充分发挥公司在对公业务领域的传统优势,加大对长三角区域的资源投入力度,用好“长三贷”“长三债”“长三链”“长三购”等长三角一体化工具箱,为企业同城化授信、数字化转型、供应链升级和跨区域并购等需求提供更加高效便利的金融服务。积极助力长三角产业转型升级,持续加大对集成电路、生物医药、航空航天、高端装备等新兴产业领域,以及普惠小微、科技创新、绿色金融等领域的支持力度,进一步巩固长三角区域一体化发展的优势特色。截至报告期末,公司在长三角区域内贷款余额1.66万亿元,存款余额2.16万亿元,存、贷款余额均位列股份制同业第一位。公司在京津冀地区聚焦战略性新兴产业、先进制造业、节能环保等领域,大力支持雄安新区和环首都经济圈建设,紧密对接非首都功能疏解、产业转型升级、区域产业批量转移的国家级园区建设。助力央企加快建设一流财务管理司库体系,发布《北斗司库——全球司库服务方案》。截至报告期末,公司在京津冀地区贷款余额4,600.25亿元。公司积极支持粤港澳大湾区构建产业新体系,重点支持先进制造业、新兴产业和现代服务业发展。聚焦重大平台建设、科技创新合作、基础设施互通、产业协同发展、民生交流合作等,支持纵深推进新阶段粤港澳大湾区建设。公司通过跨境业务联动,为湾区企业赴港上市搭建投融资通道,利用境外银团、并购贷款为科创企业、先进制造企业提供中长期跨境资金支持,积极支持港澳客户参与境内绿色环保项目,通过多币种、多模式境外债助力大湾区固定资产项目建设。截至报告期末,公司在粤港澳地区贷款余额6,456.40亿元。3.2.3.2助力谱写“五篇大文章”科技金融公司高度重视科技金融服务工作,不断完善内部机制、创新金融产品、搭建金融服务平台,聚力推动科技创新链、产业链、资金链、人才链深度融合。将科技型企业纳入全行金融服务重点客群,积极贯彻落实国家创新驱动、科技强国战略和十四五规划相关要求,大力支持战略新兴产业和科技型企业,促进“科技-产业-金融”良性循环,助力加快发展新质生产力,推动实现高水平科技自立自强。公司持续优化顶层架构设计,完善组织体系,建立了科技金融专业体系及服务团队,在全国范围增设一批科技特色支行,覆盖长三角、珠三角、环渤海和中西部重点城市的科技高地。横向联动浦发硅谷银行、浦银国际、上海信托等集团内优势资源,充分发挥集团协同效应,精准支持科技企业提质增效,为科技企业全生命周期发展保驾护航。公司持续加大与政府机构、高校院所、交易所、投资基金、行业枢纽企业、资本市场中介机构等的合作联动力度,共同打造“商行+投行+生态”的综合服务模式,构筑具有浦发银行特色的科技金融战略合作生态圈。优化科技企业客户评价体系,以数据为驱动重塑风险逻辑,通过多元化信息集成,打造企业级科技标签库,建设科技金融专属评价体系和“六位一体”的风控策略。公司深化科技金融数智化建设,推出“抹香鲸”数字化拓客工具,可批量精准地挖掘客户需求,并实现客户服务的全流程管控和全数字化穿透,以数智驱动提增业务发展效能。绿色金融作为国内较早开启绿色金融探索的银行,公司积极服务国家“双碳”目标,从战略高度推进绿色金融,创新绿色金融体系,推出“浦发绿创”品牌,推进绿色银行建设,践行绿色低碳运营。报告期内,公司持续提升创新力,落地多个市场“首单”。支持上海市首单交通领域“光伏+”示范工程项目贷款、银行间市场首笔绿色业务买断式回购业务、符合上海市转型金融标准的首单转型贷款、承销发行全国首单数字人民币绿色超短期融资券、承销发行全国首单煤炭企业碳资产债券、承销发行全市场首单民企绿色科创债券等。公司加大对绿色债券、绿色资产支持证券/票据的投资配置力度,发布全市场唯一“绿色”+“普惠”概念债券指数,投资全市场首单绿色自贸区债券、首批境外人民币绿色债券、首单联合国可持续发展目标点心债、首单港企可持续发展挂钩熊猫债等。报告期末,公司绿色信贷余额5,246亿元,较上年末增长975亿元,增幅22.82%。其中,长三角区域绿色信贷余额2,151亿元,清洁能源产业贷款余额1,351亿元,均位居股份制银行同业前列。在碳减排支持工具的支持下,报告期内,公司向64个项目发放碳减排贷款52亿元,带动年度碳减排量达151万吨二氧化碳当量。自获得碳减排支持工具以来,公司累计向151个项目发放碳减排贷款186亿元,带动碳减排量达500万吨二氧化碳当量,位居股份制同业前列。公司绿色债务融资工具承销规模53.34亿元,其中碳中和债承销金额13.8亿元。普惠金融公司深度落实《国务院关于推进普惠金融高质量发展的实施意见》,向市场推出“普惠+小微客户伙伴银行服务举措”,汇聚三十条措施。产品方面,聚焦小微企业和个体工商户的融资诉求,全新推出“浦惠抵贷”“宅抵速贷”“浦惠易贷”产品;升级银税贷,加强银担合作业务管理;优化续贷业务,提升客户续贷体验;不断迭代供应链产品,拓展供应链场景,将线上经营贷打造成为普惠贷款重要增长极,加大小微企业资金支持力度。风险控制方面,持续迭代全流程数字风控体系建设,加大数据引入和运用,迭代完善模型和策略,并打造提供智能风险感知、风险提示、模型策略自迭代、评审部署全在线的风险洞察管理平台;打造智能催收体系,完善在线业务风险把控,实现了多渠道多方位的立体式催收方式,强化线上化、数字化、智能化的资产质量管控。养老金融报告期内,公司积极贯彻国家和监管部门工作要求,不断提升养老金业务的战略定位,促进养老金金融、养老服务金融、养老产业金融发展,与政府职能部门、养老企业、金融机构精准快速对接,实现个人养老金融高价值经营,持续完善“浦悦金生”养老金融服务体系建设。养老金金融方面,在基本养老金领域,公司长期服务多地社会保险事业管理中心,开展基本养老金代发;坚持贯彻各地政府要求,支持社保卡加载社保、金融、医疗、城市服务功能,创建“社银合作”标准化服务网点,统一配置业务办理区、业务宣传区等,受理社保相关服务。在职业年金和企业年金领域,持续推进年金托管和账户管理的数字化转型,搭建“全程可视、全域可控、全线智能、全景服务”的数字化托管运营体系;强化投资监督,提高投监系统性能和自动化程度,保障年金基金安全运营。报告期末,公司在养老金第二支柱领域已托管各类年金资产超4,200亿元,服务全国6,000多家企业。个人养老金领域,不断提升数字化服务水平和公共服务能力。积极接入各地电子政务平台,先行先试“随申办”个人养老服务专区,为居民提供个人养老金账户线上开立及查询等一站式服务;搭建覆盖线上线下的立体式客户服务渠道,上架近百只个人养老金储蓄、理财、基金、保险产品,依托各类客群特征,为客户提供定制化、个性化养老金融投资方案。养老服务金融方面,通过个人手机银行APP关爱版,加强高频服务引导,通过增加转账、缴费、产品复购等常用功能入口,优化网点预约地址和排队信息,简化老年用户的办理步骤;加强关键节点的引导提示,针对人脸识别增加动作指导,重点资讯支持语音播报,摇一摇即可唤起人工客服等,提升复杂业务办理效率;强化安全服务,建设防骗宝典,及时宣传反欺诈典型案例等,保护老年客户资金安全;报告期累计服务60岁以上老年客户606万人次。通过关爱版智能终端,实现适老服务线下网点全覆盖,发卡、激活等业务可连接远程柜员一站式办理,报告期累计服务近150万人次。养老产业金融方面,公司支持养老产业发展,加大养老产业流动资金贷款、基本建设贷款、技术改造贷款、银团贷款等信贷投放力度,满足养老照护、老年医疗、健康服务等各类养老产业公司的融资需求。为养老产业客户提供集中代收付、人民币资金池、银企直连等现金管理与结算服务,助力养老产业公司提升资金使用效率。数字金融互联网时代下,大数据、AI人工智能和云计算已成为关键的生产要素和技术支柱。公司作为金融科技的先行者,强化数字化、智能化创新建设,深入推进数字金融创新发展,对外赋能业务拓展,对内提升运营效率,促进数字技术和金融业务的深度融合,助力数字经济发展。业务数字化转型(1)公司业务领域,搭建全球司库(GMTS)平台。打造“收、管、付、融”一体化服务体系,为“走出去”企业经营提供支持多币种、多语言、多时区、多银行的“一站式”服务,实现全球资金统一管理。通过抹香鲸大数据移动穿透营销,有效支撑公司科创金融业务开展。搭建投行“浦智”系列平台、打造“浦智E购”并购金融业务支持系统、“浦智E讯”对客咨询顾问融智服务平台、“浦智E融”中长期资金的融资服务平台以及“浦链E融”供应链金融平台,推进公司客户经营管理数字化能力及穿透管理能力提升。(2)零售业务领域,手机银行APP换新升级,开设“小浦支付”专区,为支付结算客群提供一站式服务体验,打造专业、便捷、惠民的支付活动品牌。搭建手机银行用户体验监测体系。围绕财富、贷款、结算核心金融服务,重塑功能布局、简化服务旅程、焕新交互设计。财富号强化财富合作生态,提供专业普适的财富知识、热点互动、投教体验服务;数字理专深化人机协同服务,报告期内累计服务客户近2000万人次。截至报告期末,手机银行MAU月活人数2,908万,较上年增加14.71%,交易金额11.10万亿元,均排名股份制同业前列。数字零贷推出循环额度、线上线下融合的消费贷款产品“浦闪贷”,消费贷款较上年末净增357亿元,实现较快增长。住房按揭业务打造“智慧快按”,提升预批精准度和自动风险探测能力。(3)金融市场领域,升级“智能投研、智能交易、智能监控”平台,完善托管业务系统建设,迭代优化票据经营模型体系,强化避险业务融智输出。报告期内,智能生产投研报告近750篇;债券对外程序化报价超588万笔;外汇对外程序化报价900万笔。AI交易员“小浦”累计服务金融机构261家,撮合超2.8万亿元交易。(4)风险合规领域,完善账户、客户、产品、渠道的联防联控体系。联动天眼系统,加强对业务风险的识别监测;搭建自动审批模型,丰富风险预警监测规则,加强实时动态管控规则的部署,持续提升反洗钱风险防范能力与识别能力;科技赋能合规风控,强化制度嵌入流程、机控代替人控,减少操作风险。智能监控平台实现10类异常情况的自动筛查,每月识别异常交易300笔。(5)内部管理方面,持续提升办公软件Call浦、新邮件、新OA系统的使用体验。优化行内碳足迹平台,上线总行浦云碳控(用电监控)智能系统,报告期内完成100个网点接入,实现年节电约170万度,减碳992吨。完成人力资源管理系统和管理会计系统迭代优化,强化对经营管理决策的支撑。数据资产经营公司积极探索和参与数据要素市场,深化各地政府数据合作,以客户拓展、规模提升、风险防控、经营管理为价值导向,推进数据生态场景落地,以“数据”为桥梁,提供更多的“一站式”金融服务,提升数据价值。全行数据资产规模达62.51PB,较上年末增长51.17%。数字科技基础强化AI基础平台的业务场景支撑能力,自主研发并投产大模型应用支撑平台,提供大模型推理、知识管理等核心能力,完成企业智能风险分析、审计制度问答等10个大模型应用场景上线运行,业内首家通过信通院《人工智能研发运营一体化(MLOps)服务能力》旗舰级认证。推进分布式架构体系建设,分布式架构体系基座基本成型,具备支撑10万TPS、秒级故障自动切换的极致承载能力。持续推进数字科技创新专利布局。截至报告期末,已累计递交信息科技专利申请974件,累计授权且维持有效专利124件。3.2.4服务上海“五个中心”建设,助力增强“四大功能”作为总部位于上海的金融旗舰企业,公司深入贯彻落实习近平总书记考察上海重要讲话精神,始终与上海发展同频共振,主动担当,积极作为,全力支持上海国际经济中心、金融中心、贸易中心、航运中心、科技创新中心“五个中心”建设重要使命,以科技创新为引领,以改革开放为动力,以国家重大战略为牵引,在上海提升城市能级和核心竞争力方面发挥应有作用。参与金融要素市场建设,服务上海国际金融中心建设,强化全球资源配置功能。公司持续促进发挥市场价格发现和风险管理功能,金融市场30余项业务排名全市场前三位,落地全市场首单、首批业务50余项。金融机构客户经营平台“e同行”面向生态场景,报告期末线上交易规模约1.7万亿,注册客户数近2,800户,有效提升对债券借贷、利率债等业务的支撑。“浦银避险”累计服务客户约2.4万户,累计支持近800家企业客户获得政策红利,持续降低融资成本,惠及企业融资规模超过1,300亿元。“靠浦托管”APP构建面向全用户、覆盖全渠道、服务场景化、运营可视化的托管线上服务体系,年用户增长率保持20%以上。持续推动自贸业务创新,服务上海国际贸易中心建设,强化开放枢纽门户功能。业内首批设立上海自贸区分行,率先实现上海网点自贸业务全覆盖。上海地区FT活跃客户超3,100户;年内累计跨境交易量9,272亿元,同比增幅近18%,FT业务核心指标均处于市场领先地位。成立临港新片区分行,与临港新片区管委会组建联合专班,助力临港打造跨境金融领域的制度供给和创新中心。落地首个全功能型本外币一体化资金池、首单跨境人民币便利化服务、首批离岸经贸业务结算、首批境内贸易融资资产跨境转让、首批外汇高水平外汇改革业务等二十项新片区首单创新业务。支持自贸区跨境金融服务与国际贸易单一窗口服务,完成“中欧班列运费支付”、“境内外币海运费支付”和跨境购付汇功能对接部署。成立“自贸创新试验室”,进一步推动跨境资金流动自由、跨境贸易投资自由、金融要素市场开放等领域创新。提升科技金融服务能级,服务上海国际科技创新中心建设,强化科技创新策源功能。持续加强与上海各级政府、园区、PE/VC联动,迭代完善创客贷、小巨人信用贷、科技含权贷等产品,打造了特色化的“融资+融智+融技+投资”综合金融服务模式。推出《企业科创板上市投行服务方案》,整合集团资源助力科技企业成长。与上交所合作成立“浦发上呗”科创板工作室,为全国各地的优质企业提供上市顾问和培育服务。公司与在上海地区的科创板上市企业合作占比达86.2%。重点加强园区升级改造支持,为落实上海市政府《关于推动“工业上楼”打造“智造空间”的若干措施》,构建“四专”工作机制,率先推出专属信贷产品“智造空间(工业上楼)贷款”,助力上海拓展制造业发展空间、释放生产力、提升工业比重提供了有益的实践探索。支持实体经济转型升级,服务上海国际经济中心建设,强化高端产业引领功能。立足重点产业,将更多资源用于促进细分行业领域的科技创新,促进“科技—产业—金融”良性循环。同时继续增强制造业中长期信贷资源配置,推动制造业高端化、智能化、绿色化发展,用足用好相关政策工具、项目清单、企业名单等,主动对接制造业领域国家重大项目、重大工程和重大专项,加大对集成电路、人工智能、生物医药、民用航空等战略新兴产业在沪实体企业,特别是强化对国资国企的资源支持,助力上海加快成为国内大循环的中心节点、国内国际双循环的战略链接。截至报告期末,上海分行各项贷款余额6,188.43亿元,其中制造业中长期贷款余额较上年末增长24.80%。聚焦航运业核心金融需求,服务上海国际航运中心建设,提升航运资源全球配置能力。多措并举推进航运与金融融合创新发展,为交通枢纽重大项目打造贯穿项目建设、招商、经营等全产业链的金融产品和服务方案。推出智汇港、货代通等系列专属金融产品,强化航运金融生态圈建设,重点与中远海运等大型集团企业在航运、码头、物流等上下游产业链方面加强合作;通过账户结算服务、银团贷款等优势产品,积极服务东方枢纽上海东站项目建设;集团子公司浦银金租深耕船舶租赁业务,支持国轮国造和中国航运企业融资。公司助力上海聚集全球航运企业资源,进一步推动上海成为连接长三角与全球的世界级交通枢纽。",
+      "futureExpect": "3.12.1行业格局和趋势2023年,银行业经营状况基本平稳,资产规模稳健增长,金融服务持续加强,资产质量稳步提升,利润增速有所下降,流动性水平保持稳健,风险抵补能力整体充足。银行业持续提升服务实体经济质效,2023年末,我国银行业金融机构本外币资产总额417.3万亿元,同比增长9.9%。其中,大型商业银行本外币资产总额176.8万亿元,同比增长13.1%,占比42.4%;股份制商业银行本外币资产总额70.9万亿元,同比增长6.7%,占比17%。银行业金融机构用于小微企业的贷款余额70.9万亿元,其中单户授信总额1000万元及以下的普惠型小微企业贷款余额29.1万亿元,同比增长23.3%。2023年,商业银行累计实现净利润2.4万亿元,同比增长3.2%,平均资本利润率为8.93%。2023年末,商业银行整体资本充足率为15.06%,核心一级资本充足率为10.54%,一级资本充足率为12.12%。拨备覆盖率为205.14%,持续保持较高水平;商业银行不良贷款余额3.2万亿元,不良贷款率1.59%;资产规模2000亿元以上银行流动性覆盖率151.6%,净稳定资金比例125.5%;资产规模2000亿元以下银行优质流动性资本充足率269.4%,各类机构流动性指标均保持较高水平。当前,商业银行正处于前所未有的变革时期。纵观各家商业银行“十四五”战略布局,财富管理、绿色金融、科技赋能是各家行未来重点发展方向,商业银行正朝着更轻型、更绿色、更智能的方向加快转型发展。3.12.2下一阶段公司管理措施——聚焦“五大赛道”,加快推进落实数智化战略。全面打响“科技金融”业务品牌,构建完善的“股、债、贷、保、租、孵、撮、联”服务模式,形成高质量、可持续的科技金融全生命周期综合化服务体系。加快打造全渠道、多产品、高效率的数智化“供应链金融”平台,打通金融服务与产业生态间的壁垒,构建开放共享、场景生态协同的供应链金融生态圈。以数据驱动全力打造数智化“普惠金融”新生态,加快提升对公司、零售长尾客群的覆盖率和市占率。持续做强“跨境金融”优势,抢抓高水平对外开放、上海深化“五个中心”建设等重大机遇,进一步完善“6+X”跨境金融服务体系。深化集团协同,加快落地数智化“财资金融”新打法,提升财富平台化运营“生态化组织”“数字化运营”“智能化服务”三大能力,构建线上直营与线下网点一体“两翼齐飞”的新模式。——巩固“三大基本盘”:公司、零售、金融市场。公司业务领域,资产端,牢牢抓住国家持续加大政策力度、推动经济复苏的有利时间窗口,加速高质量贷款投放;负债端,用数字化手段打通资金收付、交易结算、财资管理的价值链路,增强客户粘性,促进结算性存款留存;中收端,通过泛投行业务快速切入大客户和战略客户经营,进一步打响债券承销、绿色金融、股权并购、银团贷款、资产证券化等优势品牌。零售业务领域,资产端,稳步推进规模与质量协调发展;负债端,充分发挥AUM的存款蓄水池作用,聚焦源头、消费、到期、行外、借贷五大资金来源,以及代发、代扣、代缴等十大重点客群,加速构建完善的结算性存款拓展渠道;中收端,以专业化的投研策略输出,促进重点产品销量、产能提升。金融市场业务领域,资产端,前瞻把握各类市场的波动趋势,推动同业资产分散化、均衡化配置;负债端,动态调优同业负债吸收策略,深化金融机构客群经营;中收端,聚力做大“浦银避险”“靠浦托管”的市场影响力。——强化“两大核心指标”:效益和质量。动态优化资产负债配置策略,提高资源的主动管理效能。强力推进风险处置化解,巩固全行资产质量向好趋势。进一步丰富数智化风险管控工具箱,加快提升全面风险管理能力。持续提升合规、审计工作质量,筑牢内控管理底线。积极践行“金融为民”理念,持续优化消保工作长效管理机制,不断提升消保工作能力水平。——夯实一个基础:提升精细化、精益化管理水平。深化激励约束机制改革,构建与战略目标强挂钩的差异化绩效考核评价体系。高标准推进数字化底座建设,加快打造智能化的大运营体系。纵深推进高素质人才队伍建设,厚植人力资源的核心竞争优势。充分向内挖潜,以“降本节支、效率提升”为核心支撑产能增长。此外,稳步推动集团化、国际化发展,扎实做好各领域基础工作。"
+    }
+  ]
+}

@@ -1,0 +1,1224 @@
+{
+  "code": "002027",
+  "name": "分众传媒",
+  "fetchTime": "2026-06-18T18:32:32",
+  "segments": [
+    {
+      "reportDate": "2025-12-31",
+      "byIndustry": [
+        {
+          "name": "楼宇媒体及其他",
+          "income": 12119550226.15,
+          "incomeRatio": 94.99,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "影院媒体",
+          "income": 639146316.01,
+          "incomeRatio": 5.01,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "其中:楼宇媒体及其他-日用消费品",
+          "income": 6035737490.81,
+          "incomeRatio": 47.31,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "其中:楼宇媒体及其他-互联网",
+          "income": 3208446595.6,
+          "incomeRatio": 25.15,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "其中:楼宇媒体及其他-娱乐及休闲",
+          "income": 685048086.85,
+          "incomeRatio": 5.37,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "其中:楼宇媒体及其他-交通",
+          "income": 633799884.4,
+          "incomeRatio": 4.97,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "其中:楼宇媒体及其他-商业及服务",
+          "income": 447713691.16,
+          "incomeRatio": 3.51,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "其中:楼宇媒体及其他-杂类",
+          "income": 391911519.54,
+          "incomeRatio": 3.07,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "其中:楼宇媒体及其他-通讯",
+          "income": 359230401.6,
+          "incomeRatio": 2.82,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "其中:楼宇媒体及其他-房产家居",
+          "income": 357662556.19,
+          "incomeRatio": 2.8,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "其中:影院媒体-日用消费品",
+          "income": 329054567.48,
+          "incomeRatio": 2.58,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        },
+        {
+          "name": "其中:影院媒体-交通",
+          "income": 99403936.94,
+          "incomeRatio": 0.78,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 12
+        },
+        {
+          "name": "其中:影院媒体-通讯",
+          "income": 83978187.59,
+          "incomeRatio": 0.66,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 13
+        },
+        {
+          "name": "其中:影院媒体-互联网",
+          "income": 33813301.97,
+          "incomeRatio": 0.27,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 14
+        },
+        {
+          "name": "其中:影院媒体-娱乐及休闲",
+          "income": 32119891.12,
+          "incomeRatio": 0.25,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 15
+        },
+        {
+          "name": "其中:影院媒体-房产家居",
+          "income": 30353915.08,
+          "incomeRatio": 0.24,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 16
+        },
+        {
+          "name": "其中:影院媒体-商业及服务",
+          "income": 22453374.76,
+          "incomeRatio": 0.18,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 17
+        },
+        {
+          "name": "其中:影院媒体-杂类",
+          "income": 7969141.07,
+          "incomeRatio": 0.06,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 18
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "楼宇媒体",
+          "income": 12034145652.02,
+          "incomeRatio": 94.32,
+          "cost": 3614561423.64,
+          "costRatio": 95.98,
+          "profit": 8419584228.38,
+          "profitRatio": 93.63,
+          "grossMargin": 69.96,
+          "rank": 1
+        },
+        {
+          "name": "影院媒体",
+          "income": 639146316.01,
+          "incomeRatio": 5.01,
+          "cost": 135407059.47,
+          "costRatio": 3.6,
+          "profit": 503739256.54,
+          "profitRatio": 5.6,
+          "grossMargin": 78.81,
+          "rank": 2
+        },
+        {
+          "name": "其他媒体及其他",
+          "income": 85404574.13,
+          "incomeRatio": 0.67,
+          "cost": 15884861.06,
+          "costRatio": 0.42,
+          "profit": 69519713.07,
+          "profitRatio": 0.77,
+          "grossMargin": 81.4,
+          "rank": 3
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华东",
+          "income": 4260052132.36,
+          "incomeRatio": 33.39,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "华南",
+          "income": 2382509450.02,
+          "incomeRatio": 18.67,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "华北",
+          "income": 2128134628.35,
+          "incomeRatio": 16.68,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "西南",
+          "income": 1500686158.45,
+          "incomeRatio": 11.76,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "其他",
+          "income": 1298401728.32,
+          "incomeRatio": 10.18,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "华中",
+          "income": 1188912444.66,
+          "incomeRatio": 9.32,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        }
+      ]
+    },
+    {
+      "reportDate": "2024-12-31",
+      "byIndustry": [
+        {
+          "name": "楼宇媒体及其他",
+          "income": 11573107115.84,
+          "incomeRatio": 94.38,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "影院媒体",
+          "income": 688995692.04,
+          "incomeRatio": 5.62,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "其中:楼宇媒体及其他-日用消费品",
+          "income": 7204675310.14,
+          "incomeRatio": 58.76,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "其中:楼宇媒体及其他-互联网",
+          "income": 1111755712.91,
+          "incomeRatio": 9.07,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "其中:楼宇媒体及其他-交通",
+          "income": 728380451.11,
+          "incomeRatio": 5.94,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "其中:楼宇媒体及其他-娱乐及休闲",
+          "income": 598381948.66,
+          "incomeRatio": 4.88,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "其中:楼宇媒体及其他-通讯",
+          "income": 540997807.42,
+          "incomeRatio": 4.41,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "其中:楼宇媒体及其他-房产家居",
+          "income": 538137100.3,
+          "incomeRatio": 4.39,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "其中:楼宇媒体及其他-商业及服务",
+          "income": 471018317.89,
+          "incomeRatio": 3.84,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "其中:影院媒体-日用消费品",
+          "income": 386124572.34,
+          "incomeRatio": 3.15,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "其中:楼宇媒体及其他-杂类",
+          "income": 379760467.41,
+          "incomeRatio": 3.1,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        },
+        {
+          "name": "其中:影院媒体-交通",
+          "income": 92880535.22,
+          "incomeRatio": 0.76,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 12
+        },
+        {
+          "name": "其中:影院媒体-通讯",
+          "income": 51710199.61,
+          "incomeRatio": 0.42,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 13
+        },
+        {
+          "name": "其中:影院媒体-房产家居",
+          "income": 47432763.29,
+          "incomeRatio": 0.39,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 14
+        },
+        {
+          "name": "其中:影院媒体-杂类",
+          "income": 44157179.08,
+          "incomeRatio": 0.36,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 15
+        },
+        {
+          "name": "其中:影院媒体-娱乐及休闲",
+          "income": 40996925.44,
+          "incomeRatio": 0.33,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 16
+        },
+        {
+          "name": "其中:影院媒体-互联网",
+          "income": 21047568.2,
+          "incomeRatio": 0.17,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 17
+        },
+        {
+          "name": "其中:影院媒体-商业及服务",
+          "income": 4645948.86,
+          "incomeRatio": 0.04,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 18
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "楼宇媒体",
+          "income": 11549203221.76,
+          "incomeRatio": 94.19,
+          "cost": 3914677561.45,
+          "costRatio": 94.63,
+          "profit": 7634525660.31,
+          "profitRatio": 93.96,
+          "grossMargin": 66.1,
+          "rank": 1
+        },
+        {
+          "name": "影院媒体",
+          "income": 688995692.04,
+          "incomeRatio": 5.62,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "其他媒体及其他",
+          "income": 23903894.08,
+          "incomeRatio": 0.19,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华东",
+          "income": 4173396279.04,
+          "incomeRatio": 34.03,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "华南",
+          "income": 2318076278.61,
+          "incomeRatio": 18.9,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "华北",
+          "income": 2101791862.38,
+          "incomeRatio": 17.14,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "西南",
+          "income": 1460015984.81,
+          "incomeRatio": 11.91,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "华中",
+          "income": 1189067481.37,
+          "incomeRatio": 9.7,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "其他",
+          "income": 1019754921.67,
+          "incomeRatio": 8.32,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        }
+      ]
+    },
+    {
+      "reportDate": "2023-12-31",
+      "byIndustry": [
+        {
+          "name": "日用消费品",
+          "income": 6693631766.68,
+          "incomeRatio": 56.23,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "互联网",
+          "income": 1398816822.97,
+          "incomeRatio": 11.75,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "交通",
+          "income": 866799142.28,
+          "incomeRatio": 7.28,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "娱乐及休闲",
+          "income": 823215973.32,
+          "incomeRatio": 6.92,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "房产家居",
+          "income": 660311692.33,
+          "incomeRatio": 5.55,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "通讯",
+          "income": 608358861.53,
+          "incomeRatio": 5.11,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "商业及服务",
+          "income": 486603897.96,
+          "incomeRatio": 4.09,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "杂类",
+          "income": 365986761.91,
+          "incomeRatio": 3.07,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "楼宇媒体",
+          "income": 11118911514.24,
+          "incomeRatio": 93.41,
+          "cost": 3795607771.96,
+          "costRatio": 92.37,
+          "profit": 7323303742.28,
+          "profitRatio": 93.95,
+          "grossMargin": 65.86,
+          "rank": 1
+        },
+        {
+          "name": "影院媒体",
+          "income": 769249476.21,
+          "incomeRatio": 6.46,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "其他媒体及其他",
+          "income": 15563928.53,
+          "incomeRatio": 0.13,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华东",
+          "income": 4130013185.13,
+          "incomeRatio": 34.7,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "华南",
+          "income": 2259585545.68,
+          "incomeRatio": 18.98,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "华北",
+          "income": 2067148924.22,
+          "incomeRatio": 17.37,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "西南",
+          "income": 1376164931.14,
+          "incomeRatio": 11.56,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "华中",
+          "income": 1097750381.76,
+          "incomeRatio": 9.22,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "其他",
+          "income": 973061951.05,
+          "incomeRatio": 8.17,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        }
+      ]
+    },
+    {
+      "reportDate": "2022-12-31",
+      "byIndustry": [
+        {
+          "name": "日用消费品",
+          "income": 5201673312.21,
+          "incomeRatio": 55.19,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "互联网",
+          "income": 1106850365.14,
+          "incomeRatio": 11.74,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "房产家居",
+          "income": 758693509.68,
+          "incomeRatio": 8.05,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "娱乐及休闲",
+          "income": 633296453.82,
+          "incomeRatio": 6.72,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "交通",
+          "income": 601942070.97,
+          "incomeRatio": 6.39,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "商业及服务",
+          "income": 471106154.68,
+          "incomeRatio": 5.0,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "杂类",
+          "income": 405779585.39,
+          "incomeRatio": 4.31,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "通讯",
+          "income": 245617691.33,
+          "incomeRatio": 2.61,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "楼宇媒体",
+          "income": 8875457981.73,
+          "incomeRatio": 94.17,
+          "cost": 3665840187.81,
+          "costRatio": 96.54,
+          "profit": 5209617793.92,
+          "profitRatio": 92.57,
+          "grossMargin": 58.7,
+          "rank": 1
+        },
+        {
+          "name": "影院媒体",
+          "income": 537556380.42,
+          "incomeRatio": 5.7,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "其他媒体及其他",
+          "income": 11944781.07,
+          "incomeRatio": 0.13,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华东",
+          "income": 3051630598.22,
+          "incomeRatio": 32.38,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "华南",
+          "income": 1775343947.73,
+          "incomeRatio": 18.84,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "华北",
+          "income": 1679844752.09,
+          "incomeRatio": 17.82,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "西南",
+          "income": 1120341692.25,
+          "incomeRatio": 11.89,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "华中",
+          "income": 936373456.46,
+          "incomeRatio": 9.93,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "其他",
+          "income": 861424696.47,
+          "incomeRatio": 9.14,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        }
+      ]
+    },
+    {
+      "reportDate": "2021-12-31",
+      "byIndustry": [
+        {
+          "name": "日用消费品",
+          "income": 6330819073.76,
+          "incomeRatio": 42.67,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "互联网",
+          "income": 4227454268.17,
+          "incomeRatio": 28.49,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "交通",
+          "income": 1226981523.83,
+          "incomeRatio": 8.27,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "商业及服务",
+          "income": 846187500.89,
+          "incomeRatio": 5.7,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "娱乐及休闲",
+          "income": 738746439.77,
+          "incomeRatio": 4.98,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "其他",
+          "income": 627875279.37,
+          "incomeRatio": 4.23,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "房产家居",
+          "income": 590603381.14,
+          "incomeRatio": 3.98,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "通讯",
+          "income": 247755469.76,
+          "incomeRatio": 1.67,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "楼宇媒体",
+          "income": 13617777775.34,
+          "incomeRatio": 91.79,
+          "cost": 3949086222.57,
+          "costRatio": 81.98,
+          "profit": 9668691552.77,
+          "profitRatio": 96.5,
+          "grossMargin": 71.0,
+          "rank": 1
+        },
+        {
+          "name": "影院媒体",
+          "income": 1172677441.06,
+          "incomeRatio": 7.9,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "其他媒体及其他",
+          "income": 45967720.29,
+          "incomeRatio": 0.31,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华东",
+          "income": 5145053499.0,
+          "incomeRatio": 34.68,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "华南",
+          "income": 2995964039.55,
+          "incomeRatio": 20.19,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "华北",
+          "income": 2626235391.12,
+          "incomeRatio": 17.7,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "西南",
+          "income": 1809525495.86,
+          "incomeRatio": 12.2,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "华中",
+          "income": 1281719608.51,
+          "incomeRatio": 8.64,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "其他",
+          "income": 977924902.65,
+          "incomeRatio": 6.59,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        }
+      ]
+    }
+  ],
+  "analysis": [
+    {
+      "reportDate": "2025-12-31",
+      "businessReview": "公司构建了国内最大的城市生活圈媒体网络。公司当前的主营业务为生活圈媒体中户外广告的开发和运营,主要产品为楼宇媒体（包括电梯电视媒体和电梯海报媒体等）和影院银幕广告媒体等,覆盖城市主流消费人群的工作场景、生活场景、娱乐场景和消费场景,并相互整合成为生活圈媒体网络。截至2026年3月31日,公司的生活圈媒体网络覆盖国内约350个城市、中国香港特别行政区以及韩国、泰国、新加坡、印度尼西亚、马来西亚、越南、印度、日本、阿联酋和澳大利亚等国。公司自营媒体数量合计约228.4万台/个,其中：（1）公司自营电梯电视媒体网络覆盖境内约240个主要城市、中国香港特别行政区以及韩国、泰国、新加坡、印度尼西亚、马来西亚、越南、印度、日本、阿联酋和澳大利亚等国,设备数量约122.3万台（包括境外子公司的媒体设备约16.7万台）；（2）公司自营电梯海报媒体网络覆盖境内约120个主要城市、中国香港特别行政区以及泰国、马来西亚和印度等国,设备数量约106.1万个（包括境外子公司的媒体设备约2.4万个）；（3）公司影院媒体合作影院3,203家,2.2万个影厅,覆盖国内318个城市的观影人群。作为中国最大的生活圈媒体平台,公司已经成为贴近消费者生活的核心媒体平台,是消费者生活的一个组成部分。公司拥有优质的媒介点位资源和广告客户资源,在户外广告市场中拥有领先的市场份额。未来,公司将积极有序的加大境内及境外优质资源点位的拓展力度,进一步优化公司媒体资源覆盖的密度和结构,通过数字化的手段和新技术的应用为客户提供更优质的服务,持续扩大公司生活圈媒体的领先优势,为客户创造更大价值。1、概述2025年,国家通过完善社会保障、优化收入分配、培育新型消费等举措持续激活内需,双循环格局深化,消费基础性作用进一步增强,服务消费占比稳步提升,商品消费向品质化、绿色化升级,消费者既关注产品功能,更注重情感共鸣,“心价比”正成为驱动消费决策的核心标尺。中国广告业作为全球第二大广告市场展现出超周期的韧性,市场规模保持了平稳增长,根据市场监管总局公布数据显示,2025年全国事业单位和规模以上企业广告业务收入首次突破2万亿元。作为生活圈媒体的领军者,分众传媒持续强化数字化能力与全域营销服务,以AI深度赋能内容生成、人群精准匹配和投放智能决策,通过AI算法驱动、数据智能分析及场景化创新,进一步巩固了在品牌传播领域的核心地位,助力客户建立差异化竞争优势。公司与支付宝深化数字化协同,打造从品牌触达到效果转化的完整营销闭环。以“碰一下”创新交互为载体,构建起“智能触达+场景渗透”的全新生态,成为链接居民日常生活的智慧新入口,为品牌数字化经营提供了全新范式。未来,分众传媒将持续深耕核心场景,加速AI技术的应用落地,夯实渠道优势,以更智能、更精准、更高效的媒体网络助力品牌穿越周期。同时紧抓广告市场结构性增长机遇,推动公司实现高质量、可持续发展。",
+      "futureExpect": "过去三十余年间,中国广告行业取得了高速的发展,在体量上已经成为仅次于美国的全球第二大市场。相较于线上渠道的单一性,户外广告投放类型呈现出多样化特征,包括高铁广告、地铁广告、机场广告、写字楼及住宅电梯广告、影院广告,以及户外大屏、高速路平面广告、景区广告等各种场景。这种多样化和生活化的场景覆盖使得品牌能够根据目标受众的日常活动路径进行广告投放,从而实现品牌的广泛覆盖和深度触达,增加了品牌与消费者之间的互动和情感连接。其中以分众传媒为代表的生活空间媒体则是消费者的核心接触点,对城市主流人群具有高到达和高匹配的品质。基于这些行业背景和发展格局,分众传媒作为国内最大的城市生活圈媒体网络,可能面临以下发展机遇与挑战：1、公司媒体价值持续获得市场认知和客户认可,行业领先者地位得到进一步强化当前,中国市场的品牌集中度正持续加大,企业如何从同质化走向差异化,从价格战走向价值战,从流量走向品牌成为关注的焦点,越来越多的企业意识到只有打造好品牌才能实现突围。分众传媒在城市主流人群每天必经的核心生活空间形成高频次、低干扰的强效触达,具有强大的品牌集中引爆能力。尤其在资讯模式多元化碎片化、信息过载、选择过多的移动互联网时代,消费者面临过多选择,高质量传播是品牌增长的保障,需要满足“高触达、高关注、高频次、高完播”的“四高”媒体。凯度研究报告显示,分众媒体在消费者关注度和记忆度、消费者购买转化意愿等维度均居于首位,同时在消费者触达率和接触时长方面也呈现领先优势,是典型的“四高”中心化媒体。新周期下,分众持续推进技术创新,已实现行业领先的“可精准、可归因、可互动、可优化”的数智化综合服务能力,通过人群画像精准分析的“千楼千面”、广告效果的独立归因与权重归因分析、NFC互动将线下流量线上化、根据测试建设DSP和智能优化投放等维度,高效提升服务效率。这一背景下,分众的媒体价值不断获得市场和客户的高度认知与认可。不仅已通过分众成功引爆的品牌仍持续加大投放,起到示范效应,众多新兴品牌也均选择分众进行大量投放,分众已成为媒体碎片化时代屈指可数的流行广告语制造机和品牌引爆核心阵地,是新品引爆、场景触发、渠道助攻、内容事件的强效放大器。未来,公司将继续抓住传统产业向产品高端化、品牌年轻化、销售电商化的升级大潮机遇,并持续通过基于AI驱动的全新行业解决方案,从引领行业发展趋势的视角,充分挖掘多模态大模型的潜力和分众的营销场景深度融合,重构从广告创意生成、广告策略制定、广告投放迭代优化、到广告数据智能分析的数智化产业链价值标杆,进一步强化行业领先者地位。2、公司客户结构持续优化,提供长效增长驱动力近年来,公司媒体价值不断得到更为广泛的认可,客户结构持续呈现多元化态势。目前公司客户广泛覆盖日用消费品、互联网、房产家居、娱乐及休闲、交通、商业及服务、通讯等多个行业领域。分众作为针对核心消费人群的重要品牌投放入口,对消费品客户价值稳固,在信息模式持续粉尘化的传播环境下,其线下流量核心入口的媒体价值与品牌引爆功能已被更多客户所肯定。长期来看,客户结构的持续优化,将为公司带来更多的增长驱动力,并有效助力公司业绩的稳定增长。而分众本身的媒体价值,也将在众多客户案例的示范效应下,获得更进一步释放。3、公司积极响应国家“一带一路”重大倡议,布局海外业务,向世界输出中国原创模式公司在全球范围首创楼宇电梯媒体模式,经过多年发展,这一中国本土创新的模式及其引爆品牌的价值已经得到国际的充分认可。公司正积极响应国家“一带一路”的重大倡议,持续加大海外市场拓展力度,在全球媒体业应对移动互联网时代传播难题的环境下,向世界贡献中国智慧,提供中国方案。自2017年以来,公司相继在韩国、新加坡、印度尼西亚、泰国、马来西亚、越南、印度、日本、阿联酋、澳大利亚、巴西等海外市场进行布局,已成功证明分众模式在海外市场可快速复制。公司长期看好海外业务的发展潜力,将持续推进海外市场业务布局,向世界输出楼宇电梯媒体这一中国原创模式,构筑起国牌出海基建者角色,助推中国品牌走向世界,并成为全球消费品牌传播的助力者。4、相关风险（1）中国广告市场需求不确定的风险宏观经济环境的不确定性使得广告市场需求面临震荡的风险,可能对公司经营业绩产生影响。公司深耕行业多年,近年来,媒体价值持续获得更为广泛的认可,客户数量不断递增,客户结构更加多元和均衡化,客户类型广泛覆盖日用消费品、互联网、房产家居、娱乐及休闲、交通、商业及服务、通讯等多个行业领域,收入构成也更为分散,相关抗风险能力持续提升。因此,当广告市场需求发生震荡之时,公司可以迅速达成客户结构的切换和调整,实现整体业绩的平稳发展。与此同时,公司拥有优质的媒体资源和丰富的产品线等综合优势,逐步升级为提供解决方案型公司,不断为客户提供更多价值,这些都使得公司具有更强的韧性和稳定性,可支撑整体业务的持续稳健发展。未来,公司将继续致力于挖掘细分行业客户,以更广泛的覆盖和更多元均衡的结构助力持续稳定发展。（2）媒体行业市场竞争格局进一步变化的风险公司主要从事生活圈媒体的开发和运营。近几年来,随着各类新兴媒体的兴起,媒体平台和广告载体的形式更加丰富多样,媒体结构正在逐步发生变化,这也使得媒体行业的市场竞争日趋激烈。在此背景下,不同媒体的表达形式和特点变化加快,广告主的选择更为复杂多变,这可能将会在另一方面对公司经营业绩产生影响。分众传媒作为行业领导者,长期以来,以日均超4亿中国城市主流人群的覆盖能力及强大的品牌引爆力所形成的媒体价值获得了广告客户的广泛青睐,头部优势不断凸显。长期来看,伴随流量红利消失,品牌回归,以及“抢占线下”成为共识,覆盖了主流城市人群工作、生活、娱乐及消费场景的分众传媒正在以难以替代的媒体价值和品牌引爆能力赢得越来越多客户的认可和选择,成为各行业客户选择户外媒体进行品牌营销的标配。"
+    },
+    {
+      "reportDate": "2024-12-31",
+      "businessReview": "公司构建了国内最大的城市生活圈媒体网络。公司当前的主营业务为生活圈媒体中户外广告的开发和运营,主要产品为楼宇媒体（包括电梯电视媒体和电梯海报媒体等）和影院银幕广告媒体等,覆盖城市主流消费人群的工作场景、生活场景、娱乐场景和消费场景,并相互整合成为生活圈媒体网络。截至2025年3月31日,公司的生活圈媒体网络覆盖境内超340个城市、中国香港特别行政区以及韩国、泰国、新加坡、印度尼西亚、马来西亚、越南、印度、日本和阿联酋等国。其中：（1）公司电梯电视媒体网络覆盖境内超230个主要城市、中国香港特别行政区以及韩国、泰国、新加坡、印度尼西亚、马来西亚、越南、印度、日本和阿联酋等国,设备数量约126万台（包括境外子公司的媒体设备约15.0万台）；（2）公司电梯海报媒体网络覆盖境内超120个主要城市、中国香港特别行政区以及泰国、马来西亚和印度等国,设备数量约180万个（包括境外子公司的媒体设备约2.6万个、参股公司电梯海报媒体设备约37.4万个）；（3）公司影院媒体合作影院2459家,1.7万个影厅,覆盖国内约300个城市的观影人群。作为中国最大的生活圈媒体平台,公司已经成为贴近消费者生活的核心媒体平台,是消费者生活的一个组成部分。公司拥有优质的媒介点位资源和广告客户资源,在户外广告市场中拥有领先的市场份额。未来,公司将积极有序的加大境内外优质资源点位的拓展力度,进一步优化公司媒体资源覆盖的密度和结构,通过数字化的手段和新技术的应用为客户提供更优质的服务,持续扩大公司生活圈媒体的领先优势,为客户创造更大价值。1、概述2024年,中国消费市场呈现“分化与升级并存”的特征,国家通过减税降费、消费券发放、新基建等措施进一步激活内需,双循环深化,消费内需持续释放,服务消费占比不断提升,商品消费向品质化、个性化升级,消费者既追求性价比、颜价比,也追求心价比。作为全球第二大广告市场,中国广告业展现出超周期的韧性,市场规模保持了平稳增长,根据中国广告协会发布的《2024年全球及中国户外广告市场研究报告》显示,2024年中国广告市场规模已攀升至1.5万亿人民币。同时2024年广告行业也面临着流量和品牌的再平衡的挑战,随着平台算法透明度提升,流量广告红利的见顶,广告市场正经历从“流量收割”向“心智深耕”的范式迁移,品牌资产的长效沉淀成为抵御流量波动的新护城河。长期以来,分众传媒始终致力于帮助消费品企业实现有效的品牌传播和差异化的成长,凭借在中国品牌传播领域里具有的平台优势和在户外媒体领域独具的媒体价值,公司已经成为了消费品品牌传播的核心阵地。报告期公司实现营业收入1,226,210.28万元,较上年同期的1,190,372.49万元上升3.01%；实现归属于上市公司股东的净利润为515,539.41万元,较上年同期的482,710.17万元上升6.80%,归属于上市公司股东的扣除非经常性损益的净利润为466,798.74万元,较上年同期的437,384.41万元上升6.73%。压力源于对不确定的恐惧,机会藏于对本质的坚守。未来,分众传媒将继续深耕细分场景,融合技术创新,不断为品牌客户赋能、为消费市场的发展助力,实现公司高质量、可持续发展。",
+      "futureExpect": "过去三十年间,中国广告行业取得了高速的发展,在体量上已经成为仅次于美国的全球第二大市场。相较于线上渠道的单一性,户外广告投放类型呈现出多样化特征,包括高铁站广告、地铁站广告、机场广告、写字楼及住宅电梯广告、影院广告,以及户外大屏、高速路平面广告、景区广告等各种场景。这种多样化和生活化的场景覆盖使得品牌能够根据目标受众的日常活动路径进行广告投放,从而实现品牌的广泛覆盖和深度触达,增加了品牌与消费者之间的互动和情感连接。其中以分众传媒为代表的生活空间媒体则是消费者的核心接触点,对城市主流人群具有高到达和高匹配的品质。基于这些行业背景和发展格局,分众传媒作为国内最大的城市生活圈媒体网络,可能面临以下发展机遇与挑战：1、公司媒体价值持续获得市场认知和客户认可,行业领先者地位得到进一步强化当前,中国市场的品牌集中度正持续加大,企业如何从同质化走向差异化,从价格战走向价值战,从流量走向品牌成为关注的焦点,越来越多的企业意识到只有打造好品牌才能实现突围。分众传媒在城市主流人群每天必经的核心生活空间形成高频次、低干扰的强效触达,具有强大的品牌集中引爆能力。尤其在资讯模式多元化碎片化、信息过载、选择过多的移动互联网时代,消费者面临过多选择,高质量传播是品牌增长的保障,需要满足“高触达、高关注、高频次、高完播”的“四高”媒体。凯度研究报告显示,分众媒体在消费者关注度和记忆度、消费者购买转化意愿等方面均居于首位,同时在消费者触达率和接触时长方面也呈现领先优势,是典型的“四高”中心化媒体。这一背景下,分众的媒体价值不断获得市场和客户的高度认知与认可。不仅已通过分众成功引爆的品牌仍持续加大投放,起到示范效应,众多新兴品牌也均选择分众进行大量投放,分众已成为媒体碎片化时代屈指可数的流行广告语制造机和品牌引爆核心阵地,是新品引爆、场景触发、渠道助攻、内容事件的强效放大器。未来,公司将继续抓住传统产业向产品高端化、品牌年轻化、销售电商化的升级大潮机遇,进一步强化行业领先者地位。2、公司客户结构持续优化,提供长效增长驱动力近年来,公司媒体价值不断得到更为广泛的认可,客户结构持续呈现多元化态势。目前公司客户广泛覆盖日用消费品、互联网、房产家居、娱乐及休闲、交通、商业及服务和通讯等多个行业领域。分众作为针对核心消费人群的重要品牌投放入口,对消费品客户价值稳固,在信息模式持续粉尘化的传播环境下,其线下流量核心入口的媒体价值与品牌引爆功能已被更多客户所肯定。长期来看,客户结构的持续优化,将为公司带来更多的增长驱动力,并有效助力公司业绩的稳定增长。而分众本身的媒体价值,也将在众多客户案例的示范效应下,获得更进一步释放。3、公司积极响应国家“一带一路”重大倡议,布局海外业务,向世界输出中国原创模式公司在全球范围首创楼宇电梯媒体模式,经过多年发展,这一中国本土创新的模式及其引爆品牌的价值已经得到国际的充分认可。公司正积极响应国家“一带一路”的重大倡议,布局海外业务,在全球媒体业应对移动互联网时代传播难题的环境下,向世界贡献中国智慧,提供中国方案。自2017年以来,公司相继在韩国、新加坡、印度尼西亚、泰国、马来西亚、日本、印度、越南、阿联酋等海外市场进行布局,已成功证明分众模式在海外市场可快速复制。公司长期看好海外业务的发展潜力,将持续推进海外市场业务布局,向世界输出楼宇电梯媒体这一中国原创模式,构筑起国牌出海基建者角色,助推中国品牌走向世界,并成为全球消费品牌传播的助力者。4、相关风险（1）中国广告市场需求不确定的风险宏观经济环境的不确定性使得广告市场需求面临震荡的风险,可能对公司经营业绩产生影响。公司深耕行业多年,近年来,媒体价值持续获得更为广泛的认可,客户数量不断递增,客户结构更加多元和均衡化,客户类型广泛覆盖日用消费品、互联网、房产家居、娱乐及休闲、交通、商业及服务和通讯等多个行业领域,收入构成也更为分散,相关抗风险能力持续提升。因此,当广告市场需求发生震荡之时,公司可以迅速达成客户结构的切换和调整,实现整体业绩的平稳发展。与此同时,公司拥有优质的媒体资源和丰富的产品线等综合优势,正逐步升级为提供解决方案型公司,不断为客户提供更多价值,这些都使得公司具有更强的韧性和稳定性,可支撑整体业务的持续稳健发展。未来,公司将继续致力于挖掘细分行业客户,以更广泛的覆盖和更多元均衡的结构助力持续稳定发展。（2）媒体行业市场竞争格局进一步变化的风险公司主要从事生活圈媒体的开发和运营。近几年来,随着各类新兴媒体的兴起,媒体平台和广告载体的形式更加丰富多样,媒体结构正在逐步发生变化,这也使得媒体行业的市场竞争日趋激烈。在此背景下,不同媒体的表达形式和特点变化加快,广告主的选择更为复杂多变,这可能将会在另一方面对公司经营业绩产生影响。分众传媒作为行业领导者,长期以来,以日均超4亿城市主流人群的覆盖能力及强大的品牌引爆力所形成的媒体价值获得了广告客户的广泛青睐,头部优势不断凸显。长期来看,伴随流量红利消失,品牌回归,以及“抢占线下”成为共识,覆盖了主流城市人群工作、生活、娱乐及消费场景的分众传媒正在以难以替代的媒体价值和品牌引爆能力赢得越来越多客户的认可和选择,成为各行业客户选择户外媒体进行品牌营销的标配。"
+    },
+    {
+      "reportDate": "2023-12-31",
+      "businessReview": "分众传媒构建了国内最大的城市生活圈媒体网络。公司当前的主营业务为生活圈媒体的开发和运营,主要产品为楼宇媒体（主要包括电梯电视媒体和电梯海报媒体等）和影院银幕广告媒体等,覆盖城市主流消费人群的工作场景、生活场景、娱乐场景和消费场景,并相互整合成为生活圈媒体网络。截至2024年3月31日,公司的生活圈媒体网络覆盖国内超280个城市、香港特别行政区以及韩国、印度尼西亚、泰国、新加坡、马来西亚、越南、印度和日本等国的95个主要城市。其中：（1）公司电梯电视媒体自营设备约105.1万台（包括境外子公司的媒体设备约15.4万台）,覆盖国内99个主要城市、香港特别行政区以及韩国、印度尼西亚、泰国、新加坡、马来西亚、越南、印度和日本等国的95个主要城市；（2）公司电梯海报媒体自营设备约157.2万台（包括境外子公司的媒体设备约1.8万台）,覆盖国内69个主要城市、香港特别行政区以及马来西亚和印度的主要城市；（3）公司影院媒体合作影院1,831家,约1.3万个影厅,覆盖国内271个城市的观影人群。除上述生活圈媒体网络之外,截至2024年3月31日,公司加盟电梯电视媒体设备约6.5万台,覆盖国内125个城市；参股公司电梯海报媒体设备约39.0万台,覆盖国内70个城市。单位：万台作为中国最大的生活圈媒体平台,公司已经成为贴近消费者生活的核心媒体平台,是消费者生活的一个组成部分。公司拥有优质的媒介点位资源和广告客户资源,在户外广告市场中拥有领先的市场份额。未来,公司将积极有序的加大境内及境外优质资源点位的拓展力度,进一步优化公司媒体资源覆盖的密度和结构,通过数字化的手段和新技术的应用为客户提供更优质的服务,持续扩大公司生活圈媒体的领先优势,为客户创造更大价值。1、概述报告期公司实现营业收入1,190,372.49万元,较上年同比上升26.30%。主要由于报告期内国内广告市场需求逐步回暖,公司在品牌传播领域里所具有的独特价值获得越来越多品牌广告主的认可。报告期公司发生营业成本为410,924.18万元,较上年同比上升8.21%。主要由于报告期公司积极有序地加大境内及境外优质资源点位的拓展,同时影院媒体的经营活动恢复正常,故媒体资源成本有所增长。报告期公司总体回款情况稳定,随着经济的逐步恢复,按行业分类的客户的预期信用损失率较期初有所下降,同时呈现风险特征的客户的应收账款余额较期初亦有所下降,因此相应转回了应收账款信用减值损失及合同资产减值损失合计5,078.58万元,上年同期为计提37,031.13万元。报告期公司经营活动产生的现金净流入为767,799.68万元,较上年增加97,903.57万元,同比上升14.61%,主要是由于报告期内营业收入同比增长。综上,报告期公司实现归属于上市公司股东的净利润为482,710.17万元,较上年278,995.25万元上升73.02%；归属于上市公司股东的扣除非经常性损益的净利润为437,384.41万元,较上年239,425.25万元上升82.68%。根据中国广告业协会发布的《2023年全球及中国户外广告市场研究报告》显示,2024年中国户外广告市场规模预计将达到近900亿元人民币,同时户外广告在塑造品牌价值方面的不可替代性使其市场规模预计到2028年将达到约1,223.5亿元人民币。作为最大的生活圈媒体平台,公司在户外媒体领域具有独特的媒体价值,分众品牌传播的能力也获得了越来越多品牌广告主的认可；同时,公司通过数字化的手段和新技术的应用,不断提升服务能力和运营效率。公司相信随着广告市场需求的持续回暖,公司的经营业绩也将保持持续、稳定增长。",
+      "futureExpect": "过去三十年间,中国广告行业取得了高速的发展,在体量上已经成为仅次于美国的全球第二大市场。相较于线上渠道的单一性,户外广告投放场景呈现出多样化特征,包括高铁站,地铁站,机场；写字楼电梯广告、影院广告,住宅电梯广告、框架广告；以及户外大屏,高速路平面广告、景区广告等各种场景。这种多样化和生活化的场景覆盖使得品牌能够根据目标受众的日常活动路径进行广告投放,从而实现品牌的广泛覆盖和深度触达,增加了品牌与消费者之间的互动和情感连接。其中以分众传媒为代表的生活空间媒体则是消费者的核心接触点,对城市主流人群具有高到达和高匹配的品质。基于这些行业背景和发展格局,分众传媒作为国内最大的城市生活圈媒体网络,可能面临以下发展机遇与挑战：1、公司媒体价值持续获得市场认知和客户认可,行业领先者地位得到进一步强化当前,中国市场的品牌集中度正持续加大,企业如何从同质化走向差异化,从价格战走向价值战,从流量走向品牌成为关注的焦点,越来越多的企业意识到只有打造好品牌才能实现突围。这一背景下,分众的媒体价值不断获得更广范围、更深程度的持续认可。同时,在资讯模式多元化碎片化、信息过载、选择过多的移动互联网时代,消费者面临过多选择,分众传媒楼宇媒体和影院银幕广告媒体高频有效到达城市主流风向标人群,持续获得市场和客户的高度认知与认可。不仅已通过分众成功引爆的品牌仍持续加大投放,起到示范效应,众多新兴品牌也均选择分众进行大量投放,分众已成为媒体碎片化时代屈指可数的流行广告语制造机和品牌引爆核心阵地,是新品引爆、场景触发、渠道助攻、内容事件的强效放大器。未来,公司将继续抓住传统产业向产品高端化、品牌年轻化、销售电商化的升级大潮机遇,进一步强化行业领先者地位。2、公司客户结构持续优化,提供长效增长驱动力2023年,公司媒体价值得到更为广泛的认可,客户结构继续呈现多元化态势。目前公司客户广泛覆盖日用消费品、互联网、房产家居、娱乐及休闲、交通、商业及服务、通讯等多个行业领域。分众作为针对核心消费人群的重要品牌投放入口,对消费品客户价值稳固,在信息模式持续粉尘化的传播环境下,其线下流量核心入口的媒体价值与品牌引爆功能已被更多客户所肯定。长期来看,客户结构的持续优化,将为公司带来更多的增长驱动力,并有效助力公司业绩的稳定增长。而分众本身的媒体价值,也将在众多客户案例的示范效应下,获得更进一步释放。3、公司积极响应国家“一带一路”重大倡议,布局海外业务,向世界输出中国原创模式公司在全球范围首创楼宇电梯媒体模式,经过多年发展,这一中国本土创新的模式及其引爆品牌的价值已经得到国际的充分认可。公司正积极响应国家“一带一路”的重大倡议,布局海外业务,在全球媒体业应对移动互联网时代传播难题的环境下,向世界贡献中国智慧,提供中国方案。自2017年以来,公司相继在韩国、新加坡、印度尼西亚、泰国、马来西亚、日本、印度和越南等海外市场进行布局,已成功证明分众模式在海外市场尤其是亚洲市场可快速复制。公司长期看好海外业务的发展潜力,将持续推进海外市场业务布局,向世界输出楼宇电梯媒体这一中国原创模式,为中国品牌“出海”提供积极助力。4、相关风险（1）中国广告市场需求不确定的风险宏观经济环境的不确定性使得广告市场需求面临震荡的风险,可能对公司经营业绩产生影响。公司深耕行业多年,近年来,媒体价值持续获得更为广泛的认可,客户数量不断递增,客户结构更加多元和均衡化,客户类型广泛覆盖日用消费品、互联网、房产家居、娱乐及休闲、交通、商业及服务、通讯等多个行业领域,收入构成也更为分散,相关抗风险能力持续提升。因此,当广告市场需求发生震荡之时,公司可以迅速达成客户结构的切换和调整,实现整体业绩的平稳发展。与此同时,公司拥有优质的媒体资源和丰富的产品线等综合优势,正逐步升级为提供解决方案型公司,不断为客户提供更多价值,这些都使得公司具有更强的韧性和稳定性,可支撑整体业务的持续稳健发展。未来,公司将继续致力于挖掘细分行业客户,以更广泛的覆盖和更多元均衡的结构助力持续稳定发展。（2）媒体行业市场竞争进一步加剧的风险公司主要从事生活圈媒体的开发和运营。近几年来,随着各类新兴媒体的兴起,媒体平台和广告载体的形式更加丰富多样,媒体结构正在逐步发生变化,这也使得媒体行业的市场竞争日趋激烈,这可能将会在另一方面对公司经营业绩产生影响。分众传媒作为行业领导者,长期以来,以日均4亿城市主流人群的覆盖能力及强大的品牌引爆力所形成的媒体价值获得了广告客户的广泛青睐,头部优势不断突显。长期来看,伴随流量红利消失,品牌回归,以及“抢占线下”成为共识,覆盖了主流城市人群工作、生活、娱乐及消费场景的分众传媒正在以难以替代的媒体价值和品牌引爆能力赢得越来越多客户的认可和选择,成为各行业客户选择户外媒体进行品牌营销的标配。"
+    }
+  ]
+}

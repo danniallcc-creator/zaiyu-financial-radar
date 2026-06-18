@@ -1,0 +1,1111 @@
+{
+  "code": "603049",
+  "name": "中策橡胶",
+  "fetchTime": "2026-06-18T18:36:59",
+  "segments": [
+    {
+      "reportDate": "2025-12-31",
+      "byIndustry": [
+        {
+          "name": "轮胎及橡胶制品",
+          "income": 44794702500.0,
+          "incomeRatio": 99.64,
+          "cost": 35990663900.0,
+          "costRatio": 99.65,
+          "profit": 8804038600.0,
+          "profitRatio": 99.62,
+          "grossMargin": 19.65,
+          "rank": 1
+        },
+        {
+          "name": "其他(补充)",
+          "income": 161527754.27,
+          "incomeRatio": 0.36,
+          "cost": 128117522.74,
+          "costRatio": 0.35,
+          "profit": 33410231.53,
+          "profitRatio": 0.38,
+          "grossMargin": 20.68,
+          "rank": 2
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "轮胎",
+          "income": 39220072800.0,
+          "incomeRatio": 87.24,
+          "cost": 31535356200.0,
+          "costRatio": 87.31,
+          "profit": 7684716600.0,
+          "profitRatio": 86.96,
+          "grossMargin": 19.59,
+          "rank": 1
+        },
+        {
+          "name": "车胎",
+          "income": 3738197100.0,
+          "incomeRatio": 8.32,
+          "cost": 2880034800.0,
+          "costRatio": 7.97,
+          "profit": 858162300.0,
+          "profitRatio": 9.71,
+          "grossMargin": 22.96,
+          "rank": 2
+        },
+        {
+          "name": "其他",
+          "income": 1836432600.0,
+          "incomeRatio": 4.08,
+          "cost": 1575272800.0,
+          "costRatio": 4.36,
+          "profit": 261159800.0,
+          "profitRatio": 2.96,
+          "grossMargin": 14.22,
+          "rank": 3
+        },
+        {
+          "name": "其他(补充)",
+          "income": 161527754.27,
+          "incomeRatio": 0.36,
+          "cost": 128117522.74,
+          "costRatio": 0.35,
+          "profit": 33410231.53,
+          "profitRatio": 0.38,
+          "grossMargin": 20.68,
+          "rank": 4
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "境内",
+          "income": 23279311700.0,
+          "incomeRatio": 51.78,
+          "cost": 18641023600.0,
+          "costRatio": 51.61,
+          "profit": 4638288100.0,
+          "profitRatio": 52.48,
+          "grossMargin": 19.92,
+          "rank": 1
+        },
+        {
+          "name": "境外",
+          "income": 21515390900.0,
+          "incomeRatio": 47.86,
+          "cost": 17349640300.0,
+          "costRatio": 48.03,
+          "profit": 4165750600.0,
+          "profitRatio": 47.14,
+          "grossMargin": 19.36,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 161527754.27,
+          "incomeRatio": 0.36,
+          "cost": 128117522.74,
+          "costRatio": 0.35,
+          "profit": 33410231.53,
+          "profitRatio": 0.38,
+          "grossMargin": 20.68,
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "reportDate": "2024-12-31",
+      "byIndustry": [],
+      "byProduct": [
+        {
+          "name": "全钢胎",
+          "income": 18002449803.88,
+          "incomeRatio": 45.86,
+          "cost": 14927287662.46,
+          "costRatio": 47.23,
+          "profit": 3075162141.42,
+          "profitRatio": 40.21,
+          "grossMargin": 17.08,
+          "rank": 1
+        },
+        {
+          "name": "半钢胎",
+          "income": 13562789766.87,
+          "incomeRatio": 34.55,
+          "cost": 10470431321.65,
+          "costRatio": 33.13,
+          "profit": 3092358445.22,
+          "profitRatio": 40.43,
+          "grossMargin": 22.8,
+          "rank": 2
+        },
+        {
+          "name": "车胎",
+          "income": 3317249804.79,
+          "incomeRatio": 8.45,
+          "cost": 2715827773.34,
+          "costRatio": 8.59,
+          "profit": 601422031.45,
+          "profitRatio": 7.86,
+          "grossMargin": 18.13,
+          "rank": 3
+        },
+        {
+          "name": "斜交胎",
+          "income": 2562429791.46,
+          "incomeRatio": 6.53,
+          "cost": 1967859842.85,
+          "costRatio": 6.23,
+          "profit": 594569948.61,
+          "profitRatio": 7.77,
+          "grossMargin": 23.2,
+          "rank": 4
+        },
+        {
+          "name": "其他",
+          "income": 1659937582.03,
+          "incomeRatio": 4.23,
+          "cost": 1405025964.73,
+          "costRatio": 4.45,
+          "profit": 254911617.3,
+          "profitRatio": 3.33,
+          "grossMargin": 15.36,
+          "rank": 5
+        },
+        {
+          "name": "其他(补充)",
+          "income": 149953109.2,
+          "incomeRatio": 0.38,
+          "cost": 120122512.82,
+          "costRatio": 0.38,
+          "profit": 29830596.38,
+          "profitRatio": 0.39,
+          "grossMargin": 19.89,
+          "rank": 6
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "境内",
+          "income": 20209244193.43,
+          "incomeRatio": 51.48,
+          "cost": 16903431314.86,
+          "costRatio": 53.48,
+          "profit": 3305812878.57,
+          "profitRatio": 43.22,
+          "grossMargin": 16.36,
+          "rank": 1
+        },
+        {
+          "name": "境外",
+          "income": 18895612555.6,
+          "incomeRatio": 48.14,
+          "cost": 14583001250.17,
+          "costRatio": 46.14,
+          "profit": 4312611305.43,
+          "profitRatio": 56.39,
+          "grossMargin": 22.82,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 149953109.2,
+          "incomeRatio": 0.38,
+          "cost": 120122512.82,
+          "costRatio": 0.38,
+          "profit": 29830596.38,
+          "profitRatio": 0.39,
+          "grossMargin": 19.89,
+          "rank": 3
+        },
+        {
+          "name": "其中:华东地区",
+          "income": 8307457400.0,
+          "incomeRatio": 21.16,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "其中:北美洲",
+          "income": 6577429000.0,
+          "incomeRatio": 16.76,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "其中:亚洲",
+          "income": 4478447800.0,
+          "incomeRatio": 11.41,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "其中:欧洲",
+          "income": 4056134100.0,
+          "incomeRatio": 10.33,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "其中:华北地区",
+          "income": 2816773000.0,
+          "incomeRatio": 7.18,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "其中:华南地区",
+          "income": 2320309600.0,
+          "incomeRatio": 5.91,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "其中:西南地区",
+          "income": 2239207600.0,
+          "incomeRatio": 5.7,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "其中:华中地区",
+          "income": 2216821500.0,
+          "incomeRatio": 5.65,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        },
+        {
+          "name": "其中:南美洲",
+          "income": 2213573300.0,
+          "incomeRatio": 5.64,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 12
+        },
+        {
+          "name": "其中:西北地区",
+          "income": 1339971600.0,
+          "incomeRatio": 3.41,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 13
+        },
+        {
+          "name": "其中:非洲",
+          "income": 1192481100.0,
+          "incomeRatio": 3.04,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 14
+        },
+        {
+          "name": "其中:东北地区",
+          "income": 968703400.0,
+          "incomeRatio": 2.47,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 15
+        },
+        {
+          "name": "其中:大洋洲",
+          "income": 377547300.0,
+          "incomeRatio": 0.96,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 16
+        }
+      ]
+    },
+    {
+      "reportDate": "2023-12-31",
+      "byIndustry": [],
+      "byProduct": [
+        {
+          "name": "全钢胎",
+          "income": 17211134434.07,
+          "incomeRatio": 48.82,
+          "cost": 14010037275.21,
+          "costRatio": 49.27,
+          "profit": 3201097158.86,
+          "profitRatio": 46.94,
+          "grossMargin": 18.6,
+          "rank": 1
+        },
+        {
+          "name": "半钢胎",
+          "income": 11253785459.08,
+          "incomeRatio": 31.92,
+          "cost": 8951451626.17,
+          "costRatio": 31.48,
+          "profit": 2302333832.91,
+          "profitRatio": 33.76,
+          "grossMargin": 20.46,
+          "rank": 2
+        },
+        {
+          "name": "车胎",
+          "income": 2969258561.34,
+          "incomeRatio": 8.42,
+          "cost": 2381706164.5,
+          "costRatio": 8.38,
+          "profit": 587552396.84,
+          "profitRatio": 8.62,
+          "grossMargin": 19.79,
+          "rank": 3
+        },
+        {
+          "name": "斜交胎",
+          "income": 2306004095.07,
+          "incomeRatio": 6.54,
+          "cost": 1729142992.57,
+          "costRatio": 6.08,
+          "profit": 576861102.5,
+          "profitRatio": 8.46,
+          "grossMargin": 25.02,
+          "rank": 4
+        },
+        {
+          "name": "其他",
+          "income": 1379551637.43,
+          "incomeRatio": 3.91,
+          "cost": 1250098186.8,
+          "costRatio": 4.4,
+          "profit": 129453450.63,
+          "profitRatio": 1.9,
+          "grossMargin": 9.38,
+          "rank": 5
+        },
+        {
+          "name": "其他(补充)",
+          "income": 132520409.79,
+          "incomeRatio": 0.38,
+          "cost": 110245835.21,
+          "costRatio": 0.39,
+          "profit": 22274574.58,
+          "profitRatio": 0.33,
+          "grossMargin": 16.81,
+          "rank": 6
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "境内",
+          "income": 18288080201.43,
+          "incomeRatio": 51.88,
+          "cost": 15707201923.44,
+          "costRatio": 55.24,
+          "profit": 2580878277.99,
+          "profitRatio": 37.85,
+          "grossMargin": 14.11,
+          "rank": 1
+        },
+        {
+          "name": "境外",
+          "income": 16831653985.56,
+          "incomeRatio": 47.75,
+          "cost": 12615234321.81,
+          "costRatio": 44.37,
+          "profit": 4216419663.75,
+          "profitRatio": 61.83,
+          "grossMargin": 25.05,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 132520409.79,
+          "incomeRatio": 0.38,
+          "cost": 110245835.21,
+          "costRatio": 0.39,
+          "profit": 22274574.58,
+          "profitRatio": 0.33,
+          "grossMargin": 16.81,
+          "rank": 3
+        },
+        {
+          "name": "其中:华东地区",
+          "income": 7427108200.0,
+          "incomeRatio": 21.07,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "其中:北美洲",
+          "income": 5580760400.0,
+          "incomeRatio": 15.83,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "其中:亚洲",
+          "income": 3985018800.0,
+          "incomeRatio": 11.3,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "其中:欧洲",
+          "income": 3422696200.0,
+          "incomeRatio": 9.71,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "其中:华北地区",
+          "income": 2477385400.0,
+          "incomeRatio": 7.03,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "其中:南美洲",
+          "income": 2179607000.0,
+          "incomeRatio": 6.18,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "其中:华南地区",
+          "income": 2096823700.0,
+          "incomeRatio": 5.95,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "其中:华中地区",
+          "income": 2086757700.0,
+          "incomeRatio": 5.92,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        },
+        {
+          "name": "其中:西南地区",
+          "income": 2001991900.0,
+          "incomeRatio": 5.68,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 12
+        },
+        {
+          "name": "其中:非洲",
+          "income": 1328136300.0,
+          "incomeRatio": 3.77,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 13
+        },
+        {
+          "name": "其中:东北地区",
+          "income": 1103544100.0,
+          "incomeRatio": 3.13,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 14
+        },
+        {
+          "name": "其中:西北地区",
+          "income": 1094469000.0,
+          "incomeRatio": 3.1,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 15
+        },
+        {
+          "name": "其中:大洋洲",
+          "income": 335435400.0,
+          "incomeRatio": 0.95,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 16
+        }
+      ]
+    },
+    {
+      "reportDate": "2022-12-31",
+      "byIndustry": [],
+      "byProduct": [
+        {
+          "name": "全钢胎",
+          "income": 15824455853.35,
+          "incomeRatio": 49.62,
+          "cost": 13694403612.13,
+          "costRatio": 50.64,
+          "profit": 2130052241.22,
+          "profitRatio": 43.95,
+          "grossMargin": 13.46,
+          "rank": 1
+        },
+        {
+          "name": "半钢胎",
+          "income": 9242001844.23,
+          "incomeRatio": 28.98,
+          "cost": 7586814375.44,
+          "costRatio": 28.05,
+          "profit": 1655187468.79,
+          "profitRatio": 34.16,
+          "grossMargin": 17.91,
+          "rank": 2
+        },
+        {
+          "name": "车胎",
+          "income": 2770693000.82,
+          "incomeRatio": 8.69,
+          "cost": 2328058050.14,
+          "costRatio": 8.61,
+          "profit": 442634950.68,
+          "profitRatio": 9.13,
+          "grossMargin": 15.98,
+          "rank": 3
+        },
+        {
+          "name": "斜交胎",
+          "income": 2246507379.3,
+          "incomeRatio": 7.04,
+          "cost": 1919732680.17,
+          "costRatio": 7.1,
+          "profit": 326774699.13,
+          "profitRatio": 6.74,
+          "grossMargin": 14.55,
+          "rank": 4
+        },
+        {
+          "name": "其他",
+          "income": 1676193790.91,
+          "incomeRatio": 5.26,
+          "cost": 1399863694.61,
+          "costRatio": 5.18,
+          "profit": 276330096.3,
+          "profitRatio": 5.7,
+          "grossMargin": 16.49,
+          "rank": 5
+        },
+        {
+          "name": "其他(补充)",
+          "income": 129001312.0,
+          "incomeRatio": 0.4,
+          "cost": 113960756.12,
+          "costRatio": 0.42,
+          "profit": 15040555.88,
+          "profitRatio": 0.31,
+          "grossMargin": 11.66,
+          "rank": 6
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "境内",
+          "income": 16859928891.81,
+          "incomeRatio": 52.87,
+          "cost": 14424306878.27,
+          "costRatio": 53.34,
+          "profit": 2435622013.54,
+          "profitRatio": 50.26,
+          "grossMargin": 14.45,
+          "rank": 1
+        },
+        {
+          "name": "境外",
+          "income": 14899922976.8,
+          "incomeRatio": 46.72,
+          "cost": 12504565534.22,
+          "costRatio": 46.24,
+          "profit": 2395357442.58,
+          "profitRatio": 49.43,
+          "grossMargin": 16.08,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 129001312.0,
+          "incomeRatio": 0.4,
+          "cost": 113960756.12,
+          "costRatio": 0.42,
+          "profit": 15040555.88,
+          "profitRatio": 0.31,
+          "grossMargin": 11.66,
+          "rank": 3
+        },
+        {
+          "name": "其中:华东地区",
+          "income": 7531030200.0,
+          "incomeRatio": 23.62,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "其中:北美洲",
+          "income": 5264913900.0,
+          "incomeRatio": 16.51,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "其中:亚洲",
+          "income": 3711651600.0,
+          "incomeRatio": 11.64,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "其中:欧洲",
+          "income": 2830176400.0,
+          "incomeRatio": 8.88,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "其中:华北地区",
+          "income": 2131598700.0,
+          "incomeRatio": 6.68,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "其中:西南地区",
+          "income": 1848666700.0,
+          "incomeRatio": 5.8,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "其中:华南地区",
+          "income": 1848218100.0,
+          "incomeRatio": 5.8,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "其中:华中地区",
+          "income": 1786618300.0,
+          "incomeRatio": 5.6,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        },
+        {
+          "name": "其中:南美洲",
+          "income": 1765909200.0,
+          "incomeRatio": 5.54,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 12
+        },
+        {
+          "name": "其中:非洲",
+          "income": 1023303100.0,
+          "incomeRatio": 3.21,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 13
+        },
+        {
+          "name": "其中:东北地区",
+          "income": 888179600.0,
+          "incomeRatio": 2.79,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 14
+        },
+        {
+          "name": "其中:西北地区",
+          "income": 825617300.0,
+          "incomeRatio": 2.59,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 15
+        },
+        {
+          "name": "其中:大洋洲",
+          "income": 303968900.0,
+          "incomeRatio": 0.95,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 16
+        }
+      ]
+    },
+    {
+      "reportDate": "2021-12-31",
+      "byIndustry": [],
+      "byProduct": [
+        {
+          "name": "全钢胎",
+          "income": 15909636532.83,
+          "incomeRatio": 51.99,
+          "cost": 13637919175.55,
+          "costRatio": 53.18,
+          "profit": 2271717357.28,
+          "profitRatio": 45.85,
+          "grossMargin": 14.28,
+          "rank": 1
+        },
+        {
+          "name": "半钢胎",
+          "income": 8469632344.69,
+          "incomeRatio": 27.68,
+          "cost": 6851334876.37,
+          "costRatio": 26.71,
+          "profit": 1618297468.32,
+          "profitRatio": 32.66,
+          "grossMargin": 19.11,
+          "rank": 2
+        },
+        {
+          "name": "车胎",
+          "income": 2658763683.11,
+          "incomeRatio": 8.69,
+          "cost": 2065330111.72,
+          "costRatio": 8.05,
+          "profit": 593433571.39,
+          "profitRatio": 11.98,
+          "grossMargin": 22.32,
+          "rank": 3
+        },
+        {
+          "name": "斜交胎",
+          "income": 2062862701.51,
+          "incomeRatio": 6.74,
+          "cost": 1736066707.69,
+          "costRatio": 6.77,
+          "profit": 326795993.82,
+          "profitRatio": 6.6,
+          "grossMargin": 15.84,
+          "rank": 4
+        },
+        {
+          "name": "其他",
+          "income": 1378756593.55,
+          "incomeRatio": 4.51,
+          "cost": 1253698583.33,
+          "costRatio": 4.89,
+          "profit": 125058010.22,
+          "profitRatio": 2.52,
+          "grossMargin": 9.07,
+          "rank": 5
+        },
+        {
+          "name": "其他(补充)",
+          "income": 121559915.82,
+          "incomeRatio": 0.4,
+          "cost": 102503489.27,
+          "costRatio": 0.4,
+          "profit": 19056426.55,
+          "profitRatio": 0.38,
+          "grossMargin": 15.68,
+          "rank": 6
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "境内",
+          "income": 18102333323.99,
+          "incomeRatio": 59.16,
+          "cost": 15271515599.96,
+          "costRatio": 59.55,
+          "profit": 2830817724.03,
+          "profitRatio": 57.14,
+          "grossMargin": 15.64,
+          "rank": 1
+        },
+        {
+          "name": "境外",
+          "income": 12377318531.7,
+          "incomeRatio": 40.45,
+          "cost": 10272833854.7,
+          "costRatio": 40.05,
+          "profit": 2104484677.0,
+          "profitRatio": 42.48,
+          "grossMargin": 17.0,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 121559915.82,
+          "incomeRatio": 0.4,
+          "cost": 102503489.27,
+          "costRatio": 0.4,
+          "profit": 19056426.55,
+          "profitRatio": 0.38,
+          "grossMargin": 15.68,
+          "rank": 3
+        },
+        {
+          "name": "其中:华东地区",
+          "income": 8096471800.0,
+          "incomeRatio": 26.46,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "其中:北美洲",
+          "income": 4736372200.0,
+          "incomeRatio": 15.48,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "其中:亚洲",
+          "income": 2698601300.0,
+          "incomeRatio": 8.82,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "其中:华北地区",
+          "income": 2257281100.0,
+          "incomeRatio": 7.38,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "其中:西南地区",
+          "income": 2235178600.0,
+          "incomeRatio": 7.3,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "其中:欧洲",
+          "income": 2127458700.0,
+          "incomeRatio": 6.95,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "其中:华南地区",
+          "income": 1862126000.0,
+          "incomeRatio": 6.09,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "其中:南美洲",
+          "income": 1756715500.0,
+          "incomeRatio": 5.74,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        },
+        {
+          "name": "其中:华中地区",
+          "income": 1604361000.0,
+          "incomeRatio": 5.24,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 12
+        },
+        {
+          "name": "其中:东北地区",
+          "income": 1248730200.0,
+          "incomeRatio": 4.08,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 13
+        },
+        {
+          "name": "其中:西北地区",
+          "income": 798184700.0,
+          "incomeRatio": 2.61,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 14
+        },
+        {
+          "name": "其中:非洲",
+          "income": 775435100.0,
+          "incomeRatio": 2.53,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 15
+        }
+      ]
+    }
+  ],
+  "analysis": [
+    {
+      "reportDate": "2025-12-31",
+      "businessReview": "2025年度,轮胎行业历经各种挑战,公司始终在跌宕市场中寻求发展机遇。本年度,公司秉持“造好产品、定好市场、卖好价格”的朴素理念,着眼服务客户与市场、刀刃向内修好内功,取得来之不易的行业领先业绩。（一）造好产品：以高性价比产品满足各层级客户需求公司长期坚持“五最”原则,即用最先进的技术、最新的材料、最好的装备、最低的能耗,生产最适应市场的产品。1、研发体系系统化AI赋能,研发效率全面提升。公司凭借多年的研发经验积累和测试数据积累,已实现AI辅助设计系统的广泛运用,并将试验交由虚拟仿真完成,研发效率全面提升。同时,通过AI辅助构建现场疵病知识图谱,将隐性的专家经验转化为可检索、可推理的显性知识,对于生产中出现质量问题系统能快速推荐解决方案。通过“数据驱动+AI进化”的模式,使公司具备从前端分子设计到终端轮胎性能的正向预测能力,实现从“制造”到“智造”的研发范式迁移。2、材料运用不断创新,追求最佳性能。公司坚持“材料创新驱动”,自研攻关+外部合作双管齐下,定向开发高性能、高性价比的新型材料,在提升产品核心性能的同时,同步优化材料成本结构。此外,公司结合原材料基因库,利用AI辅助探索未知的材料组合,启发颠覆性创新。以骨架材料为典型案例,公司通过引入新型钢丝种类,优化材料适配性与产品性能,大幅强化了轮胎的结构强度与耐用性。3、制造装备自研自用,电硫化技术、柔性化产线引领行业。公司紧跟时代步伐,拥抱人工智能等新技术,已建成一批“未来工厂”,并持续探索轮胎制造工艺的革命性创新。目前,公司新建产线全面采用自主研发的电硫化机设备,同时实现产品性能的提升和综合能耗的下降,为全球轮胎行业开辟硫化技术革新升级的创新道路。此外,公司为适配自身产品型号多样的生产特点,大力推进柔性化产线建设,通过设备的“一机多能”化改造,公司可根据订单变化灵活调整产出,避免产能错配导致的订单流失,显著增强市场适应能力。4、节能降耗不断精进,能效水平显著领先。公司坚持“优先使用一次能源、减少能源转化次数”的原则,采用高能效等级用能设备,持续提高能源有效利用率。公司连续多年荣获国家能效“领跑者”,能耗水平大幅低于行业平均。（二）定好市场：细化产品运用场景,突进新能源汽车轮胎赛道1、全钢胎的全球领先地位公司是全球产销规模最大的全钢胎制造企业。公司坚持技术先行,根据“场景定义轮胎”的开发理念,精准锁定需求痛点,高效落地专属产品。公司目前已形成全钢胎全场景产品矩阵,覆盖重载、渣土、长途运输、矿山、轿运、大件运输、公交、客运等多个细分市场,在产品深度与广度上均处于行业领先地位。对于性能需求存在偏好以及使用场景较为固定的客户,公司针对性开发的产品可以更好贴合其需求,具备良好的市场渗透力与客户粘性。2、半钢胎的国内主导地位公司在我国乘用车胎市场销量领先,占据着稳固的主导地位。针对乘用车胎,公司“天玑”技术系统整合八大核心技术,令相关产品在噪音控制、湿地抓地力、燃油效率等技术指标上做到了比肩国际水平。公司的“1号”系列旗舰乘用车胎产品是国内首个向高端乘用车胎市场发起冲击的国产品牌,为中国轮胎品牌高端系列全国销量第一。公司近来陆续推出适配新能源汽车的1号EVPRO轮胎、1号竞速高性能旗舰轮胎、C318全路型SUV油电双擎轮胎等爆款产品,不断贴合消费者需求。在2025年轮胎经销商年度认可产品“金轮奖”评选中,公司1号EVPRO系列荣获“年度最佳高端EV轮胎”,RP59/RP69则获评“年度最佳舒适型长里程轮胎”。3、新能源汽车轮胎跻身高端市场（1）在新能源乘用车领域,公司成功跻身中高端配套市场,品牌效应开始显现。2025年度,公司新能源乘用车配套轮胎数量超1,070万条,是中国最主要的新能源汽车原配轮胎供应商,公司是比亚迪、小鹏、零跑、埃安等我国新能源汽车头部品牌供应量最大的轮胎供应商。报告期内,公司以新能源汽车为抓手,实现对丰田铂智3X、比亚迪海狮06EV、小鹏NOMA、东风猛士817、零跑B10、长城哈弗猛龙等车型的原装配套,同时多个中高端车型的定点开发项目正在推进中。公司在中高端整车配套领域实现全面突破,品牌形象不断提升。（2）在新能源商用车领域,公司率先推出电动商用车专用轮胎产品体系,已占据明显的先发优势。我国商用车领域新能源化趋势正在加速,根据中汽协数据,2025年我国新能源商用车销售量同比增长63.7%,渗透率达26.9%。公司于2025年7月全球首发了电动商用车专用轮胎家族。该系统直面电动重卡“瞬时大扭矩”与“电池增重约25%”所导致的“高磨损、高故障、高异磨”新三高困境,通过“材料－结构－工艺”一体化的正向设计,系统性构建起新一代高性能轮胎的骨架方案,实现了从“被动适配”到“主动定义”的跨越。公司凭借快速的市场响应,已在商用车电动化的大趋势中占据电卡专用轮胎领先地位。（三）卖好价格：扎牢经销商体系,塑造数字营销网络1、长年精耕细作,国内经销体系壁垒深厚在国内替换市场,公司无论全钢胎、半钢胎,连续多年销量稳居行业第一。2025年度,公司持续推进渠道深耕战略,截至2025年底在国内拥有稳定一级经销商600余家,核心零售渠道客户超四万家。同时公司大力推进RFID“一胎一码”产品追溯管理技术,通过轮胎中的RFID芯片实现“生产-流通-零售”的信息溯源,进一步建立规范的渠道运营体系。本年度,公司针对轮胎规格复杂、消费场景分散、终端库存有限的行业痛点,持续推动即时零售体系建设,公司快配服务网络已覆盖全国202个地级市、508个县（区）,并开始引入无人配送车为渠道提供更便利、更快捷、更优质的服务体验。2、客群不断扩展,海外渠道建设更上层楼在海外渠道,公司通过统一的品牌管理和市场资源投入,对海外区域经销商进行体系化赋能。2025年,公司持续推动海外渠道网络向更细分的国家和城市下沉,不断优化海外区域布局。在终端层面,则持续加大对门店形象升级、品牌物料投放、联合推广和销售培训的支持力度。通过线上线下协同、品牌活动与销售政策联动,公司希望让更多海外用户在当地门店能够更直观地感知公司品牌、更加便利地购买公司产品,进一步把品牌势能转化为市场份额和客户黏性。",
+      "futureExpect": "(一)行业格局和趋势近些年来,尽管全球轮胎需求总量稳步提升,但低于产能扩展步伐,这一趋势权衡势必形成产业红海的加深。国内各胎企不仅在各品类轮胎上展开激烈竞争,也凭着自身产品研制能力提高形成的高性价比,与国际大厂在中高端层面同台竞技。1、国内市场的竞争与集聚（1）从单项突破演变为全品类综合竞争力比较。不同品类轮胎面对的客户群体、销售市场与研制难度差异,更多面向个体消费者的半钢胎获利能力远大于其他品类轮胎,故为快速的完成资本积累和进入市场,国内大部分企业主要发力点在于半钢胎,在全钢胎领域投入不足,更谈不上履带、二轮胎等全品类的发展。这也就形成同为胎企但出现众多单品或仰仗单品的不同发展路径。公司脱胎于为国民经济发展承担重责的国企,从设立之初就以研制全品类运载工具部件的目标。几十年来,无论在半钢、全钢、履带或二轮胎等产品上均保持持续的研制能力。这一产品链的布局,尽管在短时间内承受着跳跃式发展的压力,但在较长周期内,公司在宏观经济波浪中保持着持续增长的能力,有效避免发展过程中的“此起彼伏”。（2）海外产能加速布局促使海外基地获利能力趋平。在国内,胎企不仅在中低端市场来自民族企业的激烈竞争,也在高端市场面对国际大厂“先入为主”的挤压。这促使众多本国企业将视角投向海外市场的建设。在拓建海外基地初期,基于关税和贸易壁垒的规避以及竞争程度不足等原因,海外基地的确获得远较国内更大的收益。但随着关税和贸易壁垒措施趋同化以及国内胎企海外密集扩大产能,初期的超额收益日益回落,以至于获利能力回到依靠性价比、品质、品类、成本控制等综合实力上,形成事实上的国内与国外镜像关系。2、民族胎企的突进与国际胎企的坚守（1）在国内,中国胎企发展的整体力量上升。随着国内车辆的市场扩大及保有量的累积,民族胎企凭借高性价比及本土适应力,整体市占率有着较大的增长。特别是在全钢胎市场,民族品牌优势显著。在半钢胎的替换市场,个人消费者亦倾向于选择国内品牌。这种趋势可以从国内轮胎市场的市占率及国外品牌生产企业产能转移或被并购可见一斑。这其中,以本公司为例,全钢胎供不应求,国内市场的市占率达20%以上；半钢胎市占率从2020年的约7%增长至2025年的约10%。公司全钢胎配套企业包括一汽解放、北汽福田、中国重汽等全部前十商用车企,半钢胎配套包括比亚迪、长城、长安、小鹏、零跑、埃安等。（2）在海外,国际大厂因高成本而发展渐弱。近些年,一方面为规避各类贸易壁垒,另一方面也是中国胎企走出国门、进军全球的重要举措,众多胎企纷纷在海外设立制造和研发基地。海外基地的扩展将直面老牌国际大厂的先发优势,以高效管理与成本控制力取得不俗成绩。通过“走出去”,便利了所在国及其周边市场份额扩大以及统筹在各国别间产能与出口资源的调配,将竞争力最终归结于产品性价比与品牌影响力。（3）中国胎企正将触角延伸至高端领域及国外车企配套市场。进入快速发展阶段的中国胎企,已从低端覆盖、中端扩大正走向高附加值市场,从跟随、模仿转向为大幅度增加研发投入、提高产品品质的发展方向。以本公司为例,半钢胎产品已进入斯特兰蒂斯集团序列,为大众、雷诺等海外车企配套。特别是新能源车配套市场,因我国车企的先发优势及持续快速发展,为我国胎企进入新能源车配套市场及替换市场取得得天独厚的发展机遇。如本公司,已取得比亚迪、小鹏、零跑、埃安等新能源车的主配套胎企的供应商地位。3、技术的趋近与品牌溢价（1）在通常应用领域技术无差别。国内胎企始于早期“有”为发展目标,经过几十年的发展,特别是本世纪以来,着力于对标国际大厂,正逐步向对标大厂靠拢。轮胎产品也从品类不全、品质一致性不足、满足基本底层级需求,发展成为全系列、高性价比、满足多场景需求的轮胎制造大国。但也要看到,轮胎行业是随着汽车产业发展而逐步壮大这一发展规律。起步于美欧的汽车兴起以及随后的日韩汽车销往全世界,与之配套的轮胎在该等本国迅速做大做强,而我国汽车工业起步较晚,国产轮胎亦不可能捷足先登、异军突起。（2）少数极端应用领域的技术差异缩小。几乎所有位移工具均以橡胶轮胎或履带为载体,其运用于国民经济建设的各个方面。经过几十年国人的努力,除超高速、超高压等少数极端应用场景的商业化对物化指标、安全性等提出严苛要求外,我国胎企生产的轮胎或履带已进入几乎所有个人消费车辆与商用工程建设场景,并就品质一致性、安全性、耐用性、舒适性和操作性等各项物化指标达到较高的经济性,与国际大厂具有同台竞争的实力。但基于品牌影响力而言,当前的国际大厂相比国产轮胎具有较高的品牌溢价,打破这种影响力还需要很大一段路要走。(二)公司发展战略1、拓展新的应用赛道（1）进发新赛道。在稳固通常应用场景轮胎市场的行业地位与影响力外,公司正将发展视角投向高端市场,通过对轮胎物化特性的基础研究,积极储备技术,努力打破国际大厂对极端场景下的高品质轮胎市场的垄断,实现民族自给。（2）强化前沿研究。公司已专门设立前沿技术研究中心,投入研究经费对轮胎行业新认知、新理论、新技术、新方法、新材料等进行基础理论研究。同时公司高度重视各个领域的新形态轮胎需求,部分成果已实现配套或与有关应用机构深度合作,如开发月球车轮胎、轮足机器人轮胎、无人配送车轮胎等。2、稳健开发海外制造新基地,构建产销国际网络新体系（1）稳国内,扩海外。海外基地建设,既是应对多变的国际经济环境,也是公司真正建设成为国际领先胎企的必由之路。世界范围内布局,将产品辐射至各地,也是轮胎国际大企历史发展规律的总结。公司走先国内后国际的发展路径,将国内实践成功的研制经验推广至各海外基地。2025年公司扩建泰国基地产能,计划增加年产1,200万条半钢胎的生产能力,同时着力建设印尼基地,目前印尼基地已规划建设年产400万条全钢胎、1,000万条半钢胎产能。（2）控制风险,稳步推进。轮胎行业海外基地选择有其特定条件,便利的航运条件、丰富的原材料和稳定的能源供给,当然也离不开建设与经营过程中的行政效率、人力资源与环境要求等软环境。契合国家“一带一路”政策,充分运用我国的友好政经环境,公司采取先东南亚后其余大洲、满足可预期稳定市场需求为开发策略,努力避免投资风险和资产损失。这一发展战略将伴随公司国际化道路长期坚持发展目标。3、以新能源车出海为契机推动品牌国际影响力（1）提领消费市场新抓手。全力发展新能源车配套市场,是公司的一项重大战略举措。这一方面基于新能源车配套市场从小尺寸发展至大尺寸胎、进而获利空间的极大改善；另一方面源于公司在新能源车胎研制实力提升、进而引发逐步取代国际大厂产品的质变。按照配套市场与替换市场转化比,深度介入新能源车胎配套市场将成倍带动替换市场销售。（2）带动品牌国际影响力。同时,随着车辆出口的扩大带来品牌影响力的提升,这是国际知名企业实现品牌溢价的发展规律。在保持传统“活动赞助”、“体育赛事”、“广告投放”外,公司积极利用新媒体、网络等新型传播方式提高品牌美誉度,但多年实践证明通过民族车企的勃兴,才是带动民族胎企走向世界前列的最为有效、最为直接的通路。(三)经营计划公司围绕年度经营目标的达成、品牌战略深化、重点落实八大举措,力争实现比2025年更好的经营业绩。公司2026年度八大举措落实包括：1、经营计划的强制性和严肃性,2、生产能力的提升工作,3、产销平衡工作,4、产品品质提升工作,5、成本管控和利润提升工作,6、销售提升工作,7、大力发展生产型服务业,8、发展新质生产力。"
+    }
+  ]
+}

@@ -1,0 +1,1279 @@
+{
+  "code": "603993",
+  "name": "洛阳钼业",
+  "fetchTime": "2026-06-18T18:37:14",
+  "segments": [
+    {
+      "reportDate": "2025-12-31",
+      "byIndustry": [
+        {
+          "name": "矿产贸易",
+          "income": 180079235246.16,
+          "incomeRatio": 87.13,
+          "cost": 168483690581.59,
+          "costRatio": 107.16,
+          "profit": 11595544664.57,
+          "profitRatio": 23.45,
+          "grossMargin": 6.44,
+          "rank": 1
+        },
+        {
+          "name": "矿山采掘及加工",
+          "income": 77712960889.02,
+          "incomeRatio": 37.6,
+          "cost": 36638071441.18,
+          "costRatio": 23.3,
+          "profit": 41074889447.84,
+          "profitRatio": 83.06,
+          "grossMargin": 52.85,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 240639891.8,
+          "incomeRatio": 0.12,
+          "cost": 156067715.1,
+          "costRatio": 0.1,
+          "profit": 84572176.7,
+          "profitRatio": 0.17,
+          "grossMargin": 35.14,
+          "rank": 3
+        },
+        {
+          "name": "其他",
+          "income": 760832.05,
+          "incomeRatio": 0.0,
+          "cost": 732218.71,
+          "costRatio": 0.0,
+          "profit": 28613.34,
+          "profitRatio": 0.0,
+          "grossMargin": 3.76,
+          "rank": 4
+        },
+        {
+          "name": "内部交易抵销",
+          "income": -51349947808.6,
+          "incomeRatio": -24.84,
+          "cost": -48049182151.23,
+          "costRatio": -30.56,
+          "profit": -3300765657.37,
+          "profitRatio": -6.67,
+          "grossMargin": null,
+          "rank": 5
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "精炼金属贸易",
+          "income": 103244438301.29,
+          "incomeRatio": 49.95,
+          "cost": 99960963475.16,
+          "costRatio": 63.58,
+          "profit": 3283474826.13,
+          "profitRatio": 6.64,
+          "grossMargin": 3.18,
+          "rank": 1
+        },
+        {
+          "name": "矿物金属贸易",
+          "income": 76834796944.87,
+          "incomeRatio": 37.18,
+          "cost": 68522727106.43,
+          "costRatio": 43.58,
+          "profit": 8312069838.44,
+          "profitRatio": 16.81,
+          "grossMargin": 10.82,
+          "rank": 2
+        },
+        {
+          "name": "铜",
+          "income": 55096475889.78,
+          "incomeRatio": 26.66,
+          "cost": 24704431473.07,
+          "costRatio": 15.71,
+          "profit": 30392044416.71,
+          "profitRatio": 61.45,
+          "grossMargin": 55.16,
+          "rank": 3
+        },
+        {
+          "name": "钼",
+          "income": 6329854262.03,
+          "incomeRatio": 3.06,
+          "cost": 3820127578.89,
+          "costRatio": 2.43,
+          "profit": 2509726683.14,
+          "profitRatio": 5.07,
+          "grossMargin": 39.65,
+          "rank": 4
+        },
+        {
+          "name": "钴",
+          "income": 6171142514.42,
+          "incomeRatio": 2.99,
+          "cost": 2244820480.96,
+          "costRatio": 1.43,
+          "profit": 3926322033.46,
+          "profitRatio": 7.94,
+          "grossMargin": 63.62,
+          "rank": 5
+        },
+        {
+          "name": "磷",
+          "income": 4067767775.12,
+          "incomeRatio": 1.97,
+          "cost": 3040094323.77,
+          "costRatio": 1.93,
+          "profit": 1027673451.35,
+          "profitRatio": 2.08,
+          "grossMargin": 25.26,
+          "rank": 6
+        },
+        {
+          "name": "铌",
+          "income": 3624971477.01,
+          "incomeRatio": 1.75,
+          "cost": 2014555281.45,
+          "costRatio": 1.28,
+          "profit": 1610416195.56,
+          "profitRatio": 3.26,
+          "grossMargin": 44.43,
+          "rank": 7
+        },
+        {
+          "name": "钨",
+          "income": 2422748970.66,
+          "incomeRatio": 1.17,
+          "cost": 814042303.04,
+          "costRatio": 0.52,
+          "profit": 1608706667.62,
+          "profitRatio": 3.25,
+          "grossMargin": 66.4,
+          "rank": 8
+        },
+        {
+          "name": "其他(补充)",
+          "income": 240639891.8,
+          "incomeRatio": 0.12,
+          "cost": 156067715.1,
+          "costRatio": 0.1,
+          "profit": 84572176.7,
+          "profitRatio": 0.17,
+          "grossMargin": 35.14,
+          "rank": 9
+        },
+        {
+          "name": "其他",
+          "income": 760832.05,
+          "incomeRatio": 0.0,
+          "cost": 732218.71,
+          "costRatio": 0.0,
+          "profit": 28613.34,
+          "profitRatio": 0.0,
+          "grossMargin": 3.76,
+          "rank": 10
+        },
+        {
+          "name": "内部交易抵销",
+          "income": -51349947808.6,
+          "incomeRatio": -24.84,
+          "cost": -48049182151.23,
+          "costRatio": -30.56,
+          "profit": -3300765657.37,
+          "profitRatio": -6.67,
+          "grossMargin": null,
+          "rank": 11
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "矿产贸易-中国境外",
+          "income": 122213651896.78,
+          "incomeRatio": 59.13,
+          "cost": 111143738070.12,
+          "costRatio": 70.69,
+          "profit": 11069913826.66,
+          "profitRatio": 22.38,
+          "grossMargin": 9.06,
+          "rank": 1
+        },
+        {
+          "name": "矿山采掘及加工-刚果(金)",
+          "income": 61267618404.2,
+          "incomeRatio": 29.64,
+          "cost": 26949251954.03,
+          "costRatio": 17.14,
+          "profit": 34318366450.17,
+          "profitRatio": 69.39,
+          "grossMargin": 56.01,
+          "rank": 2
+        },
+        {
+          "name": "矿产贸易-中国",
+          "income": 57865583349.38,
+          "incomeRatio": 28.0,
+          "cost": 57339952511.47,
+          "costRatio": 36.47,
+          "profit": 525630837.91,
+          "profitRatio": 1.06,
+          "grossMargin": 0.91,
+          "rank": 3
+        },
+        {
+          "name": "矿山采掘及加工-中国",
+          "income": 8752603232.69,
+          "incomeRatio": 4.23,
+          "cost": 4634169881.93,
+          "costRatio": 2.95,
+          "profit": 4118433350.76,
+          "profitRatio": 8.33,
+          "grossMargin": 47.05,
+          "rank": 4
+        },
+        {
+          "name": "矿山采掘及加工-巴西",
+          "income": 7692739252.13,
+          "incomeRatio": 3.72,
+          "cost": 5054649605.22,
+          "costRatio": 3.21,
+          "profit": 2638089646.91,
+          "profitRatio": 5.33,
+          "grossMargin": 34.29,
+          "rank": 5
+        },
+        {
+          "name": "其他(补充)",
+          "income": 240639891.8,
+          "incomeRatio": 0.12,
+          "cost": 156067715.1,
+          "costRatio": 0.1,
+          "profit": 84572176.7,
+          "profitRatio": 0.17,
+          "grossMargin": 35.14,
+          "rank": 6
+        },
+        {
+          "name": "其他-中国",
+          "income": 760832.05,
+          "incomeRatio": 0.0,
+          "cost": 732218.71,
+          "costRatio": 0.0,
+          "profit": 28613.34,
+          "profitRatio": 0.0,
+          "grossMargin": 3.76,
+          "rank": 7
+        },
+        {
+          "name": "内部交易抵销",
+          "income": -51349947808.6,
+          "incomeRatio": -24.84,
+          "cost": -48049182151.23,
+          "costRatio": -30.56,
+          "profit": -3300765657.37,
+          "profitRatio": -6.67,
+          "grossMargin": null,
+          "rank": 8
+        }
+      ]
+    },
+    {
+      "reportDate": "2024-12-31",
+      "byIndustry": [
+        {
+          "name": "矿产贸易",
+          "income": 188355740226.46,
+          "incomeRatio": 88.42,
+          "cost": 183414802447.65,
+          "costRatio": 103.17,
+          "profit": 4940937778.81,
+          "profitRatio": 14.02,
+          "grossMargin": 2.62,
+          "rank": 1
+        },
+        {
+          "name": "矿山采掘及加工",
+          "income": 65259591178.28,
+          "incomeRatio": 30.63,
+          "cost": 35803727757.58,
+          "costRatio": 20.14,
+          "profit": 29455863420.7,
+          "profitRatio": 83.55,
+          "grossMargin": 45.14,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 182251444.39,
+          "incomeRatio": 0.09,
+          "cost": 83605616.75,
+          "costRatio": 0.05,
+          "profit": 98645827.64,
+          "profitRatio": 0.28,
+          "grossMargin": 54.13,
+          "rank": 3
+        },
+        {
+          "name": "其他",
+          "income": 440592.86,
+          "incomeRatio": 0.0,
+          "cost": 407135.6,
+          "costRatio": 0.0,
+          "profit": 33457.26,
+          "profitRatio": 0.0,
+          "grossMargin": 7.59,
+          "rank": 4
+        },
+        {
+          "name": "内部交易抵销",
+          "income": -40769358607.2,
+          "incomeRatio": -19.14,
+          "cost": -41528556665.67,
+          "costRatio": -23.36,
+          "profit": 759198058.47,
+          "profitRatio": 2.15,
+          "grossMargin": null,
+          "rank": 5
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "精炼金属产品",
+          "income": 123727783903.48,
+          "incomeRatio": 58.08,
+          "cost": 122209778951.32,
+          "costRatio": 68.74,
+          "profit": 1518004952.16,
+          "profitRatio": 4.31,
+          "grossMargin": 1.23,
+          "rank": 1
+        },
+        {
+          "name": "精矿产品",
+          "income": 64627956322.98,
+          "incomeRatio": 30.34,
+          "cost": 61205023496.33,
+          "costRatio": 34.43,
+          "profit": 3422932826.65,
+          "profitRatio": 9.71,
+          "grossMargin": 5.3,
+          "rank": 2
+        },
+        {
+          "name": "铜",
+          "income": 41856694567.41,
+          "incomeRatio": 19.65,
+          "cost": 20819626495.38,
+          "costRatio": 11.71,
+          "profit": 21037068072.03,
+          "profitRatio": 59.67,
+          "grossMargin": 50.26,
+          "rank": 3
+        },
+        {
+          "name": "钴",
+          "income": 8742978101.54,
+          "incomeRatio": 4.1,
+          "cost": 5742966772.89,
+          "costRatio": 3.23,
+          "profit": 3000011328.65,
+          "profitRatio": 8.51,
+          "grossMargin": 34.31,
+          "rank": 4
+        },
+        {
+          "name": "钼",
+          "income": 6297174970.45,
+          "incomeRatio": 2.96,
+          "cost": 4088852273.38,
+          "costRatio": 2.3,
+          "profit": 2208322697.07,
+          "profitRatio": 6.26,
+          "grossMargin": 35.07,
+          "rank": 5
+        },
+        {
+          "name": "磷",
+          "income": 3584966355.45,
+          "incomeRatio": 1.68,
+          "cost": 2668364881.7,
+          "costRatio": 1.5,
+          "profit": 916601473.75,
+          "profitRatio": 2.6,
+          "grossMargin": 25.57,
+          "rank": 6
+        },
+        {
+          "name": "铌",
+          "income": 2955651268.32,
+          "incomeRatio": 1.39,
+          "cost": 1848690354.0,
+          "costRatio": 1.04,
+          "profit": 1106960914.32,
+          "profitRatio": 3.14,
+          "grossMargin": 37.45,
+          "rank": 7
+        },
+        {
+          "name": "钨",
+          "income": 1822125915.11,
+          "incomeRatio": 0.86,
+          "cost": 635226980.23,
+          "costRatio": 0.36,
+          "profit": 1186898934.88,
+          "profitRatio": 3.37,
+          "grossMargin": 65.14,
+          "rank": 8
+        },
+        {
+          "name": "其他(补充)",
+          "income": 182251444.39,
+          "incomeRatio": 0.09,
+          "cost": 83605616.75,
+          "costRatio": 0.05,
+          "profit": 98645827.64,
+          "profitRatio": 0.28,
+          "grossMargin": 54.13,
+          "rank": 9
+        },
+        {
+          "name": "其他",
+          "income": 440592.86,
+          "incomeRatio": 0.0,
+          "cost": 407135.6,
+          "costRatio": 0.0,
+          "profit": 33457.26,
+          "profitRatio": 0.0,
+          "grossMargin": 7.59,
+          "rank": 10
+        },
+        {
+          "name": "内部交易抵销",
+          "income": -40769358607.2,
+          "incomeRatio": -19.14,
+          "cost": -41528556665.67,
+          "costRatio": -23.36,
+          "profit": 759198058.47,
+          "profitRatio": 2.15,
+          "grossMargin": null,
+          "rank": 11
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "中国境外",
+          "income": 130711977802.69,
+          "incomeRatio": 61.36,
+          "cost": 126455295538.12,
+          "costRatio": 71.13,
+          "profit": 4256682264.57,
+          "profitRatio": 12.07,
+          "grossMargin": 3.26,
+          "rank": 1
+        },
+        {
+          "name": "中国",
+          "income": 65763503902.19,
+          "incomeRatio": 30.87,
+          "cost": 61683993298.74,
+          "costRatio": 34.7,
+          "profit": 4079510603.45,
+          "profitRatio": 11.57,
+          "grossMargin": 6.2,
+          "rank": 2
+        },
+        {
+          "name": "刚果(金)",
+          "income": 50599672668.95,
+          "incomeRatio": 23.75,
+          "cost": 26562593268.27,
+          "costRatio": 14.94,
+          "profit": 24037079400.68,
+          "profitRatio": 68.18,
+          "grossMargin": 47.5,
+          "rank": 3
+        },
+        {
+          "name": "巴西",
+          "income": 6540617623.77,
+          "incomeRatio": 3.07,
+          "cost": 4517055235.7,
+          "costRatio": 2.54,
+          "profit": 2023562388.07,
+          "profitRatio": 5.74,
+          "grossMargin": 30.94,
+          "rank": 4
+        },
+        {
+          "name": "其他(补充)",
+          "income": 182251444.39,
+          "incomeRatio": 0.09,
+          "cost": 83605616.75,
+          "costRatio": 0.05,
+          "profit": 98645827.64,
+          "profitRatio": 0.28,
+          "grossMargin": 54.13,
+          "rank": 5
+        },
+        {
+          "name": "内部交易抵销",
+          "income": -40769358607.2,
+          "incomeRatio": -19.14,
+          "cost": -41528556665.67,
+          "costRatio": -23.36,
+          "profit": 759198058.47,
+          "profitRatio": 2.15,
+          "grossMargin": null,
+          "rank": 6
+        }
+      ]
+    },
+    {
+      "reportDate": "2023-12-31",
+      "byIndustry": [
+        {
+          "name": "矿产贸易",
+          "income": 168077934918.62,
+          "incomeRatio": 90.23,
+          "cost": 166023116927.16,
+          "costRatio": 98.73,
+          "profit": 2054817991.46,
+          "profitRatio": 11.35,
+          "grossMargin": 1.22,
+          "rank": 1
+        },
+        {
+          "name": "矿山采掘及加工",
+          "income": 44517978048.73,
+          "incomeRatio": 23.9,
+          "cost": 26486438037.67,
+          "costRatio": 15.75,
+          "profit": 18031540011.06,
+          "profitRatio": 99.56,
+          "grossMargin": 40.5,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 288310561.87,
+          "incomeRatio": 0.15,
+          "cost": 264399058.1,
+          "costRatio": 0.16,
+          "profit": 23911503.77,
+          "profitRatio": 0.13,
+          "grossMargin": 8.29,
+          "rank": 3
+        },
+        {
+          "name": "其他",
+          "income": 98910.15,
+          "incomeRatio": 0.0,
+          "cost": 91986.26,
+          "costRatio": 0.0,
+          "profit": 6923.89,
+          "profitRatio": 0.0,
+          "grossMargin": 7.0,
+          "rank": 4
+        },
+        {
+          "name": "内部交易抵销",
+          "income": -26615350518.83,
+          "incomeRatio": -14.29,
+          "cost": -24615848222.25,
+          "costRatio": -14.64,
+          "profit": -1999502296.58,
+          "profitRatio": -11.04,
+          "grossMargin": null,
+          "rank": 5
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "精炼金属贸易",
+          "income": 123799068650.82,
+          "incomeRatio": 66.46,
+          "cost": 122474134512.19,
+          "costRatio": 72.83,
+          "profit": 1324934138.63,
+          "profitRatio": 7.32,
+          "grossMargin": 1.07,
+          "rank": 1
+        },
+        {
+          "name": "矿物金属贸易",
+          "income": 44278866267.8,
+          "incomeRatio": 23.77,
+          "cost": 43548982414.97,
+          "costRatio": 25.9,
+          "profit": 729883852.83,
+          "profitRatio": 4.03,
+          "grossMargin": 1.65,
+          "rank": 2
+        },
+        {
+          "name": "铜(不含NPM)",
+          "income": 24595113783.03,
+          "incomeRatio": 13.2,
+          "cost": 13453322130.5,
+          "costRatio": 8.0,
+          "profit": 11141791652.53,
+          "profitRatio": 61.52,
+          "grossMargin": 45.3,
+          "rank": 3
+        },
+        {
+          "name": "钼",
+          "income": 7130780647.01,
+          "incomeRatio": 3.83,
+          "cost": 4261166721.1,
+          "costRatio": 2.53,
+          "profit": 2869613925.91,
+          "profitRatio": 15.84,
+          "grossMargin": 40.24,
+          "rank": 4
+        },
+        {
+          "name": "磷",
+          "income": 3695793714.44,
+          "incomeRatio": 1.98,
+          "cost": 3046951575.85,
+          "costRatio": 1.81,
+          "profit": 648842138.59,
+          "profitRatio": 3.58,
+          "grossMargin": 17.56,
+          "rank": 5
+        },
+        {
+          "name": "钴",
+          "income": 3405807632.4,
+          "incomeRatio": 1.83,
+          "cost": 2145475706.81,
+          "costRatio": 1.28,
+          "profit": 1260331925.59,
+          "profitRatio": 6.96,
+          "grossMargin": 37.01,
+          "rank": 6
+        },
+        {
+          "name": "铌",
+          "income": 2628238524.48,
+          "incomeRatio": 1.41,
+          "cost": 1734671310.93,
+          "costRatio": 1.03,
+          "profit": 893567213.55,
+          "profitRatio": 4.93,
+          "grossMargin": 34.0,
+          "rank": 7
+        },
+        {
+          "name": "铜金(NPM)",
+          "income": 1581973794.18,
+          "incomeRatio": 0.85,
+          "cost": 1245985769.74,
+          "costRatio": 0.74,
+          "profit": 335988024.44,
+          "profitRatio": 1.86,
+          "grossMargin": 21.24,
+          "rank": 8
+        },
+        {
+          "name": "钨",
+          "income": 1480269953.19,
+          "incomeRatio": 0.79,
+          "cost": 598864822.74,
+          "costRatio": 0.36,
+          "profit": 881405130.45,
+          "profitRatio": 4.87,
+          "grossMargin": 59.54,
+          "rank": 9
+        },
+        {
+          "name": "其他(补充)",
+          "income": 288310561.87,
+          "incomeRatio": 0.15,
+          "cost": 264399058.1,
+          "costRatio": 0.16,
+          "profit": 23911503.77,
+          "profitRatio": 0.13,
+          "grossMargin": 8.29,
+          "rank": 10
+        },
+        {
+          "name": "其他",
+          "income": 98910.15,
+          "incomeRatio": 0.0,
+          "cost": 91986.26,
+          "costRatio": 0.0,
+          "profit": 6923.89,
+          "profitRatio": 0.0,
+          "grossMargin": 7.0,
+          "rank": 11
+        },
+        {
+          "name": "内部交易抵销",
+          "income": -26615350518.83,
+          "incomeRatio": -14.29,
+          "cost": -24615848222.25,
+          "costRatio": -14.64,
+          "profit": -1999502296.58,
+          "profitRatio": -11.04,
+          "grossMargin": null,
+          "rank": 12
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "中国境外",
+          "income": 117497238207.91,
+          "incomeRatio": 63.08,
+          "cost": 115933767773.55,
+          "costRatio": 68.94,
+          "profit": 1563470434.36,
+          "profitRatio": 8.63,
+          "grossMargin": 1.33,
+          "rank": 1
+        },
+        {
+          "name": "中国",
+          "income": 59191846221.06,
+          "incomeRatio": 31.78,
+          "cost": 54949472683.71,
+          "costRatio": 32.68,
+          "profit": 4242373537.35,
+          "profitRatio": 23.42,
+          "grossMargin": 7.17,
+          "rank": 2
+        },
+        {
+          "name": "刚果(金)",
+          "income": 28000921415.43,
+          "incomeRatio": 15.03,
+          "cost": 15598797837.31,
+          "costRatio": 9.28,
+          "profit": 12402123578.12,
+          "profitRatio": 68.48,
+          "grossMargin": 44.29,
+          "rank": 3
+        },
+        {
+          "name": "巴西",
+          "income": 6324032238.92,
+          "incomeRatio": 3.4,
+          "cost": 4781622886.78,
+          "costRatio": 2.84,
+          "profit": 1542409352.14,
+          "profitRatio": 8.52,
+          "grossMargin": 24.39,
+          "rank": 4
+        },
+        {
+          "name": "澳洲",
+          "income": 1581973794.18,
+          "incomeRatio": 0.85,
+          "cost": 1245985769.74,
+          "costRatio": 0.74,
+          "profit": 335988024.44,
+          "profitRatio": 1.86,
+          "grossMargin": 21.24,
+          "rank": 5
+        },
+        {
+          "name": "其他(补充)",
+          "income": 288310561.87,
+          "incomeRatio": 0.15,
+          "cost": 264399058.1,
+          "costRatio": 0.16,
+          "profit": 23911503.77,
+          "profitRatio": 0.13,
+          "grossMargin": 8.29,
+          "rank": 6
+        },
+        {
+          "name": "内部交易抵销",
+          "income": -26615350518.83,
+          "incomeRatio": -14.29,
+          "cost": -24615848222.25,
+          "costRatio": -14.64,
+          "profit": -1999502296.58,
+          "profitRatio": -11.04,
+          "grossMargin": null,
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "reportDate": "2022-12-31",
+      "byIndustry": [
+        {
+          "name": "矿产贸易",
+          "income": 147308074775.51,
+          "incomeRatio": 85.15,
+          "cost": 141820271430.74,
+          "costRatio": 90.37,
+          "profit": 5487803344.77,
+          "profitRatio": 34.16,
+          "grossMargin": 3.73,
+          "rank": 1
+        },
+        {
+          "name": "矿山采掘及加工",
+          "income": 25374526895.84,
+          "incomeRatio": 14.67,
+          "cost": 14813578562.05,
+          "costRatio": 9.44,
+          "profit": 10560948333.79,
+          "profitRatio": 65.74,
+          "grossMargin": 41.62,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 308049862.36,
+          "incomeRatio": 0.18,
+          "cost": 292207028.98,
+          "costRatio": 0.19,
+          "profit": 15842833.38,
+          "profitRatio": 0.1,
+          "grossMargin": 5.14,
+          "rank": 3
+        },
+        {
+          "name": "其他",
+          "income": 205687.65,
+          "incomeRatio": 0.0,
+          "cost": 191109.9,
+          "costRatio": 0.0,
+          "profit": 14577.75,
+          "profitRatio": 0.0,
+          "grossMargin": 7.09,
+          "rank": 4
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "精炼金属产品",
+          "income": 107391189099.5,
+          "incomeRatio": 62.08,
+          "cost": 103458581035.47,
+          "costRatio": 65.93,
+          "profit": 3932608064.03,
+          "profitRatio": 24.48,
+          "grossMargin": 3.66,
+          "rank": 1
+        },
+        {
+          "name": "精矿产品",
+          "income": 39916885676.01,
+          "incomeRatio": 23.07,
+          "cost": 38361690395.27,
+          "costRatio": 24.45,
+          "profit": 1555195280.74,
+          "profitRatio": 9.68,
+          "grossMargin": 3.9,
+          "rank": 2
+        },
+        {
+          "name": "铜、钴",
+          "income": 9748225331.68,
+          "incomeRatio": 5.64,
+          "cost": 5183855582.32,
+          "costRatio": 3.3,
+          "profit": 4564369749.36,
+          "profitRatio": 28.41,
+          "grossMargin": 46.82,
+          "rank": 3
+        },
+        {
+          "name": "铌、磷",
+          "income": 7368147038.65,
+          "incomeRatio": 4.26,
+          "cost": 4566124333.17,
+          "costRatio": 2.91,
+          "profit": 2802022705.48,
+          "profitRatio": 17.44,
+          "grossMargin": 38.03,
+          "rank": 4
+        },
+        {
+          "name": "钼、钨",
+          "income": 6965368091.42,
+          "incomeRatio": 4.03,
+          "cost": 4020610663.2,
+          "costRatio": 2.56,
+          "profit": 2944757428.22,
+          "profitRatio": 18.33,
+          "grossMargin": 42.28,
+          "rank": 5
+        },
+        {
+          "name": "铜、金",
+          "income": 1292786434.09,
+          "incomeRatio": 0.75,
+          "cost": 1042987983.36,
+          "costRatio": 0.66,
+          "profit": 249798450.73,
+          "profitRatio": 1.55,
+          "grossMargin": 19.32,
+          "rank": 6
+        },
+        {
+          "name": "其他(补充)",
+          "income": 308049862.36,
+          "incomeRatio": 0.18,
+          "cost": 292207028.98,
+          "costRatio": 0.19,
+          "profit": 15842833.38,
+          "profitRatio": 0.1,
+          "grossMargin": 5.14,
+          "rank": 7
+        },
+        {
+          "name": "其他",
+          "income": 205687.65,
+          "incomeRatio": 0.0,
+          "cost": 191109.9,
+          "costRatio": 0.0,
+          "profit": 14577.75,
+          "profitRatio": 0.0,
+          "grossMargin": 7.09,
+          "rank": 8
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "中国境外-矿产贸易",
+          "income": 106169537186.82,
+          "incomeRatio": 61.37,
+          "cost": 105744856297.49,
+          "costRatio": 67.39,
+          "profit": 424680889.33,
+          "profitRatio": 2.64,
+          "grossMargin": 0.4,
+          "rank": 1
+        },
+        {
+          "name": "中国-矿产贸易",
+          "income": 41138537588.69,
+          "incomeRatio": 23.78,
+          "cost": 36075415133.25,
+          "costRatio": 22.99,
+          "profit": 5063122455.44,
+          "profitRatio": 31.52,
+          "grossMargin": 12.31,
+          "rank": 2
+        },
+        {
+          "name": "刚果(金)-矿山采掘及加工",
+          "income": 9748225331.68,
+          "incomeRatio": 5.64,
+          "cost": 5183855582.32,
+          "costRatio": 3.3,
+          "profit": 4564369749.36,
+          "profitRatio": 28.41,
+          "grossMargin": 46.82,
+          "rank": 3
+        },
+        {
+          "name": "巴西-矿山采掘及加工",
+          "income": 7368147038.65,
+          "incomeRatio": 4.26,
+          "cost": 4566124333.17,
+          "costRatio": 2.91,
+          "profit": 2802022705.48,
+          "profitRatio": 17.44,
+          "grossMargin": 38.03,
+          "rank": 4
+        },
+        {
+          "name": "中国-矿山采掘及加工",
+          "income": 6965368091.42,
+          "incomeRatio": 4.03,
+          "cost": 4020610663.2,
+          "costRatio": 2.56,
+          "profit": 2944757428.22,
+          "profitRatio": 18.33,
+          "grossMargin": 42.28,
+          "rank": 5
+        },
+        {
+          "name": "澳洲-矿山采掘及加工",
+          "income": 1292786434.09,
+          "incomeRatio": 0.75,
+          "cost": 1042987983.36,
+          "costRatio": 0.66,
+          "profit": 249798450.73,
+          "profitRatio": 1.55,
+          "grossMargin": 19.32,
+          "rank": 6
+        },
+        {
+          "name": "其他(补充)",
+          "income": 308049862.36,
+          "incomeRatio": 0.18,
+          "cost": 292207028.98,
+          "costRatio": 0.19,
+          "profit": 15842833.38,
+          "profitRatio": 0.1,
+          "grossMargin": 5.14,
+          "rank": 7
+        },
+        {
+          "name": "中国-其他",
+          "income": 205687.65,
+          "incomeRatio": 0.0,
+          "cost": 191109.9,
+          "costRatio": 0.0,
+          "profit": 14577.75,
+          "profitRatio": 0.0,
+          "grossMargin": 7.09,
+          "rank": 8
+        }
+      ]
+    },
+    {
+      "reportDate": "2021-12-31",
+      "byIndustry": [
+        {
+          "name": "矿产贸易",
+          "income": 147993095536.58,
+          "incomeRatio": 85.12,
+          "cost": 142969071879.8,
+          "costRatio": 90.75,
+          "profit": 5024023656.78,
+          "profitRatio": 30.78,
+          "grossMargin": 3.39,
+          "rank": 1
+        },
+        {
+          "name": "矿山采掘及加工",
+          "income": 25358200175.29,
+          "incomeRatio": 14.59,
+          "cost": 14131081583.35,
+          "costRatio": 8.97,
+          "profit": 11227118591.94,
+          "profitRatio": 68.78,
+          "grossMargin": 44.27,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 511186494.72,
+          "incomeRatio": 0.29,
+          "cost": 439293063.36,
+          "costRatio": 0.28,
+          "profit": 71893431.36,
+          "profitRatio": 0.44,
+          "grossMargin": 14.06,
+          "rank": 3
+        },
+        {
+          "name": "其他",
+          "income": 103948.23,
+          "incomeRatio": 0.0,
+          "cost": 95822.23,
+          "costRatio": 0.0,
+          "profit": 8126.0,
+          "profitRatio": 0.0,
+          "grossMargin": 7.82,
+          "rank": 4
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "精炼金属产品",
+          "income": 105515444460.22,
+          "incomeRatio": 60.69,
+          "cost": 103254294287.11,
+          "costRatio": 65.54,
+          "profit": 2261150173.11,
+          "profitRatio": 13.85,
+          "grossMargin": 2.14,
+          "rank": 1
+        },
+        {
+          "name": "精矿产品",
+          "income": 42477651076.36,
+          "incomeRatio": 24.43,
+          "cost": 39714777592.69,
+          "costRatio": 25.21,
+          "profit": 2762873483.67,
+          "profitRatio": 16.93,
+          "grossMargin": 6.5,
+          "rank": 2
+        },
+        {
+          "name": "铜、钴",
+          "income": 13268256624.2,
+          "incomeRatio": 7.63,
+          "cost": 6241622321.72,
+          "costRatio": 3.96,
+          "profit": 7026634302.48,
+          "profitRatio": 43.05,
+          "grossMargin": 52.96,
+          "rank": 3
+        },
+        {
+          "name": "钼、钨",
+          "income": 5350413902.79,
+          "incomeRatio": 3.08,
+          "cost": 3162552021.69,
+          "costRatio": 2.01,
+          "profit": 2187861881.1,
+          "profitRatio": 13.4,
+          "grossMargin": 40.89,
+          "rank": 4
+        },
+        {
+          "name": "铌、磷",
+          "income": 5086841778.8,
+          "incomeRatio": 2.93,
+          "cost": 3615904038.1,
+          "costRatio": 2.3,
+          "profit": 1470937740.7,
+          "profitRatio": 9.01,
+          "grossMargin": 28.92,
+          "rank": 5
+        },
+        {
+          "name": "铜、金",
+          "income": 1652687869.5,
+          "incomeRatio": 0.95,
+          "cost": 1111003201.84,
+          "costRatio": 0.71,
+          "profit": 541684667.66,
+          "profitRatio": 3.32,
+          "grossMargin": 32.78,
+          "rank": 6
+        },
+        {
+          "name": "其他(补充)",
+          "income": 511186494.72,
+          "incomeRatio": 0.29,
+          "cost": 439293063.36,
+          "costRatio": 0.28,
+          "profit": 71893431.36,
+          "profitRatio": 0.44,
+          "grossMargin": 14.06,
+          "rank": 7
+        },
+        {
+          "name": "其他",
+          "income": 103948.23,
+          "incomeRatio": 0.0,
+          "cost": 95822.23,
+          "costRatio": 0.0,
+          "profit": 8126.0,
+          "profitRatio": 0.0,
+          "grossMargin": 7.82,
+          "rank": 8
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "中国境外-矿产贸易",
+          "income": 101691071809.46,
+          "incomeRatio": 58.49,
+          "cost": 98604205892.05,
+          "costRatio": 62.59,
+          "profit": 3086865917.41,
+          "profitRatio": 18.91,
+          "grossMargin": 3.04,
+          "rank": 1
+        },
+        {
+          "name": "中国-矿产贸易",
+          "income": 46302023727.12,
+          "incomeRatio": 26.63,
+          "cost": 44364865987.75,
+          "costRatio": 28.16,
+          "profit": 1937157739.37,
+          "profitRatio": 11.87,
+          "grossMargin": 4.18,
+          "rank": 2
+        },
+        {
+          "name": "刚果(金)-矿山采掘及加工",
+          "income": 13268256624.2,
+          "incomeRatio": 7.63,
+          "cost": 6241622321.72,
+          "costRatio": 3.96,
+          "profit": 7026634302.48,
+          "profitRatio": 43.05,
+          "grossMargin": 52.96,
+          "rank": 3
+        },
+        {
+          "name": "中国-矿山采掘及加工",
+          "income": 5350413902.79,
+          "incomeRatio": 3.08,
+          "cost": 3162552021.69,
+          "costRatio": 2.01,
+          "profit": 2187861881.1,
+          "profitRatio": 13.4,
+          "grossMargin": 40.89,
+          "rank": 4
+        },
+        {
+          "name": "巴西-矿山采掘及加工",
+          "income": 5086841778.8,
+          "incomeRatio": 2.93,
+          "cost": 3615904038.1,
+          "costRatio": 2.3,
+          "profit": 1470937740.7,
+          "profitRatio": 9.01,
+          "grossMargin": 28.92,
+          "rank": 5
+        },
+        {
+          "name": "澳洲-矿山采掘及加工",
+          "income": 1652687869.5,
+          "incomeRatio": 0.95,
+          "cost": 1111003201.84,
+          "costRatio": 0.71,
+          "profit": 541684667.66,
+          "profitRatio": 3.32,
+          "grossMargin": 32.78,
+          "rank": 6
+        },
+        {
+          "name": "其他(补充)",
+          "income": 511186494.72,
+          "incomeRatio": 0.29,
+          "cost": 439293063.36,
+          "costRatio": 0.28,
+          "profit": 71893431.36,
+          "profitRatio": 0.44,
+          "grossMargin": 14.06,
+          "rank": 7
+        },
+        {
+          "name": "中国-其他",
+          "income": 103948.23,
+          "incomeRatio": 0.0,
+          "cost": 95822.23,
+          "costRatio": 0.0,
+          "profit": 8126.0,
+          "profitRatio": 0.0,
+          "grossMargin": 7.82,
+          "rank": 8
+        }
+      ]
+    }
+  ],
+  "analysis": [
+    {
+      "reportDate": "2025-12-31",
+      "businessReview": "(一)经营回顾1.业绩产量双新高,经营发展稳提质公司持续释放产能优势,深化精细化管理体系建设,高效协同矿山与贸易两大板块,实现经营业绩与核心产品产量双重突破,均创下历史最佳水平。2025年,公司经营指标表现亮眼,整体盈利能力与财务结构保持稳健:实现营业收入2,066.84亿元,同比下降2.98%;归母净利润203.39亿元,同比增长50.30%;资产负债率为50.34%,保持在行业较低水平。产量方面,2025年公司所有产品产量均超越产量指引中值,核心产品表现突出:铜产量达74.11万吨,同比增长13.99%,位列全球前十大铜生产商;铌产量达1.03万吨,同比增长3.23%。2.收购金矿拓布局,多元发展启新程围绕“多品种、多国家、多阶段”的全球战略布局,2025年公司将黄金资源作为重点拓展方向,通过一系列精准收购动作,正式开启黄金业务板块,实现矿种布局多元化升级。6月,公司成功以5.81亿加元完成对世界级黄金资产厄瓜多尔奥丁矿业100%股权收购;同年8月,旗下奥丁矿业与厄瓜多尔ElitCorporation公司签署协议,锁定4个水电站、232兆瓦供电排他权,为构建安全、稳定、可靠的电力供销体系奠定坚实基础。目前,奥丁矿业金矿项目正处于筹建阶段,各项工作稳定推进,计划于2029年建成投产。12月,公司再度发力黄金资源布局,宣布以10.15亿美元收购巴西四座在产金矿(Aurizona金矿、RDM金矿及Bahia综合矿区)100%权益,并依托当地成熟的运营管理经验,仅用40天完成交割。2026年巴西系列金矿预计黄金年化产量为6-8吨,黄金板块将逐步成为公司新的业绩增长点。3.组织升级强治理,全球运营提效能2025年,公司深入推进组织架构优化升级,着力打造专业化、国际化、年轻化的核心管理团队,持续提升全球资源整合与运营治理能力。年内,公司成功引进多位具备深厚行业背景、丰富跨国运营经验的卓越人才,进一步优化管理团队结构,强化核心决策与执行能力。在新核心管理团队的引领下,公司后续将继续深化管理机制变革,推进精细化生产运营,全力打造全球化平台型组织,为公司新一轮高质量增长注入强劲动力。4.扩产提效增规模,运营提质重效益在非洲,TFM和KFM铜钴“双子星”通过处理量提升计划和回收率专项攻坚行动,提升现有产能。同时,KFM二期扩产项目顺利推进,项目拟于2027年建成投产,投产后预计新增原矿处理规模726万吨/年,达产后预计年均新增10万吨铜金属,将进一步扩大公司铜产能优势。在巴西,公司强化与中国科研院所的技术合作,铌和磷的回收率持续攀升,铌铁产量再创历史新高。在中国,钼、钨回收率双双提升,技术指标再攀新高;同时不断深耕综合回收领域,硫回收实现工业化生产,铼回收进入试运行,尾矿实现规模化综合利用。2025年,IXM持续推行产品线结构性改革,强化风险管控,深化期现结合,提质控量,经营效益再创新高。5.发行转债优结构,资本赋能促发展2026年1月,为进一步优化资本结构、保障公司全球战略顺利落地,成功完成12亿美元1年期零息可转换债券的发行工作,本次初始转股溢价率高达28.70%,充分彰显了资本市场对公司发展前景的高度认可。本次募集资金将主要用于支持公司境外资源项目的扩产升级、运营优化及持续性资本开支,同时进一步增强公司营运资金的灵活性。6.ESG建设领行业,可持续发展树标杆公司始终将可持续发展理念融入经营管理全过程,深耕ESG建设,各项绩效表现突出,持续保持行业领先水平,彰显企业社会责任与行业影响力。在ESG评级与荣誉方面,首次荣获WindESGAAA最高评级,登榜“中国上市公司ESG最佳实践百强”。年内,公司首度荣获“中国卓越管理企业”奖项,同时连续三年入选标普全球《可持续发展年鉴(中国版)2025》。10月,刚果(金)TFM铜钴矿顺利通过TheCopperMark铜标志再审审计,所有领域被评判为“完全满足”。(二)业务回顾2025年,公司矿业、贸易板块运营良好,各品种产量符合预期。",
+      "futureExpect": "(一)行业格局和趋势1、铜市场展望2026年,铜矿生产扰动持续、大型铜矿山品位持续下滑,新增大型项目稀缺,铜精矿供应预计延续偏紧。需求端将呈现结构性演变,全球电网升级、电动汽车、人工智能数据中心及储能系统等新兴领域,将成为铜需求增长的核心引擎。宏观层面,市场普遍预期美联储或将步入降息周期,美元或趋势性走弱,流动性宽松有望支撑铜价,预计2026年铜价将维持高位运行。2、钴市场展望2026年,全球钴市场仍面临供应不确定性,主要受刚果(金)约9.66万吨全年出口配额及印尼镍矿配额审批进度影响。钴作为电池、高温合金、催化剂等产品的核心原材料,需求韧性较强。2026年新能源汽车以旧换新政策和购置税补贴政策将持续支持动力电池需求,三元电池基本盘保持稳固;此外,低空经济领域及电动工具行业将贡献额外增量,对钴价构成支撑。3、金市场展望2026年,供应端,全球矿产金产量预计延续低速增长,存量矿山品位下滑及新增项目稀缺约束增量释放,整体供给弹性偏弱。需求端,央行购金预计延续净买入态势,主权基金多元化配置持续凸显黄金战略价值;投资需求有望随美联储降息周期开启而回暖,ETF及金条配置回升。宏观层面,地缘政治不确定性叠加美元信用体系重构,黄金避险需求延续,预计2026年金价将维持高位震荡偏强运行。4、钼市场展望2026年,供应端改善预期明确,国内西藏、东北、河南等地的钼矿扩产项目相继落地,尽管部分大型矿山开采品位下滑,国内产量预计保持增长;此外,北美、南美地区的大型铜钼伴生矿山亦有增产计划推进,部分国际原料将持续流入,国内钼供应水平较2025年预计显著提升。需求端,随着中国高端制造持续升级,及全球能源转型深化,含钼钢材正加速渗透新能源、高端制造、海工船舶等关键领域,预计2026年国内钢铁领域钼需求将保持稳健增长,有力支撑钼行业维持向好态势。5、钨市场展望2026年,供应端收缩态势延续,市场普遍预期钨矿开采配额指标将同比进一步收缩,叠加湘赣等产区环保要求升级、国家严厉打击钨矿盗采走私行为,且国内新建矿山项目投产进度缓慢,钨供应总量预计延续偏紧格局。尽管市场可通过增加钨原料进口及废钨循环回收调剂供给缺口,但弥补能力相对有限。需求端,传统刀具、耐磨材料等领域增速或将放缓,但高端刀具、光伏钨丝、半导体靶材、核聚变等新兴领域需求预计保持强劲增长。2026年作为“十五五”规划开局之年,钨市场将在供应刚性约束与新兴领域需求增加的双重作用下,延续景气向上的市场行情。6、铌市场展望2026年,随着增量产能逐步回归市场,铌供应预计小幅改善,有望缓解2025年出现的现货市场紧张局面。需求端,传统高强度低合金钢及合金钢材领域消费预计保持强劲,将持续支撑全球铌消费增长。电池材料、高端电子等新兴领域对氧化铌的需求预计温和增长,虽在总消费中占比相对较小,但仍能带来一定增量支撑。7、磷市场展望2026年,供给端,中国已宣布扩大磷肥出口限制范围并延长限制期限,此举将持续影响全球磷肥供应格局。需求端,巴西对农户的信贷限制问题依然存在,但随着种植户土壤养分补充需求释放、种植面积扩增及作物产量提升,叠加北美地区额外政府补贴有望提振春季用肥需求,磷肥需求量预计较上年有所增长,市场整体有望稳步向好。上述市场展望仅为参考信息,金属市场价格受宏观经济、地缘政治、供需格局等多重因素影响存在大幅波动风险,不构成任何投资建议或交易依据,投资者据此操作需自行承担相应投资风险。(二)公司发展战略公司的目标是成为全球领先、独树一帜的世界级矿业公司。随着公司发展,目前已跨越单纯依赖资源获取与规模扩张的阶段,迈入规模与能力并重、平台化运营与精细化管理协同推进的高质量发展新时期,致力于构建增长稳健、能力突出、跨周期、抗风险的现代化矿业平台。新时期,公司将围绕以下三大支柱,系统性推进世界级资源公司的建设:1、锚定“铜金双极”,构建长周期资产底盘基于对大宗商品底层发展逻辑的洞察,公司确立了“铜金双极”的资产战略,坚持内生开发与外延并购双轮驱动,展开主动战略性布局。持续深挖世界级铜矿潜能,锁定产业长期的成长空间;战略性做大黄金业务,主动捕获贵金属周期的上行价值。铜与金两大板块作为驱动公司成长的强劲引擎,共同构筑跨周期、高弹性的核心资产底盘。2、依托“622模型”,重视战略并购,提升资源规模“622模型”,即矿业的竞争优势60%取决于资源禀赋,20%取决于项目规划建设水平,20%取决于日常运营管理能力。据此,公司全面深化“组织升级2.0”,致力于将多年积累的跨国矿山管理经验,转化为标准化、可输出的平台管控体系。通过建立高度标准化的业务流程(SOP)和穿透式的管控机制,打造一套高兼容、可复制的全球管理底座。基于这一平台能力,无论是内生新建项目还是外延并购资产,均能迅速接入并实现文化、制度与效率的同频,保障全球业务的高效整合与协同。3、沉淀全球化“平台能力”,以制造业思维重塑矿业运营全面贯彻“提质、降本、增效”的核心方针,改变传统矿业粗放模式,全面引入现代制造业的精细化管理标准。坚持向规划建设与日常管控深挖效益,通过统一全球数字化底座、深化技术赋能,将成本管控颗粒度下沉至工序级。通过全链条的精益化改造,将管理红利转化为行业领先的成本优势与运营效率。(三)经营计划1、2026年度公司矿业、贸易业务板块主要产品产量、实物贸易量指引为:2026年产量、主要产品单位实物贸易量指引铜金属万吨76-82钴金属万吨10-12黄金注2吨6-8钼金属万吨1.15-1.45钨金属万吨0.65-0.75铌金属万吨1.0-1.1磷肥万吨105-125实物贸易量万吨400-450注:1、公司于2025年12月15日发布公告,宣布以10.15亿美元收购加拿大上市公司EquinoxGoldCorp.旗下Aurizona金矿、RDM金矿、Bahia综合矿区100%权益。该项目已于2026年1月交割。2、上述黄金产量指引系年化产量。3、以上生产指引是基于现有经济环境及预计经济发展趋势的判断,能否实现取决于宏观经济环境、行业发展状况、市场情况等诸多因素,存在不确定性,董事会将根据市场状况及公司业务实际对上述生产指引进行适时调整。以上生产计划不构成公司对投资者的实质承诺,敬请投资者注意投资风险。2、公司2026年重点工作2026年是公司全面践行新发展战略、将平台化运营与精细化管理推向纵深的关键之年,我们将重点打好四大落地攻坚战:(1)坚持“全周期”理念,将资源优势转化为产能优势将全要素纳入项目顶层规划,打通从“资源”到“产能”的路径。非洲板块(系统扩产,提升铜产量):通过工艺改进和技术改造,应对矿石性质变化,确保产量保持增长,完成全年铜钴生产目标;加快KFM二期扩建工程及20万吨制酸厂建设,稳步推进TFM新一轮产能扩张;确保N’zilo2水电站上半年实现截流,光储项目年内实现发电,以自给绿色能源破解电力瓶颈。南美板块(全周期管控,打造新增量):巴西铌磷提升铌回收率和磷业务结构,巴西金矿在稳定日常生产的基础上,按照平台化模式,导入洛钼管理体系;加快奥丁矿业开发进度,确保年度目标如期兑现。中国板块(精耕细作,深挖资源价值):优化三道庄与上房沟产能布局,推进联合开采,推进上房沟产能提升方案;加大白钨等共伴生资源的综合回收技术攻关,实现资源价值最大化。(2)强化“协同效应”,动态优化全球资产组合通过内外部资源的深度整合,切实发挥“1+1>2”的规模与协同优势。并购战略:坚持“多品种、多国家、多阶段”的投资布局,深化在南美、亚洲、非洲等区域的资源布局,巩固铜钴品类核心地位,择机布局战略性小金属与贵金属,优化全球资产抗风险能力。产业协同:深化黄金赛道布局,依托巴西、厄瓜多尔黄金项目,建设黄金资产协同矩阵,快速形成金矿生产与技术优势,为黄金项目扩张积累经验。贸易协同:做实IXM的战略支撑作用。深化“矿产+贸易”双轮驱动,依托IXM的全球现货网络增强对市场流向的把控;灵活运用期现工具平滑大宗商品周期波动,实现全产业链利润最大化。(3)聚焦“可复制”,构建全球精细化管控体系以“组织升级2.0”为抓手,加快完成管理体系向全球各业务单元的物理移植与文化融合。持续开展平台化建设:从安全保障、社区治理、公共关系、电力供应、供应链、信息化、自动化和智能化、技术、财务、人力等九大方面,形成完整的平台化能力。持续推进精细化管理:完善全球一体化智能管控平台;加快光电智能分选、低品位资源回收等核心技术在各战区应用;继续推进成本管理,让成本波动实时可见、可溯源、可干预。(4)做实ESG管理,将社会责任转化为竞争壁垒将ESG作为创造长期商业价值的重要抓手,用扎实的行动践行负责任矿业承诺。体系建设:将ESG建设与发展重点任务统筹结合,ESG绩效要落到发展这个根本宗旨上,做真正的ESG;持续对标国际标准、开发体系化的管理工具,构建适应多区域、多资产品种、多风险环境的现代化治理体系;文化建设:构建具有鸿商特质、矿业特点和洛钼基因的企业文化,精英管理与艰苦奋斗并进,追求卓越与开放透明共存;打造ONECMOC核心价值观,以共同的文化凝聚全球员工。合规与品牌:用扎实绩效赢得国际认可。WindESG保持AAA级;KFM完成铜标志(TheCopperMark)认证;依托高标准的透明度与全球化责任治理,持续提升洛钼在全球矿业界的品牌声誉。"
+    },
+    {
+      "reportDate": "2024-12-31",
+      "businessReview": "(一)经营回顾1、经营指标再创历史佳绩,实现发展规模与质量双提升公司释放产能优势,加强精益管理,有效协同矿山和贸易板块,实现有利润的收入、有现金流的利润,经营绩效再创新高。2024年,公司营业收入为2,130.29亿元,同比增长14.37%;归母净利润为135.32亿元,同比增长64.03%;经营性净现金流为323.87亿元,同比增长108.38%;资产负债率降至49.52%,同比下降8.88个百分点。2、主要产品产量创新高,跻身全球前十大铜生产商2024年,公司所有产品产量均超越产量指引中值,铜、钴、铌、磷产量均创历史新高。其中,产铜65.02万吨,同比增长55%,首次跻身全球前十大铜生产商,也是2024年全球铜产能增量最大的公司;产钴11.42万吨,同比增长106%;产铌首破万吨,达到10,024吨,同比增长5%;磷肥产量118万吨,同比增长1%。同时,公司全年产钨8,288吨,同比增长4%,产钼15,396吨,完成度103%。3、重大建设项目如期实现“双达标”,筹备新一轮扩产计划2024年上半年,TFM混合矿项目3条生产线成功实现达产达标,形成了5条生产线、45万吨的年产铜能力,加上KFM拥有15万吨铜的年生产能力,公司在刚果(金)拥有6条生产线、60万吨以上的年产铜能力。TFM和KFM深部勘探工作取得阶段性成果,积极筹备新一轮扩产改造项目。配套电力建设取得突破,拥有200兆瓦发电能力的刚果(金)Heshima水电站项目签约并顺利实施。4、ESG保持行业领先地位,护航可持续发展公司2024年MSCI ESG绩效保持AA级,位处全球有色金属行业前列,首次被纳入富时罗素社会责任指数。铜产品碳排放密度低于全球70%的矿业公司,首次披露范围三碳排放数据;2024年全球经济贡献达1,910亿元,全球社区投资2.92亿元。成员企业ESG实践取得多方面突破:KFM首次获得ISO9001质量管理体系、ISO14001环境管理体系及ISO45001职业健康安全管理体系认证;IXM Ecovadis可持续发展评级保持金牌,在全球所有行业中排名前4%;TFM、KFM和中国区钨业公司通过负责任矿物倡议(RMI)审计;洛钼巴西铌板块在NOSA审计中荣获五星认证。5、推进组织升级,进一步提升全球治理能力创新管理模式,在非洲矿区率先探索总部垂直管控与现场管理相结合的模式,销售、供应链、招投标、监察、审计等条线垂直管理初见成效,为形成高效的全球治理体系打下基础;公司治理稳健,完成新一届董事会换届,提升决策的独立性与专业性,信息披露工作获上交所A级评价;Mylink全球协作平台、SRM供应商管理系统等数字化项目顺利完成,数智化能力进一步提升;有效开展海内外传播,公司品牌形象和市场影响力进一步提升,获得资本市场更大认可。",
+      "futureExpect": "(一)行业格局和趋势市场展望1、铜市场2025年,预计铜供需偏紧。铜的供应端仍存在不确定性和潜在扰动因素,包括地区政策扰动、矿山运营环境扰动等。对铜的需求将保持强劲,预计传统用铜领域需求稳定,能源转型行业用铜需求强劲增长,特别是来自电网和电力基建的需求。中国的刺激政策将继续支持铜的稳健消费。精炼铜供应预计将保持充足,市场基本面稳健。2、钴市场2025年,全球钴需求预计保持增长,电池行业仍然是最主要的需求来源,新能源汽车、储能等重要新兴领域都将呈现较为明显的增速。合金、磁性材料等传统领域用钴需求预计稳健,继续保持稳定增幅。需求增长将逐步消化过剩供应,供大于求局面有望得到缓解。3、钼市场2025年,预计钼矿山暂无新增产能项目落地,供应端仅有少量增扩产,国内原料供应基本保持稳定。钼初级加工领域,冶金用的氧化钼焙烧能力显著增加,深加工用的钼化工也将维持高产能运行,中间环节预计吸收更多原料,加剧供应紧张。钼消费端,风光电、船舶制造、油气管线等领域的应用继续推广,钢厂消费向好。2025年供需基本面稳定,价格稳定向好。4、钨市场预计2025年钨原料供应维持紧张,价格继续维稳运行。供应方面,国内钨矿受品位、成本、环保等因素增产受限,国外新增项目少,但废钨回收有望提速、国外原料进口或增加,预计钨精矿进口量仍维持高位。需求方面,制造业升级、光伏等多领域向好,结合政策因素,将推动硬质合金等钨制品需求增长;政策上,中国总量控制保障可持续发展,美国加征关税虽有短期影响却利于长期竞争力提升,国内也推动再生钨发展、助力拓展国际市场。5、铌市场2025年铌铁的需求量仍较乐观。由于安全和环保标准的不断提高,铌的应用可以减轻钢材重量并增强钢材性能,预计在汽车和能源行业的应用将会持续。2024年,全球第一大铌生产商CBMM和国内铌冶炼厂的氧化铌产量扩产,但石油天然气、航空航天、光学和电子领域的需求增长将消化供给增量,氧化铌供需预计保持平衡。6、磷市场2025年磷肥市场供应相较平衡,价格预期保持向好,高于历史平均水平。巴西国内因耕作面积增加影响,需求预计小幅高于2024年。磷肥领域,受高浓度磷肥高价影响,低浓度磷肥需求预计提升,过磷酸钙(SSP,低浓度化肥)需求在磷酸一铵(MAP,高浓度化肥)价格高企情况下将保持强劲。中国出口限制持续影响到年中,将在需求淡季支撑磷肥价格。巴西谷物预计也将获得更好溢价,从而增强其对化肥的购买力。本部分内容仅供参考,不构成任何投资建议。本公司对本部分的资料已力求准确可靠,但并不对其中全部或部分内容的准确性、完整性或有效性承担任何责任或提供任何形式之保证,如有错失遗漏,本公司恕不负责。本部分内容中可能存在一些基于对未来政治和经济的某些主观假定和判断而作出的预见性陈述,因此可能具有不确定性。本公司并无责任更新数据或改正任何其后显现之错误。本文中所载的意见、估算及其他数据可予更改或撤回,恕不另行通知。本部分涉及的信息主要来源于安泰科、亿览网、美国金属周刊、伦敦金属交易所、FastmarketsMB等。(二)公司发展战略公司的愿景是成为受人尊敬的、现代化、世界级资源公司。在全球“碳中和”战略背景下,公司制定了清晰的发展战略和“三步走”发展目标:第一步“打基础”降本增效,通过组织升级和全球管控模式的建立,构建系统,完善机制,筑巢引凤,吸引矿业精英,做好储备。第二步“上台阶”产能倍增,加快TFM混合矿、KFM两个世界级项目建设、投产。伴随产能的提升,队伍在建设世界级项目中得到锤炼。用现代化的治理方式,更加有效管控分子公司,全球治理水平全面上台阶。第三步“大跨越”创世界一流,企业规模、现金流水平达到新的高度,人才队伍和项目储备达到新的要求,围绕重点区域和重点品种,谋求更大的发展,实现愿景目标。(三)经营计划公司2025年重点工作2025年通过组织升级,创新管理理念和精细化管理思维,全面达成运营目标、HSE目标和经营目标,为公司新一轮发展奠定坚实基础。(1)持续推动组织升级和管理提升通过现代管理手段、创新管理理念和精细化管理思维,通过数字化和智能化赋能,通过有效的制度安排,激发人性之善、对抗人性弱点。持续组织升级,引进相关行业背景的卓越人才,打造全球矿业一流的管理人才队伍;加强人力资源体系化建设,建设人力成本最优、岗位技能最配、绩效最富成效的人力结构;深化组织流程变革,建立健全三级审批矩阵,将总部垂直管理推广到所有矿业板块,明确矿山负责安全生产运营、总部总揽条线管理的清晰架构;强化廉政监督机制建设,建立完备的自上而下与自下而上相结合的监督体系;落实全面风险防控机制,进一步增强应对复杂局面的能力;加强企业文化建设,弘扬以“挑战不可能”为核心的洛钼精神,鼓励开放透明,提炼新时期洛钼文化;持续推进国际传播,塑造与公司实力相称的全球品牌形象,加强信息发布及解读,提升投资者对公司的认知、理解和支持,更好实现市场价值。(2)以降本增效为抓手,加强生产运营的精细化管理矿业的竞争本质是成本的竞争,要学习制造业精细化管理经验,通过优化制度流程、工艺优化和技术创新、精细化管理和采购管理等多方面实现降本增效。铜钴板块继续深化改革,提升管理效能和运营效率。TFM依托中区10K、15K选冶工艺优化,东区17K工艺调整等技改项目,进一步提产能,降成本;TFM完善HSE管理体系和手段,升级安全管理水平;KFM加快推进专项活动,改善产品工艺;充分论证研讨,确定新的扩产项目;加大勘探力度,增加资源储备,加速推进刚果(金)Heshima水电站等电力开发项目,为新一轮产能扩张提供充足电力保障。钼钨板块聚焦技术创新,打造集团精细化管理示范基地和人才培养基地;持续推动智能矿山建设升级提速,持续开展深部探矿工程;巩固三道庄硫回收创新成果,实现硫回收全覆盖;发挥洛钼工匠、河洛工匠等创新工作室作用,开展11项重点技术攻关,提升技术指标。铌磷板块加强与研究机构合作,推进多项工艺实验,实现铌磷回收率进一步提升,保持铌铁产量过1万吨大关;磷肥产品紧贴市场结构,实现以销定产,实现最大增值;立足现有资源,寻求资源开发合作机会,明确长远发展规划;确保新建排土场和尾矿库按计划投入使用。深入推进信息化建设,以洛钼中国区为试点升级生产数智化,构建从矿石流、信息流再到价值流的生产全流程数字化平台;推动全球物流系统(TMS)、主数据系统、物料仓储系统(MWE)等建设,提升非洲区数字化水平,通过信息化工具实现对全球各业务板块管控。(3)加大加快资源布局,着力培育新的利润增长点利用两大股东丰富的投研资源与领先的行业地位,发挥埃珂森销售网络与资源优势,加强投资研究;吸纳矿业领域和国别方向复合型人才、地调专家,储备项目池,制定项目开发中长期规划;依托公司在非洲、南美洲和东南亚的布局,聚焦新能源金属和其他优势金属,重点围绕新能源产业相关资源品种,积极储备优质项目,适时实施逆周期并购。(4)坚定“矿产+贸易”整合,提升埃珂森全球贸易领域的竞争力贸易板块与矿业板块加深融合,加强集团内部销售体系整合,实现埃珂森对集团内所有产品销售全覆盖;统筹物流管理,加强商品物流与现场物流协同;埃珂森聚焦优势产品线,探索新产品销售机会,完成实物贸易量400-450万吨,在严控运营风险的前提下提升盈利能力;加快埃珂森信息化建设。(5)进一步对标国际标准,巩固ESG全球行业领先地位进一步完善ESG管治体系,明确全集团适用的国际标准,强化各个层级专业团队,继续推进重点矿区国际ESG标准的第三方独立认证和审计;按照两地交易所新的披露要求和GRI2024矿业标准,完善信息披露和KPI体系,进一步满足利益相关方的诉求;根据最新的情况完成对碳中和战略和KPI更新,落实好碳中和计划,持续履行联合国契约组织承诺,保持世界一流的ESG矿业公司地位;加强集团总部ESG能力建设和系统性培训的搭建;发布2030社会影响策略和绩效目标,打造洛钼独有的ESG品牌。"
+    },
+    {
+      "reportDate": "2023-12-31",
+      "businessReview": "(一)经营回顾1、经营指标创历史佳绩,公司步入发展“快车道”围绕2023提升年目标,公司着力将资源优势转化为产能优势,充分发挥矿山与贸易的板块协同效应,追求有利润的收入,有现金流的利润,步入长效健康发展“快车道”。公司全年实现营业收入1,863亿元,同比增长8%;归母净利润82亿元,同比增长36%,双双创下历史新高。经营性净现金流155亿元,同比基本持平;IXM实现归母净利润9.13亿元,亦创历史最好水平。2、产品产量全线同比增长,成为全球重要铜生产商以“保投产、早达产、争超产”为锚,公司所有产品产量全部实现同比增长,铜、钴、铌、磷创历史新高。2023年公司产铜41.95万吨,钴5.55万吨,同比分别增长51%和174%,公司铜产量接近全球前十,成为全球第一大钴生产商,钼、钨、铌产量在全球保持领先。3、顺利完成两大世界级铜钴项目,再夯实产能优势KFM项目于2023年第一季度提前产出效益,第二季度投产即达产,全年产铜11.37万吨,钴3.39万吨。TFM混合矿项目按“里程碑”节点,顺利完成中区混合矿、东区氧化矿和混合矿三条生产线的建设,目前拥有5条铜钴生产线,形成年产45万吨铜与3.7万吨钴的产能规模。全年产铜28.0万吨,钴2.16万吨。4、妥善解决TFM权益金事宜,为长远发展奠定坚实基础2023年4月,公司与合作伙伴就TFM权益金问题达成共识;7月签署《和解协议》,妥善解决TFM权益金问题,验证了国际化运营中应对复杂问题的能力,为长远发展打下坚实基础。5、资产吐故纳新,实现铜-钴-镍-锂新能源金属的完整布局2023年,公司出售NPM铜金矿80%权益,获得丰厚收益。公司与宁德时代的联合体获取玻利维亚两座锂盐湖的开采权,由此,实现了新能源金属铜-钴-镍-锂的完整布局。6、ESG绩效再获提升,跻身行业领导地位2023年,公司MSCIESG绩效提升为AA级,位处全球有色金属行业评级前20%。在高标准ESG理念的实践中,公司达成多个“首次”——首次发布碳中和路线图;入选首次公布的《标普全球可持续发展年鉴(中国版)2023》;TFM发布第一份单体ESG报告和人权报告,是第一个完成RMI(负责任矿产倡议)审计的中资刚果(金)矿山;KFM签署第一份《社会责任书》;IXM发布首份ESG报告,EcoVadis可持续发展评级提升至金级。7、全球治理进一步完善,内生发展和文化凝聚力上“新台阶”报告期内,宁德时代成为公司第二大股东,双方在新能源领域的战略协同得以强化。公司治理稳健有力,管理效率稳步提升。公司建成具有洛钼特色的国际运营体系,“千里钼”二期项目顺利完成,数智化能力进一步提升;公司人才梯队渐次形成,“挑战不可能”精神融入公司企业文化。打造开放、坦诚、客观、真实、全面的国际形象。",
+      "futureExpect": "1行业格局和趋势(1)铜市场2024年全球经济依然面临挑战,但随着美联储加息周期进入尾声,宏观压力将逐渐减轻。中国政府将继续推出稳增长措施来稳定经济,政策预期持续偏积极。虽然面临外需回落、内需缓慢恢复的情况,但随着更多的经济政策出台,预计政策端的宏观调控将继续支持实体经济和终端消费的复苏,特别是电动汽车、可再生能源、电力传输和分布网络等行业,对铜的需求将进一步增加,从而支撑铜价表现。(2)钴市场2024年国内经济总体处于复苏的状态,钴终端需求具有不确定性,取决于三元动力电池领域的复苏程度、3C电子需求的转好程度以及硬质合金的需求增幅。政策端明确表示将继续支持新能源汽车发展,将利好钴的消费。但随着供应量持续增加和磷酸铁锂的份额挤压,价格恢复具有明显的波动性,主要受到原料到港量以及季节性去库存的影响。(3)钼市场2024年,钼供应端无大型新增产能,同时国内大型钼矿山面临不同程度的原矿品位下滑,而消费端在国家高质量发展要求下,含钼钢种等高端钢种的需求依旧可期。安泰科预计未来至2050年,国家对风电的持续投入将累计增加30万吨钼需求;同时国家“十四五”制造业整体升级的战略要求也将促使钢铁产业整体升级,特钢产量和需求将持续增加,因此2024年的基本面处于紧平衡状态,价格趋于稳健。(4)钨市场2024年国内外制造业景气水平有所回升,汽车、消费电子和工程机械领域稳中向好,国内硬质合金消费总体略有好转;同时硅片太阳能板切割领域的升级,光伏钨丝的逐步推广,业内机构预计,未来5年-10年光伏领域将新增约1万金属吨钨的需求量。APT市场将稳中偏强运行。同时3C电子领域经过3年周期,也将进入新的替代周期,2024年3C电子领域的逐步恢复和新能源光伏钨丝应用的扩大,钨价仍将在历史相对高位持稳。(5)铌市场2024年全球对铌铁的需求量预计稳步提高,因其行业供需稳定性较高,在汇率的影响下呈窄幅区间波动趋势。2024年铌铁价格将持续偏强运行。全球经济有望持续复苏,美元加息进程逐步结束,新兴经济体提振全球经济活力;然而,地区性冲突对经济增长仍会带来一些不确定性。根据世界钢铁协会报告,全球钢铁需求在2024年将继续保持增长1.9%,达到18.491亿吨。对于中国而言,2024年是“十四五”规划的关键年,政策上对于行业发展和结构优化方面会有更大支持力度,也将推动钢材消费升级,从而拉动铌需求。(6)磷市场2024年全球粮食作物产量仍受厄尔尼诺气候、区域战争、出口规管的不稳定因素影响,但机构预测2024年阿根廷与巴西粮食产出仍将维持在历史高位,从而冲淡负面影响,全球粮食价格将进一步下降。中国2024年磷肥供需情况维持2023年基本面不变,摩洛哥和西撒哈拉地区磷肥产量依然按计划持续增产,俄罗斯磷肥出口受战争影响越来越小,预期持续恢复,全球整体磷肥供应预计高于2023年度,而巴西国内磷肥需求增量有限。上半年巴西国内化肥需求淡季,预计一季度磷肥价格自高位小幅回落,二季度末触底,下半年巴西国内化肥需求旺季,磷肥价格将持续上涨。2024年整体维持2023年水平;据世界粮食安全组织预测,2024年巴西、阿根廷等国粮食产量仍然维持在历史高位,对化肥需求仍有较强支撑,预计巴西磷肥市场价格相比2023年呈现稳中略降的趋势。中可能存在一些基于对未来政治和经济的某些主观假定和判断而作出的预见性陈述,因此可能具有不确定性。本公司并无责任更新数据或改正任何其后显现之错误。本文中所载的意见、估算及其他数据可予更改或撤回,恕不另行通知。本部分涉及的信息主要来源于安泰科、亿览网、美国金属周刊、伦敦金属交易所、FastmarketsMB等。2公司发展战略公司的愿景是成为受人尊敬的、现代化、世界级资源公司。在全球“碳中和”战略背景下,公司制定了清晰的发展战略和“三步走”发展目标:第一步“打基础”降本增效,通过组织升级和全球管控模式的建立,构建系统,完善机制,筑巢引凤,吸引矿业精英,做好储备。第二步“上台阶”产能倍增,加快TFM混合矿、KFM两个世界级项目建设、投产。伴随产能的提升,队伍在建设世界级项目中得到锤炼。用现代化的治理方式,更加有效管控分子公司,全球治理水平全面上台阶。第三步“大跨越”创世界一流,企业规模、现金流水平达到新的高度,人才队伍和项目储备达到新的要求,围绕重点区域和重点品种,谋求更大的发展,实现愿景目标。3经营计划1、2024年度公司矿业、贸易业务板块主要产品产量、实物贸易量指引。2、公司2024年重点工作2024年要以“精益年”统领全年工作,贯彻“提质、降本、增效”总方针,重点抓好非洲区产能满产达标、巴西开源降本增效和新战略项目落地三项重点工作,确保达成运营目标、HSE目标和经营目标。(1)管理精雕细琢,进一步提升全球治理能力完善具有洛钼特色的国际运营体系,即以“中方主导+中外融合”为管理模式、“5233”为战略架构、数智化为治理工具、“矿业+贸易”为产业结构、“总部+区域总部+核心业务单元+平台公司”的集群式格局;深入推进信息化建设,通过信息化工具实现对全球各业务板块管控,突破IXM信息系统瓶颈;推行长期激励政策,对核心、骨干人才绑定,适时推出第二期股权激励;完善首席审计检察官制度,强化廉政监督机制建设;深入推进企业文化建设,让“挑战不可能”的洛钼精神深入人心,围绕“更负责任”、“充满活力”、“国际化”和“现代化“四个维度提升公司全球品牌影响力;积极主动做好信息发布及解读,提升投资者对公司的认知、理解和支持,创造良好外部环境。(2)加速资源优势转化产能优势,大幅提升盈利能力存量项目全面达产达标,增量项目高效快速推进。铜钴板块:TFM全力推进东区收尾,一季度达产、二季度达标,KFM保持生产稳定,TFM和KFM完成LME铜商标注册,全年实现铜产量52万吨以上,钴产量6万吨以上;谋划非洲产能扩充,适时启动TFM三期和KFM二期扩建项目;钼钨板块:加快推进三道庄协同开采和上房沟扩能;整体推进梨树洼、红石窑沟、小石渣排土场建设;铌磷板块:实现铌回收率的进一步提升,铌铁产量争取突破1万吨大关;启动磷板块磁铁矿综合回收项目。(3)持续抓好降本增效,巩固低成本竞争优势通过技术创新和管理提升,撬开降本增值空间。发挥全球共享、集采、商贸作用,迅速形成生产、建设、物流、采购、人力及工程技术“一体化”全流程成本可控;TFM和KFM把技术创新、工艺流程优化列入重点工作,研究硫化矿、氧化矿和混合矿高效综合利用,创造资源价值最大化;巴西BVFR回收率工业试验加快转向实际技改,切实提高铌回收率和铌铁产量;中国区加快落实北矿院药剂实验成果,实现上房沟回收率和三道庄钨指标的突破。(4)加大加快资源布局,着力培育新的利润增长点利用两大股东丰富的投研资源与领先的行业地位,发挥IXM的网络优势,加强投资研究,制定项目开发中长期规划;依托公司在非洲、南美洲和东南亚的已有布局,聚焦新能源金属和其他优势金属,重点围绕新能源产业相关和国内短缺的资源品种,积极储备优质项目,适时实施逆周期并购;深化与宁德时代合作,加快推进非洲电池价值链项目和玻利维亚锂湖产业链项目。(5)深化矿产与贸易协同,充分发挥IXM在全球贸易领域的竞争力研究全球最大钴生产商和贸易商的市场策略,维持市场地位,提升话语权;制定有效的产品销售计划和配套机制,全面完成销售任务;巩固结构性改革成果,优化组织结构和产品线结构,加快信息化建设和流程建设,提升物流能力和贸易能力,应对铜钴产能进一步释放。(6)不断完善可持续发展治理模式,巩固ESG全球行业领先地位根据两地交易所关于环境、社会及管治披露的要求,进一步完善在可持续发展领域的战略规划,巩固业界领先地位;落实碳中和计划,持续履行联合国契约组织承诺,保持世界一流的ESG矿业公司地位;细化ESG管理体系,加强环境领域的战略指导,引入新的管理体系,建立具有洛钼特色的评价标准;发布社会影响中长期策略,社会投资围绕重点战略形成合力,打造洛钼独有的ESG品牌。"
+    }
+  ]
+}

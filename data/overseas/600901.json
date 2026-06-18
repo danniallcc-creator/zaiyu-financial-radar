@@ -1,0 +1,1851 @@
+{
+  "code": "600901",
+  "name": "江苏金租",
+  "fetchTime": "2026-06-18T18:35:14",
+  "segments": [
+    {
+      "reportDate": "2025-12-31",
+      "byIndustry": [
+        {
+          "name": "电力、热力、燃气及水生产和供应业",
+          "income": 2353250400.0,
+          "incomeRatio": 26.83,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "交通运输、仓储和邮政业",
+          "income": 1089773500.0,
+          "incomeRatio": 12.43,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "制造业",
+          "income": 845158200.0,
+          "incomeRatio": 9.64,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "租赁和商务服务业",
+          "income": 792525700.0,
+          "incomeRatio": 9.04,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "个人汽车租赁",
+          "income": 781505800.0,
+          "incomeRatio": 8.91,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "农、林、牧、渔业",
+          "income": 748600300.0,
+          "incomeRatio": 8.54,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "其他",
+          "income": 640967600.0,
+          "incomeRatio": 7.31,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "水利、环境和公共设施管理业",
+          "income": 619024000.0,
+          "incomeRatio": 7.06,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "建筑业",
+          "income": 478864400.0,
+          "incomeRatio": 5.46,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "批发和零售业",
+          "income": 291480300.0,
+          "incomeRatio": 3.32,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "卫生和社会工作",
+          "income": 128726300.0,
+          "incomeRatio": 1.47,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "清洁能源",
+          "income": 2116029200.0,
+          "incomeRatio": 24.13,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "交通运输",
+          "income": 2091814600.0,
+          "incomeRatio": 23.85,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "工业装备",
+          "income": 1136519100.0,
+          "incomeRatio": 12.96,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "农业装备",
+          "income": 813411100.0,
+          "incomeRatio": 9.28,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "现代服务",
+          "income": 732539100.0,
+          "incomeRatio": 8.35,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "工程装备",
+          "income": 701716400.0,
+          "incomeRatio": 8.0,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "节能环保",
+          "income": 546502600.0,
+          "incomeRatio": 6.23,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "医疗健康",
+          "income": 230755400.0,
+          "incomeRatio": 2.63,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "科学技术",
+          "income": 212682500.0,
+          "incomeRatio": 2.43,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "民生保障",
+          "income": 187906500.0,
+          "incomeRatio": 2.14,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "其他",
+          "income": 2626593700.0,
+          "incomeRatio": 29.95,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "江苏省",
+          "income": 2443317800.0,
+          "incomeRatio": 27.86,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "山东省",
+          "income": 587332700.0,
+          "incomeRatio": 6.7,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "浙江省",
+          "income": 461557800.0,
+          "incomeRatio": 5.26,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "河北省",
+          "income": 461172500.0,
+          "incomeRatio": 5.26,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "安徽省",
+          "income": 459394700.0,
+          "incomeRatio": 5.24,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "广东省",
+          "income": 425304200.0,
+          "incomeRatio": 4.85,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "境外",
+          "income": 404193400.0,
+          "incomeRatio": 4.61,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "河南省",
+          "income": 306241200.0,
+          "incomeRatio": 3.49,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "四川省",
+          "income": 301122900.0,
+          "incomeRatio": 3.43,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "山西省",
+          "income": 293645600.0,
+          "incomeRatio": 3.35,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        }
+      ]
+    },
+    {
+      "reportDate": "2024-12-31",
+      "byIndustry": [
+        {
+          "name": "电力、热力、燃气及水生产和供应业",
+          "income": 1883999900.0,
+          "incomeRatio": 23.67,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "制造业",
+          "income": 943193500.0,
+          "incomeRatio": 11.85,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "交通运输、仓储和邮政业",
+          "income": 905735000.0,
+          "incomeRatio": 11.38,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "水利、环境和公共设施管理业",
+          "income": 836783600.0,
+          "incomeRatio": 10.51,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "租赁和商务服务业",
+          "income": 681996700.0,
+          "incomeRatio": 8.57,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "农、林、牧、渔业",
+          "income": 603999600.0,
+          "incomeRatio": 7.59,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "其他",
+          "income": 528132200.0,
+          "incomeRatio": 6.64,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "建筑业",
+          "income": 492449200.0,
+          "incomeRatio": 6.19,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "卫生和社会工作",
+          "income": 481347800.0,
+          "incomeRatio": 6.05,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "个人汽车租赁",
+          "income": 375480400.0,
+          "incomeRatio": 4.72,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "批发和零售业",
+          "income": 225919700.0,
+          "incomeRatio": 2.84,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "清洁能源",
+          "income": 1595557200.0,
+          "incomeRatio": 20.05,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "交通运输",
+          "income": 1536285900.0,
+          "incomeRatio": 19.3,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "工业装备",
+          "income": 1196007400.0,
+          "incomeRatio": 15.03,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "工程装备",
+          "income": 752180300.0,
+          "incomeRatio": 9.45,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "农业装备",
+          "income": 675759800.0,
+          "incomeRatio": 8.49,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "现代服务",
+          "income": 674254900.0,
+          "incomeRatio": 8.47,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "医疗健康",
+          "income": 574443900.0,
+          "incomeRatio": 7.22,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "节能环保",
+          "income": 447702600.0,
+          "incomeRatio": 5.63,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "民生保障",
+          "income": 292658800.0,
+          "incomeRatio": 3.68,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "科学技术",
+          "income": 214186800.0,
+          "incomeRatio": 2.69,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "江苏省",
+          "income": 2384967500.0,
+          "incomeRatio": 29.97,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "其他",
+          "income": 2384801700.0,
+          "incomeRatio": 29.96,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "山东省",
+          "income": 620417900.0,
+          "incomeRatio": 7.8,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "河北省",
+          "income": 391701100.0,
+          "incomeRatio": 4.92,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "安徽省",
+          "income": 366855200.0,
+          "incomeRatio": 4.61,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "广东省",
+          "income": 345647700.0,
+          "incomeRatio": 4.34,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "浙江省",
+          "income": 341530100.0,
+          "incomeRatio": 4.29,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "四川省",
+          "income": 318157600.0,
+          "incomeRatio": 4.0,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "境外",
+          "income": 299545300.0,
+          "incomeRatio": 3.76,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "河南省",
+          "income": 291409300.0,
+          "incomeRatio": 3.66,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "山西省",
+          "income": 214004200.0,
+          "incomeRatio": 2.69,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        }
+      ]
+    },
+    {
+      "reportDate": "2023-12-31",
+      "byIndustry": [
+        {
+          "name": "电力、热力、燃气及水生产和供应业",
+          "income": 1716089500.0,
+          "incomeRatio": 23.09,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "水利、环境和公共设施管理业",
+          "income": 1430104800.0,
+          "incomeRatio": 19.24,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "交通运输、仓储和邮政业",
+          "income": 930708000.0,
+          "incomeRatio": 12.52,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "制造业",
+          "income": 751912600.0,
+          "incomeRatio": 10.12,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "租赁和商务服务业",
+          "income": 529242100.0,
+          "incomeRatio": 7.12,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "卫生和社会工作",
+          "income": 491474000.0,
+          "incomeRatio": 6.61,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "其他",
+          "income": 405397500.0,
+          "incomeRatio": 5.45,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "农、林、牧、渔业",
+          "income": 391433900.0,
+          "incomeRatio": 5.27,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "建筑业",
+          "income": 357695500.0,
+          "incomeRatio": 4.81,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "个人汽车租赁",
+          "income": 232303700.0,
+          "incomeRatio": 3.13,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "教育",
+          "income": 196057500.0,
+          "incomeRatio": 2.64,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "清洁能源",
+          "income": 1317051800.0,
+          "incomeRatio": 17.72,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "道路运输",
+          "income": 1062216600.0,
+          "incomeRatio": 14.29,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "工业装备",
+          "income": 936516600.0,
+          "incomeRatio": 12.6,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "基础设施",
+          "income": 851242400.0,
+          "incomeRatio": 11.45,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "工程机械",
+          "income": 784440300.0,
+          "incomeRatio": 10.55,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "现代服务",
+          "income": 576242100.0,
+          "incomeRatio": 7.75,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "医疗健康",
+          "income": 557854500.0,
+          "incomeRatio": 7.51,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "农业装备",
+          "income": 510940900.0,
+          "incomeRatio": 6.87,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "节能环保",
+          "income": 472560800.0,
+          "incomeRatio": 6.36,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "船舶运输",
+          "income": 363353100.0,
+          "incomeRatio": 4.89,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "其他",
+          "income": 2247033300.0,
+          "incomeRatio": 30.23,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "江苏省",
+          "income": 2208585000.0,
+          "incomeRatio": 29.72,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "山东省",
+          "income": 627075000.0,
+          "incomeRatio": 8.44,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "安徽省",
+          "income": 410276500.0,
+          "incomeRatio": 5.52,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "河南省",
+          "income": 341341300.0,
+          "incomeRatio": 4.59,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "浙江省",
+          "income": 334691700.0,
+          "incomeRatio": 4.5,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "广东省",
+          "income": 286521900.0,
+          "incomeRatio": 3.85,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "河北省",
+          "income": 281075500.0,
+          "incomeRatio": 3.78,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "四川省",
+          "income": 278859200.0,
+          "incomeRatio": 3.75,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "境外",
+          "income": 218252400.0,
+          "incomeRatio": 2.94,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "广西壮族自治区",
+          "income": 198707300.0,
+          "incomeRatio": 2.67,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        }
+      ]
+    },
+    {
+      "reportDate": "2022-12-31",
+      "byIndustry": [
+        {
+          "name": "水利、环境和公共设施管理业",
+          "income": 1950380100.0,
+          "incomeRatio": 28.49,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "电力、热力、燃气及水生产和供应业",
+          "income": 1542374200.0,
+          "incomeRatio": 22.53,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "交通运输、仓储和邮政业",
+          "income": 948944900.0,
+          "incomeRatio": 13.86,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "卫生和社会工作",
+          "income": 516146400.0,
+          "incomeRatio": 7.54,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "制造业",
+          "income": 439059500.0,
+          "incomeRatio": 6.41,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "其他",
+          "income": 353101700.0,
+          "incomeRatio": 5.16,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "个人汽车租赁",
+          "income": 295602100.0,
+          "incomeRatio": 4.32,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "农、林、牧、渔业",
+          "income": 260707900.0,
+          "incomeRatio": 3.81,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "建筑业",
+          "income": 231480900.0,
+          "incomeRatio": 3.38,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "租赁和商务服务业",
+          "income": 179854000.0,
+          "incomeRatio": 2.63,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "文化、体育和娱乐业",
+          "income": 127541600.0,
+          "incomeRatio": 1.86,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "基础设施",
+          "income": 1457253800.0,
+          "incomeRatio": 21.29,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "交通运输",
+          "income": 1388138100.0,
+          "incomeRatio": 20.28,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "能源环保",
+          "income": 1314227300.0,
+          "incomeRatio": 19.2,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "医疗教育",
+          "income": 671629700.0,
+          "incomeRatio": 9.81,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "工业装备",
+          "income": 476443800.0,
+          "incomeRatio": 6.96,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "公用事业",
+          "income": 442449100.0,
+          "incomeRatio": 6.46,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "文化旅游",
+          "income": 321013300.0,
+          "incomeRatio": 4.69,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "农业机械",
+          "income": 315814700.0,
+          "incomeRatio": 4.61,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "工程机械",
+          "income": 278574800.0,
+          "incomeRatio": 4.07,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "信息科技",
+          "income": 178030600.0,
+          "incomeRatio": 2.6,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "其他",
+          "income": 1626400.0,
+          "incomeRatio": 0.02,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "其他",
+          "income": 2218415300.0,
+          "incomeRatio": 32.41,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "江苏省",
+          "income": 1725094100.0,
+          "incomeRatio": 25.2,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "山东省",
+          "income": 682004500.0,
+          "incomeRatio": 9.96,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "安徽省",
+          "income": 421907600.0,
+          "incomeRatio": 6.16,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "浙江省",
+          "income": 322232700.0,
+          "incomeRatio": 4.71,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "四川省",
+          "income": 267385800.0,
+          "incomeRatio": 3.91,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "广东省",
+          "income": 258895800.0,
+          "incomeRatio": 3.78,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "河南省",
+          "income": 256089000.0,
+          "incomeRatio": 3.74,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "河北省",
+          "income": 252298300.0,
+          "incomeRatio": 3.69,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "江西省",
+          "income": 220627900.0,
+          "incomeRatio": 3.22,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "湖南省",
+          "income": 220250600.0,
+          "incomeRatio": 3.22,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        }
+      ]
+    },
+    {
+      "reportDate": "2021-12-31",
+      "byIndustry": [
+        {
+          "name": "水利、环境和公共设施管理业",
+          "income": 2268872700.0,
+          "incomeRatio": 34.71,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "电力、热力、燃气及水生产和供应业",
+          "income": 1251640100.0,
+          "incomeRatio": 19.15,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "交通运输、仓储和邮政业",
+          "income": 855961700.0,
+          "incomeRatio": 13.1,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "卫生和社会工作",
+          "income": 719944500.0,
+          "incomeRatio": 11.01,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "制造业",
+          "income": 318625400.0,
+          "incomeRatio": 4.87,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "其他",
+          "income": 263898200.0,
+          "incomeRatio": 4.04,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "个人贷款",
+          "income": 190996900.0,
+          "incomeRatio": 2.92,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "文化、体育和娱乐业",
+          "income": 188015000.0,
+          "incomeRatio": 2.88,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "建筑业",
+          "income": 174879300.0,
+          "incomeRatio": 2.68,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "农、林、牧、渔业",
+          "income": 165831500.0,
+          "incomeRatio": 2.54,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "教育",
+          "income": 137911200.0,
+          "incomeRatio": 2.11,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "基础设施",
+          "income": 1779001000.0,
+          "incomeRatio": 27.22,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "交通运输",
+          "income": 1126401800.0,
+          "incomeRatio": 17.23,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "能源环保",
+          "income": 1074840500.0,
+          "incomeRatio": 16.44,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "医疗教育",
+          "income": 868898900.0,
+          "incomeRatio": 13.29,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "工业装备",
+          "income": 365953400.0,
+          "incomeRatio": 5.6,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "公用事业",
+          "income": 338165400.0,
+          "incomeRatio": 5.17,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "文化旅游",
+          "income": 330829200.0,
+          "incomeRatio": 5.06,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "信息科技",
+          "income": 239087700.0,
+          "incomeRatio": 3.66,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "工程机械",
+          "income": 221258300.0,
+          "incomeRatio": 3.38,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "农业机械",
+          "income": 190294700.0,
+          "incomeRatio": 2.91,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "其他",
+          "income": 1845600.0,
+          "incomeRatio": 0.03,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "其他",
+          "income": 2016595100.0,
+          "incomeRatio": 30.85,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "江苏省",
+          "income": 1539812400.0,
+          "incomeRatio": 23.56,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "山东省",
+          "income": 595874200.0,
+          "incomeRatio": 9.12,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "安徽省",
+          "income": 410410600.0,
+          "incomeRatio": 6.28,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "四川省",
+          "income": 337091500.0,
+          "incomeRatio": 5.16,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "浙江省",
+          "income": 325276900.0,
+          "incomeRatio": 4.98,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "贵州省",
+          "income": 310953400.0,
+          "incomeRatio": 4.76,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "江西省",
+          "income": 282716400.0,
+          "incomeRatio": 4.33,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "湖南省",
+          "income": 272449900.0,
+          "incomeRatio": 4.17,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "广东省",
+          "income": 226721700.0,
+          "incomeRatio": 3.47,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "河北省",
+          "income": 218674400.0,
+          "incomeRatio": 3.35,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        }
+      ]
+    }
+  ],
+  "analysis": [
+    {
+      "reportDate": "2025-12-31",
+      "businessReview": "2025年是公司“零售+科技”双领先战略深化落地的攻坚之年,面对复杂的外部环境,公司按照“谋增量、强韧性、聚合力”的工作思路,坚定战略定力,强化核心能力,圆满完成全年经营目标。资产规模持续增长报告期末,公司资产总额1,608.94亿元,比上年末增加236.39亿元,增长17.22%。其中融资租赁资产规模1,501.24亿元,比上年末增加223.21亿元,增长17.46%。盈利能力稳步提升报告期内,公司实现利润总额43.42亿元,同比增加4.21亿元,增长10.74%;实现归属于上市公司股东的净利润32.41亿元,同比增加2.98亿元,增长10.12%。总资产收益率(ROA)2.18%,加权平均净资产收益率(ROE)13.11%。资产质量保持稳健截至2025年末,公司不良融资租赁资产率0.88%,较上年末下降0.03个百分点,创近五年新低;年末拨备覆盖率421.22%,拨备率3.71%,各项风险指标符合监管要求,资产质量保持健康水平。专业化水平不断提高零售特征进一步凸显,全年新增投放合同数创历史新高,突破10万笔;中小微客户数量占比超99%,单笔合同金额降至95万元。融物属性进一步增强,全年直租业务投放占比超48%,年末存量租赁资产中直租占比53%。报告期内,公司以能力提升为核心,从行业、渠道、科技、资金、风控五大维度全方位筑牢发展韧性根基,为业务高质量发展提供坚实支撑。一是强化产业深耕能力,锚定国家战略布局,抓住现代化产业变革机遇,持续强化行业深耕,巩固基本盘、开辟新赛道,实现各业务板块量质齐升。二是提升渠道获客能力,坚持“厂商引领”与“区域深耕”双线协同,厂商经销商合作能力进一步增强,新设多地区域服务团队,持续完善立体化客户服务体系。三是增强资金管理能力,坚持规模稳增、成本压降、结构优化并举,全年获得银行授信同比增长16%,成功引入9年期保险资金、发行长期低利率金融债,融资成本创历史新低。四是深化科技赋能能力,全面推进数字化转型与智能化升级,重构数智获客、智能风控、智慧运营展业生态,实现业务流程数字化赋能,主动融入AI浪潮,开发“慧系列”数字员工,科技对业务的支撑作用持续强化。五是升级风险防控能力,构建“防、控、化”三位一体风控体系,通过AI辅助风控、评审前置等举措严把租前准入,依托“智管万物”平台强化租中管控,通过多元处置方式提升租后化解效率。",
+      "futureExpect": "(一)公司发展战略2025年,公司始终以“零售+科技”双领先战略(2022-2026年)为指引,保持战略定力、强化系统执行,扎实推进各项战略部署落地。报告期内,公司着力打造行业、厂商、区域深度协同的产业金融矩阵。做强做多细分行业,聚焦三大核心行业,持续扩大业务规模;深耕细分领域,强化市场渗透力度;把握新质生产力发展机遇,挖掘新的增长空间。深化厂商合作,从单一设备服务延展至多品类全面合作;总结标杆厂商服务经验,全面推广复制。精耕区域业务,围绕小微、产业聚焦地区,建强属地服务团队,完善标准化管理体系;强化厂商、区域联动,紧扣厂商销售布局,提升重点区域服务能力,实现资源高效整合。报告期内,公司以数智化转型与精细化管理为重要抓手,全面提升战略支撑能力。深化“AI+租赁”融合,搭建数智获客、智能风控、智慧运营系统集群,推动业务智能化升级。持续优化负债管理,扩大授信规模、丰富融资渠道,多措并举压降融资成本、优化负债结构,强化资金保障能力。健全全面风险管理体系,严控各关键环节,强化信用风险、市场风险、国别风险等多领域风险管控。报告期内,公司持续健全战略闭环管理体系,确保战略部署高效传导、落地生根。构建“五年战略—中期策略—年度思路”传导机制,确立“谋增量、强韧性、与优秀者同行”的中期策略,严格落实年度工作思路。建立过程管控机制,通过定期研讨、目标分解、动态复盘、偏差调整,形成管理闭环。深化党建引领、企业文化建设、知识共享平台搭建,强化战略软实力支撑。2026年,公司将继续保持战略定力,强化发展韧性、提升专业能力、挖掘增长潜力,确保高质量完成本轮战略收官。(二)经营计划2026年是公司“零售+科技”双领先战略收官之年,面对租赁行业转型升级的行业趋势与结构性机遇并存的市场环境,公司将坚守服务实体经济本源,按照“强韧性、提能力、谋增长”的工作思路,以增强发展韧性、提升核心能力为核心驱动,推动业务实现量的适度增长与质的稳健提升,重点在以下三方面发力:在强韧性方面,着力增强资产组合、风险防控、负债融资、金融科技“四个韧性”,做深核心行业,做大区域布局,做优客户结构,做多收入来源,持续优化资产配置;严把项目准入关口,强化评审风控能力,加快风险化解,健全风险全链条机制;持续压降融资成本,在长短期、本外币、境内外等方面实施组合管理,优化融资结构;紧跟AI发展趋势,打造数字员工、数据智能等AI引擎,推进ITBP与业务深度融合,筑牢数字安全屏障,提升金融科技韧性。在提能力方面,锚定业务体系化、数智驱动、基础保障“三项能力”,推动汽车零售向4.0迭代、区域小微体系化转型、细分行业生态构建,打造十万级商机池与业财一体化平台,同步强化战略谋划、组织管理与精细化工具运用,构筑难以复制的核心门槛。在谋增长方面,锚定业务基本盘和价值增长点两大任务,锁定“行业、渠道、区域、客户、产品”五大要素,设目标、定举措,巩固提升业务基本盘;探索新模式、新场景、新市场,多点孵化,培育第二增长曲线,延展创造价值增长点。"
+    },
+    {
+      "reportDate": "2024-12-31",
+      "businessReview": "2024年是公司“零售+科技”双领先战略深化实施的关键之年,面对宏观经济不确定性增加与租赁行业竞争加剧的双重挑战,公司秉持“严控风险、提升能力、压降成本、稳健增长”的经营思路,保持战略定力,持续强化核心竞争力,灵活应对外部变化,实现了经营业绩的稳步提升,超额完成了年度预算目标。2024年末,公司资产总额1372.55亿元,比上年末增加173.35亿元,增长14.46%。其中融资租赁资产规模1278.03亿元,比上年末增加136.94亿元,增长12.00%。资产规模稳步增长。2024年,公司实现利润总额39.21亿元,同比增加3.78亿元,增长10.67%。归属于上市公司股东的净利润29.43亿元,同比增加2.83亿元,增长10.63%。总资产收益率(ROA)2.29%,加权平均净资产收益率(ROE)14.72%。盈利能力持续提升。截至2024年末,公司不良融资租赁资产率0.91%,与上年末持平,年末拨备覆盖率430.27%,拨备率3.93%,均满足监管要求。资产质量保持稳健。报告期内,公司以能力建设为核心,聚焦关键领域,制定提升方案,持续强化专业化水平,推动高质量发展。一是强化行业深耕能力巩固细分领域领先地位,加速拓展新行业、新业态、新模式。二是提升营销获客能力厂商租赁方面,加强精细化管理,增强重点行业厂商的粘性与协同效应;区域直销方面,完善区域小微团队体系化建设,增强区域小微深耕能力。三是加强资金融通能力持续扩大线上拆借、银行授信和金融债券规模,积极探索ESG贷款、跨境银团贷款、保险资产支持计划等新型融资方式,降低资金成本、优化负债结构。四是深化科技引领能力持续升级智慧获客、智慧风控和智慧决策系统,以数字化赋能业务全流程。五是夯实风险管理能力完善风险识别与控制机制,优化租金回收与不良资产处置流程,确保公司不良租赁资产率保持在行业较低水平。六是提升设备管理能力优化租赁物评估、交付验收、租后监测、二手处置等关键环节的管理流程,重点强化设备实时监测及预警功能,借助精准、及时的数据反馈把控设备状态,提高设备管理质效。",
+      "futureExpect": "(一)行业格局和趋势2024年,在监管政策的引导下,金融租赁行业进入关键转型期。年内监管部门发布《金融租赁公司管理办法》《关于印发金融租赁公司业务发展鼓励清单、负面清单和项目公司业务正面清单的通知》等一系列重要文件,对金融租赁公司的合规管理提出了明确要求,推动金租公司加速回归租赁本源,加快业务转型与资产结构优化。在政策指引下,金融租赁公司积极行动,努力支持产业升级的设备融资需求。但囿于优质资产短缺、行业创新不足,金租公司加速涌入航空航运、绿色金融、普惠小微等细分市场,业务同质化程度越来越高,相关领域的竞争态势进一步加剧。随着合规政策的进一步趋严以及行业竞争的日益激烈,金融租赁行业在业务增长、盈利能力、风险管控等方面面临诸多挑战。在此背景下,找准专业化、差异化发展道路的金融租赁公司,有望抓住新质生产力发展、大规模设备更新等机遇,进一步提升服务实体经济的能力,为推动产业升级和经济高质量发展贡献力量。(二)公司发展战略2024年,公司持续按照《“零售+科技”双领先(2022-2026年)发展战略规划》部署推进各类工作,力争在“零售”与“科技”两个方面在业内达成领先,形成核心竞争力,致力于成为“国际领先的设备租赁服务商”。为了实现上述目标,公司一是拓展客户渠道即“厂商租赁+区域直销”,建立触达客户、强化粘性的稳定可持续渠道,维护核心客户资源,扩大群体覆盖面。二是提升四个能力即“人才支撑能力”“资金保障能力”“资产管理能力”“内控合规能力”,一体谋划人、财、物、规等资源配置和能力协同。三是用好五种资源即“国际市场”“资本市场”“改革政策”“创新机制”“专业资源”,永葆开放和创新的姿态,引资引智引机制,不断注入新的活力。(三)经营计划2025年,公司将持续落实“零售+科技”双领先战略,按照“稳中求进、进中提质”的工作思路,在以下三个重点领域持续发力:一是千方百计扩大业务来源,夯实规模和收入基础。从行业、渠道、客户三方面发力,拓宽项目来源,优化资产配置。行业方面,扩大主要板块规模和市场份额,提升细分市场渗透率,推动培育类业务起步。渠道方面,厂商租赁要以分类管理和名单制开发方式扩量提质;区域深耕要稳固回租业务,加强直租业务与厂商经销商的协同;并不断强化厂商线与区域线联动。客户方面,继续建立客户分类标准,精细客户管理机制。二是千方百计压降成本,全面挖掘降本增效潜能。以多元化手段管控成本。充分利用发债等融资渠道,广泛应用票据等融资工具,扩大融资来源;做好长短期限融资搭配,灵活调整融资结构,压降融资成本;加大境外融资力度,丰富国际化融资渠道。研究调整绩效考核指标,优化考核激励机制,进一步向内部管理要效益,提升人均创收;提升风险防控意识和能力,降低风险成本。三是千方百计管控风险,抓牢稳健发展的生命线。增强行业精细化风险识别能力,提高大单专家评审和零售自动决策水平,常态化开展行业回溯分析;以科技赋能风险管理,用科技手段提升客户、行业、租赁物风险识别预警能力;优化资产处置策略,大单扩大清收化解规模,小单构建体系化的高效处置机制;加强员工行为管理,厘清各类员工异常行为、各场景渠道合作的风险点,健全责任分工明确、系统管控为主的机制。"
+    },
+    {
+      "reportDate": "2023-12-31",
+      "businessReview": "2023年,是公司“零售+科技”双领先战略的深化之年,面对宏观经济结构调整、租赁行业转型的复杂形势,公司以“稳定增长、严控风险、提升能力”为经营思路,坚持战略定力,着力强化核心竞争能力,超预算完成了年度经营目标。资产规模稳步增长。2023年末,公司资产总额1199.20亿元,比上年末增加109.28亿元,增长10.03%。其中融资租赁资产规模1141.09亿元,比上年末增加101.02亿元,增长9.71%。盈利能力稳健向好。2023年,公司实现利润总额35.43亿元,同比增加3.28亿元,增长10.20%。净利润26.60亿元,同比增加2.49亿元,增长10.30%。总资产收益率(ROA)2.32%,加权平均净资产收益率(ROE)15.81%。资产质量保持平稳。公司不良融资租赁资产率控制在0.91%,与上年末持平,年末拨备覆盖率448.39%,拨备率4.08%,均满足监管要求。报告期内,公司直租业务占比持续提升,专业化能力进一步增强;清洁能源、高端装备、交通运输三个板块快速增长,“3+N”的业务布局更加清晰;厂商经销商数量快速增加,区域直销业务扩面升级,零售能力不断提升;“拓客-运营-风控”全链条智慧租赁系统持续升级,科技能力加速赋能。",
+      "futureExpect": "(一)行业格局和趋势2023年,监管部门密集发文,引导金融租赁行业回归租赁本源,加快转型发展,发挥融资与融物的优势,为实体经济提供差异化金融服务价值。报告期内,行业中的参与主体在监管指导下积极谋求转型,结合自身禀赋特点,努力发展设备租赁业务。同质化竞争导致金融租赁行业的竞争进一步加剧。业内较早开始发力的金租公司拥有先发优势,在相关领域找准专业化发展道路的金租公司积累了一定的竞争优势,这两类参与主体表现出更强韧性与发展潜力。未来一段时间,金融租赁公司将发挥各自禀赋优势,抢抓发展新质生产力、设备大规模更新的历史机遇,进一步提升服务实体的专业化能力,共同推动行业向更高质量发展阶段迈进。(二)公司发展战略2023年,公司持续按照《“零售+科技”双领先(2022-2026年)发展战略规划》部署推进各类工作,力争在“零售”与“科技”两个方面在业内达成领先,形成核心竞争力,进而实现成为“国际领先的设备租赁服务商”的战略目标。为了实现上述目标,公司将一是拓展三大路径,即“厂商路径”“区域路径”和“线上路径”,建立触达客户、强化粘性的稳定可持续渠道,维护核心客户资源,扩大群体覆盖面。二是提升四个能力,即“人才支撑能力”“资金保障能力”“资产管理能力”“内控合规能力”,一体谋划人、财、物、规等资源配置和能力协同。三是用好五种资源,即“国际市场”“资本市场”“改革政策”“创新机制”“专业资源”,永葆开放和创新的姿态,引资引智引机制,不断注入新的活力。(三)经营计划2024年,公司将坚守“零售+科技”的战略定力,坚持“以稳为主、稳中求进”的工作思路,以能力建设为核心,直面挑战、因时而变,积极做好以下工作:一是提升市场能力,以差异化策略应对竞争。在合规前提下扩大产业类大单业务投放,稳定资产规模;加快提高零售业务专业能力,不断增强竞争优势;在加强风险识别的基础上,稳妥扩大区域业务规模;多行业共同发力,继续巩固优势领域的核心竞争力。二是提升风控能力,以针对性手段防范风险。增强大单客户、行业风险识别能力,紧抓处置机会,加快高风险区域和行业处置进程;强化零售业务厂商经销商和租赁物管理,强化灵活快速风险处置机制。三是提升融资能力,以多元化手段管控成本。充分利用发债等融资渠道,广泛应用票据等融资工具,扩大融资来源;做好长短期限融资搭配,灵活调整融资结构,压降融资成本;加大境外融资力度,丰富国际化融资渠道。四是提升科技能力,以信息化技术赋能全局。深化信息科技助力批量获客、自动决策、智慧风控,促进业务提速;强化信息科技赋能智能预警、员工行为、出差管理,促进管理增效。五是提升运营能力,以精细化管理确保营收。研究调整绩效考核指标,优化考核激励机制;提升风险防控意识和能力,降低风险成本;进一步向内部管理要效益,提升人均创收。"
+    }
+  ]
+}

@@ -1,0 +1,2236 @@
+{
+  "code": "601881",
+  "name": "中国银河",
+  "fetchTime": "2026-06-18T18:36:40",
+  "segments": [
+    {
+      "reportDate": "2025-12-31",
+      "byIndustry": [
+        {
+          "name": "财富管理业务",
+          "income": 13471647340.02,
+          "incomeRatio": 47.6,
+          "cost": 5818779502.73,
+          "costRatio": 42.03,
+          "profit": 7652867837.29,
+          "profitRatio": 52.94,
+          "grossMargin": 56.81,
+          "rank": 1
+        },
+        {
+          "name": "投资交易业务",
+          "income": 7026017998.15,
+          "incomeRatio": 24.82,
+          "cost": 521854624.62,
+          "costRatio": 3.77,
+          "profit": 6504163373.53,
+          "profitRatio": 44.99,
+          "grossMargin": 92.57,
+          "rank": 2
+        },
+        {
+          "name": "母子公司一体化业务",
+          "income": 2766500400.22,
+          "incomeRatio": 9.77,
+          "cost": 1580263812.9,
+          "costRatio": 11.41,
+          "profit": 1186236587.32,
+          "profitRatio": 8.21,
+          "grossMargin": 42.88,
+          "rank": 3
+        },
+        {
+          "name": "国际业务",
+          "income": 2568513564.51,
+          "incomeRatio": 9.08,
+          "cost": 1971804455.3,
+          "costRatio": 14.24,
+          "profit": 596709109.21,
+          "profitRatio": 4.13,
+          "grossMargin": 23.23,
+          "rank": 4
+        },
+        {
+          "name": "机构业务",
+          "income": 1714321579.93,
+          "incomeRatio": 6.06,
+          "cost": 299580110.22,
+          "costRatio": 2.16,
+          "profit": 1414741469.71,
+          "profitRatio": 9.79,
+          "grossMargin": 82.52,
+          "rank": 5
+        },
+        {
+          "name": "投资银行业务",
+          "income": 585113645.92,
+          "incomeRatio": 2.07,
+          "cost": 494166900.37,
+          "costRatio": 3.57,
+          "profit": 90946745.55,
+          "profitRatio": 0.63,
+          "grossMargin": 15.54,
+          "rank": 6
+        },
+        {
+          "name": "其他",
+          "income": 170137195.72,
+          "incomeRatio": 0.6,
+          "cost": 3159407064.49,
+          "costRatio": 22.82,
+          "profit": -2989269868.77,
+          "profitRatio": -20.68,
+          "grossMargin": -1756.98,
+          "rank": 7
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "财富管理业务",
+          "income": 13471647340.02,
+          "incomeRatio": 47.6,
+          "cost": 5818779502.73,
+          "costRatio": 42.03,
+          "profit": 7652867837.29,
+          "profitRatio": 52.94,
+          "grossMargin": 56.81,
+          "rank": 1
+        },
+        {
+          "name": "投资交易业务",
+          "income": 7026017998.15,
+          "incomeRatio": 24.82,
+          "cost": 521854624.62,
+          "costRatio": 3.77,
+          "profit": 6504163373.53,
+          "profitRatio": 44.99,
+          "grossMargin": 92.57,
+          "rank": 2
+        },
+        {
+          "name": "母子公司一体化业务",
+          "income": 2766500400.22,
+          "incomeRatio": 9.77,
+          "cost": 1580263812.9,
+          "costRatio": 11.41,
+          "profit": 1186236587.32,
+          "profitRatio": 8.21,
+          "grossMargin": 42.88,
+          "rank": 3
+        },
+        {
+          "name": "国际业务",
+          "income": 2568513564.51,
+          "incomeRatio": 9.08,
+          "cost": 1971804455.3,
+          "costRatio": 14.24,
+          "profit": 596709109.21,
+          "profitRatio": 4.13,
+          "grossMargin": 23.23,
+          "rank": 4
+        },
+        {
+          "name": "机构业务",
+          "income": 1714321579.93,
+          "incomeRatio": 6.06,
+          "cost": 299580110.22,
+          "costRatio": 2.16,
+          "profit": 1414741469.71,
+          "profitRatio": 9.79,
+          "grossMargin": 82.52,
+          "rank": 5
+        },
+        {
+          "name": "投资银行业务",
+          "income": 585113645.92,
+          "incomeRatio": 2.07,
+          "cost": 494166900.37,
+          "costRatio": 3.57,
+          "profit": 90946745.55,
+          "profitRatio": 0.63,
+          "grossMargin": 15.54,
+          "rank": 6
+        },
+        {
+          "name": "其他",
+          "income": 434032538.67,
+          "incomeRatio": 1.53,
+          "cost": 3423302407.44,
+          "costRatio": 24.72,
+          "profit": -2989269868.77,
+          "profitRatio": -20.68,
+          "grossMargin": -688.72,
+          "rank": 7
+        },
+        {
+          "name": "抵销",
+          "income": -263895342.95,
+          "incomeRatio": -0.93,
+          "cost": -263895342.95,
+          "costRatio": -1.91,
+          "profit": 0.0,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "公司总部及境内子公司",
+          "income": 17070496269.09,
+          "incomeRatio": 60.31,
+          "cost": 8659399145.95,
+          "costRatio": 62.54,
+          "profit": 8411097123.14,
+          "profitRatio": 58.18,
+          "grossMargin": 49.27,
+          "rank": 1
+        },
+        {
+          "name": "境外地区",
+          "income": 2568513564.51,
+          "incomeRatio": 9.08,
+          "cost": 1957862122.62,
+          "costRatio": 14.14,
+          "profit": 610651441.89,
+          "profitRatio": 4.22,
+          "grossMargin": 23.77,
+          "rank": 2
+        },
+        {
+          "name": "浙江",
+          "income": 1604386284.32,
+          "incomeRatio": 5.67,
+          "cost": 483432887.8,
+          "costRatio": 3.49,
+          "profit": 1120953396.52,
+          "profitRatio": 7.75,
+          "grossMargin": 69.87,
+          "rank": 3
+        },
+        {
+          "name": "广东",
+          "income": 1327610735.07,
+          "incomeRatio": 4.69,
+          "cost": 548469204.13,
+          "costRatio": 3.96,
+          "profit": 779141530.94,
+          "profitRatio": 5.39,
+          "grossMargin": 58.69,
+          "rank": 4
+        },
+        {
+          "name": "北京",
+          "income": 1205280823.61,
+          "incomeRatio": 4.26,
+          "cost": 377103157.07,
+          "costRatio": 2.72,
+          "profit": 828177666.54,
+          "profitRatio": 5.73,
+          "grossMargin": 68.71,
+          "rank": 5
+        },
+        {
+          "name": "上海",
+          "income": 774528760.37,
+          "incomeRatio": 2.74,
+          "cost": 284641200.09,
+          "costRatio": 2.06,
+          "profit": 489887560.28,
+          "profitRatio": 3.39,
+          "grossMargin": 63.25,
+          "rank": 6
+        },
+        {
+          "name": "江苏",
+          "income": 477854761.21,
+          "incomeRatio": 1.69,
+          "cost": 214903076.18,
+          "costRatio": 1.55,
+          "profit": 262951685.03,
+          "profitRatio": 1.82,
+          "grossMargin": 55.03,
+          "rank": 7
+        },
+        {
+          "name": "境内其他地区",
+          "income": 447378762.99,
+          "incomeRatio": 1.58,
+          "cost": 223704224.58,
+          "costRatio": 1.62,
+          "profit": 223674538.41,
+          "profitRatio": 1.55,
+          "grossMargin": 50.0,
+          "rank": 8
+        },
+        {
+          "name": "湖北",
+          "income": 336649771.61,
+          "incomeRatio": 1.19,
+          "cost": 120295558.14,
+          "costRatio": 0.87,
+          "profit": 216354213.47,
+          "profitRatio": 1.5,
+          "grossMargin": 64.27,
+          "rank": 9
+        },
+        {
+          "name": "福建",
+          "income": 332779082.91,
+          "incomeRatio": 1.18,
+          "cost": 137973899.14,
+          "costRatio": 1.0,
+          "profit": 194805183.77,
+          "profitRatio": 1.35,
+          "grossMargin": 58.54,
+          "rank": 10
+        },
+        {
+          "name": "四川",
+          "income": 274850725.75,
+          "incomeRatio": 0.97,
+          "cost": 85012047.95,
+          "costRatio": 0.61,
+          "profit": 189838677.8,
+          "profitRatio": 1.31,
+          "grossMargin": 69.07,
+          "rank": 11
+        },
+        {
+          "name": "山西",
+          "income": 270236457.0,
+          "incomeRatio": 0.95,
+          "cost": 104218374.2,
+          "costRatio": 0.75,
+          "profit": 166018082.8,
+          "profitRatio": 1.15,
+          "grossMargin": 61.43,
+          "rank": 12
+        },
+        {
+          "name": "辽宁",
+          "income": 215625198.73,
+          "incomeRatio": 0.76,
+          "cost": 99571626.13,
+          "costRatio": 0.72,
+          "profit": 116053572.6,
+          "profitRatio": 0.8,
+          "grossMargin": 53.82,
+          "rank": 13
+        },
+        {
+          "name": "安徽",
+          "income": 192041792.73,
+          "incomeRatio": 0.68,
+          "cost": 67356235.64,
+          "costRatio": 0.49,
+          "profit": 124685557.09,
+          "profitRatio": 0.86,
+          "grossMargin": 64.93,
+          "rank": 14
+        },
+        {
+          "name": "河南",
+          "income": 190754871.97,
+          "incomeRatio": 0.67,
+          "cost": 81592526.71,
+          "costRatio": 0.59,
+          "profit": 109162345.26,
+          "profitRatio": 0.76,
+          "grossMargin": 57.23,
+          "rank": 15
+        },
+        {
+          "name": "重庆",
+          "income": 173207969.0,
+          "incomeRatio": 0.61,
+          "cost": 79184859.08,
+          "costRatio": 0.57,
+          "profit": 94023109.92,
+          "profitRatio": 0.65,
+          "grossMargin": 54.28,
+          "rank": 16
+        },
+        {
+          "name": "山东",
+          "income": 168866905.08,
+          "incomeRatio": 0.6,
+          "cost": 92832249.9,
+          "costRatio": 0.67,
+          "profit": 76034655.18,
+          "profitRatio": 0.53,
+          "grossMargin": 45.03,
+          "rank": 17
+        },
+        {
+          "name": "河北",
+          "income": 158449920.03,
+          "incomeRatio": 0.56,
+          "cost": 58981900.46,
+          "costRatio": 0.43,
+          "profit": 99468019.57,
+          "profitRatio": 0.69,
+          "grossMargin": 62.78,
+          "rank": 18
+        },
+        {
+          "name": "云南",
+          "income": 123077790.24,
+          "incomeRatio": 0.43,
+          "cost": 34589905.11,
+          "costRatio": 0.25,
+          "profit": 88487885.13,
+          "profitRatio": 0.61,
+          "grossMargin": 71.9,
+          "rank": 19
+        },
+        {
+          "name": "湖南",
+          "income": 103763057.73,
+          "incomeRatio": 0.37,
+          "cost": 43873923.98,
+          "costRatio": 0.32,
+          "profit": 59889133.75,
+          "profitRatio": 0.41,
+          "grossMargin": 57.72,
+          "rank": 20
+        },
+        {
+          "name": "内蒙古",
+          "income": 103575693.78,
+          "incomeRatio": 0.37,
+          "cost": 34283721.92,
+          "costRatio": 0.25,
+          "profit": 69291971.86,
+          "profitRatio": 0.48,
+          "grossMargin": 66.9,
+          "rank": 21
+        },
+        {
+          "name": "青海",
+          "income": 96236685.93,
+          "incomeRatio": 0.34,
+          "cost": 22023213.47,
+          "costRatio": 0.16,
+          "profit": 74213472.46,
+          "profitRatio": 0.51,
+          "grossMargin": 77.12,
+          "rank": 22
+        },
+        {
+          "name": "江西",
+          "income": 86085840.81,
+          "incomeRatio": 0.3,
+          "cost": 34551410.38,
+          "costRatio": 0.25,
+          "profit": 51534430.43,
+          "profitRatio": 0.36,
+          "grossMargin": 59.86,
+          "rank": 23
+        }
+      ]
+    },
+    {
+      "reportDate": "2024-12-31",
+      "byIndustry": [
+        {
+          "name": "其他母子公司一体化业务",
+          "income": 15198384263.72,
+          "incomeRatio": 42.85,
+          "cost": 14364449455.23,
+          "costRatio": 57.59,
+          "profit": 833934808.49,
+          "profitRatio": 7.92,
+          "grossMargin": 5.49,
+          "rank": 1
+        },
+        {
+          "name": "财富管理业务",
+          "income": 10495522496.99,
+          "incomeRatio": 29.59,
+          "cost": 5618878954.77,
+          "costRatio": 22.53,
+          "profit": 4876643542.22,
+          "profitRatio": 46.32,
+          "grossMargin": 46.46,
+          "rank": 2
+        },
+        {
+          "name": "投资交易业务",
+          "income": 6343678434.85,
+          "incomeRatio": 17.88,
+          "cost": 511208165.92,
+          "costRatio": 2.05,
+          "profit": 5832470268.93,
+          "profitRatio": 55.4,
+          "grossMargin": 91.94,
+          "rank": 3
+        },
+        {
+          "name": "国际业务",
+          "income": 2172545085.94,
+          "incomeRatio": 6.12,
+          "cost": 1885228620.54,
+          "costRatio": 7.56,
+          "profit": 287316465.4,
+          "profitRatio": 2.73,
+          "grossMargin": 13.22,
+          "rank": 4
+        },
+        {
+          "name": "其他",
+          "income": 763504987.54,
+          "incomeRatio": 2.15,
+          "cost": 2129799919.12,
+          "costRatio": 8.54,
+          "profit": -1366294931.58,
+          "profitRatio": -12.98,
+          "grossMargin": -178.95,
+          "rank": 5
+        },
+        {
+          "name": "投资银行",
+          "income": 478876555.44,
+          "incomeRatio": 1.35,
+          "cost": 423591922.81,
+          "costRatio": 1.7,
+          "profit": 55284632.63,
+          "profitRatio": 0.53,
+          "grossMargin": 11.54,
+          "rank": 6
+        },
+        {
+          "name": "机构业务",
+          "income": 281866879.82,
+          "incomeRatio": 0.79,
+          "cost": 273234480.25,
+          "costRatio": 1.1,
+          "profit": 8632399.57,
+          "profitRatio": 0.08,
+          "grossMargin": 3.06,
+          "rank": 7
+        },
+        {
+          "name": "抵销",
+          "income": -263176162.86,
+          "incomeRatio": -0.74,
+          "cost": -263058238.32,
+          "costRatio": -1.05,
+          "profit": -117924.54,
+          "profitRatio": -0.0,
+          "grossMargin": null,
+          "rank": 8
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "其他母子公司一体化业务",
+          "income": 15198384263.72,
+          "incomeRatio": 42.85,
+          "cost": 14364449455.23,
+          "costRatio": 57.59,
+          "profit": 833934808.49,
+          "profitRatio": 7.92,
+          "grossMargin": 5.49,
+          "rank": 1
+        },
+        {
+          "name": "财富管理业务",
+          "income": 10495522496.99,
+          "incomeRatio": 29.59,
+          "cost": 5618878954.77,
+          "costRatio": 22.53,
+          "profit": 4876643542.22,
+          "profitRatio": 46.32,
+          "grossMargin": 46.46,
+          "rank": 2
+        },
+        {
+          "name": "投资交易业务",
+          "income": 6343678434.85,
+          "incomeRatio": 17.88,
+          "cost": 511208165.92,
+          "costRatio": 2.05,
+          "profit": 5832470268.93,
+          "profitRatio": 55.4,
+          "grossMargin": 91.94,
+          "rank": 3
+        },
+        {
+          "name": "国际业务",
+          "income": 2172545085.94,
+          "incomeRatio": 6.12,
+          "cost": 1885228620.54,
+          "costRatio": 7.56,
+          "profit": 287316465.4,
+          "profitRatio": 2.73,
+          "grossMargin": 13.22,
+          "rank": 4
+        },
+        {
+          "name": "其他",
+          "income": 763504987.54,
+          "incomeRatio": 2.15,
+          "cost": 2129799919.12,
+          "costRatio": 8.54,
+          "profit": -1366294931.58,
+          "profitRatio": -12.98,
+          "grossMargin": -178.95,
+          "rank": 5
+        },
+        {
+          "name": "投资银行",
+          "income": 478876555.44,
+          "incomeRatio": 1.35,
+          "cost": 423591922.81,
+          "costRatio": 1.7,
+          "profit": 55284632.63,
+          "profitRatio": 0.53,
+          "grossMargin": 11.54,
+          "rank": 6
+        },
+        {
+          "name": "机构业务",
+          "income": 281866879.82,
+          "incomeRatio": 0.79,
+          "cost": 273234480.25,
+          "costRatio": 1.1,
+          "profit": 8632399.57,
+          "profitRatio": 0.08,
+          "grossMargin": 3.06,
+          "rank": 7
+        },
+        {
+          "name": "抵销",
+          "income": -263176162.86,
+          "incomeRatio": -0.74,
+          "cost": -263058238.32,
+          "costRatio": -1.05,
+          "profit": -117924.54,
+          "profitRatio": -0.0,
+          "grossMargin": null,
+          "rank": 8
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "公司总部及境内子公司",
+          "income": 26857998891.85,
+          "incomeRatio": 75.72,
+          "cost": 20063326538.72,
+          "costRatio": 80.44,
+          "profit": 6794672353.13,
+          "profitRatio": 64.54,
+          "grossMargin": 25.3,
+          "rank": 1
+        },
+        {
+          "name": "境外地区",
+          "income": 2172545085.94,
+          "incomeRatio": 6.12,
+          "cost": 1885228620.54,
+          "costRatio": 7.56,
+          "profit": 287316465.4,
+          "profitRatio": 2.73,
+          "grossMargin": 13.22,
+          "rank": 2
+        },
+        {
+          "name": "浙江",
+          "income": 1168567598.42,
+          "incomeRatio": 3.29,
+          "cost": 437125198.27,
+          "costRatio": 1.75,
+          "profit": 731442400.15,
+          "profitRatio": 6.95,
+          "grossMargin": 62.59,
+          "rank": 3
+        },
+        {
+          "name": "北京",
+          "income": 1022607546.23,
+          "incomeRatio": 2.88,
+          "cost": 361268070.29,
+          "costRatio": 1.45,
+          "profit": 661339475.94,
+          "profitRatio": 6.28,
+          "grossMargin": 64.67,
+          "rank": 4
+        },
+        {
+          "name": "广东",
+          "income": 941109961.85,
+          "incomeRatio": 2.65,
+          "cost": 492203265.62,
+          "costRatio": 1.97,
+          "profit": 448906696.23,
+          "profitRatio": 4.26,
+          "grossMargin": 47.7,
+          "rank": 5
+        },
+        {
+          "name": "上海",
+          "income": 582954398.27,
+          "incomeRatio": 1.64,
+          "cost": 266240522.93,
+          "costRatio": 1.07,
+          "profit": 316713875.34,
+          "profitRatio": 3.01,
+          "grossMargin": 54.33,
+          "rank": 6
+        },
+        {
+          "name": "江苏",
+          "income": 335741680.67,
+          "incomeRatio": 0.95,
+          "cost": 200386526.97,
+          "costRatio": 0.8,
+          "profit": 135355153.7,
+          "profitRatio": 1.29,
+          "grossMargin": 40.32,
+          "rank": 7
+        },
+        {
+          "name": "境内其他地区",
+          "income": 317717311.76,
+          "incomeRatio": 0.9,
+          "cost": 207520339.3,
+          "costRatio": 0.83,
+          "profit": 110196972.46,
+          "profitRatio": 1.05,
+          "grossMargin": 34.68,
+          "rank": 8
+        },
+        {
+          "name": "湖北",
+          "income": 254658362.57,
+          "incomeRatio": 0.72,
+          "cost": 115848891.72,
+          "costRatio": 0.46,
+          "profit": 138809470.85,
+          "profitRatio": 1.32,
+          "grossMargin": 54.51,
+          "rank": 9
+        },
+        {
+          "name": "福建",
+          "income": 242677344.61,
+          "incomeRatio": 0.68,
+          "cost": 132805745.76,
+          "costRatio": 0.53,
+          "profit": 109871598.85,
+          "profitRatio": 1.04,
+          "grossMargin": 45.27,
+          "rank": 10
+        },
+        {
+          "name": "山西",
+          "income": 205745634.71,
+          "incomeRatio": 0.58,
+          "cost": 98036901.41,
+          "costRatio": 0.39,
+          "profit": 107708733.3,
+          "profitRatio": 1.02,
+          "grossMargin": 52.35,
+          "rank": 11
+        },
+        {
+          "name": "四川",
+          "income": 198654446.41,
+          "incomeRatio": 0.56,
+          "cost": 76506739.19,
+          "costRatio": 0.31,
+          "profit": 122147707.22,
+          "profitRatio": 1.16,
+          "grossMargin": 61.49,
+          "rank": 12
+        },
+        {
+          "name": "辽宁",
+          "income": 153679519.4,
+          "incomeRatio": 0.43,
+          "cost": 96595227.47,
+          "costRatio": 0.39,
+          "profit": 57084291.93,
+          "profitRatio": 0.54,
+          "grossMargin": 37.15,
+          "rank": 13
+        },
+        {
+          "name": "河南",
+          "income": 137883610.48,
+          "incomeRatio": 0.39,
+          "cost": 75130571.48,
+          "costRatio": 0.3,
+          "profit": 62753039.0,
+          "profitRatio": 0.6,
+          "grossMargin": 45.51,
+          "rank": 14
+        },
+        {
+          "name": "安徽",
+          "income": 133046089.05,
+          "incomeRatio": 0.38,
+          "cost": 63223687.37,
+          "costRatio": 0.25,
+          "profit": 69822401.68,
+          "profitRatio": 0.66,
+          "grossMargin": 52.48,
+          "rank": 15
+        },
+        {
+          "name": "重庆",
+          "income": 133008260.4,
+          "incomeRatio": 0.38,
+          "cost": 77204389.78,
+          "costRatio": 0.31,
+          "profit": 55803870.62,
+          "profitRatio": 0.53,
+          "grossMargin": 41.96,
+          "rank": 16
+        },
+        {
+          "name": "山东",
+          "income": 126168025.58,
+          "incomeRatio": 0.36,
+          "cost": 86635896.75,
+          "costRatio": 0.35,
+          "profit": 39532128.83,
+          "profitRatio": 0.38,
+          "grossMargin": 31.33,
+          "rank": 17
+        },
+        {
+          "name": "河北",
+          "income": 115764481.77,
+          "incomeRatio": 0.33,
+          "cost": 56376769.66,
+          "costRatio": 0.23,
+          "profit": 59387712.11,
+          "profitRatio": 0.56,
+          "grossMargin": 51.3,
+          "rank": 18
+        },
+        {
+          "name": "云南",
+          "income": 88485712.87,
+          "incomeRatio": 0.25,
+          "cost": 28497330.23,
+          "costRatio": 0.11,
+          "profit": 59988382.64,
+          "profitRatio": 0.57,
+          "grossMargin": 67.79,
+          "rank": 19
+        },
+        {
+          "name": "内蒙古",
+          "income": 75266235.84,
+          "incomeRatio": 0.21,
+          "cost": 31660619.3,
+          "costRatio": 0.13,
+          "profit": 43605616.54,
+          "profitRatio": 0.41,
+          "grossMargin": 57.94,
+          "rank": 20
+        },
+        {
+          "name": "湖南",
+          "income": 70476211.85,
+          "incomeRatio": 0.2,
+          "cost": 37641423.84,
+          "costRatio": 0.15,
+          "profit": 32834788.01,
+          "profitRatio": 0.31,
+          "grossMargin": 46.59,
+          "rank": 21
+        },
+        {
+          "name": "青海",
+          "income": 70377053.12,
+          "incomeRatio": 0.2,
+          "cost": 20374344.3,
+          "costRatio": 0.08,
+          "profit": 50002708.82,
+          "profitRatio": 0.47,
+          "grossMargin": 71.05,
+          "rank": 22
+        },
+        {
+          "name": "江西",
+          "income": 66069077.79,
+          "incomeRatio": 0.19,
+          "cost": 33495659.42,
+          "costRatio": 0.13,
+          "profit": 32573418.37,
+          "profitRatio": 0.31,
+          "grossMargin": 49.3,
+          "rank": 23
+        }
+      ]
+    },
+    {
+      "reportDate": "2023-12-31",
+      "byIndustry": [
+        {
+          "name": "其他母子公司一体化业务",
+          "income": 17208144644.1,
+          "incomeRatio": 51.15,
+          "cost": 16174099631.69,
+          "costRatio": 63.61,
+          "profit": 1034045012.41,
+          "profitRatio": 12.59,
+          "grossMargin": 6.01,
+          "rank": 1
+        },
+        {
+          "name": "财富管理业务",
+          "income": 9129081208.85,
+          "incomeRatio": 27.13,
+          "cost": 4809786779.84,
+          "costRatio": 18.92,
+          "profit": 4319294429.01,
+          "profitRatio": 52.57,
+          "grossMargin": 47.31,
+          "rank": 2
+        },
+        {
+          "name": "投资交易业务",
+          "income": 5825679995.58,
+          "incomeRatio": 17.32,
+          "cost": 390381741.08,
+          "costRatio": 1.54,
+          "profit": 5435298254.5,
+          "profitRatio": 66.15,
+          "grossMargin": 93.3,
+          "rank": 3
+        },
+        {
+          "name": "国际业务",
+          "income": 2006287912.01,
+          "incomeRatio": 5.96,
+          "cost": 1680675224.02,
+          "costRatio": 6.61,
+          "profit": 325612687.99,
+          "profitRatio": 3.96,
+          "grossMargin": 16.23,
+          "rank": 4
+        },
+        {
+          "name": "投资银行业务",
+          "income": 428349954.68,
+          "incomeRatio": 1.27,
+          "cost": 372245640.64,
+          "costRatio": 1.46,
+          "profit": 56104314.04,
+          "profitRatio": 0.68,
+          "grossMargin": 13.1,
+          "rank": 5
+        },
+        {
+          "name": "机构业务",
+          "income": 383343334.88,
+          "incomeRatio": 1.14,
+          "cost": 208898108.69,
+          "costRatio": 0.82,
+          "profit": 174445226.19,
+          "profitRatio": 2.12,
+          "grossMargin": 45.51,
+          "rank": 6
+        },
+        {
+          "name": "其他",
+          "income": -1336804257.49,
+          "incomeRatio": -3.97,
+          "cost": 1791732346.49,
+          "costRatio": 7.05,
+          "profit": -3128536603.98,
+          "profitRatio": -38.08,
+          "grossMargin": null,
+          "rank": 7
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "其他母子公司一体化业务",
+          "income": 17208144644.1,
+          "incomeRatio": 51.15,
+          "cost": 16174099631.69,
+          "costRatio": 63.61,
+          "profit": 1034045012.41,
+          "profitRatio": 12.59,
+          "grossMargin": 6.01,
+          "rank": 1
+        },
+        {
+          "name": "财富管理业务",
+          "income": 9129081208.85,
+          "incomeRatio": 27.13,
+          "cost": 4809786779.84,
+          "costRatio": 18.92,
+          "profit": 4319294429.01,
+          "profitRatio": 52.57,
+          "grossMargin": 47.31,
+          "rank": 2
+        },
+        {
+          "name": "投资交易业务",
+          "income": 5825679995.58,
+          "incomeRatio": 17.32,
+          "cost": 390381741.08,
+          "costRatio": 1.54,
+          "profit": 5435298254.5,
+          "profitRatio": 66.15,
+          "grossMargin": 93.3,
+          "rank": 3
+        },
+        {
+          "name": "国际业务",
+          "income": 2006287912.01,
+          "incomeRatio": 5.96,
+          "cost": 1680675224.02,
+          "costRatio": 6.61,
+          "profit": 325612687.99,
+          "profitRatio": 3.96,
+          "grossMargin": 16.23,
+          "rank": 4
+        },
+        {
+          "name": "其他",
+          "income": 827867548.42,
+          "incomeRatio": 2.46,
+          "cost": 1988431575.67,
+          "costRatio": 7.82,
+          "profit": -1160564027.25,
+          "profitRatio": -14.13,
+          "grossMargin": -140.19,
+          "rank": 5
+        },
+        {
+          "name": "投资银行",
+          "income": 428349954.68,
+          "incomeRatio": 1.27,
+          "cost": 372245640.64,
+          "costRatio": 1.46,
+          "profit": 56104314.04,
+          "profitRatio": 0.68,
+          "grossMargin": 13.1,
+          "rank": 6
+        },
+        {
+          "name": "机构业务",
+          "income": 383343334.88,
+          "incomeRatio": 1.14,
+          "cost": 208898108.69,
+          "costRatio": 0.82,
+          "profit": 174445226.19,
+          "profitRatio": 2.12,
+          "grossMargin": 45.51,
+          "rank": 7
+        },
+        {
+          "name": "抵销",
+          "income": -2164671805.91,
+          "incomeRatio": -6.43,
+          "cost": -196699229.18,
+          "costRatio": -0.77,
+          "profit": -1967972576.73,
+          "profitRatio": -23.95,
+          "grossMargin": null,
+          "rank": 8
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "公司总部及境内子公司",
+          "income": 26483898254.03,
+          "incomeRatio": 78.72,
+          "cost": 20881406487.2,
+          "costRatio": 82.12,
+          "profit": 5602491766.83,
+          "profitRatio": 68.19,
+          "grossMargin": 21.15,
+          "rank": 1
+        },
+        {
+          "name": "海外地区",
+          "income": 2006287912.01,
+          "incomeRatio": 5.96,
+          "cost": 1666779383.88,
+          "costRatio": 6.55,
+          "profit": 339508528.13,
+          "profitRatio": 4.13,
+          "grossMargin": 16.92,
+          "rank": 2
+        },
+        {
+          "name": "浙江",
+          "income": 943293923.35,
+          "incomeRatio": 2.8,
+          "cost": 422436885.62,
+          "costRatio": 1.66,
+          "profit": 520857037.73,
+          "profitRatio": 6.34,
+          "grossMargin": 55.22,
+          "rank": 3
+        },
+        {
+          "name": "广东",
+          "income": 792806054.03,
+          "incomeRatio": 2.36,
+          "cost": 483089915.76,
+          "costRatio": 1.9,
+          "profit": 309716138.27,
+          "profitRatio": 3.77,
+          "grossMargin": 39.07,
+          "rank": 4
+        },
+        {
+          "name": "北京",
+          "income": 770223916.04,
+          "incomeRatio": 2.29,
+          "cost": 341781981.55,
+          "costRatio": 1.34,
+          "profit": 428441934.49,
+          "profitRatio": 5.21,
+          "grossMargin": 55.63,
+          "rank": 5
+        },
+        {
+          "name": "上海",
+          "income": 501216239.62,
+          "incomeRatio": 1.49,
+          "cost": 265850913.43,
+          "costRatio": 1.05,
+          "profit": 235365326.19,
+          "profitRatio": 2.86,
+          "grossMargin": 46.96,
+          "rank": 6
+        },
+        {
+          "name": "江苏",
+          "income": 250385348.54,
+          "incomeRatio": 0.74,
+          "cost": 173207309.36,
+          "costRatio": 0.68,
+          "profit": 77178039.18,
+          "profitRatio": 0.94,
+          "grossMargin": 30.82,
+          "rank": 7
+        },
+        {
+          "name": "国内其他地区",
+          "income": 248049147.12,
+          "incomeRatio": 0.74,
+          "cost": 197620043.03,
+          "costRatio": 0.78,
+          "profit": 50429104.09,
+          "profitRatio": 0.61,
+          "grossMargin": 20.33,
+          "rank": 8
+        },
+        {
+          "name": "福建",
+          "income": 209016029.27,
+          "incomeRatio": 0.62,
+          "cost": 128857306.6,
+          "costRatio": 0.51,
+          "profit": 80158722.67,
+          "profitRatio": 0.98,
+          "grossMargin": 38.35,
+          "rank": 9
+        },
+        {
+          "name": "湖北",
+          "income": 198134841.66,
+          "incomeRatio": 0.59,
+          "cost": 115835608.86,
+          "costRatio": 0.46,
+          "profit": 82299232.8,
+          "profitRatio": 1.0,
+          "grossMargin": 41.54,
+          "rank": 10
+        },
+        {
+          "name": "山西",
+          "income": 163223214.77,
+          "incomeRatio": 0.49,
+          "cost": 92169280.36,
+          "costRatio": 0.36,
+          "profit": 71053934.41,
+          "profitRatio": 0.86,
+          "grossMargin": 43.53,
+          "rank": 11
+        },
+        {
+          "name": "四川",
+          "income": 156697849.78,
+          "incomeRatio": 0.47,
+          "cost": 72436653.76,
+          "costRatio": 0.28,
+          "profit": 84261196.02,
+          "profitRatio": 1.03,
+          "grossMargin": 53.77,
+          "rank": 12
+        },
+        {
+          "name": "辽宁",
+          "income": 125348591.32,
+          "incomeRatio": 0.37,
+          "cost": 97846576.75,
+          "costRatio": 0.38,
+          "profit": 27502014.57,
+          "profitRatio": 0.33,
+          "grossMargin": 21.94,
+          "rank": 13
+        },
+        {
+          "name": "河南",
+          "income": 106090206.51,
+          "incomeRatio": 0.32,
+          "cost": 69429607.25,
+          "costRatio": 0.27,
+          "profit": 36660599.26,
+          "profitRatio": 0.45,
+          "grossMargin": 34.56,
+          "rank": 14
+        },
+        {
+          "name": "重庆",
+          "income": 105241004.87,
+          "incomeRatio": 0.31,
+          "cost": 78551948.78,
+          "costRatio": 0.31,
+          "profit": 26689056.09,
+          "profitRatio": 0.32,
+          "grossMargin": 25.36,
+          "rank": 15
+        },
+        {
+          "name": "安徽",
+          "income": 101896662.21,
+          "incomeRatio": 0.3,
+          "cost": 62052812.82,
+          "costRatio": 0.24,
+          "profit": 39843849.39,
+          "profitRatio": 0.48,
+          "grossMargin": 39.1,
+          "rank": 16
+        },
+        {
+          "name": "山东",
+          "income": 97839780.5,
+          "incomeRatio": 0.29,
+          "cost": 76250039.16,
+          "costRatio": 0.3,
+          "profit": 21589741.34,
+          "profitRatio": 0.26,
+          "grossMargin": 22.07,
+          "rank": 17
+        },
+        {
+          "name": "河北",
+          "income": 92398159.75,
+          "incomeRatio": 0.27,
+          "cost": 53519709.57,
+          "costRatio": 0.21,
+          "profit": 38878450.18,
+          "profitRatio": 0.47,
+          "grossMargin": 42.08,
+          "rank": 18
+        },
+        {
+          "name": "云南",
+          "income": 72982523.87,
+          "incomeRatio": 0.22,
+          "cost": 26757895.59,
+          "costRatio": 0.11,
+          "profit": 46224628.28,
+          "profitRatio": 0.56,
+          "grossMargin": 63.34,
+          "rank": 19
+        },
+        {
+          "name": "内蒙古",
+          "income": 60622871.15,
+          "incomeRatio": 0.18,
+          "cost": 32439615.15,
+          "costRatio": 0.13,
+          "profit": 28183256.0,
+          "profitRatio": 0.34,
+          "grossMargin": 46.49,
+          "rank": 20
+        },
+        {
+          "name": "陕西",
+          "income": 55371015.86,
+          "incomeRatio": 0.16,
+          "cost": 34052456.17,
+          "costRatio": 0.13,
+          "profit": 21318559.69,
+          "profitRatio": 0.26,
+          "grossMargin": 38.5,
+          "rank": 21
+        },
+        {
+          "name": "青海",
+          "income": 52094886.98,
+          "incomeRatio": 0.15,
+          "cost": 18480547.12,
+          "costRatio": 0.07,
+          "profit": 33614339.86,
+          "profitRatio": 0.41,
+          "grossMargin": 64.53,
+          "rank": 22
+        },
+        {
+          "name": "湖南",
+          "income": 50964359.37,
+          "incomeRatio": 0.15,
+          "cost": 36966494.68,
+          "costRatio": 0.15,
+          "profit": 13997864.69,
+          "profitRatio": 0.17,
+          "grossMargin": 27.47,
+          "rank": 23
+        }
+      ]
+    },
+    {
+      "reportDate": "2022-12-31",
+      "byIndustry": [
+        {
+          "name": "期货业务",
+          "income": 17060201637.08,
+          "incomeRatio": 50.71,
+          "cost": 16086342145.72,
+          "costRatio": 62.6,
+          "profit": 973859491.36,
+          "profitRatio": 12.25,
+          "grossMargin": 5.71,
+          "rank": 1
+        },
+        {
+          "name": "证券经纪",
+          "income": 10118524718.39,
+          "incomeRatio": 30.08,
+          "cost": 4832835995.78,
+          "costRatio": 18.81,
+          "profit": 5285688722.61,
+          "profitRatio": 66.51,
+          "grossMargin": 52.24,
+          "rank": 2
+        },
+        {
+          "name": "自营及其他证券交易",
+          "income": 2536650248.48,
+          "incomeRatio": 7.54,
+          "cost": 371380393.22,
+          "costRatio": 1.45,
+          "profit": 2165269855.26,
+          "profitRatio": 27.25,
+          "grossMargin": 85.36,
+          "rank": 3
+        },
+        {
+          "name": "境外业务",
+          "income": 1802991846.89,
+          "incomeRatio": 5.36,
+          "cost": 1780472796.5,
+          "costRatio": 6.93,
+          "profit": 22519050.39,
+          "profitRatio": 0.28,
+          "grossMargin": 1.25,
+          "rank": 4
+        },
+        {
+          "name": "其他",
+          "income": 971080133.37,
+          "incomeRatio": 2.89,
+          "cost": 1726508870.29,
+          "costRatio": 6.72,
+          "profit": -755428736.92,
+          "profitRatio": -9.51,
+          "grossMargin": -77.79,
+          "rank": 5
+        },
+        {
+          "name": "投资银行",
+          "income": 620177606.0,
+          "incomeRatio": 1.84,
+          "cost": 359140966.76,
+          "costRatio": 1.4,
+          "profit": 261036639.24,
+          "profitRatio": 3.28,
+          "grossMargin": 42.09,
+          "rank": 6
+        },
+        {
+          "name": "私募股权投资及另类投资",
+          "income": 541792063.32,
+          "incomeRatio": 1.61,
+          "cost": 157387088.21,
+          "costRatio": 0.61,
+          "profit": 384404975.11,
+          "profitRatio": 4.84,
+          "grossMargin": 70.95,
+          "rank": 7
+        },
+        {
+          "name": "资产管理",
+          "income": 479100375.35,
+          "incomeRatio": 1.42,
+          "cost": 451080079.5,
+          "costRatio": 1.76,
+          "profit": 28020295.85,
+          "profitRatio": 0.35,
+          "grossMargin": 5.85,
+          "rank": 8
+        },
+        {
+          "name": "抵销",
+          "income": -488525228.89,
+          "incomeRatio": -1.45,
+          "cost": -69881286.84,
+          "costRatio": -0.27,
+          "profit": -418643942.05,
+          "profitRatio": -5.27,
+          "grossMargin": null,
+          "rank": 9
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "期货业务",
+          "income": 17060201637.08,
+          "incomeRatio": 50.71,
+          "cost": 16086342145.72,
+          "costRatio": 62.6,
+          "profit": 973859491.36,
+          "profitRatio": 12.25,
+          "grossMargin": 5.71,
+          "rank": 1
+        },
+        {
+          "name": "证券经纪",
+          "income": 10118524718.39,
+          "incomeRatio": 30.08,
+          "cost": 4832835995.78,
+          "costRatio": 18.81,
+          "profit": 5285688722.61,
+          "profitRatio": 66.51,
+          "grossMargin": 52.24,
+          "rank": 2
+        },
+        {
+          "name": "自营及其他证券交易",
+          "income": 2536650248.48,
+          "incomeRatio": 7.54,
+          "cost": 371380393.22,
+          "costRatio": 1.45,
+          "profit": 2165269855.26,
+          "profitRatio": 27.25,
+          "grossMargin": 85.36,
+          "rank": 3
+        },
+        {
+          "name": "境外业务",
+          "income": 1802991846.89,
+          "incomeRatio": 5.36,
+          "cost": 1780472796.5,
+          "costRatio": 6.93,
+          "profit": 22519050.39,
+          "profitRatio": 0.28,
+          "grossMargin": 1.25,
+          "rank": 4
+        },
+        {
+          "name": "其他",
+          "income": 971080133.37,
+          "incomeRatio": 2.89,
+          "cost": 1726508870.29,
+          "costRatio": 6.72,
+          "profit": -755428736.92,
+          "profitRatio": -9.51,
+          "grossMargin": -77.79,
+          "rank": 5
+        },
+        {
+          "name": "投资银行",
+          "income": 620177606.0,
+          "incomeRatio": 1.84,
+          "cost": 359140966.76,
+          "costRatio": 1.4,
+          "profit": 261036639.24,
+          "profitRatio": 3.28,
+          "grossMargin": 42.09,
+          "rank": 6
+        },
+        {
+          "name": "私募股权投资及另类投资",
+          "income": 541792063.32,
+          "incomeRatio": 1.61,
+          "cost": 157387088.21,
+          "costRatio": 0.61,
+          "profit": 384404975.11,
+          "profitRatio": 4.84,
+          "grossMargin": 70.95,
+          "rank": 7
+        },
+        {
+          "name": "资产管理",
+          "income": 479100375.35,
+          "incomeRatio": 1.42,
+          "cost": 451080079.5,
+          "costRatio": 1.76,
+          "profit": 28020295.85,
+          "profitRatio": 0.35,
+          "grossMargin": 5.85,
+          "rank": 8
+        },
+        {
+          "name": "抵销",
+          "income": -488525228.89,
+          "incomeRatio": -1.45,
+          "cost": -69881286.84,
+          "costRatio": -0.27,
+          "profit": -418643942.05,
+          "profitRatio": -5.27,
+          "grossMargin": null,
+          "rank": 9
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "公司总部及子公司",
+          "income": 26379615801.39,
+          "incomeRatio": 78.41,
+          "cost": 21222279460.59,
+          "costRatio": 82.59,
+          "profit": 5157336340.8,
+          "profitRatio": 64.9,
+          "grossMargin": 19.55,
+          "rank": 1
+        },
+        {
+          "name": "海外地区",
+          "income": 1802991846.89,
+          "incomeRatio": 5.36,
+          "cost": 1780472796.5,
+          "costRatio": 6.93,
+          "profit": 22519050.39,
+          "profitRatio": 0.28,
+          "grossMargin": 1.25,
+          "rank": 2
+        },
+        {
+          "name": "浙江",
+          "income": 1031625943.28,
+          "incomeRatio": 3.07,
+          "cost": 400488272.24,
+          "costRatio": 1.56,
+          "profit": 631137671.04,
+          "profitRatio": 7.94,
+          "grossMargin": 61.18,
+          "rank": 3
+        },
+        {
+          "name": "广东",
+          "income": 856609452.49,
+          "incomeRatio": 2.55,
+          "cost": 452455395.11,
+          "costRatio": 1.76,
+          "profit": 404154057.38,
+          "profitRatio": 5.09,
+          "grossMargin": 47.18,
+          "rank": 4
+        },
+        {
+          "name": "北京",
+          "income": 755494925.3,
+          "incomeRatio": 2.25,
+          "cost": 308104826.32,
+          "costRatio": 1.2,
+          "profit": 447390098.98,
+          "profitRatio": 5.63,
+          "grossMargin": 59.22,
+          "rank": 5
+        },
+        {
+          "name": "上海",
+          "income": 536817507.91,
+          "incomeRatio": 1.6,
+          "cost": 254044723.27,
+          "costRatio": 0.99,
+          "profit": 282772784.64,
+          "profitRatio": 3.56,
+          "grossMargin": 52.68,
+          "rank": 6
+        },
+        {
+          "name": "国内其他地区",
+          "income": 267204935.74,
+          "incomeRatio": 0.79,
+          "cost": 190482438.3,
+          "costRatio": 0.74,
+          "profit": 76722497.44,
+          "profitRatio": 0.97,
+          "grossMargin": 28.71,
+          "rank": 7
+        },
+        {
+          "name": "江苏",
+          "income": 232888833.53,
+          "incomeRatio": 0.69,
+          "cost": 142319777.93,
+          "costRatio": 0.55,
+          "profit": 90569055.6,
+          "profitRatio": 1.14,
+          "grossMargin": 38.89,
+          "rank": 8
+        },
+        {
+          "name": "福建",
+          "income": 218454275.73,
+          "incomeRatio": 0.65,
+          "cost": 120126094.43,
+          "costRatio": 0.47,
+          "profit": 98328181.3,
+          "profitRatio": 1.24,
+          "grossMargin": 45.01,
+          "rank": 9
+        },
+        {
+          "name": "湖北",
+          "income": 214730305.52,
+          "incomeRatio": 0.64,
+          "cost": 114129814.72,
+          "costRatio": 0.44,
+          "profit": 100600490.8,
+          "profitRatio": 1.27,
+          "grossMargin": 46.85,
+          "rank": 10
+        },
+        {
+          "name": "山西",
+          "income": 174343753.13,
+          "incomeRatio": 0.52,
+          "cost": 85889468.28,
+          "costRatio": 0.33,
+          "profit": 88454284.85,
+          "profitRatio": 1.11,
+          "grossMargin": 50.74,
+          "rank": 11
+        },
+        {
+          "name": "四川",
+          "income": 167839290.99,
+          "incomeRatio": 0.5,
+          "cost": 67975548.3,
+          "costRatio": 0.26,
+          "profit": 99863742.69,
+          "profitRatio": 1.26,
+          "grossMargin": 59.5,
+          "rank": 12
+        },
+        {
+          "name": "辽宁",
+          "income": 128892606.66,
+          "incomeRatio": 0.38,
+          "cost": 98862431.65,
+          "costRatio": 0.38,
+          "profit": 30030175.01,
+          "profitRatio": 0.38,
+          "grossMargin": 23.3,
+          "rank": 13
+        },
+        {
+          "name": "河南",
+          "income": 115996426.04,
+          "incomeRatio": 0.34,
+          "cost": 66196293.51,
+          "costRatio": 0.26,
+          "profit": 49800132.53,
+          "profitRatio": 0.63,
+          "grossMargin": 42.93,
+          "rank": 14
+        },
+        {
+          "name": "重庆",
+          "income": 113428159.64,
+          "incomeRatio": 0.34,
+          "cost": 73762688.24,
+          "costRatio": 0.29,
+          "profit": 39665471.4,
+          "profitRatio": 0.5,
+          "grossMargin": 34.97,
+          "rank": 15
+        },
+        {
+          "name": "安徽",
+          "income": 108801409.41,
+          "incomeRatio": 0.32,
+          "cost": 58326010.67,
+          "costRatio": 0.23,
+          "profit": 50475398.74,
+          "profitRatio": 0.64,
+          "grossMargin": 46.39,
+          "rank": 16
+        },
+        {
+          "name": "河北",
+          "income": 102736095.49,
+          "incomeRatio": 0.31,
+          "cost": 51508577.71,
+          "costRatio": 0.2,
+          "profit": 51227517.78,
+          "profitRatio": 0.64,
+          "grossMargin": 49.86,
+          "rank": 17
+        },
+        {
+          "name": "山东",
+          "income": 100832851.57,
+          "incomeRatio": 0.3,
+          "cost": 68180967.98,
+          "costRatio": 0.27,
+          "profit": 32651883.59,
+          "profitRatio": 0.41,
+          "grossMargin": 32.38,
+          "rank": 18
+        },
+        {
+          "name": "云南",
+          "income": 84121517.13,
+          "incomeRatio": 0.25,
+          "cost": 26674696.43,
+          "costRatio": 0.1,
+          "profit": 57446820.7,
+          "profitRatio": 0.72,
+          "grossMargin": 68.29,
+          "rank": 19
+        },
+        {
+          "name": "青海",
+          "income": 69469951.0,
+          "incomeRatio": 0.21,
+          "cost": 18158902.07,
+          "costRatio": 0.07,
+          "profit": 51311048.93,
+          "profitRatio": 0.65,
+          "grossMargin": 73.86,
+          "rank": 20
+        },
+        {
+          "name": "内蒙古",
+          "income": 67031708.18,
+          "incomeRatio": 0.2,
+          "cost": 33142281.52,
+          "costRatio": 0.13,
+          "profit": 33889426.66,
+          "profitRatio": 0.43,
+          "grossMargin": 50.56,
+          "rank": 21
+        },
+        {
+          "name": "陕西",
+          "income": 58463207.04,
+          "incomeRatio": 0.17,
+          "cost": 32308903.06,
+          "costRatio": 0.13,
+          "profit": 26154303.98,
+          "profitRatio": 0.33,
+          "grossMargin": 44.74,
+          "rank": 22
+        },
+        {
+          "name": "江西",
+          "income": 53602595.93,
+          "incomeRatio": 0.16,
+          "cost": 29376680.31,
+          "costRatio": 0.11,
+          "profit": 24225915.62,
+          "profitRatio": 0.3,
+          "grossMargin": 45.2,
+          "rank": 23
+        }
+      ]
+    },
+    {
+      "reportDate": "2021-12-31",
+      "byIndustry": [
+        {
+          "name": "期货经纪",
+          "income": 15118974665.61,
+          "incomeRatio": 42.02,
+          "cost": 14093787400.74,
+          "costRatio": 61.11,
+          "profit": 1025187264.87,
+          "profitRatio": 7.93,
+          "grossMargin": 6.78,
+          "rank": 1
+        },
+        {
+          "name": "证券经纪业务",
+          "income": 12509319053.7,
+          "incomeRatio": 34.76,
+          "cost": 4868009956.21,
+          "costRatio": 21.11,
+          "profit": 7641309097.49,
+          "profitRatio": 59.14,
+          "grossMargin": 61.08,
+          "rank": 2
+        },
+        {
+          "name": "自营及其他证券交易业务",
+          "income": 5037582269.81,
+          "incomeRatio": 14.0,
+          "cost": 359068918.96,
+          "costRatio": 1.56,
+          "profit": 4678513350.85,
+          "profitRatio": 36.21,
+          "grossMargin": 92.87,
+          "rank": 3
+        },
+        {
+          "name": "海外业务",
+          "income": 1931778006.34,
+          "incomeRatio": 5.37,
+          "cost": 1489369671.44,
+          "costRatio": 6.46,
+          "profit": 442408334.9,
+          "profitRatio": 3.42,
+          "grossMargin": 22.9,
+          "rank": 4
+        },
+        {
+          "name": "其他",
+          "income": 1404480075.97,
+          "incomeRatio": 3.9,
+          "cost": 1599315595.92,
+          "costRatio": 6.93,
+          "profit": -194835519.95,
+          "profitRatio": -1.51,
+          "grossMargin": -13.87,
+          "rank": 5
+        },
+        {
+          "name": "投资银行业务",
+          "income": 575551344.15,
+          "incomeRatio": 1.6,
+          "cost": 294232131.7,
+          "costRatio": 1.28,
+          "profit": 281319212.45,
+          "profitRatio": 2.18,
+          "grossMargin": 48.88,
+          "rank": 6
+        },
+        {
+          "name": "私募股权投资及另类投资",
+          "income": 512588894.2,
+          "incomeRatio": 1.42,
+          "cost": 143591832.48,
+          "costRatio": 0.62,
+          "profit": 368997061.72,
+          "profitRatio": 2.86,
+          "grossMargin": 71.99,
+          "rank": 7
+        },
+        {
+          "name": "资产管理业务",
+          "income": 506834850.39,
+          "incomeRatio": 1.41,
+          "cost": 492782803.52,
+          "costRatio": 2.14,
+          "profit": 14052046.87,
+          "profitRatio": 0.11,
+          "grossMargin": 2.77,
+          "rank": 8
+        },
+        {
+          "name": "抵销",
+          "income": -1613123874.89,
+          "incomeRatio": -4.48,
+          "cost": -277884668.65,
+          "costRatio": -1.2,
+          "profit": -1335239206.24,
+          "profitRatio": -10.33,
+          "grossMargin": null,
+          "rank": 9
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "期货经纪",
+          "income": 15118974665.61,
+          "incomeRatio": 42.02,
+          "cost": 14093787400.74,
+          "costRatio": 61.11,
+          "profit": 1025187264.87,
+          "profitRatio": 7.93,
+          "grossMargin": 6.78,
+          "rank": 1
+        },
+        {
+          "name": "证券经纪",
+          "income": 12509319053.7,
+          "incomeRatio": 34.76,
+          "cost": 4868009956.21,
+          "costRatio": 21.11,
+          "profit": 7641309097.49,
+          "profitRatio": 59.14,
+          "grossMargin": 61.08,
+          "rank": 2
+        },
+        {
+          "name": "自营及其他证券交易",
+          "income": 5037582269.81,
+          "incomeRatio": 14.0,
+          "cost": 359068918.96,
+          "costRatio": 1.56,
+          "profit": 4678513350.85,
+          "profitRatio": 36.21,
+          "grossMargin": 92.87,
+          "rank": 3
+        },
+        {
+          "name": "境外业务",
+          "income": 1931778006.34,
+          "incomeRatio": 5.37,
+          "cost": 1489369671.44,
+          "costRatio": 6.46,
+          "profit": 442408334.9,
+          "profitRatio": 3.42,
+          "grossMargin": 22.9,
+          "rank": 4
+        },
+        {
+          "name": "其他",
+          "income": 1404480075.97,
+          "incomeRatio": 3.9,
+          "cost": 1599315595.92,
+          "costRatio": 6.93,
+          "profit": -194835519.95,
+          "profitRatio": -1.51,
+          "grossMargin": -13.87,
+          "rank": 5
+        },
+        {
+          "name": "投资银行",
+          "income": 575551344.15,
+          "incomeRatio": 1.6,
+          "cost": 294232131.7,
+          "costRatio": 1.28,
+          "profit": 281319212.45,
+          "profitRatio": 2.18,
+          "grossMargin": 48.88,
+          "rank": 6
+        },
+        {
+          "name": "私募股权投资及另类投资",
+          "income": 512588894.2,
+          "incomeRatio": 1.42,
+          "cost": 143591832.48,
+          "costRatio": 0.62,
+          "profit": 368997061.72,
+          "profitRatio": 2.86,
+          "grossMargin": 71.99,
+          "rank": 7
+        },
+        {
+          "name": "资产管理",
+          "income": 506834850.39,
+          "incomeRatio": 1.41,
+          "cost": 492782803.52,
+          "costRatio": 2.14,
+          "profit": 14052046.87,
+          "profitRatio": 0.11,
+          "grossMargin": 2.77,
+          "rank": 8
+        },
+        {
+          "name": "抵销",
+          "income": -1613123874.89,
+          "incomeRatio": -4.48,
+          "cost": -277884668.65,
+          "costRatio": -1.2,
+          "profit": -1335239206.24,
+          "profitRatio": -10.33,
+          "grossMargin": null,
+          "rank": 9
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "公司总部及子公司",
+          "income": 27565478581.13,
+          "incomeRatio": 76.6,
+          "cost": 18797079367.71,
+          "costRatio": 81.51,
+          "profit": 8768399213.42,
+          "profitRatio": 67.86,
+          "grossMargin": 31.81,
+          "rank": 1
+        },
+        {
+          "name": "海外地区",
+          "income": 1931778006.34,
+          "incomeRatio": 5.37,
+          "cost": 1489369671.44,
+          "costRatio": 6.46,
+          "profit": 442408334.9,
+          "profitRatio": 3.42,
+          "grossMargin": 22.9,
+          "rank": 2
+        },
+        {
+          "name": "浙江",
+          "income": 1229530798.91,
+          "incomeRatio": 3.42,
+          "cost": 428366891.2,
+          "costRatio": 1.86,
+          "profit": 801163907.71,
+          "profitRatio": 6.2,
+          "grossMargin": 65.16,
+          "rank": 3
+        },
+        {
+          "name": "广东",
+          "income": 1044599665.88,
+          "incomeRatio": 2.9,
+          "cost": 472372443.16,
+          "costRatio": 2.05,
+          "profit": 572227222.72,
+          "profitRatio": 4.43,
+          "grossMargin": 54.78,
+          "rank": 4
+        },
+        {
+          "name": "北京",
+          "income": 864649591.85,
+          "incomeRatio": 2.4,
+          "cost": 306740286.78,
+          "costRatio": 1.33,
+          "profit": 557909305.07,
+          "profitRatio": 4.32,
+          "grossMargin": 64.52,
+          "rank": 5
+        },
+        {
+          "name": "上海",
+          "income": 667925606.05,
+          "incomeRatio": 1.86,
+          "cost": 264620394.07,
+          "costRatio": 1.15,
+          "profit": 403305211.98,
+          "profitRatio": 3.12,
+          "grossMargin": 60.38,
+          "rank": 6
+        },
+        {
+          "name": "国内其他地区",
+          "income": 317620136.02,
+          "incomeRatio": 0.88,
+          "cost": 195168470.23,
+          "costRatio": 0.85,
+          "profit": 122451665.79,
+          "profitRatio": 0.95,
+          "grossMargin": 38.55,
+          "rank": 7
+        },
+        {
+          "name": "湖北",
+          "income": 256705980.19,
+          "incomeRatio": 0.71,
+          "cost": 119230649.95,
+          "costRatio": 0.52,
+          "profit": 137475330.24,
+          "profitRatio": 1.06,
+          "grossMargin": 53.55,
+          "rank": 8
+        },
+        {
+          "name": "福建",
+          "income": 250942845.01,
+          "incomeRatio": 0.7,
+          "cost": 113298944.49,
+          "costRatio": 0.49,
+          "profit": 137643900.52,
+          "profitRatio": 1.07,
+          "grossMargin": 54.85,
+          "rank": 9
+        },
+        {
+          "name": "江苏",
+          "income": 233688943.54,
+          "incomeRatio": 0.65,
+          "cost": 135274798.16,
+          "costRatio": 0.59,
+          "profit": 98414145.38,
+          "profitRatio": 0.76,
+          "grossMargin": 42.11,
+          "rank": 10
+        },
+        {
+          "name": "山西",
+          "income": 208679486.65,
+          "incomeRatio": 0.58,
+          "cost": 86310299.52,
+          "costRatio": 0.37,
+          "profit": 122369187.13,
+          "profitRatio": 0.95,
+          "grossMargin": 58.64,
+          "rank": 11
+        },
+        {
+          "name": "四川",
+          "income": 207950061.48,
+          "incomeRatio": 0.58,
+          "cost": 75975468.17,
+          "costRatio": 0.33,
+          "profit": 131974593.31,
+          "profitRatio": 1.02,
+          "grossMargin": 63.46,
+          "rank": 12
+        },
+        {
+          "name": "辽宁",
+          "income": 156446197.71,
+          "incomeRatio": 0.43,
+          "cost": 108114005.1,
+          "costRatio": 0.47,
+          "profit": 48332192.61,
+          "profitRatio": 0.37,
+          "grossMargin": 30.89,
+          "rank": 13
+        },
+        {
+          "name": "河南",
+          "income": 137093638.11,
+          "incomeRatio": 0.38,
+          "cost": 66365859.76,
+          "costRatio": 0.29,
+          "profit": 70727778.35,
+          "profitRatio": 0.55,
+          "grossMargin": 51.59,
+          "rank": 14
+        },
+        {
+          "name": "安徽",
+          "income": 126026415.67,
+          "incomeRatio": 0.35,
+          "cost": 59885256.81,
+          "costRatio": 0.26,
+          "profit": 66141158.86,
+          "profitRatio": 0.51,
+          "grossMargin": 52.48,
+          "rank": 15
+        },
+        {
+          "name": "重庆",
+          "income": 124296110.56,
+          "incomeRatio": 0.35,
+          "cost": 67504058.15,
+          "costRatio": 0.29,
+          "profit": 56792052.41,
+          "profitRatio": 0.44,
+          "grossMargin": 45.69,
+          "rank": 16
+        },
+        {
+          "name": "河北",
+          "income": 120009731.27,
+          "incomeRatio": 0.33,
+          "cost": 52942974.54,
+          "costRatio": 0.23,
+          "profit": 67066756.73,
+          "profitRatio": 0.52,
+          "grossMargin": 55.88,
+          "rank": 17
+        },
+        {
+          "name": "云南",
+          "income": 107791394.95,
+          "incomeRatio": 0.3,
+          "cost": 29794613.12,
+          "costRatio": 0.13,
+          "profit": 77996781.83,
+          "profitRatio": 0.6,
+          "grossMargin": 72.36,
+          "rank": 18
+        },
+        {
+          "name": "内蒙古",
+          "income": 107129680.22,
+          "incomeRatio": 0.3,
+          "cost": 36113350.82,
+          "costRatio": 0.16,
+          "profit": 71016329.4,
+          "profitRatio": 0.55,
+          "grossMargin": 66.29,
+          "rank": 19
+        },
+        {
+          "name": "山东",
+          "income": 105188658.73,
+          "incomeRatio": 0.29,
+          "cost": 70514237.48,
+          "costRatio": 0.31,
+          "profit": 34674421.25,
+          "profitRatio": 0.27,
+          "grossMargin": 32.96,
+          "rank": 20
+        },
+        {
+          "name": "青海",
+          "income": 83123829.28,
+          "incomeRatio": 0.23,
+          "cost": 18236531.9,
+          "costRatio": 0.08,
+          "profit": 64887297.38,
+          "profitRatio": 0.5,
+          "grossMargin": 78.06,
+          "rank": 21
+        },
+        {
+          "name": "湖南",
+          "income": 70987326.85,
+          "incomeRatio": 0.2,
+          "cost": 36988072.01,
+          "costRatio": 0.16,
+          "profit": 33999254.84,
+          "profitRatio": 0.26,
+          "grossMargin": 47.89,
+          "rank": 22
+        },
+        {
+          "name": "陕西",
+          "income": 66342598.88,
+          "incomeRatio": 0.18,
+          "cost": 32006997.75,
+          "costRatio": 0.14,
+          "profit": 34335601.13,
+          "profitRatio": 0.27,
+          "grossMargin": 51.75,
+          "rank": 23
+        }
+      ]
+    }
+  ],
+  "analysis": [
+    {
+      "reportDate": "2025-12-31",
+      "businessReview": "(一)总体经营情况2025年是公司三年战略规划收官之年,在公司发展历程中具有重要的里程碑意义。面对复杂多变的外部环境,公司以党建引领凝聚发展合力,以学习教育强化思想根基,紧密遵循“专业为本、合规为先、稳中求进”经营理念,服务国家战略取得新成效,经营业绩稳中有进,资产规模稳步提升,行业地位保持稳固,圆满完成三年战略规划收官任务,为开启新一轮高质量发展奠定了坚实基础。(二)主营业务经营情况分析2025年,公司主营业务开展情况具体如下:1、财富管理业务市场环境2025年,A股回稳向好态势明显,投资者预期有效改善,市场韧性、包容性和吸引力显著增强,服务新质生产力和高质量发展不断提升。上证指数创十年新高,根据交易所数据统计,全年A股成交额为人民币420.69万亿元,日均成交额为人民币1.73万亿元,较上年增长61.7%,2025年末,A股总市值首次突破人民币100万亿元;市场融资融券余额为人民币25,407亿元,较上年末增长36.3%,其中,融资余额为人民币25,242亿元,较上年末增长36.1%,融券余额为人民币165亿元,较上年末增长58.3%。经营举措和业绩2025年,公司坚定推进具有银河特色的财富管理业务转型,以“创造多维服务价值,提升投资者获得感”为宗旨,以集约化、平台化、生态化、国际化为导向,充分践行“以生态替代业务、以场景替代营销”理念,立足全账户视角构建“标准化+个性化”的客户分层服务体系,推动“获客、活客、留客、粘客”运营闭环建设。公司不断优化产品结构、投顾结构、网点结构,着力提升综合服务生态构建和输出能力,努力形成“好产品+好服务+好品牌”业务价值体系,推进财富管理跨境一体化发展,打造“银河一家”财富管理合作生态圈,强化客户财富全旅程的保护教育,维护广大投资者合法权益,切实做好老百姓身边的理财顾问。(1)经纪业务公司积极推进零售客群管理,着力构建精细化运营模式,以渠道、场景、内容、私域为抓手,持续加大客户全旅程、全场景“线上+线下”服务触达;以数智化驱动经营提效与服务生态升级,加强北交所、ETF等细分领域服务供给,打造行业网格品牌,优化智能交易工具,全年落地23项创新产品,筑牢交易服务竞争力;深化“数字金融+”实践,聚焦人工智能等前沿技术,落地营销助手大模型应用,提升一线服务效能与运营协同水平,构建全场景数字人服务体系,累计服务客户130万人次;倾力打造“银河金熠”服务品牌,通过“星耀管理人俱乐部”“星耀领航计划”“星善计划”有效构建私募同业与专业交易生态圈;优化完善“星耀企业家办公室”服务体系,聚焦上市公司股权综合服务场景,赋能客户全球化交易及资产配置;推出TDC金耀专享策略服务,强化IB拓客模式,持续构建综合金融服务生态链。(2)金融产品销售业务公司充分把握市场发展机遇,优布局、丰策略、促增长,持续提升产品货架多样性、普惠性及可及性,持续深化覆盖线上线下、贯穿认知提升与实操陪伴的立体化服务矩阵,有效打造“银河金耀”资产配置服务品牌。公司拓展权益产品谱系,紧抓券结型公募基金机遇,聚焦指数化投资趋势,全面助力ETF发行;优化固收产品布局,加强互认基金、QDII债基、利率债基、“固收+”等特色策略供给;丰富养老等另类产品矩阵,推进建设“保障+投资+健康+养老”一体化养老金融生态圈;打造“星耀家族办公室”全球财富管理品牌,为客户提供量身定制的资产配置方案。2025年末,公司金融产品保有规模为人民币2,519.48亿元,较上年末增长19.3%;“银河金耀”资产配置规模突破人民币65亿元,较上年末增长超5倍;个人养老金累计开户超23万户,较上年末实现翻倍增长,“银河星安养”综合养老服务品牌规模突破人民币6亿元。2025年,公司荣获《中国基金报》第十届中国证券私募英华示范机构“优秀私募销售券商”。(3)投资顾问服务公司充分依托一线投资顾问近距离陪伴优势,发力投顾服务矩阵、资产配置综合能力与投研赋能,不断深化买方服务体系。公司交易端以“财富星”投顾服务为载体,多维度覆盖指数化投资客群,持续升级智能投顾策略体系;研究端强化专业赋能,升级完善覆盖全球的投研体系与大类资产配置框架,通过“投顾直播”“云端会客厅”“投顾万里行”等方式提供全方位资讯解读陪伴服务,通过CIOLetter、媒体采访、深度报告等公开发声渠道综合提升公司财富管理品牌形象;配置端以客户为中心,持续提升产品筛选、组合构建等专业能力,升级具备强产品力、高认可度和多维竞争力的“银河金耀”资产配置品牌。2025年末,公司注册投资顾问4,320人,较上年末增加264人。公司荣获2025中国证券业“投资顾问服务君鼎奖”,2025第二届“财富管理·华尊奖”最佳投顾团队奖,第八届新财富“最佳投资顾问团队”第三名、“投顾团队最佳风采奖”第二名、“卓越组织奖”,2025年“上证鹰·金理财”券商组“基金投顾奖”“投顾组织奖”等奖项。(4)信用业务公司信用业务充分聚焦功能性建设,立足守正拓新,不断深入客户、深化服务、深耕协同,多措并举推动信用业务高质量发展。公司高效应对市场变化,紧跟监管政策方向,全力保障合规展业和投资者权益;坚持以客户为中心,强化科技和专业赋能,持续为个人、企业、机构等各类客户提供差异化、精准化服务及产品;不断健全风险防控体系,提高风险管理和防范能力;持续跟踪市场动态、拓展业务外延、创新业务模式,积极推动行权融资、约定购回等创新融资服务增长;升级银河特色公共券池品牌,稳步增加券源规模;打造具有竞争力的“信用业务+X”业务集群,以股票质押为支点撬动多元化的综合金融服务,推进公司与质押客户及相关上市公司科创债发行、跨境并购、财务顾问等合作。2025年末,公司融资融券余额为人民币1,362亿元,平均维持担保比例为268%;股票质押业务待购回余额为人民币195亿元,平均履约保障比例为331%,整体风险可控。2、投资银行业务市场环境2025年,我国资本市场政策以“稳中求进、以进促稳”为总体基调,深化科创板、创业板改革,支持未盈利科技企业上市,进一步激发并购重组市场活力,推出债券市场“科技板”,有效引导金融资源投向科技前沿领域。根据Wind统计,2025年A股股权融资规模(含可转债,不含可交债及发行股份购买资产)为人民币9,415.85亿元,同比增长274.2%。其中,IPO规模为人民币1,317.71亿元,同比增长95.6%;再融资规模为人民币8,098.14亿元,同比增长339.5%。2025年,境内债券新发行规模(不含可转债)为人民币89.08万亿元,同比增长11.5%,境内并购市场整体交易规模为人民币6,850.00亿元,同比增长758.4%。经营举措和业绩2025年,公司投资银行业务紧密围绕打造“企业家信任的投资银行专家”的关键业务战略,努力践行“三化一同”体制机制,向纵深推进专业化改革,优化团队设置、补充专业人员,完善项目管理、协同拓展业务。(1)股权融资和财务顾问业务公司持续加强A股股权融资业务项目储备,提高项目承揽承做标准及综合服务能力,报告期内完成1单IPO项目、7单再融资项目,股权承销规模为人民币86.97亿元,行业排名第12;完成3单上市公司发行股份购买资产/重大资产重组项目,交易金额为人民币194.66亿元,行业排名第7;另外完成2单新三板定向发行项目。(2)债券融资业务公司积极开展业务协同,进一步发掘地方政府债、金融债、中期票据、定向债务融资工具等业务机会,债券承销规模增速高于行业平均增速。3、机构业务市场环境根据中国证券投资基金业协会统计数据,2025年末,我国境内公募基金管理机构共165家,管理的公募基金资产净值合计人民币37.71万亿元,较上年末增长14.9%;存续私募基金管理人19,231家,管理基金数量138,315只,管理基金规模为人民币22.15万亿元,其中私募证券投资基金管理人7,531家,存续基金数量80,390只,存续规模为人民币7.08万亿元,较上年末增长35.9%;根据银行业理财登记托管中心报告,2025年末,我国银行理财市场存续规模为人民币33.29万亿元,较上年末增长11.2%。经营举措和业绩2025年,公司持续完善机构客户服务生态,统筹推进“银河天弓”等品牌建设,进一步丰富优化综合服务链条,精细化不同客群服务方案,有力促进机构客户群体持续快速增长;推动科技与业务深度融合,持续巩固智能询报价、算法中心特色优势,迭代升级机构客户综合服务平台,持续提升客户服务体验。(1)主经纪商(PB)业务公司持续优化PB业务资源配置,有效提升服务能力,业内率先上线统一账户管理平台,大幅提升对内及对客交易系统运维效率。2025年末,公司PB业务各项指标均创历史新高,其中,客户数量达8,040户,较上年末增长14.3%;业务规模为人民币4,814亿元,较上年末增长38.3%;2025年,公司PB业务股基交易量为人民币5.45万亿元,同比增长52.1%。(2)场外衍生品业务公司持续推动场外衍生品业务高质量发展,一是丰富产品矩阵,增强常规结构的报价对冲能力,减少基差影响、提升服务质量;二是加快推进跨境业务基础设施建设,为客户提供便捷化交易平台和一站式解决方案,有效改善客户体验;三是持续发布多个银河自研策略指数和不同结构配套产品,满足中长期资金的风险管理需求;四是有效塑造大宗商品交易生态体系,以提供整体解决方案为目标拓展实体企业客户。(3)托管与基金服务公司始终秉持“让投资者放心,让管理人省心”服务理念,通过构建机构服务生态圈,推动全链条服务再上新台阶。业务拓展方面,公司动态研判市场趋势,精准实施差异化营销策略,持续优化业务结构,打造“托管+代销+做市+投资”内外联动的公募服务链条。运营服务方面,公司全新推出“云鼎”绩效分析平台,实现算法精度、交互体验与系统性能的全面升级,满足客户投前决策、投中监控、投后评估的全周期需求;深化AI技术应用,围绕“搜、读、录、算、写、审”六大核心场景,构建智慧运营体系,形成问答检索、要素提取、文档生成、运营建账、流程预审、估值质控等智能化创新解决方案,多环节运营效率显著提升。风控建设方面,公司创新打造专属风控矩阵,建立“识别—监控—预警—处置”全流程动态管理体系,确保业务稳健运行。2025年末,公司托管与基金服务在线产品规模为人民币2,950.81亿元,较上年末增长40.7%,其中公募产品规模为人民币169.65亿元,较上年末增长73.5%。公司连续四年通过ISAE3402国际鉴证,荣获《中国基金报》第十届中国证券私募英华示范机构“优秀私募托管成长券商”奖项。(4)权益做市业务公司坚持综合金融服务方向,不断提高交易专业能力,积极参与股票和基金做市,在提升市场流动性、活跃资本市场与服务科技创新方面发挥了重要作用。2025年末,按照做市企业/产品数量口径统计,公司科创板和北交所股票做市行业排名第4,基金做市行业排名第9。(5)研究业务公司以宏观研究带动行业研究全面发展,提升研究综合竞争力,持续推出高频数据跟踪、行业研究动态、宏观分析和策略指引等研究产品,全年发布研究报告数量同比增长10%;有效完善服务体系,成功举办“大重构大变革”深圳策略会、“新格局新供给”上海策略会、“变局·飞跃”北京策略会、人工智能与机器人产投峰会、可持续发展主题论坛等重大活动,有效扩大行业影响力;持续推进境内外研究一体化布局,积极推动研究业务协同,强化基金评价专业建设,推进基金评价业务高242025年度报告第三节管理层讨论与分析质量发展。4、国际业务市场环境2025年,港股升势延续,恒生指数领涨全球,全年上涨27.8%,市场活跃度增加,港股日均成交额为2,498亿港元,同比增长89.5%。一级市场表现畅旺,港交所IPO融资额重回全球第一,全年融资总额为6,444亿港元,同比增长235.3%,其中新股融资总额为2,858亿港元,同比增长224.8%,上市家数119家,同比增长67.6%。根据DMI统计,2025年中资离岸债市场发行规模为3,071亿美元,同比增长15.8%。2025年,东南亚核心四国股票指数涨跌互现,成交走势分化,其中新加坡海峡时报指数全年上涨22.7%,股票市场日均成交额为15亿新加坡元,同比增长21%;马来西亚吉隆坡指数上涨2.3%,股票市场日均成交额为24亿马来西亚林吉特,同比下跌21%;印度尼西亚雅加达指数上涨22.1%,股票市场日均成交额为18万亿印度尼西亚盾,同比增长38%;泰国SET综合指数下跌10.0%,股票市场日均成交额为405亿泰铢,同比下跌10%。四国一级市场有所回暖,全年融资总额为65亿美元,同比增长76%,其中IPO数量120次,同比下降12%。经营举措和业绩(1)银河国际控股2025年,银河国际控股抢抓市场机遇,聚焦主责主业,夯实发展基础,持续做强本级。财富管理业务跨境一体化协同取得新突破,落地首单全权委托账户业务及“保险+信托”产品,上线美股期权交易等新服务,成为香港联交所综合基金平台首批分销商。投资银行业务一体化展业效能有效发挥,竞争力持续提升,港股IPO保荐规模首次排名香港市场前10、参与项目数排名中资券商第4,离岸债券发行数量排名中资券商第5。资产管理业务成功发行设立首只公募基金,在优化境外资产管理产品布局、推动国际业务高质量发展方面迈出重要一步。FICC和北向跨境业务稳步推进,落地首笔黄金交易,持续做优做强资产负债表。银河国际控股获2025年度Wind最佳投行评选“最佳港股IPO全球协调人”,《中国证券报》“IPO中介机构金牛奖”“2025中国证券业境外投行君鼎奖”,2025qeubee第四届固收行业奖“中资离岸债杰出承销团队奖”,久期财经2025年度“金久期”奖“杰出承销商”,2025年DMI中资离岸债年度机构评选“年度行业影响力承销机构(券商)”“年度点心债最佳承销机构(券商)”,2025年度澳门债券市场奖项“优秀承销机构(非本地机构)”“优秀二级市场交易机构”,《财资》(TheAsset)“最佳G3债券投资机构—资管机构(中国香港)”第8名、离岸人民币和港元债券最佳投资机构(香港地区)高度推荐奖,《哈佛商业评论》(HarvardBusinessReview)“2025新增长ESG创新实践榜”。“银河星辰AI平台”获《财资》(TheAsset)年度3A数字类奖项“最佳金融人工智能项目”,“CGT-ESG债券组合”获粤港澳大湾区绿色金融联盟“绿色金融优秀案例卓越奖”、香港中国金融协会跨境金融及金融创新服务大奖“优秀方案奖”、2025向光奖“ESG影响力投资最佳实践TOP10”等。2025年度报告25第三节管理层讨论与分析(2)银河海外2025年,银河海外致力于持续深化中国与东盟资本市场合作,充分发挥桥梁纽带作用,助力共建“一带一路”高质量发展,作为唯一中资金融机构,参与协办“首届马来西亚经济论坛”“2025东盟投资论坛”“2025东盟商业论坛”等多场高层论坛活动,为中资企业“走出去”提供有力支持,成功举办“新能源中国企业链接新加坡:资本市场与财富管理新视野”等专题活动。2025年,经纪业务方面,银河海外市场优势地位持续巩固,交易金额在新加坡、马来西亚、泰国和印度尼西亚分别排名第1、第2、第5和第6。投资银行业务方面,累计完成71笔股权及债券融资交易,总规模达47亿新加坡元。投资业务方面,完成中新跨境人民币柜台债首笔交易,推动“一带一路”框架下资金融通与金融基础设施联通。研究业务方面,积极组织境外机构投资者开展“中国行调研”活动。银河海外获《阿尔法东南亚》(AlphaSoutheastAsia)年度最佳金融机构评选“东南亚最佳经纪商”“新加坡最佳中小市值企业投融资顾问”,《财资》(TheAsset)年度3A可持续金融“东南亚最佳经纪商”,《亚洲金融》(FinanceAsia)马来西亚、印度尼西亚及泰国三大市场“最佳本地券商”,泰国证券交易委员会“可持续发展奖”,泰国证券交易所杰出证券公司奖“数字化财富服务”和“机构投资者”业务卓越荣誉等,在《原“机构投资者”》(Extel)“2025年度亚洲最佳本土券商”评选中综合排名位居东盟本土券商之首,并获“马来西亚最佳本土券商”和“泰国最佳本土券商”奖项。5、投资交易业务市场环境2025年,A股结构性牛市特征明显,其中上证指数上涨18.4%、创业板指上涨49.6%、科创综指上涨46.3%、北证50上涨38.8%。境内债券市场收益率普遍上行,2025年末,10年期国债收益率1.85%,较年初上升17BP;30年期国债收益率2.27%,较年初上升36BP。其他大类资产方面,贵金属领涨商品市场,离岸人民币兑美元升破7.0关口。经营举措和业绩2025年,公司投资交易业务锚定稳中求进工作总基调,充分发挥专业投资能力,精准把握市场节奏,积极推进业务创新实践,动态调整优化资产配置结构,持续提升服务国家战略质效和风险防控能力。(1)权益投资公司坚持绝对收益目标,多资产配置组合和多策略投资体系更加完备,持续参与央行互换便利(SFISF)操作,落实推动中长期资金入市,切实发挥维护市场稳定运行作用。压舱石层面,高分红、低波动资产配置持续贡献稳定收益;弹性增强层面,主动权益投资紧抓人工智能、半导体、新能源、生物医药等产业趋势,为组合提供显著业绩弹性;互补配置层面,转债投资坚持稳中求进,挖掘泛科技、新消费等结构性机会,与纯权益资产形成有效互补。(2)固定收益投资公司坚持以风险防控为主线,持续深化投研一体,精准研判宏观经济与利率走势,动态优化投资策略布局,不断提升交易定价专业能力,稳步完善量化交易体系,高效捕捉市场结构性机遇,推动固定收益投资实现提质增效。公司多维度发挥功能性作用,做市业务持续保持领先。公司建立起覆盖全面、品种广泛的做市报价体系,银行间和交易所多个关键券种及创新产品排名市场前列;成功获批上海黄金交易所黄金做市商资格,进一步拓展做市业务版图;针对科创债拓展交易机制和服务场景,构建全方位做市服务体系,实现多项业务首创;作为债券ETF做市商,紧抓市场扩容发展机遇,协议做市业务模式成为新的增长点,市占率排名行业前二;协同共建汇金债市场,助力其一级市场发行和二级市场流动性提升,提出多项做市优化建议;积极开展“投行+投资+做市”“战略投资+做市”一二级联动业务,积极协同多个标杆项目落地。客需业务创新发展成效显著。公司聚焦客户核心需求,持续提升产品设计与交易服务综合能力,提供全面优质的综合金融服务,积极参与市场多项首单、首批创新业务,有效激发市场活力,公司行业影响力与品牌认可度持续提升。报价回购业务积极协同其他条线展业获客,客需产品发行期数、发行规模均创历史新高,利率互换、标准债券远期、标准利率互换、债券篮子等业务排名稳居市场前列。机构债券投顾继续聚焦客户拓展和业务创新,以业绩破局的投顾路线驱动业务规模与口碑双增长,实现新增银行理财子公司签约落地,专业投顾服务赋能乡村振兴构建良性金融生态。跨境一体化投资实现跨越式发展。公司稳步加大境内外投资布局,跨境业务规模和业务品种实现翻倍式增长,跨境业务核心竞争力不断增强,取得首批互联互通“南向通”业务资格,有效推动人民币国际化进程;建设银河固定收益业务在东南亚的特色国际化品牌,与银河海外共建自营交易台,发挥全球投资视野和“一带一路”专业优势,建立收入增长新引擎。坚持金融科技赋能与业务发展深度融合,金融科技成果斩获多项行业重量级奖项。“基于AI技术的债券询报价机器人”项目入选中国证监会金融科技创新试点,获评新华社2025博鳌论坛“金融新质生产力优秀实践”,“基于大小模型混合架构的协商交易机器人”获双态IT论坛“2025首届中国式IT管理创新奖”等。公司获评2025年度上交所“优秀债券交易机构”“优秀债券投资机构(自营类)”,深交所“债券交易先锋机构(券商自营类)”,交易中心“科技创新债券活跃做市商”“活跃篮子报价机构”,中央结算公司“自营结算100强”“估值业务杰出机构”,上海黄金交易所“年度优秀特别会员”“年度最佳竞价交易会员”“年度最佳竞价交易自营会员”“年度最佳竞价流动性提供会员”,2025qeubee第四届固收行业奖“最具影响力交易团队奖—公募REITs、ABS、海外债”“离岸地区年度FICC卓越团队大奖”,第十届CNABS金桂奖“市场领先ABS投资机构奖—优先级和次级”“市场领先REITs投资机构奖”,2025年不动产证券化前沿“年度最佳投资机构”,DM金融终端“一带一路债市领航奖—跨境团队”“多资产投资年度卓越团队”“卓越创新产品投资团队”等奖项。6、母子公司一体化业务(1)期货及衍生品业务市场环境2025年,伴随全球经济增速放缓、贸易保护主义抬头和地缘冲突频发,实体经济对风险防控的需求刚性增长,“十五五”规划建议首次明确提出“稳步发展期货和衍生品市场”,顶层设计指明奋进方向,衍生品市场迎来历史性机遇。其中,期货市场整体发展更加成熟,并处于高质量转型的关键阶段,其价格发现、风险管理与资产配置功能获得行业广泛认同,为服务实体经济筑牢了坚实的市场基础。根据中国期货市场监控中心公告,2025年我国期货市场资金总量和期货公司客户权益均突破人民币2万亿元,2025年末,全市场有效客户总数达278万,较上年末增长11%。根据中国期货业协会统计,以单边计算,2025年全国期货市场累计成交量90.74亿手,累计成交额为人民币766.25万亿元,分别同比增长17.4%、23.7%。经营举措和业绩期货经纪业务专业化、全链条服务能力持续提升。不断健全交割服务体系,黑色系、油品类专业优势持续巩固,焦煤、焦炭、铁矿等品种交割量稳居行业首位。客户结构持续优化,产业客户占比稳步提升并向头部集聚,金融机构客户有效扩容,国际客户方面加速补短板,其中QFII客户数量快速增长,与银河海外合作有序开展。持续培育赋能实体企业,与交易所合作推进“强源助企”“稳企安农”等重点项目52个,联合实体企业成功申请产融基地17家,成功开展市场首单以银行承兑汇票作为履约保障品的跨境收益互换业务。“保险+期货”模式持续创新。2025年,业务覆盖生猪、玉米等9类农产品共27.78万吨,产生赔付人民币2,437.28万元,惠及农户6.99万户;连续8年实施静宁苹果项目,报告期内为静宁县多渠道引入无偿帮扶资金人民币2,006.73万元,同比增长35.2%。以特定降水量指标和玉米价格下跌作为赔付触发条件,内蒙古首单玉米“气象+期货”创新保期项目获《期货日报》2025年“期货赋能产业创新奖”。期货资产管理业务发挥专业优势,打造差异化竞争壁垒。坚持“多策略体系”发展建设,在巩固传统固收产品线基础上,加速创新多元化产品线布局,落地贵金属跨境套利、全天候大类资产配置指数、大宗商品被动指数、网格指数交易策略等创新产品,“含期含权”能力建设进一步彰显。2025年末,期货资产管理规模为人民币214.7亿元,较上年末增长92.8%。银河期货投研竞争力持续提升,创新发展动能夯实。在宏观金融、金工量化、大类资产配置等关键领域吸引和培养高素质投研人才;升级分类分层投研服务,上线“银河慧眼”投研小程序,提升业务服务效能和客户满意度;为实体企业提供从套期保值方案到交割流程指导等一站式服务体系,交易咨询业务呈显著增长态势。银河期货研究所获《期货日报》和《证券时报》联评“中国金牌研究机构”奖项。银河期货大力推动科技赋能,升级维护交易环境。持续完善套保风险管理系统、投研数据平台建设,探索AI在线上投资咨询产品设计方面的应用,提升客户服务与风险管理效能;扩容优质机房机柜,增强低延时线路竞争能力,配套搭建交易性能评测平台,为客户提供更可靠、更高效的交易环境;核心系统架构高可用性能力建设取得突破,完成大模型平台信创改造,算力利用率提升20%,AI敏捷开发新范式初步形成,多业务场景响应效率提升40%。银河德睿作为银河期货风险管理子公司,其场外衍生品业务充分利用AI技术升级业务交互智能模型,通过智能对话提升沟通灵活性及用户体验感,跨境自动交易系统新增多个国际主要交易所,显著扩展交易品种,以满足客户多样化需求。期现业务推进新能源、铁合金等重要板块渠道建设,不断强化人才储备、优化区域布局、拓展客户范围、完善业务体系。做市业务自主研发做市系统,大幅提升报价效率和系统响应能力,逐步构建技术自主的竞争优势。(2)证券资产管理业务市场环境2025年,我国金融改革持续深化,资产管理行业在坚守“受人之托、代人理财”本源定位下稳健发展,内涵式转型成效显著。券商资管在主动管理、积极布局权益市场、完善多元资产配置方面持续发力,促进产品结构优化与行业资产管理规模稳中有升。根据中国证券投资基金业协会统计数据,2025年末,证券公司及其资管子公司私募资管产品存续规模为人民币5.80万亿元(不含社保基金、企业年金),较上年末增长6.1%。根据Wind数据,证券公司及其资管子公司公募基金资产净值为人民币1.05万亿元,较上年末下降14.5%。经营举措和业绩银河金汇聚焦高质量发展主线,锚定构建体系化能力的战略重心,全面提升经营治理和业务发展质效,业务结构不断优化。一是多维度强化投研能力,不断丰富“固收+”多策略解决方案,满足主流客群对于稳健收益的需求;紧跟市场和行业发展趋势,加大权益细分领域策略研究和产品转化,推动形成“特色策略+核心赛道+全球配置”的权益主题策略矩阵;完善产品业绩归因分析评估体系,注重投资管理的价值创造和风险管控,推动产品业绩整体延续向好态势,产品竞争力持续增强。二是一体化运营能力稳步提升,在巩固原有“投资—交易—运营—风险”协同联动基础上,深入实施流程优化、效率提升专项工作,基于业务场景进行系统整合和外延扩展,整体运营质效进一步增强。三是进一步优化投资者服务,通过打造“陪伴式”全生命周期服务体系,完善精准化的产品遴选机制,以增强产品供需适配,提升客户价值体验。四是强化协同赋能,积极践行”一个银河”理念,推动与多个业务条线高效联动、形成合力,为投资者提供综合全面的解决方案,增强机构服务竞争能力。银河金汇荣获2025中国证券业资产管理“固收团队”“固收资管计划”“量化资管计划”君鼎奖,《财联社》2025“金榛子”全球资产管理年会暨卓越案例评选“券商优秀固收资管计划”,《中国基金报》第九届中国券商英华奖“券商资管优秀产品示范案例(三年期FOF)”,《中国证券报》2025证券公司集合资管计划金牛奖“金牛券商集合资产管理人”等奖项。2025年末,银河金汇受托资产管理规模为人民币907.02亿元,较上年末增长6.5%,产品数量239只。(3)另类投资业务市场环境2025年,中国股权投资行业经历周期性调整后呈现新趋势,其中募资端和投资端温和回暖,IPO退出预期改善,私募股权二级市场基金(S基金)和并购等退出路径保持活跃,一级市场整体情绪升温。股权投资呈现“国资领投、产业跟投、金融助力”格局,市场从规模扩张转向精准赋能,硬科技与新兴产业成为资本聚焦方向。经营举措和业绩股权投资方面,银河源汇坚持服务国家战略导向,聚焦科技自主创新关键领域,加力布局新质生产力:参与国家创业投资引导基金京津冀基金出资,投融资一体化和业务协同层级进一步提升;重点关注国家重大科技项目、战略性新兴产业和未来前沿型企业,多渠道全周期布局细分领域龙头企业,敏锐捕捉重要产业链关键环节投资机会,2025年新增批准投资金额人民币9.45亿元;努力做好“耐心资本”,投后积极为企业增值赋能,助力被投企业上市及并购重组,多家被投企业取得融资、经营和技术新突破。金融产品投资方面,银河源汇坚持稳健资产配置原则,积极构建中长期优质投资组合,兼顾风险收益比及资金流动性,持续优化投资策略和布局。(4)私募股权投资管理业务市场环境根据中国证券投资基金业协会统计,2025年末,中国证券投资基金业协会存续私募股权/创业投资基金管理人11,523家,管理私募股权/创业投资基金57,162只,基金规模为人民币14.77万亿元,较上年末增长3.3%。2025年,私募股权/创业投资基金备案呈现回暖态势,新增备案基金1,747只,新增备案规模为人民币0.47万亿元。经营举措和业绩银河创新资本充分发挥私募股权基金作为长期资本、耐心资本的独特优势,有力支持高水平科技自立自强和新质生产力发展,2025年新增备案基金9只,规模合计人民币62.55亿元,新增投资项目和子基金16个,规模合计人民币17.52亿元,其中科技领域项目投资金额同比增长619.3%,服务国家区域协调发展战略投资金额进一步提升。2025年末,银河创新资本在管基金32只,备案总规模为人民币364.79亿元,基本实现国家战略重点区域的有效覆盖。2025年,银河创新资本旗下海南自贸港建设基金获得融中2024-2025年度有限合伙人榜单“最佳政府引导基金TOP30”,母基金研究中心2025年度榜单“最佳政府引导基金(省级)TOP30”等荣誉。",
+      "futureExpect": "(一)行业格局和趋势2026年是“十五五”规划开局之年,在贸易摩擦、地缘博弈、供应链重构的持续扰动下,全球经济运行呈现曲折复苏、冷暖分化格局,我国经济保持强大韧性和发展潜力,内生动能稳步增强,创新驱动模式进一步巩固。中央经济工作会议明确提出持续深化资本市场投融资综合改革,伴随更加积极的财政政策和适度宽松的货币政策显效发力,A股市场延续慢牛长牛基础愈发坚实,债券市场保持“低利率、高波动”特征,大宗商品迎来新一轮“超级周期”,人民币汇率确定温和升值趋势。证券行业正迈入一个盈利上行、格局进化和估值修复的良性发展周期,核心业务持续受益于资本市场景气度提升,整体经营态势和增长潜力向好。在“加快打造一流投资银行”政策推动下,聚焦专业能力与经营效率提升,证券行业集中度提升路径清晰,头部机构进一步做强做优,中小机构加快特色发展,推动差异化竞争格局成型。(二)公司发展战略2026年是公司2026-2030年战略发展规划的开局之年,公司开启全面建设一流投资银行新征程,继续推动高质量发展,以服务实体经济为宗旨,以改革创新为动力,以全面从严治党为根本保障,推动质的有效提升和量的合理增长,稳步提升市场引领力与国际竞争力。(三)经营计划公司将坚决落实党中央、国务院重大决策部署,落实中投公司工作要求,践行金融工作政治性、人民性,把握“强大的金融机构”丰富内涵,全面构建一流投资银行核心能力,实现“十五五”发展新阶段顺利开局。在服务国家战略方面,深刻把握中国特色金融发展之路“八个坚持”基本要义,坚持人民至上,以践行金融工作人民性为本质要求,以服务国家战略为核心任务,聚焦金融“五篇大文章”,构建精准适配的国家战略服务体系,提升服务实体经济质效。在业务经营方面,立足巩固财富管理、投资交易等业务优势,提高投资银行、资产管理、机构、研究、国际等业务市场地位,打造长期可持续的经营模式,形成更加均衡的业务结构。财富管理业务坚定不移站稳人民立场,持续推进全球买方投顾服务体系建设,着力提升综合金融服务能力。资产管理业务以“精品策略+科技赋能”为抓手构建差异化竞争优势,提升经营管理和业务发展质效。投资银行业务夯实专业化基础,持续推进专业化改革,提升融资业务竞争力,深化区域网络优势,强化国际布局力度,加强人才队伍建设。投资交易业务固定收益类投资进一步稳固收益,提升做市等客需竞争力,优化权益类投资绝对收益目标实现路径,实现稳健综合投资回报。机构业务完善机构销售服务体系,强化全链条服务统一输出能力,提升研究服务水平和业务影响力,丰富托管外包与PB业务等个性化增值服务。国际业务积极把握境外资本市场发展机遇,夯实发展基础,努力提升银河国际控股和银河海外竞争力,构建公司国际化发展生态体系。境内子公司做强做优主责主业,强化业务协同和资源对接,持续提高市场竞争力和盈利能力。"
+    },
+    {
+      "reportDate": "2024-12-31",
+      "businessReview": "(一)总体经营情况2024年,面对复杂多变的市场环境,公司以习近平新时代中国特色社会主义思想为指导,坚持和加强党的全面领导,牢记金融报国使命,保持战略定力,坚定发展信心,一体推进谋经营、促改革、强管理、防风险等各项工作,主营业务争先进位,高质量发展扎实推进。公司坚持功能性首位,聚焦主业提质增效,“五位一体”业务格局全面发力,财富管理业务优势持续巩固,投行专业化改革成效显现,机构业务服务覆盖面不断扩大,国际业务境内外融合成果突出,投资交易业务收益回报良好,子公司经营保持稳健;公司坚持全面深化改革,加快数字化平台化建设,拥抱信息技术变革新机遇,持之以恒推进全面协同,“三化一同”体制机制落地见效;公司厚植文化底蕴,大力弘扬践行中国特色金融文化,构筑银河文化“六大支撑体系”,持续讲好银河文化故事,企业发展动能更加强劲;公司强化全面风险管理,完善合规内控体系,加强境外机构管理改革,不断构建完善“看得清、够得着、管得住”的子公司管理体系,稳健发展的安全屏障不断筑牢。2024年,公司经营业绩稳健增长,行业地位保持稳固,实现集团口径营业收入人民币354.71亿元,同比增长5.43%,归属于母公司股东的净利润为人民币100.31亿元,同比增长27.31%;资产规模稳步提升,截至报告期末,集团口径总资产为人民币7,374.71亿元,归属于母公司所有者权益为人民币1,404.81亿元,为实现由传统券商向现代投行转变的战略目标打下了坚实的基础。(二)主营业务经营情况分析公司主营业务分为财富管理业务、投资银行业务、机构业务、国际业务、投资交易业务和其他母子公司一体化业务。报告期内,公司主营业务开展情况具体如下:1.财富管理业务2024年,公司财富管理业务紧密围绕做好“老百姓身边的理财顾问”战略目标,通过强化业务引领与专业赋能,以综合金融服务为抓手,全方位提升客户黏性和服务体验。通过加大优质适配的金融产品创新供给力度及买方投顾服务矩阵建设力度,促进客户价值深度挖掘和转化,形成普惠金融差异化优势;坚持以投资者为本,扎实开展投资者保护教育,有效维护投资者合法权益,助力守护好老百姓“钱袋子”;持续围绕客户需求打造一体化服务生态,提供专业创新的综合金融服务和财富解决方案。(1)零售经纪及财富管理业务2024年,A股市场先抑后扬,特别是9月末以来,伴随一揽子提振资本市场的政策部署加速落地,市场主要指数触底反弹、震荡上行,市场活跃度和交易量显著提升。根据交易所数据统计,上交所、深交所及北交所三市全年股票基金交易量(不含沪股通、深股通、交易型货币基金)约人民币272.08万亿元,日均股票基金交易量为人民币1.12万亿元,同比增长23.3%。2024年,公司持续夯实零售客群基础,巩固交易服务优势,优化“获客、活客、黏客、留客”全流程闭环管理,积极稳慎推进多渠道合作,加速客户全旅程、全场景、“线上+线下”服务触达。在有效落实投资者适当性管理和投资者准入要求基础上,充分发挥营业网点和注册投资顾问近距离专业陪伴优势。借助金融科技赋能,创建并完善“客户双生命周期”分层服务体系,上线“客户数字化运营平台”,精确匹配服务资源和金融产品。迭代升级交易服务体系,打造个性化、精细化的客群经营与管理模式,不断推动零售经纪及财富管理业务持续高质量发展。2024年末,公司客户总数超过1,730万户,托管证券总市值人民币5.09万亿元;注册投资顾问4,056人,较2023年末增长6.8%。(2)金融产品销售业务根据中国证券投资基金业协会统计数据,2024年末,我国境内公募基金管理机构管理的公募基金资产净值为人民币32.83万亿元,较2023年末增长19.0%。2024年,公司积极顺应市场需求变化,紧跟权益类指数产品投资趋势,聚焦ETF基金热点,优选固定收益类产品,持续提升客户覆盖度与金融产品保有规模。坚持完善“养老金融”服务体系,推出“银河星安养”综合养老服务品牌,打造“保障+投资+健康+养老”一体化养老综合金融服务,持续丰富养老产品货架,不断探索商业养老金业务新模式;投资顾问聚焦深化买方服务,推进体系化配置方案输出,打造人才梯队并创新推出“分布式”投顾服务,加快发展ETF和线上智能投顾;公司持续优化以资产配置服务为核心的“银河金熠”高净值客户服务品牌,满足客户资产配置和财富传承等多元需求;加强智能化工具专业赋能,升级公司自研投顾平台“G-Winstar”(问TA系统),营销服务体系持续完善。2024年,公司金融产品销售规模超过人民币800亿元。2024年末,公司金融产品保有规模为人民币2,111.17亿元,较2023年末增长7.8%,个人养老金累计开户超过10万户,“银河金熠”累计签约客户超过7,400人,“金耀”资产配置系列产品规模突破人民币10亿元。(3)信用业务根据Wind统计,2024年末,市场融资融券余额为人民币18,646亿元,较2023年末增长12.9%。其中,融资余额为人民币18,541亿元,较2023年末增长17.4%;融券余额为人民币104亿元,较2023年末下降85.4%。2024年,公司信用业务全面聚焦服务国家战略,充分运用信用业务工具服务实体经济,立足守正创新,不断深入客户、深化服务、深耕协同,多措并举推动信用业务高质量发展。公司高效应对市场变化,紧跟监管政策方向,全力保障合规展业和投资者权益;坚持以客户为中心,切实践行金融为民,强化科技和专业赋能,持续为个人、企业、机构等各类客户提供差异化、精准化服务及产品;不断健全风险防控体系,提高风险管理和防范能力;持续跟踪市场动态、拓展业务外延、创新业务模式,积极推动融资类新业务的增长;打造具有竞争力的“信用+X”业务集群,为上市公司及其股东、各类专业投资机构提供多元化的综合金融服务。2024年末,公司融资融券余额为人民币921亿元,平均维持担保比例为255%;股票质押业务待购回余额为人民币203亿元,平均履约保障比例为280%,整体风险可控。2.投资银行业务2024年,资本市场在政策引领下进一步深化改革,持续推进高质量发展。根据Wind统计,2024年A股市场股权融资规模为人民币2,904.72亿元,同比下降73.6%。其中,IPO融资规模为人民币673.53亿元,同比下降81.1%;再融资规模为人民币2,231.20亿元(不含可交债),同比下降70.0%。2024年,我国境内债券新发行规模为人民币79.86万亿元,同比增长12.4%。2024年是公司三年战略发展规划的攻坚之年,公司投资银行业务以战略规划为引领,不断加强专业能力建设,充分发挥“功能性”作用,聚力打造现代一流投行。(1)股权融资和财务顾问业务公司持续加强A股股权融资业务项目储备,着力提高项目承揽承做标准及综合服务能力。2024年,公司实现1单IPO项目超研股份经中国证监会注册通过,2025年1月22日该公司在深交所创业板成功上市;完成再融资项目1单、新三板推荐挂牌项目6单、新三板定向发行项目2单;公告并购重组财务顾问项目4单,交易金额为人民币186.67亿元,行业排名第8。(2)债券融资业务公司积极开展业务协同,进一步发掘地方政府债、金融债、短期融资券、定向融资工具和中期票据业务机会,债券承销规模增速高于行业平均增速。根据Wind统计,2024年,公司债券承销规模为人民币4,833.43亿元,同比增长34.65%,行业排名第7。其中,地方政府债承销规模为人民币2,863.53亿元,行业排名第5;金融债承销规模为人民币987.86亿元,行业排名第11;中期票据承销规模为人民币410.13亿元,行业排名第8。2024年,公司获评《证券时报》“2024中国证券业服务民营企业项目君鼎奖”,第十七届新财富“最佳债权承销投行”、“最具潜力投行”,第九届CNABS“金桂奖”最佳绿色金融产品奖,第十届中国资产证券化论坛(CSF)“年度杰出机构”,第六届Wind最佳投行“最佳中国并购重组财务顾问”、“最佳信贷ABS承销商”、“最佳港股IPO账簿管理人”,iFinD2024金融机构评选“中小企业优质服务投行”等奖项。3.机构业务根据中国证券投资基金业协会统计数据,2024年末,我国境内公募基金管理机构管理的公募基金资产净值为人民币32.83万亿元,较2023年末增长19.0%;存续私募基金管理人20,289家,管理基金数量144,155只,管理基金规模为人民币19.91万亿元,较2023年末下降3.3%。2024年,公司持续完善机构服务生态,统筹推进“银河天弓”、“星耀企业家办公室”和“星耀私募管理人俱乐部”等服务品牌建设,有效促进机构客户群体增至5,200家以上,同比增幅超25%;不断强化业务特色,推动科技与业务深度融合,推出银河天弓Web门户2.0、银河天弓APP,进一步优化迭代机构客户综合服务链条,实现衍生品业务全流程线上化重构,极大缩短业务办理周期;利用智能体改造现有大模型机器人,衍生品业务实现询价下单一站式服务,托管业务问答库准确率达到98%,有效提升客户服务体验。(1)主经纪商(PB)业务2024年,公司持续优化PB业务资源配置、迭代交易链路,推出量化投顾低延时交易解决方案,上线北交所固收、报价回购、柜台场外基金交易业务,以金融科技赋能专业策略,在稳定算法中心核心优势基础上全新打造自研策略中心,持续提升客户交易体验。2024年末,PB业务客户数量达7,036户,较2023年末增长12.8%;业务规模为人民币3,481亿元,较2023年末增长11.0%;2024年PB业务股基交易量为人民币3.58万亿元,较2023年增长23.3%。(2)场外衍生品业务2024年,面临剧烈波动的市场行情,公司着眼于提升核心竞争力和客户体验,迭代完善业务系统,立足中长期资金的风险管理需求,不断发挥权益类衍生品的套期保值和风险对冲功能,积极响应服务实体经济和产业客户经营需要;加强部门间、业务间协同,多元化促进场外业务均衡发展,上线并发布多个银河自研策略指数,提高服务中长期资本能力;利用公司海外机构的销售网络和跨境交易能力,持续拓展优化产品结构和业务模式,吸引海外投资者投资国内市场。(3)托管与基金服务2024年,公司继续践行“让投资者放心,让管理人省心”的服务宗旨,持续发挥平台优势,积极融入“银河天弓”机构业务生态圈,完善建设“智托星”服务子品牌。公司顺利完成新一代托管核心系统切换,多环节运营效率显著提升;依托智慧运营推动创新,资金申赎利用效率、ETF补券数据发送效率再创新高,率先实现自动化穿透监控并引入大语言模型智能客服;集成“云帆”运营平台、“观星”风控平台、运营监控看板和智能助手,打造创新风控矩阵,全面提高运营质量、服务能力和内控水平。2024年末,公司托管与基金服务业务规模为人民币2,097.11亿元,产品数量4,056只。公司托管业务连续三年通过ISAE3402国际鉴证,连续两年荣获《中国基金报》英华奖“优秀私募托管成长券商示范机构”。(4)权益做市业务2024年,公司坚持综合金融服务方向,持续拓展业务范围,不断提高做市交易专业能力,积极参与上市基金做市、科创板和北交所股票做市,在提升市场流动性、活跃资本市场与服务科技创新方面发挥了重要作用。2024年末,按照做市企业/产品数量口径统计,公司科创板做市行业排名第4,北交所做市行业排名第4,基金做市行业排名第10(含非权益做市业务)。(5)研究业务2024年,公司以宏观研究带动行业研究全面发展,推进境内外研究一体化布局和协同探索实践,持续完善研究产品和服务体系,不断提升研究队伍综合竞争力。公司整合研究力量积极服务国家战略,及时解读政策趋势,围绕“金融强国”发挥研究专业优势,助力做好“五篇大文章”;成立新发展研究院,聚焦“新发展理念、新发展格局、新质生产力”,致力打造具有全球视野的现代资本市场高端智库;成功举办中期投资策略报告会,通过研究报告、专项课题、实地调研、路演交流、研究沙龙、媒体发表、电话会议等多种方式,积极拓展与服务外部机构投资者,提高服务频次,提振市场信心;强化基金评价专业建设,服务国家公募基金基础数据建设,启动私募证券投资基金评价业务,拓展私募行业规范化服务,进一步发挥基金评价机构专业价值和引领作用,优化企业年金和职业年金投资规划、投资监督、投资评价的系统与模型建设,持续加强基金投顾策略管理的基金池研究评价。2024年,公司荣获第二十一届新财富最佳分析师评选“最佳ESG实践研究机构”,第四届21世纪金牌分析师评选“海外投资最佳研究机构”、“服务高质量发展最佳首席经济学家”,第十二届Wind金牌分析师评选“最受欢迎机构”、“进步最快研究机构”、“最佳北交所研究机构”等奖项。4.国际业务2024年,港股市场反弹回升,恒生指数较年初上涨17.7%;日均成交额1,318亿港币,同比增长25.5%;融资活动有所回暖,融资总额1,903亿港币,同比增长26%,其中新股融资总额875亿港币,同比增长89%。东南亚核心四国市场融资活动疲弱,股票指数涨跌互现,成交走势分化,融资总额35.9亿美元,同比下降37.6%;IPO数量135次,同比下降15.6%。(1)银河国际控股2024年,银河国际控股持续深入落实集团战略规划,围绕“五位一体”、“三化一同”发展思路,锚定“国际市场综合的业务提供商”发展目标,坚持聚焦主责主业,持续加强内地、香港、东盟多地联动,积极抢抓跨境业务机遇,不断推动高质量发展。财富管理方面,积极打造一站式、全链条数字金融服务平台,获得首批跨境理财通2.0券商试点资格,为境内外客户提供覆盖50个国家和地区、5大资产类别、500只公募基金的全球化资产配置服务;投资银行方面,境内外一体化展业效能不断彰显,竞争力持续提升,2024年完成23个港股IPO项目,承销278个境外债项目,参与发行158只离岸人民币债券;资产管理方面,打造全品类境外资产管理产品矩阵,设立跨境中国CTA基金,为国际资本投资内地大宗商品和金融期货市场提供创新性便利渠道。2024年,银河国际控股荣获《财资》(TheAsset)年度3A级数字经纪商大奖、离岸人民币债券最佳投资机构(香港地区)高度推荐奖等多项大奖,《亚洲银行家》(TheAsianBanker)年度最佳财富管理科技实践大奖,第五届国际金融论坛(IFF)“全球绿色金融奖创新奖”,香港中国金融协会卓越跨境金融服务大奖一等奖,澳门债券市场“优秀承销机构(非本地机构)”,中证科技中资离岸债年度机构评选“年度卓越承销机构”、“年度业务创新”等奖项。(2)银河海外2024年,银河海外完成品牌重塑并持续巩固在东南亚核心市场的领先地位,作为唯一中资金融机构参与协办马来西亚政府主导的“吉隆坡20科技大会”,举办“2024中国银河东南亚双向投资论坛”和首届东盟双碳金融中心网络研讨会,发布首份可持续发展报告,致力于成为中国-东盟纽带并推动“一带一路”绿色发展。经纪业务方面,银河海外在东南亚核心区域继续保持优势地位,在马来西亚、新加坡、印度尼西亚和泰国的市场排名分别为第1、第3、第4和第6,在马来西亚和新加坡的经纪业务市场份额均超过10%;投资银行业务方面,股权和债券累计完成45笔交易,规模达7.22亿新加坡元,主导泰国信贷银行IPO,募集资金达73.7亿泰铢(约2.07亿美元),是近年来泰国市场规模最大的IPO项目;结构化产品方面,推出股票挂钩投资票据、信用挂钩票据及权证产品,覆盖东盟核心市场,持续强化产品竞争力;搭建创新投资平台方面,携手战略伙伴推出UP交易平台并致力于拓展东盟地区年轻投资者群体,开创了马来西亚证券交易所零股交易先河。2024年,银河海外荣获《阿尔法东南亚》(AlphaSoutheastAsia)最佳金融机构“东南亚最佳经纪商”、《财资》(TheAsset)年度3A级可持续金融奖“东南亚最佳经纪商”等多项大奖,成功完成泰国截至2024年最大规模次级混合债券发行项目,并获得《阿尔法东南亚》(AlphaSoutheastAsia)“2024年度最佳永续债券发行项目”奖项,在《机构投资者》(InstitutionalInvestor)亚洲地区最佳本土经纪商评选中获得21项第1,上榜分析师人数在东盟券商中位列第1。5.投资交易业务2024年,上证指数、深证成指、创业板指和沪深300指数分别较2023年末上涨12.7%、9.3%、13.2%和14.7%;境内债券市场收益率持续下行,2024年末,10年期国债收益率1.68%,较年初下降88BP;30年期国债收益率1.91%,较年初下降91BP。公司投资交易业务坚持稳中求进工作总基调,发挥专业投资能力,及时把握市场节奏,积极开展业务创新,调整优化资产配置,服务国家战略和风险防控能力持续提升。公司大力发展基于客需的创新类投资交易业务,以研究、交易、风险管理能力为依托,提升产品设计及交易服务综合能力,为客户提供一揽子优质多元的金融服务方案。(1)权益投资2024年,公司积极落实服务国家战略相关投资理念,持续完善多资产、多策略、均衡配置权益投资框架,强化中性和指数增强策略,不断提升各资产、行业、风格和单一股票间的整体再平衡能力。公司积极参与互换便利(SFISF)操作,有效提升权益投资规模,为A股市场带来新的增量资金,充分发挥耐心资本和压舱石作用,维护资本市场稳定,提振投资者信心;有效投资支持半导体产业链核心节点企业,从自身投研优势出发,深入挖掘科技创新领域,助力企业突破技术研发瓶颈,以实际行动助力科技强国和产业升级战略布局;高股息专项投资始终顺应资本市场改革方向和经济转型需求,将社会责任和企业经营目标相结合,积极助力“一带一路”发展和服务高水平对外开放。(2)固定收益投资2024年,公司秉持审慎稳健的投资策略,不断优化固定收益持仓结构,提高交易定价核心能力,积极打造FICC量化交易体系,有效提升量化策略的广度和深度。公司积极拓展大宗商品业务范围,获批碳排放权交易资格、上海黄金交易所做市商资格和银行间市场信用违约互换尝试报价机构资格,为投资交易多元化发展打下坚实基础;创新“发行+投资+做市”联动模式,银行间做市业务取得跨越式发展,依托自研智投平台,多市场多品种做市成交量位居市场前列;积极开展境内外投资布局,推进落实公司跨境业务发展战略,加强与海外子公司高效联动,发挥境内外一体化协同效能,助力银河海外获批债券通(北向通)业务资格、银河国际获批上海黄金交易所黄金国际会员资格,进一步夯实公司国际化发展基础;积极探索创新,发布国内首只“一带一路”主题债券指数,推出市场首个聚焦服务新开发银行熊猫债篮子,作为唯一金融机构与中国外汇交易中心携手举办2024年北京站“外滩夜话”主题活动;持续推进“表内+产品”投顾业务模式,逐步建立起银河品牌;充分开展战略协同,积极自主投标投资银行条线主承销或参团债券项目,力促公司整体高效共赢,“金自来”业务协同财富管理条线展业获客,助力公司区域管理改革试点取得良好成效;坚持专业驱动与科技赋能,策略迭代能力和智能化程度大幅提升,达成市场首笔挂钩“CFETSESG高等级信用债(总收益)指数”的互换交易,申报项目《基于AI技术的债券询报价机器人》入选中国证监会科技司和国家数据局首批11个“数据要素x资本市场”试点,在中国外汇交易中心创新推出行业首家“银河地方债旗舰店”一站式智能服务平台,面向市场提供地方债一站式投资资讯、债券发行和二级市场交易等综合服务。2024年,公司创设的“30年期活跃地方债联合报价篮子”、“CFETS-银河证券0-5年期一带一路债券指数篮子”、“银河证券新开发银行熊猫债篮子”获评中国外汇交易中心活跃篮子。公司荣获中国外汇交易中心“年度市场影响力机构”、“市场创新业务机构”,上交所债券市场2024年度“优秀投资机构(自营类)”、“优秀债券做市商(国债、地方债、信用债)”,中央结算公司2024年度“自营结算100强”,上海黄金交易所“2024年度优秀特别会员”、“2024年度最佳竞价交易自营会员”称号,qeubee第三届固收行业奖“投资机构最具影响力团队奖”、“做市机构最具影响力团队奖”、“交易机构最具影响力团队奖”、“中资美元债优秀投资机构”,第九届CNABS“金桂奖”市场领先投资机构奖、市场领先公募REITs机构奖,2024不动产证券化前沿奖“年度最佳投资机构”、“年度优秀团队”等奖项。6.其他母子公司一体化业务(1)期货业务2024年,我国期货行业坚持守正创新,依托统一大市场建设和多元化业务模式,自律监管、风险管理和服务实体经济能力持续提升,市场品种体系不断完善,整体规模和客户权益稳健增长,在稳定企业经营、活跃商品流通、服务保供稳价等方面发挥了积极作用。根据中国期货业协会统计,2024年,我国期货市场累计成交量为77.29亿手,同比下降9.1%,累计成交额为人民币619.26万亿元(单边),同比增长8.9%;2024年末,期货市场资金总量约人民币1.63万亿元,较2023年末增长8.3%。银河期货坚持传统经纪业务与创新衍生品业务双轮驱动,场内场外业务、期货现货业务协同发展,持续构建零售客户标准化、机构客户专业化服务体系,通过深度融入产业供应链,不断提升机构客户综合服务水平和业务发展质效,2024年商品期货交割量排名市场第3。坚持差异化期货资管业务定位,在强化巩固固收产品线基础上继续扩大“权银河系列”规模,2024年末,资产管理规模达到人民币111.35亿元。持续推动数字化转型,2024年落地执行多项智能化系统,助力业务效率不断提升;通过快速搭建业务场景,结合数据中台整合优势,业务敏捷需求得到高效响应,持续优化客户服务体验。积极践行服务实体经济、助力乡村振兴的使命担当,有效发挥保障农户收入、优化农业风险管理方式的积极作用,牵头全国范围内唯一的郑州商品交易所花生收入险县域覆盖项目,该项目总保费为人民币1,221.64万元,覆盖33个乡镇31,198户农户,投保面积109,075亩,承保数量21,815吨,保障成效居国内首位,是继甘肃省静宁苹果业务模式后可借鉴复制、可持续推广的又一生动实践,荣获青岛市金融创新奖。银河德睿作为银河期货风险管理子公司,2024年持续发挥创新业务发展和综合金融服务的功能优势,满足客户多样化风险管理需求。场外衍生品业务方面,持续拓展新产品、新模式,迅捷完成相关模型与系统开发工作,“银小睿”机器人实现自动报价和下单功能,跨境业务自动交易系统成功接入多个国际主要交易所,有效拓展了交易品种范围。做市业务方面,2024年新增7个做市品种,共计65个做市品种优势保持稳定,实现国内七个交易所主要品种全覆盖,并通过期权做市与期货做市策略有机结合形成互补优势,进一步提升整体盈利能力。期现业务方面,锰硅、橡胶等传统优势品种延续良好表现,碳酸锂等新兴品种增长强劲,成为稳定的利润增长点,2024年正式上线期现自研系统,可实现自动追保盯市及复杂保证金计算等系统化管理,显著提升了业务运营效率。(2)资产管理业务2024年,我国金融领域改革持续深入,资管行业生态迈向高质量发展,深度竞合、回归本源的发展格局正加快形成。证券公司资产管理业务聚焦主动管理与投研核心能力,依托差异化发展策略、完备产品线与专业化服务,努力为客户提供风险适配、品类丰富的综合金融服务。根据中国证券业协会统计,截至2024年三季度末,证券公司受托资金规模合计人民币9.20万亿元,较2023年末增长4.2%。银河金汇聚焦主责主业和功能定位,以“规范化、体系化”建设为工作主线,全力夯实业务发展内控基础,加快提升经营治理水平,通过锻造前后台衔接和一体化运营能力,促进业务结构体系进一步优化,主动管理能力稳步提升;聚焦金融“五篇大文章”,梳理和重塑产品体系,推动产品矩阵和类型结构不断优化,形成“银河之星+晖光日新”全新产品品牌,整体业绩表现稳健;深化渠道改革和机构业务布局,客户服务体验改善促使渠道粘性和业务合作进一步加强。2024年末,银河金汇受托资产管理规模为人民币851.90亿元,产品数量235只。银河金汇资产管理业务规模和产品数量如下表所示:2024年末2023年末产品数量(个)受托规模产品数量(个)受托规模集合资管110617.50100407.16单一资管122230.28155521.57专项资管34.12516.93数据来源:银河金汇业务统计(未经审计)(3)另类投资业务2024年,证券公司另类子公司积极响应政策倡导,继续推进战略性新兴产业投资布局,动态调整投资方向与基金配置原则,引导更多资源要素向新质生产力领域集聚,同时不断增强专业化投资管理能力,积极寻求投资项目多元化退出路径,股权市场“长钱长投”生态有望逐步建立。银河源汇以服务国家科技创新战略为导向,聚焦主责主业推进科技自立自强,以自有资金做好“耐心资本”,通过重点布局战略性新兴产业和关键领域,助力供应链稳定安全,2024年所投数字财税领域领军企业百望股份顺利登陆香港联交所,智能化家居企业有屋智能在新三板挂牌,另有多家在投企业取得融资、经营、技术新突破;坚持研究驱动,敏锐捕捉重要产业链关键环节投资机会,全年完成多个科技创新类项目投资,批准股权投资金额人民币5.1亿元;持续强化协同定位,深化投融资一体化战略,不断探索IPO、并购重组业务机会,积极配合推动主题基金设立和海外PE项目开展;全面加强风险管理,为投后企业增值赋能,及时关注资本市场政策变化影响,确保国有资产保值增值。(4)私募股权投资管理业务根据中国证券投资基金业协会统计,2024年末,中国证券投资基金业协会已登记私募股权/创业投资基金管理人12,083家,管理私募股权/创业投资基金55,415只,基金规模为人民币14.29万亿元,较2023年末下降0.3%。2024年,新增备案私募股权/创业投资基金4,143只,新增备案规模为人民币2,629亿元,同比下降30.3%。银河创新资本充分发挥私募股权基金作为长期资本、耐心资本的独特优势,聚焦服务“五篇大文章”,努力实现业务发展与国家战略同频共振。2024年末,银河创新资本旗下在管基金24只,备案总规模为人民币307.24亿元,基本实现国家战略重点区域的有效覆盖。2024年,银河创新资本新增备案基金4只,总规模为人民币50亿元,服务国家区域协调发展成效进一步提升;新增投资项目和子基金23个,投资金额为人民币12.48亿元,重点投向科技、绿色、数字等产业。2024年,银河创新资本荣获清科“2024年中国政府引导基金50强”、投中信息“2024年度中国最佳私募股权投资引导基金TOP30”等奖项。",
+      "futureExpect": "(一)行业格局和趋势2025年是“十四五”规划的收官之年,全球经济及资本市场仍处于重构和变革之中,中国经济亦处在新旧动能转换的关键期。中央经济工作会议明确了2025年总体要求、政策取向和重点任务,伴随各项改革举措逐步落地见效,宽财政和宽货币政策继续发力,中国经济持续回升向好,A股市场有望从资产重估走向基本面驱动。同时,新“国九条”和“1+N”政策体系加速深化我国资本市场投融资综合改革,强监管、防风险与促高质量发展一体推进,各方合力稳市机制更加健全,市场资源要素向新集聚,服务实体经济能力和效率显著提升,投资者信心和市场活跃度不断增强。证券行业供给侧格局迎来重塑整合的发展机遇,外延并购、特色化经营是证券公司做优做强的重要手段,头部证券公司、尤其是国有大型证券公司的市场份额或将进一步提升。(二)公司发展战略报告期内,公司继续推进2023-2025战略发展规划执行落地,在中期评估基础上提出优化战略实施举措,坚定不移走中国特色金融发展之路,将自身发展与服务国家战略更加紧密的融合,锚定发展目标,进一步明确各业务线及子公司发展方向、策略和重点任务。2023-2025战略发展规划以“金融报国、客户至上”为企业使命,以“成为居民财富管理的‘引领者’、实体经济的‘服务者’、机构客户的‘护航者’、双循环格局的‘推动者’、资本市场的‘示范者’”为企业愿景,以“打造受人尊敬、国内领先、国际一流的现代投行”为长期战略目标,秉承以客户为中心的理念,推动公司向综合性、全能型投资银行迈进。2023-2025战略发展规划遵循五条战略原则,一是坚持党的领导,全面践行金融工作的政治性和人民性;二是坚持服务实体经济,持续强化证券行业“国家队”的使命担当;三是坚持高质量发展,全面提升公司核心竞争力;四是坚持全面均衡发展,加快推进现代投行建设;五是坚持严守合规风控底线,始终确保行稳致远。2023-2025战略发展规划开创性提出打造“五位一体”的业务模式、构建“三化一同”的体制机制,“五位”即:老百姓身边的理财顾问、企业家信任的投资银行专家、机构客户依赖的全链条服务商、国际市场综合的业务供应商、资本市场专业的投资交易商;“一体”即:母子公司一体化的提供综合金融服务;“三化”即:市场化、平台化、数字化;“一同”即全面协同。“五位一体”、“三化一同”是公司本轮战略规划的关键举措;是根据现有环境以及公司资源禀赋谋划的竞争举措;是公司本轮战略规划经过数轮研讨之后达成的宝贵共识。新战略规划凝聚着所有员工的智慧结晶,力争在公司党委的统一领导下,经过全体员工的持续努力,在三年后成为一家:各项业务发展相对均衡,没有突出业务短板,没有重要牌照资格短板,能够高效、敏捷为境内外客户提供综合金融服务的现代投资银行;组织架构、制度流程、激励机制、金融科技、风控体系达到较高标准,具备较好经营风险能力和相应容错机制的现代投资银行;广大员工以在公司工作而自豪(包括良好的职业发展前景和优良的工作环境),且能够持续得到成长、实现自我价值的现代投资银行;始终与国家发展同频共振,践行“金融报国、客户至上”理念,努力为客户创造价值,具有良好政治生态和优秀企业文化的现代投资银行。2023-2025战略发展规划提出六大重点保障与支持措施:资本规划、组织架构、人才队伍、科技赋能、内控体系、企业文化,以“党的领导”为战略规划落地的政治保障,加强组织领导,做好分解落实,强化执行评估,确保新战略规划得到有效执行,真正实现传统券商向现代投行的转变。(三)经营计划2025年是三年战略规划的收官之年,是公司高质量发展的关键阶段。公司坚决对标对表党中央决策部署和监管精神,严格执行中投公司党委工作要求,坚持稳中求进工作总基调,深入完善服务国家战略的工作体系和机制,全面加强对重大战略、重点领域的优质金融服务供给;切实强化战略引领,因时而变科学调整业务策略,努力补足投资银行、资产管理等轻资产业务短板,推动轻重资本业务均衡发展;牢牢把握高质量发展要求,主营业务降本提质增效;践行“一个银河”协同建设,压实防范化解金融风险的政治责任,健全全面风险管理体系,合规稳健发展。在服务国家战略方面,深刻把握中国特色金融发展之路“八个坚持”基本要义,牢固树立正确的经营观、业绩观和风险观,坚持“功能性”为先,立足主责主业,助力科技自立自强,支持绿色产业发展,增强普惠金融服务,满足居民养老需求,提升金融科技专业能力,持续做好金融“五篇大文章”。在业务经营方面,财富管理业务坚定站稳人民立场,做大做强客群规模,打造多元化金融产品体系,深化投顾业务转型,创新丰富信用业务服务模式,增强财富管理综合服务能力;投资银行业务持续推进专业化改革,发挥自身禀赋优势,强化全面深度协同,全力拓宽境内外一体化展业,加大海外业务资源投入,动态研判市场走向,适时调整业务策略;机构业务优化托管业务结构,提高权益做市专业能力,稳健发展场外业务,加强PB业务体系建设,增强研究能力和服务水平,提升品牌影响力;投资交易业务坚持稳健经营,加强资产配置与组合管理,继续保持固收自营业务良好投资业绩,积极发展固收客需业务;国际业务聚焦核心地区业务布局,做实做强境外本土业务,推动境内外一体化提质增效,加强资源配置与战略目标的匹配。境内子公司做强主责主业,强化业务协同、资源对接,持续提高市场竞争力和盈利能力,持续优化以“战略、资本、授权、考核、内控、干部”等核心要素为基础的子公司管理机制。在金融科技方面,全面推进金融科技战略,加强大模型与人工智能等技术变革与证券业务的深度融合,持续推动业务线上化、数字化和智能化。加强管控系统建设、数据基础建设和内外部数据治理,强化IT基础设施与信息系统安全管理,提升信息技术快速响应能力和风险防范能力。在风控合规方面,坚决贯彻监管要求,坚决贯彻中投公司“1+N”风险管理要求,坚持审慎稳健的风险偏好,不断强化集团风险集中管控和全流程管理;牢固树立全面履职尽责、依法合规执业的意识,坚决不踩“红线”、不越“底线”。在社会责任及文化建设方面,积极落实“十四五”规划关于构建生态文明体系的要求,深入开展ESG理念的绿色投融资、研究等业务;认真贯彻习近平总书记关于帮扶工作重要指示和“十四五”规划相关要求,继续开展农村帮扶工作;落实《中共中国投资有限责任公司委员会关于强化政治文化引领、培育中国特色金融文化的意见》,积极践行“五要五不”,厚植中国特色金融文化根基。"
+    },
+    {
+      "reportDate": "2023-12-31",
+      "businessReview": "(一)总体经营情况2023年,面对复杂多变的国际形势及充满挑战的市场环境,公司紧紧围绕学习贯彻习近平新时代中国特色社会主义思想主题教育和党的二十大精神主题主线,在公司的坚强领导和全体干部员工的不懈努力下,牢牢把握高质量发展要求,坚定信心、团结奋斗,攻坚克难、锐意进取,以高效系统的战略执行力,推动各项工作稳步有序进行:深化财富管理转型发展,持续扩展服务空间,坚决落实“降费让利、降低交易成本”监管要求,不断提升买方投顾精细化服务;纵深推进投行业务专业化改革,牢牢把握全面注册制机遇,不断完善管理体制机制,专业能力持续夯实;聚焦投资业务提质增效,持续拓宽业务协同范围,紧密把握市场节奏调整优化资产配置,整体投资规模保持稳健;全新推进机构业务,全面提速平台化建设及全链条客户服务体系和能力;深化境内外一体化协同发展,持续探索金融服务“一带一路”建设新模式,保持公司在东南亚核心市场优势地位;推动分子公司稳健发展,业务结构不断优化;坚持风控为本、合规为先,全面加强风险管理和内部治理,持续强化内控体系建设,有效防范化解各类风险;深刻领会金融工作的政治性、人民性,聚焦服务国家重大战略及实体经济,充分发挥并不断完善金融国企的功能作用,着力做好“科技金融、绿色金融、普惠金融、养老金融、数字金融”五篇大文章。2023年,公司经营业绩稳健增长,行业地位保持稳固,实现集团口径营业收入人民币336.44亿元,归属于母公司股东的净利润人民币78.79亿元;公司总资产、净资产规模稳定增长,期末总资产人民币6,632.05亿元,净资产人民币1,304.95亿元,打造国内一流、国际优秀现代投行的战略目标实现了平稳开局。(二)主营业务经营情况分析公司主营业务分为财富管理业务、投资银行业务、机构业务、国际业务、投资交易业务和其他母子公司一体化业务。1.财富管理业务(1)零售经纪及财富管理2023年,A股市场行情整体呈震荡下行趋势,交投活跃度下降,与2022年同期相比,股票市场各板块降幅有所收窄,北交所年末呈现结构性增长。根据交易所数据统计,2023年沪深京三市全年股票基金交易量(不含沪股通、深股通、交易型货币基金)约人民币220.77万亿元,日均股票基金交易量人民币0.9万亿元,较2022年下降3.09%。2023年,公司财富管理业务以客户为中心,持续优化“客户分类、投顾分级、服务分层、产品多元、科技支撑”的财富管理体系,积极推进场景化经营和多渠道获客,通过“专业”+“陪伴”+“敏捷”的财富管理服务满足人民日益增长的财富管理需求,做好“老百姓身边的理财顾问”。公司持续夯实零售业务基础,推进数字化经营,深耕存量盘活客户资产;持续强化客群经营能力,积极推进多渠道合作,在有效落实投资者适当性管理、统筹推进投资者教育与业务有机结合基础上,近距离通过专业优势陪伴客户;有效升级财富管理综合服务平台,加强场景布局与经营,充分发挥科技赋能优势,重点培育优质客群,持续做大做强客群规模,推进零售业务高质量发展。按照中国证券业协会统计口径,公司2023年前三季度代理买卖证券业务净收入市场占有率4.79%,行业排名第3。2023年末,公司客户总数超过1,550万户,其中,公司开立的北交所合格投资者数量行业排名第1,公司客户托管证券总市值人民币4.18万亿元。2023年末,公司投资顾问3,798人,较2022年末增长5.85%;公司高净值客户服务品牌“银河金熠”签约人数达5,456人,较2022年末增长156%,高净值客户签约人民币净资产突破1,600亿元,较2022年末增长195%。(2)金融产品销售业务根据中国证券投资基金业协会统计数据,2023年末,我国公募基金净值人民币275,992.96亿元,较2022年末的人民币260,311.89亿元增长6.02%。公司围绕“五篇大文章”,充分发挥金融服务优势,积极履行服务国家战略责任,结合市场环境持续推进产品供给侧改革,为客户提供全谱系、多层次的优质财富管理产品和服务。投资顾问业务深耕买方体系建设,致力于为客户提供更全面的资产配置和解决方案,不断丰富完善营销服务体系,全面加强分支机构业务赋能,多层次提升近距离陪伴客户的能力。2023年,公司金融产品销售规模人民币949.88亿元,较2022年增长2.64%;代销金融产品保有规模连续四年增长,2023年月均值达人民币2,036.26亿元,较2022年增长6.15%。(3)信用业务根据统计,2023年末,市场融资融券余额人民币16,509亿元,较2022年末增长7.17%。其中,融资余额人民币15,793亿元,较2022年末增长9.33%;融券余额人民币716亿元,较2022年末下降25.33%。2023年,公司充分运用信用业务工具全面聚焦服务国家战略和实体经济,着眼于“新形势、新格局、新要求”,全面探索业务开展“新思路、新方向、新策略”,综合施策,多措并举,推动信用业务高质量发展。公司积极拥抱资本市场改革,紧跟监管政策方向,端正定位,审慎合规展业;坚持以客户为中心,强化金融科技赋能,重点挖掘专业投资者和机构客户,不断丰富中小投资者服务模式,持续为个人、企业、机构等各类客户提供差异化、精准化服务及产品;不断健全风险防控体系,提高风险管理和防范能力;持续跟踪市场动态、拓展业务外延、创新业务模式,积极推动行权融资等新业务的增长;打造具有竞争力的“信用业务+X”业务集群,为上市公司及其股东、各类专业投资机构提供多元化的综合金融服务。2023年末,公司融资融券余额人民币841亿元,平均维持担保比例247%;股票质押业务待购回余额人民币206亿元,平均履约保障比例252%,整体风险可控。2.投资银行业务2023年,资本市场改革持续深化,基础制度不断完善,全面注册制落地和IPO阶段性收紧的机遇与挑战并存。根据统计,2023年,我国股权融资规模人民币11,344.30亿元,同比下降32.80%。其中,IPO融资规模人民币3,565.39亿元,同比下降39.25%;再融资规模人民币7,445.75亿元(不含可交债),同比下降29.62%。2023年,我国债券发行合计人民币71.04万亿元,同比增长15.45%;2023年末,境内债券市场总存量达人民币155.73万亿元,较2022年末增加人民币13.77万亿元。2023年,公司坚决贯彻落实新三年发展规划部署,紧密围绕打造“企业家信任的投资银行专家”的关键业务战略,纵深推进投行专业化改革,持续优化团队设置,补充配备专业人员,完善管理体制机制,协同拓展客户资源,为业务发展奠定坚实基础。(1)股权融资业务加强项目储备,提高项目的承揽承做标准及综合服务能力,实现2单IPO项目通过交易所上市委会议;完成再融资项目4单(包括可转债融资)、新三板推荐挂牌项目10单、新三板定向发行项目2单、并购重组财务顾问项目4单;已完成发行但尚未上市的再融资项目2单,已取得股转公司同意函但尚未完成的新三板定向发行项目2单。2023年,公司股权承销金额人民币37.65亿元。(2)债券融资业务加强协同,进一步发掘地方政府债、金融债、短期融资券、定向工具和中期票据业务机会,债券承销规模增速高于行业平均增速。根据统计,2023年公司承销债券合计1,102单,承销金额人民币3,579.54亿元,同比增长41.75%,排名行业第12。其中,公司在地方政府债、金融债品种发展势头良好,地方政府债承销金额人民币1,912.99亿元,排名行业第8;金融债承销金额人民币1,078.07亿元,行业排名第11。公司获评证券时报2023年中国金融机构年度峰会“2023中国证券业服务民营企业君鼎奖”,第16届新财富最佳投行评选“最佳投行业务精英团队(IPO项目)”、“最佳投行业务精英团队(公司债项目)”、“最具创造力项目”等奖项。3.机构业务根据中国证券投资基金业协会统计数据,2023年末,我国公募基金净值人民币275,992.96亿元,私募基金净值人民币203,155.96亿元,同比分别增长6.02%、0.17%,机构投资者力量持续发展壮大,影响力不断提升。2023年,公司新成立机构业务线,统筹机构投资交易、机构销售、托管外包和做市等业务一体展业,推出“银河天弓”一站式机构服务平台,重点机构客户总体覆盖率达68.4%。公司积极打造“同业、私募、企业”三个机构服务生态链,持续提升综合服务能力,依托“星耀数智服务平台”和“企业综合金融服务平台”两大业务平台,围绕投研交易、股份回购、股权激励、员工持股计划和股份增减持等服务,努力成为“机构客户依赖的全链条服务商”;公司推出“星善计划”公益品牌,积极贯彻落实国家关于推动共同富裕、服务实体经济的方针政策;建设“星耀管理人俱乐部”品牌,为私募客户提供一站式全链条服务;依托银河特色自研策略和投研分析,深化TDC(TDC是指依托银河特色自研策略和研究分析,面向适当的专业交易型投资者提供的策略服务)机构投顾,为机构和高净值客户提供专业策略服务。场外业务方面,公司借助自然语言处理、云计算、机器人流程自动化等数字金融科技手段,致力于打造新一代灵活定价引擎、微信询价下单机器人、客户场外准入服务平台等系列行业领先的业务系统,不断打磨升级场外衍生品交易服务平台,为专业机构投资者提供从签约准入、询价咨询到投资交易、估值结算的场外衍生品全生命周期服务。做市业务方面,公司积极参与高质量建设北交所,首批开通北交所股票做市权限并首批参与开展北交所做市交易,目前共为12家北交所上市公司股票提供做市服务,服务创新型中小企业高质量发展。此外,公司积极参与科创板股票做市和基金做市,在活跃资本市场与服务科技创新方面发挥了重要作用。托管与基金服务方面,公司积极开拓客户资源,推出银河托管“智托星”服务子品牌,业务规模实现持续增长。公司连续两年通过ISAE3402国际鉴证,荣获2023年《中国基金报》主办的英华奖“优秀私募托管成长券商示范机构”。截至2023年末,公司托管与基金服务业务规模人民币2,827.02亿元,同比增长5.29%;产品数量4,013只,同比增长9.26%。研究业务方面,公司以宏观研究带动行业研究全面发展,引入行业领军人才,发布研究报告数量同比持续增长、质量大幅提升,金股组合收益率排名位居市场前列;积极拓展并服务外部机构投资者,提高服务频次,通过研究报告、专项课题、调研、路演交流、研究沙龙、媒体发表、电话会议等多种方式,为机构投资者提供及时高效的研究服务,促进市场信心提升;强化基金评价专业输出,服务国家公募基金基础数据建设,推出年金综合评价服务,助力养老“第二支柱”发展。4.国际业务2023年,香港股票市场持续回调,东南亚股市日均成交大幅减少。其中,港股市场日均成交额1,052亿港元,同比下降16%;香港资本市场股权融资活动疲弱,年度股权融资总额1,507亿港元,同比下降40%;香港资本市场新股上市73家,同比下降19%,新股融资总额463亿港元,同比下降56%。银河国际控股坚定不移聚焦主责主业,高质量发展迈出坚实步伐。其中,经纪业务在东南亚核心区域继续保持优势地位;投资银行业务实现逆市增长,2023年完成15单港股IPO项目,承销债券133笔,荣获“2023中国证券业境外投行君鼎奖”、澳门债券市场“承销贡献奖”、中证科技中资离岸债年度机构评选“年度成长潜力奖”等多项投行大奖;财富管理及资产管理业务全产品线布局步伐加快,产品和服务能力进一步提升。2023年,银河国际控股完成关于银河-联昌证券国际私人有限公司(简称“银河-联昌证券”)、银河-联昌控股私人有限公司(简称“银河-联昌控股”)的第二份购买权项下交易,实现对其100%持股,有助于公司保持在东南亚核心市场的领先地位,更好发挥东南亚布局优势。5.投资交易业务2023年,公司及时把握市场节奏,调整优化资产配置,固收投资业务稳健增长,权益投资业务严控风险敞口,同时大力拓展基于客需的创新类投资交易业务,服务客户资产配置和风险管理能力持续提升。权益投资方面。公司权益投资业务坚持“低风险+绝对收益”宗旨,其中红利策略取得了较好的投资成果,为公司业绩稳定和净资产增值做出了贡献。固定收益投资方面。公司秉持稳健的投资策略,持续优化持仓结构,稳固利率债规模,增配稳定性收益投资品种,稳步开展ABS、票据、REITs、境外固收等投资;加强信用风险管控,挖掘信用债投资价值,提升底层资产安全边际;大力发展做市业务、报价回购,拓展表外和客需业务,以研究、交易、风险管理能力为依托,向客户输出综合投资能力。2023年,公司荣获中金所“国债期货上市十周年最佳贡献奖”(自营类)第一名、“国债期货优秀做市商金奖”和“国债期货优秀交易团队奖”;中国银行间同业拆借中心本币市场交易“年度市场影响力奖”、“市场创新奖”;上交所“自营类优秀债券投资机构奖”、“优秀债券ETF做市商奖”;深交所“优秀债券投资交易机构奖”、第九届中国资产证券化论坛年会“年度创新机构奖”、第八届CNABS资产证券化年会暨金桂奖“市场领先中介机构奖”、第九届结构性融资与资产证券化论坛介甫奖“优秀ABS机构投资人”、“优秀债券市场投资团队”等奖项。公司积极申请并获得沪深交易所首批债券主做市商资格,中金所30年期国债期货主做市商资格,商品期货及期权做市业务资格,成为外汇交易中心首批“债券篮子”创设及报价机构之一。2023年公司发布市场首只西部地区“地方债”债券篮子、市场首只联合做市“地方债”债券篮子;达成市场首单“CFETS银行间长三角区域债券指数”互换交易。衍生品投资方面。公司不断丰富金融服务矩阵,通过拓展衍生品业务,满足不同客户个性化金融服务需求。公司积极争取并成为外汇交易中心利率期权报价机构、国开债和农发债标准债券远期报价机构、上海清算所信用违约互换集中清算报价团成员。2023年,达成公司首单、境内第二笔挂钩彭博中资美元债指数的场外衍生品交易,有效支持实体企业的境外融资业务;达成公司与实体企业首笔场外利率期权业务,满足客户更精细化的避险需求。6.其他母子公司一体化业务(1)期货业务根据中国期货业协会统计,2023年,我国期货市场累计成交量为85.01亿手,同比增长25.60%;累计成交额为人民币568.51万亿元(单边),同比增长6.28%。银河期货持续推进业务建设,稳步提升发展质效,坚持传统经纪业务与创新衍生品业务双轮驱动,场内场外、期货现货协同发展,打造稳定发展布局。经纪业务方面,深耕产业客户,发力机构客户,强化母子公司业务协同,针对期货客群年轻化趋势,推进数字化转型,进行私域运营探索,形成新的业务增长点,夯实经纪业务领先地位。资产管理方面,持续搭建和孵化主动管理产品,创新并完善低风险产品线。银河德睿作为银河期货风险管理子公司,通过场外、期现等多模式创新肩负起金融服务实体经济的责任,实现创收能力的稳健增长。场外衍生品业务方面,上线微信自动询报价系统,实现权益类香草期权、商品累沽累购结构自动报价,有效提升业务承接能力并带来良好的客户体验;上线银河德睿DMA(直接市场准入)系统,可满足客户A股线性业务交易、跨境互换业务需求,进一步提升市场竞争力。做市业务方面,截至2023年末,公司共拥有63个做市商资格,成为做市牌照最全的期货子公司之一。期现业务方面,新增碳酸锂、工业硅和化工焦等业务新品种,拓宽实体经济的服务面;通过“工厂+业务”模式,打通合金全产业链的交易业务,助力实体经济解决难点问题。(2)资产管理业务根据中国证券业协会统计,截至2023年三季度末,证券公司受托资金规模合计人民币8.95万亿元,较2022年末下降8.26%。2023年,银河金汇继续提升投研能力,锻造以研究、投资、交易为核心的一体化能力建设,系统夯实基础管理工作,业务结构持续优化。多只产品投资业绩表现良好,持续受到市场认可,追求绝对收益的固收品牌特色更加凸显。同时,银河金汇加快特色产品布局,积极研发和培育权益、混合类产品,并结合自身管理特点完成了基于ESG、红利等主题产品创设,产品谱系进一步完善,创设质效有效提升;继续发挥公司资源禀赋优势,建设全面协同、专业分工的体制机制,构建以“客户需求为中心”的服务生态模式;不断完善营销渠道体系,进一步拓宽对同业机构、零售客户和企业客户的覆盖范围。在服务国家战略和实体经济上,银河金汇持续聚焦中小微企业融资需求,强化要素供给和提升金融服务水平,助力和服务企业高质量发展。2023年末,银河金汇存续管理产品260只,总受托规模人民币945.66亿元。数据来源:银河金汇业务统计。其中,2023年资产管理产品受托规模数据未经审计。(3)另类投资业务2023年,银河源汇积极融入和服务国家发展战略,坚持高科技实业投资的方向,积极布局高成长领域,多元化配置金融产品,持续强化业绩韧性,取得了较好的投资收益率。2023年新增投资5家具有自主创新属性的高科技企业,新增2个股权项目实现科创板上市发行,新增4个项目已申报IPO获交易所受理,已上市项目逐步实现退出。(4)私募股权投资管理业务根据中国证券投资基金业协会统计,2023年末,中国证券投资基金业协会已登记私募股权/创业投资基金管理人12,893家,管理私募股权投资基金54,648只,基金规模人民币14.33万亿元,较2022年末增长4.07%。2023年,银河创新资本立足于私募股权基金作为长期资本、耐心资本的独特优势,聚焦服务“五篇大文章”,努力实现业务发展与国家战略同频共振。2023年新增投资金额合计人民币10.82亿元,主要投向“五篇大文章”领域,全面服务新发展格局构建。其中,海南自由贸易港建设投资基金有限公司(即“海南自由贸易港建设投资基金”)聚焦海南自由贸易港“重点产业、重点园区、重大项目”三大投资主线,已完成8支子基金设立,总规模人民币61.73亿元,有力支撑海南自贸港高质量建设。截至2023年末,银河创新资本在管私募股权基金达到20支,聚焦长三角、粤港澳大湾区、海南自贸港、西部、东北等国家战略重点区域,备案总规模达人民币257.24亿元。2023年,银河创新资本获得母基金研究中心“省级政府引导基金最佳风控TOP30”、“最佳政府引导基金(省级)TOP30”等荣誉。",
+      "futureExpect": "(一)行业格局和趋势2024年,国际宏观形势更趋复杂,地缘政治冲突持续,预计全球经济复苏将依旧疲软,主要经济体增长态势和货币政策走势将进一步分化。2024年是实现“十四五”规划目标的关键之年,党中央明确提出“坚持稳中求进工作总基调”,强调“巩固和增强经济回升向好态势,持续推动经济实现质的有效提升和量的合理增长”。目前,我国经济展现出强大韧性和巨大潜力,消费市场活力持续增强,高质量发展稳步前行,但仍面临错综复杂的形势,国内周期性和结构性矛盾叠加。未来,预计我国资本市场将持续推进一流投资银行和投资机构建设,促进投融资协调发展,激发财富效应,提升A股吸引力;股票发行注册制将持续走深走实,以更好发挥资本市场枢纽功能;建设中国特色现代资本市场政策框架不断深化,不断加大对高水平科技自立自强和现代化产业体系建设等重点领域的支持力度,并有效防范化解重点领域风险。2024年,伴随着资本市场改革全面推进和相关配套制度进一步完善,预计我国资本市场改革红利将进一步释放,投资价值持续提升。(二)公司发展战略报告期内,公司开始全面实施2023-2025战略发展规划,将自身发展与服务国家战略紧密融合,遵循行业发展逻辑,统筹公司资源禀赋,擘画改革发展蓝图。新战略规划以“金融报国、客户至上”为企业使命,以“成为居民财富管理的‘引领者’、实体经济的‘服务者’、机构客户的‘护航者’、双循环格局的‘推动者’、资本市场的‘示范者’”为企业愿景,以“打造受人尊敬、国内领先、国际一流的现代投行”为长期战略目标,秉承以客户为中心的理念,推动公司向综合性、全能型投资银行迈进。新战略规划遵循五条战略原则,一是坚持党的领导,全面践行金融工作的政治性和人民性;二是坚持服务实体经济,持续强化证券行业“国家队”的使命担当;三是坚持高质量发展,全面提升公司核心竞争力;四是坚持全面均衡发展,加快推进现代投行建设;五是坚持严守合规风控底线,始终确保行稳致远。新战略规划开创性提出打造“五位一体”的业务模式、构建“三化一同”的体制机制,“五位”即:老百姓身边的理财顾问、企业家信任的投资银行专家、机构客户依赖的全链条服务商、国际市场综合的业务供应商、资本市场专业的投资交易商;“一体”即:母子公司一体化的提供综合金融服务;“三化”即:市场化、平台化、数字化;“一同”即全面协同。“五位一体”、“三化一同”是公司本轮战略规划的关键举措;是根据现有环境以及公司资源禀赋谋划的竞争举措;是公司本轮战略规划经过数轮研讨之后达成的宝贵共识。新战略规划凝聚着所有员工的智慧结晶,力争在公司的统一领导下,经过全体员工的持续努力,在三年后成为一家:各项业务发展相对均衡,没有突出业务短板,没有重要牌照资格短板,能够高效、敏捷为境内外客户提供综合金融服务的现代投资银行;组织架构、制度流程、激励机制、金融科技、风控体系达到较高标准,具备较好经营风险能力和相应容错机制的现代投资银行;广大员工以在公司工作而自豪(包括良好的职业发展前景和优良的工作环境),且能够持续得到成长、实现自我价值的现代投资银行;始终与国家发展同频共振,践行“金融报国、客户至上”理念,努力为客户创造价值,具有良好政治生态和优秀企业文化的现代投资银行。在此基础上,新战略规划提出六大重点保障与支持措施:资本规划、组织架构、人才队伍、科技赋能、内控体系、企业文化,以“党的领导”为战略规划落地的政治保障,加强组织领导,做好分解落实,强化执行评估,确保新战略规划得到有效执行,真正实现传统券商向现代投行的转变。(三)经营计划2024年是新战略规划的攻坚之年,公司把贯彻落实中央金融工作会议精神作为首要政治任务,在中央金融工作会议精神指导下深入推进战略发展规划执行落地;以坚持党的领导、服务国家战略、高质量发展、严守合规风控底线为根本遵循,全力以赴以“五位一体”的业务模式、“三化一同”的体制机制进行从传统券商向现代投行的转型;牢牢把握金融工作的政治性、人民性,充分发挥“功能性”,以深化金融供给侧结构性改革为主线,聚力打造现代一流投行。在公司战略规划开局顺利、经营业绩保持稳健的基础上,遵循先立后破的原则,轻资本业务围绕“抓改革、引人才”加大投入,拿出实招硬招,扎扎实实、心无旁骛地做优做强做专“看家本领”;重资本业务围绕“控规模、优结构”推动渐进式转型,回归本源、聚焦主业,在总量适度前提下提高发展质量,为轻重资本业务均衡发展打下基础。在业务经营方面,财富管理业务坚定站稳人民立场,稳妥应对费率下调影响,多措并举保持市场领先地位,持之以恒培育买方投顾能力、做大管理资产规模,打造银河大财富品牌;投资银行继续深入推进专业化改革,聚焦定价销售水平提升,加强能力建设,进一步拓展客户基础,扩大重点行业、重点区域市场份额,巩固发展公司北交所业务优势特色;机构业务以客户综合需求为导向,逐步推动“1+N”机构客户服务模式,强化“银河天弓”机构业务品牌建设,形成不同场景下各类客群的服务范式,建立机构业务生态良性循环;投资交易业务巩固传统自营,优化大类资产配置,提升组合资产质量,以自营业务发展形成的专业能力赋能客需业务;国际业务继续推进境内外一体化协同,加强对境外机构的统筹管理,夯实跨境业务发展基础,提升跨境业务能力。在金融科技支撑方面,贯彻落实金融科技“星计划”,保持饱和式信息技术投入,进一步加强IT统筹和整体推进力度,在对五大业务领域数字化横向覆盖的基础上,进一步推动技术与业务融合向纵深发展,打造数字金融领域的拳头产品和明星应用。在全面风险管理方面,坚持审慎经营,加强风险源头管控,优化风险管理政策,合理确定风险偏好和风险管理目标,持续完善风险防控体系,增强风险穿透管理力度。在服务国家战略和履行社会责任方面,深刻把握金融工作的政治性、人民性,坚持公司发展战略与服务国家战略同频共振,持续巩固服务国家战略、服务实体经济的做法成效,扎实做好科技金融、绿色金融、普惠金融、养老金融、数字金融五篇大文章,支持高水平科技自立自强和现代化产业体系建设,有效发挥服务实体经济主力军作用;积极落实“十四五”规划关于构建生态文明体系的要求,深入开展ESG理念的绿色投融资、绿色研究等业务;认真贯彻习近平总书记关于帮扶工作重要指示和“十四五”规划相关要求,继续开展农村帮扶工作。(七)其他合规和风控投入2023年,公司合规风控投入人民币5.98亿元,占2022年母公司营业收入的4.12%;信息技术投入人民币11.71亿元,占2022年母公司营业收入的8.08%。"
+    }
+  ]
+}

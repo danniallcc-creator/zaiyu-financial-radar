@@ -1,0 +1,1774 @@
+{
+  "code": "600350",
+  "name": "山东高速",
+  "fetchTime": "2026-06-18T18:34:29",
+  "segments": [
+    {
+      "reportDate": "2025-12-31",
+      "byIndustry": [
+        {
+          "name": "高速公路通行费",
+          "income": 10012165366.61,
+          "incomeRatio": 41.85,
+          "cost": 4433143046.41,
+          "costRatio": 27.65,
+          "profit": 5579022320.2,
+          "profitRatio": 70.67,
+          "grossMargin": 55.72,
+          "rank": 1
+        },
+        {
+          "name": "机电工程施工收入",
+          "income": 3219046303.07,
+          "incomeRatio": 13.45,
+          "cost": 2477818019.75,
+          "costRatio": 15.46,
+          "profit": 741228283.32,
+          "profitRatio": 9.39,
+          "grossMargin": 23.03,
+          "rank": 2
+        },
+        {
+          "name": "建造服务收入",
+          "income": 3100006510.91,
+          "incomeRatio": 12.96,
+          "cost": 3100006510.91,
+          "costRatio": 19.34,
+          "profit": 0.0,
+          "profitRatio": null,
+          "grossMargin": 0.0,
+          "rank": 3
+        },
+        {
+          "name": "铁路运输收入",
+          "income": 2735455363.31,
+          "incomeRatio": 11.43,
+          "cost": 2291215055.16,
+          "costRatio": 14.29,
+          "profit": 444240308.15,
+          "profitRatio": 5.63,
+          "grossMargin": 16.24,
+          "rank": 4
+        },
+        {
+          "name": "销售商品收入",
+          "income": 2298005538.23,
+          "incomeRatio": 9.6,
+          "cost": 1759237772.7,
+          "costRatio": 10.97,
+          "profit": 538767765.53,
+          "profitRatio": 6.82,
+          "grossMargin": 23.45,
+          "rank": 5
+        },
+        {
+          "name": "其他(补充)",
+          "income": 891806452.78,
+          "incomeRatio": 3.73,
+          "cost": 565699868.11,
+          "costRatio": 3.53,
+          "profit": 326106584.67,
+          "profitRatio": 4.13,
+          "grossMargin": 36.57,
+          "rank": 6
+        },
+        {
+          "name": "高速公路托管收入",
+          "income": 688252549.37,
+          "incomeRatio": 2.88,
+          "cost": 666712848.26,
+          "costRatio": 4.16,
+          "profit": 21539701.11,
+          "profitRatio": 0.27,
+          "grossMargin": 3.13,
+          "rank": 7
+        },
+        {
+          "name": "工程施工收入",
+          "income": 367262242.96,
+          "incomeRatio": 1.54,
+          "cost": 338480416.23,
+          "costRatio": 2.11,
+          "profit": 28781826.73,
+          "profitRatio": 0.36,
+          "grossMargin": 7.84,
+          "rank": 8
+        },
+        {
+          "name": "软件、技术服务",
+          "income": 347484224.67,
+          "incomeRatio": 1.45,
+          "cost": 202609951.36,
+          "costRatio": 1.26,
+          "profit": 144874273.31,
+          "profitRatio": 1.84,
+          "grossMargin": 41.69,
+          "rank": 9
+        },
+        {
+          "name": "其他",
+          "income": 265973589.13,
+          "incomeRatio": 1.11,
+          "cost": 196378088.81,
+          "costRatio": 1.23,
+          "profit": 69595500.32,
+          "profitRatio": 0.88,
+          "grossMargin": 26.17,
+          "rank": 10
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "山东省通行费收入",
+          "income": 7944810189.2,
+          "incomeRatio": 33.21,
+          "cost": 3461932272.04,
+          "costRatio": 21.59,
+          "profit": 4482877917.16,
+          "profitRatio": 56.79,
+          "grossMargin": 56.43,
+          "rank": 1
+        },
+        {
+          "name": "机电工程施工收入",
+          "income": 3219046303.07,
+          "incomeRatio": 13.45,
+          "cost": 2477818019.75,
+          "costRatio": 15.46,
+          "profit": 741228283.32,
+          "profitRatio": 9.39,
+          "grossMargin": 23.03,
+          "rank": 2
+        },
+        {
+          "name": "建造服务收入",
+          "income": 3100006510.91,
+          "incomeRatio": 12.96,
+          "cost": 3100006510.91,
+          "costRatio": 19.34,
+          "profit": 0.0,
+          "profitRatio": null,
+          "grossMargin": 0.0,
+          "rank": 3
+        },
+        {
+          "name": "铁路运输收入",
+          "income": 2735455363.31,
+          "incomeRatio": 11.43,
+          "cost": 2291215055.16,
+          "costRatio": 14.29,
+          "profit": 444240308.15,
+          "profitRatio": 5.63,
+          "grossMargin": 16.24,
+          "rank": 4
+        },
+        {
+          "name": "销售商品收入",
+          "income": 2298005538.23,
+          "incomeRatio": 9.6,
+          "cost": 1759237772.7,
+          "costRatio": 10.97,
+          "profit": 538767765.53,
+          "profitRatio": 6.82,
+          "grossMargin": 23.45,
+          "rank": 5
+        },
+        {
+          "name": "湖北省通行费收入",
+          "income": 1131762293.41,
+          "incomeRatio": 4.73,
+          "cost": 431345545.24,
+          "costRatio": 2.69,
+          "profit": 700416748.17,
+          "profitRatio": 8.87,
+          "grossMargin": 61.89,
+          "rank": 6
+        },
+        {
+          "name": "其他(补充)",
+          "income": 891806452.78,
+          "incomeRatio": 3.73,
+          "cost": 565699868.11,
+          "costRatio": 3.53,
+          "profit": 326106584.67,
+          "profitRatio": 4.13,
+          "grossMargin": 36.57,
+          "rank": 7
+        },
+        {
+          "name": "高速公路托管收入",
+          "income": 688252549.37,
+          "incomeRatio": 2.88,
+          "cost": 666712848.26,
+          "costRatio": 4.16,
+          "profit": 21539701.11,
+          "profitRatio": 0.27,
+          "grossMargin": 3.13,
+          "rank": 8
+        },
+        {
+          "name": "河南省通行费收入",
+          "income": 385138524.18,
+          "incomeRatio": 1.61,
+          "cost": 192908043.63,
+          "costRatio": 1.2,
+          "profit": 192230480.55,
+          "profitRatio": 2.44,
+          "grossMargin": 49.91,
+          "rank": 9
+        },
+        {
+          "name": "工程施工收入",
+          "income": 367262242.96,
+          "incomeRatio": 1.54,
+          "cost": 338480416.23,
+          "costRatio": 2.11,
+          "profit": 28781826.73,
+          "profitRatio": 0.36,
+          "grossMargin": 7.84,
+          "rank": 10
+        },
+        {
+          "name": "软件、技术服务",
+          "income": 347484224.67,
+          "incomeRatio": 1.45,
+          "cost": 202609951.36,
+          "costRatio": 1.26,
+          "profit": 144874273.31,
+          "profitRatio": 1.84,
+          "grossMargin": 41.69,
+          "rank": 11
+        },
+        {
+          "name": "四川省通行费收入",
+          "income": 293488429.22,
+          "incomeRatio": 1.23,
+          "cost": 171284617.93,
+          "costRatio": 1.07,
+          "profit": 122203811.29,
+          "profitRatio": 1.55,
+          "grossMargin": 41.64,
+          "rank": 12
+        },
+        {
+          "name": "其他",
+          "income": 265973589.13,
+          "incomeRatio": 1.11,
+          "cost": 196378088.81,
+          "costRatio": 1.23,
+          "profit": 69595500.32,
+          "profitRatio": 0.88,
+          "grossMargin": 26.17,
+          "rank": 13
+        },
+        {
+          "name": "湖南省通行费收入",
+          "income": 256965930.6,
+          "incomeRatio": 1.07,
+          "cost": 175672567.57,
+          "costRatio": 1.1,
+          "profit": 81293363.03,
+          "profitRatio": 1.03,
+          "grossMargin": 31.64,
+          "rank": 14
+        },
+        {
+          "name": "其中:其他业务-其他",
+          "income": 706740735.24,
+          "incomeRatio": 2.95,
+          "cost": 474418565.58,
+          "costRatio": 2.96,
+          "profit": 232322169.66,
+          "profitRatio": 2.94,
+          "grossMargin": 32.87,
+          "rank": 15
+        },
+        {
+          "name": "其中:其他业务-租赁收入",
+          "income": 185065717.54,
+          "incomeRatio": 0.77,
+          "cost": 91281302.53,
+          "costRatio": 0.57,
+          "profit": 93784415.01,
+          "profitRatio": 1.19,
+          "grossMargin": 50.68,
+          "rank": 16
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "其他主营业务",
+          "income": 13021486321.65,
+          "incomeRatio": 54.43,
+          "cost": 11032458663.18,
+          "costRatio": 68.82,
+          "profit": 1989027658.47,
+          "profitRatio": 25.2,
+          "grossMargin": 15.28,
+          "rank": 1
+        },
+        {
+          "name": "山东地区",
+          "income": 7944810189.2,
+          "incomeRatio": 33.21,
+          "cost": 3461932272.04,
+          "costRatio": 21.59,
+          "profit": 4482877917.16,
+          "profitRatio": 56.79,
+          "grossMargin": 56.43,
+          "rank": 2
+        },
+        {
+          "name": "湖北地区",
+          "income": 1131762293.41,
+          "incomeRatio": 4.73,
+          "cost": 431345545.24,
+          "costRatio": 2.69,
+          "profit": 700416748.17,
+          "profitRatio": 8.87,
+          "grossMargin": 61.89,
+          "rank": 3
+        },
+        {
+          "name": "其他(补充)",
+          "income": 891806452.78,
+          "incomeRatio": 3.73,
+          "cost": 565699868.11,
+          "costRatio": 3.53,
+          "profit": 326106584.67,
+          "profitRatio": 4.13,
+          "grossMargin": 36.57,
+          "rank": 4
+        },
+        {
+          "name": "河南地区",
+          "income": 385138524.18,
+          "incomeRatio": 1.61,
+          "cost": 192908043.63,
+          "costRatio": 1.2,
+          "profit": 192230480.55,
+          "profitRatio": 2.44,
+          "grossMargin": 49.91,
+          "rank": 5
+        },
+        {
+          "name": "四川地区",
+          "income": 293488429.22,
+          "incomeRatio": 1.23,
+          "cost": 171284617.93,
+          "costRatio": 1.07,
+          "profit": 122203811.29,
+          "profitRatio": 1.55,
+          "grossMargin": 41.64,
+          "rank": 6
+        },
+        {
+          "name": "湖南地区",
+          "income": 256965930.6,
+          "incomeRatio": 1.07,
+          "cost": 175672567.57,
+          "costRatio": 1.1,
+          "profit": 81293363.03,
+          "profitRatio": 1.03,
+          "grossMargin": 31.64,
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "reportDate": "2024-12-31",
+      "byIndustry": [
+        {
+          "name": "高速公路通行费",
+          "income": 9654880256.91,
+          "incomeRatio": 33.88,
+          "cost": 4677613673.35,
+          "costRatio": 22.2,
+          "profit": 4977266583.56,
+          "profitRatio": 67.02,
+          "grossMargin": 51.55,
+          "rank": 1
+        },
+        {
+          "name": "建造服务收入",
+          "income": 7485491706.94,
+          "incomeRatio": 26.27,
+          "cost": 7485491706.94,
+          "costRatio": 35.53,
+          "profit": 0.0,
+          "profitRatio": null,
+          "grossMargin": 0.0,
+          "rank": 2
+        },
+        {
+          "name": "销售商品收入",
+          "income": 3445788033.94,
+          "incomeRatio": 12.09,
+          "cost": 2843076817.29,
+          "costRatio": 13.49,
+          "profit": 602711216.65,
+          "profitRatio": 8.12,
+          "grossMargin": 17.49,
+          "rank": 3
+        },
+        {
+          "name": "机电工程施工收入",
+          "income": 3001011640.4,
+          "incomeRatio": 10.53,
+          "cost": 2248010593.59,
+          "costRatio": 10.67,
+          "profit": 753001046.81,
+          "profitRatio": 10.14,
+          "grossMargin": 25.09,
+          "rank": 4
+        },
+        {
+          "name": "铁路运输收入",
+          "income": 2496514331.42,
+          "incomeRatio": 8.76,
+          "cost": 1984277203.88,
+          "costRatio": 9.42,
+          "profit": 512237127.54,
+          "profitRatio": 6.9,
+          "grossMargin": 20.52,
+          "rank": 5
+        },
+        {
+          "name": "其他(补充)",
+          "income": 837570339.57,
+          "incomeRatio": 2.94,
+          "cost": 481773821.84,
+          "costRatio": 2.29,
+          "profit": 355796517.73,
+          "profitRatio": 4.79,
+          "grossMargin": 42.48,
+          "rank": 6
+        },
+        {
+          "name": "高速公路托管收入",
+          "income": 650887019.33,
+          "incomeRatio": 2.28,
+          "cost": 630942661.99,
+          "costRatio": 2.99,
+          "profit": 19944357.34,
+          "profitRatio": 0.27,
+          "grossMargin": 3.06,
+          "rank": 7
+        },
+        {
+          "name": "工程施工收入",
+          "income": 365904411.75,
+          "incomeRatio": 1.28,
+          "cost": 351500027.81,
+          "costRatio": 1.67,
+          "profit": 14404383.94,
+          "profitRatio": 0.19,
+          "grossMargin": 3.94,
+          "rank": 8
+        },
+        {
+          "name": "软件、技术服务",
+          "income": 303468348.9,
+          "incomeRatio": 1.06,
+          "cost": 178183072.25,
+          "costRatio": 0.85,
+          "profit": 125285276.65,
+          "profitRatio": 1.69,
+          "grossMargin": 41.28,
+          "rank": 9
+        },
+        {
+          "name": "其他",
+          "income": 252759521.0,
+          "incomeRatio": 0.89,
+          "cost": 187396788.74,
+          "costRatio": 0.89,
+          "profit": 65362732.26,
+          "profitRatio": 0.88,
+          "grossMargin": 25.86,
+          "rank": 10
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "山东省通行费收入",
+          "income": 7746004445.58,
+          "incomeRatio": 27.18,
+          "cost": 3704946163.41,
+          "costRatio": 17.59,
+          "profit": 4041058282.17,
+          "profitRatio": 54.42,
+          "grossMargin": 52.17,
+          "rank": 1
+        },
+        {
+          "name": "建造服务收入",
+          "income": 7485491706.94,
+          "incomeRatio": 26.27,
+          "cost": 7485491706.94,
+          "costRatio": 35.53,
+          "profit": 0.0,
+          "profitRatio": null,
+          "grossMargin": 0.0,
+          "rank": 2
+        },
+        {
+          "name": "销售商品收入",
+          "income": 3445788033.94,
+          "incomeRatio": 12.09,
+          "cost": 2843076817.29,
+          "costRatio": 13.49,
+          "profit": 602711216.65,
+          "profitRatio": 8.12,
+          "grossMargin": 17.49,
+          "rank": 3
+        },
+        {
+          "name": "机电工程施工收入",
+          "income": 3001011640.4,
+          "incomeRatio": 10.53,
+          "cost": 2248010593.59,
+          "costRatio": 10.67,
+          "profit": 753001046.81,
+          "profitRatio": 10.14,
+          "grossMargin": 25.09,
+          "rank": 4
+        },
+        {
+          "name": "铁路运输收入",
+          "income": 2496514331.42,
+          "incomeRatio": 8.76,
+          "cost": 1984277203.88,
+          "costRatio": 9.42,
+          "profit": 512237127.54,
+          "profitRatio": 6.9,
+          "grossMargin": 20.52,
+          "rank": 5
+        },
+        {
+          "name": "湖北省通行费收入",
+          "income": 1064691591.76,
+          "incomeRatio": 3.74,
+          "cost": 469252648.71,
+          "costRatio": 2.23,
+          "profit": 595438943.05,
+          "profitRatio": 8.02,
+          "grossMargin": 55.93,
+          "rank": 6
+        },
+        {
+          "name": "其他(补充)",
+          "income": 837570339.57,
+          "incomeRatio": 2.94,
+          "cost": 481773821.84,
+          "costRatio": 2.29,
+          "profit": 355796517.73,
+          "profitRatio": 4.79,
+          "grossMargin": 42.48,
+          "rank": 7
+        },
+        {
+          "name": "高速公路托管收入",
+          "income": 650887019.33,
+          "incomeRatio": 2.28,
+          "cost": 630942661.99,
+          "costRatio": 2.99,
+          "profit": 19944357.34,
+          "profitRatio": 0.27,
+          "grossMargin": 3.06,
+          "rank": 8
+        },
+        {
+          "name": "工程施工收入",
+          "income": 365904411.75,
+          "incomeRatio": 1.28,
+          "cost": 351500027.81,
+          "costRatio": 1.67,
+          "profit": 14404383.94,
+          "profitRatio": 0.19,
+          "grossMargin": 3.94,
+          "rank": 9
+        },
+        {
+          "name": "四川省通行费收入",
+          "income": 307516294.23,
+          "incomeRatio": 1.08,
+          "cost": 176135707.34,
+          "costRatio": 0.84,
+          "profit": 131380586.89,
+          "profitRatio": 1.77,
+          "grossMargin": 42.72,
+          "rank": 10
+        },
+        {
+          "name": "软件、技术服务",
+          "income": 303468348.9,
+          "incomeRatio": 1.06,
+          "cost": 178183072.25,
+          "costRatio": 0.85,
+          "profit": 125285276.65,
+          "profitRatio": 1.69,
+          "grossMargin": 41.28,
+          "rank": 11
+        },
+        {
+          "name": "河南省通行费收入",
+          "income": 272956585.29,
+          "incomeRatio": 0.96,
+          "cost": 141516424.39,
+          "costRatio": 0.67,
+          "profit": 131440160.9,
+          "profitRatio": 1.77,
+          "grossMargin": 48.15,
+          "rank": 12
+        },
+        {
+          "name": "湖南省通行费收入",
+          "income": 263711340.05,
+          "incomeRatio": 0.93,
+          "cost": 185762729.5,
+          "costRatio": 0.88,
+          "profit": 77948610.55,
+          "profitRatio": 1.05,
+          "grossMargin": 29.56,
+          "rank": 13
+        },
+        {
+          "name": "其他",
+          "income": 252759521.0,
+          "incomeRatio": 0.89,
+          "cost": 187396788.74,
+          "costRatio": 0.89,
+          "profit": 65362732.26,
+          "profitRatio": 0.88,
+          "grossMargin": 25.86,
+          "rank": 14
+        },
+        {
+          "name": "其中:其他",
+          "income": 611924697.08,
+          "incomeRatio": 2.15,
+          "cost": 360481687.12,
+          "costRatio": 1.71,
+          "profit": 251443009.96,
+          "profitRatio": 3.39,
+          "grossMargin": 41.09,
+          "rank": 15
+        },
+        {
+          "name": "其中:租赁收入",
+          "income": 225645642.49,
+          "incomeRatio": 0.79,
+          "cost": 121292134.72,
+          "costRatio": 0.58,
+          "profit": 104353507.77,
+          "profitRatio": 1.41,
+          "grossMargin": 46.25,
+          "rank": 16
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "其他主营业务",
+          "income": 18001825013.68,
+          "incomeRatio": 63.18,
+          "cost": 15908878872.49,
+          "costRatio": 75.51,
+          "profit": 2092946141.19,
+          "profitRatio": 28.18,
+          "grossMargin": 11.63,
+          "rank": 1
+        },
+        {
+          "name": "山东地区",
+          "income": 7746004445.58,
+          "incomeRatio": 27.18,
+          "cost": 3704946163.41,
+          "costRatio": 17.59,
+          "profit": 4041058282.17,
+          "profitRatio": 54.42,
+          "grossMargin": 52.17,
+          "rank": 2
+        },
+        {
+          "name": "湖北地区",
+          "income": 1064691591.76,
+          "incomeRatio": 3.74,
+          "cost": 469252648.71,
+          "costRatio": 2.23,
+          "profit": 595438943.05,
+          "profitRatio": 8.02,
+          "grossMargin": 55.93,
+          "rank": 3
+        },
+        {
+          "name": "其他(补充)",
+          "income": 837570339.57,
+          "incomeRatio": 2.94,
+          "cost": 481773821.84,
+          "costRatio": 2.29,
+          "profit": 355796517.73,
+          "profitRatio": 4.79,
+          "grossMargin": 42.48,
+          "rank": 4
+        },
+        {
+          "name": "四川地区",
+          "income": 307516294.23,
+          "incomeRatio": 1.08,
+          "cost": 176135707.34,
+          "costRatio": 0.84,
+          "profit": 131380586.89,
+          "profitRatio": 1.77,
+          "grossMargin": 42.72,
+          "rank": 5
+        },
+        {
+          "name": "河南地区",
+          "income": 272956585.29,
+          "incomeRatio": 0.96,
+          "cost": 141516424.39,
+          "costRatio": 0.67,
+          "profit": 131440160.9,
+          "profitRatio": 1.77,
+          "grossMargin": 48.15,
+          "rank": 6
+        },
+        {
+          "name": "湖南地区",
+          "income": 263711340.05,
+          "incomeRatio": 0.93,
+          "cost": 185762729.5,
+          "costRatio": 0.88,
+          "profit": 77948610.55,
+          "profitRatio": 1.05,
+          "grossMargin": 29.56,
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "reportDate": "2023-12-31",
+      "byIndustry": [
+        {
+          "name": "高速公路通行费",
+          "income": 10246818912.33,
+          "incomeRatio": 38.6,
+          "cost": 4752974884.24,
+          "costRatio": 25.72,
+          "profit": 5493844028.09,
+          "profitRatio": 68.11,
+          "grossMargin": 53.62,
+          "rank": 1
+        },
+        {
+          "name": "建造服务收入",
+          "income": 5183188520.97,
+          "incomeRatio": 19.53,
+          "cost": 5183188520.97,
+          "costRatio": 28.05,
+          "profit": 0.0,
+          "profitRatio": null,
+          "grossMargin": 0.0,
+          "rank": 2
+        },
+        {
+          "name": "机电工程施工收入",
+          "income": 3389601014.18,
+          "incomeRatio": 12.77,
+          "cost": 2426298648.65,
+          "costRatio": 13.13,
+          "profit": 963302365.53,
+          "profitRatio": 11.94,
+          "grossMargin": 28.42,
+          "rank": 3
+        },
+        {
+          "name": "销售商品收入",
+          "income": 3168954771.39,
+          "incomeRatio": 11.94,
+          "cost": 2669338115.96,
+          "costRatio": 14.44,
+          "profit": 499616655.43,
+          "profitRatio": 6.19,
+          "grossMargin": 15.77,
+          "rank": 4
+        },
+        {
+          "name": "铁路运输收入",
+          "income": 2370718544.07,
+          "incomeRatio": 8.93,
+          "cost": 1830454905.38,
+          "costRatio": 9.9,
+          "profit": 540263638.69,
+          "profitRatio": 6.7,
+          "grossMargin": 22.79,
+          "rank": 5
+        },
+        {
+          "name": "其他(补充)",
+          "income": 749787076.76,
+          "incomeRatio": 2.82,
+          "cost": 355423014.04,
+          "costRatio": 1.92,
+          "profit": 394364062.72,
+          "profitRatio": 4.89,
+          "grossMargin": 52.6,
+          "rank": 6
+        },
+        {
+          "name": "高速公路托管收入",
+          "income": 629765803.97,
+          "incomeRatio": 2.37,
+          "cost": 610359200.0,
+          "costRatio": 3.3,
+          "profit": 19406603.97,
+          "profitRatio": 0.24,
+          "grossMargin": 3.08,
+          "rank": 7
+        },
+        {
+          "name": "软件、技术服务",
+          "income": 443681672.79,
+          "incomeRatio": 1.67,
+          "cost": 343671859.72,
+          "costRatio": 1.86,
+          "profit": 100009813.07,
+          "profitRatio": 1.24,
+          "grossMargin": 22.54,
+          "rank": 8
+        },
+        {
+          "name": "工程施工收入",
+          "income": 226141510.79,
+          "incomeRatio": 0.85,
+          "cost": 200975029.87,
+          "costRatio": 1.09,
+          "profit": 25166480.92,
+          "profitRatio": 0.31,
+          "grossMargin": 11.13,
+          "rank": 9
+        },
+        {
+          "name": "其他",
+          "income": 136986279.53,
+          "incomeRatio": 0.52,
+          "cost": 107380185.03,
+          "costRatio": 0.58,
+          "profit": 29606094.5,
+          "profitRatio": 0.37,
+          "grossMargin": 21.61,
+          "rank": 10
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "山东省通行费收入",
+          "income": 8290515662.88,
+          "incomeRatio": 31.23,
+          "cost": 3827370504.06,
+          "costRatio": 20.71,
+          "profit": 4463145158.82,
+          "profitRatio": 55.34,
+          "grossMargin": 53.83,
+          "rank": 1
+        },
+        {
+          "name": "建造服务收入",
+          "income": 5183188520.97,
+          "incomeRatio": 19.53,
+          "cost": 5183188520.97,
+          "costRatio": 28.05,
+          "profit": 0.0,
+          "profitRatio": null,
+          "grossMargin": 0.0,
+          "rank": 2
+        },
+        {
+          "name": "机电工程施工收入",
+          "income": 3389601014.18,
+          "incomeRatio": 12.77,
+          "cost": 2426298648.65,
+          "costRatio": 13.13,
+          "profit": 963302365.53,
+          "profitRatio": 11.94,
+          "grossMargin": 28.42,
+          "rank": 3
+        },
+        {
+          "name": "销售商品收入",
+          "income": 3168954771.39,
+          "incomeRatio": 11.94,
+          "cost": 2669338115.96,
+          "costRatio": 14.44,
+          "profit": 499616655.43,
+          "profitRatio": 6.19,
+          "grossMargin": 15.77,
+          "rank": 4
+        },
+        {
+          "name": "铁路运输收入",
+          "income": 2370718544.07,
+          "incomeRatio": 8.93,
+          "cost": 1830454905.38,
+          "costRatio": 9.9,
+          "profit": 540263638.69,
+          "profitRatio": 6.7,
+          "grossMargin": 22.79,
+          "rank": 5
+        },
+        {
+          "name": "湖北省通行费收入",
+          "income": 1074219410.48,
+          "incomeRatio": 4.05,
+          "cost": 425605041.65,
+          "costRatio": 2.3,
+          "profit": 648614368.83,
+          "profitRatio": 8.04,
+          "grossMargin": 60.38,
+          "rank": 6
+        },
+        {
+          "name": "其他(补充)",
+          "income": 749787076.76,
+          "incomeRatio": 2.82,
+          "cost": 355423014.04,
+          "costRatio": 1.92,
+          "profit": 394364062.72,
+          "profitRatio": 4.89,
+          "grossMargin": 52.6,
+          "rank": 7
+        },
+        {
+          "name": "高速公路托管收入",
+          "income": 629765803.97,
+          "incomeRatio": 2.37,
+          "cost": 610359200.0,
+          "costRatio": 3.3,
+          "profit": 19406603.97,
+          "profitRatio": 0.24,
+          "grossMargin": 3.08,
+          "rank": 8
+        },
+        {
+          "name": "软件、技术服务",
+          "income": 443681672.79,
+          "incomeRatio": 1.67,
+          "cost": 343671859.72,
+          "costRatio": 1.86,
+          "profit": 100009813.07,
+          "profitRatio": 1.24,
+          "grossMargin": 22.54,
+          "rank": 9
+        },
+        {
+          "name": "四川省通行费收入",
+          "income": 320563689.09,
+          "incomeRatio": 1.21,
+          "cost": 163462391.15,
+          "costRatio": 0.88,
+          "profit": 157101297.94,
+          "profitRatio": 1.95,
+          "grossMargin": 49.01,
+          "rank": 10
+        },
+        {
+          "name": "湖南省通行费收入",
+          "income": 283077983.91,
+          "incomeRatio": 1.07,
+          "cost": 199886279.78,
+          "costRatio": 1.08,
+          "profit": 83191704.13,
+          "profitRatio": 1.03,
+          "grossMargin": 29.39,
+          "rank": 11
+        },
+        {
+          "name": "河南省通行费收入",
+          "income": 278442165.97,
+          "incomeRatio": 1.05,
+          "cost": 136650667.6,
+          "costRatio": 0.74,
+          "profit": 141791498.37,
+          "profitRatio": 1.76,
+          "grossMargin": 50.92,
+          "rank": 12
+        },
+        {
+          "name": "工程施工收入",
+          "income": 226141510.79,
+          "incomeRatio": 0.85,
+          "cost": 200975029.87,
+          "costRatio": 1.09,
+          "profit": 25166480.92,
+          "profitRatio": 0.31,
+          "grossMargin": 11.13,
+          "rank": 13
+        },
+        {
+          "name": "其他",
+          "income": 136986279.53,
+          "incomeRatio": 0.52,
+          "cost": 107380185.03,
+          "costRatio": 0.58,
+          "profit": 29606094.5,
+          "profitRatio": 0.37,
+          "grossMargin": 21.61,
+          "rank": 14
+        },
+        {
+          "name": "其中:其他",
+          "income": 527461027.8,
+          "incomeRatio": 1.99,
+          "cost": 273774258.67,
+          "costRatio": 1.48,
+          "profit": 253686769.13,
+          "profitRatio": 3.15,
+          "grossMargin": 48.1,
+          "rank": 15
+        },
+        {
+          "name": "其中:租赁收入",
+          "income": 222326048.96,
+          "incomeRatio": 0.84,
+          "cost": 81648755.37,
+          "costRatio": 0.44,
+          "profit": 140677293.59,
+          "profitRatio": 1.74,
+          "grossMargin": 63.28,
+          "rank": 16
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "其他主营业务",
+          "income": 15549038117.69,
+          "incomeRatio": 58.57,
+          "cost": 13371666465.58,
+          "costRatio": 72.36,
+          "profit": 2177371652.11,
+          "profitRatio": 27.0,
+          "grossMargin": 14.0,
+          "rank": 1
+        },
+        {
+          "name": "山东地区",
+          "income": 8290515662.88,
+          "incomeRatio": 31.23,
+          "cost": 3827370504.06,
+          "costRatio": 20.71,
+          "profit": 4463145158.82,
+          "profitRatio": 55.34,
+          "grossMargin": 53.83,
+          "rank": 2
+        },
+        {
+          "name": "湖北地区",
+          "income": 1074219410.48,
+          "incomeRatio": 4.05,
+          "cost": 425605041.65,
+          "costRatio": 2.3,
+          "profit": 648614368.83,
+          "profitRatio": 8.04,
+          "grossMargin": 60.38,
+          "rank": 3
+        },
+        {
+          "name": "其他(补充)",
+          "income": 749787076.76,
+          "incomeRatio": 2.82,
+          "cost": 355423014.04,
+          "costRatio": 1.92,
+          "profit": 394364062.72,
+          "profitRatio": 4.89,
+          "grossMargin": 52.6,
+          "rank": 4
+        },
+        {
+          "name": "四川地区",
+          "income": 320563689.09,
+          "incomeRatio": 1.21,
+          "cost": 163462391.15,
+          "costRatio": 0.88,
+          "profit": 157101297.94,
+          "profitRatio": 1.95,
+          "grossMargin": 49.01,
+          "rank": 5
+        },
+        {
+          "name": "湖南地区",
+          "income": 283077983.91,
+          "incomeRatio": 1.07,
+          "cost": 199886279.78,
+          "costRatio": 1.08,
+          "profit": 83191704.13,
+          "profitRatio": 1.03,
+          "grossMargin": 29.39,
+          "rank": 6
+        },
+        {
+          "name": "河南地区",
+          "income": 278442165.97,
+          "incomeRatio": 1.05,
+          "cost": 136650667.6,
+          "costRatio": 0.74,
+          "profit": 141791498.37,
+          "profitRatio": 1.76,
+          "grossMargin": 50.92,
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "reportDate": "2022-12-31",
+      "byIndustry": [
+        {
+          "name": "高速公路通行费",
+          "income": 9302997972.66,
+          "incomeRatio": 50.32,
+          "cost": 4254977956.99,
+          "costRatio": 35.23,
+          "profit": 5048020015.67,
+          "profitRatio": 78.77,
+          "grossMargin": 54.26,
+          "rank": 1
+        },
+        {
+          "name": "PPP项目建造",
+          "income": 2574957824.69,
+          "incomeRatio": 13.93,
+          "cost": 2574957824.69,
+          "costRatio": 21.32,
+          "profit": 0.0,
+          "profitRatio": null,
+          "grossMargin": 0.0,
+          "rank": 2
+        },
+        {
+          "name": "销售商品收入",
+          "income": 2552657941.37,
+          "incomeRatio": 13.81,
+          "cost": 2120939904.64,
+          "costRatio": 17.56,
+          "profit": 431718036.73,
+          "profitRatio": 6.74,
+          "grossMargin": 16.91,
+          "rank": 3
+        },
+        {
+          "name": "铁路运输收入",
+          "income": 2041972275.56,
+          "incomeRatio": 11.05,
+          "cost": 1649698585.99,
+          "costRatio": 13.66,
+          "profit": 392273689.57,
+          "profitRatio": 6.12,
+          "grossMargin": 19.21,
+          "rank": 4
+        },
+        {
+          "name": "工程施工收入",
+          "income": 747716258.89,
+          "incomeRatio": 4.04,
+          "cost": 561048796.43,
+          "costRatio": 4.65,
+          "profit": 186667462.46,
+          "profitRatio": 2.91,
+          "grossMargin": 24.96,
+          "rank": 5
+        },
+        {
+          "name": "高速公路托管收入",
+          "income": 657986320.65,
+          "incomeRatio": 3.56,
+          "cost": 609317800.0,
+          "costRatio": 5.04,
+          "profit": 48668520.65,
+          "profitRatio": 0.76,
+          "grossMargin": 7.4,
+          "rank": 6
+        },
+        {
+          "name": "其他(补充)",
+          "income": 540850695.69,
+          "incomeRatio": 2.93,
+          "cost": 254951875.71,
+          "costRatio": 2.11,
+          "profit": 285898819.98,
+          "profitRatio": 4.46,
+          "grossMargin": 52.86,
+          "rank": 7
+        },
+        {
+          "name": "其他",
+          "income": 67216003.49,
+          "incomeRatio": 0.36,
+          "cost": 52003866.42,
+          "costRatio": 0.43,
+          "profit": 15212137.07,
+          "profitRatio": 0.24,
+          "grossMargin": 22.63,
+          "rank": 8
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "山东省通行费收入",
+          "income": 7535606513.27,
+          "incomeRatio": 40.76,
+          "cost": 3409818603.25,
+          "costRatio": 28.23,
+          "profit": 4125787910.02,
+          "profitRatio": 64.38,
+          "grossMargin": 54.75,
+          "rank": 1
+        },
+        {
+          "name": "PPP项目建造收入",
+          "income": 2574957824.69,
+          "incomeRatio": 13.93,
+          "cost": 2574957824.69,
+          "costRatio": 21.32,
+          "profit": 0.0,
+          "profitRatio": null,
+          "grossMargin": 0.0,
+          "rank": 2
+        },
+        {
+          "name": "销售商品收入",
+          "income": 2552657941.37,
+          "incomeRatio": 13.81,
+          "cost": 2120939904.64,
+          "costRatio": 17.56,
+          "profit": 431718036.73,
+          "profitRatio": 6.74,
+          "grossMargin": 16.91,
+          "rank": 3
+        },
+        {
+          "name": "铁路运输收入",
+          "income": 2041972275.56,
+          "incomeRatio": 11.05,
+          "cost": 1649698585.99,
+          "costRatio": 13.66,
+          "profit": 392273689.57,
+          "profitRatio": 6.12,
+          "grossMargin": 19.21,
+          "rank": 4
+        },
+        {
+          "name": "湖北省通行费收入",
+          "income": 938862468.0,
+          "incomeRatio": 5.08,
+          "cost": 396825462.41,
+          "costRatio": 3.29,
+          "profit": 542037005.59,
+          "profitRatio": 8.46,
+          "grossMargin": 57.73,
+          "rank": 5
+        },
+        {
+          "name": "工程施工收入",
+          "income": 747716258.89,
+          "incomeRatio": 4.04,
+          "cost": 561048796.43,
+          "costRatio": 4.65,
+          "profit": 186667462.46,
+          "profitRatio": 2.91,
+          "grossMargin": 24.96,
+          "rank": 6
+        },
+        {
+          "name": "高速公路托管收入",
+          "income": 657986320.65,
+          "incomeRatio": 3.56,
+          "cost": 609317800.0,
+          "costRatio": 5.04,
+          "profit": 48668520.65,
+          "profitRatio": 0.76,
+          "grossMargin": 7.4,
+          "rank": 7
+        },
+        {
+          "name": "其他(补充)",
+          "income": 540850695.69,
+          "incomeRatio": 2.93,
+          "cost": 254951875.71,
+          "costRatio": 2.11,
+          "profit": 285898819.98,
+          "profitRatio": 4.46,
+          "grossMargin": 52.86,
+          "rank": 8
+        },
+        {
+          "name": "四川省通行费收入",
+          "income": 305784688.79,
+          "incomeRatio": 1.65,
+          "cost": 163555113.3,
+          "costRatio": 1.35,
+          "profit": 142229575.49,
+          "profitRatio": 2.22,
+          "grossMargin": 46.51,
+          "rank": 9
+        },
+        {
+          "name": "河南省通行费收入",
+          "income": 282288759.27,
+          "incomeRatio": 1.53,
+          "cost": 129355483.17,
+          "costRatio": 1.07,
+          "profit": 152933276.1,
+          "profitRatio": 2.39,
+          "grossMargin": 54.18,
+          "rank": 10
+        },
+        {
+          "name": "湖南省通行费收入",
+          "income": 240455543.33,
+          "incomeRatio": 1.3,
+          "cost": 155423294.86,
+          "costRatio": 1.29,
+          "profit": 85032248.47,
+          "profitRatio": 1.33,
+          "grossMargin": 35.36,
+          "rank": 11
+        },
+        {
+          "name": "其他",
+          "income": 67216003.49,
+          "incomeRatio": 0.36,
+          "cost": 52003866.42,
+          "costRatio": 0.43,
+          "profit": 15212137.07,
+          "profitRatio": 0.24,
+          "grossMargin": 22.63,
+          "rank": 12
+        },
+        {
+          "name": "其中:其他",
+          "income": 411655988.01,
+          "incomeRatio": 2.23,
+          "cost": 217209439.63,
+          "costRatio": 1.8,
+          "profit": 194446548.38,
+          "profitRatio": 3.03,
+          "grossMargin": 47.24,
+          "rank": 13
+        },
+        {
+          "name": "其中:租赁收入",
+          "income": 129194707.68,
+          "incomeRatio": 0.7,
+          "cost": 37742436.08,
+          "costRatio": 0.31,
+          "profit": 91452271.6,
+          "profitRatio": 1.43,
+          "grossMargin": 70.79,
+          "rank": 14
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "其他主营业务",
+          "income": 8642506624.65,
+          "incomeRatio": 46.75,
+          "cost": 7567966778.17,
+          "costRatio": 62.66,
+          "profit": 1074539846.48,
+          "profitRatio": 16.77,
+          "grossMargin": 12.43,
+          "rank": 1
+        },
+        {
+          "name": "山东地区",
+          "income": 7535606513.27,
+          "incomeRatio": 40.76,
+          "cost": 3409818603.25,
+          "costRatio": 28.23,
+          "profit": 4125787910.02,
+          "profitRatio": 64.38,
+          "grossMargin": 54.75,
+          "rank": 2
+        },
+        {
+          "name": "湖北地区",
+          "income": 938862468.0,
+          "incomeRatio": 5.08,
+          "cost": 396825462.41,
+          "costRatio": 3.29,
+          "profit": 542037005.59,
+          "profitRatio": 8.46,
+          "grossMargin": 57.73,
+          "rank": 3
+        },
+        {
+          "name": "其他(补充)",
+          "income": 540850695.69,
+          "incomeRatio": 2.93,
+          "cost": 254951875.71,
+          "costRatio": 2.11,
+          "profit": 285898819.98,
+          "profitRatio": 4.46,
+          "grossMargin": 52.86,
+          "rank": 4
+        },
+        {
+          "name": "四川地区",
+          "income": 305784688.79,
+          "incomeRatio": 1.65,
+          "cost": 163555113.3,
+          "costRatio": 1.35,
+          "profit": 142229575.49,
+          "profitRatio": 2.22,
+          "grossMargin": 46.51,
+          "rank": 5
+        },
+        {
+          "name": "河南地区",
+          "income": 282288759.27,
+          "incomeRatio": 1.53,
+          "cost": 129355483.17,
+          "costRatio": 1.07,
+          "profit": 152933276.1,
+          "profitRatio": 2.39,
+          "grossMargin": 54.18,
+          "rank": 6
+        },
+        {
+          "name": "湖南地区",
+          "income": 240455543.33,
+          "incomeRatio": 1.3,
+          "cost": 155423294.86,
+          "costRatio": 1.29,
+          "profit": 85032248.47,
+          "profitRatio": 1.33,
+          "grossMargin": 35.36,
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "reportDate": "2021-12-31",
+      "byIndustry": [
+        {
+          "name": "高速公路通行费",
+          "income": 9775843707.74,
+          "incomeRatio": 60.33,
+          "cost": 4234759689.9,
+          "costRatio": 46.11,
+          "profit": 5541084017.84,
+          "profitRatio": 78.94,
+          "grossMargin": 56.68,
+          "rank": 1
+        },
+        {
+          "name": "铁路运输收入",
+          "income": 2108740348.26,
+          "incomeRatio": 13.01,
+          "cost": 1623299512.15,
+          "costRatio": 17.68,
+          "profit": 485440836.11,
+          "profitRatio": 6.92,
+          "grossMargin": 23.02,
+          "rank": 2
+        },
+        {
+          "name": "销售商品收入",
+          "income": 1944406944.07,
+          "incomeRatio": 12.0,
+          "cost": 1619650931.6,
+          "costRatio": 17.64,
+          "profit": 324756012.47,
+          "profitRatio": 4.63,
+          "grossMargin": 16.7,
+          "rank": 3
+        },
+        {
+          "name": "工程施工收入",
+          "income": 1226944610.13,
+          "incomeRatio": 7.57,
+          "cost": 900501810.22,
+          "costRatio": 9.81,
+          "profit": 326442799.91,
+          "profitRatio": 4.65,
+          "grossMargin": 26.61,
+          "rank": 4
+        },
+        {
+          "name": "高速公路托管收入",
+          "income": 593569386.74,
+          "incomeRatio": 3.66,
+          "cost": 557772539.51,
+          "costRatio": 6.07,
+          "profit": 35796847.23,
+          "profitRatio": 0.51,
+          "grossMargin": 6.03,
+          "rank": 5
+        },
+        {
+          "name": "其他(补充)",
+          "income": 441382198.92,
+          "incomeRatio": 2.72,
+          "cost": 160815604.16,
+          "costRatio": 1.75,
+          "profit": 280566594.76,
+          "profitRatio": 4.0,
+          "grossMargin": 63.57,
+          "rank": 6
+        },
+        {
+          "name": "其他",
+          "income": 112691232.11,
+          "incomeRatio": 0.7,
+          "cost": 87016104.58,
+          "costRatio": 0.95,
+          "profit": 25675127.53,
+          "profitRatio": 0.37,
+          "grossMargin": 22.78,
+          "rank": 7
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "山东省通行费收入",
+          "income": 7889533433.47,
+          "incomeRatio": 48.69,
+          "cost": 3421142292.53,
+          "costRatio": 37.25,
+          "profit": 4468391140.94,
+          "profitRatio": 63.65,
+          "grossMargin": 56.64,
+          "rank": 1
+        },
+        {
+          "name": "铁路运输收入",
+          "income": 2108740348.26,
+          "incomeRatio": 13.01,
+          "cost": 1623299512.15,
+          "costRatio": 17.68,
+          "profit": 485440836.11,
+          "profitRatio": 6.92,
+          "grossMargin": 23.02,
+          "rank": 2
+        },
+        {
+          "name": "销售商品收入",
+          "income": 1944406944.07,
+          "incomeRatio": 12.0,
+          "cost": 1619650931.6,
+          "costRatio": 17.64,
+          "profit": 324756012.47,
+          "profitRatio": 4.63,
+          "grossMargin": 16.7,
+          "rank": 3
+        },
+        {
+          "name": "工程施工收入",
+          "income": 1226944610.13,
+          "incomeRatio": 7.57,
+          "cost": 900501810.22,
+          "costRatio": 9.81,
+          "profit": 326442799.91,
+          "profitRatio": 4.65,
+          "grossMargin": 26.61,
+          "rank": 4
+        },
+        {
+          "name": "湖北省通行费收入",
+          "income": 989059024.52,
+          "incomeRatio": 6.1,
+          "cost": 336523283.68,
+          "costRatio": 3.66,
+          "profit": 652535740.84,
+          "profitRatio": 9.3,
+          "grossMargin": 65.98,
+          "rank": 5
+        },
+        {
+          "name": "高速公路托管收入",
+          "income": 593569386.74,
+          "incomeRatio": 3.66,
+          "cost": 557772539.51,
+          "costRatio": 6.07,
+          "profit": 35796847.23,
+          "profitRatio": 0.51,
+          "grossMargin": 6.03,
+          "rank": 6
+        },
+        {
+          "name": "其他(补充)",
+          "income": 441382198.92,
+          "incomeRatio": 2.72,
+          "cost": 160815604.16,
+          "costRatio": 1.75,
+          "profit": 280566594.76,
+          "profitRatio": 4.0,
+          "grossMargin": 63.57,
+          "rank": 7
+        },
+        {
+          "name": "河南省通行费收入",
+          "income": 331043628.62,
+          "incomeRatio": 2.04,
+          "cost": 139724229.66,
+          "costRatio": 1.52,
+          "profit": 191319398.96,
+          "profitRatio": 2.73,
+          "grossMargin": 57.79,
+          "rank": 8
+        },
+        {
+          "name": "四川省通行费收入",
+          "income": 322763928.82,
+          "incomeRatio": 1.99,
+          "cost": 175390299.61,
+          "costRatio": 1.91,
+          "profit": 147373629.21,
+          "profitRatio": 2.1,
+          "grossMargin": 45.66,
+          "rank": 9
+        },
+        {
+          "name": "湖南省通行费收入",
+          "income": 243443692.31,
+          "incomeRatio": 1.5,
+          "cost": 161979584.42,
+          "costRatio": 1.76,
+          "profit": 81464107.89,
+          "profitRatio": 1.16,
+          "grossMargin": 33.46,
+          "rank": 10
+        },
+        {
+          "name": "其他",
+          "income": 112691232.11,
+          "incomeRatio": 0.7,
+          "cost": 87016104.58,
+          "costRatio": 0.95,
+          "profit": 25675127.53,
+          "profitRatio": 0.37,
+          "grossMargin": 22.78,
+          "rank": 11
+        },
+        {
+          "name": "其中:其他",
+          "income": 262102030.58,
+          "incomeRatio": 1.62,
+          "cost": 133868894.97,
+          "costRatio": 1.46,
+          "profit": 128233135.61,
+          "profitRatio": 1.83,
+          "grossMargin": 48.92,
+          "rank": 12
+        },
+        {
+          "name": "其中:租赁收入",
+          "income": 179280168.34,
+          "incomeRatio": 1.11,
+          "cost": 26946709.19,
+          "costRatio": 0.29,
+          "profit": 152333459.15,
+          "profitRatio": 2.17,
+          "grossMargin": 84.97,
+          "rank": 13
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "山东地区",
+          "income": 7889533433.47,
+          "incomeRatio": 48.69,
+          "cost": 3421142292.53,
+          "costRatio": 37.25,
+          "profit": 4468391140.94,
+          "profitRatio": 63.65,
+          "grossMargin": 56.64,
+          "rank": 1
+        },
+        {
+          "name": "其他主营业务",
+          "income": 5986352521.31,
+          "incomeRatio": 36.94,
+          "cost": 4788240898.06,
+          "costRatio": 52.14,
+          "profit": 1198111623.25,
+          "profitRatio": 17.07,
+          "grossMargin": 20.01,
+          "rank": 2
+        },
+        {
+          "name": "湖北地区",
+          "income": 989059024.52,
+          "incomeRatio": 6.1,
+          "cost": 336523283.68,
+          "costRatio": 3.66,
+          "profit": 652535740.84,
+          "profitRatio": 9.3,
+          "grossMargin": 65.98,
+          "rank": 3
+        },
+        {
+          "name": "其他(补充)",
+          "income": 441382198.92,
+          "incomeRatio": 2.72,
+          "cost": 160815604.16,
+          "costRatio": 1.75,
+          "profit": 280566594.76,
+          "profitRatio": 4.0,
+          "grossMargin": 63.57,
+          "rank": 4
+        },
+        {
+          "name": "河南地区",
+          "income": 331043628.62,
+          "incomeRatio": 2.04,
+          "cost": 139724229.66,
+          "costRatio": 1.52,
+          "profit": 191319398.96,
+          "profitRatio": 2.73,
+          "grossMargin": 57.79,
+          "rank": 5
+        },
+        {
+          "name": "四川地区",
+          "income": 322763928.82,
+          "incomeRatio": 1.99,
+          "cost": 175390299.61,
+          "costRatio": 1.91,
+          "profit": 147373629.21,
+          "profitRatio": 2.1,
+          "grossMargin": 45.66,
+          "rank": 6
+        },
+        {
+          "name": "湖南地区",
+          "income": 243443692.31,
+          "incomeRatio": 1.5,
+          "cost": 161979584.42,
+          "costRatio": 1.76,
+          "profit": 81464107.89,
+          "profitRatio": 1.16,
+          "grossMargin": 33.46,
+          "rank": 7
+        }
+      ]
+    }
+  ],
+  "analysis": [
+    {
+      "reportDate": "2025-12-31",
+      "businessReview": "2025年,公司全年实现营业收入239.25亿元,实现归属于母公司的净利润32.06亿元。（一）路桥运营板块2025年,公司探索构建“5公里救援圈”,建立突发事件“5分钟到岗指挥”机制,全天候通行率达99.54%。精心打造济青高速、济莱高速两条特色主题路、“三桥一隧”管养标杆,交出了国检现场“零扣分”的满意答卷。通过联合各地文旅、走访重点企业,开展特色服务。深入开展托管运营外部市场开拓,成功中标滨州G228套尔河特大桥收费站业务外包服务项目,实现市场化运营服务输出。2025年,公司实现通行费收入约103.00亿元（含税）,各路段于报告期内的运营数据如下：（1）京台高速相关路段通行费收入变化主要是由于相交路段封闭施工,造成分流效应；济青连接线于2025年1月18日停止收费。（2）潍莱高速通行费收入变化主要是由于2024年10月18日停止收费,进行改扩建。报告期内收入为前期拆账收入延迟到账。（3）利津黄河大桥通行费收入变化主要由于平行路段分流导致。（4）济菏高速通行费收入变化是由于2024年12月20日12时起全线恢复双向通行,同比时期正在进行改扩建。（5）德上高速和莘南高速通行费收入变化主要是由于国道路域环境优化,济菏高速通车小幅分流导致。（二）产业投资板块2025年,公司实现投资收益18.63亿元,同比增长32.86%。2025年,轨道交通集团推进“走出去”拓市场与“请进来”强合作双向发力,通过实施阶梯运价、推进多式联运、召开货主座谈会等一系列举措,累计开发重点新货源34项,全年完成货物运量1.156亿吨,同比增长2.5%。通过实施管内线路提速、试验开行组合列车、站场设施扩容升级等方式提升运能,最大限度保障客户运输需求,路用车周转时间同比压缩4.1%,货运服务质量持续提升。物流产品供给不断优化,大力推行物流总包、运贸一体化服务,全年新开发业务12项、实现收入9.5亿元,推动传统货运向现代物流转型升级。与此同时,轨道交通集团深耕高端装备制造市场,精准对接省内外铁路建设需求,签订济枣、青诸、潍宿高铁共18万块轨道板供应协议,中标南深高铁、贵州水城项目,道口板、双块枕等产品合同额创新高。外加剂产品通过欧盟认证,打通国际化市场通道。完成轨枕出口额1.13亿元,中标塞尔维亚铁路改造项目,成功进入海外铁路施工市场,实现海外市场“扩面增量”。2.信息集团2025年,信息集团实现收入40.47亿元,净利润3.32亿元。2025年,信息集团在国内市场方面,成功中标京福高速支线路段机电、新疆交投大数据平台、基础设施数字化转型等重点项目,全国业务覆盖省份增至31个。海外市场方面,成功中标孟加拉SBS拉链厂房、海军综合楼机电安装等项目,马达加斯加光伏项目顺利并网投用。全年智慧停车创收1.5亿元,智慧能源创收9.15亿元。稳步推进山东省交通运输厅智慧大脑、高速集团数字化转型等重点项目；上线“数智山高AI助手”,打造云收费智能体,交能融合与大模型应用取得阶段性成效。组建山高智联（山东）科技有限公司,构建智慧交通、智能驾驶、低空经济、交能融合多维协同测试体系,同步搭建低空智能网联管控平台。（三）工程建设板块2025年,京台高速齐济段作为全国首条“六改十二”车道高速公路,攻克“边通车边施工、涉铁转体桥建设、超多车道智慧通行”等难题,提前建成通车,打造了超多车道改扩建全国样板。潍莱项目抢抓窗口期,聚力攻坚拿下“先行用地、防洪评价”2项批复,全年成功完成3次交通转序。东深G220项目提前开工建设,全年完成投资10.87亿元,超计划14.8%；疏港涉铁工程历经4轮施工图优化,节约了成本。（四）绿色低碳板块公司探索打造绿色低碳产业平台,逐步构建“投产一批、储备一批、谋划一批”的梯次发展格局。目前已落地邯郸450MW风电项目,万华余热长输管线项目,莱州第二污水厂等分布式光伏项目,中标辛安河污水处理厂、汤阴污泥、通许污泥等,绿色低碳产业布局初显成效。",
+      "futureExpect": "(一)行业格局和趋势交通运输是\"国民经济的大动脉\"和\"中国现代化的开路先锋\"。它不仅是经济循环的物理载体,更是国家重大发展战略的关键支撑,承担着实现\"人享其行、物畅其流\"美好愿景的重任,高速公路作为公路运输的骨干,被誉为交通体系的“大动脉”,在综合交通运输体系中处于核心地位。2025年1—11月,全国完成交通固定资产投资3.27万亿元,同比增速为-5.6%,其中公路完成投资2.22万亿元,同比增速为-5.9%；山东完成公路投资0.11万亿元,同比增速为-28.7%。2025年,全国新改建高速公路8699公里。2025年,全国公路客运量为114.92亿人次,同比增速为-2.4%,其中山东公路客运量为5.61亿人次,同比增速为-4.9%；全国公路货运量为432.88亿吨,同比增速为3.4%,其中山东公路货运量为29.79亿吨,同比增速为2.2%。“十四五”期间,山东建设全国首个交通强国省域示范区,全省公路总里程达29.7万公里,公路密度居全国首位；高速公路由7473公里增至9310公里,双向六车道以上占比达41%,八车道及以上里程达到1600公里,居全国第一,全省“县县双高速”覆盖率达97.8%。交通运输部研究出台了《关于进一步促进高速公路高质量发展的指导意见》,以高质量发展为主题,围绕完善现代化综合交通运输体系,聚焦一体化融合、安全化提升、数智化升级、绿色化转型,提出到2035年建成便捷顺畅、经济高效、安全可靠、融合衔接、绿色集约、智能先进的现代化高速公路网络,总体实现“四个一流”,也就是一流设施、一流技术、一流管理、一流服务。国家“十五五”规划纲要指出,完善现代化综合交通运输体系。完善国家综合立体交通网主骨架,高质量建设沿海沿边沿江、出疆入藏、西部陆海新通道等战略骨干通道,基本建成“八纵八横”高速铁路主通道和国家高速公路网,推进内河高等级航道提质升级,基本建成世界级港口群和机场群。统筹功能提升和绿色安全智能发展,推进交通基础设施更新改造和养护管理,加强安全风险评估和监测预警,实施公路安全韧性提升工程。深化综合交通运输体系改革,推进铁路体制改革和收费公路政策优化。(二)公司发展战略2021-2025期间,公司上下勇担使命、砥砺奋进,实现“十四五”圆满收官。五年来,公司的路桥运营在实干中取得丰硕成果。探索实施路长制管理、全天候通行、集约化运营等先进模式,打造“2030”清障救援品牌,构建“大运营”体系；自主研发“高速通行码”“指尖路赔”“先行后付”等数智产品,率先实现CPC预计费、数字人民币收费；出色完成迎国检任务。公司的工程建设在承压中交出优异答卷。高质量完成京台德齐段、济泰段改扩建工程,均实现提前通车；发挥投建养运全链条优势,成功落地G220改建等3个市场化项目。工程建设累计投资超300亿元,完成改扩建里程325公里,在建里程156公里,为全省经济社会发展蓄势赋能。公司的投资发展在竞争中实现重大突破。收购菏宝高速,购入信息集团65%、养护集团35%股权,并购齐鲁高速股份,创“A控H”先河；并购毅康科技公司,打造绿色产业平台；落地邯郸450MW风电项目,万华余热长输管线项目,莱州第二污水厂等分布式光伏项目,中标辛安河污水处理厂等；组建云创保理,做强畅赢基金,公司市值屡创新高。“十五五”是公司改革发展转型升级、迈向高质量发展的攻坚期,更是公司产业资本布局、培育利润增长点的机遇期。2026年是“十五五”的开局之年,公司将持续聚焦主责主业,抢抓机遇、担当作为,积极推进新一轮五年战略规划的编制工作,奋力实现公司高质量发展新跨越。(三)经营计划2026年,公司将聚焦年度目标,坚定信心、真抓实干。1.智慧运营方面,公司坚持运营服务走在前,提升综合效益。路桥运营是公司发展的“压舱石”,公司将以“夯实基础”为根本,以“安全畅通”为保障,深入开展“抓队伍、夯基础、促服务”专项活动、“政策解读进企业”及特殊运输“绿色通道”专项活动,持续深化大件车定制服务；深化路警、建运、管养联动,提升除雪防滑、防汛抢险综合处置能力；建立“线上报备+动态监测”闭环管理机制,推广长距离、多作业面、集约化流水施工,最大化降低占道施工次数与时长,实现涉路施工全流程监管；全力打造京台高速齐济段智慧运营体系,试点推广“NFC一碰求援”,融合智慧云舱、鹰眼、AI自检等应用,让公众切实感受到智慧高速带来的全新体验。2.产业投资方面,公司坚持市场开拓走在前,推动利润增长。市场是利润的源泉,公司将以发展的眼光抓好市场布局和项目落地。一方面积极寻找优质路桥主业项目,深化“抱团出海”战略,同时利用控股股东资源优势,增厚公司利润。另一方面,充分发挥“投资发展事业部+专业投资子公司+区域类子公司”平台作用,优化资源配置、发挥专业优势、加强流程管理、提升风控能力,加快战新产业布局,在项目落地上取得突破。3.工程建设方面,公司坚持项目攻坚走在前,当好开路先锋。项目是发展之本、增量之源。公司将聚力攻坚重大项目建设,确保潍莱高速改扩建项目、东深高速改扩建项目按期推进,同时主动融入区域发展布局,谋划争取战略性强、效益可期的重点项目。塑强建设品牌,依托潍莱高速改扩建项目,探索改扩建从“物理扩容”向“智慧扩容”转型路径,完善形成具有公司特色的改扩建新模式。4.绿色低碳方面,公司坚持稳健发展走在前,打造新增长极。公司将在“绿色电源、绿色水源、绿色热源、再生资源”方面探索发力,聚焦“投资、建设、运维、交易”全链条管理,抢抓“城市更新”市场机遇,实现绿色低碳板块平稳、有序、健康发展。"
+    },
+    {
+      "reportDate": "2024-12-31",
+      "businessReview": "2024年,公司全年实现营业收入284.94亿元,实现归属于母公司的净利润31.96亿元,实现投资收益14.03亿元。(一)路桥运营聚焦保畅增收,深化\"全天候通行\"模式,公司辖段\"全天候通行率\"达99.1%。与河北共建了\"一路两省四方\"全天候通行平台,当年鲁冀省界主线基本实现零封闭;在29处管理交叉区域全面推行\"顺向清障\",清障时间平均缩短19分钟。开展热线服务提升行动,投诉解决率、服务满意率均达99%以上;聚焦提质增效,高质量备战国检,隧道国评成绩锁定全国第一,擦亮\"山高·行\"服务品牌;建成5个零碳收费站,打造了收费站光伏绿电自发自用、余电上网的零碳运行模式;推广应用自助交接班系统,改变了三十年传统运营管理模式。2024年,公司实现通行费收入(含税)99.28亿元。(1)济青高速通行费收入下降主要是由于济青中线通车分流,交叉路段改扩建影响。(2)G104国道泰曲段通行费收入下降主要原因是地方路段全封闭大中修工程,车辆无法转行泰曲路。(3)河南济晋高速通行费收入下降主要是由于平行路段开通,部分货车回流至地方道路所致。(4)济菏高速通行费收入下降主要是因济菏改扩建施工,道路通行能力下降,部分车道或收费站封闭。(二)资本运营2024年,公司资本运营稳妥推进。一是主业方面,收购泸州东南公司20%股权,实现100%控股;联合湖南高速投资控股有限公司竞得菏宝高速公路新乡至长垣段享有的剩余期限内特许权及其项下全部收益,主线里程49.12公里;二是其他投资方面,实现投资收益14.03亿元。(2)交易性金融资产在持有期间的投资收益减少,主要是项目到期,规模减少。1.齐鲁高速2024年,齐鲁高速实现营业收入70.22亿元,同比增长25.19%,其中从高速公路业务录得收入为10.76亿元,同比下降8.73%;净利润4.97亿元,同比下降6.93%。齐鲁高速自济菏高速收取的通行费收入约为人民币5.25亿元,同比减少11.63%,主要是由于济菏改扩建施工,造成道路通行能力下降,封闭部分车道或收费站导致;自德上及莘南高速收取的通行费收入为5.51亿元,同比减少5.78%。营业收入增加主要是建造期收入确认导致。2.轨道交通2024年轨道交通集团实现营业收入48.46亿元,同比增长6.51%。净利润4.31亿元。一是铁路运输方面,持续加强与国铁济南局、国家能源集团、山东省港口集团合作,通过实施联合营销、阶梯运价、量价互保、物流总包等举措,全年完成运量1.13亿吨,同比增约7%;岚山管理处积极开拓临港铁路沿线货源,强化路港、路企协作,\"一企一策\"提供全程物流解决方案,坪岚线货运量首次突破4000万吨大关,临港线运量达到上年的1.46倍。二是装备制造方面,年内累计完成几内亚轨枕等项目出口额2.75亿元,签订柳梧铁路90万根轨枕供应订单,合同金额3.1亿元;高铁项目市场二次开发取得新突破,中标雄商高铁全线轨枕、岔枕供应项目,中标金额4172万元;立足服务链条延伸,推动完成临滕高速路基段ECP声屏障合同签订工作,实现收入约7000万元。三是施工板块方面,持续深耕跨铁路施工、顶管施工、装修装饰等细分市场,年内累计中标17个外部施工项目、金额3.68亿元;加快推进资质增项升级,取得装修装饰工程壹级、铁路工程贰级、公路工程贰级和矿山工程贰级资质证书,市场竞争力持续提升;做强做优质监业务,铁路工程质量监督业务首次拓展至江苏省、安徽省,地方铁路工程质量监督模式课题顺利通过交通强国建设试点验收。四是资源开发方面,积极推进实体化转型,围绕产业链上下游开展\"运贸一体化\",益羊铁路管理处、大莱龙铁路公司、鲁铁实业公司联合开发石油焦、原盐贸易等业务,增加收入3024万元。3.信息集团2024年,信息集团实现收入44.69亿元,同比增长2.50%,净利润3.69亿元,同比增长17.89%。一是智慧交通板块。中标司库、临滕等多个重点项目,新签合同总额超25亿元;构建零碳智慧高速、智能运维等多领域10余项解决方案,形成了从方案设计到测评验收的全链条技术服务体系;完成40余个机电养护专项和运维,济南绕城高速公路二环线北环段等7条高速通车任务;完成济青中线、滨莱、国高青兰西等12个重点项目的交竣工验收,实现了高质高效收尾,充分发挥了交通板块优势,巩固了主营业务基本盘。二是智慧城市板块。智慧停车规模攀升,创新式建立城市合伙人机制,业务覆盖十余个省市,新签停车项目12个,新增运营服务车位数2.24万个,体量规模、知名度在行业内再提升;智慧能源持续发力,新增能源项目8个,新签合同额超4亿元,中标马达加斯加光伏发电、安徽高速公路新能源工程等项目,打开外部光伏新能源市场;成功落地云南金平示范种植基地智慧化建设、云南曲靖急救中心等项目,在智慧农业、智慧医疗、智慧军工等新领域实现零的突破。三是智慧政企板块。内蒙古智慧大脑项目顺利上线试运行,实现完整对外输出的一体化数字解决方案;33座智慧云收费站实现推广应用,省厅智慧大脑、司库体系建设和智慧法务系统等重点项目稳步推进,显著提升了信息化项目的交付实力与专业水准。四是资产运营板块。全年通信管网运营新签合同额较2023年增长26%,运营管理取得新成效;获评济南市第一批公共数据授权运营单位;智能交通产业园区生态持续完善,租售取得新进展。(三)工程建设一是齐济项目报告期内投资25.88亿元,实现国内首次以小角度高架桥形式跨越既有高速;二是潍莱项目作为全国首条按\"物理扩容+智慧化改造\"改扩建方式获批的高速项目报告期内完成投资1.36亿元;三是济泰项目编制的全国首个《公路\"平安百年品质工程\"创建示范评价验收指南》,由山东省交通厅作为技术标准颁布实施;四是中标G220东深线东营南王村至滨州界段改扩建工程,可带来投资、建设、运营全过程收益。五是2024年12月20日12时起对济菏高速改扩建工程全线恢复双向通行。公司成立于1999年,并于2002年3月在上海证券交易所上市,注册资本48.52亿元。公司主要从事对交通基础设施的投资运营、以及高速公路产业链上下游相关行业等领域的股权投资。目前,公司主要经营路桥运营、资本运营和工程建设三大板块:1.收费路桥运营板块收费路桥运营作为公司的核心业务,一直是公司的主要收入来源。公司主要通过收购方式获取经营性高速公路资产,通过为过往车辆提供通行服务并按照政府收费标准收取车辆通行费的方式获取经营收益。同时公司凭借相关管理经验受托管理其他企业所属高速公路资产,为其提供优质的运营管理服务。目前,公司运营管理的路桥资产总里程约2913公里,其中公司所辖自有路桥资产里程约1604公里、受托管理山东高速集团所属的路桥资产里程约1309公里。2.资本运营板块一是坚持做大做强路桥主业理念,一方面稳住主业基本盘,省内以现有路段改扩建为主,同时积极开拓市场化公路投资建设项目,省外以收购已通车主业项目为主,建设省外区域发展平台。另一方面,不断延伸主业产业链,目前已涵盖智慧交通、养护、物流、工程咨询、轨道交通、金融、环保等多个领域。二是依托资金优势,深化产融结合。依托由畅赢基金、保理公司构成的集科技金融服务平台和保理业务为一体的供应链金融综合服务体系,坚持\"审慎论证、效益优先、风险可控\"原则,加强产业研究,为公司发展提供支撑。基于济青高速、京台高速等改扩建经验,形成了高速公路改扩建从立项到竣工全过程、专业化的管理模式,成立集\"项目建设+主业投资\"于一身的工程管理中心,逐渐发展成工程建设板块,在着力抓好工程建设任务的同时,公司发挥投、融、建、管、养全链条优势,提供项目全周期服务。",
+      "futureExpect": "(一)行业格局和趋势交通运输是国民经济中具有基础性、先导性、战略性的产业,高速公路在交通运输体系中具有重要地位,不仅是基础设施的核心部分,还是经济增长的引擎、区域协调发展的推动力、社会效益的保障、产业升级的促进者。国务院《“十四五”现代综合交通运输体系发展规划》指出,到2025年,综合交通运输基本实现一体化融合发展,智能化、绿色化取得实质性突破,综合能力、服务品质、运行效率和整体效益显著提升,公路通车里程要达550万公里,其中高速公路建成里程要达19万公里。要推动互联网、大数据、人工智能、区块链等新技术与交通行业深度融合。《山东省国民经济和社会发展第十四个五年规划和2035年远景目标纲要》指出,推进高速公路、普通国省道、县乡村公路等多层次公路网高质量发展,加快高速公路扩容改造、道路加密、省际衔接及区域连接线项目建设,优化主要通道内高速公路网络布局,提升连接效能和通达水平。实施普通国省道等级提升、路网优化工程,进一步强化与火车(高铁)站、机场、港口、物流园区等枢纽衔接。《山东省综合立体交通网规划纲要(2023-2035年)》指出,到2035年建成能力充分、覆盖广泛、结构合理、便捷顺畅、衔接高效、绿色集约、智能先进、安全可靠的现代化高质量综合立体交通网,全省干线公路网35000公里以上,其中高速公路15000公里以上,普通国省道20000公里以上。《交通强国山东示范区建设方案(2025-2035年)》指出要打造智慧公路山东样板建设工程,重点将建设智慧公路山东品牌,打造公路智慧管养新模式,强化智慧公路技术研发应用。2025年,将着力抓好四通八达公路网建设,高速公路里程突破9300公里。2023年末,全国公路里程543.68万公里,比上年末增加8.20万公里。公路密度56.63公里/百平方公里,增加0.85公里/百平方公里,其中高速公路里程18.36万公里、增加0.64万公里。2024年1-11月,全国完成交通固定资产投资33975亿元,预计全年约3.8万亿元,其中公路完成投资23627亿元,预计全年新增公路通车里程约5万公里,其中新改(扩)建高速公路超8000公里。截至2024年底,全国公路水路交通固定资产投资完成27982亿元,同比下降7.5%,其中公路建设完成25774亿元,同比下降8.7%。2024年,山东省综合交通投资完成3252亿元,高速公路达到8755公里。(二)公司发展战略1、愿景使命愿景:立志百年企业,打造中国高速公路行业的第一品牌。使命:富员强企,回报社会。核心价值观:高速致远,畅和笃行。2、战略定位中国一流的基础设施投资建设运营服务商。3、战略思想公司“十四五”规划战略思想可归结为“12345”,即一个定位、两条主线、三项保障、四大板块、五大要点。一个定位:基础设施投资建设运营服务商两条主线:做好增量、盘活存量三项保障:党的建设、创新驱动和人才队伍四大板块:运营管理、建设管理、环保产业、产业链投资五大要点:聚焦主业、投资引领、科技赋能、深度开发、精细运营(1)运营管理板块巩固并提升主业盈利能力,以业务创新、模式创新、管理创新为驱动,以智慧高速为依托,打造交通基础设施运营管理的核心竞争力,提升存量资产效益及管理水平,努力实现运营管理输出。“十四五”期末,力争将公司打造成为国内领先、国际知名的交通基础设施运营服务品牌。(2)建设管理板块聚焦路桥主业,坚持质量第一、效益优先,打造中国一流的基础设施投资商和工程承包商,努力走出一条“工程质量过硬、经济效益明显、生态效益突出”的高质量发展之路。(3)环保板块充分利用高速企业现金流优势,积极介入投资收益稳定的“政府购买服务类项目”等新兴产业,通过参股或收购环保领域内优势的企业,不断进行规模扩张;以智慧环保产业为核心产品,致力打造智慧环境运营商,树立国内一流的专业化环保水务运维服务品牌。(4)投资板块一是持续加大优质高速公路项目收购投资力度,做大做强做优主业;二是着重围绕高速公路相关产业链、价值链上下游实施投资,打造主业生态圈;三是适度开展中短期财务投资,作为路桥主业长期稳健收益的有益补充,以及公司探索产业拓展的灵活途径。4、核心策略聚焦主业、投资引领、科技赋能、深度开发、精细运营。聚焦主业——稳中求进:在“十四五”时期,聚焦路桥的投资开发运营,集中公司优质资源支持主业的发展,并依托智慧高速业务,做好运营、管养、管理输出等业务。投资引领——再造强点:充分利用企业现金流优势,积极介入投资收益稳定的“政府购买服务类污水处理、环保产业”等新兴产业,创造新的稳定的营收利润增长点;以项目投资为指引,引领公司在整个交通产业链的布局,形成关键能力,打造新的收入利润增长点。科技赋能——提升品质:充分整合现有资源,不断改进技术,提高生产效率、产品质量和服务能力。以科技应用为抓手,全面提升公司各主业发展的科技水平,同时有利于降低成本,提升效率。深度开发——盘活资源:聚焦主责主业,延长公司产业链、稳固供应链、提升价值链,培育主业优势突出、产融紧密结合、产业协同推进的“大交通”产业生态。围绕公司现有路产及附属资源、现有数据进行深度开发,充分挖掘现有存量资源的潜力,提升资源的开发效率,释放资源的潜能。精细运营——提质增效:构建“系统完备、科学规范、运行高效、充满活力”的管理体系,推动公司管理体系和管理能力现代化。公司将以十四五时期需要实现的战略目标为指引,针对性设计管控模式、组织结构、岗位、薪酬绩效、制度流程,使内部管理精准的匹配战略需求,提升公司综合运营效率。(三)经营计划1.夯实主业“基本盘”,聚力在路桥运营增收创效上取得新突破一是优化运营体系。打造流程清晰、权责明确、协同有序、资源互补的运管模式,建立多部门、多业务联动,全过程、全方位贯通的服务体系,进一步贴近市场、贴近客户,不断提高“山高·行”品牌影响力。二是聚焦保畅服务。深耕全天候通行,重点抓好极端天气、重大突发事故应急处置,提升路网级大调度能力;强化数智赋能,以提升公路基础设施安全韧性为重点,狠抓投诉处理,积极推行“清障救援一站式服务”,实现服务提质增效。2.做强产业“发动机”,聚力在投资引擎拉动上取得新突破一是做大做强主业板块。聚焦央企退出非主业、民企出让的机遇,加大省外优质路产收购力度,拓展新建路桥项目,择机参股同行业上市公司,稳固主业增量盘。二是优化投资布局。强化人才队伍建设,扎实开展产业研究,全力做好投资全流程管理,持续优化收入结构,不断增强企业可持续发展能力。三是深化协同协作。开辟高速集团内协同新路径,借助高速集团的地域优势、专业领域优势、产融优势,协同集团主业产业链、价值链、供应链、创新链,合作出省进城下县,把链条做强。同时构建公司内部协同新格局,借助投融建管养一体化优势,进一步深化各板块、各条线间战略协同、资源协同、产业链协同。3.锚定建设“压舱石”,聚力在工程建设加速提效上取得新突破一是抓好工作的系统性。重点锚定“1通车、2突破、3建设、2竣工,创造工程建设的新标杆。二是抓好工作的精细化。不能仅仅局限于完成工程建设投资任务,还要考虑项目投建是否达到最优方案,是否发挥好“建管养运服”一体化优势。全力提高多项目统筹组织能力,齐济改扩建、G220项目、潍莱改扩建三个在建项目要在抓好质量及安全管控、优化交通组织方案上攻坚提速,梳理工程量,倒排工期、挂图作战,完成年度建设任务目标。"
+    },
+    {
+      "reportDate": "2023-12-31",
+      "businessReview": "公司收入和盈利主要来源于路桥运营、铁路运输和投资运营等,公司高速公路产业链上下游投资对公司利润贡献逐渐显现。2023年,公司全年实现营业收入265.46亿元,实现归属于母公司的净利润32.97亿元,实现投资收益13.71亿元(一)路桥运营方面1、业务表现及分析2023年,路桥运营成效“优”,服务能力再升级。一是大力推行“全天候通行”模式。深化“全天候通行”研究,构建“1+2+4+N”“全天候通行”体系,完成济青高速大流量路段智慧化改造,“全天候通行率”99.45%,“通行码”放行率38.82%,全年拥堵缓行次数、管制时长同比分别降低22%、30%。二是全力打造智慧运营模式。系统平台方面,在山东省内率先实现4项突破:率先实现所辖全部收费站发票“纸改电”,通行效率提高25%以上,每年可节约运营成本260万元;率先实现CPC车辆预计费功能和“数字人民币”收费,提供全渠道支付服务能力;率先应用智能稽核机器人,正确率达97%,同比人工提效40%;率先应用自助交接班系统,工作效率提升2倍以上。依托畅和通平台,组织文旅专项营销7场次,吸引入驻企业12240家,增收105万元。硬件提升方面,建成山东省内首个轻量化数字收费站,建设崮山、章丘西“零碳收费站”,探索“智慧+零碳”收费模式。推出山东省内首个智能伸缩臂发卡机器人,应用新型自助缴费机,解决司乘停车难、取卡难、交卡难等痛点问题。标准化建设方面,形成“一本一册一图一视频”的标准化体系,标准指标达标率达81%;成功发布5项团标,其中《高速公路限速标准设置规范》有效填补了国内行业空白。三是着力提升养护效能。高质量打造800公里精准养护示范路,累计创建达标占比77.5%;上线山东省内首个“隧道智能巡检机器人”,填补省内隧道管养空白,走在国内前列。2023年,公司实现通行费收入(含税)105.57亿元,各路段于报告期内的基本运营数据如下:单位:万元注:本表通行费收入为含税金额;本表数据为原始数据将元换算为万元并保留两位小数得来,同比数据为原始计算保留两位小数得来。(1)京台高速相关路段变化,主要原因:京台高速济泰段改扩建工程于2022年10月12日建成通车,显著提高京台高速公路山东段整体通行能力和服务水平。(2)济莱高速变化,主要原因:宏观经济恢复,车流量上升。(3)许昌-禹州高速公路变化,主要原因:宏观经济恢复,车流量上升。(4)威海-乳山高速公路变化,主要原因:宏观经济恢复,车流量上升。(5)济南黄河二桥变化,主要原因:济南黄河二桥为京台高速齐济段上桥梁,京台高速济泰段改扩建工程于2022年10月12日建成通车对其有带动作用。(6)湖南衡邵高速变化,主要原因:宏观经济恢复,车流量上升。(7)利津黄河公路大桥变化,主要原因:宏观经济恢复,车流量上升。(8)河南济晋高速变化,主要原因:平行路段开通。(9)四川泸渝高速变化,主要原因:平行路段开通。(10)济菏高速变化,主要原因:济菏高速改扩建全面展开,2023年2月16日起主线半幅封闭施工、半幅单向通行。2、核心路产改扩建情况一是京台高速齐济段改扩建项目。完成投资23.12亿元,提前一个半月完成年度投资目标、超全年任务32个百分点。二是济菏高速改扩建项目。完成年度投资52.6亿,按照“半幅封闭施工、半幅单向保通”总体交通组织方案,顺利完成济南方向道路封闭和全线交通导改。(二)投资运营方面2023年,公司资本运营稳妥推进。一是主业产业链布局实现新突破。增资养护集团10.11亿元,获得其30%股权。完成信息集团65%股权收购,提前布局道路养护市场及智慧交通转型发展;二是债权投资积极贡献。债权投资在持有期间取得的利息收入3.36亿元,进一步丰厚公司经营业绩。投资收益组成如下:单位:万元注:(1)权益法核算的长期股权投资贡献的投资收益(2)交易性金融资产在持有期间的投资收益变化,主要是益科大厦投资项目投资收益变动所致。(3)债权投资在持有期间取得的利息收入贡献的投资收益(三)齐鲁高速情况报告期内,齐鲁高速的收入56.09亿元,较去年29.31亿元增加91.34%,其中从高速公路业务录得收入为11.45亿元,同比下降26.58%;税后利润5.34亿元,同比下降31.58%。齐鲁高速自济菏高速收取的通行费收入约为人民币5.95亿元,较去年11.23亿元,同比减少47.07%;自德上及莘南高速收取的通行费收入为5.84亿元,较去年的4.83亿元,同比增加21.08%。主要是因为自2023年2月16日起菏高速改扩建项目进行封闭施工,济菏高速主线半幅封闭通行,部分收费站暂时无法通行,导致济菏高速车流量大幅下降,对通行费收入造成较大影响。注:上述数据口径为国内会计准则,境内外准则无重大差异。(四)轨道交通集团情况2023年轨道交通集团实现营业收入45.50亿元,同比增长2.82%。净利润4.47亿元,同比增长14.78%。一是强化营销、创收增效,运量突破亿吨大关。全年完成运量1.05亿吨,同比增长17.6%,成为全国首家年货运量破亿吨的省级地方铁路企业。以高附加值油品货源开发为营销重点,全年油品运量完成1862万吨,同比增长12.4%。益羊铁路、坪岚铁路年货物运量同比增长率均突破10%,临港铁路运量达到879万吨,同比增长117%。二是内挖潜力、外拓市场,强链延链补链亮点突出。产品制造板块多点突破。铁建装备公司积极做好轨道板生产供应保障工作,全年生产轨道板7.5万块,助力济郑等高铁项目顺利通车。资源开发板块转型稳步推进。绿色矿山建设取得新突破,矿山项目顺利通过能源管理体系及“三体系”认证,成功进入第六批省级绿色矿山名录。建设施工板块提质升级。鲁道工程公司依托铁路、港口资源优势加强市场开拓,持续深耕跨铁路施工、顶管施工等细分市场,全年开拓外部项目金额超3亿元,同比增长63%。三是立足全局、克难攻坚,重点项目全面突破。持续完善区域路网。全力推进坪岚铁路扩能改造工程,克服站场改造施工作业面狭窄、管线迁改困难等难题,项目提前6个月通车试运行,年运输能力由3000万吨提升至8000万吨,实现省内地方铁路复线“零的突破”。积极研发高压真空挤出成型板(ECP),设备安装调试工作稳步推进,产品序列进一步丰富。四是突出重点、多措并举,打好降本增效“组合拳”。聚焦成本领先战略,总结提炼“七九工作法”,注重闲置资产盘活,通过钢轨处置、房屋租赁等方式,全年实现降本增效4226万元。(五)信息集团情况2023年,信息集团实现收入43.60亿元,同比增长8.72%,净利润3.13亿元。具体表现如下:一是智慧交通业务,信息集团从零碳、智慧两个维度开展技术攻关,参与建成国内首条零碳智慧高速;建设36处智慧云收费站并投入运行,迭代升级云收费站2.0版;圆满完成烟威等4条高速公路机电项目建设任务;高速公路机电运维里程突破1.3万公里;在济青中线项目中探索出“交能融合”发展新路径。二是智慧城市业务,依托智慧停车业务,在武汉、昆明等省外落地运营停车场3个,实现省外停车场运营零突破。三是智慧政企业务,智慧大脑及数字穿透工程完成进度80%,推动数字化转型三年行动取得阶段成效;旗帜公司大数据产品取得国产化认证86项,覆盖麒麟、兆芯等主流国产化环境。",
+      "futureExpect": "(一)行业格局和趋势1、行业政策目前,我国《收费公路管理条例》(修订征求意见稿)尚未正式实施,但其内容提供的政策思路,及收费公路投融资机制改革推进,将一定程度上缓解行业收支不平的巨大压力;但投融资改革实施进程、《收费公路管理条例》修订稿落地实行期及政策效果反馈等方面均需要持续观察。2、行业趋势高速公路运营企业路桥收费到期潮到来,改扩建延续经营。根据现行《公路法》和《收费公路管理条例》,当前经营性高速收费期为25年或30年。高速企业未来5-10年将逐步迎来路产收费到期大潮。改扩建是当前延长收费期的有效方式,根据现行政策,改扩建可根据实际投资情况延长一定年限收费期。改扩建和新建路产获取收费期本质无差异,但在工期、培育期等方面,改扩建具有一定优势。高速公路企业以智慧交通为核心的科技创新不断推进。随着物联网、大数据、云计算、AI等新技术和新理念的应用,高速公路行业的技术创新在不断推进。交通运输部在《加快推进新一代国家交通控制网和智慧公路试点》中明确提到“基础设施数字化、路运一体化车路协同、北斗高精度定位综合应用、基于大数据的路网综合管理、互联网+路网综合服务、新一代国家交通控制”。取消高速公路省界收费站、新一代国家交通控制网和智慧公路试点等新政策新举措的推行,为智慧高速的发展带来契机。通过兼并重组和对外投资等方式寻求高质量发展。从高速公路行业来看,由于高速公路重资产高负债的属性,近年民营企业开始逐步退出,部分省份高速公路由少数几家高速公路国有企业运营管理,形成了寡头垄断的行业格局。寡头垄断的行业格局加快了高速公路行业国有企业重组整合进程,并逐步寻求高质量发展。(二)公司发展战略1、愿景使命愿景:立志百年企业,打造中国高速公路行业的第一品牌。使命:富员强企,回报社会。核心价值观:高速致远,畅和笃行。2、战略定位中国一流的基础设施投资建设运营服务商。3、战略思想公司“十四五”规划战略思想可归结为“12345”,即一个定位、两条主线、三项保障、四大板块、五大要点。一个定位:基础设施投资建设运营服务商两条主线:做好增量、盘活存量三项保障:党的建设、创新驱动和人才队伍四大板块:运营管理、建设管理、环保产业、产业链投资五大要点:聚焦主业、投资引领、科技赋能、深度开发、精细运营(1)运营管理板块巩固并提升主业盈利能力,以业务创新、模式创新、管理创新为驱动,以智慧高速为依托,打造交通基础设施运营管理的核心竞争力,提升存量资产效益及管理水平,努力实现运营管理输出。“十四五”期末,力争将公司打造成为国内领先、国际知名的交通基础设施运营服务品牌。(2)建设管理板块聚焦路桥主业,坚持质量第一、效益优先,打造中国一流的基础设施投资商和工程承包商,努力走出一条“工程质量过硬、经济效益明显、生态效益突出”的高质量发展之路。(3)环保板块充分利用高速企业现金流优势,积极介入投资收益稳定的“政府购买服务类项目”等新兴产业,通过参股或收购环保领域内优势的企业,不断进行规模扩张;以智慧环保产业为核心产品,致力打造智慧环境运营商,树立国内一流的专业化环保水务运维服务品牌。(4)投资板块一是持续加大优质高速公路项目收购投资力度,做大做强做优主业;二是着重围绕高速公路相关产业链、价值链上下游实施投资,打造主业生态圈;三是适度开展中短期财务投资,作为路桥主业长期稳健收益的有益补充,以及公司探索产业拓展的灵活途径。4、核心策略聚焦主业、投资引领、科技赋能、深度开发、精细运营。聚焦主业——稳中求进:在“十四五”时期,聚焦路桥的投资开发运营,集中公司优质资源支持主业的发展,并依托智慧高速业务,做好运营、管养、管理输出等业务。投资引领——再造强点:充分利企业现金流优势,积极介入投资收益稳定的“政府购买服务类污水处理、环保产业”等新兴产业,创造新的稳定的营收利润增长点;以项目投资为指引,引领公司在整个交通产业链的布局,形成关键能力,打造新的收入利润增长点。科技赋能——提升品质:充分整合现有资源,不断改进技术,提高生产效率、产品质量和服务能力。以科技应用为抓手,全面提升公司各主业发展的科技水平,同时有利于降低成本,提升效率。深度开发——盘活资源:聚焦主责主业,延长公司产业链、稳固供应链、提升价值链,培育主业优势突出、产融紧密结合、产业协同推进的“大交通”产业生态。围绕公司现有路产及附属资源、现有数据进行深度开发,充分挖掘现有存量资源的潜力,提升资源的开发效率,释放资源的潜能。精细运营——提质增效:构建“系统完备、科学规范、运行高效、充满活力”的管理体系,推动公司管理体系和管理能力现代化。公司将以十四五时期需要实现的战略目标为指引,针对性设计管控模式、组织结构、岗位、薪酬绩效、制度流程,使内部管理精准的匹配战略需求,提升公司综合运营效率。(三)经营计划1、聚力智慧运营能级跃迁,塑造传统主业新优势一是突出一个全局统领。突出智慧运营对路桥运营工作的全局统领,从对内管理和对外服务两个维度,以数实融合赋能高品质出行服务,以创新引领运营模式变革,构建全天候、智慧型、零碳化运营管理模式,向公众提供新质产品和服务,擦亮“山高·行”服务品牌。二是围绕一个基本原则。始终围绕道路安全畅通这个基本原则,深化“全天候通行”研究。“能感知”,推进气象数据管控系统建设,实现重点路段固定视频和车载移动视频AI分析全覆盖,建设有效融合AI分析、气象感知、门架数据的精准高效路况感知体系。“处置快”,落实“顺行清障”机制,完善区域联动机制,建立事故处置评价机制,形成以“一堵点一策”为基础的保畅长效机制。“创示范”,重点打通特情下“降速不封路”关节点,融合公司有关课题成果和行业前沿创新技术,探索创建“数智融合”“全天候通行”示范路。三是提供五大新质产品。打造更加成熟的管理新模式,扩大“辅站不驻站”的主辅站管理模式试点范围,因地制宜推广“全外协清障”模式及路管岗位体系,构建具有公司特色的运营管理新模式。打造更加开放的站区服务产品,继续推进崮山开放式收费站试点建设,变收费站为服务驿站,探索与文化旅游、现代农业、商贸物流等产业融合发展,打造“收费站+”,建设一个开放式融合发展示范区。打造更加好用、实用的智慧产品,继续优化升级轻量化智慧收费站建设,提升跨站云控和特情处置能力;实现公司自有路段收费站自助收费车道全覆盖,通过“点对点”预约通行试点简化非ETC用户通行流程。完善出行信息服务体系,强化各途径信息发布功能,推进伴随式信息服务个性化定制等功能拓展,支持全流程在途伴随服务。完成1条隧道数字孪生系统升级,完善客户管理平台系统,加快机电设备远程监测与运维模式推广。打造绿色低碳出行服务产品,加快零碳收费站、绿色服务区建设,实现5个以上收费站近零碳运营,推进服务区绿电汽车充换电设施项目,助力节能降碳、提升顾客体验。打造路衍增值服务产品,发展“畅和通”平台经济,上线“网络货运”功能,为物流产业链上下游提供一站式配货、仓储、金融服务,打造“高速+物流”新商业模式,力争今年实现重大突破;发展“高速+文旅”路衍经济,通过自驾游等文旅活动促进流量变现。四是紧抓两大养护重点。坚持全寿命周期精准养护理念,抓好路桥隧迎国检等“三攻坚”“四提升”,开展桥梁安全专项护航行动,提高养护质量效益和道路服务水平;精准养护示范路累计达标95%,打造1-2条特色主题示范路,完成第二批标准化工区建设。强化科技创新、数字赋能,把养护工作纳入智慧运营统筹考虑,完善“1+4+N”养护创新工作体系,完成济莱路“BIM+GIS”数字化平台建设,打造路面项目级决策示范工程,以四新技术推广促进养护绿色低碳发展。2、聚力产业链投资提档升级,推动投资发展取得新成效一是主业投资蹚出新路径。在两条传统主业投资路径基础上,探索作为社会资本方参与特许经营类主业投资模式,获得建设管理和收费运营全流程收益;依托养护集团、信息集团等资源优势,围绕智慧交通、新一代信息技术等产业链领域实施投资布局。二是平台机制实现新突破。坚持市场化发展方向,继续推动保理公司、投资公司、畅赢公司在投资定位、业务范围、发展模式等方面的转型试点取得实效;进一步激发区域平台和专业类投资公司活力,发挥区位优势和牌照优势,形成各自投资亮点和发展特色。3、聚力重点工程加力提速,服务区域发展展现新作为一是全力推进齐济改扩建项目建设,用好劳动竞赛抓手,开展质量专项提升活动,狠抓安全“双基”建设,强力推进黄河特大桥、转体桥等控制性工程,计划完成年度投资20.3亿元,确保进度、质量、安全、环保、廉政整体受控。二是全力推进济菏改扩建项目建设,锚定年度双向通车任务目标,聚焦重点控制性工程和制约点,攻坚克难,加快推进剩余工程施工;推动改扩建工程零碳示范项目,打造全国首条零碳改扩建高速公路。"
+    }
+  ]
+}

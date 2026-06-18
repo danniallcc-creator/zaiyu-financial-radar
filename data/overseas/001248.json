@@ -1,0 +1,598 @@
+{
+  "code": "001248",
+  "name": "华润新能源",
+  "fetchTime": "2026-06-18T18:41:08",
+  "segments": [
+    {
+      "reportDate": "2025-12-31",
+      "byIndustry": [],
+      "byProduct": [
+        {
+          "name": "风力发电",
+          "income": 18479877200.0,
+          "incomeRatio": 80.67,
+          "cost": 9126983800.0,
+          "costRatio": 77.87,
+          "profit": 9352893400.0,
+          "profitRatio": 83.59,
+          "grossMargin": 50.61,
+          "rank": 1
+        },
+        {
+          "name": "太阳能发电",
+          "income": 3950939000.0,
+          "incomeRatio": 17.25,
+          "cost": 2149857900.0,
+          "costRatio": 18.34,
+          "profit": 1801081100.0,
+          "profitRatio": 16.1,
+          "grossMargin": 45.59,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 478235842.44,
+          "incomeRatio": 2.09,
+          "cost": 443462878.58,
+          "costRatio": 3.78,
+          "profit": 34772963.86,
+          "profitRatio": 0.31,
+          "grossMargin": 7.27,
+          "rank": 3
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华东",
+          "income": 5469903000.0,
+          "incomeRatio": 23.88,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "华中",
+          "income": 4456415300.0,
+          "incomeRatio": 19.45,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "华北",
+          "income": 3658936500.0,
+          "incomeRatio": 15.97,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "华南",
+          "income": 2999638600.0,
+          "incomeRatio": 13.09,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "西北",
+          "income": 2983739900.0,
+          "incomeRatio": 13.02,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "其他",
+          "income": 2862182800.0,
+          "incomeRatio": 12.49,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "其他(补充)",
+          "income": 478235842.44,
+          "incomeRatio": 2.09,
+          "cost": 443462878.58,
+          "costRatio": 3.78,
+          "profit": 34772963.86,
+          "profitRatio": 0.31,
+          "grossMargin": 7.27,
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "reportDate": "2024-12-31",
+      "byIndustry": [],
+      "byProduct": [
+        {
+          "name": "风力发电",
+          "income": 19854636000.0,
+          "incomeRatio": 86.8,
+          "cost": 8293693200.0,
+          "costRatio": 83.07,
+          "profit": 11560942800.0,
+          "profitRatio": 89.69,
+          "grossMargin": 58.23,
+          "rank": 1
+        },
+        {
+          "name": "太阳能发电",
+          "income": 2738682700.0,
+          "incomeRatio": 11.97,
+          "cost": 1490390500.0,
+          "costRatio": 14.93,
+          "profit": 1248292200.0,
+          "profitRatio": 9.68,
+          "grossMargin": 45.58,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 280292000.0,
+          "incomeRatio": 1.23,
+          "cost": 200293000.0,
+          "costRatio": 2.01,
+          "profit": 79999000.0,
+          "profitRatio": 0.62,
+          "grossMargin": 28.54,
+          "rank": 3
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华东",
+          "income": 5406095400.0,
+          "incomeRatio": 23.63,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "华中",
+          "income": 5153139500.0,
+          "incomeRatio": 22.53,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "华北",
+          "income": 4490211200.0,
+          "incomeRatio": 19.63,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "华南",
+          "income": 2717590000.0,
+          "incomeRatio": 11.88,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "西北",
+          "income": 2520224600.0,
+          "incomeRatio": 11.02,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "其他",
+          "income": 2306058000.0,
+          "incomeRatio": 10.08,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "其他(补充)",
+          "income": 280292000.0,
+          "incomeRatio": 1.23,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "reportDate": "2023-12-31",
+      "byIndustry": [],
+      "byProduct": [
+        {
+          "name": "风力发电",
+          "income": 18826562600.0,
+          "incomeRatio": 91.78,
+          "cost": 7313626400.0,
+          "costRatio": 90.85,
+          "profit": 11512936200.0,
+          "profitRatio": 92.39,
+          "grossMargin": 61.15,
+          "rank": 1
+        },
+        {
+          "name": "太阳能发电",
+          "income": 1550285200.0,
+          "incomeRatio": 7.56,
+          "cost": 654238200.0,
+          "costRatio": 8.13,
+          "profit": 896047000.0,
+          "profitRatio": 7.19,
+          "grossMargin": 57.8,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 134861555.78,
+          "incomeRatio": 0.66,
+          "cost": 82289542.0,
+          "costRatio": 1.02,
+          "profit": 52572013.78,
+          "profitRatio": 0.42,
+          "grossMargin": 38.98,
+          "rank": 3
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华中",
+          "income": 5008557800.0,
+          "incomeRatio": 24.42,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "华东",
+          "income": 4354632400.0,
+          "incomeRatio": 21.23,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "华北",
+          "income": 4100472300.0,
+          "incomeRatio": 19.99,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "华南",
+          "income": 2429911700.0,
+          "incomeRatio": 11.85,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "西北",
+          "income": 2256122300.0,
+          "incomeRatio": 11.0,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "其他",
+          "income": 2227151300.0,
+          "incomeRatio": 10.86,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "其他(补充)",
+          "income": 134861555.78,
+          "incomeRatio": 0.66,
+          "cost": 82289542.0,
+          "costRatio": 1.02,
+          "profit": 52572013.78,
+          "profitRatio": 0.42,
+          "grossMargin": 38.98,
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "reportDate": "2022-12-31",
+      "byIndustry": [],
+      "byProduct": [
+        {
+          "name": "风力发电",
+          "income": 17057389700.0,
+          "incomeRatio": 93.73,
+          "cost": 6544245300.0,
+          "costRatio": 92.13,
+          "profit": 10513144400.0,
+          "profitRatio": 94.76,
+          "grossMargin": 61.63,
+          "rank": 1
+        },
+        {
+          "name": "太阳能发电",
+          "income": 816076200.0,
+          "incomeRatio": 4.48,
+          "cost": 305240400.0,
+          "costRatio": 4.3,
+          "profit": 510835800.0,
+          "profitRatio": 4.6,
+          "grossMargin": 62.6,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 324230395.1,
+          "incomeRatio": 1.78,
+          "cost": 253675621.05,
+          "costRatio": 3.57,
+          "profit": 70554774.05,
+          "profitRatio": 0.64,
+          "grossMargin": 21.76,
+          "rank": 3
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华中",
+          "income": 4763250200.0,
+          "incomeRatio": 26.17,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "华北",
+          "income": 3480283800.0,
+          "incomeRatio": 19.12,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "华东",
+          "income": 3264111100.0,
+          "incomeRatio": 17.94,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "华南",
+          "income": 2357603300.0,
+          "incomeRatio": 12.96,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "西北",
+          "income": 2026664300.0,
+          "incomeRatio": 11.14,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "其他",
+          "income": 1981553200.0,
+          "incomeRatio": 10.89,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "其他(补充)",
+          "income": 324230395.1,
+          "incomeRatio": 1.78,
+          "cost": 253675621.05,
+          "costRatio": 3.57,
+          "profit": 70554774.05,
+          "profitRatio": 0.64,
+          "grossMargin": 21.76,
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "reportDate": "2021-12-31",
+      "byIndustry": [],
+      "byProduct": [
+        {
+          "name": "风力发电",
+          "income": 16135633300.0,
+          "incomeRatio": 94.17,
+          "cost": 5940921700.0,
+          "costRatio": 93.42,
+          "profit": 10194711600.0,
+          "profitRatio": 94.62,
+          "grossMargin": 63.18,
+          "rank": 1
+        },
+        {
+          "name": "太阳能发电",
+          "income": 647095000.0,
+          "incomeRatio": 3.78,
+          "cost": 263727800.0,
+          "costRatio": 4.15,
+          "profit": 383367200.0,
+          "profitRatio": 3.56,
+          "grossMargin": 59.24,
+          "rank": 2
+        },
+        {
+          "name": "其他(补充)",
+          "income": 351424848.84,
+          "incomeRatio": 2.05,
+          "cost": 154820470.43,
+          "costRatio": 2.43,
+          "profit": 196604378.41,
+          "profitRatio": 1.82,
+          "grossMargin": 55.94,
+          "rank": 3
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "华中",
+          "income": 4405898400.0,
+          "incomeRatio": 25.71,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "华北",
+          "income": 3445767300.0,
+          "incomeRatio": 20.11,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "华东",
+          "income": 3370842100.0,
+          "incomeRatio": 19.67,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "华南",
+          "income": 2044419000.0,
+          "incomeRatio": 11.93,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "其他",
+          "income": 1957918000.0,
+          "incomeRatio": 11.43,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "西北",
+          "income": 1557883500.0,
+          "incomeRatio": 9.09,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "其他(补充)",
+          "income": 351424848.84,
+          "incomeRatio": 2.05,
+          "cost": 154820470.43,
+          "costRatio": 2.43,
+          "profit": 196604378.41,
+          "profitRatio": 1.82,
+          "grossMargin": 55.94,
+          "rank": 7
+        }
+      ]
+    }
+  ],
+  "analysis": []
+}

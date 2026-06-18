@@ -1,0 +1,1200 @@
+{
+  "code": "600028",
+  "name": "中国石化",
+  "fetchTime": "2026-06-18T18:33:53",
+  "segments": [
+    {
+      "reportDate": "2025-12-31",
+      "byIndustry": [
+        {
+          "name": "营销及分销",
+          "income": 1505275000000.0,
+          "incomeRatio": 54.08,
+          "cost": 1426774000000.0,
+          "costRatio": 60.94,
+          "profit": 78501000000.0,
+          "profitRatio": 17.75,
+          "grossMargin": 5.22,
+          "rank": 1
+        },
+        {
+          "name": "炼油",
+          "income": 1328509000000.0,
+          "incomeRatio": 47.73,
+          "cost": 1070616000000.0,
+          "costRatio": 45.73,
+          "profit": 257893000000.0,
+          "profitRatio": 58.32,
+          "grossMargin": 19.41,
+          "rank": 2
+        },
+        {
+          "name": "其他",
+          "income": 1315600000000.0,
+          "incomeRatio": 47.26,
+          "cost": 1298145000000.0,
+          "costRatio": 55.44,
+          "profit": 17455000000.0,
+          "profitRatio": 3.95,
+          "grossMargin": 1.33,
+          "rank": 3
+        },
+        {
+          "name": "化工",
+          "income": 464108000000.0,
+          "incomeRatio": 16.67,
+          "cost": 460886000000.0,
+          "costRatio": 19.68,
+          "profit": 3222000000.0,
+          "profitRatio": 0.73,
+          "grossMargin": 0.69,
+          "rank": 4
+        },
+        {
+          "name": "勘探及开发",
+          "income": 285992000000.0,
+          "incomeRatio": 10.27,
+          "cost": 201833000000.0,
+          "costRatio": 8.62,
+          "profit": 84159000000.0,
+          "profitRatio": 19.03,
+          "grossMargin": 29.43,
+          "rank": 5
+        },
+        {
+          "name": "抵销分部间销售",
+          "income": -2115901000000.0,
+          "incomeRatio": -76.01,
+          "cost": -2116871000000.0,
+          "costRatio": -90.41,
+          "profit": 970000000.0,
+          "profitRatio": 0.22,
+          "grossMargin": null,
+          "rank": 6
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "汽油",
+          "income": 763996000000.0,
+          "incomeRatio": 27.45,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "柴油",
+          "income": 555174000000.0,
+          "incomeRatio": 19.94,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "原油",
+          "income": 353855000000.0,
+          "incomeRatio": 12.71,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "其他",
+          "income": 351226000000.0,
+          "incomeRatio": 12.62,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "煤油",
+          "income": 209624000000.0,
+          "incomeRatio": 7.53,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "基础有机化工品",
+          "income": 184796000000.0,
+          "incomeRatio": 6.64,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "合成树脂",
+          "income": 123127000000.0,
+          "incomeRatio": 4.42,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "天然气",
+          "income": 103185000000.0,
+          "incomeRatio": 3.71,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "其他(补充)",
+          "income": 57123000000.0,
+          "incomeRatio": 2.05,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "合成纤维单体及其聚合物",
+          "income": 42621000000.0,
+          "incomeRatio": 1.53,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "化工原料类",
+          "income": 38856000000.0,
+          "incomeRatio": 1.4,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        },
+        {
+          "name": "其中:辅料销售及其他收入",
+          "income": 55292000000.0,
+          "incomeRatio": 1.99,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 12
+        },
+        {
+          "name": "其中:租金收入",
+          "income": 1831000000.0,
+          "incomeRatio": 0.07,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 13
+        }
+      ],
+      "byRegion": []
+    },
+    {
+      "reportDate": "2024-12-31",
+      "byIndustry": [
+        {
+          "name": "营销及分销",
+          "income": 1714358000000.0,
+          "incomeRatio": 55.76,
+          "cost": 1624356000000.0,
+          "costRatio": 62.5,
+          "profit": 90002000000.0,
+          "profitRatio": 18.92,
+          "grossMargin": 5.25,
+          "rank": 1
+        },
+        {
+          "name": "炼油",
+          "income": 1481502000000.0,
+          "incomeRatio": 48.19,
+          "cost": 1216284000000.0,
+          "costRatio": 46.8,
+          "profit": 265218000000.0,
+          "profitRatio": 55.76,
+          "grossMargin": 17.9,
+          "rank": 2
+        },
+        {
+          "name": "其他",
+          "income": 1457226000000.0,
+          "incomeRatio": 47.4,
+          "cost": 1437464000000.0,
+          "costRatio": 55.31,
+          "profit": 19762000000.0,
+          "profitRatio": 4.15,
+          "grossMargin": 1.36,
+          "rank": 3
+        },
+        {
+          "name": "化工",
+          "income": 523862000000.0,
+          "incomeRatio": 17.04,
+          "cost": 517448000000.0,
+          "costRatio": 19.91,
+          "profit": 6414000000.0,
+          "profitRatio": 1.35,
+          "grossMargin": 1.22,
+          "rank": 4
+        },
+        {
+          "name": "勘探及开发",
+          "income": 297249000000.0,
+          "incomeRatio": 9.67,
+          "cost": 202388000000.0,
+          "costRatio": 7.79,
+          "profit": 94861000000.0,
+          "profitRatio": 19.94,
+          "grossMargin": 31.91,
+          "rank": 5
+        },
+        {
+          "name": "抵销分部间销售",
+          "income": -2399635000000.0,
+          "incomeRatio": -78.05,
+          "cost": -2399005000000.0,
+          "costRatio": -92.31,
+          "profit": -630000000.0,
+          "profitRatio": -0.13,
+          "grossMargin": null,
+          "rank": 6
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "汽油",
+          "income": 847815000000.0,
+          "incomeRatio": 27.58,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "柴油",
+          "income": 653111000000.0,
+          "incomeRatio": 21.24,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "其他",
+          "income": 397859000000.0,
+          "incomeRatio": 12.94,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "原油",
+          "income": 365045000000.0,
+          "incomeRatio": 11.87,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "煤油",
+          "income": 231214000000.0,
+          "incomeRatio": 7.52,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "基础有机化工品",
+          "income": 219608000000.0,
+          "incomeRatio": 7.14,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "合成树脂",
+          "income": 124780000000.0,
+          "incomeRatio": 4.06,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "天然气",
+          "income": 91015000000.0,
+          "incomeRatio": 2.96,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "其他(补充)",
+          "income": 59241000000.0,
+          "incomeRatio": 1.93,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "合成纤维单体及其聚合物",
+          "income": 42880000000.0,
+          "incomeRatio": 1.39,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "化工原料类",
+          "income": 41994000000.0,
+          "incomeRatio": 1.37,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        },
+        {
+          "name": "其中:辅料销售及其他收入",
+          "income": 57785000000.0,
+          "incomeRatio": 1.88,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 12
+        },
+        {
+          "name": "其中:租金收入",
+          "income": 1456000000.0,
+          "incomeRatio": 0.05,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 13
+        }
+      ],
+      "byRegion": []
+    },
+    {
+      "reportDate": "2023-12-31",
+      "byIndustry": [
+        {
+          "name": "营销及分销",
+          "income": 1818429000000.0,
+          "incomeRatio": 56.61,
+          "cost": 1720219000000.0,
+          "costRatio": 63.48,
+          "profit": 98210000000.0,
+          "profitRatio": 19.54,
+          "grossMargin": 5.4,
+          "rank": 1
+        },
+        {
+          "name": "其他",
+          "income": 1538320000000.0,
+          "incomeRatio": 47.89,
+          "cost": 1516294000000.0,
+          "costRatio": 55.96,
+          "profit": 22026000000.0,
+          "profitRatio": 4.38,
+          "grossMargin": 1.43,
+          "rank": 2
+        },
+        {
+          "name": "炼油",
+          "income": 1529786000000.0,
+          "incomeRatio": 47.62,
+          "cost": 1253956000000.0,
+          "costRatio": 46.28,
+          "profit": 275830000000.0,
+          "profitRatio": 54.89,
+          "grossMargin": 18.03,
+          "rank": 3
+        },
+        {
+          "name": "化工",
+          "income": 515307000000.0,
+          "incomeRatio": 16.04,
+          "cost": 502009000000.0,
+          "costRatio": 18.53,
+          "profit": 13298000000.0,
+          "profitRatio": 2.65,
+          "grossMargin": 2.58,
+          "rank": 4
+        },
+        {
+          "name": "勘探及开发",
+          "income": 300019000000.0,
+          "incomeRatio": 9.34,
+          "cost": 207573000000.0,
+          "costRatio": 7.66,
+          "profit": 92446000000.0,
+          "profitRatio": 18.4,
+          "grossMargin": 30.81,
+          "rank": 5
+        },
+        {
+          "name": "抵销分部间销售",
+          "income": -2489646000000.0,
+          "incomeRatio": -77.51,
+          "cost": -2490395000000.0,
+          "costRatio": -91.91,
+          "profit": 749000000.0,
+          "profitRatio": 0.15,
+          "grossMargin": null,
+          "rank": 6
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "汽油",
+          "income": 861453000000.0,
+          "incomeRatio": 26.82,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "柴油",
+          "income": 722307000000.0,
+          "incomeRatio": 22.49,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "其他",
+          "income": 439549000000.0,
+          "incomeRatio": 13.68,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "原油",
+          "income": 412488000000.0,
+          "incomeRatio": 12.84,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "煤油",
+          "income": 216456000000.0,
+          "incomeRatio": 6.74,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "基础有机化工品",
+          "income": 210216000000.0,
+          "incomeRatio": 6.54,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "合成树脂",
+          "income": 132625000000.0,
+          "incomeRatio": 4.13,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "天然气",
+          "income": 79681000000.0,
+          "incomeRatio": 2.48,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "其他(补充)",
+          "income": 65342000000.0,
+          "incomeRatio": 2.03,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "化工原料类",
+          "income": 38039000000.0,
+          "incomeRatio": 1.18,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "合成纤维单体及其聚合物",
+          "income": 34059000000.0,
+          "incomeRatio": 1.06,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        },
+        {
+          "name": "其中:辅料销售及其他收入",
+          "income": 63990000000.0,
+          "incomeRatio": 1.99,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 12
+        },
+        {
+          "name": "其中:租金收入",
+          "income": 1352000000.0,
+          "incomeRatio": 0.04,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 13
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "中国大陆",
+          "income": 2857361000000.0,
+          "incomeRatio": 88.95,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "其他",
+          "income": 197741000000.0,
+          "incomeRatio": 6.16,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "新加坡",
+          "income": 157113000000.0,
+          "incomeRatio": 4.89,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "reportDate": "2022-12-31",
+      "byIndustry": [
+        {
+          "name": "其他",
+          "income": 1790478000000.0,
+          "incomeRatio": 53.96,
+          "cost": 1757535000000.0,
+          "costRatio": 62.34,
+          "profit": 32943000000.0,
+          "profitRatio": 6.6,
+          "grossMargin": 1.84,
+          "rank": 1
+        },
+        {
+          "name": "营销及分销",
+          "income": 1713874000000.0,
+          "incomeRatio": 51.65,
+          "cost": 1618973000000.0,
+          "costRatio": 57.42,
+          "profit": 94901000000.0,
+          "profitRatio": 19.03,
+          "grossMargin": 5.54,
+          "rank": 2
+        },
+        {
+          "name": "炼油",
+          "income": 1575139000000.0,
+          "incomeRatio": 47.47,
+          "cost": 1317846000000.0,
+          "costRatio": 46.74,
+          "profit": 257293000000.0,
+          "profitRatio": 51.58,
+          "grossMargin": 16.33,
+          "rank": 3
+        },
+        {
+          "name": "化工",
+          "income": 540152000000.0,
+          "incomeRatio": 16.28,
+          "cost": 529241000000.0,
+          "costRatio": 18.77,
+          "profit": 10911000000.0,
+          "profitRatio": 2.19,
+          "grossMargin": 2.02,
+          "rank": 4
+        },
+        {
+          "name": "勘探及开发",
+          "income": 319411000000.0,
+          "incomeRatio": 9.63,
+          "cost": 214834000000.0,
+          "costRatio": 7.62,
+          "profit": 104577000000.0,
+          "profitRatio": 20.97,
+          "grossMargin": 32.74,
+          "rank": 5
+        },
+        {
+          "name": "抵销分部间销售",
+          "income": -2620886000000.0,
+          "incomeRatio": -78.99,
+          "cost": -2619066000000.0,
+          "costRatio": -92.9,
+          "profit": -1820000000.0,
+          "profitRatio": -0.36,
+          "grossMargin": null,
+          "rank": 6
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "汽油",
+          "income": 796667000000.0,
+          "incomeRatio": 24.01,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "柴油",
+          "income": 743551000000.0,
+          "incomeRatio": 22.41,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "原油",
+          "income": 517183000000.0,
+          "incomeRatio": 15.59,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "其他",
+          "income": 491762000000.0,
+          "incomeRatio": 14.82,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "基础有机化工品",
+          "income": 223679000000.0,
+          "incomeRatio": 6.74,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "煤油",
+          "income": 168017000000.0,
+          "incomeRatio": 5.06,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "合成树脂",
+          "income": 144524000000.0,
+          "incomeRatio": 4.36,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "天然气",
+          "income": 83853000000.0,
+          "incomeRatio": 2.53,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "其他(补充)",
+          "income": 60812000000.0,
+          "incomeRatio": 1.83,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "合成纤维单体及其聚合物",
+          "income": 45335000000.0,
+          "incomeRatio": 1.37,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "化工原料类",
+          "income": 42785000000.0,
+          "incomeRatio": 1.29,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        },
+        {
+          "name": "其中:辅料销售及其他收入",
+          "income": 59590000000.0,
+          "incomeRatio": 1.8,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 12
+        },
+        {
+          "name": "其中:租金收入",
+          "income": 1222000000.0,
+          "incomeRatio": 0.04,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 13
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "中国大陆",
+          "income": 2824140000000.0,
+          "incomeRatio": 85.11,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "新加坡",
+          "income": 263087000000.0,
+          "incomeRatio": 7.93,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "其他",
+          "income": 230941000000.0,
+          "incomeRatio": 6.96,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "reportDate": "2021-12-31",
+      "byIndustry": [
+        {
+          "name": "营销及分销",
+          "income": 1411544000000.0,
+          "incomeRatio": 51.5,
+          "cost": 1317918000000.0,
+          "costRatio": 59.46,
+          "profit": 93626000000.0,
+          "profitRatio": 17.86,
+          "grossMargin": 6.63,
+          "rank": 1
+        },
+        {
+          "name": "炼油",
+          "income": 1385564000000.0,
+          "incomeRatio": 50.55,
+          "cost": 1061650000000.0,
+          "costRatio": 47.9,
+          "profit": 323914000000.0,
+          "profitRatio": 61.78,
+          "grossMargin": 23.38,
+          "rank": 2
+        },
+        {
+          "name": "其他",
+          "income": 1297701000000.0,
+          "incomeRatio": 47.35,
+          "cost": 1268685000000.0,
+          "costRatio": 57.24,
+          "profit": 29016000000.0,
+          "profitRatio": 5.53,
+          "grossMargin": 2.24,
+          "rank": 3
+        },
+        {
+          "name": "化工",
+          "income": 505503000000.0,
+          "incomeRatio": 18.44,
+          "cost": 466971000000.0,
+          "costRatio": 21.07,
+          "profit": 38532000000.0,
+          "profitRatio": 7.35,
+          "grossMargin": 7.62,
+          "rank": 4
+        },
+        {
+          "name": "勘探及开发",
+          "income": 249998000000.0,
+          "incomeRatio": 9.12,
+          "cost": 206332000000.0,
+          "costRatio": 9.31,
+          "profit": 43666000000.0,
+          "profitRatio": 8.33,
+          "grossMargin": 17.47,
+          "rank": 5
+        },
+        {
+          "name": "抵销分部间销售",
+          "income": -2109426000000.0,
+          "incomeRatio": -76.96,
+          "cost": -2105005000000.0,
+          "costRatio": -94.97,
+          "profit": -4421000000.0,
+          "profitRatio": -0.84,
+          "grossMargin": null,
+          "rank": 6
+        }
+      ],
+      "byProduct": [
+        {
+          "name": "汽油",
+          "income": 726057000000.0,
+          "incomeRatio": 26.49,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "柴油",
+          "income": 542260000000.0,
+          "incomeRatio": 19.78,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "原油",
+          "income": 429038000000.0,
+          "incomeRatio": 15.65,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        },
+        {
+          "name": "其他",
+          "income": 363979000000.0,
+          "incomeRatio": 13.28,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 4
+        },
+        {
+          "name": "化工基础原料",
+          "income": 242532000000.0,
+          "incomeRatio": 8.85,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 5
+        },
+        {
+          "name": "合成树脂",
+          "income": 149208000000.0,
+          "incomeRatio": 5.44,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 6
+        },
+        {
+          "name": "煤油",
+          "income": 112519000000.0,
+          "incomeRatio": 4.11,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 7
+        },
+        {
+          "name": "天然气",
+          "income": 68443000000.0,
+          "incomeRatio": 2.5,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 8
+        },
+        {
+          "name": "其他(补充)",
+          "income": 61384000000.0,
+          "incomeRatio": 2.24,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 9
+        },
+        {
+          "name": "合成纤维单体及其聚合物",
+          "income": 45464000000.0,
+          "incomeRatio": 1.66,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 10
+        },
+        {
+          "name": "其中:辅料销售及其他收入",
+          "income": 59990000000.0,
+          "incomeRatio": 2.19,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 11
+        },
+        {
+          "name": "其中:租金收入",
+          "income": 1394000000.0,
+          "incomeRatio": 0.05,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 12
+        }
+      ],
+      "byRegion": [
+        {
+          "name": "中国大陆",
+          "income": 2166040000000.0,
+          "incomeRatio": 79.03,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 1
+        },
+        {
+          "name": "其他",
+          "income": 296820000000.0,
+          "incomeRatio": 10.83,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 2
+        },
+        {
+          "name": "新加坡",
+          "income": 278024000000.0,
+          "incomeRatio": 10.14,
+          "cost": null,
+          "costRatio": null,
+          "profit": null,
+          "profitRatio": null,
+          "grossMargin": null,
+          "rank": 3
+        }
+      ]
+    }
+  ],
+  "analysis": [
+    {
+      "reportDate": "2025-12-31",
+      "businessReview": "2025年,中国经济稳中有进,全年国内生产总值(GDP)同比增长5.0%。国际油价震荡下行。境内天然气需求、化工产品需求保持增长,成品油需求下降。1市场环境回顾(1)原油市场、天然气市场2025年,国际原油价格震荡下行。普氏布伦特原油现货价格全年平均为69.1美元/桶,同比下降14.5%。境内天然气需求保持增长,据本公司统计,全年境内天然气消费量同比增长2.9%。(2)成品油市场2025年,境内成品油市场需求下降。据本公司统计,境内成品油消费量(包括汽油、柴油和煤油)同比下降4.1%。其中,汽油同比下降4.5%,柴油同比下降5.6%,煤油同比增长4.4%。(3)化工产品市场2025年,境内化工市场需求保持增长。据本公司统计,境内乙烯当量消费量同比增长8.5%,PX表观消费量同比增长1.3%,合成树脂、合成纤维、合成橡胶三大合成材料表观消费量同比分别增长5.4%、4.2%和4.8%。基础石化原料产能同比增长10.2%,新增消费难以抵消新增供应压力,整体化工毛利持续下降。2生产经营(1)勘探及开发2025年,本公司加强高质量勘探和效益开发,增储增产取得新进展,油气产量当量创历史新高。勘探方面,全力拓矿权、增储量,渤海湾盆地页岩油、四川盆地新区、海域天然气等勘探取得重大突破,胜利济阳页岩油国家级示范区高质量建成。原油开发方面,加快推进塔河、准西、海域等原油重点产能建设,深化分类油藏治理,页岩油上产至百万吨级规模;天然气开发方面,积极推进川西海相、海域、四川盆地须家河组等天然气重点产能建设。同时,加强天然气产供储销一体协同创效,天然气全产业链盈利创历史新高。全年油气产量525.28百万桶油当量,同比增长1.9%,其中,境内原油产量255.75百万桶;天然气产量14,566亿立方英尺,同比增长4.0%。(2)炼油2025年,本公司积极应对国际油价震荡下行和汽柴油需求下降带来的挑战,坚持产销一体运行优化,做大有效益的加工量,保持较高负荷率。优化原油采购节奏,降低采购和运输成本;紧贴市场优化装置负荷和产品结构,增产航煤、润滑油脂等适销产品;推进低成本“油转化”、高价值“油转特”,有序推进炼油结构调整项目,高端碳材料全国领先。全年加工原油2.50亿吨,生产化工轻油4,422万吨,同比增长8.4%,生产成品油1.49亿吨,其中,航煤产量同比增长7.3%。(3)营销及分销2025年,面对汽柴油市场竞争激烈和新能源汽车快速渗透的严峻挑战,本公司充分发挥一体化优势和网络优势,统筹拓市扩销与转型发展,全力打造“油气氢电服”综合能源服务商。精准开展客户营销,深化开发战略客户,高标号汽油销量持续增长;加快加气和充换电网络布局,积极推进氢能交通发展,车用LNG销量、充电量以及氢气加注量同比大幅增长,LNG加注与加氢业务保持全国领先;精心培育“车生态”网络、“家生活”模式,提升易捷服务经营质量;推进国际化布局,稳居世界第一大低硫船燃供应商。全年成品油总销量2.29亿吨。(4)化工2025年,面对国内新增产能持续快速释放、化工毛利大幅收窄的严峻形势,本公司紧贴市场优化生产经营,挖掘炼化一体化潜力,发挥盈利装置创效潜能。优化装置及产品结构,PX产量再创历史新高;强化成本控制,优化化工原料,降低原料和加工成本;深化产销研用协同创效,POE等化工新材料加快发展。全年乙烯产量1,528万吨。拓展新兴与细分市场,深化战略客户合作,大力开拓海外市场,全年化工产品销量为8,712万吨,同比增长3.6%,其中出口量同比增长29.8%。(5)科技和数智化创新2025年,本公司持续加大创新力度,科技和数智化创新成果不断涌现。科技方面,陆相断陷盆地页岩油差异立体开发技术支撑页岩油效益开发,非均相复合驱技术应用于高盐高钙镁等多种油藏;高端聚丙烯电缆绝缘材料取得重要突破,60K巨丝束碳纤维实现工业生产;自主开发海水电解制氢装置成为全国首台长周期稳定运行示范装置,百千瓦铁铬液流电池系统在光伏场站实现“光储充”投运。数智化方面,“人工智能+”行动稳步实施,长城系列大模型建成投用,推动智能运营中心深化应用,加快智能工厂建设,3家企业获评国家卓越级智能工厂,1家企业入选全国首批领航级智能工厂培育名单。全年申请境内外专利9,953件,获得境内外专利授权5,768件;获中国专利金奖1项、银奖1项,优秀奖3项。(6)安全与健康2025年,本公司持续完善HSE管理体系建设与运行,提升全员HSE责任意识和能力。深入开展安全生产治本攻坚2025年行动,全力推动重大风险管控,开展安全隐患排查整治和危化品全链条专项整治,总体保持安全平稳生产。加强员工健康管理,改善工作环境条件,积极推进“健康企业”建设,守护境内外员工职业健康、身体健康和心理健康,43个案例入选国家“健康企业”建设优秀案例。(7)资本支出2025年,本公司持续优化投资项目管理,全年资本支出人民币1,472亿元。勘探及开发板块资本支出人民币709亿元,主要用于济阳、塔河等原油产能建设,丁山-东溪等天然气产能建设以及油气储运设施建设;炼油板块资本支出人民币220亿元,主要用于广州石化技术改造、茂名炼油转型升级等项目建设;营销及分销板块资本支出人民币138亿元,主要用于“油气氢电服”综合加能站网络发展;化工板块资本支出人民币359亿元,主要用于茂名乙烯及九江芳烃等项目建设;总部及其他资本支出人民币46亿元,主要用于科技研发和数智化等项目建设。",
+      "futureExpect": "1市场展望展望2026年,中国经济将稳中向好,预计境内天然气和化工产品需求保持增长,成品油需求依然受到可替代能源影响。综合考虑全球供需变化、地缘政治、库存水平等影响,预计国际油价走势不确定性加大。2生产经营2026年,本公司将全力推进高质量发展,聚焦安全环保、能源保障、市场营销、提质增效、科产融创、改革赋能,认真做好以下几方面工作:勘探及开发板块:本公司将推进增储稳油增气降本,加快新能源效益发展,统筹推进油气探产供储销贸体系建设。勘探方面,积极获取优质矿权,加大高质量勘探力度,努力获取规模优质储量,降低发现成本。开发方面,加快塔河、海域、准西等原油产能建设,加快海域、川西海相、四川须家河组等天然气产能建设,推动新区规模效益建产、老区精细挖潜。天然气销售方面,优化资源池结构,降低成本,加快高端高附加值市场精准开发,提升天然气业务规模和盈利能力。全年计划生产原油280.91百万桶,其中境外25.31百万桶;计划生产天然气14,717亿立方英尺。炼油板块:本公司将聚焦稳量提效,强化炼销、炼化协同,提升集约高效运行水平。坚持贸易、储运、生产一体统筹,优化资源采购结构,降低采购成本;科学测算资源边际效益,做大有效益的加工量,灵活调整产品结构;持续推进减油增化增特,提升液化气、石油焦、沥青等炼油副产品市场竞争力,加快打造特种油品、高端碳材料等效益增长点;加快推进重点项目建设,提高优势产能集中度。全年计划加工原油2.50亿吨,生产成品油1.48亿吨。营销及分销板块:本公司将坚持以市场为导向、以客户为中心,充分发挥一体化优势,提升综合竞争力。坚持采销联动、量价统筹,打造有差异更精准的营销体系,提升高标号汽油销售比重,拓展航油市场,全力稳固成品油经营规模;不断优化网络布局,统筹推进全业态网络发展,做大车用LNG加注规模,推动充换电、氢能业务提质提效;加快“车生态”“家生活”效益化发展,拓展易捷综合服务场景,打造自有品牌;巩固提升船燃一体化优势,积极拓展境内外业务规模。全年计划境内成品油销量1.70亿吨。化工板块:本公司将坚持“基础+高端、化工+材料”,全力降成本、拓市场,减亏增盈。有序推进项目建设,科学安排新建产能投放节奏,淘汰落后产能;统筹全产业链资源优势,多措并举降低原料成本;紧跟市场变化,动态测算牌号、装置、产品链边际效益,精准推动产品结构优化、资源高效配置;加大新产品、高附加值产品开发力度,拓展创效空间。化工销售方面,构建高效产品服务交互体系,满足客户差异化、个性化需求,提高产品创新效率,增加战略客户销量占比,加强国际市场开拓。全年计划生产乙烯1,580万吨。科技和数智化创新:本公司将坚持科技创新和产业创新深度融合,聚焦关键技术创新攻坚,发展新质生产力。推进天然气增储上产、陆相页岩油效益开发、CCUS/CCS产业链发展等项目融合攻关。加快炼油低成本引领性生产技术开发和工业示范,强化中副产品高价值利用。加快高性能茂金属聚烯烃技术开发应用,建立产销研用全链条协同体系。推进可持续航空燃料、固态电池关键材料与应用等战新领域项目融合攻关。统筹推进数智化建设,深化实施“人工智能+”行动,提升智能制造整体成熟度,培育具有行业重大影响力的领航级、卓越级智能工厂,打造更多高价值应用场景,赋能各业务域数智化升级。资本支出:2026年,本公司计划资本支出人民币1,316至1,486亿元,其中,勘探及开发板块资本支出人民币723亿元,主要用于济阳、塔河等原油产能建设,川西、川南等天然气产能建设以及油气储运设施建设;炼油板块资本支出人民币173亿元,主要用于广州石化技术改造、茂名炼油转型升级等项目建设;营销及分销板块资本支出人民币90亿元,主要用于综合加能站网络发展;化工板块资本支出人民币282亿元,主要用于茂名、齐鲁乙烯,九江芳烃等项目建设;总部及其他资本支出人民币48亿元,主要用于科技研发、数智化等项目建设;公司还将根据市场情况灵活安排资本支出人民币170亿元。"
+    },
+    {
+      "reportDate": "2024-12-31",
+      "businessReview": "2024年,国际原油价格震荡下行,国内交通行业新能源替代加速,化工市场新增产能持续释放,毛利大幅收窄。公司全力拓市扩销,加大生产经营一体化优化力度,持续强化成本费用管控,多措并举应对市场变化,实现营业收入人民币30,746亿元,同比降低4.3%;经营收益人民币707亿元,同比降低18.6%。本公司生产的绝大部分原油及少量天然气用于本公司炼油、化工业务,其余外销给其他客户。2024年,外销原油、天然气及其他上游产品的主营业务收入为人民币1,758亿元(占本公司营业收入的5.7%),同比降低1.2%。主要归因于原油价格下降。2024年,本公司炼油事业部和营销及分销事业部对外销售石油产品(主要包括成品油及其他精炼石油产品)实现的对外销售收入为人民币18,312亿元(占本公司营业收入的59.6%),同比降低5.0%。主要归因于汽柴油等产品量价下降。汽油、柴油及煤油的销售收入为人民币15,279亿元(占石油产品销售收入的83.4%),同比降低5.0%;其他精炼石油产品销售收入为人民币3,033亿元(占石油产品销售收入的16.6%),同比降低4.8%。本公司化工产品对外销售收入为人民币4,183亿元(占本公司营业收入的13.6%),同比增长1.7%。主要归因于化工产品销量、平均价格同比有所增长。2024年,本公司经营费用为人民币30,039亿元,同比降低3.9%。经营费用主要包括以下部分:采购原油、产品及经营供应品及费用为人民币24,496亿元,同比降低4.7%,占总经营费用的81.5%。其中:采购原油费用为人民币9,095亿元,同比降低3.7%。2024年外购原油加工量为20,765万吨(未包括来料加工原油量),同比降低2.3%;外购原油平均单位加工成本为人民币4,380元/吨,同比降低1.4%。其他采购费用为人民币15,401亿元,同比降低5.2%。主要归因于外购成品油以及原油贸易采购规模和价格下降。销售、一般及管理费用为人民币575亿元,同比降低3.4%。主要归因于公司进一步加大非生产性支出管控力度,营销及管理费用有所降低。折旧、耗减及摊销为人民币1,207亿元,同比增长6.1%。主要归因于新投用资产规模扩大。勘探费用为人民币94亿元,同比降低15.2%。主要归因于公司在控制整体勘探投资的基础上,进行勘探投入结构性调整,加大成功率较高的非常规油气勘探力度,降低相关支出。职工费用为人民币1,102亿元,同比增长2.0%。所得税以外的税金为人民币2,673亿元,同比降低2.1%。主要归因于上年集中计提以往年度矿业权出让收益影响。其他收入/(费用)净额为人民币110亿元,同比增长20.7%。主要归因于商品类衍生工具套保业务收益增加。勘探及开发事业部生产的绝大部分原油及少量天然气用于本公司炼油、化工业务,绝大部分天然气及少部分原油外销给其他客户。2024年该事业部经营收入为人民币2,972亿元,同比降低0.9%。主要归因于原油产品价格下降影响。2024年该事业部销售原油3,452万吨,同比增长0.4%;销售天然气356亿立方米,同比增长6.5%;销售气化LNG150亿立方米,同比降低12.4%;销售液态LNG300万吨,同比增长112.3%。原油平均实现销售价格为人民币3,767元/吨,同比降低1.7%;天然气平均实现销售价格为人民币1,802元/千立方米,同比增长1.5%;气化LNG实现销售价格为人民币3,385元/千立方米,同比降低4.9%;液态LNG实现销售价格为人民币3,954元/吨,同比降低4.4%。2024年该事业部经营费用为人民币2,409亿元,同比降低5.6%。主要归因于进口LNG采购成本同比减少人民币64亿元;石油特别收益金、矿业权出让收益等税金同比减少人民币61亿元;勘探费用同比减少人民币17亿元。2024年油气现金操作成本为人民币745.40元/吨,同比降低1.3%。2024年该事业部抓住油价相对高位时机,加大高质量勘探力度,全力推进油气增储上产降本增效,强化天然气全产业链一体化优化创效,实现经营收益为人民币564亿元,同比增加人民币114亿元,同比增长25.4%。炼油事业部业务包括从第三方及勘探及开发事业部购入原油,并将原油加工成石油产品,大部分汽油、柴油、煤油内部销售给营销及分销事业部,部分化工原料油内部销售给化工事业部,其他精炼石油产品由炼油事业部外销给国内外客户。2024年该事业部经营收入为人民币14,815亿元,同比降低3.2%。主要归因于成品油价格随原油价格下降,以及柴油销量减少。营销及分销事业部业务包括从炼油事业部和第三方采购石油产品,向用户批发、直接销售和通过该事业部零售分销网络零售、分销石油产品及提供相关的服务,销售便利店商品、新能源产品及提供相关的服务。2024年,该事业部经营收入为人民币17,144亿元,同比降低5.7%,主要归因于成品油消费疲软、销量减少,以及成品油价格随原油价格下降。其中:汽油销售收入为人民币8,138亿元,同比降低2.1%;柴油销售收入为人民币5,628亿元,同比降低10.1%;煤油销售收入为人民币1,530亿元,同比降低1.1%;天然气销售收入为人民币295亿元,同比增加29.8%。化工事业部业务包括从炼油事业部和第三方采购石油产品作为原料,生产、营销及分销石化和无机化工产品。2024年该事业部经营收入为人民币5,239亿元,同比增长1.7%。主要归因于化工产品销量、价格同比增长。2024年该事业部主要六大类产品(基本有机化工品、合成树脂、合成纤维单体及聚合物、合成纤维、合成橡胶和化肥)的销售额约为人民币4,854亿元,同比增长2.0%,占该事业部经营收入的92.7%。本部及其他业务主要包括附属公司的进出口贸易业务及本公司的研究开发活动以及总部管理活动。2024年本部及其他的经营收入约为人民币14,572亿元,同比下降5.3%,主要归因于原油贸易销量和价格同比下降。2024年本部及其他的经营费用为人民币14,577亿元,同比下降5.2%。2024年本部及其他的经营亏损为人民币4亿元。",
+      "futureExpect": "1市场展望展望2025年,随着中国经济持续回升向好,预计境内天然气和化工产品需求保持增长,成品油需求依然受到可替代能源影响。综合考虑全球供需变化、地缘政治、库存水平等影响,预计国际油价将呈宽幅震荡走势。2生产经营2025年,本公司将以攻坚创效、产业转型、科技创新、改革管理、风险防控为重点,全方位推进高质量发展,认真做好以下几方面的工作:勘探及开发板块:本公司将加强矿权与储量联动,努力获取优质规模矿权,加大风险勘探与圈闭预探,强化海相碳酸盐岩、页岩油气、致密油气等领域勘探,增加优质规模储量;加强效益开发,多措并举降低盈亏平衡点。原油开发方面,加快胜利海上、准西、塔河等产能建设,高质量建成胜利济阳页岩油国家级示范区,加强老区精细开发。天然气业务方面,加快四川须家河组、顺北二区、川西海相等产能建设,聚焦经营优化和市场开拓,增强天然气业务盈利能力。全年计划生产原油280.15百万桶,其中境外25.26百万桶;计划生产天然气14,503亿立方英尺。炼油板块:本公司将聚焦提质增效,坚持产销协同,保障产业链高效运转、优势产能高效利用。发挥全球资源配置优势,加大原油差异化采购力度,降低采购成本;提升原油加工集约度,统筹推进区域资源优化;持续优化原油加工量、装置负荷和产品结构,全力增产航煤;坚持低成本“油转化”、高价值“油转特”,推进润滑油脂、特种蜡、可持续燃料等产品发展,打造高端碳材料产业链。全年计划加工原油2.55亿吨,生产成品油1.55亿吨。营销及分销板块:本公司将充分发挥一体化优势,加强数智化赋能,提升综合竞争力。坚持采销联动、量价统筹,稳定零售经营规模;持续优化网络布局,建设LNG加注业务第一品牌;巩固提升低硫船燃产销优势,积极拓展境内外业务规模;深化大数据分析应用,挖掘数据资产价值;打造用氢场景,示范带动氢能规模化利用,推动电能业务发展,延伸拓展电能业务价值链,加强自有品牌建设,加快拓展易捷综合服务场景,加快向“油气氢电服”综合能源服务商转型。全年计划境内成品油经销量1.78亿吨。化工板块:本公司将密切跟踪化工市场变化,坚持“基础+高端”,全力降成本、拓市场,挖潜增效。持续推进原料多元化,多措并举降低原料成本;动态优化装置负荷,深化单一装置和产品运营模式,提升产品毛利;加大新产品、高附加值产品开发力度,拓展创效空间。同时,满足客户差异化、个性化需求,提高战略客户销量占比,加大创效产品出口力度,提升国际化经营水平。全年计划生产乙烯1,559万吨。科技开发:本公司将坚定实施创新驱动战略,推动创新链、产业链、资金链、人才链深度融合,聚焦重点领域全力攻坚关键核心技术,发挥科技创新支撑和引领作用。加大页岩油气、深层煤层气、海域等新领域攻关力度,推动油气资源增储上产。加大催化裂化、催化重整、加氢等技术创新,支撑低成本“油转化”、高价值“油转特”。持续提升基本有机原料、合成材料等技术先进性,加快高端材料技术突破。推动深层地热、氢能、循环经济等战新领域技术攻关。开展“人工智能+”行动,推进人工智能与全产业链深度融合。资本支出:2025年,本公司计划资本支出人民币1,643亿元,其中,勘探及开发板块资本支出人民币767亿元,主要用于济阳、塔河等原油产能建设,丁山-东溪、川西等天然气产能建设以及油气储运设施建设;炼油板块资本支出人民币223亿元,主要用于广州石化技术改造、茂名炼油转型升级等项目建设;营销及分销板块资本支出人民币145亿元,主要用于综合加能站网络发展、现有终端销售网络改造、非油业务等项目;化工板块资本支出人民币449亿元,主要用于茂名、镇海、齐鲁乙烯,九江芳烃等项目建设;总部及其他资本支出人民币59亿元,主要用于科技研发、数智化等项目建设。"
+    },
+    {
+      "reportDate": "2023-12-31",
+      "businessReview": "2023年,全球经济增长放缓,中国经济回升向好,全年国内生产总值(GDP)同比增长5.2%。国际油价宽幅震荡。境内成品油需求快速反弹,天然气需求保持增长,化工产品需求好转。本公司深入实施高质量发展行动,积极发挥一体化优势,全方位优化生产经营组织,大力协同创效,取得了较好的经营成果。1市场环境回顾(1)原油市场、天然气市场2023年,国际原油价格宽幅震荡。普氏布伦特原油现货价格全年平均为82.6美元/桶,同比下降18.4%。据发改委统计,全年境内天然气表观消费量达3,945亿立方米,同比增长7.6%。(2)成品油市场2023年,境内成品油市场需求快速反弹。据发改委统计,成品油表观消费量(包括汽油、柴油和煤油)为3.85亿吨,同比增长11.8%。其中,汽油同比增长10.1%,柴油同比增长5.3%,煤油同比增长90.3%。(3)化工产品市场2023年,境内化工市场需求好转。据本公司统计,境内乙烯当量消费量同比增长8.2%,合成树脂、合成纤维、合成橡胶三大合成材料表观消费量同比分别增长6.2%、7.8%和6.6%。受新增产能持续释放影响,境内化工产品价格同比下降7.0%,化工毛利处于低位。2生产经营(1)勘探及开发2023年,本公司增储增产降本增效取得新突破。勘探方面,全力拓资源、增储量、扩矿权,加强风险勘探、圈闭预探和一体化评价勘探,塔里木盆地顺北新区带、鄂尔多斯盆地深层煤层气、四川盆地陆相致密油气和普光二叠系海相深层页岩气等勘探取得重大突破,“深地工程”、胜利济阳页岩油国家级示范区建设高效推进,境内油气储量替代率为131%。在原油开发方面,加快推进济阳、塔河、准西等原油重点产能建设,加强老区精细开发;在天然气开发方面,积极推进顺北二区、川西海相等天然气重点产能建设,拓展LNG中长约,持续完善天然气产供储销体系建设,全产业链创效同比大幅增长。全年油气当量产量504.09百万桶,同比增长3.1%,其中,境内原油产量251.63百万桶;天然气产量13,378亿立方英尺,同比增长7.1%。(2)炼油2023年,本公司积极应对油价宽幅震荡和部分炼油产品毛利大幅收窄带来的挑战,坚持产销一体运行优化,全年原油加工量创历史新高。加强采购、储运和生产三方协同,降低采购成本;紧贴市场需求,灵活调整加工负荷和产品结构;统筹“油转化”“油转特”节奏,增产成品油、润滑油脂等适销产品;增加出口规模,优化出口节奏和结构;有序推进结构调整项目。全年加工原油2.58亿吨,同比增长6.3%,生产成品油1.56亿吨,同比增长11.3%,其中煤油产量同比增长60.7%。(3)营销及分销2023年,本公司抓住市场需求快速反弹的有利时机,发挥一体化优势,大力拓市扩销增效,境内成品油经销量创历史新高。坚持以客户为中心,精准实施差异化策略,汽油经营量同比增长15.9%,车用LNG零售量同比增长85%;充分发挥现有终端网络优势,全力推动充换电业务发展,推进氢能交通示范应用,向“油气氢电服”综合能源服务商转型;积极拓展海外业务,开拓境内外低硫船燃市场,成为全球第二大船加油企业;持续丰富易捷服务生态,非油业务经营质量和效益持续提升。全年成品油总经销量2.39亿吨,同比增长15.6%,其中境内成品油总经销量1.88亿吨,同比增长15.8%。(4)化工2023年,面对国内化工产品供给大幅增加,化工毛利收窄的严峻形势,本公司紧贴市场需求,以效益为导向优化原料、装置、产品结构,高负荷运行芳烃、EVA等盈利装置,安排负边际效益装置降负荷及经营性停工;强化成本管控,降低产业链成本;密切产销研用结合,稳步提升高附加值产品比例。全年乙烯产量1,431万吨。积极开拓境内外市场,国际化经营量大幅增长,全年化工产品经营总量为8,300万吨,同比增长1.7%。(5)科技开发2023年,本公司持续加大科技研发投入,着力突破关键核心技术,强化前沿基础研究,深化科技体制机制改革,科技创新取得积极进展。上游方面,特深层油气、陆相页岩油气勘探开发理论认识深化,技术取得新突破。炼油方面,全球首套300万吨/年重油催化裂解RTC装置顺利投产,生物航煤装置全系列产品顺利通过RSB(RoundtableonSustainableBiomaterials)认证。化工方面,首套CHP(过氧化氢异丙苯)法制环氧丁烷装置成功投产,高性能液体橡胶工业装置开车成功。此外,氢能全产业链技术研发加速推进,燃料电池关键材料实现自主研发;“工业互联网+”、“人工智能基础设施工程”等示范项目顺利推进。全年申请境内外专利9,601件,获得境内外专利授权5,483件;获得中国专利银奖1项、优秀奖4项。(6)健康与安全2023年,本公司不断完善HSE管理体系建设与运行,专业管理持续优化。加强员工健康和公共安全管理,全面实施基层安全网格化管理,开展全员健康管理服务,改善工作环境,强化安全装备配置,守护境内外员工职业健康、身体健康和心理健康。落实全员安全生产责任制,深入开展安全管理强化年行动,全力推进风险管控和隐患治理,持续强化过程安全管理,安全生产形势总体保持平稳。(7)资本支出2023年,本公司注重投资的质量和效益,持续优化投资项目管理,全年资本支出人民币1,768亿元。勘探及开发板块资本支出人民币786亿元,主要用于塔河、胜利海上等原油产能建设,顺北、川西、涪陵、威荣等天然气产能建设,胜利济阳页岩油国家级示范区开发试验以及油气储运设施建设;炼油板块资本支出人民币229亿元,主要用于镇海炼化扩建、扬子炼油结构调整等项目建设;营销及分销板块资本支出人民币157亿元,主要用于“油气氢电服”综合加能站网络发展、现有终端销售网络改造、非油品业务等项目;化工板块资本支出人民币551亿元,主要用于镇海二期、天津南港、海南、茂名等乙烯、巴陵己内酰胺搬迁及煤化工等项目建设;总部及其他资本支出人民币45亿元,主要用于科技研发和信息化等项目建设。2023年,国际原油价格宽幅震荡,成品油需求反弹,化工市场不振,公司大力拓市攻坚,全方位优化生产经营,油气当量产量、原油加工量、乙烯产量、境内成品油经营量创历史新高,实现经营收益为人民币868亿元,同比增长14.5%;受油价下行影响,实现营业收入为人民币32,122亿元,同比降低3.2%。",
+      "futureExpect": "1市场展望展望2024年,随着中国经济继续回升向好,预计境内天然气、成品油和化工产品需求保持增长。综合考虑全球供需变化、地缘政治、库存水平等影响,预计国际油价在中高位震荡。2生产经营2024年,本公司将更加注重价值创造,突出抓好经营创效、转型升级、改革创新、风险防控等各项工作。勘探及开发板块:本公司将加强风险勘探,加大“深地工程”、页岩油气等领域勘探力度,增加优质规模储量;加强效益开发,在稳油增气降本上提升成效。在原油开发方面,加快济阳、塔河、准噶尔等产能建设,加强老区精细开发,持续提高储量动用率、采收率,推动常规油产量稳定、页岩油效益上产。在天然气开发方面,加快川西、顺北等产能建设,推动天然气效益上产;多元化拓展天然气资源渠道,着力降低资源成本,持续完善天然气产供储销体系。全年计划生产原油279.06百万桶,其中境外26.65百万桶;计划生产天然气13,797亿立方英尺。炼油板块:本公司将以效益为导向,坚持产销协同,全面提升产业链运转效能。统筹优化原油采购,降低采购成本;优化原油加工量、装置负荷和产品结构,提升盈利水平;优化出口产品的结构和节奏;有序推进低成本“油转化”,加大“油转特”力度,推进润滑油脂、针状焦等特种产品发展。全年计划加工原油2.60亿吨,生产成品油1.59亿吨。营销及分销板块:本公司将充分发挥一体化优势,加强数智化赋能,巩固提升市场份额。完善市场监测体系,动态优化量价策略,巩固零售基本盘;积极发展优质网点,持续优化网络布局;加强自有品牌商品建设,丰富多元服务业态,构建“人·车·生活”高价值生态圈,提升非油业务经营质量和效益;加强国际化经营,拓展海外零售市场;巩固提升低硫船燃市场优势,提高经营质量;推进充电网络建设和氢能交通示范应用,加快“油气氢电服”综合能源服务商建设。全年计划境内成品油经销量1.91亿吨。化工板块:本公司将密切跟踪化工市场变化,全面提升产销协同、精益排产水平,坚持“基础+高端”,培育“成本+附加值+绿色低碳”新优势。持续推进原料多元化,降低原料成本;动态优化产品牌号、装置负荷,保持盈利装置高负荷运行,提升优质资产创效能力;持续加大新材料、高附加值产品开发力度,抢抓市场需求,拓展增效空间;高质量推进新建产能。同时,着力满足客户差异化、定制化需求,不断提高战略客户销量占比,加大适销对路产品出口力度,提升国际化经营水平。全年计划生产乙烯1,435万吨。科技开发:本公司将坚定实施创新驱动战略,推动创新链、产业链、资金链、人才链深度融合,全力攻坚关键核心技术,发挥科技创新支撑和引领作用。围绕稳油增气降本提效推进油气勘探开发技术攻关,推动油气资源增储上产。优化炼油产品结构,提升资源清洁高效低碳利用水平。积极开展“油转化”、“油转特”、氢能关键技术和CCUS技术攻关与应用开发。围绕化工与材料升级需求,聚力攻关多元化、过程绿色化基础化学品生产技术,加快高附加值合成材料生产关键核心技术突破。大力推动数智化改造升级,充分发挥数据要素作用,加强新技术研究、数智应用场景探索与试点成果转化。资本支出:2024年,本公司计划资本支出人民币1,730亿元,其中,勘探及开发板块资本支出人民币778亿元,主要用于济阳、塔河等原油产能建设,川西等天然气产能建设以及油气储运设施建设;炼油板块资本支出人民币248亿元,主要用于镇海炼化扩建、广州石化技术改造、茂名技术改造等项目建设;营销及分销板块资本支出人民币184亿元,主要用于综合加能站网络发展、现有终端销售网络改造、非油品业务等项目;化工板块资本支出人民币458亿元,主要用于镇海二期乙烯、茂名乙烯、九江芳烃等项目建设;总部及其他资本支出人民币62亿元,主要用于科技研发、信息化等项目建设。"
+    }
+  ]
+}
