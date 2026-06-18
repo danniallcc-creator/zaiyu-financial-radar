@@ -2579,5 +2579,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002235",
+    "name": "安妮股份",
+    "price": 8.29,
+    "change": -0.4,
+    "changePct": -4.6,
+    "open": 8.71,
+    "high": 8.73,
+    "low": 8.08,
+    "prevClose": 8.69,
+    "volume": 535595,
+    "amount": 44000.0,
+    "totalMV": 4805000000.0,
+    "circMV": 4589000000.0,
+    "pe": -248.16,
+    "pb": 6.59,
+    "turnover": 9.68,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

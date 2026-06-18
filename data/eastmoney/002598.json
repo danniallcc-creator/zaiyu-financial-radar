@@ -2586,5 +2586,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002598",
+    "name": "ST章鼓",
+    "price": 6.96,
+    "change": -0.09,
+    "changePct": -1.28,
+    "open": 7.1,
+    "high": 7.1,
+    "low": 6.87,
+    "prevClose": 7.05,
+    "volume": 25378,
+    "amount": 1768.0,
+    "totalMV": 2172000000.0,
+    "circMV": 1994000000.0000002,
+    "pe": 36.51,
+    "pb": 1.73,
+    "turnover": 0.89,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

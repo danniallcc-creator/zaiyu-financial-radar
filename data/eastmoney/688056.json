@@ -2532,5 +2532,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688056",
+    "name": "莱伯泰科",
+    "price": 70.36,
+    "change": 3.79,
+    "changePct": 5.69,
+    "open": 66.57,
+    "high": 72.69,
+    "low": 65.06,
+    "prevClose": 66.57,
+    "volume": 3970540,
+    "amount": 27314.0,
+    "totalMV": 4746000000.0,
+    "circMV": 4746000000.0,
+    "pe": 138.6,
+    "pb": 5.91,
+    "turnover": 5.89,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

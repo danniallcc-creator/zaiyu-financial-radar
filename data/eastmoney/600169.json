@@ -2509,5 +2509,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600169",
+    "name": "ST太重",
+    "price": 2.12,
+    "change": -0.08,
+    "changePct": -3.64,
+    "open": 2.2,
+    "high": 2.2,
+    "low": 2.1,
+    "prevClose": 2.2,
+    "volume": 218794,
+    "amount": 4692.0,
+    "totalMV": 7095999999.999999,
+    "circMV": 7066000000.0,
+    "pe": 29.26,
+    "pb": 1.36,
+    "turnover": 0.66,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

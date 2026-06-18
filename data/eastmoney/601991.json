@@ -2641,5 +2641,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601991",
+    "name": "大唐发电",
+    "price": 8.22,
+    "change": -0.91,
+    "changePct": -9.97,
+    "open": 8.94,
+    "high": 9.3,
+    "low": 8.22,
+    "prevClose": 9.13,
+    "volume": 10067946,
+    "amount": 872340.0,
+    "totalMV": 152125000000.0,
+    "circMV": 101896000000.0,
+    "pe": 18.92,
+    "pb": 4.13,
+    "turnover": 8.12,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

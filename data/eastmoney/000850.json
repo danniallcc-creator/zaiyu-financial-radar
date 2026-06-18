@@ -2593,5 +2593,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000850",
+    "name": "华茂股份",
+    "price": 3.68,
+    "change": -0.06,
+    "changePct": -1.6,
+    "open": 3.74,
+    "high": 3.74,
+    "low": 3.65,
+    "prevClose": 3.74,
+    "volume": 79427,
+    "amount": 2929.0,
+    "totalMV": 3472999999.9999995,
+    "circMV": 3472000000.0,
+    "pe": 70.31,
+    "pb": 0.78,
+    "turnover": 0.84,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

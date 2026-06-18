@@ -2664,5 +2664,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002600",
+    "name": "领益智造",
+    "price": 16.82,
+    "change": 0.97,
+    "changePct": 6.12,
+    "open": 15.8,
+    "high": 17.24,
+    "low": 15.76,
+    "prevClose": 15.85,
+    "volume": 3637751,
+    "amount": 610404.0,
+    "totalMV": 122924000000.0,
+    "circMV": 121099000000.0,
+    "pe": 58.14,
+    "pb": 5.07,
+    "turnover": 5.05,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

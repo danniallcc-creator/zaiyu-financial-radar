@@ -2581,5 +2581,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002763",
+    "name": "汇洁股份",
+    "price": 7.35,
+    "change": -0.06,
+    "changePct": -0.81,
+    "open": 7.36,
+    "high": 7.45,
+    "low": 7.3,
+    "prevClose": 7.41,
+    "volume": 57984,
+    "amount": 4271.0,
+    "totalMV": 3013000000.0,
+    "circMV": 2232000000.0,
+    "pe": 43.35,
+    "pb": 1.93,
+    "turnover": 1.91,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

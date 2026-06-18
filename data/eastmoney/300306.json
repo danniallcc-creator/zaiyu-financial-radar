@@ -2571,5 +2571,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300306",
+    "name": "远方信息",
+    "price": 10.1,
+    "change": -0.18,
+    "changePct": -1.75,
+    "open": 10.24,
+    "high": 10.3,
+    "low": 10.0,
+    "prevClose": 10.28,
+    "volume": 26256,
+    "amount": 2662.0,
+    "totalMV": 2716000000.0,
+    "circMV": 1592000000.0,
+    "pe": 38.51,
+    "pb": 1.9,
+    "turnover": 1.67,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

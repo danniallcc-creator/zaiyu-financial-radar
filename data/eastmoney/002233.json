@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002233",
+    "name": "塔牌集团",
+    "price": 7.52,
+    "change": 0.03,
+    "changePct": 0.4,
+    "open": 7.51,
+    "high": 7.6,
+    "low": 7.44,
+    "prevClose": 7.49,
+    "volume": 92050,
+    "amount": 6923.0,
+    "totalMV": 8830000000.0,
+    "circMV": 8823000000.0,
+    "pe": 14.33,
+    "pb": 0.76,
+    "turnover": 0.78,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

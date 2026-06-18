@@ -2636,5 +2636,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603607",
+    "name": "京华激光",
+    "price": 19.7,
+    "change": -1.0,
+    "changePct": -4.83,
+    "open": 20.66,
+    "high": 20.67,
+    "low": 19.5,
+    "prevClose": 20.7,
+    "volume": 46385,
+    "amount": 9213.0,
+    "totalMV": 3517000000.0,
+    "circMV": 3517000000.0,
+    "pe": 32.85,
+    "pb": 3.59,
+    "turnover": 2.6,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

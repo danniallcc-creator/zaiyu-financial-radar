@@ -2580,5 +2580,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301276",
+    "name": "嘉曼服饰",
+    "price": 24.06,
+    "change": -2.0,
+    "changePct": -7.67,
+    "open": 25.55,
+    "high": 25.68,
+    "low": 24.0,
+    "prevClose": 26.06,
+    "volume": 88631,
+    "amount": 21876.0,
+    "totalMV": 3118000000.0,
+    "circMV": 1739000000.0,
+    "pe": 28.04,
+    "pb": 1.48,
+    "turnover": 12.26,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

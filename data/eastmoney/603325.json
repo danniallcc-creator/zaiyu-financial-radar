@@ -2518,5 +2518,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603325",
+    "name": "博隆技术",
+    "price": 55.5,
+    "change": -0.5,
+    "changePct": -0.89,
+    "open": 56.24,
+    "high": 56.24,
+    "low": 55.1,
+    "prevClose": 56.0,
+    "volume": 4422,
+    "amount": 2457.0,
+    "totalMV": 4440000000.0,
+    "circMV": 1897000000.0,
+    "pe": 13.11,
+    "pb": 1.6,
+    "turnover": 1.29,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

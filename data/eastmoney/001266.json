@@ -2596,5 +2596,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "001266",
+    "name": "宏英智能",
+    "price": 53.2,
+    "change": 2.38,
+    "changePct": 4.68,
+    "open": 51.67,
+    "high": 53.2,
+    "low": 50.92,
+    "prevClose": 50.82,
+    "volume": 59716,
+    "amount": 31149.0,
+    "totalMV": 5514000000.0,
+    "circMV": 3094000000.0,
+    "pe": 112.48,
+    "pb": 5.77,
+    "turnover": 10.27,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

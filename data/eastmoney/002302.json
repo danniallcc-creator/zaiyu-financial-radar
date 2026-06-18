@@ -2662,5 +2662,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002302",
+    "name": "西部建设",
+    "price": 4.65,
+    "change": -0.09,
+    "changePct": -1.9,
+    "open": 4.72,
+    "high": 4.73,
+    "low": 4.63,
+    "prevClose": 4.74,
+    "volume": 64099,
+    "amount": 2993.0,
+    "totalMV": 5870000000.0,
+    "circMV": 5870000000.0,
+    "pe": -8.37,
+    "pb": 0.76,
+    "turnover": 0.51,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

@@ -2207,5 +2207,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "001279",
+    "name": "强邦新材",
+    "price": 26.5,
+    "change": -1.1,
+    "changePct": -3.99,
+    "open": 27.39,
+    "high": 27.39,
+    "low": 26.41,
+    "prevClose": 27.6,
+    "volume": 14888,
+    "amount": 3977.0,
+    "totalMV": 4240000000.0,
+    "circMV": 1060000000.0,
+    "pe": 107.78,
+    "pb": 4.25,
+    "turnover": 3.72,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

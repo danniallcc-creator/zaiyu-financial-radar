@@ -2646,5 +2646,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603366",
+    "name": "日出东方",
+    "price": 6.67,
+    "change": -0.23,
+    "changePct": -3.33,
+    "open": 6.83,
+    "high": 6.88,
+    "low": 6.6,
+    "prevClose": 6.9,
+    "volume": 133071,
+    "amount": 8941.0,
+    "totalMV": 5423000000.0,
+    "circMV": 5423000000.0,
+    "pe": 29.84,
+    "pb": 1.27,
+    "turnover": 1.64,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

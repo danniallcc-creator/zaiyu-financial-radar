@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000528",
+    "name": "柳    工",
+    "price": 8.0,
+    "change": -0.18,
+    "changePct": -2.2,
+    "open": 8.16,
+    "high": 8.17,
+    "low": 7.98,
+    "prevClose": 8.18,
+    "volume": 307359,
+    "amount": 24738.0,
+    "totalMV": 16296000000.0,
+    "circMV": 16272999999.999998,
+    "pe": 10.46,
+    "pb": 0.89,
+    "turnover": 1.51,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

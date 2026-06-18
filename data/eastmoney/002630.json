@@ -2598,5 +2598,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002630",
+    "name": "*ST华西",
+    "price": 1.97,
+    "change": -0.05,
+    "changePct": -2.48,
+    "open": 2.07,
+    "high": 2.08,
+    "low": 1.96,
+    "prevClose": 2.02,
+    "volume": 239023,
+    "amount": 4773.0,
+    "totalMV": 2326000000.0,
+    "circMV": 2121000000.0,
+    "pe": -7.22,
+    "pb": -30.55,
+    "turnover": 2.22,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

@@ -2559,5 +2559,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002780",
+    "name": "三夫户外",
+    "price": 12.97,
+    "change": -0.16,
+    "changePct": -1.22,
+    "open": 13.13,
+    "high": 13.13,
+    "low": 12.86,
+    "prevClose": 13.13,
+    "volume": 34655,
+    "amount": 4502.0,
+    "totalMV": 2145000000.0,
+    "circMV": 1695000000.0,
+    "pe": 30.06,
+    "pb": 2.64,
+    "turnover": 2.65,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

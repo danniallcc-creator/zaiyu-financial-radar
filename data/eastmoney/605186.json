@@ -2451,5 +2451,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "605186",
+    "name": "健麾信息",
+    "price": 33.87,
+    "change": 1.02,
+    "changePct": 3.11,
+    "open": 32.85,
+    "high": 34.67,
+    "low": 32.85,
+    "prevClose": 32.85,
+    "volume": 100538,
+    "amount": 34021.0,
+    "totalMV": 4606000000.0,
+    "circMV": 4606000000.0,
+    "pe": 149.7,
+    "pb": 4.16,
+    "turnover": 7.39,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

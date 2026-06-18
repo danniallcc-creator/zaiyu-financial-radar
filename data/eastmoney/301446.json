@@ -2489,5 +2489,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301446",
+    "name": "福事特",
+    "price": 42.6,
+    "change": 0.3,
+    "changePct": 0.71,
+    "open": 42.3,
+    "high": 42.88,
+    "low": 40.28,
+    "prevClose": 42.3,
+    "volume": 19535,
+    "amount": 8090.0,
+    "totalMV": 4430000000.0,
+    "circMV": 1324000000.0,
+    "pe": 58.85,
+    "pb": 3.68,
+    "turnover": 6.29,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

@@ -2511,5 +2511,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301070",
+    "name": "开勒股份",
+    "price": 87.16,
+    "change": 4.71,
+    "changePct": 5.71,
+    "open": 81.95,
+    "high": 89.3,
+    "low": 81.22,
+    "prevClose": 82.45,
+    "volume": 57210,
+    "amount": 49316.0,
+    "totalMV": 10997000000.0,
+    "circMV": 7392000000.0,
+    "pe": -3506.65,
+    "pb": 15.16,
+    "turnover": 6.75,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

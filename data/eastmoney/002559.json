@@ -2662,5 +2662,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002559",
+    "name": "亚威股份",
+    "price": 10.85,
+    "change": 0.3,
+    "changePct": 2.84,
+    "open": 10.49,
+    "high": 10.94,
+    "low": 10.35,
+    "prevClose": 10.55,
+    "volume": 452024,
+    "amount": 48149.0,
+    "totalMV": 5965000000.0,
+    "circMV": 5468000000.0,
+    "pe": 58.54,
+    "pb": 3.44,
+    "turnover": 8.97,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

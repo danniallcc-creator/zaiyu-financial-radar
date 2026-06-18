@@ -2510,5 +2510,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "001360",
+    "name": "南矿集团",
+    "price": 21.96,
+    "change": 0.77,
+    "changePct": 3.63,
+    "open": 21.54,
+    "high": 22.19,
+    "low": 20.86,
+    "prevClose": 21.19,
+    "volume": 57113,
+    "amount": 12403.0,
+    "totalMV": 4480000000.0,
+    "circMV": 2756000000.0,
+    "pe": 101.03,
+    "pb": 3.13,
+    "turnover": 4.55,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

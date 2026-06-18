@@ -2614,5 +2614,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600612",
+    "name": "老凤祥",
+    "price": 34.43,
+    "change": -0.44,
+    "changePct": -1.26,
+    "open": 34.72,
+    "high": 34.98,
+    "low": 34.26,
+    "prevClose": 34.87,
+    "volume": 9683,
+    "amount": 3342.0,
+    "totalMV": 18011000000.0,
+    "circMV": 10918000000.0,
+    "pe": 10.66,
+    "pb": 1.31,
+    "turnover": 0.31,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

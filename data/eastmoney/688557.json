@@ -2542,5 +2542,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688557",
+    "name": "兰剑智能",
+    "price": 31.93,
+    "change": 1.99,
+    "changePct": 6.65,
+    "open": 29.94,
+    "high": 32.25,
+    "low": 29.75,
+    "prevClose": 29.94,
+    "volume": 2296600,
+    "amount": 7244.0,
+    "totalMV": 3279000000.0,
+    "circMV": 3279000000.0,
+    "pe": 29.53,
+    "pb": 2.67,
+    "turnover": 2.24,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

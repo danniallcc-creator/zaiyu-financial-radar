@@ -2499,5 +2499,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600212",
+    "name": "绿能慧充",
+    "price": 5.76,
+    "change": -0.07,
+    "changePct": -1.2,
+    "open": 5.75,
+    "high": 5.92,
+    "low": 5.72,
+    "prevClose": 5.83,
+    "volume": 108867,
+    "amount": 6309.0,
+    "totalMV": 4056000000.0,
+    "circMV": 3060000000.0,
+    "pe": 1888.3,
+    "pb": 7.03,
+    "turnover": 2.05,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

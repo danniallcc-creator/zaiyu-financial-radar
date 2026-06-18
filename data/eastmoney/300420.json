@@ -2614,5 +2614,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300420",
+    "name": "五洋自控",
+    "price": 7.49,
+    "change": 1.02,
+    "changePct": 15.77,
+    "open": 6.83,
+    "high": 7.76,
+    "low": 6.41,
+    "prevClose": 6.47,
+    "volume": 3205553,
+    "amount": 234715.0,
+    "totalMV": 8362000000.0,
+    "circMV": 8361000000.0,
+    "pe": 190.41,
+    "pb": 3.52,
+    "turnover": 28.72,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

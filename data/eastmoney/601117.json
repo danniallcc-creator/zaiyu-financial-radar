@@ -2599,5 +2599,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601117",
+    "name": "中国化学",
+    "price": 8.08,
+    "change": -0.14,
+    "changePct": -1.7,
+    "open": 8.25,
+    "high": 8.29,
+    "low": 8.0,
+    "prevClose": 8.22,
+    "volume": 2830089,
+    "amount": 230488.0,
+    "totalMV": 49342000000.0,
+    "circMV": 49042000000.0,
+    "pe": 7.52,
+    "pb": 0.72,
+    "turnover": 4.66,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

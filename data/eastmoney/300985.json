@@ -2417,5 +2417,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300985",
+    "name": "致远新能",
+    "price": 33.55,
+    "change": 0.25,
+    "changePct": 0.75,
+    "open": 33.2,
+    "high": 34.19,
+    "low": 32.66,
+    "prevClose": 33.3,
+    "volume": 46085,
+    "amount": 15387.0,
+    "totalMV": 6257000000.0,
+    "circMV": 6257000000.0,
+    "pe": -116.07,
+    "pb": 7.08,
+    "turnover": 2.47,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

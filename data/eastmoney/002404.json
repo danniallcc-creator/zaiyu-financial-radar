@@ -2608,5 +2608,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002404",
+    "name": "嘉欣丝绸",
+    "price": 6.16,
+    "change": -0.68,
+    "changePct": -9.94,
+    "open": 6.72,
+    "high": 6.76,
+    "low": 6.16,
+    "prevClose": 6.84,
+    "volume": 523410,
+    "amount": 32960.0,
+    "totalMV": 3450000000.0,
+    "circMV": 2806000000.0,
+    "pe": 18.6,
+    "pb": 1.81,
+    "turnover": 11.49,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

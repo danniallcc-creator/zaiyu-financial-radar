@@ -2602,5 +2602,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688518",
+    "name": "联赢激光",
+    "price": 29.45,
+    "change": 0.23,
+    "changePct": 0.79,
+    "open": 29.13,
+    "high": 29.82,
+    "low": 28.95,
+    "prevClose": 29.22,
+    "volume": 18048185,
+    "amount": 53182.0,
+    "totalMV": 10052000000.0,
+    "circMV": 10052000000.0,
+    "pe": 60.45,
+    "pb": 3.09,
+    "turnover": 5.29,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

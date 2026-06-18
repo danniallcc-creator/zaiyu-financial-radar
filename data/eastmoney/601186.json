@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601186",
+    "name": "中国铁建",
+    "price": 6.3,
+    "change": -0.18,
+    "changePct": -2.78,
+    "open": 6.44,
+    "high": 6.44,
+    "low": 6.29,
+    "prevClose": 6.48,
+    "volume": 569824,
+    "amount": 36123.0,
+    "totalMV": 85551000000.0,
+    "circMV": 72470000000.0,
+    "pe": 4.86,
+    "pb": 0.31,
+    "turnover": 0.5,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

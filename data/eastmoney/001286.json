@@ -2594,5 +2594,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "001286",
+    "name": "陕西能源",
+    "price": 10.89,
+    "change": -1.0,
+    "changePct": -8.41,
+    "open": 11.86,
+    "high": 11.9,
+    "low": 10.8,
+    "prevClose": 11.89,
+    "volume": 484841,
+    "amount": 54575.0,
+    "totalMV": 40838000000.0,
+    "circMV": 14701000000.0,
+    "pe": 12.78,
+    "pb": 1.49,
+    "turnover": 3.59,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

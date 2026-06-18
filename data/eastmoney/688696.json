@@ -2600,5 +2600,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688696",
+    "name": "极米科技",
+    "price": 68.33,
+    "change": -0.62,
+    "changePct": -0.9,
+    "open": 69.78,
+    "high": 70.18,
+    "low": 68.09,
+    "prevClose": 68.95,
+    "volume": 469530,
+    "amount": 3239.0,
+    "totalMV": 4784000000.0,
+    "circMV": 4784000000.0,
+    "pe": 36.5,
+    "pb": 1.64,
+    "turnover": 0.67,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

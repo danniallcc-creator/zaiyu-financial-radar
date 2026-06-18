@@ -2523,5 +2523,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301107",
+    "name": "瑜欣电子",
+    "price": 24.5,
+    "change": -0.41,
+    "changePct": -1.65,
+    "open": 24.76,
+    "high": 25.0,
+    "low": 23.88,
+    "prevClose": 24.91,
+    "volume": 50365,
+    "amount": 12234.0,
+    "totalMV": 3484000000.0000005,
+    "circMV": 2014000000.0,
+    "pe": 56.25,
+    "pb": 3.73,
+    "turnover": 6.13,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

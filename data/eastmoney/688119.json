@@ -2420,5 +2420,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688119",
+    "name": "中钢洛耐",
+    "price": 4.81,
+    "change": 0.2,
+    "changePct": 4.34,
+    "open": 4.64,
+    "high": 5.01,
+    "low": 4.6,
+    "prevClose": 4.61,
+    "volume": 22623821,
+    "amount": 10855.0,
+    "totalMV": 5411000000.0,
+    "circMV": 5411000000.0,
+    "pe": -32.51,
+    "pb": 1.92,
+    "turnover": 2.01,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

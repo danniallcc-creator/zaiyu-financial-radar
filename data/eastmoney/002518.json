@@ -2599,5 +2599,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002518",
+    "name": "科士达",
+    "price": 52.18,
+    "change": 0.0,
+    "changePct": 0.0,
+    "open": 52.07,
+    "high": 52.6,
+    "low": 51.5,
+    "prevClose": 52.18,
+    "volume": 123644,
+    "amount": 64345.0,
+    "totalMV": 30381000000.0,
+    "circMV": 29489999999.999996,
+    "pe": 47.58,
+    "pb": 6.45,
+    "turnover": 2.19,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

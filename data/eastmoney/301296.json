@@ -2491,5 +2491,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301296",
+    "name": "新巨丰",
+    "price": 6.32,
+    "change": -0.06,
+    "changePct": -0.94,
+    "open": 6.37,
+    "high": 6.39,
+    "low": 6.23,
+    "prevClose": 6.38,
+    "volume": 17470,
+    "amount": 1103.0,
+    "totalMV": 2699000000.0,
+    "circMV": 2699000000.0,
+    "pe": 73.76,
+    "pb": 1.02,
+    "turnover": 0.41,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

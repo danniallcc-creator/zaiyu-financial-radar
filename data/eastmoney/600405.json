@@ -2589,5 +2589,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600405",
+    "name": "动力源",
+    "price": 4.03,
+    "change": -0.01,
+    "changePct": -0.25,
+    "open": 4.0,
+    "high": 4.09,
+    "low": 3.95,
+    "prevClose": 4.04,
+    "volume": 110475,
+    "amount": 4450.0,
+    "totalMV": 2470000000.0,
+    "circMV": 2470000000.0,
+    "pe": -8.14,
+    "pb": 78.79,
+    "turnover": 1.8,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

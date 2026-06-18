@@ -2665,5 +2665,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600582",
+    "name": "天地科技",
+    "price": 4.88,
+    "change": -0.13,
+    "changePct": -2.59,
+    "open": 5.01,
+    "high": 5.01,
+    "low": 4.88,
+    "prevClose": 5.01,
+    "volume": 223448,
+    "amount": 10972.0,
+    "totalMV": 20196000000.0,
+    "circMV": 20196000000.0,
+    "pe": 13.99,
+    "pb": 0.81,
+    "turnover": 0.54,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

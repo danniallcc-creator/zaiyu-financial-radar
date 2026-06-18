@@ -1654,5 +1654,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000987",
+    "name": "越秀资本",
+    "price": 7.48,
+    "change": -0.23,
+    "changePct": -2.98,
+    "open": 7.66,
+    "high": 7.7,
+    "low": 7.44,
+    "prevClose": 7.71,
+    "volume": 325494,
+    "amount": 24523.0,
+    "totalMV": 37528000000.0,
+    "circMV": 37500000000.0,
+    "pe": 9.02,
+    "pb": 1.13,
+    "turnover": 0.65,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

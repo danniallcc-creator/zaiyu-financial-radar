@@ -2624,5 +2624,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601816",
+    "name": "京沪高铁",
+    "price": 4.59,
+    "change": -0.14,
+    "changePct": -2.96,
+    "open": 4.71,
+    "high": 4.72,
+    "low": 4.58,
+    "prevClose": 4.73,
+    "volume": 2872170,
+    "amount": 132869.0,
+    "totalMV": 224569000000.0,
+    "circMV": 224569000000.0,
+    "pe": 16.82,
+    "pb": 1.07,
+    "turnover": 0.59,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

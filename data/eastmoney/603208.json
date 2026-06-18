@@ -2491,5 +2491,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603208",
+    "name": "江山欧派",
+    "price": 11.1,
+    "change": 0.2,
+    "changePct": 1.83,
+    "open": 10.86,
+    "high": 11.34,
+    "low": 10.55,
+    "prevClose": 10.9,
+    "volume": 35654,
+    "amount": 3936.0,
+    "totalMV": 1952000000.0,
+    "circMV": 1952000000.0,
+    "pe": -8.32,
+    "pb": 1.93,
+    "turnover": 2.03,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

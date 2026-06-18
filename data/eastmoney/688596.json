@@ -2528,5 +2528,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688596",
+    "name": "正帆科技",
+    "price": 46.1,
+    "change": -0.7,
+    "changePct": -1.5,
+    "open": 46.01,
+    "high": 47.6,
+    "low": 45.44,
+    "prevClose": 46.8,
+    "volume": 18779856,
+    "amount": 86610.0,
+    "totalMV": 13559000000.0,
+    "circMV": 13559000000.0,
+    "pe": 177.76,
+    "pb": 3.77,
+    "turnover": 6.38,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

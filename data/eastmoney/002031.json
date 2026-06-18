@@ -2632,5 +2632,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002031",
+    "name": "巨轮智能",
+    "price": 5.72,
+    "change": 0.01,
+    "changePct": 0.18,
+    "open": 5.66,
+    "high": 5.8,
+    "low": 5.57,
+    "prevClose": 5.71,
+    "volume": 967490,
+    "amount": 55052.0,
+    "totalMV": 12581000000.0,
+    "circMV": 10946000000.0,
+    "pe": -52.99,
+    "pb": 6.48,
+    "turnover": 5.06,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

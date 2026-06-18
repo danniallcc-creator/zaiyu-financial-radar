@@ -2614,5 +2614,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002611",
+    "name": "东方精工",
+    "price": 18.74,
+    "change": 0.56,
+    "changePct": 3.08,
+    "open": 18.18,
+    "high": 19.17,
+    "low": 18.18,
+    "prevClose": 18.18,
+    "volume": 592344,
+    "amount": 110903.0,
+    "totalMV": 22812000000.0,
+    "circMV": 18776000000.0,
+    "pe": 51.83,
+    "pb": 4.03,
+    "turnover": 5.91,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

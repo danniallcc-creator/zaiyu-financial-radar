@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601390",
+    "name": "中国中铁",
+    "price": 4.51,
+    "change": -0.17,
+    "changePct": -3.63,
+    "open": 4.65,
+    "high": 4.66,
+    "low": 4.5,
+    "prevClose": 4.68,
+    "volume": 1605669,
+    "amount": 73205.0,
+    "totalMV": 111334999999.99998,
+    "circMV": 92360000000.0,
+    "pe": 5.25,
+    "pb": 0.35,
+    "turnover": 0.78,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

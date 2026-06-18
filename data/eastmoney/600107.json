@@ -2511,5 +2511,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600107",
+    "name": "*ST尔雅",
+    "price": 6.2,
+    "change": -0.11,
+    "changePct": -1.74,
+    "open": 6.3,
+    "high": 6.37,
+    "low": 6.01,
+    "prevClose": 6.31,
+    "volume": 31567,
+    "amount": 1945.0,
+    "totalMV": 2232000000.0,
+    "circMV": 2232000000.0,
+    "pe": -28.95,
+    "pb": 5.51,
+    "turnover": 0.88,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

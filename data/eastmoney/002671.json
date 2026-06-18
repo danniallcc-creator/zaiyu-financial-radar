@@ -2538,5 +2538,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002671",
+    "name": "龙泉股份",
+    "price": 3.92,
+    "change": -0.04,
+    "changePct": -1.01,
+    "open": 3.94,
+    "high": 3.97,
+    "low": 3.86,
+    "prevClose": 3.96,
+    "volume": 100989,
+    "amount": 3946.0,
+    "totalMV": 2208000000.0,
+    "circMV": 2163000000.0,
+    "pe": 40.29,
+    "pb": 1.35,
+    "turnover": 1.83,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

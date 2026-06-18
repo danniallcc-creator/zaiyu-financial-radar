@@ -2610,5 +2610,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603001",
+    "name": "奥康国际",
+    "price": 11.89,
+    "change": 1.08,
+    "changePct": 9.99,
+    "open": 10.88,
+    "high": 11.89,
+    "low": 10.83,
+    "prevClose": 10.81,
+    "volume": 406653,
+    "amount": 47417.0,
+    "totalMV": 4768000000.0,
+    "circMV": 4768000000.0,
+    "pe": -27.79,
+    "pb": 2.01,
+    "turnover": 10.14,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

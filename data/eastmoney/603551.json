@@ -2632,5 +2632,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603551",
+    "name": "奥普科技",
+    "price": 9.25,
+    "change": -0.07,
+    "changePct": -0.75,
+    "open": 9.32,
+    "high": 9.4,
+    "low": 9.2,
+    "prevClose": 9.32,
+    "volume": 20894,
+    "amount": 1940.0,
+    "totalMV": 3559000000.0000005,
+    "circMV": 3514000000.0,
+    "pe": 12.37,
+    "pb": 2.87,
+    "turnover": 0.55,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

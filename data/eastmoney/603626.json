@@ -2588,5 +2588,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603626",
+    "name": "科森科技",
+    "price": 21.18,
+    "change": -0.23,
+    "changePct": -1.07,
+    "open": 21.36,
+    "high": 21.66,
+    "low": 20.91,
+    "prevClose": 21.41,
+    "volume": 334681,
+    "amount": 70926.0,
+    "totalMV": 11752000000.0,
+    "circMV": 11752000000.0,
+    "pe": 91.97,
+    "pb": 5.16,
+    "turnover": 6.03,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

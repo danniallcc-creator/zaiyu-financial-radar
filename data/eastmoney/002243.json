@@ -2662,5 +2662,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002243",
+    "name": "力合科创",
+    "price": 7.04,
+    "change": -0.19,
+    "changePct": -2.63,
+    "open": 7.2,
+    "high": 7.3,
+    "low": 6.98,
+    "prevClose": 7.23,
+    "volume": 181732,
+    "amount": 12903.0,
+    "totalMV": 8523000000.0,
+    "circMV": 8477000000.0,
+    "pe": 48.41,
+    "pb": 1.18,
+    "turnover": 1.51,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

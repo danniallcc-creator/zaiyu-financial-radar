@@ -2662,5 +2662,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600860",
+    "name": "京城股份",
+    "price": 8.64,
+    "change": -0.46,
+    "changePct": -5.05,
+    "open": 8.98,
+    "high": 9.0,
+    "low": 8.6,
+    "prevClose": 9.1,
+    "volume": 94372,
+    "amount": 8252.0,
+    "totalMV": 4730000000.0,
+    "circMV": 3836999999.9999995,
+    "pe": -63.98,
+    "pb": 5.73,
+    "turnover": 2.13,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

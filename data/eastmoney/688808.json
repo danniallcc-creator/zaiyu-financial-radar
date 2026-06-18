@@ -936,5 +936,24 @@
         "price": null
       }
     ]
+  },
+  "quote": {
+    "code": "688808",
+    "name": "联讯仪器",
+    "price": 2373.0,
+    "change": 57.0,
+    "changePct": 2.46,
+    "open": 2366.0,
+    "high": 2478.0,
+    "low": 2290.0,
+    "prevClose": 2316.0,
+    "volume": 1279278,
+    "amount": 304085.0,
+    "totalMV": 243628000000.00003,
+    "circMV": 45790000000.0,
+    "pe": 891.67,
+    "pb": 83.06,
+    "turnover": 6.63,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

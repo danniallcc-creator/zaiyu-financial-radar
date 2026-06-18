@@ -2632,5 +2632,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002290",
+    "name": "禾盛新材",
+    "price": 89.19,
+    "change": 5.81,
+    "changePct": 6.97,
+    "open": 82.73,
+    "high": 89.89,
+    "low": 82.3,
+    "prevClose": 83.38,
+    "volume": 117803,
+    "amount": 102303.0,
+    "totalMV": 22129000000.0,
+    "circMV": 22047000000.0,
+    "pe": 142.29,
+    "pb": 23.07,
+    "turnover": 4.77,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

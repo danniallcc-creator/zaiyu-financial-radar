@@ -2662,5 +2662,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600308",
+    "name": "华泰股份",
+    "price": 3.13,
+    "change": -0.12,
+    "changePct": -3.69,
+    "open": 3.24,
+    "high": 3.25,
+    "low": 3.12,
+    "prevClose": 3.25,
+    "volume": 147886,
+    "amount": 4672.0,
+    "totalMV": 4748000000.0,
+    "circMV": 4748000000.0,
+    "pe": -46.12,
+    "pb": 0.52,
+    "turnover": 0.97,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

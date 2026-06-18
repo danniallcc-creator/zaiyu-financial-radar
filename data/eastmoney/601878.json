@@ -1684,5 +1684,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601878",
+    "name": "浙商证券",
+    "price": 9.11,
+    "change": -0.28,
+    "changePct": -2.98,
+    "open": 9.35,
+    "high": 9.38,
+    "low": 9.1,
+    "prevClose": 9.39,
+    "volume": 343245,
+    "amount": 31670.0,
+    "totalMV": 41667000000.0,
+    "circMV": 41667000000.0,
+    "pe": 15.98,
+    "pb": 1.11,
+    "turnover": 0.75,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

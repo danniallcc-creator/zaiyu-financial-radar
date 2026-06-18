@@ -1702,5 +1702,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601881",
+    "name": "中国银河",
+    "price": 12.09,
+    "change": -0.61,
+    "changePct": -4.8,
+    "open": 12.67,
+    "high": 12.77,
+    "low": 12.09,
+    "prevClose": 12.7,
+    "volume": 664462,
+    "amount": 81929.0,
+    "totalMV": 132197000000.0,
+    "circMV": 87573000000.0,
+    "pe": 10.31,
+    "pb": 1.09,
+    "turnover": 0.92,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

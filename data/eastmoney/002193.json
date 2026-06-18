@@ -2644,5 +2644,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002193",
+    "name": "ST如意",
+    "price": 4.75,
+    "change": -0.19,
+    "changePct": -3.85,
+    "open": 4.94,
+    "high": 5.02,
+    "low": 4.75,
+    "prevClose": 4.94,
+    "volume": 48797,
+    "amount": 2379.0,
+    "totalMV": 1243000000.0,
+    "circMV": 1243000000.0,
+    "pe": -3.32,
+    "pb": 4.62,
+    "turnover": 1.86,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

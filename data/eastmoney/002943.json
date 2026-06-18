@@ -2591,5 +2591,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002943",
+    "name": "宇晶股份",
+    "price": 51.75,
+    "change": 0.17,
+    "changePct": 0.33,
+    "open": 52.59,
+    "high": 52.69,
+    "low": 50.23,
+    "prevClose": 51.58,
+    "volume": 135137,
+    "amount": 69941.0,
+    "totalMV": 13809000000.0,
+    "circMV": 9773000000.0,
+    "pe": 415.65,
+    "pb": 15.96,
+    "turnover": 7.16,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

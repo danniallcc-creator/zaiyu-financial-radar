@@ -2539,5 +2539,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "605268",
+    "name": "王力安防",
+    "price": 9.6,
+    "change": -0.13,
+    "changePct": -1.34,
+    "open": 9.68,
+    "high": 9.73,
+    "low": 9.52,
+    "prevClose": 9.73,
+    "volume": 29943,
+    "amount": 2879.0,
+    "totalMV": 4285000000.0,
+    "circMV": 4229000000.0,
+    "pe": 32.78,
+    "pb": 2.48,
+    "turnover": 0.68,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

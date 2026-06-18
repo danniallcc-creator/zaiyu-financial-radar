@@ -2564,5 +2564,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002527",
+    "name": "新时达",
+    "price": 14.65,
+    "change": 0.82,
+    "changePct": 5.93,
+    "open": 13.79,
+    "high": 15.2,
+    "low": 13.71,
+    "prevClose": 13.83,
+    "volume": 335147,
+    "amount": 48557.0,
+    "totalMV": 9714000000.0,
+    "circMV": 7748000000.0,
+    "pe": 1585.43,
+    "pb": 7.81,
+    "turnover": 6.34,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

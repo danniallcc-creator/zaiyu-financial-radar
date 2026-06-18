@@ -2556,5 +2556,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002846",
+    "name": "英联股份",
+    "price": 12.3,
+    "change": -0.28,
+    "changePct": -2.23,
+    "open": 12.48,
+    "high": 12.63,
+    "low": 12.25,
+    "prevClose": 12.58,
+    "volume": 76642,
+    "amount": 9501.0,
+    "totalMV": 5166000000.0,
+    "circMV": 3200000000.0,
+    "pe": 140.48,
+    "pb": 3.65,
+    "turnover": 2.95,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

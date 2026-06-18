@@ -2510,5 +2510,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002506",
+    "name": "协鑫集成",
+    "price": 3.07,
+    "change": -0.14,
+    "changePct": -4.36,
+    "open": 3.16,
+    "high": 3.17,
+    "low": 3.05,
+    "prevClose": 3.21,
+    "volume": 2980300,
+    "amount": 91996.0,
+    "totalMV": 17960000000.0,
+    "circMV": 17942000000.0,
+    "pe": -15.55,
+    "pb": 19.08,
+    "turnover": 5.1,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

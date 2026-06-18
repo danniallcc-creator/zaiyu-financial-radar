@@ -2692,5 +2692,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000807",
+    "name": "云铝股份",
+    "price": 24.17,
+    "change": -0.83,
+    "changePct": -3.32,
+    "open": 24.75,
+    "high": 25.15,
+    "low": 23.83,
+    "prevClose": 25.0,
+    "volume": 1054123,
+    "amount": 256869.0,
+    "totalMV": 83821000000.0,
+    "circMV": 83820000000.0,
+    "pe": 9.66,
+    "pb": 2.44,
+    "turnover": 3.04,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

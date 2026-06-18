@@ -2536,5 +2536,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "605500",
+    "name": "森林包装",
+    "price": 6.6,
+    "change": -0.05,
+    "changePct": -0.75,
+    "open": 6.68,
+    "high": 6.7,
+    "low": 6.53,
+    "prevClose": 6.65,
+    "volume": 53570,
+    "amount": 3550.0,
+    "totalMV": 2735000000.0,
+    "circMV": 2735000000.0,
+    "pe": 112.05,
+    "pb": 1.07,
+    "turnover": 1.29,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

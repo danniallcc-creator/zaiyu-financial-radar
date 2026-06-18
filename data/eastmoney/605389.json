@@ -2614,5 +2614,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "605389",
+    "name": "长龄液压",
+    "price": 91.42,
+    "change": 3.43,
+    "changePct": 3.9,
+    "open": 88.19,
+    "high": 91.5,
+    "low": 87.01,
+    "prevClose": 87.99,
+    "volume": 26059,
+    "amount": 23424.0,
+    "totalMV": 17124000000.0,
+    "circMV": 16194999999.999998,
+    "pe": 128.66,
+    "pb": 8.19,
+    "turnover": 1.47,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

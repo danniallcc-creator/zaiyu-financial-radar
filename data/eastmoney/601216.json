@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601216",
+    "name": "君正集团",
+    "price": 4.97,
+    "change": -0.1,
+    "changePct": -1.97,
+    "open": 5.05,
+    "high": 5.07,
+    "low": 4.95,
+    "prevClose": 5.07,
+    "volume": 524253,
+    "amount": 26131.0,
+    "totalMV": 41937000000.0,
+    "circMV": 41937000000.0,
+    "pe": 13.85,
+    "pb": 1.4,
+    "turnover": 0.62,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

@@ -2636,5 +2636,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600545",
+    "name": "卓郎智能",
+    "price": 7.25,
+    "change": 0.66,
+    "changePct": 10.02,
+    "open": 6.65,
+    "high": 7.25,
+    "low": 6.55,
+    "prevClose": 6.59,
+    "volume": 1727931,
+    "amount": 119619.0,
+    "totalMV": 12962000000.0,
+    "circMV": 12962000000.0,
+    "pe": -23.64,
+    "pb": 4.94,
+    "turnover": 9.66,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

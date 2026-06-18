@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600600",
+    "name": "青岛啤酒",
+    "price": 53.9,
+    "change": -2.2,
+    "changePct": -3.92,
+    "open": 56.11,
+    "high": 56.13,
+    "low": 53.65,
+    "prevClose": 56.1,
+    "volume": 108169,
+    "amount": 58979.0,
+    "totalMV": 73530000000.0,
+    "circMV": 38222000000.0,
+    "pe": 15.72,
+    "pb": 2.27,
+    "turnover": 1.53,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

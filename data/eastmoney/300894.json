@@ -2582,5 +2582,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300894",
+    "name": "火星人",
+    "price": 12.04,
+    "change": 0.19,
+    "changePct": 1.6,
+    "open": 11.7,
+    "high": 12.49,
+    "low": 11.53,
+    "prevClose": 11.85,
+    "volume": 224646,
+    "amount": 27133.0,
+    "totalMV": 4892000000.0,
+    "circMV": 3540999999.9999995,
+    "pe": -16.57,
+    "pb": 5.05,
+    "turnover": 7.64,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

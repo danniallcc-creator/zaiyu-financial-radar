@@ -2612,5 +2612,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002426",
+    "name": "胜利精密",
+    "price": 4.13,
+    "change": 0.04,
+    "changePct": 0.98,
+    "open": 4.09,
+    "high": 4.15,
+    "low": 3.94,
+    "prevClose": 4.09,
+    "volume": 2185511,
+    "amount": 88851.0,
+    "totalMV": 14053000000.0,
+    "circMV": 14053000000.0,
+    "pe": -18.41,
+    "pb": 8.56,
+    "turnover": 6.42,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

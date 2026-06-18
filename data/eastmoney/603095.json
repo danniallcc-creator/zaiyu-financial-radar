@@ -2618,5 +2618,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603095",
+    "name": "越剑智能",
+    "price": 16.66,
+    "change": -0.32,
+    "changePct": -1.88,
+    "open": 17.09,
+    "high": 17.26,
+    "low": 16.57,
+    "prevClose": 16.98,
+    "volume": 49961,
+    "amount": 8372.0,
+    "totalMV": 4303000000.0,
+    "circMV": 4303000000.0,
+    "pe": 64.96,
+    "pb": 1.84,
+    "turnover": 1.93,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

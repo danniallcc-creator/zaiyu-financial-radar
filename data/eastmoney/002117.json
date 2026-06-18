@@ -2593,5 +2593,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002117",
+    "name": "东港股份",
+    "price": 8.66,
+    "change": 0.05,
+    "changePct": 0.58,
+    "open": 8.53,
+    "high": 8.82,
+    "low": 8.42,
+    "prevClose": 8.61,
+    "volume": 93969,
+    "amount": 8096.0,
+    "totalMV": 4535000000.0,
+    "circMV": 4534000000.0,
+    "pe": 30.07,
+    "pb": 3.42,
+    "turnover": 1.79,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

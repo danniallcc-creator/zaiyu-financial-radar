@@ -2634,5 +2634,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688036",
+    "name": "传音控股",
+    "price": 53.51,
+    "change": -2.41,
+    "changePct": -4.31,
+    "open": 55.65,
+    "high": 56.5,
+    "low": 53.0,
+    "prevClose": 55.92,
+    "volume": 16128276,
+    "amount": 87644.0,
+    "totalMV": 61600000000.0,
+    "circMV": 61600000000.0,
+    "pe": 22.07,
+    "pb": 3.05,
+    "turnover": 1.4,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

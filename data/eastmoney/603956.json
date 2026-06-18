@@ -2590,5 +2590,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603956",
+    "name": "威派格",
+    "price": 4.98,
+    "change": 0.45,
+    "changePct": 9.93,
+    "open": 4.52,
+    "high": 4.98,
+    "low": 4.5,
+    "prevClose": 4.53,
+    "volume": 224743,
+    "amount": 10785.0,
+    "totalMV": 2838000000.0,
+    "circMV": 2838000000.0,
+    "pe": -19.59,
+    "pb": 1.54,
+    "turnover": 3.94,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

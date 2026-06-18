@@ -2477,5 +2477,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688335",
+    "name": "复洁科技",
+    "price": 34.08,
+    "change": 0.76,
+    "changePct": 2.28,
+    "open": 32.9,
+    "high": 34.16,
+    "low": 32.9,
+    "prevClose": 33.32,
+    "volume": 3258397,
+    "amount": 11009.0,
+    "totalMV": 5045000000.0,
+    "circMV": 5045000000.0,
+    "pe": -1357.86,
+    "pb": 4.58,
+    "turnover": 2.2,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

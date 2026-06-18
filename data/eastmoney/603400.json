@@ -2343,5 +2343,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603400",
+    "name": "华之杰",
+    "price": 61.59,
+    "change": 0.58,
+    "changePct": 0.95,
+    "open": 61.5,
+    "high": 63.28,
+    "low": 60.2,
+    "prevClose": 61.01,
+    "volume": 13983,
+    "amount": 8652.0,
+    "totalMV": 6159000000.0,
+    "circMV": 1232000000.0,
+    "pe": 55.39,
+    "pb": 5.02,
+    "turnover": 6.99,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

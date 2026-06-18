@@ -2608,5 +2608,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300480",
+    "name": "光力科技",
+    "price": 37.1,
+    "change": -0.48,
+    "changePct": -1.28,
+    "open": 37.16,
+    "high": 38.15,
+    "low": 36.55,
+    "prevClose": 37.58,
+    "volume": 224249,
+    "amount": 83589.0,
+    "totalMV": 13735000000.0,
+    "circMV": 10023000000.0,
+    "pe": 254.53,
+    "pb": 8.1,
+    "turnover": 8.3,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

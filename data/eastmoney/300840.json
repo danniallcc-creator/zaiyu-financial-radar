@@ -2590,5 +2590,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300840",
+    "name": "酷特智能",
+    "price": 21.51,
+    "change": 0.21,
+    "changePct": 0.99,
+    "open": 21.06,
+    "high": 21.7,
+    "low": 20.92,
+    "prevClose": 21.3,
+    "volume": 56855,
+    "amount": 12161.0,
+    "totalMV": 5162000000.0,
+    "circMV": 3809000000.0000005,
+    "pe": 150.99,
+    "pb": 4.1,
+    "turnover": 3.21,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

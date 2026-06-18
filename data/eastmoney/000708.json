@@ -2686,5 +2686,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000708",
+    "name": "中信特钢",
+    "price": 13.53,
+    "change": -0.08,
+    "changePct": -0.59,
+    "open": 13.67,
+    "high": 13.78,
+    "low": 13.31,
+    "prevClose": 13.61,
+    "volume": 143929,
+    "amount": 19527.0,
+    "totalMV": 68288000000.0,
+    "circMV": 68288000000.0,
+    "pe": 11.28,
+    "pb": 1.61,
+    "turnover": 0.29,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

@@ -2590,5 +2590,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603828",
+    "name": "*ST利达",
+    "price": 4.48,
+    "change": -0.03,
+    "changePct": -0.67,
+    "open": 4.56,
+    "high": 4.71,
+    "low": 4.47,
+    "prevClose": 4.51,
+    "volume": 43577,
+    "amount": 1993.0,
+    "totalMV": 2670000000.0,
+    "circMV": 2670000000.0,
+    "pe": -10.95,
+    "pb": 5.21,
+    "turnover": 0.73,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

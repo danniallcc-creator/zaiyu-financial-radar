@@ -2564,5 +2564,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "001400",
+    "name": "江顺科技",
+    "price": 117.17,
+    "change": 3.11,
+    "changePct": 2.73,
+    "open": 112.61,
+    "high": 118.32,
+    "low": 112.23,
+    "prevClose": 114.06,
+    "volume": 30508,
+    "amount": 35523.0,
+    "totalMV": 9842000000.0,
+    "circMV": 5417000000.0,
+    "pe": 115.48,
+    "pb": 7.82,
+    "turnover": 6.6,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

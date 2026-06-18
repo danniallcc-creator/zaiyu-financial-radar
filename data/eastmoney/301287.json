@@ -2517,5 +2517,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301287",
+    "name": "康力源",
+    "price": 34.85,
+    "change": 0.19,
+    "changePct": 0.55,
+    "open": 34.2,
+    "high": 35.21,
+    "low": 33.88,
+    "prevClose": 34.66,
+    "volume": 5967,
+    "amount": 2072.0,
+    "totalMV": 2323000000.0,
+    "circMV": 594000000.0,
+    "pe": 39.14,
+    "pb": 1.97,
+    "turnover": 3.5,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

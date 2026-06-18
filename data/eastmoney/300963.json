@@ -2598,5 +2598,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300963",
+    "name": "中洲特材",
+    "price": 14.24,
+    "change": 0.02,
+    "changePct": 0.14,
+    "open": 14.22,
+    "high": 14.47,
+    "low": 13.9,
+    "prevClose": 14.22,
+    "volume": 86047,
+    "amount": 12221.0,
+    "totalMV": 6531000000.0,
+    "circMV": 4850000000.0,
+    "pe": 108.27,
+    "pb": 5.82,
+    "turnover": 2.53,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

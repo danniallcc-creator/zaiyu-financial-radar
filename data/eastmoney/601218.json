@@ -2557,5 +2557,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601218",
+    "name": "吉鑫科技",
+    "price": 4.62,
+    "change": -0.13,
+    "changePct": -2.74,
+    "open": 4.73,
+    "high": 4.74,
+    "low": 4.6,
+    "prevClose": 4.75,
+    "volume": 222281,
+    "amount": 10347.0,
+    "totalMV": 4477000000.0,
+    "circMV": 4477000000.0,
+    "pe": 28.27,
+    "pb": 1.49,
+    "turnover": 2.29,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

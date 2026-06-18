@@ -2602,5 +2602,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600988",
+    "name": "赤峰黄金",
+    "price": 30.59,
+    "change": -1.91,
+    "changePct": -5.88,
+    "open": 31.64,
+    "high": 32.5,
+    "low": 30.54,
+    "prevClose": 32.5,
+    "volume": 604830,
+    "amount": 189242.0,
+    "totalMV": 58134000000.0,
+    "circMV": 50899000000.0,
+    "pe": 16.21,
+    "pb": 4.25,
+    "turnover": 3.63,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

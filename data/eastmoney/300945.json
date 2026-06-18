@@ -2546,5 +2546,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300945",
+    "name": "曼卡龙",
+    "price": 11.85,
+    "change": -0.11,
+    "changePct": -0.92,
+    "open": 11.85,
+    "high": 12.18,
+    "low": 11.76,
+    "prevClose": 11.96,
+    "volume": 49177,
+    "amount": 5864.0,
+    "totalMV": 3106000000.0,
+    "circMV": 2825000000.0,
+    "pe": 24.13,
+    "pb": 1.82,
+    "turnover": 2.06,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

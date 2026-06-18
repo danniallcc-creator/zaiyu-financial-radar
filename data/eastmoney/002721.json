@@ -2509,5 +2509,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002721",
+    "name": "金一文化",
+    "price": 2.33,
+    "change": -0.03,
+    "changePct": -1.27,
+    "open": 2.35,
+    "high": 2.37,
+    "low": 2.3,
+    "prevClose": 2.36,
+    "volume": 302978,
+    "amount": 7052.0,
+    "totalMV": 6196000000.0,
+    "circMV": 6196000000.0,
+    "pe": 74.16,
+    "pb": 2.88,
+    "turnover": 1.14,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

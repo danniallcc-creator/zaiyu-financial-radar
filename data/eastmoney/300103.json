@@ -2545,5 +2545,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300103",
+    "name": "达刚控股",
+    "price": 8.65,
+    "change": 0.41,
+    "changePct": 4.98,
+    "open": 8.19,
+    "high": 8.9,
+    "low": 8.05,
+    "prevClose": 8.24,
+    "volume": 155522,
+    "amount": 13205.0,
+    "totalMV": 2747000000.0,
+    "circMV": 2745000000.0,
+    "pe": -48.3,
+    "pb": 6.12,
+    "turnover": 4.9,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

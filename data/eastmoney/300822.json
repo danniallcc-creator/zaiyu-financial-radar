@@ -2598,5 +2598,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300822",
+    "name": "贝仕达克",
+    "price": 12.89,
+    "change": -0.21,
+    "changePct": -1.6,
+    "open": 13.01,
+    "high": 13.19,
+    "low": 12.8,
+    "prevClose": 13.1,
+    "volume": 21135,
+    "amount": 2745.0,
+    "totalMV": 4015999999.9999995,
+    "circMV": 3725000000.0,
+    "pe": 169.76,
+    "pb": 3.22,
+    "turnover": 0.73,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

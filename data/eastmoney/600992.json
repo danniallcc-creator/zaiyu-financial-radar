@@ -2602,5 +2602,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600992",
+    "name": "贵绳股份",
+    "price": 9.69,
+    "change": -0.11,
+    "changePct": -1.12,
+    "open": 9.8,
+    "high": 9.89,
+    "low": 9.62,
+    "prevClose": 9.8,
+    "volume": 52667,
+    "amount": 5128.0,
+    "totalMV": 2375000000.0,
+    "circMV": 2375000000.0,
+    "pe": -807.08,
+    "pb": 1.66,
+    "turnover": 2.15,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

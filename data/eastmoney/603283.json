@@ -2534,5 +2534,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603283",
+    "name": "赛腾股份",
+    "price": 62.6,
+    "change": -0.46,
+    "changePct": -0.73,
+    "open": 65.06,
+    "high": 65.49,
+    "low": 61.31,
+    "prevClose": 63.06,
+    "volume": 388036,
+    "amount": 243464.0,
+    "totalMV": 22068000000.0,
+    "circMV": 22068000000.0,
+    "pe": 43.46,
+    "pb": 6.46,
+    "turnover": 11.01,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

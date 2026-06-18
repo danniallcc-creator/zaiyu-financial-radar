@@ -2507,5 +2507,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301456",
+    "name": "盘古智能",
+    "price": 24.9,
+    "change": -0.15,
+    "changePct": -0.6,
+    "open": 24.97,
+    "high": 25.27,
+    "low": 24.69,
+    "prevClose": 25.05,
+    "volume": 13085,
+    "amount": 3260.0,
+    "totalMV": 3786999999.9999995,
+    "circMV": 1515000000.0,
+    "pe": 43.03,
+    "pb": 1.7,
+    "turnover": 2.15,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

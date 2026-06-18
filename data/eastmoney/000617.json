@@ -2587,5 +2587,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000617",
+    "name": "中油资本",
+    "price": 7.17,
+    "change": -0.19,
+    "changePct": -2.58,
+    "open": 7.3,
+    "high": 7.33,
+    "low": 7.16,
+    "prevClose": 7.36,
+    "volume": 758337,
+    "amount": 54760.0,
+    "totalMV": 90644000000.0,
+    "circMV": 90644000000.0,
+    "pe": 19.74,
+    "pb": 0.85,
+    "turnover": 0.6,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

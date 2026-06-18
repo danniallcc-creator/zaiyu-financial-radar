@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600388",
+    "name": "龙净环保",
+    "price": 16.21,
+    "change": -0.64,
+    "changePct": -3.8,
+    "open": 16.7,
+    "high": 16.8,
+    "low": 16.02,
+    "prevClose": 16.85,
+    "volume": 175703,
+    "amount": 28682.0,
+    "totalMV": 20587000000.0,
+    "circMV": 20587000000.0,
+    "pe": 17.58,
+    "pb": 1.92,
+    "turnover": 1.38,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

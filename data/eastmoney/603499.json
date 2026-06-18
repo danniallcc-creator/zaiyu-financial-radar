@@ -2606,5 +2606,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603499",
+    "name": "翔港科技",
+    "price": 19.9,
+    "change": -0.51,
+    "changePct": -2.5,
+    "open": 20.6,
+    "high": 20.76,
+    "low": 19.81,
+    "prevClose": 20.41,
+    "volume": 56738,
+    "amount": 11453.0,
+    "totalMV": 6022000000.0,
+    "circMV": 6022000000.0,
+    "pe": 56.97,
+    "pb": 6.51,
+    "turnover": 1.88,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

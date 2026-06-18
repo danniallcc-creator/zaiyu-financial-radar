@@ -2574,5 +2574,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301559",
+    "name": "中集环科",
+    "price": 13.3,
+    "change": 0.0,
+    "changePct": 0.0,
+    "open": 13.29,
+    "high": 13.39,
+    "low": 13.11,
+    "prevClose": 13.3,
+    "volume": 13056,
+    "amount": 1730.0,
+    "totalMV": 7980000000.0,
+    "circMV": 1197000000.0,
+    "pe": 70.56,
+    "pb": 1.78,
+    "turnover": 1.45,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

@@ -2596,5 +2596,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002046",
+    "name": "国机精工",
+    "price": 63.69,
+    "change": 1.68,
+    "changePct": 2.71,
+    "open": 62.0,
+    "high": 66.2,
+    "low": 61.8,
+    "prevClose": 62.01,
+    "volume": 259934,
+    "amount": 166835.0,
+    "totalMV": 34150000000.0,
+    "circMV": 33767000000.0,
+    "pe": 209.79,
+    "pb": 8.02,
+    "turnover": 4.9,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

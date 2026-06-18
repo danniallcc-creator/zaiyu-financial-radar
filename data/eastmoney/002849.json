@@ -2553,5 +2553,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002849",
+    "name": "威星智能",
+    "price": 17.9,
+    "change": 0.16,
+    "changePct": 0.9,
+    "open": 17.74,
+    "high": 18.11,
+    "low": 17.34,
+    "prevClose": 17.74,
+    "volume": 87369,
+    "amount": 15557.0,
+    "totalMV": 3949000000.0,
+    "circMV": 3917000000.0,
+    "pe": 75.5,
+    "pb": 2.87,
+    "turnover": 3.99,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

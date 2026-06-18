@@ -2457,5 +2457,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300800",
+    "name": "力合科技",
+    "price": 9.81,
+    "change": -0.06,
+    "changePct": -0.61,
+    "open": 9.81,
+    "high": 9.94,
+    "low": 9.68,
+    "prevClose": 9.87,
+    "volume": 29283,
+    "amount": 2876.0,
+    "totalMV": 2323000000.0,
+    "circMV": 2299000000.0,
+    "pe": 50.66,
+    "pb": 1.14,
+    "turnover": 1.25,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002311",
+    "name": "海大集团",
+    "price": 41.2,
+    "change": -0.38,
+    "changePct": -0.91,
+    "open": 41.58,
+    "high": 41.87,
+    "low": 41.2,
+    "prevClose": 41.58,
+    "volume": 109120,
+    "amount": 45207.0,
+    "totalMV": 67790000000.0,
+    "circMV": 67739000000.0,
+    "pe": 17.45,
+    "pb": 3.0,
+    "turnover": 0.66,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

@@ -2337,5 +2337,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "001221",
+    "name": "悍高集团",
+    "price": 44.11,
+    "change": -0.31,
+    "changePct": -0.7,
+    "open": 44.43,
+    "high": 44.68,
+    "low": 43.62,
+    "prevClose": 44.42,
+    "volume": 8159,
+    "amount": 3603.0,
+    "totalMV": 17644000000.0,
+    "circMV": 1588000000.0,
+    "pe": 24.63,
+    "pb": 6.13,
+    "turnover": 2.27,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

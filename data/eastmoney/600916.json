@@ -2496,5 +2496,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600916",
+    "name": "中国黄金",
+    "price": 7.55,
+    "change": -0.14,
+    "changePct": -1.82,
+    "open": 7.63,
+    "high": 7.71,
+    "low": 7.5,
+    "prevClose": 7.69,
+    "volume": 202558,
+    "amount": 15338.0,
+    "totalMV": 12684000000.0,
+    "circMV": 12684000000.0,
+    "pe": 41.64,
+    "pb": 1.74,
+    "turnover": 1.21,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

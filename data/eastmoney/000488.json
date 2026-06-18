@@ -2587,5 +2587,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000488",
+    "name": "ST晨鸣",
+    "price": 2.08,
+    "change": 0.0,
+    "changePct": 0.0,
+    "open": 2.08,
+    "high": 2.1,
+    "low": 2.06,
+    "prevClose": 2.08,
+    "volume": 66871,
+    "amount": 1391.0,
+    "totalMV": 6118000000.0,
+    "circMV": 3524000000.0,
+    "pe": -0.83,
+    "pb": 14.69,
+    "turnover": 0.39,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

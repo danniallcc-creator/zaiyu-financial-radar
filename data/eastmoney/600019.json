@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600019",
+    "name": "宝钢股份",
+    "price": 5.68,
+    "change": -0.09,
+    "changePct": -1.56,
+    "open": 5.78,
+    "high": 5.8,
+    "low": 5.67,
+    "prevClose": 5.77,
+    "volume": 869318,
+    "amount": 49704.0,
+    "totalMV": 123722000000.0,
+    "circMV": 121632000000.0,
+    "pe": 12.21,
+    "pb": 0.59,
+    "turnover": 0.41,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

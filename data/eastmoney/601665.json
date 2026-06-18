@@ -1682,5 +1682,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601665",
+    "name": "齐鲁银行",
+    "price": 6.06,
+    "change": -0.28,
+    "changePct": -4.42,
+    "open": 6.36,
+    "high": 6.37,
+    "low": 6.03,
+    "prevClose": 6.34,
+    "volume": 654591,
+    "amount": 40038.0,
+    "totalMV": 37292000000.0,
+    "circMV": 37292000000.0,
+    "pe": 6.31,
+    "pb": 0.74,
+    "turnover": 1.06,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

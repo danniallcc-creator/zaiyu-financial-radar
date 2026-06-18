@@ -2485,5 +2485,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002816",
+    "name": "*ST和科",
+    "price": 28.46,
+    "change": 1.36,
+    "changePct": 5.02,
+    "open": 27.17,
+    "high": 28.46,
+    "low": 26.82,
+    "prevClose": 27.1,
+    "volume": 44249,
+    "amount": 12445.0,
+    "totalMV": 2846000000.0,
+    "circMV": 2846000000.0,
+    "pe": 275.52,
+    "pb": 11.95,
+    "turnover": 4.42,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

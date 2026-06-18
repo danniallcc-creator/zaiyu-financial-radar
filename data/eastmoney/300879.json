@@ -2566,5 +2566,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300879",
+    "name": "大叶股份",
+    "price": 17.43,
+    "change": -0.44,
+    "changePct": -2.46,
+    "open": 17.9,
+    "high": 17.98,
+    "low": 17.38,
+    "prevClose": 17.87,
+    "volume": 31107,
+    "amount": 5471.0,
+    "totalMV": 3528000000.0,
+    "circMV": 3504000000.0,
+    "pe": -16.32,
+    "pb": 2.86,
+    "turnover": 1.55,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

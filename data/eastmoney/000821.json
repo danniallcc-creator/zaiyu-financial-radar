@@ -2593,5 +2593,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000821",
+    "name": "ST京机",
+    "price": 8.65,
+    "change": -0.34,
+    "changePct": -3.78,
+    "open": 8.89,
+    "high": 8.9,
+    "low": 8.62,
+    "prevClose": 8.99,
+    "volume": 113023,
+    "amount": 9868.0,
+    "totalMV": 5388000000.0,
+    "circMV": 5230000000.0,
+    "pe": 42.76,
+    "pb": 1.29,
+    "turnover": 1.87,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

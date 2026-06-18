@@ -2576,5 +2576,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300382",
+    "name": "斯莱克",
+    "price": 16.13,
+    "change": 0.77,
+    "changePct": 5.01,
+    "open": 15.55,
+    "high": 16.66,
+    "low": 15.36,
+    "prevClose": 15.36,
+    "volume": 461842,
+    "amount": 74252.0,
+    "totalMV": 10459000000.0,
+    "circMV": 10458000000.0,
+    "pe": -110.1,
+    "pb": 4.59,
+    "turnover": 7.12,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

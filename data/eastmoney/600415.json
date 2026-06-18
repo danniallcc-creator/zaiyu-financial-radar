@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600415",
+    "name": "XD小商品",
+    "price": 10.54,
+    "change": -0.31,
+    "changePct": -2.86,
+    "open": 11.01,
+    "high": 11.04,
+    "low": 10.47,
+    "prevClose": 10.85,
+    "volume": 693113,
+    "amount": 73843.0,
+    "totalMV": 57797000000.0,
+    "circMV": 57797000000.0,
+    "pe": 13.16,
+    "pb": 2.74,
+    "turnover": 1.26,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

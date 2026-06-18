@@ -2553,5 +2553,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002691",
+    "name": "*ST冀凯",
+    "price": 4.46,
+    "change": -0.21,
+    "changePct": -4.5,
+    "open": 4.64,
+    "high": 4.65,
+    "low": 4.44,
+    "prevClose": 4.67,
+    "volume": 46347,
+    "amount": 2100.0,
+    "totalMV": 1516000000.0,
+    "circMV": 1498000000.0,
+    "pe": -23.56,
+    "pb": 1.86,
+    "turnover": 1.38,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

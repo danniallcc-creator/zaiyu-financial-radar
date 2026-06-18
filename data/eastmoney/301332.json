@@ -2566,5 +2566,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301332",
+    "name": "德尔玛",
+    "price": 8.23,
+    "change": 0.03,
+    "changePct": 0.37,
+    "open": 8.17,
+    "high": 8.25,
+    "low": 8.08,
+    "prevClose": 8.2,
+    "volume": 16357,
+    "amount": 1338.0,
+    "totalMV": 3799000000.0,
+    "circMV": 2180000000.0,
+    "pe": 29.73,
+    "pb": 1.31,
+    "turnover": 0.62,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

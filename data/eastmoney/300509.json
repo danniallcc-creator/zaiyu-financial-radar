@@ -2642,5 +2642,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300509",
+    "name": "新美星",
+    "price": 8.92,
+    "change": -0.11,
+    "changePct": -1.22,
+    "open": 8.94,
+    "high": 9.1,
+    "low": 8.87,
+    "prevClose": 9.03,
+    "volume": 40662,
+    "amount": 3653.0,
+    "totalMV": 2644000000.0,
+    "circMV": 2204000000.0,
+    "pe": 20.72,
+    "pb": 3.86,
+    "turnover": 1.65,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

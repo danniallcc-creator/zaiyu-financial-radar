@@ -2579,5 +2579,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300376",
+    "name": "易事特",
+    "price": 6.04,
+    "change": -0.26,
+    "changePct": -4.13,
+    "open": 6.25,
+    "high": 6.32,
+    "low": 6.02,
+    "prevClose": 6.3,
+    "volume": 604814,
+    "amount": 36882.0,
+    "totalMV": 14063000000.0,
+    "circMV": 14058000000.000002,
+    "pe": -2653.66,
+    "pb": 2.17,
+    "turnover": 2.6,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

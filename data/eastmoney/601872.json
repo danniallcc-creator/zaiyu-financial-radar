@@ -2614,5 +2614,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601872",
+    "name": "招商轮船",
+    "price": 17.14,
+    "change": 0.04,
+    "changePct": 0.23,
+    "open": 17.16,
+    "high": 17.49,
+    "low": 16.6,
+    "prevClose": 17.1,
+    "volume": 1495032,
+    "amount": 255343.0,
+    "totalMV": 138398000000.0,
+    "circMV": 138398000000.0,
+    "pe": 17.5,
+    "pb": 3.07,
+    "turnover": 1.85,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

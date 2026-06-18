@@ -2622,5 +2622,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603038",
+    "name": "XD华立股",
+    "price": 15.18,
+    "change": -0.88,
+    "changePct": -5.48,
+    "open": 16.23,
+    "high": 16.5,
+    "low": 15.0,
+    "prevClose": 16.06,
+    "volume": 83116,
+    "amount": 12847.0,
+    "totalMV": 4079000000.0,
+    "circMV": 4079000000.0,
+    "pe": 49.0,
+    "pb": 2.87,
+    "turnover": 3.09,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

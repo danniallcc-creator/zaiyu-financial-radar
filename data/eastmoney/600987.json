@@ -2656,5 +2656,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600987",
+    "name": "航民股份",
+    "price": 6.24,
+    "change": -0.2,
+    "changePct": -3.11,
+    "open": 6.4,
+    "high": 6.42,
+    "low": 6.22,
+    "prevClose": 6.44,
+    "volume": 69068,
+    "amount": 4359.0,
+    "totalMV": 6370000000.0,
+    "circMV": 6370000000.0,
+    "pe": 8.63,
+    "pb": 0.97,
+    "turnover": 0.68,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

@@ -2538,5 +2538,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603709",
+    "name": "中源家居",
+    "price": 14.7,
+    "change": -0.03,
+    "changePct": -0.2,
+    "open": 14.65,
+    "high": 14.8,
+    "low": 14.38,
+    "prevClose": 14.73,
+    "volume": 16695,
+    "amount": 2447.0,
+    "totalMV": 1853000000.0,
+    "circMV": 1839000000.0,
+    "pe": -64.95,
+    "pb": 3.64,
+    "turnover": 1.33,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

@@ -2465,5 +2465,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603912",
+    "name": "佳力图",
+    "price": 8.68,
+    "change": 0.34,
+    "changePct": 4.08,
+    "open": 8.34,
+    "high": 8.79,
+    "low": 8.29,
+    "prevClose": 8.34,
+    "volume": 194872,
+    "amount": 16783.0,
+    "totalMV": 4703000000.0,
+    "circMV": 4703000000.0,
+    "pe": -75.97,
+    "pb": 2.73,
+    "turnover": 3.6,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

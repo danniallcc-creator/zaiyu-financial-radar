@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600577",
+    "name": "精达股份",
+    "price": 11.76,
+    "change": -0.08,
+    "changePct": -0.68,
+    "open": 11.77,
+    "high": 12.04,
+    "low": 11.67,
+    "prevClose": 11.84,
+    "volume": 577338,
+    "amount": 68210.0,
+    "totalMV": 25297000000.0,
+    "circMV": 25297000000.0,
+    "pe": 41.44,
+    "pb": 4.15,
+    "turnover": 2.68,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

@@ -2556,5 +2556,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002633",
+    "name": "申科股份",
+    "price": 16.19,
+    "change": 0.0,
+    "changePct": 0.0,
+    "open": 16.2,
+    "high": 16.35,
+    "low": 15.92,
+    "prevClose": 16.19,
+    "volume": 15997,
+    "amount": 2584.0,
+    "totalMV": 2429000000.0,
+    "circMV": 2420000000.0,
+    "pe": 255.57,
+    "pb": 5.65,
+    "turnover": 1.07,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

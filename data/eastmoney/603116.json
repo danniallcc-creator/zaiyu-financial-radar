@@ -2570,5 +2570,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603116",
+    "name": "红蜻蜓",
+    "price": 6.54,
+    "change": -0.16,
+    "changePct": -2.39,
+    "open": 6.8,
+    "high": 6.8,
+    "low": 6.5,
+    "prevClose": 6.7,
+    "volume": 71023,
+    "amount": 4665.0,
+    "totalMV": 3768000000.0,
+    "circMV": 3768000000.0,
+    "pe": -27.9,
+    "pb": 1.57,
+    "turnover": 1.23,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

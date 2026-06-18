@@ -2526,5 +2526,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301312",
+    "name": "智立方",
+    "price": 113.0,
+    "change": 2.0,
+    "changePct": 1.8,
+    "open": 110.31,
+    "high": 113.62,
+    "low": 107.66,
+    "prevClose": 111.0,
+    "volume": 68001,
+    "amount": 75251.0,
+    "totalMV": 19171000000.0,
+    "circMV": 9579000000.0,
+    "pe": 295.46,
+    "pb": 15.99,
+    "turnover": 8.02,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

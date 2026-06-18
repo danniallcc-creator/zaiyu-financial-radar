@@ -2602,5 +2602,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603518",
+    "name": "锦泓集团",
+    "price": 7.87,
+    "change": -0.19,
+    "changePct": -2.36,
+    "open": 8.0,
+    "high": 8.06,
+    "low": 7.78,
+    "prevClose": 8.06,
+    "volume": 71447,
+    "amount": 5634.0,
+    "totalMV": 2718000000.0,
+    "circMV": 2708000000.0,
+    "pe": 10.95,
+    "pb": 0.71,
+    "turnover": 2.08,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

@@ -2165,5 +2165,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301501",
+    "name": "恒鑫生活",
+    "price": 26.14,
+    "change": -0.38,
+    "changePct": -1.43,
+    "open": 26.52,
+    "high": 26.59,
+    "low": 26.0,
+    "prevClose": 26.52,
+    "volume": 5994,
+    "amount": 1577.0,
+    "totalMV": 3865999999.9999995,
+    "circMV": 1137000000.0,
+    "pe": 22.18,
+    "pb": 1.87,
+    "turnover": 1.38,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

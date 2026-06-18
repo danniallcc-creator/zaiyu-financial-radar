@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000619",
+    "name": "海螺新材",
+    "price": 4.8,
+    "change": -0.02,
+    "changePct": -0.41,
+    "open": 4.79,
+    "high": 4.83,
+    "low": 4.7,
+    "prevClose": 4.82,
+    "volume": 78243,
+    "amount": 3733.0,
+    "totalMV": 2118000000.0,
+    "circMV": 1728000000.0,
+    "pe": -24.32,
+    "pb": 0.85,
+    "turnover": 2.17,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

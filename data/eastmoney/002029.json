@@ -2662,5 +2662,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002029",
+    "name": "七 匹 狼",
+    "price": 8.75,
+    "change": 0.41,
+    "changePct": 4.92,
+    "open": 8.34,
+    "high": 9.08,
+    "low": 8.29,
+    "prevClose": 8.34,
+    "volume": 349127,
+    "amount": 30138.0,
+    "totalMV": 6169000000.0,
+    "circMV": 5822000000.0,
+    "pe": 26.48,
+    "pb": 0.91,
+    "turnover": 5.25,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

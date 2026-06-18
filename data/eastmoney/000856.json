@@ -2506,5 +2506,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000856",
+    "name": "冀东装备",
+    "price": 7.78,
+    "change": -0.07,
+    "changePct": -0.89,
+    "open": 7.82,
+    "high": 7.9,
+    "low": 7.65,
+    "prevClose": 7.85,
+    "volume": 52557,
+    "amount": 4094.0,
+    "totalMV": 1766000000.0,
+    "circMV": 1766000000.0,
+    "pe": 144.39,
+    "pb": 4.32,
+    "turnover": 2.32,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

@@ -2588,5 +2588,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601177",
+    "name": "杭齿前进",
+    "price": 13.64,
+    "change": -0.06,
+    "changePct": -0.44,
+    "open": 13.65,
+    "high": 13.89,
+    "low": 13.49,
+    "prevClose": 13.7,
+    "volume": 59251,
+    "amount": 8112.0,
+    "totalMV": 5561000000.0,
+    "circMV": 5489000000.0,
+    "pe": 21.17,
+    "pb": 1.91,
+    "turnover": 1.47,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

@@ -2593,5 +2593,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002612",
+    "name": "朗姿股份",
+    "price": 11.78,
+    "change": 0.13,
+    "changePct": 1.12,
+    "open": 11.66,
+    "high": 11.97,
+    "low": 11.55,
+    "prevClose": 11.65,
+    "volume": 40795,
+    "amount": 4812.0,
+    "totalMV": 5212000000.0,
+    "circMV": 2998000000.0,
+    "pe": 5.48,
+    "pb": 1.85,
+    "turnover": 1.6,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

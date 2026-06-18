@@ -2563,5 +2563,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603733",
+    "name": "仙鹤股份",
+    "price": 26.71,
+    "change": -2.41,
+    "changePct": -8.28,
+    "open": 29.13,
+    "high": 29.5,
+    "low": 26.71,
+    "prevClose": 29.12,
+    "volume": 209032,
+    "amount": 57548.0,
+    "totalMV": 18903000000.0,
+    "circMV": 18903000000.0,
+    "pe": 18.4,
+    "pb": 2.16,
+    "turnover": 2.95,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

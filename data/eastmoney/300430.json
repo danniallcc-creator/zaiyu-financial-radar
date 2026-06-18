@@ -2636,5 +2636,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300430",
+    "name": "*ST益通",
+    "price": 4.88,
+    "change": -0.12,
+    "changePct": -2.4,
+    "open": 4.96,
+    "high": 5.18,
+    "low": 4.86,
+    "prevClose": 5.0,
+    "volume": 127559,
+    "amount": 6385.0,
+    "totalMV": 1332000000.0,
+    "circMV": 1268000000.0,
+    "pe": -1.4,
+    "pb": 1.04,
+    "turnover": 4.91,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

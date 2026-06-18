@@ -2642,5 +2642,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601021",
+    "name": "春秋航空",
+    "price": 45.76,
+    "change": -1.3,
+    "changePct": -2.76,
+    "open": 46.78,
+    "high": 46.81,
+    "low": 44.92,
+    "prevClose": 47.06,
+    "volume": 133349,
+    "amount": 60953.0,
+    "totalMV": 44769000000.0,
+    "circMV": 44769000000.0,
+    "pe": 17.07,
+    "pb": 2.4,
+    "turnover": 1.36,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

@@ -2574,5 +2574,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "001256",
+    "name": "炜冈科技",
+    "price": 25.25,
+    "change": -0.36,
+    "changePct": -1.41,
+    "open": 25.58,
+    "high": 25.87,
+    "low": 25.01,
+    "prevClose": 25.61,
+    "volume": 31493,
+    "amount": 7975.0,
+    "totalMV": 3601000000.0,
+    "circMV": 2700000000.0,
+    "pe": 24.93,
+    "pb": 2.75,
+    "turnover": 2.95,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

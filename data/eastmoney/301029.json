@@ -2539,5 +2539,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301029",
+    "name": "怡合达",
+    "price": 32.81,
+    "change": 0.38,
+    "changePct": 1.17,
+    "open": 32.47,
+    "high": 33.18,
+    "low": 31.75,
+    "prevClose": 32.43,
+    "volume": 263269,
+    "amount": 85185.0,
+    "totalMV": 20808000000.0,
+    "circMV": 15154000000.0,
+    "pe": 40.07,
+    "pb": 4.98,
+    "turnover": 5.7,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

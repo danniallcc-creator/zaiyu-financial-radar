@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002532",
+    "name": "天山铝业",
+    "price": 12.05,
+    "change": -0.5,
+    "changePct": -3.98,
+    "open": 12.46,
+    "high": 12.59,
+    "low": 11.93,
+    "prevClose": 12.55,
+    "volume": 1047793,
+    "amount": 127852.0,
+    "totalMV": 55776000000.0,
+    "circMV": 49488000000.0,
+    "pe": 9.33,
+    "pb": 1.85,
+    "turnover": 2.55,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

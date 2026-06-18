@@ -2594,5 +2594,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002459",
+    "name": "晶澳科技",
+    "price": 8.33,
+    "change": -0.14,
+    "changePct": -1.65,
+    "open": 8.51,
+    "high": 8.51,
+    "low": 8.27,
+    "prevClose": 8.47,
+    "volume": 496436,
+    "amount": 41473.0,
+    "totalMV": 27570000000.0,
+    "circMV": 27537000000.0,
+    "pe": -6.83,
+    "pb": 1.33,
+    "turnover": 1.5,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

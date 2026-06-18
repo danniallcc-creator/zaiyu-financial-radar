@@ -2562,5 +2562,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "003016",
+    "name": "欣贺股份",
+    "price": 6.61,
+    "change": -0.04,
+    "changePct": -0.6,
+    "open": 6.62,
+    "high": 6.7,
+    "low": 6.52,
+    "prevClose": 6.65,
+    "volume": 35717,
+    "amount": 2368.0,
+    "totalMV": 2780000000.0,
+    "circMV": 2716000000.0,
+    "pe": 93.27,
+    "pb": 1.03,
+    "turnover": 0.87,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

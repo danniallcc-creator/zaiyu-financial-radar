@@ -2622,5 +2622,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002830",
+    "name": "名雕股份",
+    "price": 14.68,
+    "change": -0.03,
+    "changePct": -0.2,
+    "open": 14.65,
+    "high": 14.91,
+    "low": 13.58,
+    "prevClose": 14.71,
+    "volume": 93702,
+    "amount": 13367.0,
+    "totalMV": 2729000000.0,
+    "circMV": 1363000000.0,
+    "pe": 63.05,
+    "pb": 4.15,
+    "turnover": 10.09,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

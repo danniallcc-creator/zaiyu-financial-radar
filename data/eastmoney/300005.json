@@ -2579,5 +2579,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300005",
+    "name": "探路者",
+    "price": 17.06,
+    "change": -0.33,
+    "changePct": -1.9,
+    "open": 17.4,
+    "high": 17.55,
+    "low": 16.59,
+    "prevClose": 17.39,
+    "volume": 489606,
+    "amount": 83756.0,
+    "totalMV": 15076000000.0,
+    "circMV": 14954000000.0,
+    "pe": 175.08,
+    "pb": 6.99,
+    "turnover": 5.59,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

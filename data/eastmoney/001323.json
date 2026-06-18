@@ -2529,5 +2529,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "001323",
+    "name": "慕思股份",
+    "price": 17.67,
+    "change": -0.29,
+    "changePct": -1.61,
+    "open": 17.95,
+    "high": 17.96,
+    "low": 17.59,
+    "prevClose": 17.96,
+    "volume": 7579,
+    "amount": 1344.0,
+    "totalMV": 7688000000.0,
+    "circMV": 5500000000.0,
+    "pe": 15.2,
+    "pb": 1.84,
+    "turnover": 0.24,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

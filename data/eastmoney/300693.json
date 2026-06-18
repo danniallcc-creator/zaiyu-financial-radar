@@ -2626,5 +2626,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300693",
+    "name": "盛弘股份",
+    "price": 48.38,
+    "change": 0.18,
+    "changePct": 0.37,
+    "open": 48.0,
+    "high": 49.4,
+    "low": 47.76,
+    "prevClose": 48.2,
+    "volume": 137613,
+    "amount": 66896.0,
+    "totalMV": 15133000000.000002,
+    "circMV": 13007000000.0,
+    "pe": 30.98,
+    "pb": 7.22,
+    "turnover": 5.12,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

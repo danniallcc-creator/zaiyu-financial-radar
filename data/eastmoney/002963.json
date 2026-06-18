@@ -2572,5 +2572,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002963",
+    "name": "豪尔赛",
+    "price": 19.49,
+    "change": 1.26,
+    "changePct": 6.91,
+    "open": 18.33,
+    "high": 20.05,
+    "low": 18.07,
+    "prevClose": 18.23,
+    "volume": 96995,
+    "amount": 18880.0,
+    "totalMV": 2931000000.0,
+    "circMV": 2397000000.0,
+    "pe": -26.7,
+    "pb": 2.47,
+    "turnover": 7.89,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

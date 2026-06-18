@@ -2604,5 +2604,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688059",
+    "name": "华锐精密",
+    "price": 205.91,
+    "change": 9.76,
+    "changePct": 4.98,
+    "open": 194.33,
+    "high": 213.5,
+    "low": 193.0,
+    "prevClose": 196.15,
+    "volume": 4780158,
+    "amount": 97076.0,
+    "totalMV": 20588000000.0,
+    "circMV": 19269000000.0,
+    "pe": 61.9,
+    "pb": 9.48,
+    "turnover": 5.11,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

@@ -2652,5 +2652,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000890",
+    "name": "法尔胜",
+    "price": 8.9,
+    "change": -0.22,
+    "changePct": -2.41,
+    "open": 9.12,
+    "high": 9.12,
+    "low": 8.81,
+    "prevClose": 9.12,
+    "volume": 241091,
+    "amount": 21481.0,
+    "totalMV": 3734000000.0000005,
+    "circMV": 3733000000.0,
+    "pe": -49.06,
+    "pb": 190.99,
+    "turnover": 5.75,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

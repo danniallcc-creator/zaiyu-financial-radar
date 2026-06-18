@@ -2582,5 +2582,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300521",
+    "name": "爱司凯",
+    "price": 28.89,
+    "change": -1.66,
+    "changePct": -5.43,
+    "open": 30.6,
+    "high": 31.0,
+    "low": 28.62,
+    "prevClose": 30.55,
+    "volume": 102622,
+    "amount": 30509.0,
+    "totalMV": 4326000000.0,
+    "circMV": 4272000000.0,
+    "pe": -320.57,
+    "pb": 8.11,
+    "turnover": 6.94,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

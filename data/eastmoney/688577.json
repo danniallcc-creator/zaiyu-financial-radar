@@ -2602,5 +2602,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688577",
+    "name": "浙海德曼",
+    "price": 50.37,
+    "change": 1.34,
+    "changePct": 2.73,
+    "open": 49.03,
+    "high": 50.48,
+    "low": 47.92,
+    "prevClose": 49.03,
+    "volume": 1846616,
+    "amount": 9154.0,
+    "totalMV": 7847000000.0,
+    "circMV": 7847000000.0,
+    "pe": 121.8,
+    "pb": 7.92,
+    "turnover": 1.19,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

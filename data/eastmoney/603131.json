@@ -2532,5 +2532,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603131",
+    "name": "上海沪工",
+    "price": 18.5,
+    "change": 0.21,
+    "changePct": 1.15,
+    "open": 18.15,
+    "high": 18.63,
+    "low": 17.95,
+    "prevClose": 18.29,
+    "volume": 90866,
+    "amount": 16725.0,
+    "totalMV": 6233000000.0,
+    "circMV": 6233000000.0,
+    "pe": -419.54,
+    "pb": 3.77,
+    "turnover": 2.7,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

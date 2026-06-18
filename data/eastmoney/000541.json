@@ -2587,5 +2587,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000541",
+    "name": "佛山照明",
+    "price": 5.04,
+    "change": -0.08,
+    "changePct": -1.56,
+    "open": 5.08,
+    "high": 5.1,
+    "low": 4.97,
+    "prevClose": 5.12,
+    "volume": 184969,
+    "amount": 9313.0,
+    "totalMV": 7740000000.000001,
+    "circMV": 6202000000.0,
+    "pe": 43.92,
+    "pb": 1.13,
+    "turnover": 1.5,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

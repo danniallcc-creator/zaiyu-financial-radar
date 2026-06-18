@@ -2534,5 +2534,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301063",
+    "name": "海锅股份",
+    "price": 18.14,
+    "change": 0.01,
+    "changePct": 0.06,
+    "open": 18.02,
+    "high": 18.36,
+    "low": 17.79,
+    "prevClose": 18.13,
+    "volume": 15480,
+    "amount": 2810.0,
+    "totalMV": 1893000000.0,
+    "circMV": 1753000000.0,
+    "pe": 50.87,
+    "pb": 1.2,
+    "turnover": 1.6,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

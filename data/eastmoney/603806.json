@@ -2656,5 +2656,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603806",
+    "name": "福斯特",
+    "price": 17.52,
+    "change": 0.18,
+    "changePct": 1.04,
+    "open": 17.57,
+    "high": 18.08,
+    "low": 17.35,
+    "prevClose": 17.34,
+    "volume": 446491,
+    "amount": 78888.0,
+    "totalMV": 45705000000.0,
+    "circMV": 45705000000.0,
+    "pe": 67.18,
+    "pb": 2.89,
+    "turnover": 1.71,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

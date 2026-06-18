@@ -2601,5 +2601,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603011",
+    "name": "合锻智能",
+    "price": 39.55,
+    "change": 3.6,
+    "changePct": 10.01,
+    "open": 36.36,
+    "high": 39.55,
+    "low": 36.36,
+    "prevClose": 35.95,
+    "volume": 528979,
+    "amount": 202839.0,
+    "totalMV": 19554000000.0,
+    "circMV": 19554000000.0,
+    "pe": -68.67,
+    "pb": 10.49,
+    "turnover": 10.7,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

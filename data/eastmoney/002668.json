@@ -2469,5 +2469,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002668",
+    "name": "TCL智家",
+    "price": 9.85,
+    "change": -0.21,
+    "changePct": -2.09,
+    "open": 10.04,
+    "high": 10.1,
+    "low": 9.8,
+    "prevClose": 10.06,
+    "volume": 133111,
+    "amount": 13213.0,
+    "totalMV": 10678000000.0,
+    "circMV": 10678000000.0,
+    "pe": 9.47,
+    "pb": 2.94,
+    "turnover": 1.23,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

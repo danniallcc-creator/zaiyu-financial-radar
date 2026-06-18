@@ -2532,5 +2532,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600984",
+    "name": "建设机械",
+    "price": 4.14,
+    "change": -0.07,
+    "changePct": -1.66,
+    "open": 4.23,
+    "high": 4.28,
+    "low": 4.06,
+    "prevClose": 4.21,
+    "volume": 361212,
+    "amount": 14928.0,
+    "totalMV": 5204000000.0,
+    "circMV": 5204000000.0,
+    "pe": -2.33,
+    "pb": 2.91,
+    "turnover": 2.87,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

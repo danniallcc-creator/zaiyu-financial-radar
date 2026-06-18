@@ -2616,5 +2616,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "003816",
+    "name": "中国广核",
+    "price": 4.08,
+    "change": -0.11,
+    "changePct": -2.63,
+    "open": 4.18,
+    "high": 4.22,
+    "low": 4.06,
+    "prevClose": 4.19,
+    "volume": 1408846,
+    "amount": 58069.0,
+    "totalMV": 206035000000.0,
+    "circMV": 160487000000.0,
+    "pe": 21.73,
+    "pb": 1.64,
+    "turnover": 0.36,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

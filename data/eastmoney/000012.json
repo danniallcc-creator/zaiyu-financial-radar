@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000012",
+    "name": "南  玻Ａ",
+    "price": 4.3,
+    "change": -0.33,
+    "changePct": -7.13,
+    "open": 4.46,
+    "high": 4.49,
+    "low": 4.26,
+    "prevClose": 4.63,
+    "volume": 1065364,
+    "amount": 46064.0,
+    "totalMV": 13083000000.000002,
+    "circMV": 8425000000.0,
+    "pe": 1172.77,
+    "pb": 1.0,
+    "turnover": 5.44,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

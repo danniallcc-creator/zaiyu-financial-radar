@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600027",
+    "name": "华电国际",
+    "price": 4.77,
+    "change": -0.19,
+    "changePct": -3.83,
+    "open": 4.92,
+    "high": 4.98,
+    "low": 4.76,
+    "prevClose": 4.96,
+    "volume": 1200211,
+    "amount": 58103.0,
+    "totalMV": 55388000000.0,
+    "circMV": 43959000000.0,
+    "pe": 9.43,
+    "pb": 1.11,
+    "turnover": 1.3,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

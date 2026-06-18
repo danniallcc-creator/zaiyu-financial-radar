@@ -2650,5 +2650,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000921",
+    "name": "海信家电",
+    "price": 26.94,
+    "change": -0.94,
+    "changePct": -3.37,
+    "open": 27.5,
+    "high": 27.86,
+    "low": 26.93,
+    "prevClose": 27.88,
+    "volume": 124997,
+    "amount": 33977.0,
+    "totalMV": 37308000000.0,
+    "circMV": 24735000000.0,
+    "pe": 12.06,
+    "pb": 2.02,
+    "turnover": 1.36,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

@@ -2572,5 +2572,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002713",
+    "name": "*ST东易",
+    "price": 10.87,
+    "change": 0.52,
+    "changePct": 5.02,
+    "open": 10.6,
+    "high": 10.87,
+    "low": 10.56,
+    "prevClose": 10.35,
+    "volume": 83701,
+    "amount": 8997.0,
+    "totalMV": 10342000000.0,
+    "circMV": 5723000000.0,
+    "pe": 269.92,
+    "pb": 11.91,
+    "turnover": 1.59,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

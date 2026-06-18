@@ -2501,5 +2501,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300417",
+    "name": "南华仪器",
+    "price": 11.03,
+    "change": 0.05,
+    "changePct": 0.46,
+    "open": 10.85,
+    "high": 11.15,
+    "low": 10.68,
+    "prevClose": 10.98,
+    "volume": 50301,
+    "amount": 5522.0,
+    "totalMV": 1484000000.0,
+    "circMV": 922000000.0000001,
+    "pe": -890.46,
+    "pb": 3.34,
+    "turnover": 6.02,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

@@ -2486,5 +2486,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301188",
+    "name": "力诺药包",
+    "price": 66.86,
+    "change": -4.79,
+    "changePct": -6.69,
+    "open": 67.9,
+    "high": 69.97,
+    "low": 66.22,
+    "prevClose": 71.65,
+    "volume": 251045,
+    "amount": 169851.0,
+    "totalMV": 17887000000.0,
+    "circMV": 17887000000.0,
+    "pe": 445.64,
+    "pb": 9.25,
+    "turnover": 9.38,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

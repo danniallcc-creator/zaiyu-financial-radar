@@ -2537,5 +2537,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301079",
+    "name": "邵阳液压",
+    "price": 35.06,
+    "change": 0.09,
+    "changePct": 0.26,
+    "open": 35.0,
+    "high": 35.86,
+    "low": 34.35,
+    "prevClose": 34.97,
+    "volume": 41309,
+    "amount": 14567.0,
+    "totalMV": 3819000000.0,
+    "circMV": 2697000000.0,
+    "pe": 471.33,
+    "pb": 8.0,
+    "turnover": 5.37,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

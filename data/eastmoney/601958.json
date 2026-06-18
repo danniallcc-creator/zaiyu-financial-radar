@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601958",
+    "name": "金钼股份",
+    "price": 27.7,
+    "change": -0.77,
+    "changePct": -2.7,
+    "open": 28.5,
+    "high": 29.23,
+    "low": 27.3,
+    "prevClose": 28.47,
+    "volume": 1932732,
+    "amount": 545115.0,
+    "totalMV": 89377000000.0,
+    "circMV": 89377000000.0,
+    "pe": 26.45,
+    "pb": 4.51,
+    "turnover": 5.99,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

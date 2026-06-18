@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000538",
+    "name": "云南白药",
+    "price": 48.43,
+    "change": -0.48,
+    "changePct": -0.98,
+    "open": 48.9,
+    "high": 49.05,
+    "low": 48.43,
+    "prevClose": 48.91,
+    "volume": 76871,
+    "amount": 37433.0,
+    "totalMV": 86412000000.0,
+    "circMV": 85863000000.0,
+    "pe": 16.44,
+    "pb": 2.2,
+    "turnover": 0.43,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

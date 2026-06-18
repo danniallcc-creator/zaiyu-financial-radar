@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002043",
+    "name": "兔 宝 宝",
+    "price": 12.07,
+    "change": -0.17,
+    "changePct": -1.39,
+    "open": 12.11,
+    "high": 12.3,
+    "low": 11.91,
+    "prevClose": 12.24,
+    "volume": 73942,
+    "amount": 8937.0,
+    "totalMV": 10015000000.0,
+    "circMV": 9747000000.0,
+    "pe": 13.37,
+    "pb": 3.14,
+    "turnover": 0.92,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

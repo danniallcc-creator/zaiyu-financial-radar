@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002241",
+    "name": "歌尔股份",
+    "price": 23.92,
+    "change": 0.24,
+    "changePct": 1.01,
+    "open": 23.5,
+    "high": 24.11,
+    "low": 23.35,
+    "prevClose": 23.68,
+    "volume": 924029,
+    "amount": 220878.0,
+    "totalMV": 84925000000.0,
+    "circMV": 75185000000.0,
+    "pe": 21.37,
+    "pb": 2.32,
+    "turnover": 2.94,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

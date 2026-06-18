@@ -1658,5 +1658,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601187",
+    "name": "厦门银行",
+    "price": 7.22,
+    "change": -0.62,
+    "changePct": -7.91,
+    "open": 7.77,
+    "high": 7.9,
+    "low": 7.17,
+    "prevClose": 7.84,
+    "volume": 367379,
+    "amount": 27266.0,
+    "totalMV": 19055000000.0,
+    "circMV": 19013000000.0,
+    "pe": 7.1,
+    "pb": 0.7,
+    "turnover": 1.4,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

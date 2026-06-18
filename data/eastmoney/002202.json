@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002202",
+    "name": "金风科技",
+    "price": 22.49,
+    "change": 0.51,
+    "changePct": 2.32,
+    "open": 21.89,
+    "high": 23.05,
+    "low": 21.83,
+    "prevClose": 21.98,
+    "volume": 1441352,
+    "amount": 324813.0,
+    "totalMV": 94993000000.0,
+    "circMV": 75645000000.0,
+    "pe": 30.51,
+    "pb": 2.39,
+    "turnover": 4.29,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

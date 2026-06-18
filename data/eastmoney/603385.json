@@ -2532,5 +2532,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603385",
+    "name": "惠达卫浴",
+    "price": 5.16,
+    "change": -0.01,
+    "changePct": -0.19,
+    "open": 5.12,
+    "high": 5.23,
+    "low": 5.01,
+    "prevClose": 5.17,
+    "volume": 51019,
+    "amount": 2628.0,
+    "totalMV": 1964000000.0,
+    "circMV": 1964000000.0,
+    "pe": -8.5,
+    "pb": 0.56,
+    "turnover": 1.34,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

@@ -2561,5 +2561,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002752",
+    "name": "昇兴股份",
+    "price": 6.08,
+    "change": -0.11,
+    "changePct": -1.78,
+    "open": 6.15,
+    "high": 6.23,
+    "low": 6.04,
+    "prevClose": 6.19,
+    "volume": 123341,
+    "amount": 7531.0,
+    "totalMV": 5940000000.0,
+    "circMV": 5931000000.0,
+    "pe": 16.24,
+    "pb": 1.66,
+    "turnover": 1.26,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

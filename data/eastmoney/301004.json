@@ -2596,5 +2596,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301004",
+    "name": "嘉益股份",
+    "price": 34.31,
+    "change": -0.38,
+    "changePct": -1.1,
+    "open": 34.29,
+    "high": 34.85,
+    "low": 33.8,
+    "prevClose": 34.69,
+    "volume": 5635,
+    "amount": 1936.0,
+    "totalMV": 5003000000.0,
+    "circMV": 4670000000.0,
+    "pe": 14.43,
+    "pb": 2.79,
+    "turnover": 0.41,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

@@ -2629,5 +2629,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300154",
+    "name": "瑞凌股份",
+    "price": 9.04,
+    "change": -0.19,
+    "changePct": -2.06,
+    "open": 9.15,
+    "high": 9.31,
+    "low": 9.04,
+    "prevClose": 9.23,
+    "volume": 72768,
+    "amount": 6644.0,
+    "totalMV": 4064000000.0,
+    "circMV": 2849000000.0,
+    "pe": 46.16,
+    "pb": 2.38,
+    "turnover": 2.31,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

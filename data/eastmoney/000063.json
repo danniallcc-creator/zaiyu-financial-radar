@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000063",
+    "name": "中兴通讯",
+    "price": 37.89,
+    "change": 0.25,
+    "changePct": 0.66,
+    "open": 37.41,
+    "high": 38.64,
+    "low": 37.01,
+    "prevClose": 37.64,
+    "volume": 2180738,
+    "amount": 827011.0,
+    "totalMV": 181248000000.0,
+    "circMV": 152607000000.0,
+    "pe": 40.5,
+    "pb": 2.36,
+    "turnover": 5.41,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

@@ -2461,5 +2461,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301202",
+    "name": "朗威股份",
+    "price": 37.0,
+    "change": -0.02,
+    "changePct": -0.05,
+    "open": 36.6,
+    "high": 37.5,
+    "low": 36.53,
+    "prevClose": 37.02,
+    "volume": 13067,
+    "amount": 4848.0,
+    "totalMV": 5047000000.0,
+    "circMV": 1374000000.0,
+    "pe": 78.46,
+    "pb": 4.25,
+    "turnover": 3.52,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

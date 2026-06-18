@@ -2638,5 +2638,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000404",
+    "name": "长虹华意",
+    "price": 7.55,
+    "change": -0.08,
+    "changePct": -1.05,
+    "open": 7.63,
+    "high": 7.73,
+    "low": 7.55,
+    "prevClose": 7.63,
+    "volume": 119329,
+    "amount": 9073.0,
+    "totalMV": 5255000000.0,
+    "circMV": 5230000000.0,
+    "pe": 10.31,
+    "pb": 1.25,
+    "turnover": 1.72,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

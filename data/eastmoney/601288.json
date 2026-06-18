@@ -1738,5 +1738,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601288",
+    "name": "农业银行",
+    "price": 6.37,
+    "change": -0.16,
+    "changePct": -2.45,
+    "open": 6.55,
+    "high": 6.56,
+    "low": 6.36,
+    "prevClose": 6.53,
+    "volume": 3391003,
+    "amount": 217513.0,
+    "totalMV": 2229392000000.0,
+    "circMV": 2033586000000.0,
+    "pe": 7.58,
+    "pb": 0.8,
+    "turnover": 0.11,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

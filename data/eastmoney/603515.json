@@ -2636,5 +2636,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603515",
+    "name": "欧普照明",
+    "price": 18.2,
+    "change": -0.13,
+    "changePct": -0.71,
+    "open": 18.33,
+    "high": 18.52,
+    "low": 18.02,
+    "prevClose": 18.33,
+    "volume": 12016,
+    "amount": 2188.0,
+    "totalMV": 13526000000.0,
+    "circMV": 13401000000.0,
+    "pe": 14.86,
+    "pb": 1.89,
+    "turnover": 0.16,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

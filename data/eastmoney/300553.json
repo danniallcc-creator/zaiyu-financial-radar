@@ -2531,5 +2531,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300553",
+    "name": "集智股份",
+    "price": 77.6,
+    "change": 7.49,
+    "changePct": 10.68,
+    "open": 71.37,
+    "high": 79.59,
+    "low": 69.4,
+    "prevClose": 70.11,
+    "volume": 79248,
+    "amount": 59674.0,
+    "totalMV": 8615000000.0,
+    "circMV": 6588000000.0,
+    "pe": 503.13,
+    "pb": 10.21,
+    "turnover": 9.33,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

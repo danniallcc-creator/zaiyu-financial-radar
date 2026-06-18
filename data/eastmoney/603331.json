@@ -2538,5 +2538,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603331",
+    "name": "百达精工",
+    "price": 11.52,
+    "change": -0.06,
+    "changePct": -0.52,
+    "open": 11.56,
+    "high": 11.67,
+    "low": 11.27,
+    "prevClose": 11.58,
+    "volume": 48480,
+    "amount": 5577.0,
+    "totalMV": 2329000000.0,
+    "circMV": 2329000000.0,
+    "pe": -9.45,
+    "pb": 2.24,
+    "turnover": 2.4,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

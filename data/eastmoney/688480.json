@@ -2532,5 +2532,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688480",
+    "name": "XD赛恩斯",
+    "price": 99.53,
+    "change": 0.93,
+    "changePct": 0.94,
+    "open": 98.25,
+    "high": 101.38,
+    "low": 98.0,
+    "prevClose": 98.6,
+    "volume": 1729809,
+    "amount": 17192.0,
+    "totalMV": 9488000000.0,
+    "circMV": 9488000000.0,
+    "pe": 78.71,
+    "pb": 8.13,
+    "turnover": 1.81,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

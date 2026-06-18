@@ -2546,5 +2546,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301066",
+    "name": "万事利",
+    "price": 12.98,
+    "change": -0.21,
+    "changePct": -1.59,
+    "open": 13.08,
+    "high": 13.3,
+    "low": 12.5,
+    "prevClose": 13.19,
+    "volume": 61252,
+    "amount": 7935.0,
+    "totalMV": 3049000000.0,
+    "circMV": 3026000000.0,
+    "pe": 82.75,
+    "pb": 2.37,
+    "turnover": 2.63,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

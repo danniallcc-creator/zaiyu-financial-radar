@@ -2566,5 +2566,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301227",
+    "name": "森鹰窗业",
+    "price": 28.5,
+    "change": 0.62,
+    "changePct": 2.22,
+    "open": 27.72,
+    "high": 29.0,
+    "low": 26.82,
+    "prevClose": 27.88,
+    "volume": 31844,
+    "amount": 8961.0,
+    "totalMV": 3747000000.0,
+    "circMV": 2105999999.9999998,
+    "pe": -61.21,
+    "pb": 2.34,
+    "turnover": 4.31,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

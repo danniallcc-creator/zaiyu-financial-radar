@@ -2612,5 +2612,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688128",
+    "name": "中国电研",
+    "price": 26.77,
+    "change": 0.16,
+    "changePct": 0.6,
+    "open": 26.44,
+    "high": 26.97,
+    "low": 26.28,
+    "prevClose": 26.61,
+    "volume": 3373850,
+    "amount": 9015.0,
+    "totalMV": 10828000000.0,
+    "circMV": 10828000000.0,
+    "pe": 19.98,
+    "pb": 3.11,
+    "turnover": 0.83,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

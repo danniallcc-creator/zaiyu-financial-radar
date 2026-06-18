@@ -2604,5 +2604,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300946",
+    "name": "恒而达",
+    "price": 46.65,
+    "change": -0.26,
+    "changePct": -0.55,
+    "open": 47.38,
+    "high": 47.48,
+    "low": 46.12,
+    "prevClose": 46.91,
+    "volume": 15298,
+    "amount": 7147.0,
+    "totalMV": 7278000000.0,
+    "circMV": 3536000000.0,
+    "pe": 233.3,
+    "pb": 6.19,
+    "turnover": 2.02,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

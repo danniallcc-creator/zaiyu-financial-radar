@@ -2587,5 +2587,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002026",
+    "name": "山东威达",
+    "price": 11.99,
+    "change": 0.0,
+    "changePct": 0.0,
+    "open": 11.95,
+    "high": 12.13,
+    "low": 11.9,
+    "prevClose": 11.99,
+    "volume": 44555,
+    "amount": 5342.0,
+    "totalMV": 5282000000.0,
+    "circMV": 5282000000.0,
+    "pe": 20.55,
+    "pb": 1.37,
+    "turnover": 1.01,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

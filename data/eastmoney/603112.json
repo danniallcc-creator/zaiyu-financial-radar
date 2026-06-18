@@ -2534,5 +2534,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603112",
+    "name": "华翔股份",
+    "price": 18.5,
+    "change": 0.02,
+    "changePct": 0.11,
+    "open": 18.45,
+    "high": 18.75,
+    "low": 18.3,
+    "prevClose": 18.48,
+    "volume": 67830,
+    "amount": 12554.0,
+    "totalMV": 9989000000.0,
+    "circMV": 9890000000.0,
+    "pe": 17.47,
+    "pb": 2.26,
+    "turnover": 1.27,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

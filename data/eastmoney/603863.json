@@ -2487,5 +2487,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603863",
+    "name": "松炀资源",
+    "price": 14.18,
+    "change": -0.33,
+    "changePct": -2.27,
+    "open": 14.39,
+    "high": 14.6,
+    "low": 14.18,
+    "prevClose": 14.51,
+    "volume": 43456,
+    "amount": 6234.0,
+    "totalMV": 2902000000.0,
+    "circMV": 2902000000.0,
+    "pe": -15.21,
+    "pb": 11.98,
+    "turnover": 2.12,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

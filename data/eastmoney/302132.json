@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "302132",
+    "name": "中航成飞",
+    "price": 59.33,
+    "change": -0.87,
+    "changePct": -1.45,
+    "open": 60.1,
+    "high": 60.6,
+    "low": 59.08,
+    "prevClose": 60.2,
+    "volume": 70147,
+    "amount": 41855.0,
+    "totalMV": 158535000000.0,
+    "circMV": 34772000000.0,
+    "pe": 45.71,
+    "pb": 7.77,
+    "turnover": 1.2,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

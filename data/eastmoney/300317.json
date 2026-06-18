@@ -2540,5 +2540,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300317",
+    "name": "珈伟新能",
+    "price": 4.47,
+    "change": -0.33,
+    "changePct": -6.88,
+    "open": 4.79,
+    "high": 4.83,
+    "low": 4.41,
+    "prevClose": 4.8,
+    "volume": 752722,
+    "amount": 34045.0,
+    "totalMV": 3711000000.0,
+    "circMV": 3704999999.9999995,
+    "pe": -20.2,
+    "pb": 2.61,
+    "turnover": 9.08,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

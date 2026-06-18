@@ -1639,5 +1639,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601916",
+    "name": "浙商银行",
+    "price": 2.99,
+    "change": -0.05,
+    "changePct": -1.64,
+    "open": 3.04,
+    "high": 3.05,
+    "low": 2.98,
+    "prevClose": 3.04,
+    "volume": 1445191,
+    "amount": 43501.0,
+    "totalMV": 82119000000.0,
+    "circMV": 64417999999.99999,
+    "pe": 6.33,
+    "pb": 0.45,
+    "turnover": 0.67,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

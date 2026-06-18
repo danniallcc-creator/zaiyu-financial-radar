@@ -2454,5 +2454,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688320",
+    "name": "禾川科技",
+    "price": 38.65,
+    "change": 0.98,
+    "changePct": 2.6,
+    "open": 37.67,
+    "high": 39.0,
+    "low": 37.0,
+    "prevClose": 37.67,
+    "volume": 4543157,
+    "amount": 17402.0,
+    "totalMV": 5837000000.0,
+    "circMV": 5837000000.0,
+    "pe": -53.68,
+    "pb": 4.81,
+    "turnover": 3.01,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

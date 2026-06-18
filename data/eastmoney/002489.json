@@ -2530,5 +2530,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002489",
+    "name": "浙江永强",
+    "price": 3.04,
+    "change": -0.16,
+    "changePct": -5.0,
+    "open": 3.18,
+    "high": 3.18,
+    "low": 3.03,
+    "prevClose": 3.2,
+    "volume": 397508,
+    "amount": 12270.0,
+    "totalMV": 6594000000.0,
+    "circMV": 5816000000.0,
+    "pe": 26.53,
+    "pb": 1.48,
+    "turnover": 2.08,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

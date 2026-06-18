@@ -2507,5 +2507,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301326",
+    "name": "捷邦科技",
+    "price": 152.0,
+    "change": 3.09,
+    "changePct": 2.08,
+    "open": 149.54,
+    "high": 155.0,
+    "low": 146.0,
+    "prevClose": 148.91,
+    "volume": 16440,
+    "amount": 24879.0,
+    "totalMV": 11052000000.0,
+    "circMV": 10955000000.0,
+    "pe": -219.43,
+    "pb": 8.95,
+    "turnover": 2.28,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

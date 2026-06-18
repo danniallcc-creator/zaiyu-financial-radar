@@ -1712,5 +1712,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601128",
+    "name": "常熟银行",
+    "price": 6.24,
+    "change": -0.17,
+    "changePct": -2.65,
+    "open": 6.41,
+    "high": 6.41,
+    "low": 6.2,
+    "prevClose": 6.41,
+    "volume": 530590,
+    "amount": 33279.0,
+    "totalMV": 22765000000.0,
+    "circMV": 22765000000.0,
+    "pe": 5.25,
+    "pb": 0.72,
+    "turnover": 1.45,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

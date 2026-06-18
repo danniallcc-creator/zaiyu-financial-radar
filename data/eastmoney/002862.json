@@ -2435,5 +2435,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002862",
+    "name": "实丰文化",
+    "price": 14.04,
+    "change": -0.08,
+    "changePct": -0.57,
+    "open": 14.14,
+    "high": 14.22,
+    "low": 13.83,
+    "prevClose": 14.12,
+    "volume": 34445,
+    "amount": 4837.0,
+    "totalMV": 2359000000.0,
+    "circMV": 1805000000.0,
+    "pe": -13.85,
+    "pb": 8.1,
+    "turnover": 2.68,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

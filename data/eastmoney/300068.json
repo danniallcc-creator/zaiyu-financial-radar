@@ -2476,5 +2476,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300068",
+    "name": "ST南都",
+    "price": 4.15,
+    "change": -0.24,
+    "changePct": -5.47,
+    "open": 4.3,
+    "high": 4.53,
+    "low": 4.14,
+    "prevClose": 4.39,
+    "volume": 807962,
+    "amount": 34622.0,
+    "totalMV": 3728000000.0,
+    "circMV": 3543000000.0,
+    "pe": -1.39,
+    "pb": 3.39,
+    "turnover": 9.46,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

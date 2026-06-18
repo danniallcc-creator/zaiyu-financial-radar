@@ -2686,5 +2686,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000933",
+    "name": "神火股份",
+    "price": 23.74,
+    "change": -0.81,
+    "changePct": -3.3,
+    "open": 24.2,
+    "high": 24.78,
+    "low": 23.62,
+    "prevClose": 24.55,
+    "volume": 719754,
+    "amount": 173098.0,
+    "totalMV": 53391000000.0,
+    "circMV": 53354000000.0,
+    "pe": 9.56,
+    "pb": 2.13,
+    "turnover": 3.2,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

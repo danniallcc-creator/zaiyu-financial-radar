@@ -2618,5 +2618,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600938",
+    "name": "中国海油",
+    "price": 30.7,
+    "change": -0.7,
+    "changePct": -2.23,
+    "open": 31.34,
+    "high": 31.42,
+    "low": 30.44,
+    "prevClose": 31.4,
+    "volume": 449714,
+    "amount": 138837.0,
+    "totalMV": 1459170000000.0,
+    "circMV": 91793000000.0,
+    "pe": 11.7,
+    "pb": 1.74,
+    "turnover": 1.5,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

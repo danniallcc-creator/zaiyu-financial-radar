@@ -2517,5 +2517,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "001322",
+    "name": "箭牌家居",
+    "price": 5.84,
+    "change": -0.04,
+    "changePct": -0.68,
+    "open": 5.98,
+    "high": 5.98,
+    "low": 5.78,
+    "prevClose": 5.88,
+    "volume": 30700,
+    "amount": 1792.0,
+    "totalMV": 5648000000.0,
+    "circMV": 4588000000.0,
+    "pe": 103.34,
+    "pb": 1.22,
+    "turnover": 0.39,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

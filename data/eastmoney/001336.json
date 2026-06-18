@@ -2596,5 +2596,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "001336",
+    "name": "楚环科技",
+    "price": 23.69,
+    "change": -0.22,
+    "changePct": -0.92,
+    "open": 23.78,
+    "high": 24.0,
+    "low": 23.33,
+    "prevClose": 23.91,
+    "volume": 16770,
+    "amount": 3977.0,
+    "totalMV": 1904000000.0,
+    "circMV": 1168000000.0,
+    "pe": 42.1,
+    "pb": 2.32,
+    "turnover": 3.4,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

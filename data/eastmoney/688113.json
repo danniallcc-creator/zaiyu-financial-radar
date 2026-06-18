@@ -2472,5 +2472,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688113",
+    "name": "XD联测科",
+    "price": 38.62,
+    "change": -0.1,
+    "changePct": -0.26,
+    "open": 38.41,
+    "high": 38.95,
+    "low": 37.5,
+    "prevClose": 38.72,
+    "volume": 1168082,
+    "amount": 4475.0,
+    "totalMV": 2487000000.0,
+    "circMV": 2487000000.0,
+    "pe": 25.62,
+    "pb": 2.49,
+    "turnover": 1.81,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

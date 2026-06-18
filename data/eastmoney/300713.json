@@ -2572,5 +2572,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300713",
+    "name": "英可瑞",
+    "price": 13.96,
+    "change": 0.01,
+    "changePct": 0.07,
+    "open": 13.96,
+    "high": 14.39,
+    "low": 13.5,
+    "prevClose": 13.95,
+    "volume": 53512,
+    "amount": 7458.0,
+    "totalMV": 2216000000.0,
+    "circMV": 1206000000.0,
+    "pe": -21.22,
+    "pb": 5.0,
+    "turnover": 6.2,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

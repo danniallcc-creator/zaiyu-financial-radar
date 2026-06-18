@@ -2620,5 +2620,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600025",
+    "name": "华能水电",
+    "price": 9.3,
+    "change": -0.14,
+    "changePct": -1.48,
+    "open": 9.4,
+    "high": 9.47,
+    "low": 9.25,
+    "prevClose": 9.44,
+    "volume": 348689,
+    "amount": 32536.0,
+    "totalMV": 173269000000.0,
+    "circMV": 173269000000.0,
+    "pe": 20.29,
+    "pb": 2.44,
+    "turnover": 0.19,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

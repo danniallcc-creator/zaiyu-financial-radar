@@ -2608,5 +2608,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002327",
+    "name": "富安娜",
+    "price": 6.35,
+    "change": -0.1,
+    "changePct": -1.55,
+    "open": 6.45,
+    "high": 6.45,
+    "low": 6.33,
+    "prevClose": 6.45,
+    "volume": 57732,
+    "amount": 3680.0,
+    "totalMV": 5295000000.0,
+    "circMV": 3118000000.0,
+    "pe": 15.35,
+    "pb": 1.54,
+    "turnover": 1.18,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

@@ -2596,5 +2596,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "003012",
+    "name": "东鹏控股",
+    "price": 4.66,
+    "change": -0.07,
+    "changePct": -1.48,
+    "open": 4.65,
+    "high": 4.7,
+    "low": 4.57,
+    "prevClose": 4.73,
+    "volume": 99650,
+    "amount": 4628.0,
+    "totalMV": 5392000000.0,
+    "circMV": 5287000000.0,
+    "pe": 16.22,
+    "pb": 0.74,
+    "turnover": 0.88,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

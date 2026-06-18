@@ -1793,5 +1793,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688755",
+    "name": "汉邦科技",
+    "price": 25.37,
+    "change": 0.35,
+    "changePct": 1.4,
+    "open": 25.08,
+    "high": 25.57,
+    "low": 24.63,
+    "prevClose": 25.02,
+    "volume": 514583,
+    "amount": 1301.0,
+    "totalMV": 2902000000.0,
+    "circMV": 2026000000.0000002,
+    "pe": 43.32,
+    "pb": 2.31,
+    "turnover": 0.64,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

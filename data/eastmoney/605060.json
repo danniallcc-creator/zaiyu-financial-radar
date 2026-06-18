@@ -2596,5 +2596,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "605060",
+    "name": "联德股份",
+    "price": 52.73,
+    "change": 2.21,
+    "changePct": 4.37,
+    "open": 51.3,
+    "high": 54.8,
+    "low": 50.7,
+    "prevClose": 50.52,
+    "volume": 81730,
+    "amount": 43696.0,
+    "totalMV": 12686000000.0,
+    "circMV": 12599000000.0,
+    "pe": 52.02,
+    "pb": 5.02,
+    "turnover": 3.42,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

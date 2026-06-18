@@ -2299,5 +2299,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "001391",
+    "name": "国货航",
+    "price": 4.39,
+    "change": -0.14,
+    "changePct": -3.09,
+    "open": 4.5,
+    "high": 4.51,
+    "low": 4.36,
+    "prevClose": 4.53,
+    "volume": 262856,
+    "amount": 11612.0,
+    "totalMV": 53597000000.0,
+    "circMV": 6670000000.0,
+    "pe": 21.63,
+    "pb": 1.96,
+    "turnover": 1.73,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

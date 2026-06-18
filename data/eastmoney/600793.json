@@ -2572,5 +2572,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600793",
+    "name": "宜宾纸业",
+    "price": 12.8,
+    "change": -0.15,
+    "changePct": -1.16,
+    "open": 13.15,
+    "high": 13.15,
+    "low": 12.63,
+    "prevClose": 12.95,
+    "volume": 26308,
+    "amount": 3360.0,
+    "totalMV": 2264000000.0,
+    "circMV": 2264000000.0,
+    "pe": -155.48,
+    "pb": 9.99,
+    "turnover": 1.49,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

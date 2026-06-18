@@ -2579,5 +2579,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002698",
+    "name": "博实股份",
+    "price": 11.59,
+    "change": 0.43,
+    "changePct": 3.85,
+    "open": 11.14,
+    "high": 11.92,
+    "low": 11.07,
+    "prevClose": 11.16,
+    "volume": 208784,
+    "amount": 24276.0,
+    "totalMV": 11851000000.0,
+    "circMV": 9738000000.0,
+    "pe": 24.08,
+    "pb": 2.8,
+    "turnover": 2.48,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

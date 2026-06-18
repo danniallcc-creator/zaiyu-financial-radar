@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600039",
+    "name": "四川路桥",
+    "price": 8.27,
+    "change": -0.08,
+    "changePct": -0.96,
+    "open": 8.3,
+    "high": 8.36,
+    "low": 8.21,
+    "prevClose": 8.35,
+    "volume": 136314,
+    "amount": 11282.0,
+    "totalMV": 71913000000.0,
+    "circMV": 71913000000.0,
+    "pe": 10.25,
+    "pb": 1.36,
+    "turnover": 0.16,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

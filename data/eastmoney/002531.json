@@ -2663,5 +2663,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002531",
+    "name": "天顺风能",
+    "price": 9.07,
+    "change": -0.13,
+    "changePct": -1.41,
+    "open": 9.16,
+    "high": 9.32,
+    "low": 9.02,
+    "prevClose": 9.2,
+    "volume": 321749,
+    "amount": 29449.0,
+    "totalMV": 16297999999.999998,
+    "circMV": 16206000000.0,
+    "pe": -70.93,
+    "pb": 1.88,
+    "turnover": 1.8,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

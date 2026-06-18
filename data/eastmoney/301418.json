@@ -2524,5 +2524,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301418",
+    "name": "协昌科技",
+    "price": 48.18,
+    "change": -2.37,
+    "changePct": -4.69,
+    "open": 50.05,
+    "high": 50.38,
+    "low": 48.18,
+    "prevClose": 50.55,
+    "volume": 51414,
+    "amount": 25270.0,
+    "totalMV": 3533000000.0,
+    "circMV": 1418000000.0,
+    "pe": 430.06,
+    "pb": 2.2,
+    "turnover": 17.47,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

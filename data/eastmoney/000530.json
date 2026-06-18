@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000530",
+    "name": "冰山冷热",
+    "price": 5.43,
+    "change": -0.13,
+    "changePct": -2.34,
+    "open": 5.53,
+    "high": 5.56,
+    "low": 5.4,
+    "prevClose": 5.56,
+    "volume": 252529,
+    "amount": 13766.0,
+    "totalMV": 4579000000.0,
+    "circMV": 3259000000.0000005,
+    "pe": 85.0,
+    "pb": 1.44,
+    "turnover": 4.21,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

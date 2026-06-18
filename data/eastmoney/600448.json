@@ -2489,5 +2489,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600448",
+    "name": "华纺股份",
+    "price": 2.72,
+    "change": -0.03,
+    "changePct": -1.09,
+    "open": 2.74,
+    "high": 2.76,
+    "low": 2.66,
+    "prevClose": 2.75,
+    "volume": 139458,
+    "amount": 3792.0,
+    "totalMV": 1713000000.0,
+    "circMV": 1713000000.0,
+    "pe": -5.92,
+    "pb": 1.88,
+    "turnover": 2.21,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

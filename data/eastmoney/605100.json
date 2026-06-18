@@ -2620,5 +2620,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "605100",
+    "name": "华丰股份",
+    "price": 39.16,
+    "change": 1.9,
+    "changePct": 5.1,
+    "open": 37.26,
+    "high": 40.34,
+    "low": 37.06,
+    "prevClose": 37.26,
+    "volume": 94647,
+    "amount": 37134.0,
+    "totalMV": 9360000000.0,
+    "circMV": 9316000000.0,
+    "pe": 389.42,
+    "pb": 5.19,
+    "turnover": 3.98,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

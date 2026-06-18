@@ -2517,5 +2517,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002052",
+    "name": "同洲电子",
+    "price": 8.45,
+    "change": -0.48,
+    "changePct": -5.38,
+    "open": 8.93,
+    "high": 8.93,
+    "low": 8.28,
+    "prevClose": 8.93,
+    "volume": 250298,
+    "amount": 21256.0,
+    "totalMV": 6358000000.0,
+    "circMV": 5825000000.0,
+    "pe": 104.22,
+    "pb": 22.83,
+    "turnover": 3.63,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

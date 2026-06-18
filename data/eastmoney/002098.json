@@ -2608,5 +2608,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002098",
+    "name": "浔兴股份",
+    "price": 6.81,
+    "change": -0.02,
+    "changePct": -0.29,
+    "open": 6.79,
+    "high": 6.91,
+    "low": 6.73,
+    "prevClose": 6.83,
+    "volume": 24560,
+    "amount": 1681.0,
+    "totalMV": 2438000000.0,
+    "circMV": 2438000000.0,
+    "pe": 13.24,
+    "pb": 1.6,
+    "turnover": 0.69,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

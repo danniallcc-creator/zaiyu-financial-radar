@@ -2530,5 +2530,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002799",
+    "name": "环球印务",
+    "price": 6.6,
+    "change": -0.03,
+    "changePct": -0.45,
+    "open": 6.65,
+    "high": 6.68,
+    "low": 6.5,
+    "prevClose": 6.63,
+    "volume": 58556,
+    "amount": 3857.0,
+    "totalMV": 2112000000.0,
+    "circMV": 2112000000.0,
+    "pe": -132.15,
+    "pb": 1.66,
+    "turnover": 1.83,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

@@ -2604,5 +2604,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002272",
+    "name": "川润股份",
+    "price": 21.2,
+    "change": 0.11,
+    "changePct": 0.52,
+    "open": 20.85,
+    "high": 21.71,
+    "low": 20.85,
+    "prevClose": 21.09,
+    "volume": 475174,
+    "amount": 100959.0,
+    "totalMV": 10279000000.0,
+    "circMV": 8652000000.0,
+    "pe": -369.67,
+    "pb": 7.04,
+    "turnover": 11.64,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

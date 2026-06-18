@@ -2593,5 +2593,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002523",
+    "name": "天桥起重",
+    "price": 3.26,
+    "change": 0.06,
+    "changePct": 1.88,
+    "open": 3.2,
+    "high": 3.34,
+    "low": 3.15,
+    "prevClose": 3.2,
+    "volume": 294970,
+    "amount": 9571.0,
+    "totalMV": 4618000000.0,
+    "circMV": 4602000000.0,
+    "pe": 40.26,
+    "pb": 1.87,
+    "turnover": 2.09,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

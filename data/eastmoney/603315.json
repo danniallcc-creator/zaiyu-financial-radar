@@ -2614,5 +2614,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603315",
+    "name": "福鞍股份",
+    "price": 17.42,
+    "change": 0.67,
+    "changePct": 4.0,
+    "open": 16.71,
+    "high": 17.8,
+    "low": 16.61,
+    "prevClose": 16.75,
+    "volume": 183128,
+    "amount": 31631.0,
+    "totalMV": 5581000000.0,
+    "circMV": 5581000000.0,
+    "pe": 135.13,
+    "pb": 3.21,
+    "turnover": 5.72,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

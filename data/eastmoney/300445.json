@@ -2538,5 +2538,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300445",
+    "name": "康斯特",
+    "price": 23.37,
+    "change": -0.47,
+    "changePct": -1.97,
+    "open": 23.63,
+    "high": 23.96,
+    "low": 23.09,
+    "prevClose": 23.84,
+    "volume": 54614,
+    "amount": 12816.0,
+    "totalMV": 4964000000.0,
+    "circMV": 3285000000.0,
+    "pe": 42.79,
+    "pb": 3.84,
+    "turnover": 3.89,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

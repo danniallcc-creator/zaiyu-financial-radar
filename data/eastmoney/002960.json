@@ -2610,5 +2610,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002960",
+    "name": "青鸟智控",
+    "price": 9.12,
+    "change": 0.2,
+    "changePct": 2.24,
+    "open": 8.88,
+    "high": 9.13,
+    "low": 8.86,
+    "prevClose": 8.92,
+    "volume": 245589,
+    "amount": 22197.0,
+    "totalMV": 9610000000.0,
+    "circMV": 8830000000.0,
+    "pe": 30.47,
+    "pb": 1.56,
+    "turnover": 2.54,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

@@ -2686,5 +2686,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600282",
+    "name": "南钢股份",
+    "price": 4.7,
+    "change": -0.07,
+    "changePct": -1.47,
+    "open": 4.76,
+    "high": 4.82,
+    "low": 4.65,
+    "prevClose": 4.77,
+    "volume": 407235,
+    "amount": 19170.0,
+    "totalMV": 28976000000.0,
+    "circMV": 28976000000.0,
+    "pe": 10.04,
+    "pb": 1.06,
+    "turnover": 0.66,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

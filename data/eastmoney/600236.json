@@ -2647,5 +2647,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600236",
+    "name": "桂冠电力",
+    "price": 9.2,
+    "change": -0.61,
+    "changePct": -6.22,
+    "open": 9.77,
+    "high": 9.87,
+    "low": 9.01,
+    "prevClose": 9.81,
+    "volume": 347847,
+    "amount": 32407.0,
+    "totalMV": 72518000000.0,
+    "circMV": 72518000000.0,
+    "pe": 20.17,
+    "pb": 4.22,
+    "turnover": 0.44,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

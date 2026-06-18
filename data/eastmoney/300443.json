@@ -2555,5 +2555,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300443",
+    "name": "金雷股份",
+    "price": 22.6,
+    "change": -0.27,
+    "changePct": -1.18,
+    "open": 22.73,
+    "high": 23.07,
+    "low": 22.42,
+    "prevClose": 22.87,
+    "volume": 54764,
+    "amount": 12421.0,
+    "totalMV": 7234999999.999999,
+    "circMV": 5487000000.0,
+    "pe": 22.14,
+    "pb": 1.14,
+    "turnover": 2.26,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

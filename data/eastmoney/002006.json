@@ -2608,5 +2608,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002006",
+    "name": "精工科技",
+    "price": 14.93,
+    "change": 0.09,
+    "changePct": 0.61,
+    "open": 14.78,
+    "high": 15.12,
+    "low": 14.62,
+    "prevClose": 14.84,
+    "volume": 75947,
+    "amount": 11329.0,
+    "totalMV": 7761000000.0,
+    "circMV": 7761000000.0,
+    "pe": 40.45,
+    "pb": 3.1,
+    "turnover": 1.46,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

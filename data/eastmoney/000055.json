@@ -2644,5 +2644,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000055",
+    "name": "方大集团",
+    "price": 3.65,
+    "change": -0.17,
+    "changePct": -4.45,
+    "open": 3.78,
+    "high": 3.8,
+    "low": 3.61,
+    "prevClose": 3.82,
+    "volume": 241163,
+    "amount": 8951.0,
+    "totalMV": 3920000000.0000005,
+    "circMV": 2467000000.0,
+    "pe": -7.53,
+    "pb": 0.7,
+    "turnover": 3.57,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

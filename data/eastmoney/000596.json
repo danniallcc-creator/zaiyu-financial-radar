@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000596",
+    "name": "古井贡酒",
+    "price": 81.71,
+    "change": -2.35,
+    "changePct": -2.8,
+    "open": 83.88,
+    "high": 83.88,
+    "low": 81.6,
+    "prevClose": 84.06,
+    "volume": 34086,
+    "amount": 28050.0,
+    "totalMV": 43192000000.0,
+    "circMV": 33387000000.0,
+    "pe": 15.28,
+    "pb": 1.65,
+    "turnover": 0.83,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

@@ -2638,5 +2638,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603012",
+    "name": "创力集团",
+    "price": 7.46,
+    "change": 0.07,
+    "changePct": 0.95,
+    "open": 7.38,
+    "high": 7.56,
+    "low": 7.3,
+    "prevClose": 7.39,
+    "volume": 119933,
+    "amount": 8894.0,
+    "totalMV": 4823000000.0,
+    "circMV": 4823000000.0,
+    "pe": 52.62,
+    "pb": 1.28,
+    "turnover": 1.86,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

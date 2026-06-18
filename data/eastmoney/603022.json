@@ -2546,5 +2546,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603022",
+    "name": "新通联",
+    "price": 8.84,
+    "change": -0.08,
+    "changePct": -0.9,
+    "open": 8.88,
+    "high": 8.96,
+    "low": 8.71,
+    "prevClose": 8.92,
+    "volume": 40790,
+    "amount": 3607.0,
+    "totalMV": 1768000000.0,
+    "circMV": 1768000000.0,
+    "pe": 29.77,
+    "pb": 2.07,
+    "turnover": 2.04,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

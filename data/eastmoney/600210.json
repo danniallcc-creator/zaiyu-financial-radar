@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600210",
+    "name": "紫江企业",
+    "price": 6.56,
+    "change": -0.11,
+    "changePct": -1.65,
+    "open": 6.67,
+    "high": 6.67,
+    "low": 6.54,
+    "prevClose": 6.67,
+    "volume": 127130,
+    "amount": 8374.0,
+    "totalMV": 9950000000.0,
+    "circMV": 9950000000.0,
+    "pe": 9.16,
+    "pb": 1.44,
+    "turnover": 0.84,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

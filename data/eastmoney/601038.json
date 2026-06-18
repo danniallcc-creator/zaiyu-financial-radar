@@ -2599,5 +2599,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601038",
+    "name": "一拖股份",
+    "price": 11.36,
+    "change": -0.14,
+    "changePct": -1.22,
+    "open": 11.49,
+    "high": 11.65,
+    "low": 11.33,
+    "prevClose": 11.5,
+    "volume": 46426,
+    "amount": 5326.0,
+    "totalMV": 12765000000.0,
+    "circMV": 8312000000.0,
+    "pe": 15.11,
+    "pb": 1.6,
+    "turnover": 0.63,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

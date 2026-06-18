@@ -2543,5 +2543,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300904",
+    "name": "威力传动",
+    "price": 44.8,
+    "change": -0.54,
+    "changePct": -1.19,
+    "open": 45.0,
+    "high": 45.53,
+    "low": 44.0,
+    "prevClose": 45.34,
+    "volume": 8035,
+    "amount": 3608.0,
+    "totalMV": 3243000000.0,
+    "circMV": 985000000.0,
+    "pe": -32.06,
+    "pb": 5.55,
+    "turnover": 3.66,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

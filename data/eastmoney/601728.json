@@ -2620,5 +2620,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601728",
+    "name": "中国电信",
+    "price": 5.68,
+    "change": -0.11,
+    "changePct": -1.9,
+    "open": 5.8,
+    "high": 5.84,
+    "low": 5.66,
+    "prevClose": 5.79,
+    "volume": 1566172,
+    "amount": 89706.0,
+    "totalMV": 519760999999.99994,
+    "circMV": 440937000000.0,
+    "pe": 16.41,
+    "pb": 1.13,
+    "turnover": 0.2,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

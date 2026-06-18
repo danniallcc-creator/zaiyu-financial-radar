@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002078",
+    "name": "太阳纸业",
+    "price": 12.53,
+    "change": -0.39,
+    "changePct": -3.02,
+    "open": 12.86,
+    "high": 12.88,
+    "low": 12.29,
+    "prevClose": 12.92,
+    "volume": 335873,
+    "amount": 42072.0,
+    "totalMV": 35016000000.0,
+    "circMV": 34800000000.0,
+    "pe": 10.71,
+    "pb": 1.12,
+    "turnover": 1.21,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

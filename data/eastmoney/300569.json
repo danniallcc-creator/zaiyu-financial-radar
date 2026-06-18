@@ -2598,5 +2598,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300569",
+    "name": "天能重工",
+    "price": 4.81,
+    "change": -0.12,
+    "changePct": -2.43,
+    "open": 4.9,
+    "high": 4.9,
+    "low": 4.78,
+    "prevClose": 4.93,
+    "volume": 141489,
+    "amount": 6842.0,
+    "totalMV": 4919000000.0,
+    "circMV": 4905000000.0,
+    "pe": 50.42,
+    "pb": 0.94,
+    "turnover": 1.39,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

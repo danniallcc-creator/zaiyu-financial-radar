@@ -2598,5 +2598,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002175",
+    "name": "*ST东智",
+    "price": 2.05,
+    "change": -0.02,
+    "changePct": -0.97,
+    "open": 2.05,
+    "high": 2.1,
+    "low": 1.99,
+    "prevClose": 2.07,
+    "volume": 348113,
+    "amount": 7065.0,
+    "totalMV": 2617000000.0,
+    "circMV": 2617000000.0,
+    "pe": -73.37,
+    "pb": 3.38,
+    "turnover": 2.73,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

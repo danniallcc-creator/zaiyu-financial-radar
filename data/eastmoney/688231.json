@@ -2593,5 +2593,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688231",
+    "name": "隆达股份",
+    "price": 48.2,
+    "change": 3.83,
+    "changePct": 8.63,
+    "open": 44.15,
+    "high": 49.97,
+    "low": 43.69,
+    "prevClose": 44.37,
+    "volume": 5524580,
+    "amount": 26109.0,
+    "totalMV": 11899000000.0,
+    "circMV": 11899000000.0,
+    "pe": 127.85,
+    "pb": 4.24,
+    "turnover": 2.24,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

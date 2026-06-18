@@ -2548,5 +2548,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300971",
+    "name": "博亚精工",
+    "price": 20.11,
+    "change": -0.03,
+    "changePct": -0.15,
+    "open": 19.92,
+    "high": 20.18,
+    "low": 19.7,
+    "prevClose": 20.14,
+    "volume": 27219,
+    "amount": 5445.0,
+    "totalMV": 2365000000.0,
+    "circMV": 1855000000.0,
+    "pe": 25.17,
+    "pb": 2.24,
+    "turnover": 2.95,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

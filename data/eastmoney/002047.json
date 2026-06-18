@@ -2559,5 +2559,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002047",
+    "name": "宝鹰股份",
+    "price": 4.53,
+    "change": -0.2,
+    "changePct": -4.23,
+    "open": 4.7,
+    "high": 4.71,
+    "low": 4.51,
+    "prevClose": 4.73,
+    "volume": 510087,
+    "amount": 23391.0,
+    "totalMV": 6869000000.0,
+    "circMV": 6868000000.000001,
+    "pe": 103.73,
+    "pb": 168.75,
+    "turnover": 3.36,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

@@ -2650,5 +2650,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600023",
+    "name": "浙能电力",
+    "price": 5.76,
+    "change": -0.28,
+    "changePct": -4.64,
+    "open": 6.02,
+    "high": 6.08,
+    "low": 5.75,
+    "prevClose": 6.04,
+    "volume": 862094,
+    "amount": 50706.0,
+    "totalMV": 77234000000.0,
+    "circMV": 77234000000.0,
+    "pe": 10.44,
+    "pb": 1.0,
+    "turnover": 0.64,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

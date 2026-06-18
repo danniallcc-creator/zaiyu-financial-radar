@@ -2545,5 +2545,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002596",
+    "name": "海南瑞泽",
+    "price": 3.23,
+    "change": -0.17,
+    "changePct": -5.0,
+    "open": 3.32,
+    "high": 3.33,
+    "low": 3.13,
+    "prevClose": 3.4,
+    "volume": 416758,
+    "amount": 13471.0,
+    "totalMV": 3707000000.0,
+    "circMV": 3703000000.0,
+    "pe": -18.43,
+    "pb": 6.97,
+    "turnover": 3.63,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

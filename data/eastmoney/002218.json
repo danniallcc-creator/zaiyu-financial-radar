@@ -2585,5 +2585,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002218",
+    "name": "拓日新能",
+    "price": 4.09,
+    "change": -0.17,
+    "changePct": -3.99,
+    "open": 4.23,
+    "high": 4.23,
+    "low": 4.08,
+    "prevClose": 4.26,
+    "volume": 452092,
+    "amount": 18658.0,
+    "totalMV": 5760000000.0,
+    "circMV": 5676000000.0,
+    "pe": -29.02,
+    "pb": 1.47,
+    "turnover": 3.26,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

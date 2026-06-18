@@ -2576,5 +2576,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000656",
+    "name": "*ST金科",
+    "price": 1.34,
+    "change": 0.0,
+    "changePct": 0.0,
+    "open": 1.34,
+    "high": 1.35,
+    "low": 1.32,
+    "prevClose": 1.34,
+    "volume": 540698,
+    "amount": 7225.0,
+    "totalMV": 14200000000.0,
+    "circMV": 10148000000.0,
+    "pe": 0.46,
+    "pb": 3.6,
+    "turnover": 0.71,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

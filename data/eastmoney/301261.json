@@ -2482,5 +2482,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301261",
+    "name": "恒工精密",
+    "price": 90.9,
+    "change": 2.75,
+    "changePct": 3.12,
+    "open": 88.11,
+    "high": 92.13,
+    "low": 87.81,
+    "prevClose": 88.15,
+    "volume": 42759,
+    "amount": 38642.0,
+    "totalMV": 7989000000.0,
+    "circMV": 3407000000.0,
+    "pe": 60.93,
+    "pb": 4.94,
+    "turnover": 11.41,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

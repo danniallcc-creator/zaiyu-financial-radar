@@ -2519,5 +2519,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002795",
+    "name": "永和智控",
+    "price": 7.32,
+    "change": -0.18,
+    "changePct": -2.4,
+    "open": 7.51,
+    "high": 7.67,
+    "low": 7.24,
+    "prevClose": 7.5,
+    "volume": 192046,
+    "amount": 14196.0,
+    "totalMV": 3233000000.0,
+    "circMV": 3180000000.0,
+    "pe": -62.26,
+    "pb": 7.25,
+    "turnover": 4.42,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

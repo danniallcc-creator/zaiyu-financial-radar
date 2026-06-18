@@ -2505,5 +2505,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301279",
+    "name": "金道科技",
+    "price": 24.06,
+    "change": -0.48,
+    "changePct": -1.96,
+    "open": 24.4,
+    "high": 24.74,
+    "low": 23.5,
+    "prevClose": 24.54,
+    "volume": 39309,
+    "amount": 9479.0,
+    "totalMV": 4054999999.9999995,
+    "circMV": 3140000000.0,
+    "pe": 62.29,
+    "pb": 3.02,
+    "turnover": 3.01,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

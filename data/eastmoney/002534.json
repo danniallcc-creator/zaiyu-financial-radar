@@ -2629,5 +2629,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002534",
+    "name": "西子洁能",
+    "price": 21.71,
+    "change": 0.31,
+    "changePct": 1.45,
+    "open": 21.4,
+    "high": 21.8,
+    "low": 21.17,
+    "prevClose": 21.4,
+    "volume": 164729,
+    "amount": 35432.0,
+    "totalMV": 18148000000.0,
+    "circMV": 17919000000.0,
+    "pe": 40.96,
+    "pb": 3.25,
+    "turnover": 2.0,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

@@ -2514,5 +2514,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688419",
+    "name": "耐科装备",
+    "price": 69.25,
+    "change": 1.65,
+    "changePct": 2.44,
+    "open": 68.11,
+    "high": 70.69,
+    "low": 65.8,
+    "prevClose": 67.6,
+    "volume": 5704721,
+    "amount": 38868.0,
+    "totalMV": 7933000000.0,
+    "circMV": 7933000000.0,
+    "pe": 110.4,
+    "pb": 7.88,
+    "turnover": 4.98,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

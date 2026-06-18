@@ -2590,5 +2590,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601566",
+    "name": "九牧王",
+    "price": 8.95,
+    "change": -0.29,
+    "changePct": -3.14,
+    "open": 9.21,
+    "high": 9.35,
+    "low": 8.92,
+    "prevClose": 9.24,
+    "volume": 110531,
+    "amount": 10023.0,
+    "totalMV": 5143000000.0,
+    "circMV": 5143000000.0,
+    "pe": 29.88,
+    "pb": 1.35,
+    "turnover": 1.92,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

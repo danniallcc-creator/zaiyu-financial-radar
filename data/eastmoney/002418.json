@@ -2530,5 +2530,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002418",
+    "name": "康盛股份",
+    "price": 4.24,
+    "change": 0.01,
+    "changePct": 0.24,
+    "open": 4.2,
+    "high": 4.35,
+    "low": 4.17,
+    "prevClose": 4.23,
+    "volume": 454484,
+    "amount": 19378.0,
+    "totalMV": 4818000000.0,
+    "circMV": 4818000000.0,
+    "pe": 277.47,
+    "pb": 3.31,
+    "turnover": 4.0,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

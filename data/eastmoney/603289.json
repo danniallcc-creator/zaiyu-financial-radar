@@ -2545,5 +2545,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603289",
+    "name": "泰瑞机器",
+    "price": 9.12,
+    "change": 0.06,
+    "changePct": 0.66,
+    "open": 9.0,
+    "high": 9.23,
+    "low": 8.88,
+    "prevClose": 9.06,
+    "volume": 43296,
+    "amount": 3923.0,
+    "totalMV": 2676000000.0,
+    "circMV": 2676000000.0,
+    "pe": 34.12,
+    "pb": 1.85,
+    "turnover": 1.48,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

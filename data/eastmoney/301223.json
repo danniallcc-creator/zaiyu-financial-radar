@@ -2532,5 +2532,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301223",
+    "name": "中荣股份",
+    "price": 16.38,
+    "change": 0.32,
+    "changePct": 1.99,
+    "open": 16.07,
+    "high": 16.5,
+    "low": 15.88,
+    "prevClose": 16.06,
+    "volume": 19340,
+    "amount": 3142.0,
+    "totalMV": 3163000000.0,
+    "circMV": 3163000000.0,
+    "pe": 20.18,
+    "pb": 1.07,
+    "turnover": 1.0,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

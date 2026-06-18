@@ -2576,5 +2576,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601778",
+    "name": "晶科科技",
+    "price": 4.87,
+    "change": -0.15,
+    "changePct": -2.99,
+    "open": 4.99,
+    "high": 5.09,
+    "low": 4.84,
+    "prevClose": 5.02,
+    "volume": 1601033,
+    "amount": 78829.0,
+    "totalMV": 18131000000.0,
+    "circMV": 18131000000.0,
+    "pe": 76.86,
+    "pb": 1.15,
+    "turnover": 4.3,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

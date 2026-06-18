@@ -2553,5 +2553,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002229",
+    "name": "鸿博股份",
+    "price": 12.45,
+    "change": 0.34,
+    "changePct": 2.81,
+    "open": 12.57,
+    "high": 12.8,
+    "low": 12.25,
+    "prevClose": 12.11,
+    "volume": 399681,
+    "amount": 49926.0,
+    "totalMV": 6178000000.0,
+    "circMV": 6140000000.0,
+    "pe": -23.57,
+    "pb": 5.77,
+    "turnover": 8.1,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

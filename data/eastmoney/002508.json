@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002508",
+    "name": "老板电器",
+    "price": 15.52,
+    "change": -0.1,
+    "changePct": -0.64,
+    "open": 15.61,
+    "high": 15.66,
+    "low": 15.39,
+    "prevClose": 15.62,
+    "volume": 47750,
+    "amount": 7411.0,
+    "totalMV": 14665000000.0,
+    "circMV": 14488999999.999998,
+    "pe": 12.0,
+    "pb": 1.29,
+    "turnover": 0.51,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

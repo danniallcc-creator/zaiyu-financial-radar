@@ -2540,5 +2540,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601798",
+    "name": "蓝科高新",
+    "price": 7.11,
+    "change": -0.06,
+    "changePct": -0.84,
+    "open": 7.16,
+    "high": 7.23,
+    "low": 7.02,
+    "prevClose": 7.17,
+    "volume": 62819,
+    "amount": 4480.0,
+    "totalMV": 2521000000.0,
+    "circMV": 2521000000.0,
+    "pe": 46.29,
+    "pb": 1.95,
+    "turnover": 1.77,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

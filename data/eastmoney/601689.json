@@ -2634,5 +2634,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601689",
+    "name": "拓普集团",
+    "price": 62.3,
+    "change": 2.19,
+    "changePct": 3.64,
+    "open": 59.84,
+    "high": 62.86,
+    "low": 59.84,
+    "prevClose": 60.11,
+    "volume": 438987,
+    "amount": 270577.0,
+    "totalMV": 108267000000.0,
+    "circMV": 108267000000.0,
+    "pe": 39.15,
+    "pb": 4.56,
+    "turnover": 2.53,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

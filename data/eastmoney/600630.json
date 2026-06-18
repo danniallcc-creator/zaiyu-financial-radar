@@ -2563,5 +2563,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600630",
+    "name": "龙头股份",
+    "price": 8.47,
+    "change": -0.39,
+    "changePct": -4.4,
+    "open": 8.86,
+    "high": 8.87,
+    "low": 7.97,
+    "prevClose": 8.86,
+    "volume": 372413,
+    "amount": 31113.0,
+    "totalMV": 3599000000.0,
+    "circMV": 3599000000.0,
+    "pe": 67.08,
+    "pb": 4.42,
+    "turnover": 8.77,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

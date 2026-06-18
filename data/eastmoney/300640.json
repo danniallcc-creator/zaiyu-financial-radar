@@ -2630,5 +2630,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300640",
+    "name": "德艺文创",
+    "price": 5.71,
+    "change": -0.08,
+    "changePct": -1.38,
+    "open": 5.77,
+    "high": 5.82,
+    "low": 5.66,
+    "prevClose": 5.79,
+    "volume": 73466,
+    "amount": 4209.0,
+    "totalMV": 1776000000.0000002,
+    "circMV": 1260000000.0,
+    "pe": 172.66,
+    "pb": 2.21,
+    "turnover": 3.33,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

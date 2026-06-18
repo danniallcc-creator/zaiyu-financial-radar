@@ -2662,5 +2662,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002209",
+    "name": "达 意 隆",
+    "price": 11.0,
+    "change": -0.06,
+    "changePct": -0.54,
+    "open": 10.98,
+    "high": 11.08,
+    "low": 10.86,
+    "prevClose": 11.06,
+    "volume": 44118,
+    "amount": 4848.0,
+    "totalMV": 2250000000.0,
+    "circMV": 1721000000.0,
+    "pe": 20.38,
+    "pb": 2.5,
+    "turnover": 2.82,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

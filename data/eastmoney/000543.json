@@ -2647,5 +2647,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000543",
+    "name": "皖能电力",
+    "price": 8.02,
+    "change": -0.55,
+    "changePct": -6.42,
+    "open": 8.51,
+    "high": 8.54,
+    "low": 8.0,
+    "prevClose": 8.57,
+    "volume": 806824,
+    "amount": 66224.0,
+    "totalMV": 18180000000.0,
+    "circMV": 18180000000.0,
+    "pe": 8.46,
+    "pb": 1.04,
+    "turnover": 3.56,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

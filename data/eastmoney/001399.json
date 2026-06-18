@@ -1525,5 +1525,24 @@
         "price": null
       }
     ]
+  },
+  "quote": {
+    "code": "001399",
+    "name": "惠科股份",
+    "price": 10.12,
+    "change": 0.0,
+    "changePct": 0.0,
+    "open": 0.0,
+    "high": 0.0,
+    "low": 0.0,
+    "prevClose": 10.12,
+    "volume": 0,
+    "amount": 0.0,
+    "totalMV": 73854000000.0,
+    "circMV": 0.0,
+    "pe": 19.51,
+    "pb": 2.2,
+    "turnover": null,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

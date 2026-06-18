@@ -2581,5 +2581,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601718",
+    "name": "ST际华",
+    "price": 1.69,
+    "change": -0.06,
+    "changePct": -3.43,
+    "open": 1.76,
+    "high": 1.77,
+    "low": 1.69,
+    "prevClose": 1.75,
+    "volume": 396246,
+    "amount": 6835.0,
+    "totalMV": 7370000000.0,
+    "circMV": 7370000000.0,
+    "pe": -17.42,
+    "pb": 0.61,
+    "turnover": 0.91,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

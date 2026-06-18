@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000568",
+    "name": "泸州老窖",
+    "price": 80.93,
+    "change": -2.01,
+    "changePct": -2.42,
+    "open": 82.56,
+    "high": 82.75,
+    "low": 80.5,
+    "prevClose": 82.94,
+    "volume": 116279,
+    "amount": 94455.0,
+    "totalMV": 119121000000.0,
+    "circMV": 119053000000.0,
+    "pe": 11.98,
+    "pb": 2.31,
+    "turnover": 0.79,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

@@ -2565,5 +2565,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000025",
+    "name": "特  力Ａ",
+    "price": 15.37,
+    "change": -0.5,
+    "changePct": -3.15,
+    "open": 15.7,
+    "high": 16.3,
+    "low": 15.28,
+    "prevClose": 15.87,
+    "volume": 94710,
+    "amount": 14800.0,
+    "totalMV": 6625000000.0,
+    "circMV": 6037000000.0,
+    "pe": 46.69,
+    "pb": 3.56,
+    "turnover": 2.41,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

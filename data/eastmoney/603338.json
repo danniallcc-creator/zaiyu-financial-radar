@@ -2662,5 +2662,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603338",
+    "name": "浙江鼎力",
+    "price": 46.68,
+    "change": -1.27,
+    "changePct": -2.65,
+    "open": 47.9,
+    "high": 48.24,
+    "low": 46.68,
+    "prevClose": 47.95,
+    "volume": 53185,
+    "amount": 25164.0,
+    "totalMV": 23636000000.0,
+    "circMV": 23636000000.0,
+    "pe": 12.29,
+    "pb": 2.0,
+    "turnover": 1.05,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

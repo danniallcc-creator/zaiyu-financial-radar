@@ -2588,5 +2588,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "605555",
+    "name": "XD德昌股",
+    "price": 14.72,
+    "change": -0.23,
+    "changePct": -1.54,
+    "open": 14.9,
+    "high": 15.07,
+    "low": 14.52,
+    "prevClose": 14.95,
+    "volume": 77150,
+    "amount": 11326.0,
+    "totalMV": 7125000000.0,
+    "circMV": 7125000000.0,
+    "pe": 75.57,
+    "pb": 2.49,
+    "turnover": 1.59,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

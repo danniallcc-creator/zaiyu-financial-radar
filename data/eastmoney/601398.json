@@ -1738,5 +1738,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601398",
+    "name": "工商银行",
+    "price": 7.16,
+    "change": -0.2,
+    "changePct": -2.72,
+    "open": 7.34,
+    "high": 7.35,
+    "low": 7.15,
+    "prevClose": 7.36,
+    "volume": 4509667,
+    "amount": 324884.0,
+    "totalMV": 2551869000000.0,
+    "circMV": 1930423000000.0,
+    "pe": 6.87,
+    "pb": 0.66,
+    "turnover": 0.17,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

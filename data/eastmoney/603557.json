@@ -2530,5 +2530,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603557",
+    "name": "*ST起步",
+    "price": 4.36,
+    "change": 0.21,
+    "changePct": 5.06,
+    "open": 4.16,
+    "high": 4.36,
+    "low": 4.16,
+    "prevClose": 4.15,
+    "volume": 63458,
+    "amount": 2735.0,
+    "totalMV": 2718000000.0,
+    "circMV": 2718000000.0,
+    "pe": -16.57,
+    "pb": 48.57,
+    "turnover": 1.02,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

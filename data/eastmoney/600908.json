@@ -1652,5 +1652,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600908",
+    "name": "无锡银行",
+    "price": 5.32,
+    "change": -0.14,
+    "changePct": -2.56,
+    "open": 5.45,
+    "high": 5.47,
+    "low": 5.31,
+    "prevClose": 5.46,
+    "volume": 162090,
+    "amount": 8691.0,
+    "totalMV": 11676000000.0,
+    "circMV": 10636000000.0,
+    "pe": 5.02,
+    "pb": 0.5,
+    "turnover": 0.81,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

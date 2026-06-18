@@ -2564,5 +2564,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603661",
+    "name": "恒林股份",
+    "price": 32.48,
+    "change": -1.16,
+    "changePct": -3.45,
+    "open": 33.43,
+    "high": 34.17,
+    "low": 32.46,
+    "prevClose": 33.64,
+    "volume": 52795,
+    "amount": 17414.0,
+    "totalMV": 4517000000.0,
+    "circMV": 4517000000.0,
+    "pe": 26.42,
+    "pb": 1.22,
+    "turnover": 3.8,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

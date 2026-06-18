@@ -2570,5 +2570,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "001332",
+    "name": "锡装股份",
+    "price": 46.52,
+    "change": 0.23,
+    "changePct": 0.5,
+    "open": 45.75,
+    "high": 47.6,
+    "low": 45.56,
+    "prevClose": 46.29,
+    "volume": 41939,
+    "amount": 19483.0,
+    "totalMV": 7195999999.999999,
+    "circMV": 3126000000.0,
+    "pe": 26.44,
+    "pb": 2.76,
+    "turnover": 6.24,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

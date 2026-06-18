@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600320",
+    "name": "振华重工",
+    "price": 4.41,
+    "change": -0.11,
+    "changePct": -2.43,
+    "open": 4.47,
+    "high": 4.52,
+    "low": 4.4,
+    "prevClose": 4.52,
+    "volume": 326125,
+    "amount": 14481.0,
+    "totalMV": 23181000000.0,
+    "circMV": 14597999999.999998,
+    "pe": 27.18,
+    "pb": 1.45,
+    "turnover": 0.99,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

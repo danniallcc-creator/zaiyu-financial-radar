@@ -2509,5 +2509,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002571",
+    "name": "德力股份",
+    "price": 10.85,
+    "change": -0.4,
+    "changePct": -3.56,
+    "open": 11.1,
+    "high": 11.24,
+    "low": 10.82,
+    "prevClose": 11.25,
+    "volume": 92454,
+    "amount": 10115.0,
+    "totalMV": 4253000000.0,
+    "circMV": 3236999999.9999995,
+    "pe": -17.02,
+    "pb": 5.34,
+    "turnover": 3.1,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

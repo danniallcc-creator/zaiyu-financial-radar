@@ -2662,5 +2662,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002641",
+    "name": "公元股份",
+    "price": 4.09,
+    "change": -0.21,
+    "changePct": -4.88,
+    "open": 4.28,
+    "high": 4.28,
+    "low": 4.09,
+    "prevClose": 4.3,
+    "volume": 251746,
+    "amount": 10421.0,
+    "totalMV": 5027000000.0,
+    "circMV": 4638000000.0,
+    "pe": 72.93,
+    "pb": 0.93,
+    "turnover": 2.22,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

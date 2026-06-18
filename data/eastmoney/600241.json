@@ -2594,5 +2594,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600241",
+    "name": "时代万恒",
+    "price": 6.98,
+    "change": -0.11,
+    "changePct": -1.55,
+    "open": 7.09,
+    "high": 7.11,
+    "low": 6.95,
+    "prevClose": 7.09,
+    "volume": 50327,
+    "amount": 3529.0,
+    "totalMV": 2054000000.0,
+    "circMV": 2054000000.0,
+    "pe": -13.93,
+    "pb": 2.01,
+    "turnover": 1.71,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

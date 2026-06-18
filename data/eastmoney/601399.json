@@ -2474,5 +2474,24 @@
         "navRatio": 0.36
       }
     ]
+  },
+  "quote": {
+    "code": "601399",
+    "name": "国机重装",
+    "price": 3.66,
+    "change": -0.05,
+    "changePct": -1.35,
+    "open": 3.68,
+    "high": 3.74,
+    "low": 3.64,
+    "prevClose": 3.71,
+    "volume": 610370,
+    "amount": 22456.0,
+    "totalMV": 26402000000.0,
+    "circMV": 26402000000.0,
+    "pe": 55.06,
+    "pb": 1.77,
+    "turnover": 0.85,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

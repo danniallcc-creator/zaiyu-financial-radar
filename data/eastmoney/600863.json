@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600863",
+    "name": "华能蒙电",
+    "price": 5.36,
+    "change": -0.32,
+    "changePct": -5.63,
+    "open": 5.76,
+    "high": 5.94,
+    "low": 5.31,
+    "prevClose": 5.68,
+    "volume": 3431623,
+    "amount": 192193.0,
+    "totalMV": 41997000000.0,
+    "circMV": 34984000000.0,
+    "pe": 18.53,
+    "pb": 2.01,
+    "turnover": 5.26,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

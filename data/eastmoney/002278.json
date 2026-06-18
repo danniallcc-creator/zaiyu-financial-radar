@@ -2571,5 +2571,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002278",
+    "name": "神开股份",
+    "price": 8.25,
+    "change": -0.03,
+    "changePct": -0.36,
+    "open": 8.2,
+    "high": 8.36,
+    "low": 8.12,
+    "prevClose": 8.28,
+    "volume": 70862,
+    "amount": 5851.0,
+    "totalMV": 3206000000.0,
+    "circMV": 2745000000.0,
+    "pe": 90.88,
+    "pb": 2.32,
+    "turnover": 2.13,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

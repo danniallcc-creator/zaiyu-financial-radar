@@ -2556,5 +2556,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300412",
+    "name": "迦南科技",
+    "price": 4.16,
+    "change": -0.01,
+    "changePct": -0.24,
+    "open": 4.15,
+    "high": 4.26,
+    "low": 4.09,
+    "prevClose": 4.17,
+    "volume": 124093,
+    "amount": 5188.0,
+    "totalMV": 2071000000.0,
+    "circMV": 1946000000.0,
+    "pe": 81.67,
+    "pb": 2.04,
+    "turnover": 2.65,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

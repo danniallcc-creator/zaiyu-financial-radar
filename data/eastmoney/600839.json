@@ -2641,5 +2641,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600839",
+    "name": "四川长虹",
+    "price": 6.78,
+    "change": -0.14,
+    "changePct": -2.02,
+    "open": 6.93,
+    "high": 6.95,
+    "low": 6.76,
+    "prevClose": 6.92,
+    "volume": 556119,
+    "amount": 37951.0,
+    "totalMV": 31298000000.0,
+    "circMV": 31289000000.0,
+    "pe": 42.19,
+    "pb": 2.03,
+    "turnover": 1.21,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

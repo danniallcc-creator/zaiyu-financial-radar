@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600801",
+    "name": "华新建材",
+    "price": 18.61,
+    "change": -0.39,
+    "changePct": -2.05,
+    "open": 18.86,
+    "high": 19.28,
+    "low": 18.43,
+    "prevClose": 19.0,
+    "volume": 139390,
+    "amount": 26135.0,
+    "totalMV": 38690000000.0,
+    "circMV": 24969000000.0,
+    "pe": 11.91,
+    "pb": 1.19,
+    "turnover": 1.04,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

@@ -2606,5 +2606,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300813",
+    "name": "泰林生物",
+    "price": 19.58,
+    "change": 0.02,
+    "changePct": 0.1,
+    "open": 19.42,
+    "high": 19.94,
+    "low": 19.24,
+    "prevClose": 19.56,
+    "volume": 15521,
+    "amount": 3050.0,
+    "totalMV": 2373000000.0,
+    "circMV": 1489000000.0,
+    "pe": 133.34,
+    "pb": 2.94,
+    "turnover": 2.04,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

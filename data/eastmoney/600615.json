@@ -2612,5 +2612,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600615",
+    "name": "鑫源智造",
+    "price": 10.57,
+    "change": -0.47,
+    "changePct": -4.26,
+    "open": 11.1,
+    "high": 11.1,
+    "low": 10.44,
+    "prevClose": 11.04,
+    "volume": 89585,
+    "amount": 9549.0,
+    "totalMV": 2385000000.0,
+    "circMV": 2381000000.0,
+    "pe": -171.63,
+    "pb": 3.3,
+    "turnover": 3.98,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

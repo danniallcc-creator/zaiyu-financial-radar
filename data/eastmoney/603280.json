@@ -2574,5 +2574,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603280",
+    "name": "南方路机",
+    "price": 27.2,
+    "change": -0.18,
+    "changePct": -0.66,
+    "open": 27.35,
+    "high": 27.48,
+    "low": 26.68,
+    "prevClose": 27.38,
+    "volume": 10864,
+    "amount": 2945.0,
+    "totalMV": 2949000000.0,
+    "circMV": 2949000000.0,
+    "pe": 30.99,
+    "pb": 2.13,
+    "turnover": 1.0,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

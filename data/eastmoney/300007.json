@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300007",
+    "name": "汉威科技",
+    "price": 39.93,
+    "change": 0.88,
+    "changePct": 2.25,
+    "open": 38.72,
+    "high": 40.16,
+    "low": 38.26,
+    "prevClose": 39.05,
+    "volume": 139407,
+    "amount": 55165.0,
+    "totalMV": 13075000000.0,
+    "circMV": 11298000000.0,
+    "pe": 78.47,
+    "pb": 4.45,
+    "turnover": 4.93,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

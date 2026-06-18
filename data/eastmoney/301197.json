@@ -2574,5 +2574,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301197",
+    "name": "工大科雅",
+    "price": 31.37,
+    "change": -0.74,
+    "changePct": -2.3,
+    "open": 31.79,
+    "high": 32.1,
+    "low": 30.7,
+    "prevClose": 32.11,
+    "volume": 42135,
+    "amount": 13165.0,
+    "totalMV": 3781000000.0,
+    "circMV": 3411000000.0,
+    "pe": 165.37,
+    "pb": 2.86,
+    "turnover": 3.87,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

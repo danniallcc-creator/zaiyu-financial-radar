@@ -2642,5 +2642,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002674",
+    "name": "兴业科技",
+    "price": 17.9,
+    "change": 1.63,
+    "changePct": 10.02,
+    "open": 16.02,
+    "high": 17.9,
+    "low": 16.01,
+    "prevClose": 16.27,
+    "volume": 233087,
+    "amount": 40618.0,
+    "totalMV": 5290000000.0,
+    "circMV": 5237000000.0,
+    "pe": 50.35,
+    "pb": 2.16,
+    "turnover": 7.97,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

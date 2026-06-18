@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002014",
+    "name": "永新股份",
+    "price": 10.32,
+    "change": -0.27,
+    "changePct": -2.55,
+    "open": 10.53,
+    "high": 10.57,
+    "low": 10.21,
+    "prevClose": 10.59,
+    "volume": 28644,
+    "amount": 2955.0,
+    "totalMV": 6321000000.0,
+    "circMV": 6220000000.0,
+    "pe": 14.37,
+    "pb": 2.63,
+    "turnover": 0.48,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

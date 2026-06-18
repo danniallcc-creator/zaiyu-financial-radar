@@ -2530,5 +2530,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "003006",
+    "name": "百亚股份",
+    "price": 14.81,
+    "change": -0.28,
+    "changePct": -1.86,
+    "open": 15.1,
+    "high": 15.18,
+    "low": 14.66,
+    "prevClose": 15.09,
+    "volume": 41078,
+    "amount": 6081.0,
+    "totalMV": 6363000000.0,
+    "circMV": 6347000000.0,
+    "pe": 28.78,
+    "pb": 4.53,
+    "turnover": 0.96,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

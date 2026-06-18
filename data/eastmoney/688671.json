@@ -2506,5 +2506,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688671",
+    "name": "碧兴物联",
+    "price": 30.78,
+    "change": 5.13,
+    "changePct": 20.0,
+    "open": 25.59,
+    "high": 30.78,
+    "low": 25.18,
+    "prevClose": 25.65,
+    "volume": 5812185,
+    "amount": 16988.0,
+    "totalMV": 2417000000.0,
+    "circMV": 1442000000.0,
+    "pe": -26.17,
+    "pb": 2.42,
+    "turnover": 12.41,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

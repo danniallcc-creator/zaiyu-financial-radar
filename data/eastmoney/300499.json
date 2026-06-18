@@ -2601,5 +2601,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300499",
+    "name": "高澜股份",
+    "price": 38.86,
+    "change": 0.28,
+    "changePct": 0.73,
+    "open": 38.68,
+    "high": 39.58,
+    "low": 38.39,
+    "prevClose": 38.58,
+    "volume": 214108,
+    "amount": 83318.0,
+    "totalMV": 11862000000.0,
+    "circMV": 10547000000.0,
+    "pe": 388.5,
+    "pb": 8.64,
+    "turnover": 7.89,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

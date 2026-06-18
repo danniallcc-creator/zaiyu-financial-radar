@@ -2664,5 +2664,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600760",
+    "name": "中航沈飞",
+    "price": 41.27,
+    "change": -0.87,
+    "changePct": -2.06,
+    "open": 41.91,
+    "high": 42.28,
+    "low": 41.1,
+    "prevClose": 42.14,
+    "volume": 153473,
+    "amount": 63796.0,
+    "totalMV": 117004000000.0,
+    "circMV": 116776000000.0,
+    "pe": 35.98,
+    "pb": 5.08,
+    "turnover": 0.54,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

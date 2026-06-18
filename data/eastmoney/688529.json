@@ -2529,5 +2529,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688529",
+    "name": "豪森智能",
+    "price": 17.35,
+    "change": 0.13,
+    "changePct": 0.75,
+    "open": 17.22,
+    "high": 17.98,
+    "low": 17.0,
+    "prevClose": 17.22,
+    "volume": 1907761,
+    "amount": 3330.0,
+    "totalMV": 2918000000.0,
+    "circMV": 2918000000.0,
+    "pe": -2.91,
+    "pb": 2.95,
+    "turnover": 1.13,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

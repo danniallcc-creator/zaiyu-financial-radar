@@ -2537,5 +2537,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688698",
+    "name": "伟创电气",
+    "price": 59.73,
+    "change": 1.43,
+    "changePct": 2.45,
+    "open": 59.0,
+    "high": 60.73,
+    "low": 57.56,
+    "prevClose": 58.3,
+    "volume": 6633775,
+    "amount": 39318.0,
+    "totalMV": 12784000000.0,
+    "circMV": 12784000000.0,
+    "pe": 50.25,
+    "pb": 5.51,
+    "turnover": 3.1,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

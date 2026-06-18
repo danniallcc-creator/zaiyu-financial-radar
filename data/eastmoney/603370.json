@@ -2158,5 +2158,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603370",
+    "name": "华新精科",
+    "price": 41.84,
+    "change": 0.16,
+    "changePct": 0.38,
+    "open": 41.55,
+    "high": 42.1,
+    "low": 41.14,
+    "prevClose": 41.68,
+    "volume": 6855,
+    "amount": 2862.0,
+    "totalMV": 7320000000.0,
+    "circMV": 1464000000.0,
+    "pe": 48.95,
+    "pb": 3.81,
+    "turnover": 1.96,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

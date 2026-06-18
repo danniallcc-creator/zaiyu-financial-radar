@@ -2581,5 +2581,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603969",
+    "name": "银龙股份",
+    "price": 7.35,
+    "change": -0.02,
+    "changePct": -0.27,
+    "open": 7.4,
+    "high": 7.44,
+    "low": 7.1,
+    "prevClose": 7.37,
+    "volume": 179407,
+    "amount": 13041.0,
+    "totalMV": 6406000000.0,
+    "circMV": 6245000000.0,
+    "pe": 17.71,
+    "pb": 2.26,
+    "turnover": 2.11,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

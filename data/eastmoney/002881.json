@@ -2548,5 +2548,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002881",
+    "name": "美格智能",
+    "price": 43.68,
+    "change": 2.08,
+    "changePct": 5.0,
+    "open": 41.6,
+    "high": 44.33,
+    "low": 41.03,
+    "prevClose": 41.6,
+    "volume": 122194,
+    "amount": 52967.0,
+    "totalMV": 13194000000.0,
+    "circMV": 7948999999.999999,
+    "pe": 92.22,
+    "pb": 4.84,
+    "turnover": 6.71,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

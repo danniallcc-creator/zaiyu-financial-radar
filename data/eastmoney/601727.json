@@ -2625,5 +2625,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601727",
+    "name": "上海电气",
+    "price": 7.31,
+    "change": -0.11,
+    "changePct": -1.48,
+    "open": 7.43,
+    "high": 7.48,
+    "low": 7.28,
+    "prevClose": 7.42,
+    "volume": 1121861,
+    "amount": 82440.0,
+    "totalMV": 113598000000.0,
+    "circMV": 92220000000.0,
+    "pe": 87.76,
+    "pb": 2.07,
+    "turnover": 0.89,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

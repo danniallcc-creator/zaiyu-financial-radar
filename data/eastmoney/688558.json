@@ -2590,5 +2590,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688558",
+    "name": "国盛智科",
+    "price": 34.28,
+    "change": 0.54,
+    "changePct": 1.6,
+    "open": 33.67,
+    "high": 34.75,
+    "low": 33.3,
+    "prevClose": 33.74,
+    "volume": 2444155,
+    "amount": 8348.0,
+    "totalMV": 4525000000.0,
+    "circMV": 4525000000.0,
+    "pe": 27.65,
+    "pb": 2.73,
+    "turnover": 1.85,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

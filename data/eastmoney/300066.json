@@ -2596,5 +2596,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300066",
+    "name": "三川智慧",
+    "price": 6.95,
+    "change": 0.57,
+    "changePct": 8.93,
+    "open": 6.21,
+    "high": 6.97,
+    "low": 6.18,
+    "prevClose": 6.38,
+    "volume": 1332566,
+    "amount": 89723.0,
+    "totalMV": 7228000000.0,
+    "circMV": 6937000000.0,
+    "pe": 51.35,
+    "pb": 2.81,
+    "turnover": 13.35,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

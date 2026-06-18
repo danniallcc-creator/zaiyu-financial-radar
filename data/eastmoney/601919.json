@@ -2658,5 +2658,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601919",
+    "name": "中远海控",
+    "price": 13.8,
+    "change": -0.24,
+    "changePct": -1.71,
+    "open": 14.05,
+    "high": 14.12,
+    "low": 13.8,
+    "prevClose": 14.04,
+    "volume": 1257202,
+    "amount": 174925.0,
+    "totalMV": 211319000000.0,
+    "circMV": 173280000000.0,
+    "pe": 8.44,
+    "pb": 0.9,
+    "turnover": 1.0,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

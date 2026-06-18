@@ -2610,5 +2610,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603195",
+    "name": "公牛集团",
+    "price": 39.35,
+    "change": 0.15,
+    "changePct": 0.38,
+    "open": 39.19,
+    "high": 39.89,
+    "low": 38.98,
+    "prevClose": 39.2,
+    "volume": 44428,
+    "amount": 17523.0,
+    "totalMV": 71141000000.0,
+    "circMV": 70856000000.0,
+    "pe": 17.13,
+    "pb": 4.95,
+    "turnover": 0.25,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

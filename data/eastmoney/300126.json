@@ -2591,5 +2591,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300126",
+    "name": "锐奇股份",
+    "price": 6.14,
+    "change": -0.1,
+    "changePct": -1.6,
+    "open": 6.16,
+    "high": 6.25,
+    "low": 6.0,
+    "prevClose": 6.24,
+    "volume": 72428,
+    "amount": 4468.0,
+    "totalMV": 1866000000.0,
+    "circMV": 1293000000.0,
+    "pe": -28.94,
+    "pb": 1.88,
+    "turnover": 3.44,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

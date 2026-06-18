@@ -2587,5 +2587,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002132",
+    "name": "恒星科技",
+    "price": 5.11,
+    "change": -0.07,
+    "changePct": -1.35,
+    "open": 5.17,
+    "high": 5.24,
+    "low": 5.04,
+    "prevClose": 5.18,
+    "volume": 523936,
+    "amount": 26830.0,
+    "totalMV": 7162000000.0,
+    "circMV": 7150000000.0,
+    "pe": 102.67,
+    "pb": 2.03,
+    "turnover": 3.74,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

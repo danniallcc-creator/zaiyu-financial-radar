@@ -2503,5 +2503,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688793",
+    "name": "倍轻松",
+    "price": 16.86,
+    "change": -0.05,
+    "changePct": -0.3,
+    "open": 16.7,
+    "high": 17.02,
+    "low": 16.3,
+    "prevClose": 16.91,
+    "volume": 1766606,
+    "amount": 2962.0,
+    "totalMV": 1449000000.0,
+    "circMV": 1449000000.0,
+    "pe": -13.53,
+    "pb": 6.5,
+    "turnover": 2.06,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

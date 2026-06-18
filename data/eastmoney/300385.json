@@ -2476,5 +2476,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300385",
+    "name": "ST雪浪",
+    "price": 13.41,
+    "change": 0.05,
+    "changePct": 0.37,
+    "open": 13.2,
+    "high": 14.05,
+    "low": 12.93,
+    "prevClose": 13.36,
+    "volume": 84581,
+    "amount": 11454.0,
+    "totalMV": 4467000000.0,
+    "circMV": 3897999999.9999995,
+    "pe": -20.1,
+    "pb": -782.33,
+    "turnover": 2.91,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

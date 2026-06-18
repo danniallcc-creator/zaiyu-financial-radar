@@ -2580,5 +2580,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300173",
+    "name": "ST福能",
+    "price": 3.61,
+    "change": -0.09,
+    "changePct": -2.43,
+    "open": 3.7,
+    "high": 3.7,
+    "low": 3.6,
+    "prevClose": 3.7,
+    "volume": 67335,
+    "amount": 2454.0,
+    "totalMV": 2652000000.0,
+    "circMV": 2652000000.0,
+    "pe": -17.26,
+    "pb": 3.27,
+    "turnover": 0.92,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

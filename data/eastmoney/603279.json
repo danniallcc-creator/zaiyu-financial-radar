@@ -2570,5 +2570,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603279",
+    "name": "景津装备",
+    "price": 13.12,
+    "change": -0.04,
+    "changePct": -0.3,
+    "open": 13.05,
+    "high": 13.2,
+    "low": 12.97,
+    "prevClose": 13.16,
+    "volume": 50282,
+    "amount": 6575.0,
+    "totalMV": 7562000000.0,
+    "circMV": 7562000000.0,
+    "pe": 15.85,
+    "pb": 1.69,
+    "turnover": 0.87,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

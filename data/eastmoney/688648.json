@@ -2339,5 +2339,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688648",
+    "name": "中邮科技",
+    "price": 36.71,
+    "change": -0.11,
+    "changePct": -0.3,
+    "open": 37.68,
+    "high": 38.12,
+    "low": 36.01,
+    "prevClose": 36.82,
+    "volume": 2056049,
+    "amount": 7626.0,
+    "totalMV": 4993000000.0,
+    "circMV": 2552000000.0,
+    "pe": 8.07,
+    "pb": 2.32,
+    "turnover": 2.96,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

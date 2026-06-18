@@ -2574,5 +2574,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300371",
+    "name": "汇中股份",
+    "price": 10.43,
+    "change": -0.05,
+    "changePct": -0.48,
+    "open": 10.43,
+    "high": 10.59,
+    "low": 10.2,
+    "prevClose": 10.48,
+    "volume": 23351,
+    "amount": 2442.0,
+    "totalMV": 2098999999.9999998,
+    "circMV": 1460000000.0,
+    "pe": 31.54,
+    "pb": 1.81,
+    "turnover": 1.67,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

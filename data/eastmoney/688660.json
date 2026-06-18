@@ -2493,5 +2493,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688660",
+    "name": "电气风电",
+    "price": 9.41,
+    "change": -0.11,
+    "changePct": -1.16,
+    "open": 9.5,
+    "high": 9.5,
+    "low": 9.26,
+    "prevClose": 9.52,
+    "volume": 15469936,
+    "amount": 14519.0,
+    "totalMV": 12547000000.0,
+    "circMV": 12547000000.0,
+    "pe": -11.71,
+    "pb": 3.24,
+    "turnover": 1.16,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

@@ -2662,5 +2662,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000659",
+    "name": "珠海中富",
+    "price": 3.52,
+    "change": -0.04,
+    "changePct": -1.12,
+    "open": 3.52,
+    "high": 3.62,
+    "low": 3.47,
+    "prevClose": 3.56,
+    "volume": 230763,
+    "amount": 8177.0,
+    "totalMV": 4526000000.0,
+    "circMV": 4526000000.0,
+    "pe": -44.72,
+    "pb": 49.21,
+    "turnover": 1.79,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

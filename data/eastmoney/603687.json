@@ -2529,5 +2529,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603687",
+    "name": "大胜达",
+    "price": 19.45,
+    "change": 1.0,
+    "changePct": 5.42,
+    "open": 18.15,
+    "high": 19.8,
+    "low": 17.81,
+    "prevClose": 18.45,
+    "volume": 664983,
+    "amount": 126011.0,
+    "totalMV": 10698000000.0,
+    "circMV": 10698000000.0,
+    "pe": 154.18,
+    "pb": 3.27,
+    "turnover": 12.09,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

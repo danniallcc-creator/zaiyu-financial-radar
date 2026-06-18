@@ -2499,5 +2499,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300786",
+    "name": "国林科技",
+    "price": 21.2,
+    "change": -0.45,
+    "changePct": -2.08,
+    "open": 21.87,
+    "high": 22.09,
+    "low": 20.96,
+    "prevClose": 21.65,
+    "volume": 133267,
+    "amount": 28341.0,
+    "totalMV": 3901000000.0,
+    "circMV": 3104000000.0,
+    "pe": -459.65,
+    "pb": 3.49,
+    "turnover": 9.1,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

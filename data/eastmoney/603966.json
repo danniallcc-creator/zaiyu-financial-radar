@@ -2592,5 +2592,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603966",
+    "name": "法兰泰克",
+    "price": 9.78,
+    "change": 0.51,
+    "changePct": 5.5,
+    "open": 9.27,
+    "high": 9.89,
+    "low": 9.22,
+    "prevClose": 9.27,
+    "volume": 207042,
+    "amount": 20082.0,
+    "totalMV": 5090000000.0,
+    "circMV": 5083000000.0,
+    "pe": 20.0,
+    "pb": 2.52,
+    "turnover": 3.98,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

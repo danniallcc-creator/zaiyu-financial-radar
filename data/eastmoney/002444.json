@@ -2686,5 +2686,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002444",
+    "name": "巨星科技",
+    "price": 29.58,
+    "change": -0.18,
+    "changePct": -0.6,
+    "open": 29.83,
+    "high": 30.02,
+    "low": 29.3,
+    "prevClose": 29.76,
+    "volume": 127834,
+    "amount": 37822.0,
+    "totalMV": 35333000000.0,
+    "circMV": 33920000000.0,
+    "pe": 13.78,
+    "pb": 1.89,
+    "turnover": 1.11,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

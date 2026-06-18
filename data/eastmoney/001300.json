@@ -2564,5 +2564,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "001300",
+    "name": "三柏硕",
+    "price": 12.91,
+    "change": -0.16,
+    "changePct": -1.22,
+    "open": 13.0,
+    "high": 13.36,
+    "low": 12.61,
+    "prevClose": 13.07,
+    "volume": 53452,
+    "amount": 6925.0,
+    "totalMV": 3147000000.0,
+    "circMV": 3147000000.0,
+    "pe": -38.17,
+    "pb": 3.27,
+    "turnover": 2.19,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

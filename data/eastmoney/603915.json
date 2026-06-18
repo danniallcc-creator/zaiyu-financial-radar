@@ -2602,5 +2602,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603915",
+    "name": "国茂股份",
+    "price": 15.92,
+    "change": 0.09,
+    "changePct": 0.57,
+    "open": 15.82,
+    "high": 16.34,
+    "low": 15.71,
+    "prevClose": 15.83,
+    "volume": 87659,
+    "amount": 14036.0,
+    "totalMV": 10633000000.0,
+    "circMV": 10454000000.0,
+    "pe": 43.04,
+    "pb": 2.79,
+    "turnover": 1.33,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

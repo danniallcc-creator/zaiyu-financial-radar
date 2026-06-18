@@ -2588,5 +2588,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000837",
+    "name": "秦川机床",
+    "price": 12.2,
+    "change": 0.17,
+    "changePct": 1.41,
+    "open": 11.91,
+    "high": 12.5,
+    "low": 11.83,
+    "prevClose": 12.03,
+    "volume": 338933,
+    "amount": 41277.0,
+    "totalMV": 12482000000.0,
+    "circMV": 12290000000.0,
+    "pe": 251.28,
+    "pb": 2.53,
+    "turnover": 3.36,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

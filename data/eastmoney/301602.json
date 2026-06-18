@@ -2048,5 +2048,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301602",
+    "name": "超研股份",
+    "price": 15.0,
+    "change": -0.08,
+    "changePct": -0.53,
+    "open": 15.16,
+    "high": 15.78,
+    "low": 14.94,
+    "prevClose": 15.08,
+    "volume": 29108,
+    "amount": 4452.0,
+    "totalMV": 6425000000.0,
+    "circMV": 3127000000.0,
+    "pe": 54.12,
+    "pb": 4.69,
+    "turnover": 1.4,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

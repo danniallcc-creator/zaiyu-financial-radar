@@ -2522,5 +2522,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301336",
+    "name": "趣睡科技",
+    "price": 37.57,
+    "change": -0.23,
+    "changePct": -0.61,
+    "open": 37.61,
+    "high": 38.1,
+    "low": 36.5,
+    "prevClose": 37.8,
+    "volume": 13452,
+    "amount": 4996.0,
+    "totalMV": 1950000000.0,
+    "circMV": 1509000000.0,
+    "pe": 67.15,
+    "pb": 2.34,
+    "turnover": 3.35,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

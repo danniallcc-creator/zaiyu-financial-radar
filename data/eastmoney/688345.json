@@ -2491,5 +2491,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688345",
+    "name": "博力威",
+    "price": 52.67,
+    "change": 0.08,
+    "changePct": 0.15,
+    "open": 53.45,
+    "high": 53.45,
+    "low": 51.59,
+    "prevClose": 52.59,
+    "volume": 1537343,
+    "amount": 8052.0,
+    "totalMV": 5375000000.0,
+    "circMV": 5340000000.0,
+    "pe": 75.49,
+    "pb": 4.57,
+    "turnover": 1.52,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

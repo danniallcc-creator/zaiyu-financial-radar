@@ -2521,5 +2521,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301360",
+    "name": "荣旗科技",
+    "price": 78.29,
+    "change": 1.23,
+    "changePct": 1.6,
+    "open": 77.15,
+    "high": 79.28,
+    "low": 76.2,
+    "prevClose": 77.06,
+    "volume": 23790,
+    "amount": 18580.0,
+    "totalMV": 5464000000.0,
+    "circMV": 2667000000.0,
+    "pe": 110.69,
+    "pb": 4.59,
+    "turnover": 6.98,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

@@ -2529,5 +2529,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300621",
+    "name": "维业股份",
+    "price": 6.79,
+    "change": -0.06,
+    "changePct": -0.88,
+    "open": 6.82,
+    "high": 6.92,
+    "low": 6.62,
+    "prevClose": 6.85,
+    "volume": 46673,
+    "amount": 3159.0,
+    "totalMV": 1413000000.0,
+    "circMV": 1375000000.0,
+    "pe": -3.14,
+    "pb": 2.63,
+    "turnover": 2.3,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

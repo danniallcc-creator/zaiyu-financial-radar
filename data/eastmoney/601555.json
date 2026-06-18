@@ -1732,5 +1732,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601555",
+    "name": "东吴证券",
+    "price": 7.58,
+    "change": -0.25,
+    "changePct": -3.19,
+    "open": 7.83,
+    "high": 7.84,
+    "low": 7.55,
+    "prevClose": 7.83,
+    "volume": 378918,
+    "amount": 28992.0,
+    "totalMV": 37663000000.0,
+    "circMV": 37663000000.0,
+    "pe": 11.16,
+    "pb": 0.86,
+    "turnover": 0.76,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

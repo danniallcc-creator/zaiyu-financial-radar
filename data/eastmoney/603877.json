@@ -2559,5 +2559,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603877",
+    "name": "太平鸟",
+    "price": 12.87,
+    "change": -0.16,
+    "changePct": -1.23,
+    "open": 12.97,
+    "high": 13.03,
+    "low": 12.47,
+    "prevClose": 13.03,
+    "volume": 20089,
+    "amount": 2574.0,
+    "totalMV": 6063000000.0,
+    "circMV": 6040000000.0,
+    "pe": 32.42,
+    "pb": 1.37,
+    "turnover": 0.43,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

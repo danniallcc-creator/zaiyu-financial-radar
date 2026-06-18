@@ -2614,5 +2614,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300690",
+    "name": "双一科技",
+    "price": 23.88,
+    "change": -0.15,
+    "changePct": -0.62,
+    "open": 24.38,
+    "high": 24.38,
+    "low": 23.66,
+    "prevClose": 24.03,
+    "volume": 31261,
+    "amount": 7510.0,
+    "totalMV": 3949000000.0,
+    "circMV": 2647000000.0,
+    "pe": 26.21,
+    "pb": 2.54,
+    "turnover": 2.82,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

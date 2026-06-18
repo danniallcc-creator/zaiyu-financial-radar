@@ -2596,5 +2596,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600586",
+    "name": "金晶科技",
+    "price": 4.69,
+    "change": -0.34,
+    "changePct": -6.76,
+    "open": 4.92,
+    "high": 4.95,
+    "low": 4.67,
+    "prevClose": 5.03,
+    "volume": 535006,
+    "amount": 25259.0,
+    "totalMV": 6647000000.0,
+    "circMV": 6647000000.0,
+    "pe": -8.87,
+    "pb": 1.32,
+    "turnover": 3.77,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

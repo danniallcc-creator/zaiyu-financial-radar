@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002352",
+    "name": "顺丰控股",
+    "price": 31.55,
+    "change": -0.65,
+    "changePct": -2.02,
+    "open": 32.14,
+    "high": 32.14,
+    "low": 31.36,
+    "prevClose": 32.2,
+    "volume": 261125,
+    "amount": 82402.0,
+    "totalMV": 166120000000.0,
+    "circMV": 150494000000.0,
+    "pe": 14.56,
+    "pb": 1.69,
+    "turnover": 0.55,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

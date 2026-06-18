@@ -2596,5 +2596,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300034",
+    "name": "钢研高纳",
+    "price": 18.7,
+    "change": 0.61,
+    "changePct": 3.37,
+    "open": 18.03,
+    "high": 18.96,
+    "low": 17.88,
+    "prevClose": 18.09,
+    "volume": 200985,
+    "amount": 37380.0,
+    "totalMV": 14903000000.0,
+    "circMV": 14344000000.0,
+    "pe": 149.35,
+    "pb": 3.9,
+    "turnover": 2.62,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600841",
+    "name": "动力新科",
+    "price": 6.67,
+    "change": 0.05,
+    "changePct": 0.76,
+    "open": 6.55,
+    "high": 6.77,
+    "low": 6.55,
+    "prevClose": 6.62,
+    "volume": 110580,
+    "amount": 7383.0,
+    "totalMV": 9257000000.0,
+    "circMV": 6956999999.999999,
+    "pe": 2.97,
+    "pb": 1.44,
+    "turnover": 1.06,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

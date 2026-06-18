@@ -2530,5 +2530,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301186",
+    "name": "超达装备",
+    "price": 41.2,
+    "change": -1.44,
+    "changePct": -3.38,
+    "open": 43.0,
+    "high": 43.0,
+    "low": 41.14,
+    "prevClose": 42.64,
+    "volume": 22094,
+    "amount": 9241.0,
+    "totalMV": 4727000000.0,
+    "circMV": 4445000000.0,
+    "pe": 38.28,
+    "pb": 3.0,
+    "turnover": 2.05,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

@@ -1980,5 +1980,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301633",
+    "name": "港迪技术",
+    "price": 46.15,
+    "change": 0.0,
+    "changePct": 0.0,
+    "open": 46.11,
+    "high": 46.68,
+    "low": 45.21,
+    "prevClose": 46.15,
+    "volume": 4371,
+    "amount": 2017.0,
+    "totalMV": 2570000000.0,
+    "circMV": 1177000000.0,
+    "pe": 39.29,
+    "pb": 2.85,
+    "turnover": 1.71,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

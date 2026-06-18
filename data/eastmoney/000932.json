@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000932",
+    "name": "华菱钢铁",
+    "price": 3.64,
+    "change": -0.04,
+    "changePct": -1.09,
+    "open": 3.67,
+    "high": 3.73,
+    "low": 3.59,
+    "prevClose": 3.68,
+    "volume": 1096060,
+    "amount": 39958.0,
+    "totalMV": 24943000000.0,
+    "circMV": 24943000000.0,
+    "pe": 11.1,
+    "pb": 0.45,
+    "turnover": 1.6,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

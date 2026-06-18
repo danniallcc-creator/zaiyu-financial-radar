@@ -2541,5 +2541,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002865",
+    "name": "钧达股份",
+    "price": 63.88,
+    "change": -2.95,
+    "changePct": -4.41,
+    "open": 66.28,
+    "high": 66.3,
+    "low": 63.5,
+    "prevClose": 66.83,
+    "volume": 212703,
+    "amount": 137350.0,
+    "totalMV": 19884000000.0,
+    "circMV": 14279000000.0,
+    "pe": -15.35,
+    "pb": 4.94,
+    "turnover": 9.52,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

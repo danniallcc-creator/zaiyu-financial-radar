@@ -2626,5 +2626,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603587",
+    "name": "地素时尚",
+    "price": 11.74,
+    "change": 0.13,
+    "changePct": 1.12,
+    "open": 11.62,
+    "high": 11.85,
+    "low": 11.48,
+    "prevClose": 11.61,
+    "volume": 18032,
+    "amount": 2110.0,
+    "totalMV": 5550000000.0,
+    "circMV": 5550000000.0,
+    "pe": 19.93,
+    "pb": 1.49,
+    "turnover": 0.38,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

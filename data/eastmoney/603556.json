@@ -2634,5 +2634,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603556",
+    "name": "海兴电力",
+    "price": 23.12,
+    "change": 0.06,
+    "changePct": 0.26,
+    "open": 23.2,
+    "high": 24.5,
+    "low": 22.92,
+    "prevClose": 23.06,
+    "volume": 87696,
+    "amount": 20633.0,
+    "totalMV": 11242000000.0,
+    "circMV": 11242000000.0,
+    "pe": 16.56,
+    "pb": 1.51,
+    "turnover": 1.8,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

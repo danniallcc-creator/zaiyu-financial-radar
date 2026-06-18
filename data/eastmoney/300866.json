@@ -2624,5 +2624,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300866",
+    "name": "安克创新",
+    "price": 117.11,
+    "change": 3.48,
+    "changePct": 3.06,
+    "open": 113.36,
+    "high": 118.0,
+    "low": 112.51,
+    "prevClose": 113.63,
+    "volume": 47708,
+    "amount": 55116.0,
+    "totalMV": 62803000000.0,
+    "circMV": 36021000000.0,
+    "pe": 24.91,
+    "pb": 6.12,
+    "turnover": 1.55,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

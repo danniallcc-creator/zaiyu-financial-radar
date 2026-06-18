@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600111",
+    "name": "北方稀土",
+    "price": 51.4,
+    "change": 1.08,
+    "changePct": 2.15,
+    "open": 50.0,
+    "high": 53.28,
+    "low": 49.8,
+    "prevClose": 50.32,
+    "volume": 1807191,
+    "amount": 936661.0,
+    "totalMV": 185814000000.0,
+    "circMV": 185814000000.0,
+    "pe": 67.86,
+    "pb": 7.4,
+    "turnover": 5.0,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

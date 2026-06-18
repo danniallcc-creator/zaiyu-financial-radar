@@ -2587,5 +2587,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600668",
+    "name": "尖峰集团",
+    "price": 7.17,
+    "change": -0.12,
+    "changePct": -1.65,
+    "open": 7.24,
+    "high": 7.27,
+    "low": 7.05,
+    "prevClose": 7.29,
+    "volume": 50182,
+    "amount": 3591.0,
+    "totalMV": 2960000000.0,
+    "circMV": 2960000000.0,
+    "pe": -15.69,
+    "pb": 0.54,
+    "turnover": 1.22,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

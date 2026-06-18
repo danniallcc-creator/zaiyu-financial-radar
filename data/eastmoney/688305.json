@@ -2491,5 +2491,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688305",
+    "name": "科德数控",
+    "price": 70.0,
+    "change": 1.3,
+    "changePct": 1.89,
+    "open": 68.7,
+    "high": 70.62,
+    "low": 67.86,
+    "prevClose": 68.7,
+    "volume": 3878686,
+    "amount": 27035.0,
+    "totalMV": 9303000000.0,
+    "circMV": 9255000000.0,
+    "pe": 103.31,
+    "pb": 4.92,
+    "turnover": 2.93,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

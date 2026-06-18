@@ -2410,5 +2410,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603391",
+    "name": "力聚热能",
+    "price": 55.61,
+    "change": -0.51,
+    "changePct": -0.91,
+    "open": 55.73,
+    "high": 56.7,
+    "low": 54.52,
+    "prevClose": 56.12,
+    "volume": 5641,
+    "amount": 3143.0,
+    "totalMV": 5061000000.0,
+    "circMV": 1265000000.0,
+    "pe": 25.81,
+    "pb": 2.37,
+    "turnover": 2.48,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

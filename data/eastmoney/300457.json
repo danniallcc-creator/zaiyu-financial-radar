@@ -2610,5 +2610,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300457",
+    "name": "赢合科技",
+    "price": 23.48,
+    "change": -1.55,
+    "changePct": -6.19,
+    "open": 25.01,
+    "high": 25.07,
+    "low": 23.26,
+    "prevClose": 25.03,
+    "volume": 304297,
+    "amount": 72341.0,
+    "totalMV": 15149000000.0,
+    "circMV": 14906000000.0,
+    "pe": 25.9,
+    "pb": 2.2,
+    "turnover": 4.79,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

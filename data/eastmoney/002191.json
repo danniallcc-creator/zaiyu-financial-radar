@@ -2581,5 +2581,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002191",
+    "name": "劲嘉股份",
+    "price": 4.02,
+    "change": 0.02,
+    "changePct": 0.5,
+    "open": 3.95,
+    "high": 4.03,
+    "low": 3.89,
+    "prevClose": 4.0,
+    "volume": 346746,
+    "amount": 13766.0,
+    "totalMV": 5684000000.0,
+    "circMV": 5639000000.0,
+    "pe": -15.12,
+    "pb": 0.96,
+    "turnover": 2.47,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

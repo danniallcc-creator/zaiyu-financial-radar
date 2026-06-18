@@ -2560,5 +2560,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300491",
+    "name": "通合科技",
+    "price": 38.88,
+    "change": 3.58,
+    "changePct": 10.14,
+    "open": 35.0,
+    "high": 39.85,
+    "low": 34.66,
+    "prevClose": 35.3,
+    "volume": 176727,
+    "amount": 67818.0,
+    "totalMV": 6908000000.0,
+    "circMV": 6127000000.0,
+    "pe": 148.98,
+    "pb": 5.72,
+    "turnover": 11.21,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

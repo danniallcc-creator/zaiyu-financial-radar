@@ -2632,5 +2632,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600963",
+    "name": "岳阳林纸",
+    "price": 3.31,
+    "change": -0.1,
+    "changePct": -2.93,
+    "open": 3.38,
+    "high": 3.41,
+    "low": 3.29,
+    "prevClose": 3.41,
+    "volume": 365323,
+    "amount": 12196.0,
+    "totalMV": 5818000000.0,
+    "circMV": 5818000000.0,
+    "pe": -21.47,
+    "pb": 0.76,
+    "turnover": 2.08,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

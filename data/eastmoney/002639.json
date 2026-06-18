@@ -2537,5 +2537,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002639",
+    "name": "雪人集团",
+    "price": 14.33,
+    "change": -0.18,
+    "changePct": -1.24,
+    "open": 14.49,
+    "high": 14.74,
+    "low": 14.1,
+    "prevClose": 14.51,
+    "volume": 316609,
+    "amount": 45565.0,
+    "totalMV": 11162000000.0,
+    "circMV": 9453000000.0,
+    "pe": 370.13,
+    "pb": 4.35,
+    "turnover": 4.8,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

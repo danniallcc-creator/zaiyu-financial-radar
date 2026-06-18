@@ -2494,5 +2494,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603685",
+    "name": "晨丰科技",
+    "price": 31.07,
+    "change": -0.73,
+    "changePct": -2.3,
+    "open": 31.5,
+    "high": 31.77,
+    "low": 30.91,
+    "prevClose": 31.8,
+    "volume": 22228,
+    "amount": 6924.0,
+    "totalMV": 7859000000.0,
+    "circMV": 6260000000.0,
+    "pe": 213.1,
+    "pb": 3.88,
+    "turnover": 1.1,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

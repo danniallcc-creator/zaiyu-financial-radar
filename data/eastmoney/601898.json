@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601898",
+    "name": "中煤能源",
+    "price": 13.5,
+    "change": -0.5,
+    "changePct": -3.57,
+    "open": 14.01,
+    "high": 14.12,
+    "low": 13.4,
+    "prevClose": 14.0,
+    "volume": 524533,
+    "amount": 71675.0,
+    "totalMV": 178992000000.0,
+    "circMV": 123552000000.0,
+    "pe": 10.08,
+    "pb": 1.09,
+    "turnover": 0.57,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

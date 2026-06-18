@@ -2537,5 +2537,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603818",
+    "name": "曲美家居",
+    "price": 2.95,
+    "change": 0.16,
+    "changePct": 5.73,
+    "open": 2.79,
+    "high": 3.07,
+    "low": 2.72,
+    "prevClose": 2.79,
+    "volume": 383963,
+    "amount": 11308.0,
+    "totalMV": 2025000000.0,
+    "circMV": 2025000000.0,
+    "pe": -14.15,
+    "pb": 0.98,
+    "turnover": 5.59,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

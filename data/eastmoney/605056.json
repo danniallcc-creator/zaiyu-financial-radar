@@ -2570,5 +2570,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "605056",
+    "name": "咸亨国际",
+    "price": 17.75,
+    "change": 0.16,
+    "changePct": 0.91,
+    "open": 17.99,
+    "high": 18.32,
+    "low": 17.41,
+    "prevClose": 17.59,
+    "volume": 58236,
+    "amount": 10442.0,
+    "totalMV": 7267000000.0,
+    "circMV": 7159999999.999999,
+    "pe": 27.52,
+    "pb": 4.25,
+    "turnover": 1.44,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

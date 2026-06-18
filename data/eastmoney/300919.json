@@ -2618,5 +2618,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300919",
+    "name": "中伟新材",
+    "price": 48.64,
+    "change": -0.63,
+    "changePct": -1.28,
+    "open": 48.98,
+    "high": 49.62,
+    "low": 48.07,
+    "prevClose": 49.27,
+    "volume": 115467,
+    "amount": 56324.0,
+    "totalMV": 50695000000.0,
+    "circMV": 44384000000.0,
+    "pe": 27.93,
+    "pb": 2.17,
+    "turnover": 1.27,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

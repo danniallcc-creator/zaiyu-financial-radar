@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000623",
+    "name": "吉林敖东",
+    "price": 17.15,
+    "change": -0.5,
+    "changePct": -2.83,
+    "open": 17.63,
+    "high": 17.7,
+    "low": 17.13,
+    "prevClose": 17.65,
+    "volume": 93292,
+    "amount": 16154.0,
+    "totalMV": 20510000000.0,
+    "circMV": 20425000000.0,
+    "pe": 7.47,
+    "pb": 0.65,
+    "turnover": 0.78,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

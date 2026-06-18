@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300015",
+    "name": "爱尔眼科",
+    "price": 8.27,
+    "change": -0.03,
+    "changePct": -0.36,
+    "open": 8.26,
+    "high": 8.38,
+    "low": 8.22,
+    "prevClose": 8.3,
+    "volume": 658668,
+    "amount": 54607.0,
+    "totalMV": 77121000000.0,
+    "circMV": 65791000000.0,
+    "pe": 22.88,
+    "pb": 3.35,
+    "turnover": 0.83,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

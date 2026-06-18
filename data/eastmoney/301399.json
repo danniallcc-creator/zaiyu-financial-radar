@@ -2499,5 +2499,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301399",
+    "name": "英特科技",
+    "price": 18.18,
+    "change": 0.33,
+    "changePct": 1.85,
+    "open": 17.74,
+    "high": 18.27,
+    "low": 17.55,
+    "prevClose": 17.85,
+    "volume": 31891,
+    "amount": 5764.0,
+    "totalMV": 3364000000.0,
+    "circMV": 994000000.0,
+    "pe": 150.59,
+    "pb": 2.59,
+    "turnover": 5.83,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

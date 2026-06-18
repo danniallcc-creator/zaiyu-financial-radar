@@ -2556,5 +2556,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300328",
+    "name": "宜安科技",
+    "price": 18.77,
+    "change": -0.51,
+    "changePct": -2.65,
+    "open": 19.57,
+    "high": 19.9,
+    "low": 18.66,
+    "prevClose": 19.28,
+    "volume": 584225,
+    "amount": 112385.0,
+    "totalMV": 12959000000.0,
+    "circMV": 12896000000.0,
+    "pe": -421.93,
+    "pb": 12.6,
+    "turnover": 8.5,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

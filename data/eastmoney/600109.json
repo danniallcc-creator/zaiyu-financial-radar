@@ -1681,5 +1681,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600109",
+    "name": "国金证券",
+    "price": 8.44,
+    "change": -0.23,
+    "changePct": -2.65,
+    "open": 8.63,
+    "high": 8.68,
+    "low": 8.38,
+    "prevClose": 8.67,
+    "volume": 369013,
+    "amount": 31314.0,
+    "totalMV": 31273000000.0,
+    "circMV": 31273000000.0,
+    "pe": 13.1,
+    "pb": 0.87,
+    "turnover": 1.0,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

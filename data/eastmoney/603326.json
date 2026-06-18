@@ -2562,5 +2562,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603326",
+    "name": "我乐家居",
+    "price": 6.6,
+    "change": -0.01,
+    "changePct": -0.15,
+    "open": 6.59,
+    "high": 6.68,
+    "low": 6.4,
+    "prevClose": 6.61,
+    "volume": 33189,
+    "amount": 2185.0,
+    "totalMV": 2107000000.0,
+    "circMV": 2107000000.0,
+    "pe": 14.71,
+    "pb": 1.89,
+    "turnover": 1.04,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002244",
+    "name": "滨江集团",
+    "price": 8.37,
+    "change": -0.19,
+    "changePct": -2.22,
+    "open": 8.55,
+    "high": 8.59,
+    "low": 8.2,
+    "prevClose": 8.56,
+    "volume": 233916,
+    "amount": 19612.0,
+    "totalMV": 26043000000.0,
+    "circMV": 23081000000.0,
+    "pe": 13.35,
+    "pb": 0.86,
+    "turnover": 0.85,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

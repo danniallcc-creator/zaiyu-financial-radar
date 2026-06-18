@@ -2686,5 +2686,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601058",
+    "name": "赛轮轮胎",
+    "price": 11.5,
+    "change": -0.3,
+    "changePct": -2.54,
+    "open": 11.81,
+    "high": 11.86,
+    "low": 11.4,
+    "prevClose": 11.8,
+    "volume": 512561,
+    "amount": 59068.0,
+    "totalMV": 37813000000.0,
+    "circMV": 37813000000.0,
+    "pe": 10.68,
+    "pb": 1.73,
+    "turnover": 1.56,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

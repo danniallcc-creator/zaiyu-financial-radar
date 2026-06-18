@@ -2537,5 +2537,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300557",
+    "name": "理工光科",
+    "price": 32.87,
+    "change": 1.82,
+    "changePct": 5.86,
+    "open": 30.88,
+    "high": 33.35,
+    "low": 29.91,
+    "prevClose": 31.05,
+    "volume": 141128,
+    "amount": 45000.0,
+    "totalMV": 5165000000.0,
+    "circMV": 5102000000.0,
+    "pe": 109.54,
+    "pb": 5.22,
+    "turnover": 9.09,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

@@ -2577,5 +2577,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002767",
+    "name": "先锋电子",
+    "price": 17.35,
+    "change": 0.12,
+    "changePct": 0.7,
+    "open": 17.24,
+    "high": 17.64,
+    "low": 16.52,
+    "prevClose": 17.23,
+    "volume": 31798,
+    "amount": 5490.0,
+    "totalMV": 2603000000.0,
+    "circMV": 2259000000.0,
+    "pe": 103.05,
+    "pb": 3.02,
+    "turnover": 2.44,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

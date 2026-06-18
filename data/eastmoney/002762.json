@@ -2602,5 +2602,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002762",
+    "name": "*ST金比",
+    "price": 8.77,
+    "change": 0.0,
+    "changePct": 0.0,
+    "open": 0.0,
+    "high": 0.0,
+    "low": 0.0,
+    "prevClose": 8.77,
+    "volume": 0,
+    "amount": 0.0,
+    "totalMV": 3105000000.0,
+    "circMV": 1854000000.0,
+    "pe": -16.81,
+    "pb": 4.77,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

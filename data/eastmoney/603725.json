@@ -2541,5 +2541,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603725",
+    "name": "天安新材",
+    "price": 11.13,
+    "change": 0.7,
+    "changePct": 6.71,
+    "open": 10.49,
+    "high": 11.2,
+    "low": 10.45,
+    "prevClose": 10.43,
+    "volume": 174544,
+    "amount": 18909.0,
+    "totalMV": 3393000000.0,
+    "circMV": 3190000000.0,
+    "pe": 29.31,
+    "pb": 3.94,
+    "turnover": 6.09,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

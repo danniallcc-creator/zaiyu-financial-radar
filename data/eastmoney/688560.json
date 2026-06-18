@@ -2512,5 +2512,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688560",
+    "name": "明冠新材",
+    "price": 13.68,
+    "change": 0.05,
+    "changePct": 0.37,
+    "open": 13.57,
+    "high": 14.02,
+    "low": 13.38,
+    "prevClose": 13.63,
+    "volume": 4294757,
+    "amount": 5881.0,
+    "totalMV": 2754000000.0,
+    "circMV": 2754000000.0,
+    "pe": -20.48,
+    "pb": 1.07,
+    "turnover": 2.13,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

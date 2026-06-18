@@ -2638,5 +2638,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002790",
+    "name": "瑞尔特",
+    "price": 5.72,
+    "change": -0.11,
+    "changePct": -1.89,
+    "open": 5.82,
+    "high": 5.86,
+    "low": 5.69,
+    "prevClose": 5.83,
+    "volume": 48973,
+    "amount": 2820.0,
+    "totalMV": 2390000000.0,
+    "circMV": 1491000000.0,
+    "pe": -1045.96,
+    "pb": 1.16,
+    "turnover": 1.88,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

@@ -2604,5 +2604,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600343",
+    "name": "航天动力",
+    "price": 24.88,
+    "change": 0.38,
+    "changePct": 1.55,
+    "open": 24.22,
+    "high": 25.29,
+    "low": 24.01,
+    "prevClose": 24.5,
+    "volume": 318854,
+    "amount": 79024.0,
+    "totalMV": 15879000000.0,
+    "circMV": 15879000000.0,
+    "pe": -84.17,
+    "pb": 12.47,
+    "turnover": 5.0,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

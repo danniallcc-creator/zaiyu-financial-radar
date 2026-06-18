@@ -2588,5 +2588,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301137",
+    "name": "哈焊华通",
+    "price": 37.8,
+    "change": -1.08,
+    "changePct": -2.78,
+    "open": 38.9,
+    "high": 39.31,
+    "low": 37.77,
+    "prevClose": 38.88,
+    "volume": 50661,
+    "amount": 19376.0,
+    "totalMV": 6873000000.0,
+    "circMV": 6873000000.0,
+    "pe": 180.01,
+    "pb": 5.0,
+    "turnover": 2.79,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002050",
+    "name": "三花智控",
+    "price": 45.74,
+    "change": 1.14,
+    "changePct": 2.56,
+    "open": 44.3,
+    "high": 46.23,
+    "low": 44.18,
+    "prevClose": 44.6,
+    "volume": 1248589,
+    "amount": 567837.0,
+    "totalMV": 192475000000.0,
+    "circMV": 168515000000.0,
+    "pe": 47.09,
+    "pb": 5.9,
+    "turnover": 3.39,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

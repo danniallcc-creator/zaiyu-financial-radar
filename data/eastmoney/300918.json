@@ -2529,5 +2529,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300918",
+    "name": "南山智尚",
+    "price": 12.16,
+    "change": -0.24,
+    "changePct": -1.94,
+    "open": 12.3,
+    "high": 12.5,
+    "low": 12.08,
+    "prevClose": 12.4,
+    "volume": 70629,
+    "amount": 8640.0,
+    "totalMV": 6155000000.0,
+    "circMV": 6155000000.0,
+    "pe": 50.63,
+    "pb": 1.6,
+    "turnover": 1.4,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

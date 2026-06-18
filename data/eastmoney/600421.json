@@ -2502,5 +2502,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600421",
+    "name": "退市华嵘",
+    "price": 0.27,
+    "change": 0.01,
+    "changePct": 3.85,
+    "open": 0.26,
+    "high": 0.27,
+    "low": 0.25,
+    "prevClose": 0.26,
+    "volume": 70533,
+    "amount": 185.0,
+    "totalMV": 53000000.0,
+    "circMV": 53000000.0,
+    "pe": 7.79,
+    "pb": 3.8,
+    "turnover": 3.61,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

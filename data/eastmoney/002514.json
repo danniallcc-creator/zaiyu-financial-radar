@@ -2510,5 +2510,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002514",
+    "name": "*ST宝馨",
+    "price": 2.9,
+    "change": -0.15,
+    "changePct": -4.92,
+    "open": 3.01,
+    "high": 3.05,
+    "low": 2.9,
+    "prevClose": 3.05,
+    "volume": 440918,
+    "amount": 12897.0,
+    "totalMV": 2088000000.0,
+    "circMV": 1607000000.0,
+    "pe": -10.27,
+    "pb": -39.55,
+    "turnover": 7.96,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

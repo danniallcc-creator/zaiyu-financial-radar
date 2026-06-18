@@ -2606,5 +2606,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002530",
+    "name": "金财互联",
+    "price": 7.22,
+    "change": -0.13,
+    "changePct": -1.77,
+    "open": 7.34,
+    "high": 7.43,
+    "low": 7.18,
+    "prevClose": 7.35,
+    "volume": 133894,
+    "amount": 9754.0,
+    "totalMV": 5626000000.0,
+    "circMV": 5019000000.0,
+    "pe": 83.56,
+    "pb": 4.24,
+    "turnover": 1.93,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

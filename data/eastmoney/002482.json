@@ -2541,5 +2541,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002482",
+    "name": "广田集团",
+    "price": 1.38,
+    "change": 0.01,
+    "changePct": 0.73,
+    "open": 1.37,
+    "high": 1.48,
+    "low": 1.34,
+    "prevClose": 1.37,
+    "volume": 1234173,
+    "amount": 17361.0,
+    "totalMV": 5176000000.0,
+    "circMV": 5166000000.0,
+    "pe": -44.05,
+    "pb": 11.63,
+    "turnover": 3.3,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

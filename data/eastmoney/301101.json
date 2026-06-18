@@ -2588,5 +2588,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301101",
+    "name": "明月镜片",
+    "price": 29.59,
+    "change": -0.51,
+    "changePct": -1.69,
+    "open": 29.9,
+    "high": 30.15,
+    "low": 29.44,
+    "prevClose": 30.1,
+    "volume": 22726,
+    "amount": 6767.0,
+    "totalMV": 5963000000.0,
+    "circMV": 5767000000.0,
+    "pe": 29.53,
+    "pb": 3.47,
+    "turnover": 1.17,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

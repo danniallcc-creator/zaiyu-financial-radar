@@ -2582,5 +2582,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603311",
+    "name": "金海高科",
+    "price": 37.03,
+    "change": -3.36,
+    "changePct": -8.32,
+    "open": 39.99,
+    "high": 40.98,
+    "low": 36.35,
+    "prevClose": 40.39,
+    "volume": 241281,
+    "amount": 90830.0,
+    "totalMV": 8735000000.0,
+    "circMV": 8735000000.0,
+    "pe": 124.43,
+    "pb": 6.48,
+    "turnover": 10.23,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

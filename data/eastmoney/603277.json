@@ -2594,5 +2594,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603277",
+    "name": "银都股份",
+    "price": 10.01,
+    "change": -0.24,
+    "changePct": -2.34,
+    "open": 10.46,
+    "high": 10.5,
+    "low": 9.99,
+    "prevClose": 10.25,
+    "volume": 31168,
+    "amount": 3152.0,
+    "totalMV": 6143000000.0,
+    "circMV": 6104000000.0,
+    "pe": 18.71,
+    "pb": 2.33,
+    "turnover": 0.51,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

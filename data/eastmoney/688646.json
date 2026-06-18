@@ -2464,5 +2464,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688646",
+    "name": "ST逸飞",
+    "price": 70.97,
+    "change": 4.62,
+    "changePct": 6.96,
+    "open": 66.36,
+    "high": 71.3,
+    "low": 66.36,
+    "prevClose": 66.35,
+    "volume": 1541119,
+    "amount": 10755.0,
+    "totalMV": 6683000000.0,
+    "circMV": 4115000000.0,
+    "pe": -81.49,
+    "pb": 4.73,
+    "turnover": 2.66,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

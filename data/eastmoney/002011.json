@@ -2642,5 +2642,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002011",
+    "name": "盾安环境",
+    "price": 10.51,
+    "change": -0.28,
+    "changePct": -2.59,
+    "open": 10.77,
+    "high": 10.78,
+    "low": 10.44,
+    "prevClose": 10.79,
+    "volume": 145203,
+    "amount": 15382.0,
+    "totalMV": 11295000000.0,
+    "circMV": 11136000000.0,
+    "pe": 10.69,
+    "pb": 1.65,
+    "turnover": 1.37,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

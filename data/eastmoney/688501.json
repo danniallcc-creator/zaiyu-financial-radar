@@ -2519,5 +2519,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688501",
+    "name": "青达环保",
+    "price": 21.69,
+    "change": -0.26,
+    "changePct": -1.18,
+    "open": 21.88,
+    "high": 22.19,
+    "low": 21.32,
+    "prevClose": 21.95,
+    "volume": 1469674,
+    "amount": 3195.0,
+    "totalMV": 2694000000.0,
+    "circMV": 2694000000.0,
+    "pe": 20.04,
+    "pb": 2.34,
+    "turnover": 1.18,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

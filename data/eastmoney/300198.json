@@ -2548,5 +2548,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300198",
+    "name": "*ST纳川",
+    "price": 2.33,
+    "change": -0.02,
+    "changePct": -0.85,
+    "open": 2.36,
+    "high": 2.41,
+    "low": 2.32,
+    "prevClose": 2.35,
+    "volume": 110469,
+    "amount": 2608.0,
+    "totalMV": 2404000000.0,
+    "circMV": 2391000000.0,
+    "pe": -8.96,
+    "pb": 5.0,
+    "turnover": 1.08,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

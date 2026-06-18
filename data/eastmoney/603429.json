@@ -2598,5 +2598,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603429",
+    "name": "*ST集友",
+    "price": 10.35,
+    "change": 0.12,
+    "changePct": 1.17,
+    "open": 10.32,
+    "high": 10.57,
+    "low": 10.24,
+    "prevClose": 10.23,
+    "volume": 72665,
+    "amount": 7560.0,
+    "totalMV": 5428000000.0,
+    "circMV": 5428000000.0,
+    "pe": -227.6,
+    "pb": 4.3,
+    "turnover": 1.39,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

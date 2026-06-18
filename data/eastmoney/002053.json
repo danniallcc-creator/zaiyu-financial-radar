@@ -2662,5 +2662,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002053",
+    "name": "云南能投",
+    "price": 9.8,
+    "change": -0.32,
+    "changePct": -3.16,
+    "open": 10.01,
+    "high": 10.05,
+    "low": 9.73,
+    "prevClose": 10.12,
+    "volume": 113583,
+    "amount": 11208.0,
+    "totalMV": 9023000000.0,
+    "circMV": 9023000000.0,
+    "pe": 40.78,
+    "pb": 1.2,
+    "turnover": 1.23,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

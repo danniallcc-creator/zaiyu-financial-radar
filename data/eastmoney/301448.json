@@ -2517,5 +2517,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301448",
+    "name": "开创电气",
+    "price": 42.83,
+    "change": 3.05,
+    "changePct": 7.67,
+    "open": 39.13,
+    "high": 43.3,
+    "low": 39.13,
+    "prevClose": 39.78,
+    "volume": 28294,
+    "amount": 11814.0,
+    "totalMV": 4480000000.0,
+    "circMV": 2068000000.0,
+    "pe": -780.82,
+    "pb": 6.47,
+    "turnover": 5.86,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

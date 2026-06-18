@@ -2539,5 +2539,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300410",
+    "name": "正业科技",
+    "price": 12.89,
+    "change": -0.37,
+    "changePct": -2.79,
+    "open": 13.13,
+    "high": 13.18,
+    "low": 12.78,
+    "prevClose": 13.26,
+    "volume": 470627,
+    "amount": 60876.0,
+    "totalMV": 4732000000.0,
+    "circMV": 4732000000.0,
+    "pe": 118.1,
+    "pb": 17.16,
+    "turnover": 12.82,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

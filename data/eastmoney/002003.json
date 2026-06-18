@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002003",
+    "name": "伟星股份",
+    "price": 8.65,
+    "change": 0.02,
+    "changePct": 0.23,
+    "open": 8.64,
+    "high": 8.7,
+    "low": 8.55,
+    "prevClose": 8.63,
+    "volume": 43377,
+    "amount": 3746.0,
+    "totalMV": 10284000000.0,
+    "circMV": 8841000000.0,
+    "pe": 16.14,
+    "pb": 2.45,
+    "turnover": 0.42,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

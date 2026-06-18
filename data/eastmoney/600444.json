@@ -2553,5 +2553,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600444",
+    "name": "国机通用",
+    "price": 13.86,
+    "change": -0.06,
+    "changePct": -0.43,
+    "open": 13.75,
+    "high": 13.98,
+    "low": 13.61,
+    "prevClose": 13.92,
+    "volume": 19140,
+    "amount": 2646.0,
+    "totalMV": 2029000000.0,
+    "circMV": 2029000000.0,
+    "pe": 36.38,
+    "pb": 2.66,
+    "turnover": 1.31,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

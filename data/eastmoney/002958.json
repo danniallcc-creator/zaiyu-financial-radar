@@ -1656,5 +1656,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002958",
+    "name": "青农商行",
+    "price": 2.82,
+    "change": -0.04,
+    "changePct": -1.4,
+    "open": 2.85,
+    "high": 2.86,
+    "low": 2.8,
+    "prevClose": 2.86,
+    "volume": 450053,
+    "amount": 12711.0,
+    "totalMV": 15666999999.999998,
+    "circMV": 15338999999.999998,
+    "pe": 4.9,
+    "pb": 0.41,
+    "turnover": 0.83,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

@@ -2545,5 +2545,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300400",
+    "name": "劲拓股份",
+    "price": 44.64,
+    "change": 1.03,
+    "changePct": 2.36,
+    "open": 43.73,
+    "high": 45.58,
+    "low": 43.13,
+    "prevClose": 43.61,
+    "volume": 168522,
+    "amount": 74684.0,
+    "totalMV": 10831000000.0,
+    "circMV": 10795000000.0,
+    "pe": 127.69,
+    "pb": 15.33,
+    "turnover": 6.97,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

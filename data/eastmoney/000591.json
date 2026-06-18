@@ -2629,5 +2629,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000591",
+    "name": "太阳能",
+    "price": 4.77,
+    "change": -0.27,
+    "changePct": -5.36,
+    "open": 5.0,
+    "high": 5.01,
+    "low": 4.75,
+    "prevClose": 5.04,
+    "volume": 1113197,
+    "amount": 53756.0,
+    "totalMV": 18626000000.0,
+    "circMV": 18619000000.0,
+    "pe": 25.97,
+    "pb": 0.78,
+    "turnover": 2.85,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

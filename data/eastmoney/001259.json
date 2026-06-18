@@ -2506,5 +2506,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "001259",
+    "name": "利仁科技",
+    "price": 69.28,
+    "change": 0.33,
+    "changePct": 0.48,
+    "open": 68.0,
+    "high": 69.7,
+    "low": 64.62,
+    "prevClose": 68.95,
+    "volume": 56908,
+    "amount": 38663.0,
+    "totalMV": 5098000000.0,
+    "circMV": 3294000000.0,
+    "pe": 409.5,
+    "pb": 7.1,
+    "turnover": 11.97,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

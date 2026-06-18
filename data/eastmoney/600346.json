@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600346",
+    "name": "恒力石化",
+    "price": 17.1,
+    "change": -0.72,
+    "changePct": -4.04,
+    "open": 17.75,
+    "high": 17.77,
+    "low": 17.06,
+    "prevClose": 17.82,
+    "volume": 329366,
+    "amount": 57041.0,
+    "totalMV": 120369000000.0,
+    "circMV": 120369000000.0,
+    "pe": 13.47,
+    "pb": 1.75,
+    "turnover": 0.47,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

@@ -2603,5 +2603,24 @@
         "status": "取消分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603960",
+    "name": "克来机电",
+    "price": 21.5,
+    "change": -0.13,
+    "changePct": -0.6,
+    "open": 21.7,
+    "high": 21.99,
+    "low": 21.18,
+    "prevClose": 21.63,
+    "volume": 86432,
+    "amount": 18552.0,
+    "totalMV": 5637000000.0,
+    "circMV": 5637000000.0,
+    "pe": 266.0,
+    "pb": 5.02,
+    "turnover": 3.3,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

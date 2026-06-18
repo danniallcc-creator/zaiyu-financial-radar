@@ -2596,5 +2596,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000551",
+    "name": "创元科技",
+    "price": 15.63,
+    "change": 0.42,
+    "changePct": 2.76,
+    "open": 15.18,
+    "high": 15.65,
+    "low": 15.02,
+    "prevClose": 15.21,
+    "volume": 221372,
+    "amount": 34139.0,
+    "totalMV": 7576000000.000001,
+    "circMV": 7573000000.0,
+    "pe": 22.3,
+    "pb": 2.49,
+    "turnover": 4.57,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

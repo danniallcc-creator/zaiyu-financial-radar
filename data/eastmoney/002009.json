@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002009",
+    "name": "天奇股份",
+    "price": 20.8,
+    "change": 0.19,
+    "changePct": 0.92,
+    "open": 20.62,
+    "high": 21.05,
+    "low": 20.31,
+    "prevClose": 20.61,
+    "volume": 149624,
+    "amount": 31114.0,
+    "totalMV": 8366000000.0,
+    "circMV": 7364000000.0,
+    "pe": 226.18,
+    "pb": 4.07,
+    "turnover": 4.23,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

@@ -2611,5 +2611,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601168",
+    "name": "西部矿业",
+    "price": 31.75,
+    "change": 0.27,
+    "changePct": 0.86,
+    "open": 31.0,
+    "high": 33.57,
+    "low": 30.88,
+    "prevClose": 31.48,
+    "volume": 875107,
+    "amount": 280539.0,
+    "totalMV": 75660000000.0,
+    "circMV": 75660000000.0,
+    "pe": 17.11,
+    "pb": 3.82,
+    "turnover": 3.67,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

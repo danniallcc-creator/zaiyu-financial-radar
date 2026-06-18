@@ -2533,5 +2533,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603958",
+    "name": "哈森股份",
+    "price": 20.42,
+    "change": -0.03,
+    "changePct": -0.15,
+    "open": 20.4,
+    "high": 20.92,
+    "low": 20.0,
+    "prevClose": 20.45,
+    "volume": 47198,
+    "amount": 9693.0,
+    "totalMV": 4479000000.0,
+    "circMV": 4479000000.0,
+    "pe": -115.64,
+    "pb": 6.88,
+    "turnover": 2.15,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

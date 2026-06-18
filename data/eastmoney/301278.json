@@ -2586,5 +2586,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301278",
+    "name": "快可电子",
+    "price": 31.7,
+    "change": -0.95,
+    "changePct": -2.91,
+    "open": 32.65,
+    "high": 32.91,
+    "low": 31.6,
+    "prevClose": 32.65,
+    "volume": 15951,
+    "amount": 5133.0,
+    "totalMV": 2844000000.0,
+    "circMV": 1629000000.0,
+    "pe": 180.17,
+    "pb": 2.0,
+    "turnover": 3.1,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

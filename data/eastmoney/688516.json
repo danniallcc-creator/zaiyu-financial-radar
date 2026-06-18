@@ -2576,5 +2576,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688516",
+    "name": "奥特维",
+    "price": 61.72,
+    "change": 1.32,
+    "changePct": 2.19,
+    "open": 61.1,
+    "high": 65.3,
+    "low": 58.89,
+    "prevClose": 60.4,
+    "volume": 21873466,
+    "amount": 135401.0,
+    "totalMV": 19462000000.0,
+    "circMV": 19427000000.0,
+    "pe": 48.92,
+    "pb": 5.68,
+    "turnover": 6.95,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

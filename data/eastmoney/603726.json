@@ -2547,5 +2547,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603726",
+    "name": "XD朗迪集",
+    "price": 28.77,
+    "change": 0.24,
+    "changePct": 0.84,
+    "open": 28.54,
+    "high": 28.98,
+    "low": 28.18,
+    "prevClose": 28.53,
+    "volume": 62454,
+    "amount": 17872.0,
+    "totalMV": 5341000000.0,
+    "circMV": 5314000000.0,
+    "pe": 23.49,
+    "pb": 3.83,
+    "turnover": 3.38,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

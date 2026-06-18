@@ -1750,5 +1750,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601009",
+    "name": "南京银行",
+    "price": 10.85,
+    "change": -0.29,
+    "changePct": -2.6,
+    "open": 11.12,
+    "high": 11.14,
+    "low": 10.84,
+    "prevClose": 11.14,
+    "volume": 454364,
+    "amount": 49711.0,
+    "totalMV": 134145000000.0,
+    "circMV": 134145000000.0,
+    "pe": 6.02,
+    "pb": 0.72,
+    "turnover": 0.37,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

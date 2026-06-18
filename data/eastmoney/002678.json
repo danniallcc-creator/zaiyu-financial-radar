@@ -2572,5 +2572,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002678",
+    "name": "珠江钢琴",
+    "price": 4.7,
+    "change": -0.18,
+    "changePct": -3.69,
+    "open": 4.87,
+    "high": 4.9,
+    "low": 4.64,
+    "prevClose": 4.88,
+    "volume": 202434,
+    "amount": 9592.0,
+    "totalMV": 6384000000.0,
+    "circMV": 6381000000.0,
+    "pe": -17.36,
+    "pb": 2.1,
+    "turnover": 1.49,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

@@ -2586,5 +2586,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "001283",
+    "name": "豪鹏科技",
+    "price": 52.61,
+    "change": -0.23,
+    "changePct": -0.44,
+    "open": 53.36,
+    "high": 53.61,
+    "low": 51.8,
+    "prevClose": 52.84,
+    "volume": 51228,
+    "amount": 26945.0,
+    "totalMV": 6822000000.0,
+    "circMV": 5440000000.0,
+    "pe": 32.28,
+    "pb": 1.94,
+    "turnover": 4.95,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

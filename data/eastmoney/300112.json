@@ -2612,5 +2612,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300112",
+    "name": "万讯自控",
+    "price": 6.58,
+    "change": -0.05,
+    "changePct": -0.75,
+    "open": 6.54,
+    "high": 6.68,
+    "low": 6.42,
+    "prevClose": 6.63,
+    "volume": 71799,
+    "amount": 4716.0,
+    "totalMV": 1895000000.0,
+    "circMV": 1563000000.0,
+    "pe": -28.24,
+    "pb": 2.07,
+    "turnover": 3.02,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

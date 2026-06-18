@@ -2489,5 +2489,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603130",
+    "name": "云中马",
+    "price": 43.35,
+    "change": -0.94,
+    "changePct": -2.12,
+    "open": 44.16,
+    "high": 45.99,
+    "low": 42.65,
+    "prevClose": 44.29,
+    "volume": 28284,
+    "amount": 12452.0,
+    "totalMV": 5961000000.0,
+    "circMV": 5961000000.0,
+    "pe": 54.89,
+    "pb": 4.25,
+    "turnover": 2.06,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

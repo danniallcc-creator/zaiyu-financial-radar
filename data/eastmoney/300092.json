@@ -2569,5 +2569,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300092",
+    "name": "科新机电",
+    "price": 12.8,
+    "change": 0.03,
+    "changePct": 0.23,
+    "open": 12.73,
+    "high": 12.9,
+    "low": 12.46,
+    "prevClose": 12.77,
+    "volume": 33145,
+    "amount": 4222.0,
+    "totalMV": 3506000000.0,
+    "circMV": 2686000000.0,
+    "pe": 84.91,
+    "pb": 2.15,
+    "turnover": 1.58,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

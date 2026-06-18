@@ -2529,5 +2529,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301151",
+    "name": "冠龙节能",
+    "price": 20.69,
+    "change": 0.74,
+    "changePct": 3.71,
+    "open": 19.74,
+    "high": 20.87,
+    "low": 19.35,
+    "prevClose": 19.95,
+    "volume": 72670,
+    "amount": 14696.0,
+    "totalMV": 3497000000.0,
+    "circMV": 3493000000.0,
+    "pe": 76.16,
+    "pb": 1.71,
+    "turnover": 4.3,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

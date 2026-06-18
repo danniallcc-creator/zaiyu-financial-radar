@@ -2588,5 +2588,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603992",
+    "name": "松霖科技",
+    "price": 33.49,
+    "change": 1.27,
+    "changePct": 3.94,
+    "open": 32.0,
+    "high": 34.31,
+    "low": 31.81,
+    "prevClose": 32.22,
+    "volume": 86127,
+    "amount": 28739.0,
+    "totalMV": 14837000000.0,
+    "circMV": 14837000000.0,
+    "pe": 58.1,
+    "pb": 4.18,
+    "turnover": 1.94,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

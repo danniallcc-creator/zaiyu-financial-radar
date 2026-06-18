@@ -2174,5 +2174,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002577",
+    "name": "雷柏科技",
+    "price": 19.52,
+    "change": 1.42,
+    "changePct": 7.85,
+    "open": 18.05,
+    "high": 19.91,
+    "low": 17.95,
+    "prevClose": 18.1,
+    "volume": 144590,
+    "amount": 27955.0,
+    "totalMV": 5479000000.0,
+    "circMV": 5479000000.0,
+    "pe": -694.27,
+    "pb": 4.71,
+    "turnover": 5.15,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

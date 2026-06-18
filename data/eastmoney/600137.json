@@ -2580,5 +2580,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600137",
+    "name": "浪莎股份",
+    "price": 17.74,
+    "change": -0.21,
+    "changePct": -1.17,
+    "open": 17.83,
+    "high": 18.0,
+    "low": 17.52,
+    "prevClose": 17.95,
+    "volume": 14884,
+    "amount": 2646.0,
+    "totalMV": 1725000000.0,
+    "circMV": 1725000000.0,
+    "pe": 55.93,
+    "pb": 3.06,
+    "turnover": 1.53,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

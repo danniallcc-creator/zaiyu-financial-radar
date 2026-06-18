@@ -2632,5 +2632,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600941",
+    "name": "中国移动",
+    "price": 91.65,
+    "change": -1.33,
+    "changePct": -1.43,
+    "open": 92.98,
+    "high": 92.98,
+    "low": 91.52,
+    "prevClose": 92.98,
+    "volume": 90288,
+    "amount": 82993.0,
+    "totalMV": 1986918000000.0,
+    "circMV": 82739000000.0,
+    "pe": 14.63,
+    "pb": 1.4,
+    "turnover": 1.0,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

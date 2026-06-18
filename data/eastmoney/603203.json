@@ -2583,5 +2583,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603203",
+    "name": "快克智能",
+    "price": 60.98,
+    "change": -1.42,
+    "changePct": -2.28,
+    "open": 61.0,
+    "high": 64.28,
+    "low": 60.4,
+    "prevClose": 62.4,
+    "volume": 194344,
+    "amount": 119543.0,
+    "totalMV": 20125000000.0,
+    "circMV": 19751000000.0,
+    "pe": 134.97,
+    "pb": 14.65,
+    "turnover": 6.0,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

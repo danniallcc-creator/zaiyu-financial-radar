@@ -2564,5 +2564,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601882",
+    "name": "海天精工",
+    "price": 21.2,
+    "change": 0.51,
+    "changePct": 2.46,
+    "open": 20.69,
+    "high": 21.3,
+    "low": 20.6,
+    "prevClose": 20.69,
+    "volume": 50573,
+    "amount": 10606.0,
+    "totalMV": 11066000000.0,
+    "circMV": 11066000000.0,
+    "pe": 25.07,
+    "pb": 3.81,
+    "turnover": 0.97,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

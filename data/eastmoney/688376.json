@@ -2586,5 +2586,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688376",
+    "name": "美埃科技",
+    "price": 78.73,
+    "change": -5.01,
+    "changePct": -5.98,
+    "open": 82.91,
+    "high": 83.16,
+    "low": 77.53,
+    "prevClose": 83.74,
+    "volume": 3876687,
+    "amount": 30842.0,
+    "totalMV": 10648000000.0,
+    "circMV": 10648000000.0,
+    "pe": 96.05,
+    "pb": 5.44,
+    "turnover": 2.87,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

@@ -2521,5 +2521,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "001234",
+    "name": "泰慕士",
+    "price": 22.46,
+    "change": -0.73,
+    "changePct": -3.15,
+    "open": 23.01,
+    "high": 23.66,
+    "low": 22.4,
+    "prevClose": 23.19,
+    "volume": 35442,
+    "amount": 8193.0,
+    "totalMV": 2457000000.0,
+    "circMV": 2055000000.0,
+    "pe": 61.28,
+    "pb": 2.69,
+    "turnover": 3.87,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

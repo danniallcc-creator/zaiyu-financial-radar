@@ -2516,5 +2516,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "001268",
+    "name": "联合精密",
+    "price": 41.4,
+    "change": -0.34,
+    "changePct": -0.81,
+    "open": 41.75,
+    "high": 43.37,
+    "low": 40.92,
+    "prevClose": 41.74,
+    "volume": 24492,
+    "amount": 10298.0,
+    "totalMV": 4468000000.0,
+    "circMV": 2792000000.0,
+    "pe": 139.76,
+    "pb": 4.39,
+    "turnover": 3.63,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

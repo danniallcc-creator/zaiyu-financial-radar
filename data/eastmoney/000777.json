@@ -2515,5 +2515,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000777",
+    "name": "中核科技",
+    "price": 19.67,
+    "change": -2.19,
+    "changePct": -10.02,
+    "open": 20.45,
+    "high": 20.78,
+    "low": 19.67,
+    "prevClose": 21.86,
+    "volume": 540448,
+    "amount": 107741.0,
+    "totalMV": 7542000000.0,
+    "circMV": 7542000000.0,
+    "pe": 47.92,
+    "pb": 3.07,
+    "turnover": 14.1,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

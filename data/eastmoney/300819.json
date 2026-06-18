@@ -2604,5 +2604,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300819",
+    "name": "聚杰微纤",
+    "price": 71.15,
+    "change": 0.04,
+    "changePct": 0.06,
+    "open": 69.65,
+    "high": 71.91,
+    "low": 66.13,
+    "prevClose": 71.11,
+    "volume": 65466,
+    "amount": 45792.0,
+    "totalMV": 10616000000.0,
+    "circMV": 9588000000.0,
+    "pe": 204.66,
+    "pb": 12.33,
+    "turnover": 4.86,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

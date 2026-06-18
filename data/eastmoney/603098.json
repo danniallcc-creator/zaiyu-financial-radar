@@ -2493,5 +2493,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603098",
+    "name": "XD森特股",
+    "price": 11.71,
+    "change": 0.15,
+    "changePct": 1.3,
+    "open": 11.5,
+    "high": 11.95,
+    "low": 11.19,
+    "prevClose": 11.56,
+    "volume": 60889,
+    "amount": 7133.0,
+    "totalMV": 6320000000.0,
+    "circMV": 6309000000.0,
+    "pe": 69.83,
+    "pb": 2.25,
+    "turnover": 1.13,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

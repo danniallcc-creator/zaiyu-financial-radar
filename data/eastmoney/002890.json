@@ -2525,5 +2525,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002890",
+    "name": "弘宇股份",
+    "price": 14.59,
+    "change": -0.35,
+    "changePct": -2.34,
+    "open": 14.68,
+    "high": 14.91,
+    "low": 14.57,
+    "prevClose": 14.94,
+    "volume": 16171,
+    "amount": 2372.0,
+    "totalMV": 2478000000.0,
+    "circMV": 2356000000.0,
+    "pe": 231.87,
+    "pb": 4.09,
+    "turnover": 1.0,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

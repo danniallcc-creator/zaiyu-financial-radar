@@ -2610,5 +2610,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603898",
+    "name": "好莱客",
+    "price": 12.5,
+    "change": -0.06,
+    "changePct": -0.48,
+    "open": 12.47,
+    "high": 12.59,
+    "low": 12.36,
+    "prevClose": 12.56,
+    "volume": 23362,
+    "amount": 2910.0,
+    "totalMV": 3892000000.0,
+    "circMV": 3892000000.0,
+    "pe": -403.78,
+    "pb": 1.27,
+    "turnover": 0.75,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

@@ -2571,5 +2571,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603321",
+    "name": "XD梅轮电",
+    "price": 6.16,
+    "change": 0.03,
+    "changePct": 0.49,
+    "open": 6.15,
+    "high": 6.22,
+    "low": 6.03,
+    "prevClose": 6.13,
+    "volume": 35565,
+    "amount": 2184.0,
+    "totalMV": 2149000000.0,
+    "circMV": 2123000000.0,
+    "pe": 62.2,
+    "pb": 1.5,
+    "turnover": 1.03,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

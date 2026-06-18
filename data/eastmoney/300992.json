@@ -2534,5 +2534,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300992",
+    "name": "泰福泵业",
+    "price": 25.3,
+    "change": -0.16,
+    "changePct": -0.63,
+    "open": 25.21,
+    "high": 25.93,
+    "low": 24.69,
+    "prevClose": 25.46,
+    "volume": 19970,
+    "amount": 5039.0,
+    "totalMV": 2412000000.0,
+    "circMV": 1973000000.0,
+    "pe": -196.52,
+    "pb": 2.79,
+    "turnover": 2.56,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

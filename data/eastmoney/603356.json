@@ -2521,5 +2521,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603356",
+    "name": "华菱精工",
+    "price": 18.25,
+    "change": -0.27,
+    "changePct": -1.46,
+    "open": 18.31,
+    "high": 18.52,
+    "low": 18.0,
+    "prevClose": 18.52,
+    "volume": 38460,
+    "amount": 7015.0,
+    "totalMV": 2433000000.0,
+    "circMV": 2433000000.0,
+    "pe": -17.64,
+    "pb": 8.06,
+    "turnover": 2.88,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

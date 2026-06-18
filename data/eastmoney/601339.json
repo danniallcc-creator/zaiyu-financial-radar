@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601339",
+    "name": "XD百隆东",
+    "price": 6.91,
+    "change": -0.02,
+    "changePct": -0.29,
+    "open": 7.07,
+    "high": 7.07,
+    "low": 6.87,
+    "prevClose": 6.93,
+    "volume": 89756,
+    "amount": 6220.0,
+    "totalMV": 10362000000.0,
+    "circMV": 10362000000.0,
+    "pe": 14.29,
+    "pb": 1.15,
+    "turnover": 0.6,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

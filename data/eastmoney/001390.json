@@ -2556,5 +2556,24 @@
         "status": "股东大会决议通过"
       }
     ]
+  },
+  "quote": {
+    "code": "001390",
+    "name": "古麒绒材",
+    "price": 18.98,
+    "change": 0.17,
+    "changePct": 0.9,
+    "open": 18.7,
+    "high": 19.13,
+    "low": 18.56,
+    "prevClose": 18.81,
+    "volume": 17438,
+    "amount": 3289.0,
+    "totalMV": 3796000000.0,
+    "circMV": 2254000000.0,
+    "pe": 21.07,
+    "pb": 2.28,
+    "turnover": 1.47,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

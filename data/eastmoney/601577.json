@@ -1678,5 +1678,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601577",
+    "name": "长沙银行",
+    "price": 9.16,
+    "change": -0.23,
+    "changePct": -2.45,
+    "open": 9.42,
+    "high": 9.42,
+    "low": 9.14,
+    "prevClose": 9.39,
+    "volume": 217108,
+    "amount": 20025.0,
+    "totalMV": 36837000000.0,
+    "circMV": 36829000000.0,
+    "pe": 4.47,
+    "pb": 0.5,
+    "turnover": 0.54,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

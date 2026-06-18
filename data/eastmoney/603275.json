@@ -2446,5 +2446,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603275",
+    "name": "众辰科技",
+    "price": 41.9,
+    "change": 0.04,
+    "changePct": 0.1,
+    "open": 41.9,
+    "high": 42.38,
+    "low": 41.63,
+    "prevClose": 41.86,
+    "volume": 12562,
+    "amount": 5270.0,
+    "totalMV": 6234000000.0,
+    "circMV": 1739999999.9999998,
+    "pe": 34.39,
+    "pb": 2.07,
+    "turnover": 3.02,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

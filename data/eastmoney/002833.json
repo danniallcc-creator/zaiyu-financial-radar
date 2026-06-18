@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002833",
+    "name": "弘亚数控",
+    "price": 17.83,
+    "change": 0.24,
+    "changePct": 1.36,
+    "open": 17.46,
+    "high": 18.0,
+    "low": 17.46,
+    "prevClose": 17.59,
+    "volume": 54721,
+    "amount": 9757.0,
+    "totalMV": 7564000000.0,
+    "circMV": 5139000000.0,
+    "pe": 17.05,
+    "pb": 2.77,
+    "turnover": 1.9,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

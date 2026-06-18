@@ -2616,5 +2616,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300979",
+    "name": "华利集团",
+    "price": 31.26,
+    "change": -0.38,
+    "changePct": -1.2,
+    "open": 31.35,
+    "high": 31.75,
+    "low": 31.18,
+    "prevClose": 31.64,
+    "volume": 20964,
+    "amount": 6586.0,
+    "totalMV": 36480000000.0,
+    "circMV": 36480000000.0,
+    "pe": 12.9,
+    "pb": 2.41,
+    "turnover": 0.18,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

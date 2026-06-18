@@ -2539,5 +2539,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603617",
+    "name": "君禾股份",
+    "price": 7.37,
+    "change": -0.18,
+    "changePct": -2.38,
+    "open": 7.47,
+    "high": 7.57,
+    "low": 7.29,
+    "prevClose": 7.55,
+    "volume": 89235,
+    "amount": 6605.0,
+    "totalMV": 2873000000.0,
+    "circMV": 2850000000.0,
+    "pe": 60.41,
+    "pb": 1.87,
+    "turnover": 2.31,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

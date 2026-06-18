@@ -2641,5 +2641,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002150",
+    "name": "正泰电源",
+    "price": 26.54,
+    "change": 0.99,
+    "changePct": 3.87,
+    "open": 25.36,
+    "high": 27.1,
+    "low": 25.2,
+    "prevClose": 25.55,
+    "volume": 172040,
+    "amount": 45611.0,
+    "totalMV": 9577000000.0,
+    "circMV": 9516000000.0,
+    "pe": 34.44,
+    "pb": 4.5,
+    "turnover": 4.8,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

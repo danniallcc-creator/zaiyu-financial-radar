@@ -2662,5 +2662,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600218",
+    "name": "XD全柴动",
+    "price": 7.78,
+    "change": -0.1,
+    "changePct": -1.27,
+    "open": 7.86,
+    "high": 7.91,
+    "low": 7.76,
+    "prevClose": 7.88,
+    "volume": 39017,
+    "amount": 3049.0,
+    "totalMV": 3389000000.0,
+    "circMV": 3389000000.0,
+    "pe": 51.5,
+    "pb": 1.04,
+    "turnover": 0.9,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

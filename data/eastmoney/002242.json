@@ -2599,5 +2599,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002242",
+    "name": "九阳股份",
+    "price": 8.35,
+    "change": -0.08,
+    "changePct": -0.95,
+    "open": 8.42,
+    "high": 8.47,
+    "low": 8.3,
+    "prevClose": 8.43,
+    "volume": 49907,
+    "amount": 4185.0,
+    "totalMV": 6371000000.0,
+    "circMV": 6360000000.0,
+    "pe": 64.35,
+    "pb": 1.89,
+    "turnover": 0.66,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

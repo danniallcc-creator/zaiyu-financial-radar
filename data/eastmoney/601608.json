@@ -2598,5 +2598,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601608",
+    "name": "中信重工",
+    "price": 5.09,
+    "change": -0.08,
+    "changePct": -1.55,
+    "open": 5.15,
+    "high": 5.17,
+    "low": 5.06,
+    "prevClose": 5.17,
+    "volume": 334191,
+    "amount": 17085.0,
+    "totalMV": 23310000000.0,
+    "circMV": 23310000000.0,
+    "pe": 61.4,
+    "pb": 2.47,
+    "turnover": 0.73,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

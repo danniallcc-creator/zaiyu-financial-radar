@@ -2585,5 +2585,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002757",
+    "name": "南兴股份",
+    "price": 21.35,
+    "change": 0.28,
+    "changePct": 1.33,
+    "open": 20.92,
+    "high": 21.58,
+    "low": 20.81,
+    "prevClose": 21.07,
+    "volume": 145795,
+    "amount": 31024.0,
+    "totalMV": 6308000000.0,
+    "circMV": 6022000000.0,
+    "pe": 52.46,
+    "pb": 3.15,
+    "turnover": 5.17,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

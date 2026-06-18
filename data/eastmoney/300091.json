@@ -2644,5 +2644,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300091",
+    "name": "*ST金灵",
+    "price": 2.69,
+    "change": 0.04,
+    "changePct": 1.51,
+    "open": 2.68,
+    "high": 2.76,
+    "low": 2.67,
+    "prevClose": 2.65,
+    "volume": 124519,
+    "amount": 3385.0,
+    "totalMV": 7645000000.0,
+    "circMV": 4399000000.0,
+    "pe": -3.55,
+    "pb": 5.89,
+    "turnover": 0.76,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

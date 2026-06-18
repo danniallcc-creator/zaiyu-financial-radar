@@ -2553,5 +2553,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300824",
+    "name": "北鼎股份",
+    "price": 7.77,
+    "change": -0.1,
+    "changePct": -1.27,
+    "open": 7.8,
+    "high": 7.89,
+    "low": 7.69,
+    "prevClose": 7.87,
+    "volume": 34265,
+    "amount": 2671.0,
+    "totalMV": 2536000000.0,
+    "circMV": 2459000000.0,
+    "pe": 22.45,
+    "pb": 3.39,
+    "turnover": 1.08,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

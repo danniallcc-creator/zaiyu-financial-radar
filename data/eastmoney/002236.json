@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002236",
+    "name": "大华股份",
+    "price": 16.27,
+    "change": -0.04,
+    "changePct": -0.25,
+    "open": 16.3,
+    "high": 16.45,
+    "low": 16.11,
+    "prevClose": 16.31,
+    "volume": 297786,
+    "amount": 48576.0,
+    "totalMV": 53191000000.0,
+    "circMV": 38904000000.0,
+    "pe": 13.63,
+    "pb": 1.44,
+    "turnover": 1.25,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

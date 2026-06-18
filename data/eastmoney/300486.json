@@ -2564,5 +2564,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300486",
+    "name": "东杰智能",
+    "price": 23.18,
+    "change": 0.07,
+    "changePct": 0.3,
+    "open": 23.3,
+    "high": 23.79,
+    "low": 22.52,
+    "prevClose": 23.11,
+    "volume": 166063,
+    "amount": 38523.0,
+    "totalMV": 11060000000.0,
+    "circMV": 11057000000.0,
+    "pe": 460.43,
+    "pb": 6.51,
+    "turnover": 3.48,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

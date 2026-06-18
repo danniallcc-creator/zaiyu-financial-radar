@@ -2602,5 +2602,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600235",
+    "name": "民丰特纸",
+    "price": 5.33,
+    "change": -0.04,
+    "changePct": -0.74,
+    "open": 5.37,
+    "high": 5.42,
+    "low": 5.23,
+    "prevClose": 5.37,
+    "volume": 55389,
+    "amount": 2960.0,
+    "totalMV": 1872000000.0,
+    "circMV": 1872000000.0,
+    "pe": 188.02,
+    "pb": 1.24,
+    "turnover": 1.58,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

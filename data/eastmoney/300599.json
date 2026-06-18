@@ -2606,5 +2606,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300599",
+    "name": "雄塑科技",
+    "price": 12.48,
+    "change": -0.1,
+    "changePct": -0.79,
+    "open": 12.4,
+    "high": 12.5,
+    "low": 11.79,
+    "prevClose": 12.58,
+    "volume": 188482,
+    "amount": 22872.0,
+    "totalMV": 4469000000.0,
+    "circMV": 3953000000.0,
+    "pe": -92.14,
+    "pb": 2.33,
+    "turnover": 5.95,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

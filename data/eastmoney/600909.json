@@ -1676,5 +1676,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600909",
+    "name": "华安证券",
+    "price": 8.97,
+    "change": 0.18,
+    "changePct": 2.05,
+    "open": 8.77,
+    "high": 9.17,
+    "low": 8.62,
+    "prevClose": 8.79,
+    "volume": 2442943,
+    "amount": 216883.0,
+    "totalMV": 45067000000.0,
+    "circMV": 45067000000.0,
+    "pe": 22.34,
+    "pb": 1.71,
+    "turnover": 4.86,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

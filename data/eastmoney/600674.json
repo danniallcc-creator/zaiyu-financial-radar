@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600674",
+    "name": "川投能源",
+    "price": 14.31,
+    "change": -0.32,
+    "changePct": -2.19,
+    "open": 14.6,
+    "high": 14.72,
+    "low": 14.28,
+    "prevClose": 14.63,
+    "volume": 380775,
+    "amount": 55014.0,
+    "totalMV": 69756000000.0,
+    "circMV": 69756000000.0,
+    "pe": 14.75,
+    "pb": 1.5,
+    "turnover": 0.78,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

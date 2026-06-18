@@ -2551,5 +2551,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300616",
+    "name": "尚品宅配",
+    "price": 13.4,
+    "change": 0.64,
+    "changePct": 5.02,
+    "open": 12.66,
+    "high": 13.83,
+    "low": 12.5,
+    "prevClose": 12.76,
+    "volume": 133292,
+    "amount": 17660.0,
+    "totalMV": 3009000000.0,
+    "circMV": 2080000000.0,
+    "pe": -9.81,
+    "pb": 1.06,
+    "turnover": 8.59,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

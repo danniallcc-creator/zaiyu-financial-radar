@@ -2650,5 +2650,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002225",
+    "name": "濮耐股份",
+    "price": 4.21,
+    "change": -0.21,
+    "changePct": -4.75,
+    "open": 4.34,
+    "high": 4.43,
+    "low": 4.18,
+    "prevClose": 4.42,
+    "volume": 895636,
+    "amount": 38160.0,
+    "totalMV": 4880000000.0,
+    "circMV": 3994000000.0,
+    "pe": 96.41,
+    "pb": 1.2,
+    "turnover": 9.44,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

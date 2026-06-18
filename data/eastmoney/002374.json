@@ -2563,5 +2563,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002374",
+    "name": "中锐股份",
+    "price": 3.16,
+    "change": 0.03,
+    "changePct": 0.96,
+    "open": 3.2,
+    "high": 3.2,
+    "low": 3.07,
+    "prevClose": 3.13,
+    "volume": 219019,
+    "amount": 6900.0,
+    "totalMV": 3429000000.0,
+    "circMV": 3429000000.0,
+    "pe": -10.58,
+    "pb": 6.41,
+    "turnover": 2.02,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

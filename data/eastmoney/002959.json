@@ -2556,5 +2556,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002959",
+    "name": "小熊电器",
+    "price": 32.95,
+    "change": -0.23,
+    "changePct": -0.69,
+    "open": 33.06,
+    "high": 33.29,
+    "low": 32.33,
+    "prevClose": 33.18,
+    "volume": 7592,
+    "amount": 2498.0,
+    "totalMV": 5135000000.0,
+    "circMV": 4960000000.0,
+    "pe": 15.0,
+    "pb": 1.79,
+    "turnover": 0.5,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

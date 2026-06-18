@@ -2612,5 +2612,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603196",
+    "name": "璞源材料",
+    "price": 26.36,
+    "change": 0.57,
+    "changePct": 2.21,
+    "open": 25.59,
+    "high": 27.2,
+    "low": 25.33,
+    "prevClose": 25.79,
+    "volume": 43463,
+    "amount": 11453.0,
+    "totalMV": 11037000000.0,
+    "circMV": 6247000000.0,
+    "pe": 323.25,
+    "pb": 5.54,
+    "turnover": 1.83,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

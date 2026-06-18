@@ -2514,5 +2514,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603272",
+    "name": "*ST联翔",
+    "price": 31.04,
+    "change": -1.63,
+    "changePct": -4.99,
+    "open": 31.5,
+    "high": 31.95,
+    "low": 31.04,
+    "prevClose": 32.67,
+    "volume": 22247,
+    "amount": 6935.0,
+    "totalMV": 3217000000.0,
+    "circMV": 3217000000.0,
+    "pe": -185.81,
+    "pb": 5.97,
+    "turnover": 2.15,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

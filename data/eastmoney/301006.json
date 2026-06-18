@@ -2533,5 +2533,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301006",
+    "name": "迈拓股份",
+    "price": 13.45,
+    "change": -0.25,
+    "changePct": -1.82,
+    "open": 13.56,
+    "high": 13.77,
+    "low": 13.27,
+    "prevClose": 13.7,
+    "volume": 18393,
+    "amount": 2499.0,
+    "totalMV": 1873000000.0,
+    "circMV": 1127000000.0,
+    "pe": 21.39,
+    "pb": 1.42,
+    "turnover": 2.19,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

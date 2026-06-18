@@ -2536,5 +2536,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300943",
+    "name": "春晖智控",
+    "price": 41.4,
+    "change": 6.9,
+    "changePct": 20.0,
+    "open": 34.22,
+    "high": 41.4,
+    "low": 34.1,
+    "prevClose": 34.5,
+    "volume": 220110,
+    "amount": 86091.0,
+    "totalMV": 8438000000.0,
+    "circMV": 5524000000.0,
+    "pe": 148.2,
+    "pb": 8.48,
+    "turnover": 16.5,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

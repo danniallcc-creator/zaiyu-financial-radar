@@ -2608,5 +2608,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600735",
+    "name": "ST新华锦",
+    "price": 6.37,
+    "change": 0.01,
+    "changePct": 0.16,
+    "open": 6.31,
+    "high": 6.46,
+    "low": 6.3,
+    "prevClose": 6.36,
+    "volume": 48077,
+    "amount": 3065.0,
+    "totalMV": 2731000000.0,
+    "circMV": 2710000000.0,
+    "pe": -21.0,
+    "pb": 2.56,
+    "turnover": 1.13,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

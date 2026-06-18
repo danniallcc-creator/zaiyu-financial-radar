@@ -2623,5 +2623,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300257",
+    "name": "开山股份",
+    "price": 27.96,
+    "change": -1.18,
+    "changePct": -4.05,
+    "open": 29.14,
+    "high": 29.36,
+    "low": 27.84,
+    "prevClose": 29.14,
+    "volume": 112068,
+    "amount": 31814.0,
+    "totalMV": 27782000000.0,
+    "circMV": 26693000000.0,
+    "pe": 78.15,
+    "pb": 4.25,
+    "turnover": 1.17,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

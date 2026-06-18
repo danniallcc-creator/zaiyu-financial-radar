@@ -2613,5 +2613,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600103",
+    "name": "青山纸业",
+    "price": 3.48,
+    "change": -0.11,
+    "changePct": -3.06,
+    "open": 3.56,
+    "high": 3.58,
+    "low": 3.47,
+    "prevClose": 3.59,
+    "volume": 1011801,
+    "amount": 35477.0,
+    "totalMV": 7798000000.0,
+    "circMV": 7698999999.999999,
+    "pe": 199.13,
+    "pb": 1.97,
+    "turnover": 4.57,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

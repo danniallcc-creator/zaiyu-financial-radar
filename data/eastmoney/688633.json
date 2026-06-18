@@ -2569,5 +2569,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688633",
+    "name": "星球石墨",
+    "price": 31.46,
+    "change": 0.26,
+    "changePct": 0.83,
+    "open": 31.0,
+    "high": 32.12,
+    "low": 30.72,
+    "prevClose": 31.2,
+    "volume": 7742551,
+    "amount": 24301.0,
+    "totalMV": 5361000000.0,
+    "circMV": 5361000000.0,
+    "pe": 23.77,
+    "pb": 3.03,
+    "turnover": 4.54,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

@@ -2686,5 +2686,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000786",
+    "name": "北新建材",
+    "price": 19.72,
+    "change": -0.86,
+    "changePct": -4.18,
+    "open": 20.51,
+    "high": 20.58,
+    "low": 19.7,
+    "prevClose": 20.58,
+    "volume": 208512,
+    "amount": 41666.0,
+    "totalMV": 33568000000.0,
+    "circMV": 33317000000.0,
+    "pe": 11.7,
+    "pb": 1.25,
+    "turnover": 1.23,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

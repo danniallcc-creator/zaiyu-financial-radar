@@ -2436,5 +2436,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002786",
+    "name": "银宝山新",
+    "price": 8.09,
+    "change": -0.35,
+    "changePct": -4.15,
+    "open": 8.35,
+    "high": 8.36,
+    "low": 7.97,
+    "prevClose": 8.44,
+    "volume": 189479,
+    "amount": 15335.0,
+    "totalMV": 4010000000.0,
+    "circMV": 3997000000.0,
+    "pe": -123.02,
+    "pb": 20.12,
+    "turnover": 3.83,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

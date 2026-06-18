@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601018",
+    "name": "宁波港",
+    "price": 3.26,
+    "change": -0.08,
+    "changePct": -2.4,
+    "open": 3.34,
+    "high": 3.34,
+    "low": 3.23,
+    "prevClose": 3.34,
+    "volume": 590192,
+    "amount": 19376.0,
+    "totalMV": 63421000000.0,
+    "circMV": 63421000000.0,
+    "pe": 12.28,
+    "pb": 0.79,
+    "turnover": 0.3,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

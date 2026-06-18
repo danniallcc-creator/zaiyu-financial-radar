@@ -2458,5 +2458,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301548",
+    "name": "崇德科技",
+    "price": 77.55,
+    "change": 3.2,
+    "changePct": 4.3,
+    "open": 74.35,
+    "high": 78.7,
+    "low": 73.36,
+    "prevClose": 74.35,
+    "volume": 21000,
+    "amount": 16129.0,
+    "totalMV": 6747000000.0,
+    "circMV": 2035000000.0000002,
+    "pe": 46.27,
+    "pb": 4.36,
+    "turnover": 8.0,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

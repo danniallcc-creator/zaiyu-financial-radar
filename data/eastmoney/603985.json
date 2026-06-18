@@ -2612,5 +2612,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603985",
+    "name": "恒润股份",
+    "price": 25.27,
+    "change": 0.02,
+    "changePct": 0.08,
+    "open": 25.18,
+    "high": 25.75,
+    "low": 25.01,
+    "prevClose": 25.25,
+    "volume": 169621,
+    "amount": 42953.0,
+    "totalMV": 11140000000.0,
+    "circMV": 11140000000.0,
+    "pe": 93.83,
+    "pb": 3.36,
+    "turnover": 3.85,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

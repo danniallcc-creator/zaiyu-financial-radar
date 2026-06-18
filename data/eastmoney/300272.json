@@ -2662,5 +2662,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300272",
+    "name": "开能健康",
+    "price": 5.83,
+    "change": 0.16,
+    "changePct": 2.82,
+    "open": 5.75,
+    "high": 5.92,
+    "low": 5.53,
+    "prevClose": 5.67,
+    "volume": 135888,
+    "amount": 7833.0,
+    "totalMV": 3565000000.0,
+    "circMV": 2708000000.0,
+    "pe": 87.97,
+    "pb": 2.89,
+    "turnover": 2.93,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

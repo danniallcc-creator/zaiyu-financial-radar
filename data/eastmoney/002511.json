@@ -2653,5 +2653,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002511",
+    "name": "中顺洁柔",
+    "price": 6.83,
+    "change": -0.04,
+    "changePct": -0.58,
+    "open": 6.88,
+    "high": 6.93,
+    "low": 6.78,
+    "prevClose": 6.87,
+    "volume": 118399,
+    "amount": 8118.0,
+    "totalMV": 8786000000.0,
+    "circMV": 8640000000.0,
+    "pe": 24.78,
+    "pb": 1.6,
+    "turnover": 0.94,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

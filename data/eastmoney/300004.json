@@ -2555,5 +2555,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300004",
+    "name": "南风股份",
+    "price": 12.3,
+    "change": 0.2,
+    "changePct": 1.65,
+    "open": 12.02,
+    "high": 12.69,
+    "low": 11.94,
+    "prevClose": 12.1,
+    "volume": 171887,
+    "amount": 21248.0,
+    "totalMV": 5904000000.0,
+    "circMV": 5904000000.0,
+    "pe": 618.28,
+    "pb": 3.33,
+    "turnover": 3.58,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

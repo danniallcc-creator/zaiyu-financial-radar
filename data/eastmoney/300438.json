@@ -2640,5 +2640,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300438",
+    "name": "鹏辉能源",
+    "price": 81.2,
+    "change": 2.41,
+    "changePct": 3.06,
+    "open": 77.39,
+    "high": 84.82,
+    "low": 77.01,
+    "prevClose": 78.79,
+    "volume": 326687,
+    "amount": 266323.0,
+    "totalMV": 40871000000.0,
+    "circMV": 32818000000.0,
+    "pe": 71.15,
+    "pb": 7.21,
+    "turnover": 8.08,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

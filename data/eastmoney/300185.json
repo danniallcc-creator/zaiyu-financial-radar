@@ -2593,5 +2593,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300185",
+    "name": "通裕重工",
+    "price": 2.78,
+    "change": -0.01,
+    "changePct": -0.36,
+    "open": 2.75,
+    "high": 2.78,
+    "low": 2.69,
+    "prevClose": 2.79,
+    "volume": 973691,
+    "amount": 26481.0,
+    "totalMV": 11221000000.0,
+    "circMV": 10692000000.0,
+    "pe": 165.22,
+    "pb": 1.59,
+    "turnover": 2.53,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

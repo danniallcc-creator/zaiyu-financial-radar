@@ -2620,5 +2620,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600481",
+    "name": "双良节能",
+    "price": 4.74,
+    "change": -0.3,
+    "changePct": -5.95,
+    "open": 4.97,
+    "high": 4.98,
+    "low": 4.74,
+    "prevClose": 5.04,
+    "volume": 936495,
+    "amount": 45271.0,
+    "totalMV": 9784000000.0,
+    "circMV": 9784000000.0,
+    "pe": -7.25,
+    "pb": 2.25,
+    "turnover": 4.54,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

@@ -2594,5 +2594,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603519",
+    "name": "立霸股份",
+    "price": 14.8,
+    "change": -0.08,
+    "changePct": -0.54,
+    "open": 14.77,
+    "high": 15.38,
+    "low": 14.6,
+    "prevClose": 14.88,
+    "volume": 72877,
+    "amount": 10833.0,
+    "totalMV": 3942000000.0,
+    "circMV": 3942000000.0,
+    "pe": 25.32,
+    "pb": 3.12,
+    "turnover": 2.74,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

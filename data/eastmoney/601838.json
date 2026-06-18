@@ -1621,5 +1621,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601838",
+    "name": "成都银行",
+    "price": 18.66,
+    "change": -0.57,
+    "changePct": -2.96,
+    "open": 19.15,
+    "high": 19.27,
+    "low": 18.64,
+    "prevClose": 19.23,
+    "volume": 207325,
+    "amount": 38967.0,
+    "totalMV": 79089000000.0,
+    "circMV": 79089000000.0,
+    "pe": 5.89,
+    "pb": 0.86,
+    "turnover": 0.49,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

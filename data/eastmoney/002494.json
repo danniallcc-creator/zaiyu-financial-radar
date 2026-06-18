@@ -2564,5 +2564,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002494",
+    "name": "华斯股份",
+    "price": 4.7,
+    "change": -0.02,
+    "changePct": -0.42,
+    "open": 4.68,
+    "high": 4.75,
+    "low": 4.61,
+    "prevClose": 4.72,
+    "volume": 114707,
+    "amount": 5383.0,
+    "totalMV": 1773000000.0,
+    "circMV": 1348000000.0,
+    "pe": 64.17,
+    "pb": 1.41,
+    "turnover": 4.0,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

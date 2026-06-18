@@ -2198,5 +2198,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603221",
+    "name": "爱丽家居",
+    "price": 11.43,
+    "change": -0.1,
+    "changePct": -0.87,
+    "open": 11.5,
+    "high": 11.53,
+    "low": 11.17,
+    "prevClose": 11.53,
+    "volume": 22903,
+    "amount": 2603.0,
+    "totalMV": 2795000000.0,
+    "circMV": 2769000000.0,
+    "pe": -141.01,
+    "pb": 1.78,
+    "turnover": 0.95,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

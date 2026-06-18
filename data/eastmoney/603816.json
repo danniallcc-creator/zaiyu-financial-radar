@@ -2640,5 +2640,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603816",
+    "name": "顾家家居",
+    "price": 23.88,
+    "change": -0.9,
+    "changePct": -3.63,
+    "open": 24.99,
+    "high": 24.99,
+    "low": 23.5,
+    "prevClose": 24.78,
+    "volume": 135821,
+    "amount": 32880.0,
+    "totalMV": 19616000000.0,
+    "circMV": 19395000000.0,
+    "pe": 11.1,
+    "pb": 1.77,
+    "turnover": 1.67,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

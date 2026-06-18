@@ -2495,5 +2495,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300591",
+    "name": "万里马",
+    "price": 7.4,
+    "change": 0.19,
+    "changePct": 2.64,
+    "open": 7.16,
+    "high": 7.49,
+    "low": 7.06,
+    "prevClose": 7.21,
+    "volume": 193877,
+    "amount": 14236.0,
+    "totalMV": 3002000000.0,
+    "circMV": 2593000000.0,
+    "pe": -22.16,
+    "pb": 17.56,
+    "turnover": 5.53,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

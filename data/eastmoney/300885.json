@@ -2510,5 +2510,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300885",
+    "name": "海昌新材",
+    "price": 26.33,
+    "change": 0.76,
+    "changePct": 2.97,
+    "open": 25.31,
+    "high": 26.56,
+    "low": 25.27,
+    "prevClose": 25.57,
+    "volume": 82110,
+    "amount": 21477.0,
+    "totalMV": 6534000000.0,
+    "circMV": 4398000000.0,
+    "pe": 105.91,
+    "pb": 7.3,
+    "turnover": 4.92,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

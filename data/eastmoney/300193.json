@@ -2521,5 +2521,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300193",
+    "name": "佳士科技",
+    "price": 8.16,
+    "change": -0.25,
+    "changePct": -2.97,
+    "open": 8.37,
+    "high": 8.43,
+    "low": 8.1,
+    "prevClose": 8.41,
+    "volume": 82455,
+    "amount": 6773.0,
+    "totalMV": 3886000000.0,
+    "circMV": 3422000000.0,
+    "pe": 22.0,
+    "pb": 1.63,
+    "turnover": 1.97,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

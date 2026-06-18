@@ -2622,5 +2622,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603036",
+    "name": "如通股份",
+    "price": 15.11,
+    "change": 0.55,
+    "changePct": 3.78,
+    "open": 14.56,
+    "high": 15.29,
+    "low": 14.52,
+    "prevClose": 14.56,
+    "volume": 95028,
+    "amount": 14220.0,
+    "totalMV": 3113000000.0,
+    "circMV": 3113000000.0,
+    "pe": 31.23,
+    "pb": 2.28,
+    "turnover": 4.61,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

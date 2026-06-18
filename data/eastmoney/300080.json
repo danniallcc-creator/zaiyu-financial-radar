@@ -2574,5 +2574,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300080",
+    "name": "易成新能",
+    "price": 3.78,
+    "change": -0.1,
+    "changePct": -2.58,
+    "open": 3.86,
+    "high": 3.87,
+    "low": 3.73,
+    "prevClose": 3.88,
+    "volume": 166433,
+    "amount": 6296.0,
+    "totalMV": 7081000000.0,
+    "circMV": 7072000000.0,
+    "pe": -9.46,
+    "pb": 1.65,
+    "turnover": 0.89,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

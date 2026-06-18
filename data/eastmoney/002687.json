@@ -2596,5 +2596,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002687",
+    "name": "乔治白",
+    "price": 4.16,
+    "change": -0.02,
+    "changePct": -0.48,
+    "open": 4.16,
+    "high": 4.2,
+    "low": 4.05,
+    "prevClose": 4.18,
+    "volume": 90723,
+    "amount": 3744.0,
+    "totalMV": 2100000000.0,
+    "circMV": 1720000000.0,
+    "pe": 25.92,
+    "pb": 1.38,
+    "turnover": 2.19,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

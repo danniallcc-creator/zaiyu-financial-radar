@@ -2546,5 +2546,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603690",
+    "name": "至纯科技",
+    "price": 29.32,
+    "change": 0.39,
+    "changePct": 1.35,
+    "open": 28.66,
+    "high": 30.37,
+    "low": 28.5,
+    "prevClose": 28.93,
+    "volume": 398410,
+    "amount": 117209.0,
+    "totalMV": 11229000000.0,
+    "circMV": 11229000000.0,
+    "pe": -13.5,
+    "pb": 3.23,
+    "turnover": 10.4,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

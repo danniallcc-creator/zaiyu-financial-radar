@@ -2548,5 +2548,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002860",
+    "name": "星帅尔",
+    "price": 14.56,
+    "change": 0.57,
+    "changePct": 4.07,
+    "open": 13.95,
+    "high": 15.26,
+    "low": 13.7,
+    "prevClose": 13.99,
+    "volume": 371182,
+    "amount": 54580.0,
+    "totalMV": 5127000000.0,
+    "circMV": 5008000000.0,
+    "pe": 26.65,
+    "pb": 2.29,
+    "turnover": 10.79,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

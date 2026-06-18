@@ -1738,5 +1738,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601998",
+    "name": "中信银行",
+    "price": 7.27,
+    "change": -0.29,
+    "changePct": -3.84,
+    "open": 7.52,
+    "high": 7.55,
+    "low": 7.27,
+    "prevClose": 7.56,
+    "volume": 687413,
+    "amount": 50658.0,
+    "totalMV": 404540000000.0,
+    "circMV": 296347000000.0,
+    "pe": 5.68,
+    "pb": 0.55,
+    "turnover": 0.17,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

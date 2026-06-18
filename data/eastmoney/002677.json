@@ -2660,5 +2660,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002677",
+    "name": "浙江美大",
+    "price": 6.18,
+    "change": -0.1,
+    "changePct": -1.59,
+    "open": 6.28,
+    "high": 6.3,
+    "low": 6.14,
+    "prevClose": 6.28,
+    "volume": 57689,
+    "amount": 3576.0,
+    "totalMV": 3993000000.0,
+    "circMV": 3408000000.0,
+    "pe": 599.64,
+    "pb": 2.71,
+    "turnover": 1.05,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

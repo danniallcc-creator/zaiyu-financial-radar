@@ -2636,5 +2636,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002871",
+    "name": "伟隆股份",
+    "price": 20.19,
+    "change": 0.4,
+    "changePct": 2.02,
+    "open": 19.74,
+    "high": 21.21,
+    "low": 19.6,
+    "prevClose": 19.79,
+    "volume": 70868,
+    "amount": 14474.0,
+    "totalMV": 5085000000.0,
+    "circMV": 3014000000.0,
+    "pe": 38.74,
+    "pb": 4.69,
+    "turnover": 4.75,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

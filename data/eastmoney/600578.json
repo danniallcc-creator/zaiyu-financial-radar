@@ -2629,5 +2629,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600578",
+    "name": "京能电力",
+    "price": 7.59,
+    "change": -0.43,
+    "changePct": -5.36,
+    "open": 7.9,
+    "high": 8.01,
+    "low": 7.5,
+    "prevClose": 8.02,
+    "volume": 2033813,
+    "amount": 156523.0,
+    "totalMV": 50812000000.0,
+    "circMV": 50812000000.0,
+    "pe": 14.33,
+    "pb": 2.02,
+    "turnover": 3.04,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

@@ -2612,5 +2612,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601599",
+    "name": "浙文影业",
+    "price": 3.0,
+    "change": -0.04,
+    "changePct": -1.32,
+    "open": 3.03,
+    "high": 3.03,
+    "low": 2.96,
+    "prevClose": 3.04,
+    "volume": 130500,
+    "amount": 3909.0,
+    "totalMV": 3482000000.0,
+    "circMV": 3482000000.0,
+    "pe": 31.25,
+    "pb": 2.27,
+    "turnover": 1.12,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

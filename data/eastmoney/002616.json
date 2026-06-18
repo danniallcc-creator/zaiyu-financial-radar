@@ -2616,5 +2616,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002616",
+    "name": "长青集团",
+    "price": 4.55,
+    "change": -0.27,
+    "changePct": -5.6,
+    "open": 4.8,
+    "high": 4.81,
+    "low": 4.5,
+    "prevClose": 4.82,
+    "volume": 223126,
+    "amount": 10277.0,
+    "totalMV": 3909000000.0000005,
+    "circMV": 2673000000.0,
+    "pe": 13.09,
+    "pb": 1.11,
+    "turnover": 3.8,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

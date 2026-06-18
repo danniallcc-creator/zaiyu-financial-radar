@@ -2563,5 +2563,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300837",
+    "name": "浙矿股份",
+    "price": 26.24,
+    "change": -0.17,
+    "changePct": -0.64,
+    "open": 26.5,
+    "high": 26.57,
+    "low": 25.86,
+    "prevClose": 26.41,
+    "volume": 14937,
+    "amount": 3921.0,
+    "totalMV": 2624000000.0,
+    "circMV": 1984000000.0,
+    "pe": 36.43,
+    "pb": 1.9,
+    "turnover": 1.98,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

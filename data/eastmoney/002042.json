@@ -2662,5 +2662,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002042",
+    "name": "华孚时尚",
+    "price": 3.75,
+    "change": 0.05,
+    "changePct": 1.35,
+    "open": 3.69,
+    "high": 3.8,
+    "low": 3.6,
+    "prevClose": 3.7,
+    "volume": 403661,
+    "amount": 14899.0,
+    "totalMV": 6378000000.0,
+    "circMV": 6378000000.0,
+    "pe": 86.52,
+    "pb": 1.08,
+    "turnover": 2.37,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

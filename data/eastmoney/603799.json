@@ -2626,5 +2626,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603799",
+    "name": "华友钴业",
+    "price": 52.1,
+    "change": -0.49,
+    "changePct": -0.93,
+    "open": 52.0,
+    "high": 54.15,
+    "low": 51.4,
+    "prevClose": 52.59,
+    "volume": 667724,
+    "amount": 351018.0,
+    "totalMV": 98820000000.0,
+    "circMV": 98344000000.0,
+    "pe": 13.43,
+    "pb": 1.99,
+    "turnover": 3.54,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

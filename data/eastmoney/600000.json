@@ -1738,5 +1738,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600000",
+    "name": "浦发银行",
+    "price": 9.09,
+    "change": -0.15,
+    "changePct": -1.62,
+    "open": 9.2,
+    "high": 9.25,
+    "low": 9.07,
+    "prevClose": 9.24,
+    "volume": 836564,
+    "amount": 76328.0,
+    "totalMV": 302750000000.0,
+    "circMV": 302750000000.0,
+    "pe": 6.02,
+    "pb": 0.4,
+    "turnover": 0.25,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

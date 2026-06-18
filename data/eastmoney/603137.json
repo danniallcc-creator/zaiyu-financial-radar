@@ -2483,5 +2483,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603137",
+    "name": "恒尚节能",
+    "price": 12.94,
+    "change": 0.0,
+    "changePct": 0.0,
+    "open": 0.0,
+    "high": 0.0,
+    "low": 0.0,
+    "prevClose": 12.94,
+    "volume": 0,
+    "amount": 0.0,
+    "totalMV": 2367000000.0,
+    "circMV": 2367000000.0,
+    "pe": -51.05,
+    "pb": 1.98,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

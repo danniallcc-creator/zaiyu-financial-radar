@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300124",
+    "name": "汇川技术",
+    "price": 71.18,
+    "change": 1.43,
+    "changePct": 2.05,
+    "open": 69.58,
+    "high": 72.36,
+    "low": 69.25,
+    "prevClose": 69.75,
+    "volume": 390188,
+    "amount": 276309.0,
+    "totalMV": 192727000000.0,
+    "circMV": 171566000000.0,
+    "pe": 40.65,
+    "pb": 5.5,
+    "turnover": 1.62,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

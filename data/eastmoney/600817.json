@@ -2654,5 +2654,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600817",
+    "name": "宇通重工",
+    "price": 8.99,
+    "change": -0.13,
+    "changePct": -1.43,
+    "open": 9.12,
+    "high": 9.14,
+    "low": 8.92,
+    "prevClose": 9.12,
+    "volume": 21601,
+    "amount": 1952.0,
+    "totalMV": 4805000000.0,
+    "circMV": 4758000000.0,
+    "pe": 15.89,
+    "pb": 2.0,
+    "turnover": 0.41,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

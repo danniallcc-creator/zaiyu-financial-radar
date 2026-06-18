@@ -2662,5 +2662,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600336",
+    "name": "澳柯玛",
+    "price": 6.83,
+    "change": -0.14,
+    "changePct": -2.01,
+    "open": 6.96,
+    "high": 6.96,
+    "low": 6.79,
+    "prevClose": 6.97,
+    "volume": 82508,
+    "amount": 5663.0,
+    "totalMV": 5450000000.0,
+    "circMV": 5450000000.0,
+    "pe": -25.07,
+    "pb": 2.41,
+    "turnover": 1.03,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

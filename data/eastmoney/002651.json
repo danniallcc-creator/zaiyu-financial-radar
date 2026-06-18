@@ -2596,5 +2596,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002651",
+    "name": "利君股份",
+    "price": 7.91,
+    "change": -0.07,
+    "changePct": -0.88,
+    "open": 7.9,
+    "high": 8.04,
+    "low": 7.79,
+    "prevClose": 7.98,
+    "volume": 58625,
+    "amount": 4653.0,
+    "totalMV": 8175000000.0,
+    "circMV": 4473000000.0,
+    "pe": 198.61,
+    "pb": 2.92,
+    "turnover": 1.04,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

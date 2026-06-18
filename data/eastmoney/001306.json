@@ -2471,5 +2471,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "001306",
+    "name": "夏厦精密",
+    "price": 62.9,
+    "change": 2.49,
+    "changePct": 4.12,
+    "open": 60.0,
+    "high": 63.88,
+    "low": 59.51,
+    "prevClose": 60.41,
+    "volume": 12981,
+    "amount": 8052.0,
+    "totalMV": 3953000000.0,
+    "circMV": 975000000.0,
+    "pe": -76.55,
+    "pb": 3.08,
+    "turnover": 8.37,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

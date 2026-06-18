@@ -2569,5 +2569,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301042",
+    "name": "安联锐视",
+    "price": 78.08,
+    "change": 1.59,
+    "changePct": 2.08,
+    "open": 76.49,
+    "high": 78.7,
+    "low": 75.0,
+    "prevClose": 76.49,
+    "volume": 29378,
+    "amount": 22520.0,
+    "totalMV": 7556000000.0,
+    "circMV": 7203000000.0,
+    "pe": 241.63,
+    "pb": 7.2,
+    "turnover": 3.18,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

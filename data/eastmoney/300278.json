@@ -2531,5 +2531,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300278",
+    "name": "华昌达",
+    "price": 4.36,
+    "change": -0.03,
+    "changePct": -0.68,
+    "open": 4.39,
+    "high": 4.45,
+    "low": 4.32,
+    "prevClose": 4.39,
+    "volume": 186948,
+    "amount": 8200.0,
+    "totalMV": 6165000000.0,
+    "circMV": 6145000000.0,
+    "pe": -98.66,
+    "pb": 3.69,
+    "turnover": 1.33,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

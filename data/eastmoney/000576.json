@@ -2562,5 +2562,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000576",
+    "name": "甘化科工",
+    "price": 7.1,
+    "change": -0.01,
+    "changePct": -0.14,
+    "open": 7.12,
+    "high": 7.2,
+    "low": 6.96,
+    "prevClose": 7.11,
+    "volume": 56815,
+    "amount": 4029.0,
+    "totalMV": 3099000000.0,
+    "circMV": 3080000000.0,
+    "pe": 44.01,
+    "pb": 1.88,
+    "turnover": 1.31,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

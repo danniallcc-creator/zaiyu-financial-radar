@@ -1652,5 +1652,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601901",
+    "name": "方正证券",
+    "price": 6.66,
+    "change": -0.16,
+    "changePct": -2.35,
+    "open": 6.79,
+    "high": 6.82,
+    "low": 6.66,
+    "prevClose": 6.82,
+    "volume": 614167,
+    "amount": 41282.0,
+    "totalMV": 54826000000.0,
+    "circMV": 54826000000.0,
+    "pe": 12.87,
+    "pb": 1.05,
+    "turnover": 0.75,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

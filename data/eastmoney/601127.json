@@ -2612,5 +2612,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601127",
+    "name": "赛力斯",
+    "price": 64.81,
+    "change": -1.33,
+    "changePct": -2.01,
+    "open": 65.7,
+    "high": 66.33,
+    "low": 64.48,
+    "prevClose": 66.14,
+    "volume": 316656,
+    "amount": 206687.0,
+    "totalMV": 112898000000.0,
+    "circMV": 100922000000.0,
+    "pe": 18.93,
+    "pb": 2.83,
+    "turnover": 2.03,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

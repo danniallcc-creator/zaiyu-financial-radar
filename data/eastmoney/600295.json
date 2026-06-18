@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600295",
+    "name": "鄂尔多斯",
+    "price": 12.66,
+    "change": -0.08,
+    "changePct": -0.63,
+    "open": 12.75,
+    "high": 12.82,
+    "low": 12.47,
+    "prevClose": 12.74,
+    "volume": 90741,
+    "amount": 11499.0,
+    "totalMV": 35433000000.0,
+    "circMV": 25011000000.0,
+    "pe": 13.85,
+    "pb": 1.73,
+    "turnover": 0.46,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

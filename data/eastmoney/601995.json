@@ -1682,5 +1682,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601995",
+    "name": "中金公司",
+    "price": 33.4,
+    "change": -0.79,
+    "changePct": -2.31,
+    "open": 33.95,
+    "high": 34.35,
+    "low": 33.39,
+    "prevClose": 34.19,
+    "volume": 161558,
+    "amount": 54540.0,
+    "totalMV": 161230000000.0,
+    "circMV": 97646000000.0,
+    "pe": 14.24,
+    "pb": 1.57,
+    "turnover": 0.55,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

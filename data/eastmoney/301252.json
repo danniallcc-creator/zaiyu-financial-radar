@@ -2539,5 +2539,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301252",
+    "name": "同星科技",
+    "price": 44.08,
+    "change": 2.41,
+    "changePct": 5.78,
+    "open": 41.17,
+    "high": 44.7,
+    "low": 41.0,
+    "prevClose": 41.67,
+    "volume": 59848,
+    "amount": 25956.0,
+    "totalMV": 7459000000.0,
+    "circMV": 5982000000.0,
+    "pe": 78.73,
+    "pb": 5.59,
+    "turnover": 4.41,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

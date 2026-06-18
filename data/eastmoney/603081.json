@@ -2548,5 +2548,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603081",
+    "name": "大丰实业",
+    "price": 9.38,
+    "change": -0.01,
+    "changePct": -0.11,
+    "open": 9.43,
+    "high": 9.43,
+    "low": 9.2,
+    "prevClose": 9.39,
+    "volume": 21334,
+    "amount": 1990.0,
+    "totalMV": 3963000000.0000005,
+    "circMV": 3963000000.0000005,
+    "pe": 67.35,
+    "pb": 1.24,
+    "turnover": 0.5,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

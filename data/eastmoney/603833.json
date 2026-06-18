@@ -2642,5 +2642,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603833",
+    "name": "欧派家居",
+    "price": 33.56,
+    "change": -0.5,
+    "changePct": -1.47,
+    "open": 33.9,
+    "high": 34.37,
+    "low": 33.38,
+    "prevClose": 34.06,
+    "volume": 30888,
+    "amount": 10412.0,
+    "totalMV": 20443000000.0,
+    "circMV": 20443000000.0,
+    "pe": 11.09,
+    "pb": 1.11,
+    "turnover": 0.51,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

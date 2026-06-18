@@ -2567,5 +2567,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603185",
+    "name": "弘元绿能",
+    "price": 17.08,
+    "change": -0.52,
+    "changePct": -2.95,
+    "open": 17.59,
+    "high": 17.79,
+    "low": 17.06,
+    "prevClose": 17.6,
+    "volume": 164013,
+    "amount": 28552.0,
+    "totalMV": 11667000000.0,
+    "circMV": 11598000000.0,
+    "pe": -277.0,
+    "pb": 1.0,
+    "turnover": 2.42,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

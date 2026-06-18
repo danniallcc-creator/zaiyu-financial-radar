@@ -2590,5 +2590,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603855",
+    "name": "华荣股份",
+    "price": 17.24,
+    "change": -0.37,
+    "changePct": -2.1,
+    "open": 17.61,
+    "high": 17.61,
+    "low": 16.97,
+    "prevClose": 17.61,
+    "volume": 25698,
+    "amount": 4426.0,
+    "totalMV": 5819000000.0,
+    "circMV": 5785000000.0,
+    "pe": 16.71,
+    "pb": 2.59,
+    "turnover": 0.77,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

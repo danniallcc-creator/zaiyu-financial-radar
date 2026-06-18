@@ -2588,5 +2588,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300471",
+    "name": "厚普股份",
+    "price": 9.02,
+    "change": -0.08,
+    "changePct": -0.88,
+    "open": 9.1,
+    "high": 9.17,
+    "low": 8.9,
+    "prevClose": 9.1,
+    "volume": 54851,
+    "amount": 4957.0,
+    "totalMV": 4240999999.9999995,
+    "circMV": 3306000000.0,
+    "pe": -5461.37,
+    "pb": 2.71,
+    "turnover": 1.5,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

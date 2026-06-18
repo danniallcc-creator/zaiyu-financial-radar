@@ -2606,5 +2606,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "605286",
+    "name": "同力天启",
+    "price": 29.78,
+    "change": 0.46,
+    "changePct": 1.57,
+    "open": 29.25,
+    "high": 30.14,
+    "low": 29.01,
+    "prevClose": 29.32,
+    "volume": 23677,
+    "amount": 7035.0,
+    "totalMV": 5003000000.0,
+    "circMV": 5003000000.0,
+    "pe": 37.01,
+    "pb": 2.33,
+    "turnover": 1.41,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

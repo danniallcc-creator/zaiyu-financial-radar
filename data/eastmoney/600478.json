@@ -2581,5 +2581,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600478",
+    "name": "科力远",
+    "price": 5.68,
+    "change": -0.15,
+    "changePct": -2.57,
+    "open": 5.75,
+    "high": 5.86,
+    "low": 5.67,
+    "prevClose": 5.83,
+    "volume": 307618,
+    "amount": 17636.0,
+    "totalMV": 9460000000.0,
+    "circMV": 9460000000.0,
+    "pe": 66.54,
+    "pb": 3.23,
+    "turnover": 1.85,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

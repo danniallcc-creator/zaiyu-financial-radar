@@ -2582,5 +2582,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300877",
+    "name": "金春股份",
+    "price": 28.49,
+    "change": 2.13,
+    "changePct": 8.08,
+    "open": 26.28,
+    "high": 28.77,
+    "low": 25.6,
+    "prevClose": 26.36,
+    "volume": 40811,
+    "amount": 11281.0,
+    "totalMV": 3419000000.0,
+    "circMV": 3419000000.0,
+    "pe": 39.69,
+    "pb": 2.07,
+    "turnover": 3.4,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

@@ -2581,5 +2581,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300718",
+    "name": "长盛轴承",
+    "price": 67.65,
+    "change": 0.99,
+    "changePct": 1.49,
+    "open": 66.51,
+    "high": 68.08,
+    "low": 66.07,
+    "prevClose": 66.66,
+    "volume": 75429,
+    "amount": 50856.0,
+    "totalMV": 20212000000.0,
+    "circMV": 13304000000.0,
+    "pe": 77.34,
+    "pb": 11.71,
+    "turnover": 3.84,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

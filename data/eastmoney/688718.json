@@ -2483,5 +2483,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688718",
+    "name": "唯赛勃",
+    "price": 17.93,
+    "change": 0.29,
+    "changePct": 1.64,
+    "open": 17.62,
+    "high": 18.48,
+    "low": 17.43,
+    "prevClose": 17.64,
+    "volume": 4534085,
+    "amount": 8145.0,
+    "totalMV": 3115000000.0,
+    "circMV": 3115000000.0,
+    "pe": 61.93,
+    "pb": 3.86,
+    "turnover": 2.61,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

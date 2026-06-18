@@ -2530,5 +2530,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002877",
+    "name": "智能自控",
+    "price": 7.51,
+    "change": -0.18,
+    "changePct": -2.34,
+    "open": 7.67,
+    "high": 7.67,
+    "low": 7.46,
+    "prevClose": 7.69,
+    "volume": 76022,
+    "amount": 5729.0,
+    "totalMV": 2672000000.0,
+    "circMV": 1805999999.9999998,
+    "pe": 111.83,
+    "pb": 2.2,
+    "turnover": 3.16,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

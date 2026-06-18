@@ -2574,5 +2574,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301268",
+    "name": "铭利达",
+    "price": 16.32,
+    "change": 0.08,
+    "changePct": 0.49,
+    "open": 16.19,
+    "high": 16.33,
+    "low": 16.0,
+    "prevClose": 16.24,
+    "volume": 33568,
+    "amount": 5419.0,
+    "totalMV": 6534000000.0,
+    "circMV": 5625000000.0,
+    "pe": -35.15,
+    "pb": 4.38,
+    "turnover": 0.97,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

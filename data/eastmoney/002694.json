@@ -2521,5 +2521,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002694",
+    "name": "*ST顾地",
+    "price": 2.23,
+    "change": -0.09,
+    "changePct": -3.88,
+    "open": 2.33,
+    "high": 2.34,
+    "low": 2.2,
+    "prevClose": 2.32,
+    "volume": 61237,
+    "amount": 1380.0,
+    "totalMV": 1702000000.0,
+    "circMV": 1603000000.0,
+    "pe": -3.46,
+    "pb": -22.62,
+    "turnover": 0.85,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

@@ -2510,5 +2510,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603398",
+    "name": "*ST沐邦",
+    "price": 14.27,
+    "change": 0.13,
+    "changePct": 0.92,
+    "open": 14.2,
+    "high": 14.34,
+    "low": 13.86,
+    "prevClose": 14.14,
+    "volume": 55730,
+    "amount": 7895.0,
+    "totalMV": 6188000000.0,
+    "circMV": 6188000000.0,
+    "pe": -7.82,
+    "pb": 86.51,
+    "turnover": 1.29,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

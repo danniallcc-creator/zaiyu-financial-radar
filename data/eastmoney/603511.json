@@ -2590,5 +2590,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603511",
+    "name": "爱慕股份",
+    "price": 12.46,
+    "change": 0.15,
+    "changePct": 1.22,
+    "open": 12.24,
+    "high": 12.55,
+    "low": 12.06,
+    "prevClose": 12.31,
+    "volume": 22802,
+    "amount": 2825.0,
+    "totalMV": 5034000000.0,
+    "circMV": 5008000000.0,
+    "pe": 31.41,
+    "pb": 1.16,
+    "turnover": 0.57,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

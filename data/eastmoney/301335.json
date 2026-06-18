@@ -2535,5 +2535,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301335",
+    "name": "天元宠物",
+    "price": 20.7,
+    "change": -0.39,
+    "changePct": -1.85,
+    "open": 20.9,
+    "high": 21.2,
+    "low": 20.62,
+    "prevClose": 21.09,
+    "volume": 10018,
+    "amount": 2090.0,
+    "totalMV": 2627000000.0,
+    "circMV": 1811000000.0,
+    "pe": 47.32,
+    "pb": 1.36,
+    "turnover": 1.14,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

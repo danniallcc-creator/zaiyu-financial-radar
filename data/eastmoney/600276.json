@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600276",
+    "name": "恒瑞医药",
+    "price": 48.42,
+    "change": 1.43,
+    "changePct": 3.04,
+    "open": 46.99,
+    "high": 49.5,
+    "low": 46.61,
+    "prevClose": 46.99,
+    "volume": 1185928,
+    "amount": 574848.0,
+    "totalMV": 321373000000.0,
+    "circMV": 308871000000.0,
+    "pe": 39.58,
+    "pb": 5.15,
+    "turnover": 1.86,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600795",
+    "name": "国电电力",
+    "price": 4.74,
+    "change": -0.2,
+    "changePct": -4.05,
+    "open": 4.93,
+    "high": 4.94,
+    "low": 4.74,
+    "prevClose": 4.94,
+    "volume": 2812106,
+    "amount": 135319.0,
+    "totalMV": 84541000000.0,
+    "circMV": 84541000000.0,
+    "pe": 12.53,
+    "pb": 1.38,
+    "turnover": 1.58,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

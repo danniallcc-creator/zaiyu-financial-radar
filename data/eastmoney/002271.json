@@ -2608,5 +2608,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002271",
+    "name": "东方雨虹",
+    "price": 12.13,
+    "change": -0.44,
+    "changePct": -3.5,
+    "open": 12.54,
+    "high": 12.58,
+    "low": 12.03,
+    "prevClose": 12.57,
+    "volume": 400331,
+    "amount": 49021.0,
+    "totalMV": 28975000000.0,
+    "circMV": 23223000000.0,
+    "pe": 89.78,
+    "pb": 1.41,
+    "turnover": 2.09,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

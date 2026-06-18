@@ -2512,5 +2512,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688448",
+    "name": "磁谷科技",
+    "price": 59.77,
+    "change": 5.27,
+    "changePct": 9.67,
+    "open": 54.45,
+    "high": 61.52,
+    "low": 54.06,
+    "prevClose": 54.5,
+    "volume": 5566253,
+    "amount": 32733.0,
+    "totalMV": 5829000000.0,
+    "circMV": 5829000000.0,
+    "pe": 613.56,
+    "pb": 5.72,
+    "turnover": 5.71,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

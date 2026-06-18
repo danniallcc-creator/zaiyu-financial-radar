@@ -2603,5 +2603,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300737",
+    "name": "科顺股份",
+    "price": 7.68,
+    "change": -0.48,
+    "changePct": -5.88,
+    "open": 7.92,
+    "high": 8.1,
+    "low": 7.6,
+    "prevClose": 8.16,
+    "volume": 1082038,
+    "amount": 84154.0,
+    "totalMV": 8525000000.0,
+    "circMV": 6811000000.0,
+    "pe": -16.64,
+    "pb": 2.16,
+    "turnover": 12.2,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

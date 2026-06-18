@@ -2508,5 +2508,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301255",
+    "name": "通力科技",
+    "price": 23.84,
+    "change": 0.01,
+    "changePct": 0.04,
+    "open": 23.62,
+    "high": 24.13,
+    "low": 23.35,
+    "prevClose": 23.83,
+    "volume": 13196,
+    "amount": 3140.0,
+    "totalMV": 3631000000.0,
+    "circMV": 908000000.0,
+    "pe": 91.36,
+    "pb": 3.4,
+    "turnover": 3.47,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

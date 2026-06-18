@@ -2602,5 +2602,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000651",
+    "name": "格力电器",
+    "price": 36.72,
+    "change": -0.43,
+    "changePct": -1.16,
+    "open": 37.1,
+    "high": 37.29,
+    "low": 36.64,
+    "prevClose": 37.15,
+    "volume": 551841,
+    "amount": 203480.0,
+    "totalMV": 205684000000.0,
+    "circMV": 202768000000.0,
+    "pe": 7.05,
+    "pb": 1.35,
+    "turnover": 1.0,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

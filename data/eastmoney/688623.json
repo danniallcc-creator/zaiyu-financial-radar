@@ -2448,5 +2448,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688623",
+    "name": "双元科技",
+    "price": 93.83,
+    "change": -1.79,
+    "changePct": -1.87,
+    "open": 95.0,
+    "high": 95.28,
+    "low": 93.07,
+    "prevClose": 95.62,
+    "volume": 397523,
+    "amount": 3740.0,
+    "totalMV": 5549000000.0,
+    "circMV": 2314000000.0,
+    "pe": 99.44,
+    "pb": 2.6,
+    "turnover": 1.61,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

@@ -2660,5 +2660,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300095",
+    "name": "华伍股份",
+    "price": 8.87,
+    "change": 0.06,
+    "changePct": 0.68,
+    "open": 8.75,
+    "high": 8.96,
+    "low": 8.63,
+    "prevClose": 8.81,
+    "volume": 79715,
+    "amount": 7030.0,
+    "totalMV": 3499000000.0,
+    "circMV": 2818000000.0,
+    "pe": -17.39,
+    "pb": 2.77,
+    "turnover": 2.51,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

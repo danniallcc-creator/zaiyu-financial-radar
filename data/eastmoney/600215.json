@@ -2614,5 +2614,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600215",
+    "name": "派斯林",
+    "price": 6.31,
+    "change": 0.0,
+    "changePct": 0.0,
+    "open": 6.26,
+    "high": 6.53,
+    "low": 6.2,
+    "prevClose": 6.31,
+    "volume": 85310,
+    "amount": 5414.0,
+    "totalMV": 2883000000.0,
+    "circMV": 2883000000.0,
+    "pe": -8.07,
+    "pb": 1.18,
+    "turnover": 1.87,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

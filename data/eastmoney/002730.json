@@ -2644,5 +2644,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002730",
+    "name": "电光科技",
+    "price": 30.05,
+    "change": 0.48,
+    "changePct": 1.62,
+    "open": 29.57,
+    "high": 30.45,
+    "low": 28.9,
+    "prevClose": 29.57,
+    "volume": 101489,
+    "amount": 30346.0,
+    "totalMV": 10881000000.0,
+    "circMV": 10398000000.0,
+    "pe": 159.31,
+    "pb": 6.74,
+    "turnover": 2.93,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

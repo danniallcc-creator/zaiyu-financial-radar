@@ -2491,5 +2491,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603082",
+    "name": "北自科技",
+    "price": 41.03,
+    "change": 3.73,
+    "changePct": 10.0,
+    "open": 36.93,
+    "high": 41.03,
+    "low": 36.76,
+    "prevClose": 37.3,
+    "volume": 106691,
+    "amount": 42160.0,
+    "totalMV": 6798000000.0,
+    "circMV": 1664000000.0,
+    "pe": 45.59,
+    "pb": 3.82,
+    "turnover": 26.31,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

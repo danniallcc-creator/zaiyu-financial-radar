@@ -2469,5 +2469,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "605287",
+    "name": "德才股份",
+    "price": 43.68,
+    "change": 1.5,
+    "changePct": 3.56,
+    "open": 41.72,
+    "high": 45.27,
+    "low": 41.67,
+    "prevClose": 42.18,
+    "volume": 54440,
+    "amount": 23932.0,
+    "totalMV": 6115000000.0,
+    "circMV": 6115000000.0,
+    "pe": 102.01,
+    "pb": 3.87,
+    "turnover": 3.89,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

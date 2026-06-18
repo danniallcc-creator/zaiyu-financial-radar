@@ -2492,5 +2492,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002843",
+    "name": "泰嘉股份",
+    "price": 22.19,
+    "change": 0.05,
+    "changePct": 0.23,
+    "open": 22.12,
+    "high": 22.7,
+    "low": 21.95,
+    "prevClose": 22.14,
+    "volume": 128301,
+    "amount": 28598.0,
+    "totalMV": 5586000000.0,
+    "circMV": 5552000000.0,
+    "pe": -201.24,
+    "pb": 4.15,
+    "turnover": 5.13,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

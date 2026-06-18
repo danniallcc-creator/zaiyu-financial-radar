@@ -2527,5 +2527,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "003023",
+    "name": "彩虹集团",
+    "price": 21.82,
+    "change": 0.02,
+    "changePct": 0.09,
+    "open": 21.58,
+    "high": 22.05,
+    "low": 21.36,
+    "prevClose": 21.8,
+    "volume": 26076,
+    "amount": 5662.0,
+    "totalMV": 2299000000.0,
+    "circMV": 2294000000.0,
+    "pe": 44.54,
+    "pb": 1.48,
+    "turnover": 2.48,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

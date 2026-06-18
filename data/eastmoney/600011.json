@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600011",
+    "name": "华能国际",
+    "price": 7.64,
+    "change": -0.28,
+    "changePct": -3.54,
+    "open": 7.86,
+    "high": 8.15,
+    "low": 7.61,
+    "prevClose": 7.92,
+    "volume": 2345593,
+    "amount": 183914.0,
+    "totalMV": 119933000000.0,
+    "circMV": 84023000000.0,
+    "pe": 8.62,
+    "pb": 1.71,
+    "turnover": 2.13,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

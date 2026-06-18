@@ -2549,5 +2549,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300724",
+    "name": "捷佳伟创",
+    "price": 72.88,
+    "change": -1.16,
+    "changePct": -1.57,
+    "open": 73.38,
+    "high": 73.9,
+    "low": 72.56,
+    "prevClose": 74.04,
+    "volume": 107474,
+    "amount": 78668.0,
+    "totalMV": 25384000000.0,
+    "circMV": 20969000000.0,
+    "pe": 11.65,
+    "pb": 1.93,
+    "turnover": 3.74,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

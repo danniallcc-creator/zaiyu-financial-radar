@@ -2531,5 +2531,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002163",
+    "name": "海南发展",
+    "price": 9.06,
+    "change": -0.18,
+    "changePct": -1.95,
+    "open": 9.17,
+    "high": 9.22,
+    "low": 8.98,
+    "prevClose": 9.24,
+    "volume": 173876,
+    "amount": 15802.0,
+    "totalMV": 7655000000.0,
+    "circMV": 7280000000.0,
+    "pe": -16.59,
+    "pb": 12.88,
+    "turnover": 2.16,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

@@ -2481,5 +2481,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300912",
+    "name": "凯龙高科",
+    "price": 27.34,
+    "change": -0.3,
+    "changePct": -1.09,
+    "open": 27.62,
+    "high": 28.55,
+    "low": 27.12,
+    "prevClose": 27.64,
+    "volume": 59060,
+    "amount": 16312.0,
+    "totalMV": 3114000000.0,
+    "circMV": 2351000000.0,
+    "pe": -34.38,
+    "pb": 7.03,
+    "turnover": 6.87,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

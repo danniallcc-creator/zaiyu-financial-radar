@@ -2652,5 +2652,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300442",
+    "name": "润泽科技",
+    "price": 85.18,
+    "change": 4.01,
+    "changePct": 4.94,
+    "open": 81.15,
+    "high": 85.23,
+    "low": 80.92,
+    "prevClose": 81.17,
+    "volume": 464686,
+    "amount": 390181.0,
+    "totalMV": 139801000000.0,
+    "circMV": 139545000000.0,
+    "pe": 26.87,
+    "pb": 9.72,
+    "turnover": 2.84,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

@@ -2524,5 +2524,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301129",
+    "name": "瑞纳智能",
+    "price": 23.22,
+    "change": 0.09,
+    "changePct": 0.39,
+    "open": 23.05,
+    "high": 23.41,
+    "low": 22.7,
+    "prevClose": 23.13,
+    "volume": 15816,
+    "amount": 3656.0,
+    "totalMV": 3156000000.0,
+    "circMV": 1539000000.0,
+    "pe": 29.01,
+    "pb": 1.76,
+    "turnover": 2.39,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

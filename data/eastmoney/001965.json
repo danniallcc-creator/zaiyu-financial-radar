@@ -2632,5 +2632,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "001965",
+    "name": "招商公路",
+    "price": 9.82,
+    "change": 0.02,
+    "changePct": 0.2,
+    "open": 9.82,
+    "high": 9.93,
+    "low": 9.73,
+    "prevClose": 9.8,
+    "volume": 132932,
+    "amount": 13102.0,
+    "totalMV": 66728000000.0,
+    "circMV": 66728000000.0,
+    "pe": 14.41,
+    "pb": 0.95,
+    "turnover": 0.2,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

@@ -2523,5 +2523,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300247",
+    "name": "融捷健康",
+    "price": 3.85,
+    "change": -0.19,
+    "changePct": -4.7,
+    "open": 4.01,
+    "high": 4.03,
+    "low": 3.85,
+    "prevClose": 4.04,
+    "volume": 196125,
+    "amount": 7666.0,
+    "totalMV": 3096000000.0,
+    "circMV": 3092000000.0,
+    "pe": 45.82,
+    "pb": 2.68,
+    "turnover": 2.44,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

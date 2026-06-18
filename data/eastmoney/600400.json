@@ -2270,5 +2270,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600400",
+    "name": "红豆股份",
+    "price": 2.69,
+    "change": 0.02,
+    "changePct": 0.75,
+    "open": 2.65,
+    "high": 2.73,
+    "low": 2.52,
+    "prevClose": 2.67,
+    "volume": 520332,
+    "amount": 13659.0,
+    "totalMV": 6164000000.0,
+    "circMV": 6164000000.0,
+    "pe": -15.49,
+    "pb": 4.44,
+    "turnover": 2.27,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

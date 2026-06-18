@@ -2596,5 +2596,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600802",
+    "name": "福建水泥",
+    "price": 4.48,
+    "change": -0.09,
+    "changePct": -1.97,
+    "open": 4.55,
+    "high": 4.56,
+    "low": 4.4,
+    "prevClose": 4.57,
+    "volume": 70800,
+    "amount": 3178.0,
+    "totalMV": 2053000000.0,
+    "circMV": 2053000000.0,
+    "pe": -13.76,
+    "pb": 2.24,
+    "turnover": 1.55,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

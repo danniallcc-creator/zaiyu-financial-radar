@@ -2593,5 +2593,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002303",
+    "name": "美盈森",
+    "price": 3.65,
+    "change": -0.18,
+    "changePct": -4.7,
+    "open": 3.78,
+    "high": 3.91,
+    "low": 3.65,
+    "prevClose": 3.83,
+    "volume": 789106,
+    "amount": 29886.0,
+    "totalMV": 5589000000.0,
+    "circMV": 3529000000.0,
+    "pe": 23.1,
+    "pb": 1.24,
+    "turnover": 8.16,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

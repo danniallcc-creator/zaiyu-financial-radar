@@ -2519,5 +2519,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603219",
+    "name": "富佳股份",
+    "price": 15.38,
+    "change": 0.11,
+    "changePct": 0.72,
+    "open": 15.21,
+    "high": 15.6,
+    "low": 15.13,
+    "prevClose": 15.27,
+    "volume": 65404,
+    "amount": 10058.0,
+    "totalMV": 8634000000.0,
+    "circMV": 8634000000.0,
+    "pe": 157.14,
+    "pb": 5.44,
+    "turnover": 1.17,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

@@ -2550,5 +2550,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301260",
+    "name": "格力博",
+    "price": 15.41,
+    "change": 0.08,
+    "changePct": 0.52,
+    "open": 15.34,
+    "high": 15.82,
+    "low": 15.04,
+    "prevClose": 15.33,
+    "volume": 32626,
+    "amount": 5034.0,
+    "totalMV": 7448999999.999999,
+    "circMV": 3164000000.0,
+    "pe": -18.75,
+    "pb": 1.73,
+    "turnover": 1.59,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

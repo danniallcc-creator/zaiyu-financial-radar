@@ -2602,5 +2602,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000401",
+    "name": "金隅冀东",
+    "price": 3.66,
+    "change": -0.08,
+    "changePct": -2.14,
+    "open": 3.74,
+    "high": 3.75,
+    "low": 3.65,
+    "prevClose": 3.74,
+    "volume": 69642,
+    "amount": 2565.0,
+    "totalMV": 9729000000.0,
+    "circMV": 9631000000.0,
+    "pe": 99.92,
+    "pb": 0.37,
+    "turnover": 0.26,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

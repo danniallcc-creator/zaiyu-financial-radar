@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000726",
+    "name": "鲁  泰Ａ",
+    "price": 5.62,
+    "change": -0.01,
+    "changePct": -0.18,
+    "open": 5.63,
+    "high": 5.69,
+    "low": 5.6,
+    "prevClose": 5.63,
+    "volume": 36182,
+    "amount": 2044.0,
+    "totalMV": 4594000000.0,
+    "circMV": 3311999999.9999995,
+    "pe": 8.53,
+    "pb": 0.47,
+    "turnover": 0.61,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

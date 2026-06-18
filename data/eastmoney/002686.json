@@ -2572,5 +2572,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002686",
+    "name": "亿利达",
+    "price": 5.66,
+    "change": -0.09,
+    "changePct": -1.57,
+    "open": 5.72,
+    "high": 5.75,
+    "low": 5.58,
+    "prevClose": 5.75,
+    "volume": 84809,
+    "amount": 4801.0,
+    "totalMV": 3204999999.9999995,
+    "circMV": 2959000000.0,
+    "pe": 170.54,
+    "pb": 1.99,
+    "turnover": 1.62,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

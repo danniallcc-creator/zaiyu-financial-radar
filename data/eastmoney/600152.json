@@ -2583,5 +2583,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600152",
+    "name": "维科技术",
+    "price": 10.84,
+    "change": -0.23,
+    "changePct": -2.08,
+    "open": 10.99,
+    "high": 11.06,
+    "low": 10.76,
+    "prevClose": 11.07,
+    "volume": 214846,
+    "amount": 23385.0,
+    "totalMV": 5735000000.0,
+    "circMV": 5735000000.0,
+    "pe": -54.42,
+    "pb": 3.5,
+    "turnover": 4.06,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

@@ -2525,5 +2525,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301376",
+    "name": "致欧科技",
+    "price": 15.28,
+    "change": -0.37,
+    "changePct": -2.36,
+    "open": 15.56,
+    "high": 15.63,
+    "low": 15.23,
+    "prevClose": 15.65,
+    "volume": 21789,
+    "amount": 3359.0,
+    "totalMV": 6150000000.0,
+    "circMV": 2959000000.0,
+    "pe": 20.49,
+    "pb": 1.83,
+    "turnover": 1.13,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

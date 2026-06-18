@@ -2588,5 +2588,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002301",
+    "name": "齐心集团",
+    "price": 7.69,
+    "change": -0.21,
+    "changePct": -2.66,
+    "open": 7.8,
+    "high": 8.01,
+    "low": 7.66,
+    "prevClose": 7.9,
+    "volume": 203422,
+    "amount": 15808.0,
+    "totalMV": 5568000000.0,
+    "circMV": 5521000000.0,
+    "pe": 74.73,
+    "pb": 1.78,
+    "turnover": 2.83,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

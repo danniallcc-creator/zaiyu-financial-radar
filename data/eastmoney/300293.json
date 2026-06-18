@@ -2594,5 +2594,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300293",
+    "name": "蓝英装备",
+    "price": 17.8,
+    "change": 0.1,
+    "changePct": 0.56,
+    "open": 17.48,
+    "high": 18.42,
+    "low": 16.97,
+    "prevClose": 17.7,
+    "volume": 120631,
+    "amount": 21265.0,
+    "totalMV": 6024000000.0,
+    "circMV": 6024000000.0,
+    "pe": -43.84,
+    "pb": 8.1,
+    "turnover": 3.56,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

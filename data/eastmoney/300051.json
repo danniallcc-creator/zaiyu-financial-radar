@@ -2610,5 +2610,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300051",
+    "name": "琏升科技",
+    "price": 9.34,
+    "change": -0.47,
+    "changePct": -4.79,
+    "open": 9.73,
+    "high": 9.73,
+    "low": 9.3,
+    "prevClose": 9.81,
+    "volume": 219696,
+    "amount": 20769.0,
+    "totalMV": 3475000000.0,
+    "circMV": 3432000000.0,
+    "pe": -27.0,
+    "pb": 36.36,
+    "turnover": 5.98,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

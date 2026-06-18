@@ -2602,5 +2602,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002097",
+    "name": "山河智能",
+    "price": 8.13,
+    "change": 0.0,
+    "changePct": 0.0,
+    "open": 8.1,
+    "high": 8.21,
+    "low": 7.99,
+    "prevClose": 8.13,
+    "volume": 127856,
+    "amount": 10379.0,
+    "totalMV": 8737000000.0,
+    "circMV": 8720000000.0,
+    "pe": 125.05,
+    "pb": 1.87,
+    "turnover": 1.19,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600098",
+    "name": "广州发展",
+    "price": 6.58,
+    "change": -0.33,
+    "changePct": -4.78,
+    "open": 6.9,
+    "high": 6.91,
+    "low": 6.56,
+    "prevClose": 6.91,
+    "volume": 480909,
+    "amount": 32172.0,
+    "totalMV": 23069000000.0,
+    "circMV": 23069000000.0,
+    "pe": 9.6,
+    "pb": 0.83,
+    "turnover": 1.37,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

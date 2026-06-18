@@ -2576,5 +2576,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688112",
+    "name": "鼎阳科技",
+    "price": 78.01,
+    "change": 0.69,
+    "changePct": 0.89,
+    "open": 77.2,
+    "high": 80.86,
+    "low": 76.11,
+    "prevClose": 77.32,
+    "volume": 4949815,
+    "amount": 38840.0,
+    "totalMV": 12450000000.0,
+    "circMV": 12450000000.0,
+    "pe": 88.78,
+    "pb": 8.1,
+    "turnover": 3.1,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

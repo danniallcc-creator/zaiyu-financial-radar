@@ -2635,5 +2635,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000880",
+    "name": "潍柴重机",
+    "price": 25.71,
+    "change": 0.11,
+    "changePct": 0.43,
+    "open": 25.45,
+    "high": 26.0,
+    "low": 25.3,
+    "prevClose": 25.6,
+    "volume": 129783,
+    "amount": 33393.0,
+    "totalMV": 11926000000.0,
+    "circMV": 5837000000.0,
+    "pe": 45.22,
+    "pb": 5.53,
+    "turnover": 5.72,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

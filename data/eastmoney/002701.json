@@ -2606,5 +2606,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002701",
+    "name": "奥瑞金",
+    "price": 4.48,
+    "change": 0.12,
+    "changePct": 2.75,
+    "open": 4.51,
+    "high": 4.58,
+    "low": 4.42,
+    "prevClose": 4.36,
+    "volume": 367364,
+    "amount": 16457.0,
+    "totalMV": 11468000000.0,
+    "circMV": 11457000000.0,
+    "pe": 13.35,
+    "pb": 1.15,
+    "turnover": 1.44,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

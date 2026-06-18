@@ -2628,5 +2628,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002247",
+    "name": "聚力文化",
+    "price": 2.26,
+    "change": 0.0,
+    "changePct": 0.0,
+    "open": 2.24,
+    "high": 2.29,
+    "low": 2.19,
+    "prevClose": 2.26,
+    "volume": 208567,
+    "amount": 4691.0,
+    "totalMV": 1923000000.0,
+    "circMV": 1454000000.0,
+    "pe": 43.11,
+    "pb": 2.86,
+    "turnover": 3.24,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

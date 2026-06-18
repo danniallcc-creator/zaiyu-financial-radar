@@ -2587,5 +2587,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600619",
+    "name": "海立股份",
+    "price": 14.68,
+    "change": -0.21,
+    "changePct": -1.41,
+    "open": 14.8,
+    "high": 14.86,
+    "low": 14.56,
+    "prevClose": 14.89,
+    "volume": 175889,
+    "amount": 25807.0,
+    "totalMV": 15757000000.0,
+    "circMV": 11585000000.0,
+    "pe": 122.15,
+    "pb": 2.55,
+    "turnover": 2.23,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

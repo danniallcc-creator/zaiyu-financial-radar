@@ -2599,5 +2599,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002367",
+    "name": "康力电梯",
+    "price": 5.44,
+    "change": 0.19,
+    "changePct": 3.62,
+    "open": 5.25,
+    "high": 5.71,
+    "low": 5.19,
+    "prevClose": 5.25,
+    "volume": 268952,
+    "amount": 14844.0,
+    "totalMV": 4340000000.0,
+    "circMV": 4322000000.0,
+    "pe": 14.57,
+    "pb": 1.23,
+    "turnover": 3.38,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

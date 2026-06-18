@@ -2270,5 +2270,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600425",
+    "name": "青松建化",
+    "price": 3.47,
+    "change": -0.08,
+    "changePct": -2.25,
+    "open": 3.54,
+    "high": 3.55,
+    "low": 3.46,
+    "prevClose": 3.55,
+    "volume": 116947,
+    "amount": 4083.0,
+    "totalMV": 5568000000.0,
+    "circMV": 5568000000.0,
+    "pe": 18.25,
+    "pb": 0.89,
+    "turnover": 0.73,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

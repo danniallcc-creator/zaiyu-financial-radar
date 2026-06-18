@@ -2642,5 +2642,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603979",
+    "name": "金诚信",
+    "price": 73.45,
+    "change": -3.85,
+    "changePct": -4.98,
+    "open": 75.37,
+    "high": 77.95,
+    "low": 72.66,
+    "prevClose": 77.3,
+    "volume": 122915,
+    "amount": 91934.0,
+    "totalMV": 45817000000.0,
+    "circMV": 45817000000.0,
+    "pe": 18.19,
+    "pb": 4.0,
+    "turnover": 1.97,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

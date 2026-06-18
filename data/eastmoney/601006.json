@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601006",
+    "name": "大秦铁路",
+    "price": 4.94,
+    "change": -0.05,
+    "changePct": -1.0,
+    "open": 4.99,
+    "high": 4.99,
+    "low": 4.94,
+    "prevClose": 4.99,
+    "volume": 744733,
+    "amount": 36895.0,
+    "totalMV": 98123000000.0,
+    "circMV": 98123000000.0,
+    "pe": 17.17,
+    "pb": 0.6,
+    "turnover": 0.37,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

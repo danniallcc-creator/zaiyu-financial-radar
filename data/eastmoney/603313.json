@@ -2514,5 +2514,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603313",
+    "name": "梦百合",
+    "price": 5.56,
+    "change": 0.51,
+    "changePct": 10.1,
+    "open": 5.01,
+    "high": 5.56,
+    "low": 4.94,
+    "prevClose": 5.05,
+    "volume": 211699,
+    "amount": 11324.0,
+    "totalMV": 3172000000.0,
+    "circMV": 3172000000.0,
+    "pe": -29.75,
+    "pb": 0.93,
+    "turnover": 3.71,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

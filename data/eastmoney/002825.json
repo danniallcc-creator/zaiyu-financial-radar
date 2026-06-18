@@ -2630,5 +2630,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002825",
+    "name": "纳尔股份",
+    "price": 8.84,
+    "change": -0.49,
+    "changePct": -5.25,
+    "open": 9.33,
+    "high": 9.35,
+    "low": 8.75,
+    "prevClose": 9.33,
+    "volume": 77724,
+    "amount": 6947.0,
+    "totalMV": 3023000000.0,
+    "circMV": 2269000000.0,
+    "pe": 33.78,
+    "pb": 1.82,
+    "turnover": 3.03,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

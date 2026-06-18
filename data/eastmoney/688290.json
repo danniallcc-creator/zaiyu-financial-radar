@@ -2561,5 +2561,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688290",
+    "name": "景业智能",
+    "price": 70.3,
+    "change": 4.22,
+    "changePct": 6.39,
+    "open": 66.08,
+    "high": 75.96,
+    "low": 65.0,
+    "prevClose": 66.08,
+    "volume": 4300689,
+    "amount": 30794.0,
+    "totalMV": 7184000000.0,
+    "circMV": 7184000000.0,
+    "pe": -249.0,
+    "pb": 5.36,
+    "turnover": 4.21,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

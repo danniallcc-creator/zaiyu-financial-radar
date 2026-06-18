@@ -2587,5 +2587,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002543",
+    "name": "万和电气",
+    "price": 6.51,
+    "change": -0.1,
+    "changePct": -1.51,
+    "open": 6.61,
+    "high": 6.61,
+    "low": 6.48,
+    "prevClose": 6.61,
+    "volume": 31744,
+    "amount": 2075.0,
+    "totalMV": 4841000000.0,
+    "circMV": 4307000000.0,
+    "pe": 41.74,
+    "pb": 1.04,
+    "turnover": 0.48,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

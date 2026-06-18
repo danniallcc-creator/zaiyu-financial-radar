@@ -2571,5 +2571,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600843",
+    "name": "上工申贝",
+    "price": 7.56,
+    "change": -0.33,
+    "changePct": -4.18,
+    "open": 7.84,
+    "high": 7.87,
+    "low": 7.56,
+    "prevClose": 7.89,
+    "volume": 163482,
+    "amount": 12475.0,
+    "totalMV": 5392000000.0,
+    "circMV": 3547000000.0,
+    "pe": -46.47,
+    "pb": 1.99,
+    "turnover": 3.48,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

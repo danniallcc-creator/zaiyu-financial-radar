@@ -1690,5 +1690,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002966",
+    "name": "苏州银行",
+    "price": 7.73,
+    "change": -0.27,
+    "changePct": -3.38,
+    "open": 8.01,
+    "high": 8.02,
+    "low": 7.71,
+    "prevClose": 8.0,
+    "volume": 600924,
+    "amount": 47063.0,
+    "totalMV": 34558000000.0,
+    "circMV": 33977000000.0,
+    "pe": 6.31,
+    "pb": 0.67,
+    "turnover": 1.37,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

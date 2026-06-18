@@ -2588,5 +2588,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "605080",
+    "name": "浙江自然",
+    "price": 22.02,
+    "change": 0.56,
+    "changePct": 2.61,
+    "open": 21.44,
+    "high": 22.9,
+    "low": 21.25,
+    "prevClose": 21.46,
+    "volume": 50671,
+    "amount": 11145.0,
+    "totalMV": 3117000000.0,
+    "circMV": 3091000000.0,
+    "pe": 18.65,
+    "pb": 1.37,
+    "turnover": 3.61,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

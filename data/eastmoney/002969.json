@@ -2525,5 +2525,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002969",
+    "name": "嘉美包装",
+    "price": 15.62,
+    "change": 0.12,
+    "changePct": 0.77,
+    "open": 15.35,
+    "high": 15.88,
+    "low": 15.35,
+    "prevClose": 15.5,
+    "volume": 333444,
+    "amount": 52103.0,
+    "totalMV": 17159000000.0,
+    "circMV": 17069000000.0,
+    "pe": 121.72,
+    "pb": 5.27,
+    "turnover": 3.05,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

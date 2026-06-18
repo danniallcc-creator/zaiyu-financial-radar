@@ -1726,5 +1726,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601788",
+    "name": "光大证券",
+    "price": 14.19,
+    "change": -0.41,
+    "changePct": -2.81,
+    "open": 14.6,
+    "high": 14.61,
+    "low": 14.18,
+    "prevClose": 14.6,
+    "volume": 373457,
+    "amount": 53551.0,
+    "totalMV": 65427000000.0,
+    "circMV": 55436000000.0,
+    "pe": 16.07,
+    "pb": 1.05,
+    "turnover": 0.96,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

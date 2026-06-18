@@ -2505,5 +2505,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301010",
+    "name": "晶雪节能",
+    "price": 17.23,
+    "change": -0.35,
+    "changePct": -1.99,
+    "open": 17.28,
+    "high": 17.73,
+    "low": 17.08,
+    "prevClose": 17.58,
+    "volume": 21191,
+    "amount": 3681.0,
+    "totalMV": 1861000000.0,
+    "circMV": 1861000000.0,
+    "pe": 248.72,
+    "pb": 2.25,
+    "turnover": 1.96,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

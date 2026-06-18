@@ -2642,5 +2642,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002832",
+    "name": "比音勒芬",
+    "price": 20.8,
+    "change": -0.35,
+    "changePct": -1.65,
+    "open": 20.97,
+    "high": 21.18,
+    "low": 20.53,
+    "prevClose": 21.15,
+    "volume": 100060,
+    "amount": 20826.0,
+    "totalMV": 11871000000.0,
+    "circMV": 8100000000.0,
+    "pe": 19.6,
+    "pb": 2.23,
+    "turnover": 2.57,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

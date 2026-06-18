@@ -2634,5 +2634,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300658",
+    "name": "延江股份",
+    "price": 12.54,
+    "change": 0.02,
+    "changePct": 0.16,
+    "open": 12.35,
+    "high": 12.65,
+    "low": 12.04,
+    "prevClose": 12.52,
+    "volume": 123112,
+    "amount": 15320.0,
+    "totalMV": 4172999999.9999995,
+    "circMV": 2769000000.0,
+    "pe": 68.6,
+    "pb": 3.13,
+    "turnover": 5.57,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

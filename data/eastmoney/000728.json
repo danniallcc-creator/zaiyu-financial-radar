@@ -1696,5 +1696,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000728",
+    "name": "国元证券",
+    "price": 7.03,
+    "change": -0.22,
+    "changePct": -3.03,
+    "open": 7.22,
+    "high": 7.24,
+    "low": 7.03,
+    "prevClose": 7.25,
+    "volume": 307200,
+    "amount": 21854.0,
+    "totalMV": 30677000000.0,
+    "circMV": 30677000000.0,
+    "pe": 13.18,
+    "pb": 0.79,
+    "turnover": 0.7,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

@@ -2666,5 +2666,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002690",
+    "name": "美亚光电",
+    "price": 14.8,
+    "change": -0.17,
+    "changePct": -1.14,
+    "open": 15.05,
+    "high": 15.34,
+    "low": 14.8,
+    "prevClose": 14.97,
+    "volume": 49030,
+    "amount": 7333.0,
+    "totalMV": 13057000000.0,
+    "circMV": 6419000000.0,
+    "pe": 17.97,
+    "pb": 5.42,
+    "turnover": 1.13,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

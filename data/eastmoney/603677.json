@@ -2569,5 +2569,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603677",
+    "name": "奇精机械",
+    "price": 13.45,
+    "change": -0.4,
+    "changePct": -2.89,
+    "open": 13.82,
+    "high": 14.0,
+    "low": 13.43,
+    "prevClose": 13.85,
+    "volume": 34622,
+    "amount": 4721.0,
+    "totalMV": 2590000000.0,
+    "circMV": 2590000000.0,
+    "pe": 62.55,
+    "pb": 2.3,
+    "turnover": 1.8,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

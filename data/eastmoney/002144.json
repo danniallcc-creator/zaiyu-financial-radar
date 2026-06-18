@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002144",
+    "name": "宏达高科",
+    "price": 10.61,
+    "change": -0.08,
+    "changePct": -0.75,
+    "open": 10.63,
+    "high": 10.87,
+    "low": 10.47,
+    "prevClose": 10.69,
+    "volume": 37050,
+    "amount": 3958.0,
+    "totalMV": 1875000000.0,
+    "circMV": 1460000000.0,
+    "pe": 49.69,
+    "pb": 0.88,
+    "turnover": 2.69,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

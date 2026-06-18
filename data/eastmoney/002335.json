@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002335",
+    "name": "科华数据",
+    "price": 39.38,
+    "change": 0.45,
+    "changePct": 1.16,
+    "open": 39.09,
+    "high": 39.86,
+    "low": 38.87,
+    "prevClose": 38.93,
+    "volume": 343022,
+    "amount": 134904.0,
+    "totalMV": 29431000000.0,
+    "circMV": 25980000000.0,
+    "pe": 68.92,
+    "pb": 4.72,
+    "turnover": 5.2,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

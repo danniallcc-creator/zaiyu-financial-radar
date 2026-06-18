@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600970",
+    "name": "中材国际",
+    "price": 8.17,
+    "change": -0.41,
+    "changePct": -4.78,
+    "open": 8.52,
+    "high": 8.56,
+    "low": 8.15,
+    "prevClose": 8.58,
+    "volume": 262713,
+    "amount": 21719.0,
+    "totalMV": 21420000000.0,
+    "circMV": 21420000000.0,
+    "pe": 8.07,
+    "pb": 0.97,
+    "turnover": 1.0,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

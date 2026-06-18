@@ -98,7 +98,10 @@
     // ─── Data Path Detection ─────────────────────────────────────────────────
     // Auto-detect: if served from project root, data is at data/; if from frontend/, use ../data/
     const DATA_BASE = window.location.pathname.includes('/frontend/') ? '../data' : 'data';
-    const API_BASE = ''; // Worker API base (empty = same origin; only works with CF Workers, not GH Pages)
+    // Worker API: use CF Workers URL when on GitHub Pages, same origin when on CF Pages
+    const API_BASE = window.location.hostname.includes('github.io')
+      ? 'https://financial-radar-api.workers.dev/api'
+      : '/api';
 
     const fetchData = async (code) => {
       const [emResult, cnResult, indResult, ovResult] = await Promise.allSettled([
@@ -397,7 +400,7 @@
           </InfoCard>
 
           {/* Real-time Quote */}
-          <InfoCard title="实时行情">
+          <InfoCard title={`行情数据${quote?.fetchTime ? ' · ' + new Date(quote.fetchTime).toLocaleString('zh-CN') : ''}`}>
             <div className="grid grid-cols-2 md:grid-cols-5 gap-4 text-xs">
               <QuoteItem label="最新价" value={quote?.price?.toFixed(2)} highlight />
               <QuoteItem label="涨跌额" value={quote?.change?.toFixed(2)} color={quote?.change >= 0 ? 'up' : 'down'} />
@@ -1521,8 +1524,11 @@
                         </>
                       )}
                     </div>
-                    <div className="text-txt-dim text-[10px] mb-2">
-                      数据获取: {data.fetchTime ? new Date(data.fetchTime).toLocaleString('zh-CN') : '-'}
+                    <div className="text-txt-dim text-[10px] mb-2 flex flex-wrap gap-x-3">
+                      <span>数据获取: {data.fetchTime ? new Date(data.fetchTime).toLocaleString('zh-CN') : '-'}</span>
+                      {data.quote?.fetchTime && (
+                        <span className="text-gold/60">行情: {new Date(data.quote.fetchTime).toLocaleString('zh-CN')}</span>
+                      )}
                     </div>
                   </>
                 )}

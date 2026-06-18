@@ -2620,5 +2620,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601865",
+    "name": "XD福莱特",
+    "price": 10.63,
+    "change": -0.22,
+    "changePct": -2.03,
+    "open": 10.82,
+    "high": 10.9,
+    "low": 10.6,
+    "prevClose": 10.85,
+    "volume": 185907,
+    "amount": 19896.0,
+    "totalMV": 24905000000.0,
+    "circMV": 20208000000.0,
+    "pe": 27.29,
+    "pb": 1.15,
+    "turnover": 0.98,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

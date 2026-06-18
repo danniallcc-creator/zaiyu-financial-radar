@@ -2588,5 +2588,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300157",
+    "name": "新锦动力",
+    "price": 4.05,
+    "change": -0.01,
+    "changePct": -0.25,
+    "open": 4.06,
+    "high": 4.09,
+    "low": 3.95,
+    "prevClose": 4.06,
+    "volume": 289684,
+    "amount": 11681.0,
+    "totalMV": 3053000000.0,
+    "circMV": 2867000000.0,
+    "pe": -45.3,
+    "pb": -14.83,
+    "turnover": 4.09,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

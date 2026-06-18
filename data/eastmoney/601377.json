@@ -1732,5 +1732,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601377",
+    "name": "兴业证券",
+    "price": 5.82,
+    "change": -0.26,
+    "changePct": -4.28,
+    "open": 6.05,
+    "high": 6.07,
+    "low": 5.81,
+    "prevClose": 6.08,
+    "volume": 1556857,
+    "amount": 91996.0,
+    "totalMV": 50261000000.0,
+    "circMV": 50261000000.0,
+    "pe": 16.01,
+    "pb": 0.89,
+    "turnover": 1.8,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

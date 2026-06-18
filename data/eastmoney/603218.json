@@ -2636,5 +2636,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603218",
+    "name": "日月股份",
+    "price": 10.81,
+    "change": -0.18,
+    "changePct": -1.64,
+    "open": 10.92,
+    "high": 10.97,
+    "low": 10.76,
+    "prevClose": 10.99,
+    "volume": 60800,
+    "amount": 6592.0,
+    "totalMV": 11138000000.0,
+    "circMV": 11123000000.0,
+    "pe": 21.52,
+    "pb": 1.07,
+    "turnover": 0.59,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

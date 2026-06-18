@@ -2530,5 +2530,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301365",
+    "name": "矩阵股份",
+    "price": 34.85,
+    "change": 0.98,
+    "changePct": 2.89,
+    "open": 33.66,
+    "high": 35.3,
+    "low": 33.03,
+    "prevClose": 33.87,
+    "volume": 43060,
+    "amount": 14805.0,
+    "totalMV": 6358000000.0,
+    "circMV": 4290999999.9999995,
+    "pe": 146.12,
+    "pb": 3.7,
+    "turnover": 3.5,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

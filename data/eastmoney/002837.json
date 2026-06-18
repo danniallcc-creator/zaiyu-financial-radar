@@ -2646,5 +2646,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002837",
+    "name": "英维克",
+    "price": 74.37,
+    "change": -0.25,
+    "changePct": -0.34,
+    "open": 75.03,
+    "high": 76.13,
+    "low": 73.54,
+    "prevClose": 74.62,
+    "volume": 553636,
+    "amount": 412475.0,
+    "totalMV": 94773000000.0,
+    "circMV": 84072000000.0,
+    "pe": 196.4,
+    "pb": 28.76,
+    "turnover": 4.9,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

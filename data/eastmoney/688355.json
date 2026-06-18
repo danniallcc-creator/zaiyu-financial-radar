@@ -2551,5 +2551,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688355",
+    "name": "明志科技",
+    "price": 18.17,
+    "change": -0.35,
+    "changePct": -1.89,
+    "open": 18.55,
+    "high": 18.65,
+    "low": 18.13,
+    "prevClose": 18.52,
+    "volume": 1654111,
+    "amount": 3033.0,
+    "totalMV": 2252000000.0,
+    "circMV": 2252000000.0,
+    "pe": 32.22,
+    "pb": 2.03,
+    "turnover": 1.33,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

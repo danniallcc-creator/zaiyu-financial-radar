@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601669",
+    "name": "中国电建",
+    "price": 4.94,
+    "change": -0.23,
+    "changePct": -4.45,
+    "open": 5.08,
+    "high": 5.08,
+    "low": 4.93,
+    "prevClose": 5.17,
+    "volume": 2387061,
+    "amount": 119141.0,
+    "totalMV": 85097000000.0,
+    "circMV": 64573000000.0,
+    "pe": 9.11,
+    "pb": 0.58,
+    "turnover": 1.83,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

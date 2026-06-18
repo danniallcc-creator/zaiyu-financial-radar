@@ -2590,5 +2590,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688360",
+    "name": "德马科技",
+    "price": 21.1,
+    "change": 0.33,
+    "changePct": 1.59,
+    "open": 20.57,
+    "high": 21.35,
+    "low": 20.14,
+    "prevClose": 20.77,
+    "volume": 8200862,
+    "amount": 17160.0,
+    "totalMV": 5565000000.0,
+    "circMV": 5323000000.0,
+    "pe": 55.33,
+    "pb": 3.81,
+    "turnover": 3.25,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

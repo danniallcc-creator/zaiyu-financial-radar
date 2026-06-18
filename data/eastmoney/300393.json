@@ -2542,5 +2542,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300393",
+    "name": "中来股份",
+    "price": 7.93,
+    "change": -0.27,
+    "changePct": -3.29,
+    "open": 8.2,
+    "high": 8.21,
+    "low": 7.9,
+    "prevClose": 8.2,
+    "volume": 291218,
+    "amount": 23384.0,
+    "totalMV": 8641000000.0,
+    "circMV": 7580000000.0,
+    "pe": -5.8,
+    "pb": 4.88,
+    "turnover": 3.05,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

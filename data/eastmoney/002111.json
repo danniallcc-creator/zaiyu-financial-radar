@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002111",
+    "name": "威海广泰",
+    "price": 9.54,
+    "change": -0.06,
+    "changePct": -0.63,
+    "open": 9.51,
+    "high": 9.74,
+    "low": 9.43,
+    "prevClose": 9.6,
+    "volume": 77551,
+    "amount": 7424.0,
+    "totalMV": 5075000000.0,
+    "circMV": 4663000000.0,
+    "pe": 30.88,
+    "pb": 1.64,
+    "turnover": 1.59,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

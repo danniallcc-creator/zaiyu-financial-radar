@@ -2590,5 +2590,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002535",
+    "name": "林州重机",
+    "price": 2.35,
+    "change": -0.02,
+    "changePct": -0.84,
+    "open": 2.35,
+    "high": 2.37,
+    "low": 2.29,
+    "prevClose": 2.37,
+    "volume": 194918,
+    "amount": 4566.0,
+    "totalMV": 1884000000.0,
+    "circMV": 1754000000.0,
+    "pe": -28.83,
+    "pb": 3.17,
+    "turnover": 2.61,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

@@ -2620,5 +2620,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603187",
+    "name": "海容冷链",
+    "price": 12.09,
+    "change": -0.11,
+    "changePct": -0.9,
+    "open": 12.11,
+    "high": 12.21,
+    "low": 12.01,
+    "prevClose": 12.2,
+    "volume": 26036,
+    "amount": 3152.0,
+    "totalMV": 4672000000.0,
+    "circMV": 4623000000.0,
+    "pe": 12.01,
+    "pb": 1.11,
+    "turnover": 0.68,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

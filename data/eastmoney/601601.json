@@ -1732,5 +1732,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601601",
+    "name": "中国太保",
+    "price": 29.98,
+    "change": -2.21,
+    "changePct": -6.87,
+    "open": 32.0,
+    "high": 32.09,
+    "low": 29.86,
+    "prevClose": 32.19,
+    "volume": 1105663,
+    "amount": 337741.0,
+    "totalMV": 288418000000.0,
+    "circMV": 205214000000.0,
+    "pe": 5.35,
+    "pb": 0.9,
+    "turnover": 1.62,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

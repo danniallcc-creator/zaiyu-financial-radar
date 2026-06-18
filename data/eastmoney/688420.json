@@ -2566,5 +2566,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688420",
+    "name": "美腾科技",
+    "price": 22.57,
+    "change": 0.37,
+    "changePct": 1.67,
+    "open": 22.02,
+    "high": 22.85,
+    "low": 21.88,
+    "prevClose": 22.2,
+    "volume": 838984,
+    "amount": 1886.0,
+    "totalMV": 1996000000.0,
+    "circMV": 1996000000.0,
+    "pe": -436.56,
+    "pb": 1.4,
+    "turnover": 0.95,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

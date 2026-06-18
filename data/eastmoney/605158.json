@@ -2443,5 +2443,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "605158",
+    "name": "华达新材",
+    "price": 6.6,
+    "change": 0.21,
+    "changePct": 3.29,
+    "open": 6.32,
+    "high": 6.76,
+    "low": 6.18,
+    "prevClose": 6.39,
+    "volume": 93798,
+    "amount": 6089.0,
+    "totalMV": 3375000000.0,
+    "circMV": 3375000000.0,
+    "pe": -1315.02,
+    "pb": 1.39,
+    "turnover": 1.83,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

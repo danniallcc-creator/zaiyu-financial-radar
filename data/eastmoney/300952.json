@@ -2626,5 +2626,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300952",
+    "name": "恒辉安防",
+    "price": 19.2,
+    "change": -0.55,
+    "changePct": -2.78,
+    "open": 19.78,
+    "high": 19.91,
+    "low": 19.1,
+    "prevClose": 19.75,
+    "volume": 67535,
+    "amount": 13126.0,
+    "totalMV": 4639000000.0,
+    "circMV": 2853000000.0,
+    "pe": 57.06,
+    "pb": 2.77,
+    "turnover": 4.55,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

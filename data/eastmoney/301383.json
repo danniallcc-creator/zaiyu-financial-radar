@@ -2558,5 +2558,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301383",
+    "name": "天键股份",
+    "price": 27.56,
+    "change": 0.31,
+    "changePct": 1.14,
+    "open": 27.05,
+    "high": 28.15,
+    "low": 26.71,
+    "prevClose": 27.25,
+    "volume": 24510,
+    "amount": 6762.0,
+    "totalMV": 4502000000.0,
+    "circMV": 1946000000.0,
+    "pe": -63.73,
+    "pb": 2.31,
+    "turnover": 3.47,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

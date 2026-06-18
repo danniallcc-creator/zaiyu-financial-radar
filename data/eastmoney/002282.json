@@ -2662,5 +2662,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002282",
+    "name": "博深股份",
+    "price": 5.86,
+    "change": -0.05,
+    "changePct": -0.85,
+    "open": 5.86,
+    "high": 5.94,
+    "low": 5.77,
+    "prevClose": 5.91,
+    "volume": 38621,
+    "amount": 2266.0,
+    "totalMV": 3087000000.0,
+    "circMV": 2959000000.0,
+    "pe": 23.35,
+    "pb": 0.87,
+    "turnover": 0.76,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600438",
+    "name": "通威股份",
+    "price": 12.85,
+    "change": -0.33,
+    "changePct": -2.5,
+    "open": 13.17,
+    "high": 13.18,
+    "low": 12.82,
+    "prevClose": 13.18,
+    "volume": 503342,
+    "amount": 65212.0,
+    "totalMV": 57851000000.0,
+    "circMV": 57851000000.0,
+    "pe": -6.15,
+    "pb": 1.65,
+    "turnover": 1.12,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

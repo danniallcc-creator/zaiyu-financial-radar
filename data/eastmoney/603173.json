@@ -2505,5 +2505,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603173",
+    "name": "福斯达",
+    "price": 35.59,
+    "change": 1.8,
+    "changePct": 5.33,
+    "open": 33.79,
+    "high": 36.5,
+    "low": 33.21,
+    "prevClose": 33.79,
+    "volume": 30070,
+    "amount": 10653.0,
+    "totalMV": 5694000000.0,
+    "circMV": 5694000000.0,
+    "pe": 14.31,
+    "pb": 2.92,
+    "turnover": 1.88,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

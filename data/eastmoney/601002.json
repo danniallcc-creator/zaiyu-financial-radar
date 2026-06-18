@@ -2630,5 +2630,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601002",
+    "name": "晋亿实业",
+    "price": 4.65,
+    "change": -0.09,
+    "changePct": -1.9,
+    "open": 4.68,
+    "high": 4.72,
+    "low": 4.64,
+    "prevClose": 4.74,
+    "volume": 114677,
+    "amount": 5364.0,
+    "totalMV": 4438000000.0,
+    "circMV": 4438000000.0,
+    "pe": 17.29,
+    "pb": 1.03,
+    "turnover": 1.2,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

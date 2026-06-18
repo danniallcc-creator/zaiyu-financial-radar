@@ -2606,5 +2606,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300817",
+    "name": "双飞集团",
+    "price": 17.96,
+    "change": 0.21,
+    "changePct": 1.18,
+    "open": 17.66,
+    "high": 18.35,
+    "low": 17.59,
+    "prevClose": 17.75,
+    "volume": 25835,
+    "amount": 4640.0,
+    "totalMV": 3921000000.0,
+    "circMV": 2250000000.0,
+    "pe": 57.05,
+    "pb": 3.82,
+    "turnover": 2.06,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

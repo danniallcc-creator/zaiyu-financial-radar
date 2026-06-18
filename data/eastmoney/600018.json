@@ -2659,5 +2659,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600018",
+    "name": "上港集团",
+    "price": 4.89,
+    "change": -0.08,
+    "changePct": -1.61,
+    "open": 4.96,
+    "high": 4.96,
+    "low": 4.88,
+    "prevClose": 4.97,
+    "volume": 513780,
+    "amount": 25213.0,
+    "totalMV": 113839000000.00002,
+    "circMV": 113676000000.0,
+    "pe": 8.33,
+    "pb": 0.78,
+    "turnover": 0.22,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

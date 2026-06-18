@@ -2552,5 +2552,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600293",
+    "name": "三峡新材",
+    "price": 3.59,
+    "change": -0.29,
+    "changePct": -7.47,
+    "open": 3.79,
+    "high": 3.82,
+    "low": 3.49,
+    "prevClose": 3.88,
+    "volume": 1247835,
+    "amount": 45120.0,
+    "totalMV": 4165000000.0,
+    "circMV": 4165000000.0,
+    "pe": -63.33,
+    "pb": 2.44,
+    "turnover": 10.76,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

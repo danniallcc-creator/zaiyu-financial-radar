@@ -2578,5 +2578,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603959",
+    "name": "ST百利",
+    "price": 4.45,
+    "change": -0.04,
+    "changePct": -0.89,
+    "open": 4.71,
+    "high": 4.71,
+    "low": 4.37,
+    "prevClose": 4.49,
+    "volume": 266027,
+    "amount": 12046.0,
+    "totalMV": 2182000000.0,
+    "circMV": 2182000000.0,
+    "pe": -12.75,
+    "pb": 5580.43,
+    "turnover": 5.43,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

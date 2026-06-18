@@ -2632,5 +2632,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002338",
+    "name": "奥普光电",
+    "price": 54.0,
+    "change": -0.64,
+    "changePct": -1.17,
+    "open": 54.45,
+    "high": 54.69,
+    "low": 53.8,
+    "prevClose": 54.64,
+    "volume": 56706,
+    "amount": 30700.0,
+    "totalMV": 12960000000.0,
+    "circMV": 12960000000.0,
+    "pe": 132.5,
+    "pb": 9.07,
+    "turnover": 2.36,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

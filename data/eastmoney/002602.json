@@ -2620,5 +2620,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002602",
+    "name": "世纪华通",
+    "price": 12.94,
+    "change": -0.14,
+    "changePct": -1.07,
+    "open": 13.0,
+    "high": 13.28,
+    "low": 12.85,
+    "prevClose": 13.08,
+    "volume": 1085702,
+    "amount": 141213.0,
+    "totalMV": 95377000000.0,
+    "circMV": 87951000000.0,
+    "pe": 15.18,
+    "pb": 2.99,
+    "turnover": 1.6,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

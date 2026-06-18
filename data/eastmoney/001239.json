@@ -2409,5 +2409,24 @@
         "navRatio": 0.14
       }
     ]
+  },
+  "quote": {
+    "code": "001239",
+    "name": "永达股份",
+    "price": 15.12,
+    "change": -0.31,
+    "changePct": -2.01,
+    "open": 15.4,
+    "high": 15.54,
+    "low": 15.01,
+    "prevClose": 15.43,
+    "volume": 30086,
+    "amount": 4579.0,
+    "totalMV": 3629000000.0,
+    "circMV": 1723999999.9999998,
+    "pe": 113.93,
+    "pb": 2.67,
+    "turnover": 2.64,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

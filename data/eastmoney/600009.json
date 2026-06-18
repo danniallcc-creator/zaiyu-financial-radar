@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600009",
+    "name": "上海机场",
+    "price": 23.16,
+    "change": -0.44,
+    "changePct": -1.86,
+    "open": 23.52,
+    "high": 23.6,
+    "low": 23.1,
+    "prevClose": 23.6,
+    "volume": 83623,
+    "amount": 19429.0,
+    "totalMV": 57629000000.0,
+    "circMV": 47392000000.0,
+    "pe": 26.49,
+    "pb": 1.34,
+    "turnover": 0.41,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

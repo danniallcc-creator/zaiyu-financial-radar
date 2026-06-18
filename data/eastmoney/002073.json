@@ -2620,5 +2620,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002073",
+    "name": "软控股份",
+    "price": 5.34,
+    "change": -0.04,
+    "changePct": -0.74,
+    "open": 5.37,
+    "high": 5.41,
+    "low": 5.28,
+    "prevClose": 5.38,
+    "volume": 114062,
+    "amount": 6094.0,
+    "totalMV": 5470000000.0,
+    "circMV": 5415000000.0,
+    "pe": 15.3,
+    "pb": 0.86,
+    "turnover": 1.12,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

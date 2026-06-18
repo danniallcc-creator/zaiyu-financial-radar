@@ -2602,5 +2602,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "605378",
+    "name": "野马电池",
+    "price": 17.25,
+    "change": 0.67,
+    "changePct": 4.04,
+    "open": 16.23,
+    "high": 17.58,
+    "low": 16.06,
+    "prevClose": 16.58,
+    "volume": 87455,
+    "amount": 14851.0,
+    "totalMV": 4508000000.0,
+    "circMV": 4508000000.0,
+    "pe": 115.82,
+    "pb": 3.74,
+    "turnover": 3.35,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

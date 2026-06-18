@@ -2606,5 +2606,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002685",
+    "name": "华东重机",
+    "price": 7.14,
+    "change": 0.49,
+    "changePct": 7.37,
+    "open": 6.61,
+    "high": 7.32,
+    "low": 6.56,
+    "prevClose": 6.65,
+    "volume": 1071993,
+    "amount": 75932.0,
+    "totalMV": 7195000000.0,
+    "circMV": 7194000000.0,
+    "pe": 83.19,
+    "pb": 4.36,
+    "turnover": 10.64,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

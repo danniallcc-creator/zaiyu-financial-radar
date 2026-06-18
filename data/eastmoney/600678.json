@@ -2521,5 +2521,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600678",
+    "name": "ST金顶",
+    "price": 6.63,
+    "change": 0.24,
+    "changePct": 3.76,
+    "open": 6.28,
+    "high": 6.71,
+    "low": 6.23,
+    "prevClose": 6.39,
+    "volume": 316482,
+    "amount": 20827.0,
+    "totalMV": 2314000000.0,
+    "circMV": 2314000000.0,
+    "pe": -258.67,
+    "pb": 8.97,
+    "turnover": 9.07,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

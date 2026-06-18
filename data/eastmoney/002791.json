@@ -2553,5 +2553,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002791",
+    "name": "坚朗五金",
+    "price": 14.09,
+    "change": -0.01,
+    "changePct": -0.07,
+    "open": 14.01,
+    "high": 14.29,
+    "low": 13.7,
+    "prevClose": 14.1,
+    "volume": 53534,
+    "amount": 7509.0,
+    "totalMV": 4986000000.0,
+    "circMV": 3067000000.0,
+    "pe": -46.16,
+    "pb": 0.93,
+    "turnover": 2.46,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

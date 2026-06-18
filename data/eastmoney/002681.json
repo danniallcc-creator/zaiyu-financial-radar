@@ -2598,5 +2598,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002681",
+    "name": "奋达科技",
+    "price": 4.97,
+    "change": 0.1,
+    "changePct": 2.05,
+    "open": 4.86,
+    "high": 5.03,
+    "low": 4.67,
+    "prevClose": 4.87,
+    "volume": 591614,
+    "amount": 28782.0,
+    "totalMV": 8919000000.0,
+    "circMV": 7798999999.999999,
+    "pe": -63.96,
+    "pb": 4.19,
+    "turnover": 3.77,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

@@ -2492,5 +2492,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301575",
+    "name": "艾芬达",
+    "price": 28.83,
+    "change": 0.32,
+    "changePct": 1.12,
+    "open": 28.55,
+    "high": 29.44,
+    "low": 28.0,
+    "prevClose": 28.51,
+    "volume": 7595,
+    "amount": 2188.0,
+    "totalMV": 3497999999.9999995,
+    "circMV": 703000000.0,
+    "pe": 29.28,
+    "pb": 2.52,
+    "turnover": 3.12,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

@@ -2620,5 +2620,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603628",
+    "name": "清源股份",
+    "price": 9.94,
+    "change": -0.08,
+    "changePct": -0.8,
+    "open": 10.02,
+    "high": 10.03,
+    "low": 9.77,
+    "prevClose": 10.02,
+    "volume": 38094,
+    "amount": 3782.0,
+    "totalMV": 2715000000.0,
+    "circMV": 2705000000.0,
+    "pe": 90.65,
+    "pb": 2.07,
+    "turnover": 1.4,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

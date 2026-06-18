@@ -2614,5 +2614,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002438",
+    "name": "江苏神通",
+    "price": 15.46,
+    "change": -0.35,
+    "changePct": -2.21,
+    "open": 15.6,
+    "high": 15.95,
+    "low": 15.31,
+    "prevClose": 15.81,
+    "volume": 97253,
+    "amount": 15153.0,
+    "totalMV": 7847000000.0,
+    "circMV": 7248999999.999999,
+    "pe": 27.88,
+    "pb": 2.12,
+    "turnover": 2.07,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

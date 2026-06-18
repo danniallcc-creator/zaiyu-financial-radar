@@ -2516,5 +2516,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603059",
+    "name": "倍加洁",
+    "price": 26.01,
+    "change": 0.26,
+    "changePct": 1.01,
+    "open": 25.67,
+    "high": 26.13,
+    "low": 25.3,
+    "prevClose": 25.75,
+    "volume": 14944,
+    "amount": 3856.0,
+    "totalMV": 2613000000.0,
+    "circMV": 2613000000.0,
+    "pe": 21.42,
+    "pb": 2.34,
+    "turnover": 1.49,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

@@ -2596,5 +2596,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000027",
+    "name": "深圳能源",
+    "price": 6.88,
+    "change": -0.49,
+    "changePct": -6.65,
+    "open": 7.32,
+    "high": 7.39,
+    "low": 6.88,
+    "prevClose": 7.37,
+    "volume": 761740,
+    "amount": 53756.0,
+    "totalMV": 32731000000.0,
+    "circMV": 32731000000.0,
+    "pe": 16.36,
+    "pb": 0.98,
+    "turnover": 1.6,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

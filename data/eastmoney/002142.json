@@ -1738,5 +1738,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002142",
+    "name": "宁波银行",
+    "price": 30.78,
+    "change": -0.66,
+    "changePct": -2.1,
+    "open": 31.5,
+    "high": 31.59,
+    "low": 30.73,
+    "prevClose": 31.44,
+    "volume": 416053,
+    "amount": 129054.0,
+    "totalMV": 203259000000.0,
+    "circMV": 203131000000.0,
+    "pe": 6.75,
+    "pb": 0.87,
+    "turnover": 0.63,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

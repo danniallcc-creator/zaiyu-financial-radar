@@ -2531,5 +2531,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301032",
+    "name": "新柴股份",
+    "price": 10.27,
+    "change": -0.13,
+    "changePct": -1.25,
+    "open": 10.35,
+    "high": 10.42,
+    "low": 10.22,
+    "prevClose": 10.4,
+    "volume": 30631,
+    "amount": 3155.0,
+    "totalMV": 2476000000.0,
+    "circMV": 1642000000.0000002,
+    "pe": 22.06,
+    "pb": 1.99,
+    "turnover": 1.92,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

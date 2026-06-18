@@ -2596,5 +2596,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "605299",
+    "name": "舒华体育",
+    "price": 14.75,
+    "change": -0.01,
+    "changePct": -0.07,
+    "open": 14.66,
+    "high": 14.9,
+    "low": 14.46,
+    "prevClose": 14.76,
+    "volume": 120708,
+    "amount": 17761.0,
+    "totalMV": 6013000000.0,
+    "circMV": 6013000000.0,
+    "pe": 56.86,
+    "pb": 5.03,
+    "turnover": 2.96,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

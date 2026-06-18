@@ -1102,5 +1102,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "001312",
+    "name": "福恩股份",
+    "price": 19.84,
+    "change": -0.52,
+    "changePct": -2.55,
+    "open": 20.29,
+    "high": 20.32,
+    "low": 19.77,
+    "prevClose": 20.36,
+    "volume": 28617,
+    "amount": 5707.0,
+    "totalMV": 4629000000.0,
+    "circMV": 1134000000.0,
+    "pe": 19.98,
+    "pb": 1.98,
+    "turnover": 5.01,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

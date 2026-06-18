@@ -2501,5 +2501,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "605259",
+    "name": "绿田机械",
+    "price": 18.5,
+    "change": 0.15,
+    "changePct": 0.82,
+    "open": 18.3,
+    "high": 18.82,
+    "low": 17.77,
+    "prevClose": 18.35,
+    "volume": 23549,
+    "amount": 4322.0,
+    "totalMV": 3191000000.0,
+    "circMV": 3191000000.0,
+    "pe": 13.69,
+    "pb": 1.74,
+    "turnover": 1.37,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

@@ -2590,5 +2590,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600815",
+    "name": "厦工股份",
+    "price": 2.81,
+    "change": -0.08,
+    "changePct": -2.77,
+    "open": 2.88,
+    "high": 2.88,
+    "low": 2.77,
+    "prevClose": 2.89,
+    "volume": 473888,
+    "amount": 13317.0,
+    "totalMV": 4985000000.0,
+    "circMV": 4985000000.0,
+    "pe": -60.91,
+    "pb": 3.43,
+    "turnover": 2.67,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

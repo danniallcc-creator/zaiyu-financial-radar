@@ -2529,5 +2529,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603578",
+    "name": "三星新材",
+    "price": 13.07,
+    "change": -0.57,
+    "changePct": -4.18,
+    "open": 13.48,
+    "high": 13.64,
+    "low": 12.94,
+    "prevClose": 13.64,
+    "volume": 55667,
+    "amount": 7349.0,
+    "totalMV": 3059000000.0,
+    "circMV": 2357000000.0,
+    "pe": -16.72,
+    "pb": 2.16,
+    "turnover": 3.09,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

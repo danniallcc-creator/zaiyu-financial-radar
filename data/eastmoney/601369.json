@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601369",
+    "name": "陕鼓动力",
+    "price": 8.9,
+    "change": -0.28,
+    "changePct": -3.05,
+    "open": 9.1,
+    "high": 9.21,
+    "low": 8.88,
+    "prevClose": 9.18,
+    "volume": 108613,
+    "amount": 9767.0,
+    "totalMV": 15338999999.999998,
+    "circMV": 15185000000.0,
+    "pe": 22.17,
+    "pb": 1.74,
+    "turnover": 0.64,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

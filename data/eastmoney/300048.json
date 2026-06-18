@@ -2614,5 +2614,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300048",
+    "name": "合康新能",
+    "price": 5.07,
+    "change": -0.06,
+    "changePct": -1.17,
+    "open": 5.1,
+    "high": 5.15,
+    "low": 5.01,
+    "prevClose": 5.13,
+    "volume": 139541,
+    "amount": 7081.0,
+    "totalMV": 5741000000.0,
+    "circMV": 5730000000.0,
+    "pe": 257.72,
+    "pb": 3.13,
+    "turnover": 1.23,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

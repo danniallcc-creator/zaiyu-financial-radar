@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002032",
+    "name": "苏 泊 尔",
+    "price": 41.03,
+    "change": -0.65,
+    "changePct": -1.56,
+    "open": 41.8,
+    "high": 41.95,
+    "low": 40.92,
+    "prevClose": 41.68,
+    "volume": 12771,
+    "amount": 5279.0,
+    "totalMV": 32818000000.0,
+    "circMV": 32802999999.999996,
+    "pe": 15.59,
+    "pb": 7.12,
+    "turnover": 0.16,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

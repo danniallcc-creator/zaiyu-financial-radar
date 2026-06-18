@@ -2596,5 +2596,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300950",
+    "name": "德固特",
+    "price": 17.52,
+    "change": 0.11,
+    "changePct": 0.63,
+    "open": 17.41,
+    "high": 17.64,
+    "low": 17.12,
+    "prevClose": 17.41,
+    "volume": 18726,
+    "amount": 3265.0,
+    "totalMV": 2692000000.0,
+    "circMV": 1718000000.0,
+    "pe": 36.48,
+    "pb": 3.35,
+    "turnover": 1.91,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

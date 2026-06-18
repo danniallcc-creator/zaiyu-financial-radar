@@ -2556,5 +2556,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300203",
+    "name": "聚光科技",
+    "price": 13.05,
+    "change": -0.32,
+    "changePct": -2.39,
+    "open": 13.26,
+    "high": 13.38,
+    "low": 12.89,
+    "prevClose": 13.37,
+    "volume": 120927,
+    "amount": 15800.0,
+    "totalMV": 5856000000.0,
+    "circMV": 5851000000.0,
+    "pe": -20.56,
+    "pb": 2.26,
+    "turnover": 2.7,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

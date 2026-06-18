@@ -2686,5 +2686,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002027",
+    "name": "分众传媒",
+    "price": 5.02,
+    "change": -0.1,
+    "changePct": -1.95,
+    "open": 5.11,
+    "high": 5.13,
+    "low": 4.95,
+    "prevClose": 5.12,
+    "volume": 2284718,
+    "amount": 114749.0,
+    "totalMV": 72500000000.0,
+    "circMV": 72500000000.0,
+    "pe": 20.13,
+    "pb": 4.69,
+    "turnover": 1.58,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

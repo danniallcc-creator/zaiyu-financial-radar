@@ -2392,5 +2392,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301601",
+    "name": "惠通科技",
+    "price": 17.12,
+    "change": 0.06,
+    "changePct": 0.35,
+    "open": 17.02,
+    "high": 17.55,
+    "low": 16.68,
+    "prevClose": 17.06,
+    "volume": 19905,
+    "amount": 3408.0,
+    "totalMV": 2405000000.0,
+    "circMV": 1446000000.0,
+    "pe": 36.89,
+    "pb": 1.83,
+    "turnover": 2.36,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

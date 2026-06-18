@@ -2539,5 +2539,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600783",
+    "name": "鲁信创投",
+    "price": 21.13,
+    "change": 1.2,
+    "changePct": 6.02,
+    "open": 19.86,
+    "high": 21.92,
+    "low": 19.45,
+    "prevClose": 19.93,
+    "volume": 568327,
+    "amount": 120098.0,
+    "totalMV": 15728000000.0,
+    "circMV": 15728000000.0,
+    "pe": 94.2,
+    "pb": 3.57,
+    "turnover": 7.64,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

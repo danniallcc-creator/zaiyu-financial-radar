@@ -2686,5 +2686,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000963",
+    "name": "华东医药",
+    "price": 28.34,
+    "change": 0.64,
+    "changePct": 2.31,
+    "open": 27.61,
+    "high": 28.95,
+    "low": 27.49,
+    "prevClose": 27.7,
+    "volume": 157115,
+    "amount": 44611.0,
+    "totalMV": 49701000000.0,
+    "circMV": 49680000000.0,
+    "pe": 14.19,
+    "pb": 2.01,
+    "turnover": 0.9,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

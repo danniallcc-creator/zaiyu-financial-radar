@@ -2532,5 +2532,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002164",
+    "name": "宁波东力",
+    "price": 12.86,
+    "change": 0.03,
+    "changePct": 0.23,
+    "open": 12.73,
+    "high": 13.1,
+    "low": 12.73,
+    "prevClose": 12.83,
+    "volume": 174747,
+    "amount": 22518.0,
+    "totalMV": 6844000000.0,
+    "circMV": 6170000000.0,
+    "pe": 33.91,
+    "pb": 4.3,
+    "turnover": 3.64,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

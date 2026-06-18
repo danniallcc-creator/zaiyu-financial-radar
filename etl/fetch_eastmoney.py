@@ -78,45 +78,51 @@ def fetch_dc(table: str, code: str, page_size: int = 20) -> list:
 
 
 def fetch_push2(code: str) -> dict:
-    """实时行情 (push2 API)"""
-    if code.startswith('6'):
-        sid = f'1.{code}'
-    else:
-        sid = f'0.{code}'
-    url = f"https://push2.eastmoney.com/api/qt/stock/get?secid={sid}&fields=f43,f44,f45,f46,f47,f48,f50,f51,f52,f55,f57,f58,f60,f116,f117,f162,f167,f168,f169,f170"
+    """实时行情 (腾讯财经 API, push2 已被封锁)"""
+    tc_code = f'sh{code}' if code.startswith(('6',)) else f'sz{code}'
+    url = f'https://qt.gtimg.cn/q={tc_code}'
     try:
         result = subprocess.run(
             ['curl', '-s', '-f', '--max-time', '10', url,
-             '-H', 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'],
-            capture_output=True, text=True, timeout=15
+             '-H', 'Referer: https://finance.qq.com'],
+            capture_output=True, timeout=15
         )
         if result.returncode != 0:
             return {}
-        data = json.loads(result.stdout)
-        d = data.get('data')
-        if not d:
+        # 腾讯 API 返回 GBK 编码
+        text = result.stdout.decode('gbk', errors='replace')
+        content = text.split('"')[1] if '"' in text else ''
+        if not content:
             return {}
-        def sv(v, div=100):
-            if v is None or v == '-': return None
-            try: return round(float(v) / div, 4)
-            except: return None
+        f = content.split('~')
+        if len(f) < 47:
+            return {}
+
+        def pf(v):
+            try:
+                val = float(v)
+                return val if val != 0 else None
+            except (ValueError, TypeError):
+                return None
+
         return {
-            'code': d.get('f57', ''),
-            'name': d.get('f58', ''),
-            'price': sv(d.get('f43')),
-            'change': sv(d.get('f169')),
-            'changePct': sv(d.get('f170')),
-            'open': sv(d.get('f44')),
-            'high': sv(d.get('f45')),
-            'low': sv(d.get('f46')),
-            'prevClose': sv(d.get('f60')),
-            'volume': d.get('f47'),
-            'amount': d.get('f48'),
-            'totalMV': d.get('f116'),
-            'circMV': d.get('f117'),
-            'pe': sv(d.get('f162')),
-            'pb': sv(d.get('f167')),
-            'turnover': sv(d.get('f168')),
+            'code': f[2],
+            'name': f[1],
+            'price': pf(f[3]),
+            'change': pf(f[31]),
+            'changePct': pf(f[32]),
+            'open': pf(f[5]),
+            'high': pf(f[33]),
+            'low': pf(f[34]),
+            'prevClose': pf(f[4]),
+            'volume': int(float(f[6])) if f[6] else None,
+            'amount': pf(f[37]),
+            'totalMV': (pf(f[45]) or 0) * 1e8,   # 亿→元
+            'circMV': (pf(f[44]) or 0) * 1e8,    # 亿→元
+            'pe': pf(f[39]),
+            'pb': pf(f[46]),
+            'turnover': pf(f[38]),
+            'fetchTime': datetime.now().strftime('%Y-%m-%dT%H:%M:%S'),
         }
     except Exception as e:
         print(f"    [WARN] 行情失败: {e}")

@@ -2590,5 +2590,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688057",
+    "name": "金达莱",
+    "price": 13.32,
+    "change": -0.21,
+    "changePct": -1.55,
+    "open": 13.75,
+    "high": 13.79,
+    "low": 13.01,
+    "prevClose": 13.53,
+    "volume": 2997187,
+    "amount": 3971.0,
+    "totalMV": 3676000000.0,
+    "circMV": 3676000000.0,
+    "pe": 62.83,
+    "pb": 1.16,
+    "turnover": 1.09,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

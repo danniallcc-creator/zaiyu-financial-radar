@@ -2602,5 +2602,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600337",
+    "name": "ST美克",
+    "price": 2.93,
+    "change": -0.03,
+    "changePct": -1.01,
+    "open": 2.96,
+    "high": 3.06,
+    "low": 2.92,
+    "prevClose": 2.96,
+    "volume": 209278,
+    "amount": 6248.0,
+    "totalMV": 4210000000.0,
+    "circMV": 4210000000.0,
+    "pe": -1.74,
+    "pb": 10.73,
+    "turnover": 1.46,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

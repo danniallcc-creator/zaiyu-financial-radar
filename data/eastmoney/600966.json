@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600966",
+    "name": "博汇纸业",
+    "price": 5.01,
+    "change": -0.17,
+    "changePct": -3.28,
+    "open": 5.18,
+    "high": 5.19,
+    "low": 5.0,
+    "prevClose": 5.18,
+    "volume": 162098,
+    "amount": 8181.0,
+    "totalMV": 6698000000.0,
+    "circMV": 6698000000.0,
+    "pe": 42.53,
+    "pb": 0.9,
+    "turnover": 1.21,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

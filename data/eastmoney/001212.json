@@ -2450,5 +2450,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "001212",
+    "name": "中旗新材",
+    "price": 49.3,
+    "change": 3.0,
+    "changePct": 6.48,
+    "open": 46.05,
+    "high": 50.93,
+    "low": 46.05,
+    "prevClose": 46.3,
+    "volume": 149319,
+    "amount": 74034.0,
+    "totalMV": 9907000000.0,
+    "circMV": 8570999999.999999,
+    "pe": -414.76,
+    "pb": 5.16,
+    "turnover": 8.59,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

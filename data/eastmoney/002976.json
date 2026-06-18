@@ -2547,5 +2547,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002976",
+    "name": "瑞玛精密",
+    "price": 28.37,
+    "change": -0.3,
+    "changePct": -1.05,
+    "open": 29.35,
+    "high": 29.61,
+    "low": 28.01,
+    "prevClose": 28.67,
+    "volume": 128868,
+    "amount": 37173.0,
+    "totalMV": 4247000000.0,
+    "circMV": 2657000000.0,
+    "pe": -225.57,
+    "pb": 2.95,
+    "turnover": 13.76,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

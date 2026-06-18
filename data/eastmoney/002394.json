@@ -2662,5 +2662,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002394",
+    "name": "联发股份",
+    "price": 9.35,
+    "change": 0.17,
+    "changePct": 1.85,
+    "open": 9.15,
+    "high": 9.43,
+    "low": 9.04,
+    "prevClose": 9.18,
+    "volume": 82979,
+    "amount": 7684.0,
+    "totalMV": 3027000000.0,
+    "circMV": 3021000000.0,
+    "pe": 12.51,
+    "pb": 0.72,
+    "turnover": 2.57,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

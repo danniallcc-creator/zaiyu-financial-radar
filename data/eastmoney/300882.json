@@ -2551,5 +2551,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300882",
+    "name": "万胜智能",
+    "price": 15.03,
+    "change": -0.21,
+    "changePct": -1.38,
+    "open": 15.33,
+    "high": 15.34,
+    "low": 14.98,
+    "prevClose": 15.24,
+    "volume": 24086,
+    "amount": 3640.0,
+    "totalMV": 4302000000.0,
+    "circMV": 4003000000.0,
+    "pe": 39.84,
+    "pb": 3.49,
+    "turnover": 0.9,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

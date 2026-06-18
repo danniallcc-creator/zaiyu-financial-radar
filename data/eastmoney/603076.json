@@ -2606,5 +2606,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603076",
+    "name": "乐惠国际",
+    "price": 22.03,
+    "change": 0.33,
+    "changePct": 1.52,
+    "open": 21.51,
+    "high": 22.96,
+    "low": 21.12,
+    "prevClose": 21.7,
+    "volume": 49044,
+    "amount": 10893.0,
+    "totalMV": 2659000000.0,
+    "circMV": 2659000000.0,
+    "pe": 103.39,
+    "pb": 2.1,
+    "turnover": 4.06,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

@@ -2544,5 +2544,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000809",
+    "name": "和展能源",
+    "price": 3.68,
+    "change": -0.05,
+    "changePct": -1.34,
+    "open": 3.65,
+    "high": 3.75,
+    "low": 3.52,
+    "prevClose": 3.73,
+    "volume": 263144,
+    "amount": 9604.0,
+    "totalMV": 3035000000.0,
+    "circMV": 3035000000.0,
+    "pe": -69.03,
+    "pb": 1.14,
+    "turnover": 3.19,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

@@ -2544,5 +2544,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301533",
+    "name": "威马农机",
+    "price": 25.16,
+    "change": -0.17,
+    "changePct": -0.67,
+    "open": 25.33,
+    "high": 25.72,
+    "low": 24.98,
+    "prevClose": 25.33,
+    "volume": 8949,
+    "amount": 2264.0,
+    "totalMV": 2473000000.0,
+    "circMV": 715000000.0,
+    "pe": 86.86,
+    "pb": 2.25,
+    "turnover": 3.15,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

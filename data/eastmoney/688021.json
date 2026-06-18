@@ -2517,5 +2517,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688021",
+    "name": "奥福科技",
+    "price": 21.42,
+    "change": -0.1,
+    "changePct": -0.46,
+    "open": 21.48,
+    "high": 21.83,
+    "low": 21.04,
+    "prevClose": 21.52,
+    "volume": 1637940,
+    "amount": 3511.0,
+    "totalMV": 1637000000.0,
+    "circMV": 1637000000.0,
+    "pe": 56.62,
+    "pb": 1.87,
+    "turnover": 2.14,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

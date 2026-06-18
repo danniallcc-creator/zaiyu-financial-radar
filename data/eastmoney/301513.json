@@ -1332,5 +1332,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301513",
+    "name": "尚水智能",
+    "price": 64.52,
+    "change": 1.06,
+    "changePct": 1.67,
+    "open": 63.0,
+    "high": 64.95,
+    "low": 62.51,
+    "prevClose": 63.46,
+    "volume": 17402,
+    "amount": 11161.0,
+    "totalMV": 6452000000.0,
+    "circMV": 1300000000.0,
+    "pe": 47.13,
+    "pb": 4.94,
+    "turnover": 8.64,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

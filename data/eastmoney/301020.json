@@ -2523,5 +2523,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301020",
+    "name": "密封科技",
+    "price": 25.49,
+    "change": -0.16,
+    "changePct": -0.62,
+    "open": 25.36,
+    "high": 26.05,
+    "low": 25.08,
+    "prevClose": 25.65,
+    "volume": 49925,
+    "amount": 12735.0,
+    "totalMV": 3732000000.0,
+    "circMV": 3732000000.0,
+    "pe": 40.7,
+    "pb": 3.8,
+    "turnover": 3.41,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

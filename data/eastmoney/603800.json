@@ -2598,5 +2598,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603800",
+    "name": "洪田股份",
+    "price": 80.62,
+    "change": -0.71,
+    "changePct": -0.87,
+    "open": 81.0,
+    "high": 81.8,
+    "low": 78.71,
+    "prevClose": 81.33,
+    "volume": 74070,
+    "amount": 59646.0,
+    "totalMV": 16769000000.0,
+    "circMV": 16769000000.0,
+    "pe": 705.98,
+    "pb": 21.2,
+    "turnover": 3.56,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

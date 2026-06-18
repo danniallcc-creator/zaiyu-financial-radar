@@ -2589,5 +2589,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300809",
+    "name": "华辰装备",
+    "price": 31.97,
+    "change": 1.06,
+    "changePct": 3.43,
+    "open": 30.61,
+    "high": 32.2,
+    "low": 30.61,
+    "prevClose": 30.91,
+    "volume": 85906,
+    "amount": 27198.0,
+    "totalMV": 8106000000.0,
+    "circMV": 4814000000.0,
+    "pe": 42.36,
+    "pb": 4.43,
+    "turnover": 5.71,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

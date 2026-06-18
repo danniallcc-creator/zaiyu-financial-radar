@@ -2554,5 +2554,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603900",
+    "name": "莱绅通灵",
+    "price": 6.03,
+    "change": -0.04,
+    "changePct": -0.66,
+    "open": 6.05,
+    "high": 6.12,
+    "low": 5.94,
+    "prevClose": 6.07,
+    "volume": 65649,
+    "amount": 3964.0,
+    "totalMV": 2068000000.0,
+    "circMV": 2067000000.0000002,
+    "pe": 24.35,
+    "pb": 1.04,
+    "turnover": 1.92,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

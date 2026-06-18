@@ -2572,5 +2572,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301469",
+    "name": "恒达新材",
+    "price": 30.32,
+    "change": 0.21,
+    "changePct": 0.7,
+    "open": 29.88,
+    "high": 31.15,
+    "low": 29.85,
+    "prevClose": 30.11,
+    "volume": 15459,
+    "amount": 4696.0,
+    "totalMV": 2713000000.0,
+    "circMV": 1396000000.0,
+    "pe": 29.45,
+    "pb": 1.97,
+    "turnover": 3.36,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

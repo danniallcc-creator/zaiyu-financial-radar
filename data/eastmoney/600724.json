@@ -2614,5 +2614,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600724",
+    "name": "宁波富达",
+    "price": 6.14,
+    "change": -0.22,
+    "changePct": -3.46,
+    "open": 6.32,
+    "high": 6.34,
+    "low": 6.04,
+    "prevClose": 6.36,
+    "volume": 138023,
+    "amount": 8491.0,
+    "totalMV": 8874000000.0,
+    "circMV": 8872000000.0,
+    "pe": 47.85,
+    "pb": 3.22,
+    "turnover": 0.96,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

@@ -2644,5 +2644,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603889",
+    "name": "新澳股份",
+    "price": 5.7,
+    "change": -0.03,
+    "changePct": -0.52,
+    "open": 5.69,
+    "high": 5.78,
+    "low": 5.63,
+    "prevClose": 5.73,
+    "volume": 68268,
+    "amount": 3895.0,
+    "totalMV": 5410000000.0,
+    "circMV": 5370000000.0,
+    "pe": 10.84,
+    "pb": 1.52,
+    "turnover": 0.72,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

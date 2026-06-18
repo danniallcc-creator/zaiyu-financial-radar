@@ -2451,5 +2451,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300883",
+    "name": "龙利得",
+    "price": 6.32,
+    "change": -0.13,
+    "changePct": -2.02,
+    "open": 6.4,
+    "high": 6.52,
+    "low": 6.26,
+    "prevClose": 6.45,
+    "volume": 275517,
+    "amount": 17573.0,
+    "totalMV": 2187000000.0,
+    "circMV": 2089999999.9999998,
+    "pe": -168.22,
+    "pb": 1.55,
+    "turnover": 8.33,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

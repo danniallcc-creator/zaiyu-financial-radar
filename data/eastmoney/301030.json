@@ -2550,5 +2550,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301030",
+    "name": "*ST仕净",
+    "price": 10.55,
+    "change": -0.15,
+    "changePct": -1.4,
+    "open": 10.75,
+    "high": 11.03,
+    "low": 10.38,
+    "prevClose": 10.7,
+    "volume": 90307,
+    "amount": 9657.0,
+    "totalMV": 2135000000.0000002,
+    "circMV": 2132000000.0,
+    "pe": -1.41,
+    "pb": -5.37,
+    "turnover": 4.47,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

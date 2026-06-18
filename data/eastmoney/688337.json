@@ -2586,5 +2586,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688337",
+    "name": "XD普源精",
+    "price": 78.7,
+    "change": 0.53,
+    "changePct": 0.68,
+    "open": 78.0,
+    "high": 79.93,
+    "low": 76.78,
+    "prevClose": 78.17,
+    "volume": 7928266,
+    "amount": 62049.0,
+    "totalMV": 15258000000.000002,
+    "circMV": 14632000000.0,
+    "pe": 144.69,
+    "pb": 4.92,
+    "turnover": 4.26,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

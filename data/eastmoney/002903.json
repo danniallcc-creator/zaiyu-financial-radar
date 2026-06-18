@@ -2598,5 +2598,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002903",
+    "name": "宇环数控",
+    "price": 54.25,
+    "change": 0.93,
+    "changePct": 1.74,
+    "open": 53.0,
+    "high": 54.9,
+    "low": 52.5,
+    "prevClose": 53.32,
+    "volume": 104305,
+    "amount": 56552.0,
+    "totalMV": 8501000000.000001,
+    "circMV": 5787000000.0,
+    "pe": -268.88,
+    "pb": 10.92,
+    "turnover": 9.78,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

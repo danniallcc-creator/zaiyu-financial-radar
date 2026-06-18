@@ -2529,5 +2529,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300083",
+    "name": "创世纪",
+    "price": 11.7,
+    "change": 0.46,
+    "changePct": 4.09,
+    "open": 11.2,
+    "high": 11.91,
+    "low": 11.14,
+    "prevClose": 11.24,
+    "volume": 1131665,
+    "amount": 132190.0,
+    "totalMV": 19479000000.0,
+    "circMV": 17458000000.0,
+    "pe": 166.28,
+    "pb": 3.67,
+    "turnover": 7.58,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

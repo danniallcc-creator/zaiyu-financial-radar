@@ -2594,5 +2594,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "001288",
+    "name": "运机集团",
+    "price": 27.32,
+    "change": 0.93,
+    "changePct": 3.52,
+    "open": 26.47,
+    "high": 27.58,
+    "low": 26.11,
+    "prevClose": 26.39,
+    "volume": 51468,
+    "amount": 13968.0,
+    "totalMV": 6417000000.0,
+    "circMV": 4150000000.0,
+    "pe": 30.81,
+    "pb": 2.8,
+    "turnover": 3.39,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

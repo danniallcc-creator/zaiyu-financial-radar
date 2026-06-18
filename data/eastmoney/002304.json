@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002304",
+    "name": "洋河股份",
+    "price": 41.03,
+    "change": -1.05,
+    "changePct": -2.5,
+    "open": 41.95,
+    "high": 42.0,
+    "low": 40.74,
+    "prevClose": 42.08,
+    "volume": 66536,
+    "amount": 27436.0,
+    "totalMV": 61809000000.0,
+    "circMV": 61808000000.00001,
+    "pe": 60.87,
+    "pb": 1.26,
+    "turnover": 0.44,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

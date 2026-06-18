@@ -2557,5 +2557,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603165",
+    "name": "荣晟环保",
+    "price": 15.6,
+    "change": -0.1,
+    "changePct": -0.64,
+    "open": 15.72,
+    "high": 15.9,
+    "low": 15.17,
+    "prevClose": 15.7,
+    "volume": 78319,
+    "amount": 12084.0,
+    "totalMV": 4879000000.0,
+    "circMV": 4879000000.0,
+    "pe": 21.3,
+    "pb": 2.18,
+    "turnover": 2.5,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

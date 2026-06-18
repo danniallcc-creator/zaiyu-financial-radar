@@ -2540,5 +2540,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688115",
+    "name": "思林杰",
+    "price": 58.96,
+    "change": 0.51,
+    "changePct": 0.87,
+    "open": 58.35,
+    "high": 59.2,
+    "low": 56.88,
+    "prevClose": 58.45,
+    "volume": 1553958,
+    "amount": 9029.0,
+    "totalMV": 3931000000.0,
+    "circMV": 3931000000.0,
+    "pe": 503.45,
+    "pb": 3.08,
+    "turnover": 2.33,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

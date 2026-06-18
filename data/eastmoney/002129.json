@@ -2666,5 +2666,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002129",
+    "name": "TCL中环",
+    "price": 10.26,
+    "change": -0.45,
+    "changePct": -4.2,
+    "open": 10.66,
+    "high": 10.66,
+    "low": 10.2,
+    "prevClose": 10.71,
+    "volume": 2533287,
+    "amount": 262965.0,
+    "totalMV": 41482000000.0,
+    "circMV": 41448000000.0,
+    "pe": -4.61,
+    "pb": 2.07,
+    "turnover": 6.27,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

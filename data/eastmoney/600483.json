@@ -2635,5 +2635,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600483",
+    "name": "福能股份",
+    "price": 11.16,
+    "change": -0.44,
+    "changePct": -3.79,
+    "open": 11.56,
+    "high": 11.67,
+    "low": 11.03,
+    "prevClose": 11.6,
+    "volume": 450129,
+    "amount": 50678.0,
+    "totalMV": 31026000000.0,
+    "circMV": 31026000000.0,
+    "pe": 10.87,
+    "pb": 1.11,
+    "turnover": 1.62,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

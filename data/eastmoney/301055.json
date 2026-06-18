@@ -2507,5 +2507,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301055",
+    "name": "张小泉",
+    "price": 38.96,
+    "change": -0.93,
+    "changePct": -2.33,
+    "open": 39.88,
+    "high": 40.54,
+    "low": 38.6,
+    "prevClose": 39.89,
+    "volume": 74673,
+    "amount": 29474.0,
+    "totalMV": 6078000000.0,
+    "circMV": 5948000000.0,
+    "pe": 85.32,
+    "pb": 8.67,
+    "turnover": 4.89,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

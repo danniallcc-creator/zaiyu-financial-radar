@@ -2515,5 +2515,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "605155",
+    "name": "西大门",
+    "price": 13.55,
+    "change": 0.07,
+    "changePct": 0.52,
+    "open": 13.38,
+    "high": 13.82,
+    "low": 13.21,
+    "prevClose": 13.48,
+    "volume": 29535,
+    "amount": 3996.0,
+    "totalMV": 2592000000.0,
+    "circMV": 2532000000.0,
+    "pe": 23.85,
+    "pb": 1.95,
+    "turnover": 1.58,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

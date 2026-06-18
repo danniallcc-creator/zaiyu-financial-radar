@@ -2556,5 +2556,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300145",
+    "name": "南方泵业",
+    "price": 5.64,
+    "change": 0.09,
+    "changePct": 1.62,
+    "open": 5.54,
+    "high": 5.84,
+    "low": 5.4,
+    "prevClose": 5.55,
+    "volume": 2033879,
+    "amount": 114357.0,
+    "totalMV": 10830000000.0,
+    "circMV": 10777000000.0,
+    "pe": 43.24,
+    "pb": 3.76,
+    "turnover": 10.64,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600232",
+    "name": "金鹰股份",
+    "price": 6.76,
+    "change": 0.0,
+    "changePct": 0.0,
+    "open": 6.75,
+    "high": 6.85,
+    "low": 6.62,
+    "prevClose": 6.76,
+    "volume": 52352,
+    "amount": 3538.0,
+    "totalMV": 2465000000.0,
+    "circMV": 2465000000.0,
+    "pe": 67.3,
+    "pb": 2.56,
+    "turnover": 1.44,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

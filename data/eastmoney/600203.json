@@ -2516,5 +2516,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600203",
+    "name": "福日电子",
+    "price": 12.46,
+    "change": -0.17,
+    "changePct": -1.35,
+    "open": 12.55,
+    "high": 12.65,
+    "low": 12.35,
+    "prevClose": 12.63,
+    "volume": 239658,
+    "amount": 29930.0,
+    "totalMV": 7389000000.0,
+    "circMV": 7389000000.0,
+    "pe": 193.42,
+    "pb": 4.48,
+    "turnover": 4.04,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

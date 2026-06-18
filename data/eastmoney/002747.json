@@ -2593,5 +2593,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002747",
+    "name": "埃斯顿",
+    "price": 36.5,
+    "change": 3.32,
+    "changePct": 10.01,
+    "open": 33.53,
+    "high": 36.5,
+    "low": 33.29,
+    "prevClose": 33.18,
+    "volume": 729035,
+    "amount": 257806.0,
+    "totalMV": 35325000000.0,
+    "circMV": 28558000000.0,
+    "pe": 271.36,
+    "pb": 10.91,
+    "turnover": 9.32,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

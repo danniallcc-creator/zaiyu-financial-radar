@@ -2632,5 +2632,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002351",
+    "name": "漫步者",
+    "price": 10.0,
+    "change": -0.04,
+    "changePct": -0.4,
+    "open": 9.99,
+    "high": 10.08,
+    "low": 9.86,
+    "prevClose": 10.04,
+    "volume": 57773,
+    "amount": 5755.0,
+    "totalMV": 8891000000.0,
+    "circMV": 5211000000.0,
+    "pe": 20.63,
+    "pb": 3.07,
+    "turnover": 1.11,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

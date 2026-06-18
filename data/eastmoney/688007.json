@@ -2521,5 +2521,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688007",
+    "name": "光峰科技",
+    "price": 13.21,
+    "change": 0.25,
+    "changePct": 1.93,
+    "open": 12.91,
+    "high": 13.38,
+    "low": 12.76,
+    "prevClose": 12.96,
+    "volume": 7428935,
+    "amount": 9748.0,
+    "totalMV": 6072000000.0,
+    "circMV": 6072000000.0,
+    "pe": -20.97,
+    "pb": 2.52,
+    "turnover": 1.62,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

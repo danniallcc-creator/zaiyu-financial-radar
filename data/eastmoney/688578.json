@@ -2588,5 +2588,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688578",
+    "name": "艾力斯",
+    "price": 85.0,
+    "change": 1.94,
+    "changePct": 2.34,
+    "open": 83.6,
+    "high": 87.1,
+    "low": 82.5,
+    "prevClose": 83.06,
+    "volume": 5111938,
+    "amount": 43611.0,
+    "totalMV": 38250000000.0,
+    "circMV": 38250000000.0,
+    "pe": 15.84,
+    "pb": 5.12,
+    "turnover": 1.14,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

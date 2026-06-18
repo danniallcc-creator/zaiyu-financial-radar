@@ -2611,5 +2611,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000026",
+    "name": "飞亚达",
+    "price": 21.31,
+    "change": -0.01,
+    "changePct": -0.05,
+    "open": 21.2,
+    "high": 21.5,
+    "low": 20.37,
+    "prevClose": 21.32,
+    "volume": 115744,
+    "amount": 24334.0,
+    "totalMV": 8647000000.0,
+    "circMV": 7769000000.0,
+    "pe": 80.74,
+    "pb": 2.58,
+    "turnover": 3.17,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

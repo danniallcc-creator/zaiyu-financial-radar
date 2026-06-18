@@ -2622,5 +2622,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002255",
+    "name": "海陆重工",
+    "price": 9.36,
+    "change": -0.14,
+    "changePct": -1.47,
+    "open": 9.5,
+    "high": 9.63,
+    "low": 9.3,
+    "prevClose": 9.5,
+    "volume": 183414,
+    "amount": 17290.0,
+    "totalMV": 7777000000.0,
+    "circMV": 5971000000.0,
+    "pe": 17.41,
+    "pb": 1.7,
+    "turnover": 2.87,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

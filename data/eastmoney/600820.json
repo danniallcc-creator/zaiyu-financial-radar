@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600820",
+    "name": "隧道股份",
+    "price": 5.44,
+    "change": -0.01,
+    "changePct": -0.18,
+    "open": 5.46,
+    "high": 5.47,
+    "low": 5.38,
+    "prevClose": 5.45,
+    "volume": 152052,
+    "amount": 8248.0,
+    "totalMV": 17104000000.0,
+    "circMV": 17104000000.0,
+    "pe": 7.84,
+    "pb": 0.53,
+    "turnover": 0.48,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

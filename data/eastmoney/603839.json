@@ -2553,5 +2553,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603839",
+    "name": "安正时尚",
+    "price": 6.18,
+    "change": -0.02,
+    "changePct": -0.32,
+    "open": 6.19,
+    "high": 6.26,
+    "low": 6.09,
+    "prevClose": 6.2,
+    "volume": 37671,
+    "amount": 2331.0,
+    "totalMV": 2392000000.0,
+    "circMV": 2392000000.0,
+    "pe": -13.19,
+    "pb": 1.42,
+    "turnover": 0.97,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

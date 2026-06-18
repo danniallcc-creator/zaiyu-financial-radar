@@ -2514,5 +2514,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002248",
+    "name": "华东数控",
+    "price": 9.86,
+    "change": 0.34,
+    "changePct": 3.57,
+    "open": 9.49,
+    "high": 10.12,
+    "low": 9.37,
+    "prevClose": 9.52,
+    "volume": 174207,
+    "amount": 16961.0,
+    "totalMV": 3032000000.0,
+    "circMV": 3032000000.0,
+    "pe": 89.39,
+    "pb": 26.43,
+    "turnover": 5.67,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

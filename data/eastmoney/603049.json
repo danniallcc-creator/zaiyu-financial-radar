@@ -2567,5 +2567,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603049",
+    "name": "XD中策橡",
+    "price": 44.37,
+    "change": -0.99,
+    "changePct": -2.18,
+    "open": 45.66,
+    "high": 45.66,
+    "low": 44.19,
+    "prevClose": 45.36,
+    "volume": 30244,
+    "amount": 13476.0,
+    "totalMV": 38801000000.0,
+    "circMV": 22406000000.0,
+    "pe": 9.2,
+    "pb": 1.6,
+    "turnover": 0.6,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

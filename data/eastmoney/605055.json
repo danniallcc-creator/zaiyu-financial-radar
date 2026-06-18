@@ -2491,5 +2491,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "605055",
+    "name": "迎丰股份",
+    "price": 11.52,
+    "change": 0.0,
+    "changePct": 0.0,
+    "open": 11.45,
+    "high": 11.6,
+    "low": 10.9,
+    "prevClose": 11.52,
+    "volume": 104848,
+    "amount": 11814.0,
+    "totalMV": 5069000000.0,
+    "circMV": 5069000000.0,
+    "pe": -79.94,
+    "pb": 5.3,
+    "turnover": 2.38,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

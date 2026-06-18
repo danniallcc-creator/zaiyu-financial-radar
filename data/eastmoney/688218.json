@@ -2545,5 +2545,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688218",
+    "name": "江苏北人",
+    "price": 55.0,
+    "change": 0.2,
+    "changePct": 0.36,
+    "open": 55.47,
+    "high": 57.45,
+    "low": 54.0,
+    "prevClose": 54.8,
+    "volume": 7408970,
+    "amount": 41174.0,
+    "totalMV": 6406000000.0,
+    "circMV": 6406000000.0,
+    "pe": -110.37,
+    "pb": 7.51,
+    "turnover": 6.36,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

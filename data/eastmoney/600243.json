@@ -2598,5 +2598,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600243",
+    "name": "*ST海华",
+    "price": 3.75,
+    "change": -0.09,
+    "changePct": -2.34,
+    "open": 3.86,
+    "high": 3.91,
+    "low": 3.71,
+    "prevClose": 3.84,
+    "volume": 88384,
+    "amount": 3354.0,
+    "totalMV": 1646000000.0,
+    "circMV": 1646000000.0,
+    "pe": -18.67,
+    "pb": 2.98,
+    "turnover": 2.01,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

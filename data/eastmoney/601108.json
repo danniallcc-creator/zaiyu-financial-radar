@@ -1708,5 +1708,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601108",
+    "name": "财通证券",
+    "price": 7.52,
+    "change": -0.36,
+    "changePct": -4.57,
+    "open": 7.87,
+    "high": 7.88,
+    "low": 7.52,
+    "prevClose": 7.88,
+    "volume": 638770,
+    "amount": 48910.0,
+    "totalMV": 34921000000.0,
+    "circMV": 34921000000.0,
+    "pe": 11.8,
+    "pb": 0.92,
+    "turnover": 1.38,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

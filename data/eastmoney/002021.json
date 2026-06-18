@@ -2610,5 +2610,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002021",
+    "name": "中捷资源",
+    "price": 2.47,
+    "change": -0.02,
+    "changePct": -0.8,
+    "open": 2.5,
+    "high": 2.53,
+    "low": 2.44,
+    "prevClose": 2.49,
+    "volume": 289248,
+    "amount": 7172.0,
+    "totalMV": 2953000000.0,
+    "circMV": 2953000000.0,
+    "pe": -139.8,
+    "pb": 4.82,
+    "turnover": 2.42,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

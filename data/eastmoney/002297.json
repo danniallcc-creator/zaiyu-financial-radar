@@ -2426,5 +2426,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002297",
+    "name": "博云新材",
+    "price": 28.36,
+    "change": 2.58,
+    "changePct": 10.01,
+    "open": 25.7,
+    "high": 28.36,
+    "low": 25.59,
+    "prevClose": 25.78,
+    "volume": 1178510,
+    "amount": 329250.0,
+    "totalMV": 16253000000.0,
+    "circMV": 16253000000.0,
+    "pe": 84.14,
+    "pb": 7.19,
+    "turnover": 20.56,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

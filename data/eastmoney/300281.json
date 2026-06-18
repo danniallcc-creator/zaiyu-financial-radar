@@ -2596,5 +2596,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300281",
+    "name": "金明精机",
+    "price": 6.86,
+    "change": 0.0,
+    "changePct": 0.0,
+    "open": 6.8,
+    "high": 6.93,
+    "low": 6.72,
+    "prevClose": 6.86,
+    "volume": 113032,
+    "amount": 7727.0,
+    "totalMV": 2874000000.0,
+    "circMV": 2726000000.0,
+    "pe": -3300.65,
+    "pb": 2.32,
+    "turnover": 2.84,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

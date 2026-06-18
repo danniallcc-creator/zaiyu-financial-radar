@@ -2593,5 +2593,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002342",
+    "name": "巨力索具",
+    "price": 9.97,
+    "change": -0.29,
+    "changePct": -2.83,
+    "open": 10.32,
+    "high": 10.32,
+    "low": 9.95,
+    "prevClose": 10.26,
+    "volume": 600769,
+    "amount": 60487.0,
+    "totalMV": 9571000000.0,
+    "circMV": 9518000000.0,
+    "pe": 631.27,
+    "pb": 3.92,
+    "turnover": 6.29,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

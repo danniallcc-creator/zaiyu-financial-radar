@@ -2588,5 +2588,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600526",
+    "name": "菲达环保",
+    "price": 4.42,
+    "change": 0.02,
+    "changePct": 0.45,
+    "open": 4.37,
+    "high": 4.42,
+    "low": 4.31,
+    "prevClose": 4.4,
+    "volume": 79213,
+    "amount": 3466.0,
+    "totalMV": 3928000000.0,
+    "circMV": 3859000000.0000005,
+    "pe": 12.7,
+    "pb": 0.86,
+    "turnover": 0.91,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

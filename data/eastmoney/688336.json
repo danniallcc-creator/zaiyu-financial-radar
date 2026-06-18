@@ -2588,5 +2588,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688336",
+    "name": "DR三生国",
+    "price": 40.15,
+    "change": 1.68,
+    "changePct": 4.37,
+    "open": 38.8,
+    "high": 41.82,
+    "low": 37.67,
+    "prevClose": 38.47,
+    "volume": 11226769,
+    "amount": 44912.0,
+    "totalMV": 35983000000.0,
+    "circMV": 35908000000.0,
+    "pe": 12.1,
+    "pb": 4.31,
+    "turnover": 1.26,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

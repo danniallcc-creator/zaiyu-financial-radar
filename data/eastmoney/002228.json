@@ -2659,5 +2659,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002228",
+    "name": "合兴包装",
+    "price": 3.15,
+    "change": -0.03,
+    "changePct": -0.94,
+    "open": 3.18,
+    "high": 3.19,
+    "low": 3.09,
+    "prevClose": 3.18,
+    "volume": 169310,
+    "amount": 5336.0,
+    "totalMV": 3822000000.0,
+    "circMV": 3809000000.0000005,
+    "pe": 40.48,
+    "pb": 1.27,
+    "turnover": 1.4,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

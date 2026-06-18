@@ -2198,5 +2198,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "001289",
+    "name": "龙源电力",
+    "price": 16.59,
+    "change": -0.78,
+    "changePct": -4.49,
+    "open": 17.18,
+    "high": 17.28,
+    "low": 16.58,
+    "prevClose": 17.37,
+    "volume": 103434,
+    "amount": 17421.0,
+    "totalMV": 138689000000.0,
+    "circMV": 83646000000.0,
+    "pe": 32.67,
+    "pb": 1.81,
+    "turnover": 0.21,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

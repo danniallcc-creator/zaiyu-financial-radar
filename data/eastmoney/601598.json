@@ -2656,5 +2656,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601598",
+    "name": "中国外运",
+    "price": 5.53,
+    "change": -0.08,
+    "changePct": -1.43,
+    "open": 5.62,
+    "high": 5.63,
+    "low": 5.48,
+    "prevClose": 5.61,
+    "volume": 130259,
+    "amount": 7210.0,
+    "totalMV": 39671000000.0,
+    "circMV": 28520999999.999996,
+    "pe": 9.78,
+    "pb": 0.95,
+    "turnover": 0.25,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

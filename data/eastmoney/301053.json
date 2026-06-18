@@ -2513,5 +2513,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301053",
+    "name": "远信工业",
+    "price": 42.77,
+    "change": 1.35,
+    "changePct": 3.26,
+    "open": 41.03,
+    "high": 43.04,
+    "low": 41.0,
+    "prevClose": 41.42,
+    "volume": 39418,
+    "amount": 16658.0,
+    "totalMV": 5641000000.0,
+    "circMV": 5238000000.0,
+    "pe": 267.97,
+    "pb": 6.37,
+    "turnover": 3.22,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

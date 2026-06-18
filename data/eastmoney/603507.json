@@ -2615,5 +2615,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603507",
+    "name": "振江股份",
+    "price": 37.85,
+    "change": 0.35,
+    "changePct": 0.93,
+    "open": 37.49,
+    "high": 38.26,
+    "low": 37.19,
+    "prevClose": 37.5,
+    "volume": 44029,
+    "amount": 16657.0,
+    "totalMV": 6956999999.999999,
+    "circMV": 6880000000.0,
+    "pe": 34.56,
+    "pb": 2.68,
+    "turnover": 2.42,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

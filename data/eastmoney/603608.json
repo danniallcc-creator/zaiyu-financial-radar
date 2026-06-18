@@ -2533,5 +2533,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603608",
+    "name": "天创时尚",
+    "price": 24.6,
+    "change": -1.48,
+    "changePct": -5.67,
+    "open": 24.87,
+    "high": 26.14,
+    "low": 24.0,
+    "prevClose": 26.08,
+    "volume": 390442,
+    "amount": 97543.0,
+    "totalMV": 10326000000.0,
+    "circMV": 10326000000.0,
+    "pe": 362.5,
+    "pb": 9.43,
+    "turnover": 9.3,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

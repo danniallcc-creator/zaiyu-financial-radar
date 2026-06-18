@@ -1683,5 +1683,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601997",
+    "name": "贵阳银行",
+    "price": 5.43,
+    "change": -0.15,
+    "changePct": -2.69,
+    "open": 5.59,
+    "high": 5.6,
+    "low": 5.42,
+    "prevClose": 5.58,
+    "volume": 441164,
+    "amount": 24185.0,
+    "totalMV": 19853000000.0,
+    "circMV": 19853000000.0,
+    "pe": 3.76,
+    "pb": 0.31,
+    "turnover": 1.21,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

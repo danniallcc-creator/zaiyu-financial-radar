@@ -2513,5 +2513,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301222",
+    "name": "浙江恒威",
+    "price": 33.95,
+    "change": 1.1,
+    "changePct": 3.35,
+    "open": 32.86,
+    "high": 36.35,
+    "low": 32.74,
+    "prevClose": 32.85,
+    "volume": 104698,
+    "amount": 36211.0,
+    "totalMV": 4764000000.0,
+    "circMV": 3619000000.0,
+    "pe": 53.95,
+    "pb": 3.36,
+    "turnover": 9.82,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

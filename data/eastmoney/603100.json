@@ -2665,5 +2665,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603100",
+    "name": "川仪股份",
+    "price": 17.37,
+    "change": -0.03,
+    "changePct": -0.17,
+    "open": 17.5,
+    "high": 17.55,
+    "low": 17.15,
+    "prevClose": 17.4,
+    "volume": 41305,
+    "amount": 7148.0,
+    "totalMV": 8914000000.0,
+    "circMV": 8885000000.0,
+    "pe": 13.9,
+    "pb": 1.9,
+    "turnover": 0.81,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

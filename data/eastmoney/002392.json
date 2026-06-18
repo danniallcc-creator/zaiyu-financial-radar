@@ -2605,5 +2605,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002392",
+    "name": "北京利尔",
+    "price": 8.81,
+    "change": 0.8,
+    "changePct": 9.99,
+    "open": 8.01,
+    "high": 8.81,
+    "low": 8.01,
+    "prevClose": 8.01,
+    "volume": 360221,
+    "amount": 31059.0,
+    "totalMV": 10488000000.0,
+    "circMV": 10198000000.0,
+    "pe": 25.9,
+    "pb": 1.76,
+    "turnover": 3.11,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

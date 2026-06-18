@@ -2501,5 +2501,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603015",
+    "name": "弘讯科技",
+    "price": 12.25,
+    "change": -0.02,
+    "changePct": -0.16,
+    "open": 12.2,
+    "high": 12.66,
+    "low": 12.1,
+    "prevClose": 12.27,
+    "volume": 125724,
+    "amount": 15611.0,
+    "totalMV": 4952000000.0,
+    "circMV": 4952000000.0,
+    "pe": 187.2,
+    "pb": 3.64,
+    "turnover": 3.11,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

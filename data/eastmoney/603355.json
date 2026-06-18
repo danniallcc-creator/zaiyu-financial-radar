@@ -2609,5 +2609,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603355",
+    "name": "莱克电气",
+    "price": 30.4,
+    "change": 1.59,
+    "changePct": 5.52,
+    "open": 29.67,
+    "high": 30.8,
+    "low": 28.6,
+    "prevClose": 28.81,
+    "volume": 43533,
+    "amount": 13019.0,
+    "totalMV": 17431000000.0,
+    "circMV": 17431000000.0,
+    "pe": 29.61,
+    "pb": 3.08,
+    "turnover": 0.76,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

@@ -1777,5 +1777,24 @@
         "status": "股东大会决议通过"
       }
     ]
+  },
+  "quote": {
+    "code": "301491",
+    "name": "汉桑科技",
+    "price": 44.31,
+    "change": 0.2,
+    "changePct": 0.45,
+    "open": 44.0,
+    "high": 44.89,
+    "low": 43.57,
+    "prevClose": 44.11,
+    "volume": 6448,
+    "amount": 2853.0,
+    "totalMV": 5716000000.0,
+    "circMV": 1267000000.0,
+    "pe": 26.58,
+    "pb": 2.63,
+    "turnover": 2.26,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

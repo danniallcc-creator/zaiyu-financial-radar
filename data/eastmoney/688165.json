@@ -2474,5 +2474,24 @@
         "navRatio": 0.57
       }
     ]
+  },
+  "quote": {
+    "code": "688165",
+    "name": "埃夫特-U",
+    "price": 21.03,
+    "change": 1.1,
+    "changePct": 5.52,
+    "open": 20.17,
+    "high": 21.47,
+    "low": 20.03,
+    "prevClose": 19.93,
+    "volume": 20513552,
+    "amount": 42630.0,
+    "totalMV": 10973000000.0,
+    "circMV": 10973000000.0,
+    "pe": -24.97,
+    "pb": 9.08,
+    "turnover": 3.93,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

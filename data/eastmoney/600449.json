@@ -2270,5 +2270,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600449",
+    "name": "宁夏建材",
+    "price": 13.01,
+    "change": 0.09,
+    "changePct": 0.7,
+    "open": 12.81,
+    "high": 13.17,
+    "low": 12.65,
+    "prevClose": 12.92,
+    "volume": 45265,
+    "amount": 5838.0,
+    "totalMV": 6221000000.0,
+    "circMV": 6221000000.0,
+    "pe": 33.45,
+    "pb": 0.85,
+    "turnover": 0.95,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

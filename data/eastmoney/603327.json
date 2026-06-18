@@ -2556,5 +2556,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603327",
+    "name": "福蓉科技",
+    "price": 10.65,
+    "change": -0.15,
+    "changePct": -1.39,
+    "open": 10.87,
+    "high": 10.9,
+    "low": 10.55,
+    "prevClose": 10.8,
+    "volume": 277249,
+    "amount": 29573.0,
+    "totalMV": 11134000000.0,
+    "circMV": 11134000000.0,
+    "pe": 76.26,
+    "pb": 4.66,
+    "turnover": 2.65,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

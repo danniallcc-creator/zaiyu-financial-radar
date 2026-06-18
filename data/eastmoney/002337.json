@@ -2636,5 +2636,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002337",
+    "name": "赛象科技",
+    "price": 4.83,
+    "change": 0.01,
+    "changePct": 0.21,
+    "open": 4.83,
+    "high": 4.87,
+    "low": 4.72,
+    "prevClose": 4.82,
+    "volume": 75307,
+    "amount": 3621.0,
+    "totalMV": 2843000000.0,
+    "circMV": 2840000000.0,
+    "pe": 56.6,
+    "pb": 2.16,
+    "turnover": 1.28,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

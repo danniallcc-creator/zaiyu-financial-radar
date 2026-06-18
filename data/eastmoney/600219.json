@@ -2611,5 +2611,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600219",
+    "name": "南山铝业",
+    "price": 4.53,
+    "change": -0.1,
+    "changePct": -2.16,
+    "open": 4.59,
+    "high": 4.71,
+    "low": 4.51,
+    "prevClose": 4.63,
+    "volume": 1819445,
+    "amount": 83405.0,
+    "totalMV": 52021000000.0,
+    "circMV": 52021000000.0,
+    "pe": 12.59,
+    "pb": 1.05,
+    "turnover": 1.58,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

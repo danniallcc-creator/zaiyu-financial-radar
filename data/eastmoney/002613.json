@@ -2531,5 +2531,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002613",
+    "name": "北玻股份",
+    "price": 4.71,
+    "change": -0.39,
+    "changePct": -7.65,
+    "open": 4.9,
+    "high": 4.9,
+    "low": 4.65,
+    "prevClose": 5.1,
+    "volume": 1430735,
+    "amount": 67697.0,
+    "totalMV": 5184000000.0,
+    "circMV": 3644000000.0,
+    "pe": 490.66,
+    "pb": 2.35,
+    "turnover": 18.49,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

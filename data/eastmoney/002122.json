@@ -2533,5 +2533,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002122",
+    "name": "ST汇洲",
+    "price": 2.53,
+    "change": -0.04,
+    "changePct": -1.56,
+    "open": 2.55,
+    "high": 2.59,
+    "low": 2.52,
+    "prevClose": 2.57,
+    "volume": 144062,
+    "amount": 3665.0,
+    "totalMV": 5064000000.0,
+    "circMV": 5029000000.0,
+    "pe": 133.99,
+    "pb": 2.32,
+    "turnover": 0.72,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

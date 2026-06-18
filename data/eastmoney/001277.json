@@ -2566,5 +2566,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "001277",
+    "name": "速达股份",
+    "price": 29.3,
+    "change": -0.36,
+    "changePct": -1.21,
+    "open": 29.4,
+    "high": 29.76,
+    "low": 29.03,
+    "prevClose": 29.66,
+    "volume": 8121,
+    "amount": 2388.0,
+    "totalMV": 2227000000.0,
+    "circMV": 1335000000.0,
+    "pe": 24.76,
+    "pb": 1.44,
+    "turnover": 1.78,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

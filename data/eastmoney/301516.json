@@ -2499,5 +2499,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301516",
+    "name": "中远通",
+    "price": 15.76,
+    "change": -0.3,
+    "changePct": -1.87,
+    "open": 16.04,
+    "high": 16.1,
+    "low": 15.64,
+    "prevClose": 16.06,
+    "volume": 46867,
+    "amount": 7409.0,
+    "totalMV": 4424000000.0,
+    "circMV": 1106000000.0,
+    "pe": -91.85,
+    "pb": 3.49,
+    "turnover": 6.68,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

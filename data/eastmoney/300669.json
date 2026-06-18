@@ -2575,5 +2575,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300669",
+    "name": "沪宁股份",
+    "price": 31.79,
+    "change": 2.25,
+    "changePct": 7.62,
+    "open": 29.2,
+    "high": 32.35,
+    "low": 29.0,
+    "prevClose": 29.54,
+    "volume": 41732,
+    "amount": 12952.0,
+    "totalMV": 6126000000.0,
+    "circMV": 5802000000.0,
+    "pe": 346.86,
+    "pb": 7.08,
+    "turnover": 2.29,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

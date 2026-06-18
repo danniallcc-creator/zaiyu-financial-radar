@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600489",
+    "name": "中金黄金",
+    "price": 21.92,
+    "change": -0.78,
+    "changePct": -3.44,
+    "open": 22.4,
+    "high": 22.78,
+    "low": 21.6,
+    "prevClose": 22.7,
+    "volume": 734734,
+    "amount": 162985.0,
+    "totalMV": 106253000000.0,
+    "circMV": 106253000000.0,
+    "pe": 16.93,
+    "pb": 3.24,
+    "turnover": 1.52,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

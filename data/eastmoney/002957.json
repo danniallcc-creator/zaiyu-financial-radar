@@ -2523,5 +2523,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002957",
+    "name": "科瑞技术",
+    "price": 60.15,
+    "change": 3.04,
+    "changePct": 5.32,
+    "open": 58.8,
+    "high": 62.82,
+    "low": 56.5,
+    "prevClose": 57.11,
+    "volume": 516839,
+    "amount": 307332.0,
+    "totalMV": 25262000000.0,
+    "circMV": 25184000000.0,
+    "pe": 84.7,
+    "pb": 7.88,
+    "turnover": 12.34,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

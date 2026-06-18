@@ -2654,5 +2654,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300349",
+    "name": "金卡智能",
+    "price": 12.38,
+    "change": -0.32,
+    "changePct": -2.52,
+    "open": 12.78,
+    "high": 13.0,
+    "low": 12.38,
+    "prevClose": 12.7,
+    "volume": 162028,
+    "amount": 20537.0,
+    "totalMV": 5165000000.0,
+    "circMV": 4577000000.0,
+    "pe": 20.5,
+    "pb": 1.17,
+    "turnover": 4.38,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

@@ -2598,5 +2598,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300606",
+    "name": "金太阳",
+    "price": 51.59,
+    "change": 4.8,
+    "changePct": 10.26,
+    "open": 46.1,
+    "high": 51.88,
+    "low": 45.91,
+    "prevClose": 46.79,
+    "volume": 126983,
+    "amount": 64065.0,
+    "totalMV": 7137000000.0,
+    "circMV": 6071000000.0,
+    "pe": 356.35,
+    "pb": 10.84,
+    "turnover": 10.79,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

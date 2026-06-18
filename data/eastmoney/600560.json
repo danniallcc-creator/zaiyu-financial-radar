@@ -2596,5 +2596,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600560",
+    "name": "金自天正",
+    "price": 12.1,
+    "change": 0.05,
+    "changePct": 0.41,
+    "open": 11.93,
+    "high": 12.39,
+    "low": 11.7,
+    "prevClose": 12.05,
+    "volume": 44738,
+    "amount": 5410.0,
+    "totalMV": 2706000000.0,
+    "circMV": 2706000000.0,
+    "pe": 53.55,
+    "pb": 2.74,
+    "turnover": 2.0,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

@@ -2404,5 +2404,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301596",
+    "name": "瑞迪智驱",
+    "price": 59.74,
+    "change": 3.36,
+    "changePct": 5.96,
+    "open": 56.24,
+    "high": 59.99,
+    "low": 55.83,
+    "prevClose": 56.38,
+    "volume": 41094,
+    "amount": 23969.0,
+    "totalMV": 6454000000.000001,
+    "circMV": 2619000000.0,
+    "pe": 63.48,
+    "pb": 7.34,
+    "turnover": 9.37,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

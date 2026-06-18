@@ -1682,5 +1682,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601825",
+    "name": "沪农商行",
+    "price": 8.2,
+    "change": -0.19,
+    "changePct": -2.26,
+    "open": 8.38,
+    "high": 8.42,
+    "low": 8.18,
+    "prevClose": 8.39,
+    "volume": 209469,
+    "amount": 17281.0,
+    "totalMV": 79084000000.0,
+    "circMV": 76870000000.0,
+    "pe": 6.41,
+    "pb": 0.6,
+    "turnover": 0.22,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

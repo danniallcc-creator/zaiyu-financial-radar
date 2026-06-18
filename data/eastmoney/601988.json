@@ -1738,5 +1738,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601988",
+    "name": "中国银行",
+    "price": 5.78,
+    "change": -0.16,
+    "changePct": -2.69,
+    "open": 5.92,
+    "high": 5.94,
+    "low": 5.77,
+    "prevClose": 5.94,
+    "volume": 3651969,
+    "amount": 212591.0,
+    "totalMV": 1862388000000.0,
+    "circMV": 1218225000000.0,
+    "pe": 7.59,
+    "pb": 0.68,
+    "turnover": 0.17,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

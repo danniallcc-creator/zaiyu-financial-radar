@@ -2664,5 +2664,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002648",
+    "name": "卫星化学",
+    "price": 21.65,
+    "change": -0.75,
+    "changePct": -3.35,
+    "open": 22.41,
+    "high": 22.52,
+    "low": 21.46,
+    "prevClose": 22.4,
+    "volume": 530712,
+    "amount": 115684.0,
+    "totalMV": 72931000000.0,
+    "circMV": 72884000000.0,
+    "pe": 12.45,
+    "pb": 2.16,
+    "turnover": 1.58,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

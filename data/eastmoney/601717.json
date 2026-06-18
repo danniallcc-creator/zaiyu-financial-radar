@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601717",
+    "name": "XD中创智",
+    "price": 16.13,
+    "change": -0.47,
+    "changePct": -2.83,
+    "open": 16.6,
+    "high": 16.64,
+    "low": 16.1,
+    "prevClose": 16.6,
+    "volume": 227820,
+    "amount": 37271.0,
+    "totalMV": 28799000000.0,
+    "circMV": 24875000000.0,
+    "pe": 7.03,
+    "pb": 1.26,
+    "turnover": 1.48,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

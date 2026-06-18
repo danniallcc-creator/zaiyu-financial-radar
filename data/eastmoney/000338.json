@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000338",
+    "name": "潍柴动力",
+    "price": 30.09,
+    "change": 0.81,
+    "changePct": 2.77,
+    "open": 29.66,
+    "high": 31.38,
+    "low": 29.5,
+    "prevClose": 29.28,
+    "volume": 1324102,
+    "amount": 404333.0,
+    "totalMV": 260644000000.0,
+    "circMV": 149043000000.0,
+    "pe": 23.05,
+    "pb": 2.73,
+    "turnover": 2.67,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

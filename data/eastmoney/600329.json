@@ -2623,5 +2623,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600329",
+    "name": "达仁堂",
+    "price": 37.84,
+    "change": 0.11,
+    "changePct": 0.29,
+    "open": 37.73,
+    "high": 38.4,
+    "low": 37.29,
+    "prevClose": 37.73,
+    "volume": 28826,
+    "amount": 10921.0,
+    "totalMV": 29139999999.999996,
+    "circMV": 21459000000.0,
+    "pe": 13.36,
+    "pb": 3.87,
+    "turnover": 0.51,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

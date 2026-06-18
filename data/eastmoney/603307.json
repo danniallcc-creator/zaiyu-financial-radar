@@ -2533,5 +2533,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603307",
+    "name": "扬州金泉",
+    "price": 25.52,
+    "change": -0.03,
+    "changePct": -0.12,
+    "open": 25.33,
+    "high": 26.08,
+    "low": 25.12,
+    "prevClose": 25.55,
+    "volume": 10977,
+    "amount": 2811.0,
+    "totalMV": 2519000000.0,
+    "circMV": 2479000000.0,
+    "pe": 22.54,
+    "pb": 1.83,
+    "turnover": 1.13,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

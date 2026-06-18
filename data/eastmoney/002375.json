@@ -2587,5 +2587,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002375",
+    "name": "亚厦股份",
+    "price": 3.6,
+    "change": -0.06,
+    "changePct": -1.64,
+    "open": 3.65,
+    "high": 3.67,
+    "low": 3.59,
+    "prevClose": 3.66,
+    "volume": 149986,
+    "amount": 5439.0,
+    "totalMV": 4824000000.0,
+    "circMV": 4792000000.0,
+    "pe": 14.67,
+    "pb": 0.58,
+    "turnover": 1.13,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

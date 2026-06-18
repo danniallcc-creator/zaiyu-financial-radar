@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600886",
+    "name": "国投电力",
+    "price": 13.07,
+    "change": -0.25,
+    "changePct": -1.88,
+    "open": 13.3,
+    "high": 13.54,
+    "low": 13.07,
+    "prevClose": 13.32,
+    "volume": 518405,
+    "amount": 68780.0,
+    "totalMV": 104619000000.0,
+    "circMV": 97426000000.0,
+    "pe": 14.07,
+    "pb": 1.52,
+    "turnover": 0.7,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

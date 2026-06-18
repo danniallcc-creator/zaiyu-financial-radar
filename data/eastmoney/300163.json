@@ -2579,5 +2579,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300163",
+    "name": "先锋新材",
+    "price": 6.29,
+    "change": -0.06,
+    "changePct": -0.94,
+    "open": 6.25,
+    "high": 6.34,
+    "low": 6.13,
+    "prevClose": 6.35,
+    "volume": 203741,
+    "amount": 12700.0,
+    "totalMV": 2981000000.0,
+    "circMV": 2872000000.0,
+    "pe": 87.09,
+    "pb": 5.43,
+    "turnover": 4.46,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

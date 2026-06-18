@@ -2546,5 +2546,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002552",
+    "name": "宝鼎科技",
+    "price": 72.39,
+    "change": 0.23,
+    "changePct": 0.32,
+    "open": 69.5,
+    "high": 74.48,
+    "low": 67.56,
+    "prevClose": 72.16,
+    "volume": 174534,
+    "amount": 124881.0,
+    "totalMV": 28086000000.0,
+    "circMV": 26676000000.0,
+    "pe": 162.99,
+    "pb": 17.94,
+    "turnover": 4.74,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

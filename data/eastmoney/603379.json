@@ -2626,5 +2626,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603379",
+    "name": "三美股份",
+    "price": 65.43,
+    "change": -3.52,
+    "changePct": -5.11,
+    "open": 68.27,
+    "high": 68.66,
+    "low": 64.64,
+    "prevClose": 68.95,
+    "volume": 171111,
+    "amount": 112992.0,
+    "totalMV": 39944000000.0,
+    "circMV": 39944000000.0,
+    "pe": 18.44,
+    "pb": 5.06,
+    "turnover": 2.8,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

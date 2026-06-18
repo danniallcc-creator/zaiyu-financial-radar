@@ -2507,5 +2507,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300540",
+    "name": "蜀道装备",
+    "price": 25.33,
+    "change": -0.16,
+    "changePct": -0.63,
+    "open": 25.18,
+    "high": 25.99,
+    "low": 24.8,
+    "prevClose": 25.49,
+    "volume": 79927,
+    "amount": 20289.0,
+    "totalMV": 5765000000.0,
+    "circMV": 5236000000.0,
+    "pe": 78.94,
+    "pb": 5.15,
+    "turnover": 3.87,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

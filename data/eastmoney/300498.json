@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300498",
+    "name": "温氏股份",
+    "price": 12.36,
+    "change": -0.33,
+    "changePct": -2.6,
+    "open": 12.75,
+    "high": 12.75,
+    "low": 12.35,
+    "prevClose": 12.69,
+    "volume": 441720,
+    "amount": 54971.0,
+    "totalMV": 82243000000.0,
+    "circMV": 73514000000.0,
+    "pe": 37.67,
+    "pb": 2.08,
+    "turnover": 0.74,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

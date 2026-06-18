@@ -2550,5 +2550,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300984",
+    "name": "金沃股份",
+    "price": 57.69,
+    "change": -1.74,
+    "changePct": -2.93,
+    "open": 59.43,
+    "high": 59.51,
+    "low": 57.39,
+    "prevClose": 59.43,
+    "volume": 28709,
+    "amount": 16732.0,
+    "totalMV": 7930000000.0,
+    "circMV": 5111000000.0,
+    "pe": 156.92,
+    "pb": 4.43,
+    "turnover": 3.24,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

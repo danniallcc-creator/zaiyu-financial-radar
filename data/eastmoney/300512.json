@@ -2587,5 +2587,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300512",
+    "name": "中亚股份",
+    "price": 7.29,
+    "change": -0.06,
+    "changePct": -0.82,
+    "open": 7.31,
+    "high": 7.38,
+    "low": 7.16,
+    "prevClose": 7.35,
+    "volume": 29445,
+    "amount": 2143.0,
+    "totalMV": 2983000000.0,
+    "circMV": 2361000000.0,
+    "pe": 95.47,
+    "pb": 1.82,
+    "turnover": 0.91,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

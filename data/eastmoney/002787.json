@@ -2532,5 +2532,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002787",
+    "name": "华源控股",
+    "price": 28.85,
+    "change": -0.65,
+    "changePct": -2.2,
+    "open": 29.49,
+    "high": 29.8,
+    "low": 28.35,
+    "prevClose": 29.5,
+    "volume": 183233,
+    "amount": 52862.0,
+    "totalMV": 9590000000.0,
+    "circMV": 7156999999.999999,
+    "pe": 82.0,
+    "pb": 5.19,
+    "turnover": 7.39,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

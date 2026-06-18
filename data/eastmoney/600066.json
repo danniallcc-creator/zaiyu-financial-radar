@@ -2692,5 +2692,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600066",
+    "name": "宇通客车",
+    "price": 26.04,
+    "change": -1.1,
+    "changePct": -4.05,
+    "open": 27.26,
+    "high": 27.37,
+    "low": 26.0,
+    "prevClose": 27.14,
+    "volume": 320424,
+    "amount": 84382.0,
+    "totalMV": 57651000000.0,
+    "circMV": 57651000000.0,
+    "pe": 10.56,
+    "pb": 4.89,
+    "turnover": 1.45,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

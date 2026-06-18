@@ -2540,5 +2540,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301288",
+    "name": "清研环境",
+    "price": 17.91,
+    "change": -0.78,
+    "changePct": -4.17,
+    "open": 18.58,
+    "high": 18.65,
+    "low": 17.7,
+    "prevClose": 18.69,
+    "volume": 20120,
+    "amount": 3635.0,
+    "totalMV": 1934000000.0,
+    "circMV": 1399000000.0,
+    "pe": -60.92,
+    "pb": 2.47,
+    "turnover": 2.58,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

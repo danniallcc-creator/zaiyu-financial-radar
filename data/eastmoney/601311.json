@@ -2614,5 +2614,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601311",
+    "name": "骆驼股份",
+    "price": 8.1,
+    "change": -0.15,
+    "changePct": -1.82,
+    "open": 8.25,
+    "high": 8.25,
+    "low": 8.07,
+    "prevClose": 8.25,
+    "volume": 116647,
+    "amount": 9490.0,
+    "totalMV": 9502000000.0,
+    "circMV": 9502000000.0,
+    "pe": 12.5,
+    "pb": 0.93,
+    "turnover": 0.99,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

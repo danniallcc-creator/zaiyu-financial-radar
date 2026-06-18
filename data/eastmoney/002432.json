@@ -2628,5 +2628,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002432",
+    "name": "九安医疗",
+    "price": 73.51,
+    "change": 6.68,
+    "changePct": 10.0,
+    "open": 66.77,
+    "high": 73.51,
+    "low": 66.56,
+    "prevClose": 66.83,
+    "volume": 222515,
+    "amount": 157671.0,
+    "totalMV": 34248000000.0,
+    "circMV": 34202000000.0,
+    "pe": 14.93,
+    "pb": 1.64,
+    "turnover": 4.78,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

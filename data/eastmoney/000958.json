@@ -2596,5 +2596,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000958",
+    "name": "电投产融",
+    "price": 5.82,
+    "change": -0.11,
+    "changePct": -1.85,
+    "open": 5.9,
+    "high": 5.99,
+    "low": 5.79,
+    "prevClose": 5.93,
+    "volume": 463224,
+    "amount": 27094.0,
+    "totalMV": 106602000000.0,
+    "circMV": 31331000000.0,
+    "pe": 32.34,
+    "pb": 2.12,
+    "turnover": 0.86,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

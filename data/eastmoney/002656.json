@@ -2485,5 +2485,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002656",
+    "name": "*ST摩登",
+    "price": 3.17,
+    "change": -0.09,
+    "changePct": -2.76,
+    "open": 3.26,
+    "high": 3.29,
+    "low": 3.16,
+    "prevClose": 3.26,
+    "volume": 125180,
+    "amount": 4036.0,
+    "totalMV": 2259000000.0,
+    "circMV": 2177000000.0,
+    "pe": -45.38,
+    "pb": 5.47,
+    "turnover": 1.82,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

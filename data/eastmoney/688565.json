@@ -2564,5 +2564,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688565",
+    "name": "力源科技",
+    "price": 9.87,
+    "change": -0.07,
+    "changePct": -0.7,
+    "open": 9.85,
+    "high": 10.07,
+    "low": 9.7,
+    "prevClose": 9.94,
+    "volume": 3032799,
+    "amount": 3014.0,
+    "totalMV": 1478000000.0,
+    "circMV": 1478000000.0,
+    "pe": 223.58,
+    "pb": 3.0,
+    "turnover": 2.03,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

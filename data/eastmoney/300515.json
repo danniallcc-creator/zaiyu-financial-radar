@@ -2484,5 +2484,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300515",
+    "name": "三德科技",
+    "price": 14.49,
+    "change": -0.06,
+    "changePct": -0.41,
+    "open": 14.53,
+    "high": 14.61,
+    "low": 14.31,
+    "prevClose": 14.55,
+    "volume": 24318,
+    "amount": 3514.0,
+    "totalMV": 2981000000.0,
+    "circMV": 2923000000.0,
+    "pe": 15.8,
+    "pb": 3.37,
+    "turnover": 1.21,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

@@ -2553,5 +2553,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688680",
+    "name": "海优新材",
+    "price": 44.6,
+    "change": -0.66,
+    "changePct": -1.46,
+    "open": 46.28,
+    "high": 46.38,
+    "low": 44.59,
+    "prevClose": 45.26,
+    "volume": 2085511,
+    "amount": 9425.0,
+    "totalMV": 4352000000.0,
+    "circMV": 4352000000.0,
+    "pe": -9.19,
+    "pb": 2.81,
+    "turnover": 2.14,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

@@ -2575,5 +2575,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002397",
+    "name": "梦洁股份",
+    "price": 4.21,
+    "change": -0.07,
+    "changePct": -1.64,
+    "open": 4.3,
+    "high": 4.34,
+    "low": 4.14,
+    "prevClose": 4.28,
+    "volume": 149279,
+    "amount": 6318.0,
+    "totalMV": 3148000000.0,
+    "circMV": 2727000000.0,
+    "pe": 56.31,
+    "pb": 2.57,
+    "turnover": 2.3,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

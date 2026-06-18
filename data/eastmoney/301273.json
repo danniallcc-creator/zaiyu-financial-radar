@@ -2500,5 +2500,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301273",
+    "name": "瑞晨环保",
+    "price": 32.22,
+    "change": -0.62,
+    "changePct": -1.89,
+    "open": 32.61,
+    "high": 32.82,
+    "low": 32.0,
+    "prevClose": 32.84,
+    "volume": 15327,
+    "amount": 4952.0,
+    "totalMV": 3232000000.0,
+    "circMV": 2480000000.0,
+    "pe": -50.32,
+    "pb": 3.7,
+    "turnover": 1.99,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

@@ -2555,5 +2555,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603611",
+    "name": "诺力股份",
+    "price": 17.25,
+    "change": 0.0,
+    "changePct": 0.0,
+    "open": 17.19,
+    "high": 17.38,
+    "low": 16.97,
+    "prevClose": 17.25,
+    "volume": 21700,
+    "amount": 3737.0,
+    "totalMV": 4444000000.0,
+    "circMV": 4444000000.0,
+    "pe": 11.66,
+    "pb": 1.47,
+    "turnover": 0.84,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

@@ -2630,5 +2630,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300329",
+    "name": "海伦钢琴",
+    "price": 11.92,
+    "change": -0.38,
+    "changePct": -3.09,
+    "open": 12.28,
+    "high": 12.37,
+    "low": 11.86,
+    "prevClose": 12.3,
+    "volume": 44210,
+    "amount": 5322.0,
+    "totalMV": 3014000000.0,
+    "circMV": 3006000000.0,
+    "pe": -29.93,
+    "pb": 4.96,
+    "turnover": 1.75,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

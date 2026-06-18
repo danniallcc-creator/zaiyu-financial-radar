@@ -2623,5 +2623,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002483",
+    "name": "润邦股份",
+    "price": 5.24,
+    "change": -0.06,
+    "changePct": -1.13,
+    "open": 5.25,
+    "high": 5.32,
+    "low": 5.2,
+    "prevClose": 5.3,
+    "volume": 67493,
+    "amount": 3542.0,
+    "totalMV": 4645000000.0,
+    "circMV": 4639000000.0,
+    "pe": 12.95,
+    "pb": 1.04,
+    "turnover": 0.76,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

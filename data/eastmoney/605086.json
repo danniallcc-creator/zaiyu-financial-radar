@@ -2614,5 +2614,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "605086",
+    "name": "龙高股份",
+    "price": 30.17,
+    "change": 2.74,
+    "changePct": 9.99,
+    "open": 27.16,
+    "high": 30.17,
+    "low": 27.16,
+    "prevClose": 27.43,
+    "volume": 38060,
+    "amount": 11238.0,
+    "totalMV": 5406000000.0,
+    "circMV": 5406000000.0,
+    "pe": 47.15,
+    "pb": 3.32,
+    "turnover": 2.12,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002340",
+    "name": "格林美",
+    "price": 7.42,
+    "change": 0.0,
+    "changePct": 0.0,
+    "open": 7.4,
+    "high": 7.55,
+    "low": 7.21,
+    "prevClose": 7.42,
+    "volume": 2005309,
+    "amount": 147941.0,
+    "totalMV": 37860000000.0,
+    "circMV": 37664000000.0,
+    "pe": 23.79,
+    "pb": 1.74,
+    "turnover": 3.95,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

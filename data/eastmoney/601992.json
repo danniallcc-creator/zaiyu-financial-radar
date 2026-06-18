@@ -2587,5 +2587,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601992",
+    "name": "金隅集团",
+    "price": 1.47,
+    "change": -0.03,
+    "changePct": -2.0,
+    "open": 1.49,
+    "high": 1.5,
+    "low": 1.46,
+    "prevClose": 1.5,
+    "volume": 445178,
+    "amount": 6574.0,
+    "totalMV": 15696000000.0,
+    "circMV": 12251000000.0,
+    "pe": -10.81,
+    "pb": 0.4,
+    "turnover": 0.53,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

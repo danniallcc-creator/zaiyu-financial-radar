@@ -2477,5 +2477,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603700",
+    "name": "宁水集团",
+    "price": 10.73,
+    "change": -0.02,
+    "changePct": -0.19,
+    "open": 10.63,
+    "high": 10.83,
+    "low": 10.53,
+    "prevClose": 10.75,
+    "volume": 34071,
+    "amount": 3644.0,
+    "totalMV": 2146000000.0,
+    "circMV": 2146000000.0,
+    "pe": 28.26,
+    "pb": 1.31,
+    "turnover": 1.7,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

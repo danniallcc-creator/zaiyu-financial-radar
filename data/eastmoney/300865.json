@@ -2519,5 +2519,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300865",
+    "name": "大宏立",
+    "price": 24.3,
+    "change": -0.35,
+    "changePct": -1.42,
+    "open": 24.58,
+    "high": 25.03,
+    "low": 23.91,
+    "prevClose": 24.65,
+    "volume": 16154,
+    "amount": 3938.0,
+    "totalMV": 2325000000.0,
+    "circMV": 1397000000.0,
+    "pe": 189.83,
+    "pb": 2.67,
+    "turnover": 2.81,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

@@ -2547,5 +2547,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002526",
+    "name": "山东矿机",
+    "price": 2.76,
+    "change": -0.08,
+    "changePct": -2.82,
+    "open": 2.82,
+    "high": 2.83,
+    "low": 2.74,
+    "prevClose": 2.84,
+    "volume": 225791,
+    "amount": 6253.0,
+    "totalMV": 4921000000.0,
+    "circMV": 4888000000.0,
+    "pe": 61.83,
+    "pb": 1.52,
+    "turnover": 1.27,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

@@ -2524,5 +2524,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688379",
+    "name": "华光新材",
+    "price": 96.13,
+    "change": 6.63,
+    "changePct": 7.41,
+    "open": 87.99,
+    "high": 97.69,
+    "low": 87.1,
+    "prevClose": 89.5,
+    "volume": 8772810,
+    "amount": 80905.0,
+    "totalMV": 9130000000.0,
+    "circMV": 8660000000.0,
+    "pe": 70.4,
+    "pb": 6.5,
+    "turnover": 9.74,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

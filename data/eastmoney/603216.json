@@ -2570,5 +2570,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603216",
+    "name": "梦天家居",
+    "price": 22.38,
+    "change": 0.43,
+    "changePct": 1.96,
+    "open": 21.95,
+    "high": 23.3,
+    "low": 21.66,
+    "prevClose": 21.95,
+    "volume": 46234,
+    "amount": 10390.0,
+    "totalMV": 4984000000.0,
+    "circMV": 4984000000.0,
+    "pe": 77.95,
+    "pb": 2.76,
+    "turnover": 2.08,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

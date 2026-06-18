@@ -2596,5 +2596,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "605099",
+    "name": "共创草坪",
+    "price": 32.82,
+    "change": -0.39,
+    "changePct": -1.17,
+    "open": 33.26,
+    "high": 33.35,
+    "low": 32.6,
+    "prevClose": 33.21,
+    "volume": 24089,
+    "amount": 7951.0,
+    "totalMV": 13212000000.0,
+    "circMV": 13176000000.0,
+    "pe": 18.54,
+    "pb": 4.4,
+    "turnover": 0.6,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

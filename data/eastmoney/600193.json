@@ -2535,5 +2535,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600193",
+    "name": "退市创兴",
+    "price": 0.15,
+    "change": -0.01,
+    "changePct": -6.25,
+    "open": 0.15,
+    "high": 0.16,
+    "low": 0.15,
+    "prevClose": 0.16,
+    "volume": 100580,
+    "amount": 153.0,
+    "totalMV": 64000000.0,
+    "circMV": 64000000.0,
+    "pe": -2.49,
+    "pb": 0.97,
+    "turnover": 2.36,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

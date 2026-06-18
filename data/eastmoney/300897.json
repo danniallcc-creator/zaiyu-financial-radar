@@ -2571,5 +2571,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300897",
+    "name": "山科智能",
+    "price": 15.15,
+    "change": -0.55,
+    "changePct": -3.5,
+    "open": 15.9,
+    "high": 15.9,
+    "low": 15.07,
+    "prevClose": 15.7,
+    "volume": 39760,
+    "amount": 6093.0,
+    "totalMV": 2967000000.0,
+    "circMV": 1852000000.0,
+    "pe": 196.79,
+    "pb": 3.05,
+    "turnover": 3.25,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

@@ -2587,5 +2587,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300403",
+    "name": "汉宇集团",
+    "price": 10.5,
+    "change": 0.36,
+    "changePct": 3.55,
+    "open": 10.01,
+    "high": 10.6,
+    "low": 10.01,
+    "prevClose": 10.14,
+    "volume": 140788,
+    "amount": 14571.0,
+    "totalMV": 6331000000.0,
+    "circMV": 4484000000.0,
+    "pe": 29.61,
+    "pb": 2.89,
+    "turnover": 3.3,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

@@ -2662,5 +2662,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002614",
+    "name": "奥佳华",
+    "price": 4.69,
+    "change": -0.03,
+    "changePct": -0.64,
+    "open": 4.69,
+    "high": 4.73,
+    "low": 4.63,
+    "prevClose": 4.72,
+    "volume": 61518,
+    "amount": 2877.0,
+    "totalMV": 2925000000.0,
+    "circMV": 2070000000.0,
+    "pe": -52.37,
+    "pb": 0.69,
+    "turnover": 1.39,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

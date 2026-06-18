@@ -2507,5 +2507,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002529",
+    "name": "海源复材",
+    "price": 7.78,
+    "change": -0.46,
+    "changePct": -5.58,
+    "open": 8.17,
+    "high": 8.35,
+    "low": 7.7,
+    "prevClose": 8.24,
+    "volume": 100804,
+    "amount": 8051.0,
+    "totalMV": 2023000000.0,
+    "circMV": 2023000000.0,
+    "pe": -11.08,
+    "pb": 25.38,
+    "turnover": 3.88,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

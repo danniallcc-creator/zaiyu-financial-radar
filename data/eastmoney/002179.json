@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002179",
+    "name": "中航光电",
+    "price": 40.78,
+    "change": 1.96,
+    "changePct": 5.05,
+    "open": 38.96,
+    "high": 41.25,
+    "low": 38.52,
+    "prevClose": 38.82,
+    "volume": 766308,
+    "amount": 309271.0,
+    "totalMV": 86349000000.0,
+    "circMV": 85495000000.0,
+    "pe": 44.97,
+    "pb": 3.67,
+    "turnover": 3.66,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

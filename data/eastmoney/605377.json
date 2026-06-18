@@ -2618,5 +2618,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "605377",
+    "name": "华旺科技",
+    "price": 7.64,
+    "change": -0.26,
+    "changePct": -3.29,
+    "open": 7.9,
+    "high": 7.92,
+    "low": 7.62,
+    "prevClose": 7.9,
+    "volume": 66896,
+    "amount": 5171.0,
+    "totalMV": 4253000000.0,
+    "circMV": 4253000000.0,
+    "pe": 16.66,
+    "pb": 1.1,
+    "turnover": 1.2,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

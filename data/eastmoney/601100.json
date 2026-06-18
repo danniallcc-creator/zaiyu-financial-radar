@@ -2692,5 +2692,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601100",
+    "name": "恒立液压",
+    "price": 117.9,
+    "change": -0.1,
+    "changePct": -0.08,
+    "open": 117.4,
+    "high": 120.58,
+    "low": 116.4,
+    "prevClose": 118.0,
+    "volume": 74356,
+    "amount": 88113.0,
+    "totalMV": 158083000000.0,
+    "circMV": 158083000000.0,
+    "pe": 57.1,
+    "pb": 8.84,
+    "turnover": 0.55,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

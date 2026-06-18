@@ -2666,5 +2666,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300628",
+    "name": "亿联网络",
+    "price": 33.2,
+    "change": -0.58,
+    "changePct": -1.72,
+    "open": 33.7,
+    "high": 33.75,
+    "low": 33.15,
+    "prevClose": 33.78,
+    "volume": 81488,
+    "amount": 27224.0,
+    "totalMV": 42061000000.0,
+    "circMV": 24098000000.0,
+    "pe": 15.61,
+    "pb": 5.05,
+    "turnover": 1.12,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

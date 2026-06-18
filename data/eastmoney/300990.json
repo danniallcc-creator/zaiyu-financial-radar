@@ -2632,5 +2632,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300990",
+    "name": "同飞股份",
+    "price": 99.24,
+    "change": 5.65,
+    "changePct": 6.04,
+    "open": 93.27,
+    "high": 100.4,
+    "low": 93.03,
+    "prevClose": 93.59,
+    "volume": 90200,
+    "amount": 88753.0,
+    "totalMV": 16991999999.999998,
+    "circMV": 7717000000.0,
+    "pe": 67.76,
+    "pb": 8.05,
+    "turnover": 11.6,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

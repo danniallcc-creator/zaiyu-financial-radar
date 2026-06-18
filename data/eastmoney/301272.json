@@ -2514,5 +2514,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301272",
+    "name": "英华特",
+    "price": 36.29,
+    "change": 0.03,
+    "changePct": 0.08,
+    "open": 36.26,
+    "high": 37.31,
+    "low": 35.72,
+    "prevClose": 36.26,
+    "volume": 7961,
+    "amount": 2899.0,
+    "totalMV": 2123000000.0,
+    "circMV": 1137000000.0,
+    "pe": 57.28,
+    "pb": 2.12,
+    "turnover": 2.54,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

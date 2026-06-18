@@ -2624,5 +2624,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601298",
+    "name": "青岛港",
+    "price": 8.36,
+    "change": -0.18,
+    "changePct": -2.11,
+    "open": 8.51,
+    "high": 8.58,
+    "low": 8.27,
+    "prevClose": 8.54,
+    "volume": 206661,
+    "amount": 17265.0,
+    "totalMV": 54266000000.0,
+    "circMV": 45078000000.0,
+    "pe": 10.35,
+    "pb": 1.15,
+    "turnover": 0.38,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

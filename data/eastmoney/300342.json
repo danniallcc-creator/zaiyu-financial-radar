@@ -2666,5 +2666,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300342",
+    "name": "天银机电",
+    "price": 44.74,
+    "change": 0.15,
+    "changePct": 0.34,
+    "open": 44.19,
+    "high": 45.7,
+    "low": 43.01,
+    "prevClose": 44.59,
+    "volume": 314638,
+    "amount": 140504.0,
+    "totalMV": 19016000000.0,
+    "circMV": 18737000000.0,
+    "pe": 1328.19,
+    "pb": 12.2,
+    "turnover": 7.51,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

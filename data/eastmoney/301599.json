@@ -1083,5 +1083,24 @@
         "price": null
       }
     ]
+  },
+  "quote": {
+    "code": "301599",
+    "name": "理奇智能",
+    "price": 48.97,
+    "change": 0.93,
+    "changePct": 1.94,
+    "open": 47.71,
+    "high": 49.88,
+    "low": 47.71,
+    "prevClose": 48.04,
+    "volume": 62536,
+    "amount": 30564.0,
+    "totalMV": 21135000000.0,
+    "circMV": 2679000000.0,
+    "pe": 83.75,
+    "pb": 10.04,
+    "turnover": 11.43,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

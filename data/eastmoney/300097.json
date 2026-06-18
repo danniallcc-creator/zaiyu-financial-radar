@@ -2541,5 +2541,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300097",
+    "name": "智云股份",
+    "price": 9.51,
+    "change": -0.28,
+    "changePct": -2.86,
+    "open": 9.8,
+    "high": 9.8,
+    "low": 9.35,
+    "prevClose": 9.79,
+    "volume": 113936,
+    "amount": 10907.0,
+    "totalMV": 2744000000.0,
+    "circMV": 2568000000.0,
+    "pe": -10.39,
+    "pb": 13.86,
+    "turnover": 4.22,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

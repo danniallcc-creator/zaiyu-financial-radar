@@ -2587,5 +2587,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002081",
+    "name": "金 螳 螂",
+    "price": 4.8,
+    "change": 0.03,
+    "changePct": 0.63,
+    "open": 4.76,
+    "high": 4.84,
+    "low": 4.66,
+    "prevClose": 4.77,
+    "volume": 1698153,
+    "amount": 80939.0,
+    "totalMV": 12746000000.0,
+    "circMV": 12692000000.0,
+    "pe": 31.42,
+    "pb": 0.94,
+    "turnover": 6.42,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

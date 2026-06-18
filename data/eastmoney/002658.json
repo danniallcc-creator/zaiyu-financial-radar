@@ -2605,5 +2605,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002658",
+    "name": "雪迪龙",
+    "price": 7.92,
+    "change": -0.08,
+    "changePct": -1.0,
+    "open": 7.91,
+    "high": 7.98,
+    "low": 7.75,
+    "prevClose": 8.0,
+    "volume": 90849,
+    "amount": 7150.0,
+    "totalMV": 5035000000.0,
+    "circMV": 2840000000.0,
+    "pe": 32.46,
+    "pb": 1.97,
+    "turnover": 2.53,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

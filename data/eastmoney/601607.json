@@ -2602,5 +2602,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601607",
+    "name": "上海医药",
+    "price": 15.91,
+    "change": -0.2,
+    "changePct": -1.24,
+    "open": 16.11,
+    "high": 16.13,
+    "low": 15.9,
+    "prevClose": 16.11,
+    "volume": 103543,
+    "amount": 16551.0,
+    "totalMV": 59000000000.0,
+    "circMV": 44376000000.0,
+    "pe": 10.16,
+    "pb": 0.76,
+    "turnover": 0.37,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

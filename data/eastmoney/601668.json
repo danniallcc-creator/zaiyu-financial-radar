@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601668",
+    "name": "中国建筑",
+    "price": 4.61,
+    "change": -0.12,
+    "changePct": -2.54,
+    "open": 4.71,
+    "high": 4.72,
+    "low": 4.6,
+    "prevClose": 4.73,
+    "volume": 3086941,
+    "amount": 143491.0,
+    "totalMV": 190487000000.0,
+    "circMV": 190487000000.0,
+    "pe": 5.02,
+    "pb": 0.38,
+    "turnover": 0.75,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

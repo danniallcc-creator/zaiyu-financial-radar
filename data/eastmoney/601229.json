@@ -1714,5 +1714,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601229",
+    "name": "上海银行",
+    "price": 8.84,
+    "change": -0.17,
+    "changePct": -1.89,
+    "open": 9.0,
+    "high": 9.02,
+    "low": 8.81,
+    "prevClose": 9.01,
+    "volume": 497090,
+    "amount": 44146.0,
+    "totalMV": 125608000000.0,
+    "circMV": 125608000000.0,
+    "pe": 5.18,
+    "pb": 0.5,
+    "turnover": 0.35,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

@@ -2573,5 +2573,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002689",
+    "name": "ST远智",
+    "price": 2.73,
+    "change": -0.06,
+    "changePct": -2.15,
+    "open": 2.77,
+    "high": 2.79,
+    "low": 2.7,
+    "prevClose": 2.79,
+    "volume": 56300,
+    "amount": 1548.0,
+    "totalMV": 2848000000.0,
+    "circMV": 2847000000.0,
+    "pe": 27.5,
+    "pb": 2.39,
+    "turnover": 0.54,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

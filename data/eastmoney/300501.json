@@ -2595,5 +2595,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300501",
+    "name": "海顺新材",
+    "price": 13.27,
+    "change": 0.32,
+    "changePct": 2.47,
+    "open": 12.81,
+    "high": 13.3,
+    "low": 12.4,
+    "prevClose": 12.95,
+    "volume": 56070,
+    "amount": 7166.0,
+    "totalMV": 3690999999.9999995,
+    "circMV": 1893000000.0,
+    "pe": -71.87,
+    "pb": 2.88,
+    "turnover": 3.93,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

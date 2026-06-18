@@ -2632,5 +2632,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000521",
+    "name": "长虹美菱",
+    "price": 5.54,
+    "change": -0.22,
+    "changePct": -3.82,
+    "open": 5.71,
+    "high": 5.73,
+    "low": 5.48,
+    "prevClose": 5.76,
+    "volume": 111400,
+    "amount": 6239.0,
+    "totalMV": 5706000000.0,
+    "circMV": 4849000000.0,
+    "pe": 19.08,
+    "pb": 0.93,
+    "turnover": 1.27,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

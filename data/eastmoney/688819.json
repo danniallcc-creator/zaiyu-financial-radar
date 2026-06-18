@@ -2578,5 +2578,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688819",
+    "name": "天能股份",
+    "price": 24.57,
+    "change": 0.0,
+    "changePct": 0.0,
+    "open": 24.51,
+    "high": 24.79,
+    "low": 24.11,
+    "prevClose": 24.57,
+    "volume": 3401844,
+    "amount": 8322.0,
+    "totalMV": 23884000000.0,
+    "circMV": 23884000000.0,
+    "pe": 19.17,
+    "pb": 1.44,
+    "turnover": 0.35,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

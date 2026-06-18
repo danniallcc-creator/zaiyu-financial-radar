@@ -2557,5 +2557,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "605009",
+    "name": "豪悦护理",
+    "price": 22.6,
+    "change": 0.06,
+    "changePct": 0.27,
+    "open": 22.47,
+    "high": 23.06,
+    "low": 22.11,
+    "prevClose": 22.54,
+    "volume": 16245,
+    "amount": 3667.0,
+    "totalMV": 4860000000.0,
+    "circMV": 4860000000.0,
+    "pe": 21.61,
+    "pb": 1.4,
+    "turnover": 0.76,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

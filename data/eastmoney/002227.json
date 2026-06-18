@@ -2569,5 +2569,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002227",
+    "name": "*ST特迅",
+    "price": 6.72,
+    "change": -0.34,
+    "changePct": -4.82,
+    "open": 6.97,
+    "high": 7.21,
+    "low": 6.71,
+    "prevClose": 7.06,
+    "volume": 69489,
+    "amount": 4786.0,
+    "totalMV": 1664999999.9999998,
+    "circMV": 1653000000.0,
+    "pe": -25.56,
+    "pb": 1.81,
+    "turnover": 2.83,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

@@ -2614,5 +2614,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600493",
+    "name": "凤竹纺织",
+    "price": 5.69,
+    "change": -0.04,
+    "changePct": -0.7,
+    "open": 5.71,
+    "high": 5.78,
+    "low": 5.53,
+    "prevClose": 5.73,
+    "volume": 63365,
+    "amount": 3598.0,
+    "totalMV": 1548000000.0,
+    "circMV": 1548000000.0,
+    "pe": 252.39,
+    "pb": 1.39,
+    "turnover": 2.33,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

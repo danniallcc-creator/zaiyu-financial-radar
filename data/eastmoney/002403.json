@@ -2551,5 +2551,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002403",
+    "name": "爱仕达",
+    "price": 9.65,
+    "change": -0.3,
+    "changePct": -3.02,
+    "open": 9.89,
+    "high": 10.04,
+    "low": 9.62,
+    "prevClose": 9.95,
+    "volume": 46434,
+    "amount": 4547.0,
+    "totalMV": 3286999999.9999995,
+    "circMV": 2868000000.0,
+    "pe": -14.09,
+    "pb": 2.38,
+    "turnover": 1.56,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

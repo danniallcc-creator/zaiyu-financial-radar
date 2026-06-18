@@ -2566,5 +2566,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600847",
+    "name": "万里股份",
+    "price": 14.47,
+    "change": 0.78,
+    "changePct": 5.7,
+    "open": 13.35,
+    "high": 14.88,
+    "low": 13.35,
+    "prevClose": 13.69,
+    "volume": 62424,
+    "amount": 8889.0,
+    "totalMV": 2218000000.0,
+    "circMV": 2218000000.0,
+    "pe": -38.02,
+    "pb": 4.63,
+    "turnover": 4.07,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

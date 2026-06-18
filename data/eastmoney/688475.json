@@ -2505,5 +2505,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688475",
+    "name": "萤石网络",
+    "price": 27.3,
+    "change": 0.03,
+    "changePct": 0.11,
+    "open": 27.26,
+    "high": 27.6,
+    "low": 27.08,
+    "prevClose": 27.27,
+    "volume": 3788161,
+    "amount": 10340.0,
+    "totalMV": 21499000000.0,
+    "circMV": 21499000000.0,
+    "pe": 35.18,
+    "pb": 3.8,
+    "turnover": 0.48,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

@@ -2603,5 +2603,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600980",
+    "name": "XD北矿科",
+    "price": 21.18,
+    "change": 0.12,
+    "changePct": 0.57,
+    "open": 21.15,
+    "high": 21.75,
+    "low": 20.9,
+    "prevClose": 21.06,
+    "volume": 47410,
+    "amount": 10084.0,
+    "totalMV": 4093000000.0,
+    "circMV": 4009000000.0000005,
+    "pe": 32.29,
+    "pb": 2.66,
+    "turnover": 2.5,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

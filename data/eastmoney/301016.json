@@ -2588,5 +2588,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301016",
+    "name": "雷尔伟",
+    "price": 14.26,
+    "change": -0.19,
+    "changePct": -1.31,
+    "open": 14.42,
+    "high": 14.63,
+    "low": 14.24,
+    "prevClose": 14.45,
+    "volume": 23516,
+    "amount": 3386.0,
+    "totalMV": 4360000000.0,
+    "circMV": 4181000000.0,
+    "pe": 62.52,
+    "pb": 4.37,
+    "turnover": 0.8,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

@@ -2561,5 +2561,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300105",
+    "name": "龙源技术",
+    "price": 7.02,
+    "change": -0.15,
+    "changePct": -2.09,
+    "open": 7.01,
+    "high": 7.1,
+    "low": 6.89,
+    "prevClose": 7.17,
+    "volume": 260054,
+    "amount": 18235.0,
+    "totalMV": 3621000000.0,
+    "circMV": 3619000000.0,
+    "pe": -55.87,
+    "pb": 2.02,
+    "turnover": 5.04,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

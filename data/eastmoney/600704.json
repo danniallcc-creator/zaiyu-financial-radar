@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600704",
+    "name": "物产中大",
+    "price": 4.72,
+    "change": -0.03,
+    "changePct": -0.63,
+    "open": 4.73,
+    "high": 4.76,
+    "low": 4.69,
+    "prevClose": 4.75,
+    "volume": 332729,
+    "amount": 15706.0,
+    "totalMV": 24408000000.0,
+    "circMV": 24408000000.0,
+    "pe": 6.76,
+    "pb": 0.58,
+    "turnover": 0.64,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

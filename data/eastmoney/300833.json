@@ -2545,5 +2545,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300833",
+    "name": "浩洋股份",
+    "price": 32.2,
+    "change": -0.64,
+    "changePct": -1.95,
+    "open": 32.51,
+    "high": 32.84,
+    "low": 32.05,
+    "prevClose": 32.84,
+    "volume": 5540,
+    "amount": 1791.0,
+    "totalMV": 4072999999.9999995,
+    "circMV": 2616000000.0,
+    "pe": 25.4,
+    "pb": 1.7,
+    "turnover": 0.68,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

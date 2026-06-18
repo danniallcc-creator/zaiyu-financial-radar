@@ -2602,5 +2602,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601857",
+    "name": "中国石油",
+    "price": 9.58,
+    "change": -0.19,
+    "changePct": -1.94,
+    "open": 9.79,
+    "high": 9.8,
+    "low": 9.56,
+    "prevClose": 9.77,
+    "volume": 1282272,
+    "amount": 123696.0,
+    "totalMV": 1753341000000.0,
+    "circMV": 1551214000000.0,
+    "pe": 11.08,
+    "pb": 1.08,
+    "turnover": 0.08,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

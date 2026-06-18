@@ -2542,5 +2542,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301353",
+    "name": "普莱得",
+    "price": 18.17,
+    "change": -0.13,
+    "changePct": -0.71,
+    "open": 18.2,
+    "high": 18.42,
+    "low": 17.9,
+    "prevClose": 18.3,
+    "volume": 9009,
+    "amount": 1640.0,
+    "totalMV": 2308000000.0,
+    "circMV": 742000000.0,
+    "pe": 33.12,
+    "pb": 1.82,
+    "turnover": 2.21,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

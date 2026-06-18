@@ -2613,5 +2613,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600302",
+    "name": "ST标准",
+    "price": 9.12,
+    "change": -0.48,
+    "changePct": -5.0,
+    "open": 9.37,
+    "high": 9.73,
+    "low": 9.12,
+    "prevClose": 9.6,
+    "volume": 69166,
+    "amount": 6472.0,
+    "totalMV": 3156000000.0,
+    "circMV": 3156000000.0,
+    "pe": -19.74,
+    "pb": 6.51,
+    "turnover": 2.0,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

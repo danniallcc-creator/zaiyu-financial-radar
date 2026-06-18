@@ -2516,5 +2516,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688597",
+    "name": "煜邦电力",
+    "price": 7.55,
+    "change": -0.41,
+    "changePct": -5.15,
+    "open": 7.94,
+    "high": 7.96,
+    "low": 7.4,
+    "prevClose": 7.96,
+    "volume": 9747034,
+    "amount": 7455.0,
+    "totalMV": 2537000000.0,
+    "circMV": 2537000000.0,
+    "pe": 53.86,
+    "pb": 3.19,
+    "turnover": 2.9,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

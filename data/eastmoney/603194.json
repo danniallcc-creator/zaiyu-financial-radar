@@ -2223,5 +2223,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603194",
+    "name": "中力股份",
+    "price": 37.21,
+    "change": 0.17,
+    "changePct": 0.46,
+    "open": 37.0,
+    "high": 37.63,
+    "low": 36.73,
+    "prevClose": 37.04,
+    "volume": 15151,
+    "amount": 5644.0,
+    "totalMV": 14921000000.0,
+    "circMV": 5880000000.0,
+    "pe": 17.57,
+    "pb": 2.78,
+    "turnover": 0.96,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

@@ -2506,5 +2506,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301189",
+    "name": "奥尼电子",
+    "price": 67.02,
+    "change": 1.52,
+    "changePct": 2.32,
+    "open": 65.5,
+    "high": 69.3,
+    "low": 64.5,
+    "prevClose": 65.5,
+    "volume": 65742,
+    "amount": 44077.0,
+    "totalMV": 10967000000.0,
+    "circMV": 10585000000.0,
+    "pe": -96.73,
+    "pb": 5.28,
+    "turnover": 4.16,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

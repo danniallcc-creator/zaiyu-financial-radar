@@ -1710,5 +1710,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000166",
+    "name": "申万宏源",
+    "price": 4.41,
+    "change": -0.16,
+    "changePct": -3.5,
+    "open": 4.56,
+    "high": 4.57,
+    "low": 4.4,
+    "prevClose": 4.57,
+    "volume": 1089746,
+    "amount": 48698.0,
+    "totalMV": 110426000000.0,
+    "circMV": 99382000000.0,
+    "pe": 11.17,
+    "pb": 0.96,
+    "turnover": 0.48,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

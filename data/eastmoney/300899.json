@@ -2527,5 +2527,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300899",
+    "name": "上海凯鑫",
+    "price": 29.75,
+    "change": -0.07,
+    "changePct": -0.23,
+    "open": 29.63,
+    "high": 30.4,
+    "low": 29.18,
+    "prevClose": 29.82,
+    "volume": 8643,
+    "amount": 2580.0,
+    "totalMV": 1898000000.0,
+    "circMV": 1218000000.0,
+    "pe": -725.55,
+    "pb": 3.1,
+    "turnover": 2.11,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

@@ -2527,5 +2527,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301528",
+    "name": "多浦乐",
+    "price": 94.99,
+    "change": 2.11,
+    "changePct": 2.27,
+    "open": 94.08,
+    "high": 96.8,
+    "low": 90.66,
+    "prevClose": 92.88,
+    "volume": 30605,
+    "amount": 28645.0,
+    "totalMV": 5880000000.0,
+    "circMV": 3030000000.0,
+    "pe": 97.82,
+    "pb": 3.76,
+    "turnover": 9.59,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

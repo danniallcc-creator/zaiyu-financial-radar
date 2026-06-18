@@ -2596,5 +2596,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000812",
+    "name": "陕西金叶",
+    "price": 3.32,
+    "change": 0.0,
+    "changePct": 0.0,
+    "open": 3.31,
+    "high": 3.36,
+    "low": 3.26,
+    "prevClose": 3.32,
+    "volume": 96793,
+    "amount": 3205.0,
+    "totalMV": 2511000000.0,
+    "circMV": 2510000000.0,
+    "pe": -10.73,
+    "pb": 1.68,
+    "turnover": 1.28,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

@@ -2655,5 +2655,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000100",
+    "name": "TCL科技",
+    "price": 5.0,
+    "change": -0.12,
+    "changePct": -2.34,
+    "open": 5.21,
+    "high": 5.24,
+    "low": 4.98,
+    "prevClose": 5.12,
+    "volume": 18041617,
+    "amount": 916595.0,
+    "totalMV": 104004000000.0,
+    "circMV": 95660000000.0,
+    "pe": 20.55,
+    "pb": 1.71,
+    "turnover": 9.43,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

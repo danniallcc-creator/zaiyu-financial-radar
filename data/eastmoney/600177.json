@@ -2617,5 +2617,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600177",
+    "name": "雅戈尔",
+    "price": 7.35,
+    "change": -0.04,
+    "changePct": -0.54,
+    "open": 7.4,
+    "high": 7.43,
+    "low": 7.3,
+    "prevClose": 7.39,
+    "volume": 194531,
+    "amount": 14334.0,
+    "totalMV": 33982000000.0,
+    "circMV": 33100000000.0,
+    "pe": 13.25,
+    "pb": 0.82,
+    "turnover": 0.43,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

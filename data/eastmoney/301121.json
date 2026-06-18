@@ -2499,5 +2499,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301121",
+    "name": "紫建电子",
+    "price": 37.52,
+    "change": 0.16,
+    "changePct": 0.43,
+    "open": 37.36,
+    "high": 38.45,
+    "low": 37.0,
+    "prevClose": 37.36,
+    "volume": 13691,
+    "amount": 5176.0,
+    "totalMV": 3708000000.0,
+    "circMV": 1898000000.0,
+    "pe": 8041.86,
+    "pb": 2.24,
+    "turnover": 2.71,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

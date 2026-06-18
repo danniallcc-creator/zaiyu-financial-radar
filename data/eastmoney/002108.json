@@ -2662,5 +2662,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002108",
+    "name": "沧州明珠",
+    "price": 4.63,
+    "change": -0.1,
+    "changePct": -2.11,
+    "open": 4.7,
+    "high": 4.73,
+    "low": 4.62,
+    "prevClose": 4.73,
+    "volume": 342217,
+    "amount": 15939.0,
+    "totalMV": 7633000000.0,
+    "circMV": 7628000000.0,
+    "pe": 51.06,
+    "pb": 1.51,
+    "turnover": 2.08,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

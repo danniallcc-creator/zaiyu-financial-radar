@@ -2596,5 +2596,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601868",
+    "name": "中国能建",
+    "price": 2.76,
+    "change": -0.13,
+    "changePct": -4.5,
+    "open": 2.82,
+    "high": 2.82,
+    "low": 2.73,
+    "prevClose": 2.89,
+    "volume": 7620911,
+    "amount": 211080.0,
+    "totalMV": 122103000000.0,
+    "circMV": 89503000000.0,
+    "pe": 21.49,
+    "pb": 1.02,
+    "turnover": 2.35,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

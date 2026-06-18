@@ -2517,5 +2517,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300780",
+    "name": "德恩精工",
+    "price": 31.68,
+    "change": -0.22,
+    "changePct": -0.69,
+    "open": 31.78,
+    "high": 32.43,
+    "low": 31.01,
+    "prevClose": 31.9,
+    "volume": 94698,
+    "amount": 30065.0,
+    "totalMV": 4647000000.0,
+    "circMV": 3407000000.0,
+    "pe": -105.22,
+    "pb": 4.64,
+    "turnover": 8.81,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

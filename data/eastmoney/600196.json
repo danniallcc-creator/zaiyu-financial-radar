@@ -2686,5 +2686,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600196",
+    "name": "复星医药",
+    "price": 21.79,
+    "change": 0.21,
+    "changePct": 0.97,
+    "open": 21.53,
+    "high": 22.08,
+    "low": 21.25,
+    "prevClose": 21.58,
+    "volume": 202986,
+    "amount": 44177.0,
+    "totalMV": 58189000000.0,
+    "circMV": 46162000000.0,
+    "pe": 16.74,
+    "pb": 1.18,
+    "turnover": 0.96,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

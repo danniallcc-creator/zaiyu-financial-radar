@@ -2526,5 +2526,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603282",
+    "name": "亚光股份",
+    "price": 15.69,
+    "change": 1.0,
+    "changePct": 6.81,
+    "open": 14.56,
+    "high": 15.85,
+    "low": 14.31,
+    "prevClose": 14.69,
+    "volume": 46070,
+    "amount": 7001.0,
+    "totalMV": 2100000000.0,
+    "circMV": 2100000000.0,
+    "pe": 31.74,
+    "pb": 1.59,
+    "turnover": 3.44,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

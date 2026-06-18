@@ -1714,5 +1714,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601319",
+    "name": "中国人保",
+    "price": 6.65,
+    "change": -0.35,
+    "changePct": -5.0,
+    "open": 6.95,
+    "high": 7.0,
+    "low": 6.62,
+    "prevClose": 7.0,
+    "volume": 1207263,
+    "amount": 81564.0,
+    "totalMV": 294090000000.0,
+    "circMV": 236060000000.0,
+    "pe": 6.9,
+    "pb": 0.92,
+    "turnover": 0.34,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

@@ -2642,5 +2642,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603298",
+    "name": "杭叉集团",
+    "price": 24.66,
+    "change": -0.19,
+    "changePct": -0.76,
+    "open": 24.95,
+    "high": 25.04,
+    "low": 24.53,
+    "prevClose": 24.85,
+    "volume": 46999,
+    "amount": 11653.0,
+    "totalMV": 32300000000.0,
+    "circMV": 32300000000.0,
+    "pe": 14.48,
+    "pb": 2.81,
+    "turnover": 0.36,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

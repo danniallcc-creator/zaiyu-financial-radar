@@ -2535,5 +2535,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603757",
+    "name": "大元泵业",
+    "price": 56.06,
+    "change": 2.97,
+    "changePct": 5.59,
+    "open": 53.1,
+    "high": 56.85,
+    "low": 53.0,
+    "prevClose": 53.09,
+    "volume": 142060,
+    "amount": 77853.0,
+    "totalMV": 10458000000.0,
+    "circMV": 10458000000.0,
+    "pe": 89.42,
+    "pb": 5.02,
+    "turnover": 7.62,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

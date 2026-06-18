@@ -2509,5 +2509,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688022",
+    "name": "ST瀚川",
+    "price": 7.88,
+    "change": -0.11,
+    "changePct": -1.38,
+    "open": 7.96,
+    "high": 8.14,
+    "low": 7.82,
+    "prevClose": 7.99,
+    "volume": 3385979,
+    "amount": 2693.0,
+    "totalMV": 1386000000.0,
+    "circMV": 1386000000.0,
+    "pe": 68.73,
+    "pb": 2.1,
+    "turnover": 1.93,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

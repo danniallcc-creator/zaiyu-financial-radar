@@ -2604,5 +2604,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688009",
+    "name": "中国通号",
+    "price": 4.93,
+    "change": -0.05,
+    "changePct": -1.0,
+    "open": 4.96,
+    "high": 4.97,
+    "low": 4.89,
+    "prevClose": 4.98,
+    "volume": 34895233,
+    "amount": 17180.0,
+    "totalMV": 52208000000.00001,
+    "circMV": 42502000000.0,
+    "pe": 14.32,
+    "pb": 1.09,
+    "turnover": 0.4,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

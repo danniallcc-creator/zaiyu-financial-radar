@@ -2524,5 +2524,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002723",
+    "name": "小崧股份",
+    "price": 8.69,
+    "change": 0.57,
+    "changePct": 7.02,
+    "open": 8.04,
+    "high": 8.93,
+    "low": 7.99,
+    "prevClose": 8.12,
+    "volume": 322778,
+    "amount": 27705.0,
+    "totalMV": 2888000000.0,
+    "circMV": 2755000000.0,
+    "pe": -10.57,
+    "pb": 3.94,
+    "turnover": 10.18,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

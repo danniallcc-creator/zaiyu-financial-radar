@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600873",
+    "name": "梅花生物",
+    "price": 8.31,
+    "change": -0.22,
+    "changePct": -2.58,
+    "open": 8.49,
+    "high": 8.51,
+    "low": 8.3,
+    "prevClose": 8.53,
+    "volume": 212517,
+    "amount": 17778.0,
+    "totalMV": 23303000000.0,
+    "circMV": 23303000000.0,
+    "pe": 9.79,
+    "pb": 1.42,
+    "turnover": 0.76,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

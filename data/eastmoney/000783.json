@@ -1705,5 +1705,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000783",
+    "name": "长江证券",
+    "price": 7.82,
+    "change": -0.23,
+    "changePct": -2.86,
+    "open": 7.99,
+    "high": 8.09,
+    "low": 7.79,
+    "prevClose": 8.05,
+    "volume": 1025998,
+    "amount": 81083.0,
+    "totalMV": 43245000000.0,
+    "circMV": 43245000000.0,
+    "pe": 10.29,
+    "pb": 1.23,
+    "turnover": 1.86,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

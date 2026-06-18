@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000672",
+    "name": "上峰材料",
+    "price": 18.71,
+    "change": -0.32,
+    "changePct": -1.68,
+    "open": 19.03,
+    "high": 19.47,
+    "low": 18.55,
+    "prevClose": 19.03,
+    "volume": 383176,
+    "amount": 72057.0,
+    "totalMV": 18137000000.0,
+    "circMV": 18137000000.0,
+    "pe": 30.76,
+    "pb": 2.1,
+    "turnover": 3.95,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

@@ -2548,5 +2548,24 @@
         "status": "取消分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301028",
+    "name": "鼎熔岩",
+    "price": 17.62,
+    "change": -0.26,
+    "changePct": -1.45,
+    "open": 17.88,
+    "high": 17.92,
+    "low": 17.43,
+    "prevClose": 17.88,
+    "volume": 67489,
+    "amount": 11911.0,
+    "totalMV": 6767000000.0,
+    "circMV": 4375000000.0,
+    "pe": 28.86,
+    "pb": 4.04,
+    "turnover": 2.72,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

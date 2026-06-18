@@ -2531,5 +2531,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301317",
+    "name": "鑫磊股份",
+    "price": 67.5,
+    "change": 3.43,
+    "changePct": 5.35,
+    "open": 64.9,
+    "high": 69.81,
+    "low": 63.47,
+    "prevClose": 64.07,
+    "volume": 38832,
+    "amount": 26240.0,
+    "totalMV": 10610000000.0,
+    "circMV": 3522999999.9999995,
+    "pe": -80.44,
+    "pb": 8.65,
+    "turnover": 7.44,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

@@ -2614,5 +2614,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002445",
+    "name": "中南文化",
+    "price": 3.18,
+    "change": -0.01,
+    "changePct": -0.31,
+    "open": 3.17,
+    "high": 3.2,
+    "low": 3.11,
+    "prevClose": 3.19,
+    "volume": 646232,
+    "amount": 20359.0,
+    "totalMV": 7558000000.0,
+    "circMV": 7525000000.0,
+    "pe": 144.12,
+    "pb": 3.31,
+    "turnover": 2.73,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

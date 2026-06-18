@@ -2632,5 +2632,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002884",
+    "name": "凌霄泵业",
+    "price": 15.56,
+    "change": -0.24,
+    "changePct": -1.52,
+    "open": 15.83,
+    "high": 15.84,
+    "low": 15.5,
+    "prevClose": 15.8,
+    "volume": 27279,
+    "amount": 4260.0,
+    "totalMV": 5566000000.0,
+    "circMV": 4249000000.0,
+    "pe": 12.41,
+    "pb": 2.58,
+    "turnover": 1.0,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

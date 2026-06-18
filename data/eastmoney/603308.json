@@ -2664,5 +2664,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603308",
+    "name": "应流股份",
+    "price": 68.18,
+    "change": 4.21,
+    "changePct": 6.58,
+    "open": 66.0,
+    "high": 70.37,
+    "low": 65.68,
+    "prevClose": 63.97,
+    "volume": 451361,
+    "amount": 311764.0,
+    "totalMV": 46297000000.0,
+    "circMV": 46297000000.0,
+    "pe": 122.88,
+    "pb": 9.11,
+    "turnover": 6.65,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

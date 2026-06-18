@@ -2629,5 +2629,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002158",
+    "name": "汉钟精机",
+    "price": 34.35,
+    "change": 3.12,
+    "changePct": 9.99,
+    "open": 31.22,
+    "high": 34.35,
+    "low": 30.93,
+    "prevClose": 31.23,
+    "volume": 211468,
+    "amount": 70066.0,
+    "totalMV": 18368000000.0,
+    "circMV": 18328000000.0,
+    "pe": 38.86,
+    "pb": 4.35,
+    "turnover": 3.96,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

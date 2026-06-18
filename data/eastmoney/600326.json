@@ -2632,5 +2632,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600326",
+    "name": "西藏天路",
+    "price": 7.02,
+    "change": -0.13,
+    "changePct": -1.82,
+    "open": 7.1,
+    "high": 7.15,
+    "low": 6.96,
+    "prevClose": 7.15,
+    "volume": 220639,
+    "amount": 15542.0,
+    "totalMV": 9565000000.0,
+    "circMV": 9565000000.0,
+    "pe": 318.18,
+    "pb": 2.44,
+    "turnover": 1.62,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

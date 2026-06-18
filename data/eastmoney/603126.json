@@ -2587,5 +2587,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603126",
+    "name": "中材节能",
+    "price": 7.13,
+    "change": -0.21,
+    "changePct": -2.86,
+    "open": 7.27,
+    "high": 7.33,
+    "low": 7.07,
+    "prevClose": 7.34,
+    "volume": 102531,
+    "amount": 7364.0,
+    "totalMV": 4353000000.0,
+    "circMV": 4353000000.0,
+    "pe": 132.85,
+    "pb": 2.13,
+    "turnover": 1.68,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

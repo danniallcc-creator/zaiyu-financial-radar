@@ -2533,5 +2533,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "003025",
+    "name": "思进智能",
+    "price": 17.0,
+    "change": 0.4,
+    "changePct": 2.41,
+    "open": 16.6,
+    "high": 17.23,
+    "low": 16.3,
+    "prevClose": 16.6,
+    "volume": 181501,
+    "amount": 30237.0,
+    "totalMV": 4827000000.0,
+    "circMV": 3849000000.0,
+    "pe": 31.48,
+    "pb": 3.88,
+    "turnover": 8.02,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

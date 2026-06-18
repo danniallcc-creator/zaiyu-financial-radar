@@ -2466,5 +2466,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300808",
+    "name": "久量股份",
+    "price": 22.73,
+    "change": -0.97,
+    "changePct": -4.09,
+    "open": 23.48,
+    "high": 23.78,
+    "low": 22.5,
+    "prevClose": 23.7,
+    "volume": 27873,
+    "amount": 6417.0,
+    "totalMV": 3636999999.9999995,
+    "circMV": 2703000000.0,
+    "pe": -54.96,
+    "pb": 3.87,
+    "turnover": 2.34,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

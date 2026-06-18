@@ -2630,5 +2630,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300421",
+    "name": "力星股份",
+    "price": 20.29,
+    "change": 0.12,
+    "changePct": 0.59,
+    "open": 20.01,
+    "high": 20.67,
+    "low": 19.82,
+    "prevClose": 20.17,
+    "volume": 80201,
+    "amount": 16324.0,
+    "totalMV": 5966000000.0,
+    "circMV": 4673000000.0,
+    "pe": 100.87,
+    "pb": 4.78,
+    "turnover": 3.48,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

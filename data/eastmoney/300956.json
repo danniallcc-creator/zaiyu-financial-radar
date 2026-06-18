@@ -2582,5 +2582,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300956",
+    "name": "英力股份",
+    "price": 12.57,
+    "change": 0.27,
+    "changePct": 2.2,
+    "open": 12.23,
+    "high": 12.69,
+    "low": 12.1,
+    "prevClose": 12.3,
+    "volume": 101688,
+    "amount": 12700.0,
+    "totalMV": 2708000000.0,
+    "circMV": 2645000000.0,
+    "pe": 631.76,
+    "pb": 2.01,
+    "turnover": 4.83,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

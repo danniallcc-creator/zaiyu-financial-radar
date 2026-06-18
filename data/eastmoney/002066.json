@@ -2547,5 +2547,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002066",
+    "name": "瑞泰科技",
+    "price": 21.84,
+    "change": -1.24,
+    "changePct": -5.37,
+    "open": 23.22,
+    "high": 23.72,
+    "low": 21.82,
+    "prevClose": 23.08,
+    "volume": 181100,
+    "amount": 41207.0,
+    "totalMV": 5130000000.0,
+    "circMV": 5045000000.0,
+    "pe": -66.24,
+    "pb": 8.25,
+    "turnover": 7.84,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

@@ -2368,5 +2368,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603091",
+    "name": "众鑫股份",
+    "price": 68.29,
+    "change": 0.87,
+    "changePct": 1.29,
+    "open": 67.3,
+    "high": 68.85,
+    "low": 65.5,
+    "prevClose": 67.42,
+    "volume": 8536,
+    "amount": 5740.0,
+    "totalMV": 6981999999.999999,
+    "circMV": 2147000000.0,
+    "pe": 24.25,
+    "pb": 3.06,
+    "turnover": 2.71,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

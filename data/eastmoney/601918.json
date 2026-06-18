@@ -2666,5 +2666,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601918",
+    "name": "新集能源",
+    "price": 8.91,
+    "change": -0.48,
+    "changePct": -5.11,
+    "open": 9.38,
+    "high": 9.45,
+    "low": 8.9,
+    "prevClose": 9.39,
+    "volume": 562782,
+    "amount": 51202.0,
+    "totalMV": 23082000000.0,
+    "circMV": 23082000000.0,
+    "pe": 10.72,
+    "pb": 1.32,
+    "turnover": 2.17,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

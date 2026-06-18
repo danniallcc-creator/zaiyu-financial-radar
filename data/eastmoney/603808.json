@@ -2620,5 +2620,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603808",
+    "name": "歌力思",
+    "price": 8.37,
+    "change": -0.06,
+    "changePct": -0.71,
+    "open": 8.37,
+    "high": 8.48,
+    "low": 8.31,
+    "prevClose": 8.43,
+    "volume": 29432,
+    "amount": 2471.0,
+    "totalMV": 3044000000.0,
+    "circMV": 3044000000.0,
+    "pe": 18.46,
+    "pb": 1.18,
+    "turnover": 0.81,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

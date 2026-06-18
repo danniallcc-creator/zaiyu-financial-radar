@@ -2602,5 +2602,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300228",
+    "name": "富瑞特装",
+    "price": 7.79,
+    "change": -0.09,
+    "changePct": -1.14,
+    "open": 7.83,
+    "high": 7.94,
+    "low": 7.68,
+    "prevClose": 7.88,
+    "volume": 148153,
+    "amount": 11555.0,
+    "totalMV": 4654000000.0,
+    "circMV": 4354000000.0,
+    "pe": 18.78,
+    "pb": 1.89,
+    "turnover": 2.65,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

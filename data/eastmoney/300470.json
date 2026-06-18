@@ -2629,5 +2629,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300470",
+    "name": "中密控股",
+    "price": 30.2,
+    "change": -0.4,
+    "changePct": -1.31,
+    "open": 30.48,
+    "high": 30.68,
+    "low": 29.99,
+    "prevClose": 30.6,
+    "volume": 19981,
+    "amount": 6045.0,
+    "totalMV": 6280000000.0,
+    "circMV": 5954000000.0,
+    "pe": 17.56,
+    "pb": 2.19,
+    "turnover": 1.01,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

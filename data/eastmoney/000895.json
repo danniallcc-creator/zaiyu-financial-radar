@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000895",
+    "name": "双汇发展",
+    "price": 22.79,
+    "change": -0.26,
+    "changePct": -1.13,
+    "open": 23.03,
+    "high": 23.15,
+    "low": 22.72,
+    "prevClose": 23.05,
+    "volume": 102910,
+    "amount": 23567.0,
+    "totalMV": 78960000000.0,
+    "circMV": 78949000000.0,
+    "pe": 15.01,
+    "pb": 3.97,
+    "turnover": 0.3,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

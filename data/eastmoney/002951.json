@@ -2542,5 +2542,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002951",
+    "name": "金时科技",
+    "price": 16.1,
+    "change": -0.07,
+    "changePct": -0.43,
+    "open": 16.0,
+    "high": 16.34,
+    "low": 15.9,
+    "prevClose": 16.17,
+    "volume": 82837,
+    "amount": 13322.0,
+    "totalMV": 6520000000.0,
+    "circMV": 6458000000.0,
+    "pe": -29.09,
+    "pb": 4.29,
+    "turnover": 2.07,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

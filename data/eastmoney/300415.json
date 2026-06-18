@@ -2658,5 +2658,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300415",
+    "name": "伊之密",
+    "price": 21.05,
+    "change": -0.16,
+    "changePct": -0.75,
+    "open": 21.01,
+    "high": 21.4,
+    "low": 20.83,
+    "prevClose": 21.21,
+    "volume": 60295,
+    "amount": 12717.0,
+    "totalMV": 9863000000.0,
+    "circMV": 9538000000.0,
+    "pe": 13.87,
+    "pb": 3.16,
+    "turnover": 1.33,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

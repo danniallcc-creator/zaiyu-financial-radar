@@ -2558,5 +2558,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301040",
+    "name": "中环海陆",
+    "price": 27.77,
+    "change": -0.95,
+    "changePct": -3.31,
+    "open": 29.01,
+    "high": 29.3,
+    "low": 27.68,
+    "prevClose": 28.72,
+    "volume": 24958,
+    "amount": 7052.0,
+    "totalMV": 2777000000.0,
+    "circMV": 2620000000.0,
+    "pe": -33.28,
+    "pb": 3.96,
+    "turnover": 2.64,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

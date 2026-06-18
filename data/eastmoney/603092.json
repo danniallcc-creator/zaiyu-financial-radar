@@ -1534,5 +1534,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603092",
+    "name": "德力佳",
+    "price": 57.33,
+    "change": -1.58,
+    "changePct": -2.68,
+    "open": 58.97,
+    "high": 59.49,
+    "low": 57.3,
+    "prevClose": 58.91,
+    "volume": 14518,
+    "amount": 8425.0,
+    "totalMV": 22932000000.0,
+    "circMV": 1982000000.0,
+    "pe": 25.56,
+    "pb": 4.0,
+    "turnover": 4.2,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

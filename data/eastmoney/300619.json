@@ -2466,5 +2466,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300619",
+    "name": "金银河",
+    "price": 39.44,
+    "change": -0.22,
+    "changePct": -0.55,
+    "open": 39.33,
+    "high": 40.18,
+    "low": 38.94,
+    "prevClose": 39.66,
+    "volume": 45774,
+    "amount": 18084.0,
+    "totalMV": 6863000000.0,
+    "circMV": 5777000000.0,
+    "pe": 96.88,
+    "pb": 4.34,
+    "turnover": 3.12,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

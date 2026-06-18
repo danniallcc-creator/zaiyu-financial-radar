@@ -2611,5 +2611,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000570",
+    "name": "苏常柴Ａ",
+    "price": 5.04,
+    "change": -0.08,
+    "changePct": -1.56,
+    "open": 5.11,
+    "high": 5.13,
+    "low": 5.0,
+    "prevClose": 5.12,
+    "volume": 104593,
+    "amount": 5292.0,
+    "totalMV": 3557000000.0,
+    "circMV": 2801000000.0,
+    "pe": 43.64,
+    "pb": 1.01,
+    "turnover": 1.88,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

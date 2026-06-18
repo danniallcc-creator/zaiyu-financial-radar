@@ -2521,5 +2521,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600734",
+    "name": "*ST实达",
+    "price": 1.91,
+    "change": -0.1,
+    "changePct": -4.98,
+    "open": 1.95,
+    "high": 1.96,
+    "low": 1.91,
+    "prevClose": 2.01,
+    "volume": 720643,
+    "amount": 13852.0,
+    "totalMV": 4161000000.0,
+    "circMV": 4160000000.0,
+    "pe": -29.58,
+    "pb": 18.15,
+    "turnover": 3.31,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

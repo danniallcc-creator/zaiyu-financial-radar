@@ -2662,5 +2662,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300160",
+    "name": "秀强股份",
+    "price": 4.52,
+    "change": -0.16,
+    "changePct": -3.42,
+    "open": 4.65,
+    "high": 4.68,
+    "low": 4.5,
+    "prevClose": 4.68,
+    "volume": 93762,
+    "amount": 4254.0,
+    "totalMV": 3494000000.0,
+    "circMV": 3445000000.0000005,
+    "pe": 23.86,
+    "pb": 1.33,
+    "turnover": 1.23,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

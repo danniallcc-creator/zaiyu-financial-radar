@@ -2580,5 +2580,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301163",
+    "name": "宏德股份",
+    "price": 23.4,
+    "change": -0.37,
+    "changePct": -1.56,
+    "open": 23.43,
+    "high": 23.81,
+    "low": 22.9,
+    "prevClose": 23.77,
+    "volume": 10982,
+    "amount": 2579.0,
+    "totalMV": 1909000000.0,
+    "circMV": 1281000000.0,
+    "pe": 46.29,
+    "pb": 1.68,
+    "turnover": 2.01,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

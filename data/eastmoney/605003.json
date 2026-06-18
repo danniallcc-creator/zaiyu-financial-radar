@@ -2596,5 +2596,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "605003",
+    "name": "XD众望布",
+    "price": 22.48,
+    "change": 0.43,
+    "changePct": 1.95,
+    "open": 21.92,
+    "high": 22.76,
+    "low": 21.62,
+    "prevClose": 22.05,
+    "volume": 10177,
+    "amount": 2268.0,
+    "totalMV": 2473000000.0,
+    "circMV": 2473000000.0,
+    "pe": 39.12,
+    "pb": 1.75,
+    "turnover": 0.93,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

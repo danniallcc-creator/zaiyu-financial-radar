@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002487",
+    "name": "大金重工",
+    "price": 58.32,
+    "change": -2.25,
+    "changePct": -3.71,
+    "open": 60.0,
+    "high": 60.98,
+    "low": 58.21,
+    "prevClose": 60.57,
+    "volume": 227718,
+    "amount": 134848.0,
+    "totalMV": 43026000000.0,
+    "circMV": 36795000000.0,
+    "pe": 32.92,
+    "pb": 4.97,
+    "turnover": 3.61,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

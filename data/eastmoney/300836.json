@@ -2502,5 +2502,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300836",
+    "name": "佰奥智能",
+    "price": 75.44,
+    "change": 0.41,
+    "changePct": 0.55,
+    "open": 74.14,
+    "high": 75.5,
+    "low": 73.7,
+    "prevClose": 75.03,
+    "volume": 17881,
+    "amount": 13332.0,
+    "totalMV": 6992000000.0,
+    "circMV": 4787000000.0,
+    "pe": 71.71,
+    "pb": 10.91,
+    "turnover": 2.82,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

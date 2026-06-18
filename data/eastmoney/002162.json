@@ -2521,5 +2521,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002162",
+    "name": "悦心健康",
+    "price": 3.54,
+    "change": -0.03,
+    "changePct": -0.84,
+    "open": 3.56,
+    "high": 3.59,
+    "low": 3.52,
+    "prevClose": 3.57,
+    "volume": 78235,
+    "amount": 2778.0,
+    "totalMV": 3256000000.0,
+    "circMV": 3251000000.0,
+    "pe": 278.55,
+    "pb": 3.99,
+    "turnover": 0.85,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600592",
+    "name": "XD龙溪股",
+    "price": 15.39,
+    "change": 0.09,
+    "changePct": 0.59,
+    "open": 15.29,
+    "high": 15.46,
+    "low": 15.04,
+    "prevClose": 15.3,
+    "volume": 63650,
+    "amount": 9740.0,
+    "totalMV": 6149000000.0,
+    "circMV": 6149000000.0,
+    "pe": 44.4,
+    "pb": 2.41,
+    "turnover": 1.59,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

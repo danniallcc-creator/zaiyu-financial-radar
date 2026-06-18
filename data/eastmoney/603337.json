@@ -2650,5 +2650,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603337",
+    "name": "杰克科技",
+    "price": 42.68,
+    "change": 1.38,
+    "changePct": 3.34,
+    "open": 41.8,
+    "high": 43.48,
+    "low": 41.3,
+    "prevClose": 41.3,
+    "volume": 74368,
+    "amount": 31645.0,
+    "totalMV": 20333000000.0,
+    "circMV": 20219000000.0,
+    "pe": 23.45,
+    "pb": 3.93,
+    "turnover": 1.57,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

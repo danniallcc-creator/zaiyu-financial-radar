@@ -2523,5 +2523,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688551",
+    "name": "科威尔",
+    "price": 70.0,
+    "change": -7.2,
+    "changePct": -9.33,
+    "open": 75.24,
+    "high": 76.11,
+    "low": 69.0,
+    "prevClose": 77.2,
+    "volume": 10324377,
+    "amount": 73709.0,
+    "totalMV": 7630000000.0,
+    "circMV": 7630000000.0,
+    "pe": 150.03,
+    "pb": 5.87,
+    "turnover": 9.47,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

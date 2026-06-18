@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002001",
+    "name": "新 和 成",
+    "price": 28.0,
+    "change": -0.5,
+    "changePct": -1.75,
+    "open": 28.21,
+    "high": 29.1,
+    "low": 27.85,
+    "prevClose": 28.5,
+    "volume": 398051,
+    "amount": 112970.0,
+    "totalMV": 86056000000.0,
+    "circMV": 85032000000.0,
+    "pe": 12.82,
+    "pb": 2.63,
+    "turnover": 1.31,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

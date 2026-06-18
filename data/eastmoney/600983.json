@@ -2614,5 +2614,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600983",
+    "name": "XD惠而浦",
+    "price": 7.65,
+    "change": -0.65,
+    "changePct": -7.83,
+    "open": 8.1,
+    "high": 8.1,
+    "low": 7.53,
+    "prevClose": 8.3,
+    "volume": 75982,
+    "amount": 5869.0,
+    "totalMV": 5863000000.0,
+    "circMV": 5863000000.0,
+    "pe": 11.75,
+    "pb": 2.29,
+    "turnover": 0.99,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

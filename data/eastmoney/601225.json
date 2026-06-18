@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601225",
+    "name": "陕西煤业",
+    "price": 22.97,
+    "change": -0.61,
+    "changePct": -2.59,
+    "open": 23.3,
+    "high": 23.73,
+    "low": 22.96,
+    "prevClose": 23.58,
+    "volume": 429936,
+    "amount": 99986.0,
+    "totalMV": 222694000000.0,
+    "circMV": 222694000000.0,
+    "pe": 13.77,
+    "pb": 2.18,
+    "turnover": 0.44,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

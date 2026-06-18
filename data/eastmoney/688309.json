@@ -2510,5 +2510,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688309",
+    "name": "恒誉环保",
+    "price": 66.0,
+    "change": 2.59,
+    "changePct": 4.08,
+    "open": 62.75,
+    "high": 66.68,
+    "low": 62.3,
+    "prevClose": 63.41,
+    "volume": 1862021,
+    "amount": 12083.0,
+    "totalMV": 5240000000.0,
+    "circMV": 5240000000.0,
+    "pe": 77.43,
+    "pb": 6.44,
+    "turnover": 2.35,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

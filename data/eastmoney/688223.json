@@ -2578,5 +2578,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688223",
+    "name": "晶科能源",
+    "price": 5.09,
+    "change": -0.08,
+    "changePct": -1.55,
+    "open": 5.17,
+    "high": 5.21,
+    "low": 5.07,
+    "prevClose": 5.17,
+    "volume": 120040626,
+    "amount": 61496.0,
+    "totalMV": 52271000000.0,
+    "circMV": 52271000000.0,
+    "pe": -7.64,
+    "pb": 2.1,
+    "turnover": 1.17,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

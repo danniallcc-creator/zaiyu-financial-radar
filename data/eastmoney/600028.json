@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600028",
+    "name": "中国石化",
+    "price": 4.71,
+    "change": -0.14,
+    "changePct": -2.89,
+    "open": 4.85,
+    "high": 4.85,
+    "low": 4.71,
+    "prevClose": 4.85,
+    "volume": 2326923,
+    "amount": 110793.0,
+    "totalMV": 569559000000.0,
+    "circMV": 446284000000.0,
+    "pe": 16.02,
+    "pb": 0.69,
+    "turnover": 0.25,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

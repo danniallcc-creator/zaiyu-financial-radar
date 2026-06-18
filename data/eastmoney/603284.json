@@ -936,5 +936,24 @@
         "status": "股东大会决议通过"
       }
     ]
+  },
+  "quote": {
+    "code": "603284",
+    "name": "林平发展",
+    "price": 38.3,
+    "change": -0.35,
+    "changePct": -0.91,
+    "open": 38.43,
+    "high": 38.99,
+    "low": 38.15,
+    "prevClose": 38.65,
+    "volume": 6826,
+    "amount": 2627.0,
+    "totalMV": 2888000000.0,
+    "circMV": 708000000.0,
+    "pe": 16.03,
+    "pb": 1.3,
+    "turnover": 3.7,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

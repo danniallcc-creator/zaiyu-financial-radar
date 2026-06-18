@@ -2596,5 +2596,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002521",
+    "name": "齐峰新材",
+    "price": 6.87,
+    "change": -0.14,
+    "changePct": -2.0,
+    "open": 6.97,
+    "high": 7.04,
+    "low": 6.81,
+    "prevClose": 7.01,
+    "volume": 57145,
+    "amount": 3947.0,
+    "totalMV": 3847999999.9999995,
+    "circMV": 2880000000.0,
+    "pe": 21.74,
+    "pb": 0.99,
+    "turnover": 1.36,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

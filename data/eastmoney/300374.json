@@ -2523,5 +2523,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300374",
+    "name": "中铁装配",
+    "price": 11.61,
+    "change": -1.05,
+    "changePct": -8.29,
+    "open": 12.2,
+    "high": 12.28,
+    "low": 11.43,
+    "prevClose": 12.66,
+    "volume": 137923,
+    "amount": 16187.0,
+    "totalMV": 2855000000.0,
+    "circMV": 2855000000.0,
+    "pe": -23.25,
+    "pb": 4.02,
+    "turnover": 5.61,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

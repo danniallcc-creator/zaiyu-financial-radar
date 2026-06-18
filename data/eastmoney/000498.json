@@ -2603,5 +2603,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000498",
+    "name": "山东路桥",
+    "price": 5.0,
+    "change": -0.08,
+    "changePct": -1.57,
+    "open": 5.08,
+    "high": 5.09,
+    "low": 4.99,
+    "prevClose": 5.08,
+    "volume": 67226,
+    "amount": 3370.0,
+    "totalMV": 7762000000.0,
+    "circMV": 7247000000.0,
+    "pe": 3.62,
+    "pb": 0.46,
+    "turnover": 0.46,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

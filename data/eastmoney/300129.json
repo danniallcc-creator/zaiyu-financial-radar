@@ -2593,5 +2593,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300129",
+    "name": "泰胜风能",
+    "price": 9.21,
+    "change": -0.13,
+    "changePct": -1.39,
+    "open": 9.26,
+    "high": 9.47,
+    "low": 9.18,
+    "prevClose": 9.34,
+    "volume": 143472,
+    "amount": 13344.0,
+    "totalMV": 10213000000.0,
+    "circMV": 6619000000.0,
+    "pe": 55.78,
+    "pb": 1.77,
+    "turnover": 2.0,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

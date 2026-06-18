@@ -2610,5 +2610,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603226",
+    "name": "菲林格尔",
+    "price": 57.03,
+    "change": 1.23,
+    "changePct": 2.2,
+    "open": 55.31,
+    "high": 57.33,
+    "low": 54.61,
+    "prevClose": 55.8,
+    "volume": 38821,
+    "amount": 21756.0,
+    "totalMV": 20274000000.0,
+    "circMV": 20274000000.0,
+    "pe": -259.29,
+    "pb": 23.81,
+    "turnover": 1.09,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

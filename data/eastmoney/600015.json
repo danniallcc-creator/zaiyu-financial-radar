@@ -1732,5 +1732,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600015",
+    "name": "华夏银行",
+    "price": 6.63,
+    "change": -0.19,
+    "changePct": -2.79,
+    "open": 6.83,
+    "high": 6.83,
+    "low": 6.63,
+    "prevClose": 6.82,
+    "volume": 759515,
+    "amount": 50810.0,
+    "totalMV": 105516000000.00002,
+    "circMV": 102017000000.0,
+    "pe": 3.89,
+    "pb": 0.33,
+    "turnover": 0.49,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

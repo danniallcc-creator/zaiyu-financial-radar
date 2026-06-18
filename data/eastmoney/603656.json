@@ -2550,5 +2550,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603656",
+    "name": "泰禾智能",
+    "price": 18.55,
+    "change": 0.35,
+    "changePct": 1.92,
+    "open": 18.1,
+    "high": 18.99,
+    "low": 17.9,
+    "prevClose": 18.2,
+    "volume": 40416,
+    "amount": 7493.0,
+    "totalMV": 3394000000.0,
+    "circMV": 3394000000.0,
+    "pe": 103.94,
+    "pb": 2.57,
+    "turnover": 2.21,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

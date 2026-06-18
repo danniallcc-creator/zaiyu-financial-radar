@@ -1726,5 +1726,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601939",
+    "name": "建设银行",
+    "price": 9.92,
+    "change": -0.21,
+    "changePct": -2.07,
+    "open": 10.08,
+    "high": 10.12,
+    "low": 9.86,
+    "prevClose": 10.13,
+    "volume": 1115310,
+    "amount": 110932.0,
+    "totalMV": 2595076000000.0,
+    "circMV": 95169000000.0,
+    "pe": 7.59,
+    "pb": 0.73,
+    "turnover": 1.16,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

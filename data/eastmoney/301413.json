@@ -2578,5 +2578,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301413",
+    "name": "安培龙",
+    "price": 80.28,
+    "change": -0.61,
+    "changePct": -0.75,
+    "open": 81.49,
+    "high": 81.79,
+    "low": 78.71,
+    "prevClose": 80.89,
+    "volume": 56775,
+    "amount": 45642.0,
+    "totalMV": 10270000000.0,
+    "circMV": 6131000000.0,
+    "pe": 139.78,
+    "pb": 8.28,
+    "turnover": 7.43,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

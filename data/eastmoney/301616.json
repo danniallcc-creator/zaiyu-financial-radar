@@ -2232,5 +2232,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301616",
+    "name": "浙江华业",
+    "price": 36.64,
+    "change": 0.05,
+    "changePct": 0.14,
+    "open": 36.59,
+    "high": 37.08,
+    "low": 36.05,
+    "prevClose": 36.59,
+    "volume": 3778,
+    "amount": 1384.0,
+    "totalMV": 2931000000.0,
+    "circMV": 1041000000.0,
+    "pe": 15.06,
+    "pb": 2.05,
+    "turnover": 1.33,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

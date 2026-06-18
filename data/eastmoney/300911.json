@@ -2525,5 +2525,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300911",
+    "name": "亿田智能",
+    "price": 21.27,
+    "change": -0.34,
+    "changePct": -1.57,
+    "open": 21.54,
+    "high": 22.3,
+    "low": 21.2,
+    "prevClose": 21.61,
+    "volume": 64012,
+    "amount": 13855.0,
+    "totalMV": 3900000000.0,
+    "circMV": 3644000000.0,
+    "pe": -23.69,
+    "pb": 3.6,
+    "turnover": 3.74,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

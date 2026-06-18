@@ -2646,5 +2646,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603579",
+    "name": "荣泰健康",
+    "price": 20.59,
+    "change": 0.77,
+    "changePct": 3.88,
+    "open": 19.7,
+    "high": 20.88,
+    "low": 19.5,
+    "prevClose": 19.82,
+    "volume": 78313,
+    "amount": 15904.0,
+    "totalMV": 4140000000.0,
+    "circMV": 4140000000.0,
+    "pe": 23.45,
+    "pb": 1.5,
+    "turnover": 3.9,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

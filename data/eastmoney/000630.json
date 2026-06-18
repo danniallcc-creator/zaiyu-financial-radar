@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000630",
+    "name": "铜陵有色",
+    "price": 7.65,
+    "change": 0.09,
+    "changePct": 1.19,
+    "open": 7.39,
+    "high": 8.02,
+    "low": 7.38,
+    "prevClose": 7.56,
+    "volume": 8560395,
+    "amount": 659882.0,
+    "totalMV": 102582000000.0,
+    "circMV": 85244000000.0,
+    "pe": 39.01,
+    "pb": 2.79,
+    "turnover": 7.68,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

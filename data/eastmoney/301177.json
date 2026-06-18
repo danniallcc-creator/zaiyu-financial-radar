@@ -2588,5 +2588,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301177",
+    "name": "迪阿股份",
+    "price": 26.72,
+    "change": -0.48,
+    "changePct": -1.76,
+    "open": 26.98,
+    "high": 27.28,
+    "low": 26.51,
+    "prevClose": 27.2,
+    "volume": 11777,
+    "amount": 3164.0,
+    "totalMV": 10695000000.0,
+    "circMV": 10688000000.0,
+    "pe": 68.57,
+    "pb": 1.75,
+    "turnover": 0.29,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

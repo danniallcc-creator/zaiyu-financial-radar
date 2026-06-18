@@ -2482,5 +2482,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603270",
+    "name": "金帝股份",
+    "price": 31.73,
+    "change": 1.53,
+    "changePct": 5.07,
+    "open": 30.25,
+    "high": 31.98,
+    "low": 29.9,
+    "prevClose": 30.2,
+    "volume": 100355,
+    "amount": 31145.0,
+    "totalMV": 6952000000.0,
+    "circMV": 2244000000.0,
+    "pe": 46.24,
+    "pb": 3.06,
+    "turnover": 14.19,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

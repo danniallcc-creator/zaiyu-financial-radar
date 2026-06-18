@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601766",
+    "name": "中国中车",
+    "price": 5.6,
+    "change": -0.13,
+    "changePct": -2.27,
+    "open": 5.7,
+    "high": 5.71,
+    "low": 5.56,
+    "prevClose": 5.73,
+    "volume": 1876795,
+    "amount": 105397.0,
+    "totalMV": 160714000000.0,
+    "circMV": 136235999999.99998,
+    "pe": 11.9,
+    "pb": 0.91,
+    "turnover": 0.77,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

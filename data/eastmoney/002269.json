@@ -2550,5 +2550,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002269",
+    "name": "美邦服饰",
+    "price": 1.4,
+    "change": -0.01,
+    "changePct": -0.71,
+    "open": 1.4,
+    "high": 1.42,
+    "low": 1.36,
+    "prevClose": 1.41,
+    "volume": 371981,
+    "amount": 5194.0,
+    "totalMV": 3517000000.0,
+    "circMV": 3281000000.0,
+    "pe": -13.83,
+    "pb": 16.43,
+    "turnover": 1.59,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

@@ -2677,5 +2677,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600894",
+    "name": "广日股份",
+    "price": 8.14,
+    "change": -0.09,
+    "changePct": -1.09,
+    "open": 8.27,
+    "high": 8.27,
+    "low": 8.11,
+    "prevClose": 8.23,
+    "volume": 37919,
+    "amount": 3095.0,
+    "totalMV": 6933000000.0,
+    "circMV": 6863000000.0,
+    "pe": 9.75,
+    "pb": 0.78,
+    "turnover": 0.45,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

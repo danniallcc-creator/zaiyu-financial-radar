@@ -2547,5 +2547,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603662",
+    "name": "柯力传感",
+    "price": 70.09,
+    "change": -0.23,
+    "changePct": -0.33,
+    "open": 69.69,
+    "high": 71.93,
+    "low": 69.2,
+    "prevClose": 70.32,
+    "volume": 121653,
+    "amount": 85511.0,
+    "totalMV": 19683000000.0,
+    "circMV": 19683000000.0,
+    "pe": 64.32,
+    "pb": 7.06,
+    "turnover": 4.33,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

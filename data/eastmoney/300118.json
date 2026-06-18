@@ -2628,5 +2628,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300118",
+    "name": "东方日升",
+    "price": 13.31,
+    "change": -0.44,
+    "changePct": -3.2,
+    "open": 13.6,
+    "high": 13.65,
+    "low": 13.29,
+    "prevClose": 13.75,
+    "volume": 473895,
+    "amount": 63655.0,
+    "totalMV": 15174000000.0,
+    "circMV": 12336000000.0,
+    "pe": -5.19,
+    "pb": 1.83,
+    "turnover": 5.11,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

@@ -2537,5 +2537,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688628",
+    "name": "优利德",
+    "price": 106.08,
+    "change": 4.07,
+    "changePct": 3.99,
+    "open": 101.0,
+    "high": 107.98,
+    "low": 100.2,
+    "prevClose": 102.01,
+    "volume": 5038366,
+    "amount": 52802.0,
+    "totalMV": 11856000000.0,
+    "circMV": 11856000000.0,
+    "pe": 70.29,
+    "pb": 8.86,
+    "turnover": 4.51,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

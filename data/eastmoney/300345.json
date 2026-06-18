@@ -2596,5 +2596,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300345",
+    "name": "华民股份",
+    "price": 5.75,
+    "change": -0.26,
+    "changePct": -4.33,
+    "open": 6.0,
+    "high": 6.0,
+    "low": 5.71,
+    "prevClose": 6.01,
+    "volume": 192329,
+    "amount": 11181.0,
+    "totalMV": 3338000000.0000005,
+    "circMV": 2758000000.0,
+    "pe": -17.19,
+    "pb": 8.29,
+    "turnover": 4.01,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

@@ -2560,5 +2560,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301056",
+    "name": "森赫股份",
+    "price": 11.94,
+    "change": -0.01,
+    "changePct": -0.08,
+    "open": 11.99,
+    "high": 12.25,
+    "low": 11.86,
+    "prevClose": 11.95,
+    "volume": 28179,
+    "amount": 3384.0,
+    "totalMV": 3185000000.0,
+    "circMV": 2101000000.0000002,
+    "pe": 46.47,
+    "pb": 4.01,
+    "turnover": 1.6,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

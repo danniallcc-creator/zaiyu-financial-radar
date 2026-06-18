@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002572",
+    "name": "索菲亚",
+    "price": 8.04,
+    "change": -0.11,
+    "changePct": -1.35,
+    "open": 8.1,
+    "high": 8.15,
+    "low": 7.93,
+    "prevClose": 8.15,
+    "volume": 89209,
+    "amount": 7177.0,
+    "totalMV": 7743000000.000001,
+    "circMV": 5238000000.0,
+    "pe": 9.1,
+    "pb": 1.17,
+    "turnover": 1.37,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

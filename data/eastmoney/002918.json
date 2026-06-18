@@ -2539,5 +2539,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002918",
+    "name": "蒙娜丽莎",
+    "price": 11.43,
+    "change": -1.02,
+    "changePct": -8.19,
+    "open": 12.23,
+    "high": 12.69,
+    "low": 11.36,
+    "prevClose": 12.45,
+    "volume": 399129,
+    "amount": 46887.0,
+    "totalMV": 4673000000.0,
+    "circMV": 2448000000.0,
+    "pe": 49.93,
+    "pb": 1.46,
+    "turnover": 18.63,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

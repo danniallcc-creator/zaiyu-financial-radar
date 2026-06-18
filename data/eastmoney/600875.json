@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600875",
+    "name": "东方电气",
+    "price": 32.56,
+    "change": 0.85,
+    "changePct": 2.68,
+    "open": 31.72,
+    "high": 33.99,
+    "low": 31.72,
+    "prevClose": 31.71,
+    "volume": 917242,
+    "amount": 302147.0,
+    "totalMV": 112604000000.0,
+    "circMV": 73695000000.0,
+    "pe": 26.41,
+    "pb": 2.4,
+    "turnover": 4.05,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

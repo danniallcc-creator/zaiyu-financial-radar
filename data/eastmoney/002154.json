@@ -2614,5 +2614,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002154",
+    "name": "报 喜 鸟",
+    "price": 3.88,
+    "change": 0.02,
+    "changePct": 0.52,
+    "open": 3.87,
+    "high": 3.93,
+    "low": 3.8,
+    "prevClose": 3.86,
+    "volume": 188803,
+    "amount": 7332.0,
+    "totalMV": 5662000000.0,
+    "circMV": 4578000000.0,
+    "pe": 13.87,
+    "pb": 1.22,
+    "turnover": 1.6,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

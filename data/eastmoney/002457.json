@@ -2602,5 +2602,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002457",
+    "name": "青龙管业",
+    "price": 13.09,
+    "change": -0.39,
+    "changePct": -2.89,
+    "open": 13.26,
+    "high": 13.4,
+    "low": 12.89,
+    "prevClose": 13.48,
+    "volume": 315224,
+    "amount": 41253.0,
+    "totalMV": 4365000000.0,
+    "circMV": 4363000000.0,
+    "pe": 33.93,
+    "pb": 1.75,
+    "turnover": 9.46,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

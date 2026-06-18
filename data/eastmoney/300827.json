@@ -2530,5 +2530,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300827",
+    "name": "上能电气",
+    "price": 30.1,
+    "change": -0.23,
+    "changePct": -0.76,
+    "open": 30.18,
+    "high": 30.33,
+    "low": 29.65,
+    "prevClose": 30.33,
+    "volume": 141892,
+    "amount": 42514.0,
+    "totalMV": 16756000000.0,
+    "circMV": 11650000000.0,
+    "pe": 35.44,
+    "pb": 3.96,
+    "turnover": 3.67,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

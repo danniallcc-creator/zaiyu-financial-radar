@@ -2524,5 +2524,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300880",
+    "name": "迦南智能",
+    "price": 24.11,
+    "change": -1.38,
+    "changePct": -5.41,
+    "open": 25.35,
+    "high": 26.24,
+    "low": 24.01,
+    "prevClose": 25.49,
+    "volume": 143453,
+    "amount": 35485.0,
+    "totalMV": 4705000000.0,
+    "circMV": 4705000000.0,
+    "pe": 61.97,
+    "pb": 4.51,
+    "turnover": 7.35,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

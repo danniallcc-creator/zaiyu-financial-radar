@@ -2632,5 +2632,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000852",
+    "name": "石化机械",
+    "price": 5.55,
+    "change": -0.05,
+    "changePct": -0.89,
+    "open": 5.59,
+    "high": 5.64,
+    "low": 5.51,
+    "prevClose": 5.6,
+    "volume": 79037,
+    "amount": 4403.0,
+    "totalMV": 5305000000.0,
+    "circMV": 5274000000.0,
+    "pe": -3827.01,
+    "pb": 1.7,
+    "turnover": 0.83,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

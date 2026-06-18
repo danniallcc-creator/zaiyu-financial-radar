@@ -2497,5 +2497,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000955",
+    "name": "欣龙控股",
+    "price": 4.97,
+    "change": 0.34,
+    "changePct": 7.34,
+    "open": 4.56,
+    "high": 5.08,
+    "low": 4.49,
+    "prevClose": 4.63,
+    "volume": 618666,
+    "amount": 30171.0,
+    "totalMV": 2676000000.0,
+    "circMV": 2675000000.0,
+    "pe": 2988.45,
+    "pb": 4.13,
+    "turnover": 11.49,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

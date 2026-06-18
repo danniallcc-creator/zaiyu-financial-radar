@@ -217,32 +217,44 @@ async function handleSearch(keyword) {
 async function handleQuote(code) {
   if (!code) return { error: 'code required' };
 
-  const secid = emSecid(code);
-  const url = `https://push2.eastmoney.com/api/qt/stock/get?secid=${secid}&fields=f43,f44,f45,f46,f47,f48,f50,f51,f52,f55,f57,f58,f60,f116,f117,f162,f167,f168,f169,f170,f171`;
+  // 腾讯财经行情接口 (GBK 编码, 管道分隔)
+  const tcCode = code.startsWith('6') ? `sh${code}` : `sz${code}`;
+  const url = `https://qt.gtimg.cn/q=${tcCode}`;
 
-  const resp = await safeFetch(url, {}, 10000, 1);
-  const data = await resp.json();
-  const d = data?.data;
+  const resp = await safeFetch(url, {
+    headers: { 'Referer': 'https://finance.qq.com' }
+  }, 10000, 1);
 
-  if (!d) return { error: 'no data' };
+  // 腾讯 API 返回 GBK 编码
+  const buf = await resp.arrayBuffer();
+  const decoder = new TextDecoder('gbk');
+  const text = decoder.decode(buf);
+
+  const content = text.split('"')[1];
+  if (!content) return { error: 'no data' };
+
+  const f = content.split('~');
+  if (f.length < 47 || !f[3]) return { error: 'no data' };
+
+  const pf = (v) => { const n = parseFloat(v); return isNaN(n) ? null : n; };
 
   return {
-    code: d.f57,
-    name: d.f58,
-    price: d.f43 / 100,
-    change: d.f169 / 100,
-    changePct: d.f170 / 100,
-    open: d.f44 / 100,
-    high: d.f45 / 100,
-    low: d.f46 / 100,
-    prevClose: d.f60 / 100,
-    volume: d.f47,
-    amount: d.f48,
-    totalMV: d.f116,
-    circMV: d.f117,
-    pe: d.f162 / 100,
-    pb: d.f167 / 100,
-    turnover: d.f168 / 100,
+    code: f[2],
+    name: f[1],
+    price: pf(f[3]),
+    change: pf(f[31]),
+    changePct: pf(f[32]),
+    open: pf(f[5]),
+    high: pf(f[33]),
+    low: pf(f[34]),
+    prevClose: pf(f[4]),
+    volume: parseInt(f[6]) || null,           // 成交量(手)
+    amount: pf(f[37]),                         // 成交额(元)
+    totalMV: (pf(f[45]) || 0) * 1e8,          // 总市值(亿→元)
+    circMV: (pf(f[44]) || 0) * 1e8,           // 流通市值(亿→元)
+    pe: pf(f[39]),
+    pb: pf(f[46]),
+    turnover: pf(f[38]),                       // 换手率(%)
   };
 }
 

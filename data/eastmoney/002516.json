@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002516",
+    "name": "旷达科技",
+    "price": 6.08,
+    "change": -0.02,
+    "changePct": -0.33,
+    "open": 6.07,
+    "high": 6.3,
+    "low": 5.88,
+    "prevClose": 6.1,
+    "volume": 433939,
+    "amount": 26283.0,
+    "totalMV": 8943000000.0,
+    "circMV": 8861000000.0,
+    "pe": 45.88,
+    "pb": 2.41,
+    "turnover": 2.98,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

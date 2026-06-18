@@ -2551,5 +2551,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "001209",
+    "name": "洪兴股份",
+    "price": 17.67,
+    "change": -0.18,
+    "changePct": -1.01,
+    "open": 17.65,
+    "high": 17.85,
+    "low": 17.43,
+    "prevClose": 17.85,
+    "volume": 18243,
+    "amount": 3218.0,
+    "totalMV": 2324000000.0,
+    "circMV": 1698000000.0,
+    "pe": 101.53,
+    "pb": 1.77,
+    "turnover": 1.9,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

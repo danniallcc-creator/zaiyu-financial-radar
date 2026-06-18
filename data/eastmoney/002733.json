@@ -2585,5 +2585,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002733",
+    "name": "雄韬股份",
+    "price": 35.09,
+    "change": -0.79,
+    "changePct": -2.2,
+    "open": 35.56,
+    "high": 36.27,
+    "low": 34.7,
+    "prevClose": 35.88,
+    "volume": 267190,
+    "amount": 93966.0,
+    "totalMV": 13482000000.0,
+    "circMV": 12943000000.0,
+    "pe": 168.81,
+    "pb": 5.03,
+    "turnover": 7.24,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

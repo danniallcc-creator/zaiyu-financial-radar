@@ -2503,5 +2503,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000017",
+    "name": "深中华A",
+    "price": 5.15,
+    "change": -0.01,
+    "changePct": -0.19,
+    "open": 5.16,
+    "high": 5.23,
+    "low": 5.01,
+    "prevClose": 5.16,
+    "volume": 63642,
+    "amount": 3272.0,
+    "totalMV": 3549000000.0,
+    "circMV": 2270000000.0,
+    "pe": 85.86,
+    "pb": 9.09,
+    "turnover": 1.44,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

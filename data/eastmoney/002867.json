@@ -2686,5 +2686,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002867",
+    "name": "周大生",
+    "price": 11.83,
+    "change": -0.14,
+    "changePct": -1.17,
+    "open": 11.95,
+    "high": 12.0,
+    "low": 11.71,
+    "prevClose": 11.97,
+    "volume": 59625,
+    "amount": 7059.0,
+    "totalMV": 12841000000.0,
+    "circMV": 12766000000.0,
+    "pe": 11.22,
+    "pb": 1.9,
+    "turnover": 0.55,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

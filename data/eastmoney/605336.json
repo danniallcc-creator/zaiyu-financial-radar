@@ -2588,5 +2588,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "605336",
+    "name": "*ST帅电",
+    "price": 14.58,
+    "change": -0.47,
+    "changePct": -3.12,
+    "open": 14.98,
+    "high": 15.15,
+    "low": 14.3,
+    "prevClose": 15.05,
+    "volume": 35880,
+    "amount": 5203.0,
+    "totalMV": 2674000000.0,
+    "circMV": 2674000000.0,
+    "pe": -42.9,
+    "pb": 1.48,
+    "turnover": 1.96,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

@@ -2516,5 +2516,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300153",
+    "name": "科泰电源",
+    "price": 25.55,
+    "change": 0.26,
+    "changePct": 1.03,
+    "open": 25.23,
+    "high": 25.6,
+    "low": 25.05,
+    "prevClose": 25.29,
+    "volume": 81541,
+    "amount": 20732.0,
+    "totalMV": 8176000000.000001,
+    "circMV": 8133000000.0,
+    "pe": 142.38,
+    "pb": 8.94,
+    "turnover": 2.56,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

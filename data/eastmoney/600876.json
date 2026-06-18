@@ -2556,5 +2556,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600876",
+    "name": "凯盛新能",
+    "price": 9.93,
+    "change": 0.51,
+    "changePct": 5.41,
+    "open": 9.89,
+    "high": 10.36,
+    "low": 9.49,
+    "prevClose": 9.42,
+    "volume": 351738,
+    "amount": 35018.0,
+    "totalMV": 6412000000.0,
+    "circMV": 3929000000.0,
+    "pe": -5.61,
+    "pb": 2.33,
+    "turnover": 8.89,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

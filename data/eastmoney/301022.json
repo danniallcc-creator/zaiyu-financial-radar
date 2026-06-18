@@ -2501,5 +2501,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301022",
+    "name": "海泰科",
+    "price": 25.13,
+    "change": 0.58,
+    "changePct": 2.36,
+    "open": 24.55,
+    "high": 25.23,
+    "low": 24.08,
+    "prevClose": 24.55,
+    "volume": 15414,
+    "amount": 3819.0,
+    "totalMV": 2500000000.0,
+    "circMV": 1682999999.9999998,
+    "pe": 74.74,
+    "pb": 1.78,
+    "turnover": 2.3,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

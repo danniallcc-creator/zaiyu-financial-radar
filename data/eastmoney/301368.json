@@ -2536,5 +2536,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301368",
+    "name": "丰立智能",
+    "price": 44.4,
+    "change": 0.29,
+    "changePct": 0.66,
+    "open": 43.52,
+    "high": 45.48,
+    "low": 43.52,
+    "prevClose": 44.11,
+    "volume": 28958,
+    "amount": 12888.0,
+    "totalMV": 5332000000.0,
+    "circMV": 5332000000.0,
+    "pe": -184.91,
+    "pb": 5.66,
+    "turnover": 2.41,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

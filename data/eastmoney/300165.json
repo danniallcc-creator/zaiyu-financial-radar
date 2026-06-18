@@ -2621,5 +2621,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300165",
+    "name": "天瑞仪器",
+    "price": 6.07,
+    "change": -0.23,
+    "changePct": -3.65,
+    "open": 6.24,
+    "high": 6.35,
+    "low": 6.02,
+    "prevClose": 6.3,
+    "volume": 235108,
+    "amount": 14373.0,
+    "totalMV": 3008000000.0,
+    "circMV": 2553000000.0,
+    "pe": -13.46,
+    "pb": 2.85,
+    "turnover": 5.59,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

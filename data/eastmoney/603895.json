@@ -2580,5 +2580,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603895",
+    "name": "天永智能",
+    "price": 30.6,
+    "change": 0.44,
+    "changePct": 1.46,
+    "open": 30.22,
+    "high": 31.0,
+    "low": 29.7,
+    "prevClose": 30.16,
+    "volume": 17892,
+    "amount": 5441.0,
+    "totalMV": 3307000000.0,
+    "circMV": 3307000000.0,
+    "pe": 194.53,
+    "pb": 16.11,
+    "turnover": 1.66,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

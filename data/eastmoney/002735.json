@@ -2503,5 +2503,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002735",
+    "name": "王子新材",
+    "price": 20.2,
+    "change": -0.38,
+    "changePct": -1.85,
+    "open": 20.42,
+    "high": 21.1,
+    "low": 18.7,
+    "prevClose": 20.58,
+    "volume": 655256,
+    "amount": 130319.0,
+    "totalMV": 7580000000.0,
+    "circMV": 5758000000.0,
+    "pe": -48.38,
+    "pb": 4.85,
+    "turnover": 22.99,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

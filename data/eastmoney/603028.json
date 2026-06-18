@@ -2529,5 +2529,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603028",
+    "name": "赛福天",
+    "price": 7.45,
+    "change": 0.15,
+    "changePct": 2.05,
+    "open": 7.31,
+    "high": 7.5,
+    "low": 7.17,
+    "prevClose": 7.3,
+    "volume": 48127,
+    "amount": 3533.0,
+    "totalMV": 2138000000.0,
+    "circMV": 2117000000.0000002,
+    "pe": -42.09,
+    "pb": 4.6,
+    "turnover": 1.69,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

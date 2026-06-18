@@ -2588,5 +2588,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "605180",
+    "name": "华生科技",
+    "price": 14.19,
+    "change": -0.09,
+    "changePct": -0.63,
+    "open": 14.23,
+    "high": 14.41,
+    "low": 13.75,
+    "prevClose": 14.28,
+    "volume": 31954,
+    "amount": 4511.0,
+    "totalMV": 2398000000.0,
+    "circMV": 2398000000.0,
+    "pe": 111.06,
+    "pb": 2.11,
+    "turnover": 1.89,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

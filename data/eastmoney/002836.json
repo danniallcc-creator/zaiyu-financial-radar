@@ -2628,5 +2628,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002836",
+    "name": "新宏泽",
+    "price": 10.11,
+    "change": -0.09,
+    "changePct": -0.88,
+    "open": 10.1,
+    "high": 10.25,
+    "low": 10.0,
+    "prevClose": 10.2,
+    "volume": 21450,
+    "amount": 2169.0,
+    "totalMV": 2329000000.0,
+    "circMV": 2329000000.0,
+    "pe": 54.42,
+    "pb": 6.62,
+    "turnover": 0.93,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

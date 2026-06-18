@@ -2525,5 +2525,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301083",
+    "name": "百胜智能",
+    "price": 13.91,
+    "change": -0.14,
+    "changePct": -1.0,
+    "open": 14.0,
+    "high": 14.12,
+    "low": 13.73,
+    "prevClose": 14.05,
+    "volume": 19683,
+    "amount": 2746.0,
+    "totalMV": 2474000000.0,
+    "circMV": 1191000000.0,
+    "pe": 80.85,
+    "pb": 2.95,
+    "turnover": 2.3,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

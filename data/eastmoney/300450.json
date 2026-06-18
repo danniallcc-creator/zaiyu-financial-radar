@@ -2650,5 +2650,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300450",
+    "name": "先导智能",
+    "price": 46.73,
+    "change": -1.4,
+    "changePct": -2.91,
+    "open": 48.09,
+    "high": 48.96,
+    "low": 46.3,
+    "prevClose": 48.13,
+    "volume": 876535,
+    "amount": 414629.0,
+    "totalMV": 78236000000.0,
+    "circMV": 72871000000.0,
+    "pe": 48.78,
+    "pb": 4.38,
+    "turnover": 5.62,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

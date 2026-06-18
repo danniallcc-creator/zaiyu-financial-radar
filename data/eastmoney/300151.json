@@ -2596,5 +2596,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300151",
+    "name": "昌红科技",
+    "price": 22.77,
+    "change": -0.81,
+    "changePct": -3.44,
+    "open": 23.48,
+    "high": 23.51,
+    "low": 22.5,
+    "prevClose": 23.58,
+    "volume": 208294,
+    "amount": 47618.0,
+    "totalMV": 12125000000.0,
+    "circMV": 8394000000.0,
+    "pe": 190.04,
+    "pb": 7.89,
+    "turnover": 5.65,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

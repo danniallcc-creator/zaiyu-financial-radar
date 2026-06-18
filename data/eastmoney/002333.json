@@ -2569,5 +2569,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002333",
+    "name": "罗普斯金",
+    "price": 4.89,
+    "change": 0.01,
+    "changePct": 0.2,
+    "open": 4.86,
+    "high": 4.91,
+    "low": 4.81,
+    "prevClose": 4.88,
+    "volume": 23993,
+    "amount": 1167.0,
+    "totalMV": 3300000000.0,
+    "circMV": 3259000000.0000005,
+    "pe": 66.21,
+    "pb": 1.71,
+    "turnover": 0.36,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

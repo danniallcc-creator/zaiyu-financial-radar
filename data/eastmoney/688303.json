@@ -2572,5 +2572,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688303",
+    "name": "大全能源",
+    "price": 19.2,
+    "change": -0.77,
+    "changePct": -3.86,
+    "open": 19.69,
+    "high": 20.15,
+    "low": 19.15,
+    "prevClose": 19.97,
+    "volume": 23566749,
+    "amount": 46105.0,
+    "totalMV": 41188000000.0,
+    "circMV": 41188000000.0,
+    "pe": -30.02,
+    "pb": 1.08,
+    "turnover": 1.1,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

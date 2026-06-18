@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000625",
+    "name": "长安汽车",
+    "price": 7.45,
+    "change": 0.06,
+    "changePct": 0.81,
+    "open": 7.35,
+    "high": 7.5,
+    "low": 7.25,
+    "prevClose": 7.39,
+    "volume": 971815,
+    "amount": 71628.0,
+    "totalMV": 73851000000.0,
+    "circMV": 61591000000.0,
+    "pe": 24.03,
+    "pb": 0.96,
+    "turnover": 1.18,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

@@ -2564,5 +2564,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301105",
+    "name": "鸿铭股份",
+    "price": 47.95,
+    "change": -0.36,
+    "changePct": -0.75,
+    "open": 49.38,
+    "high": 49.6,
+    "low": 47.4,
+    "prevClose": 48.31,
+    "volume": 6265,
+    "amount": 3029.0,
+    "totalMV": 2398000000.0,
+    "circMV": 788000000.0,
+    "pe": -91.18,
+    "pb": 2.93,
+    "turnover": 3.81,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

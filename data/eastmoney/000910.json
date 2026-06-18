@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000910",
+    "name": "大亚圣象",
+    "price": 5.51,
+    "change": -0.21,
+    "changePct": -3.67,
+    "open": 5.7,
+    "high": 5.75,
+    "low": 5.47,
+    "prevClose": 5.72,
+    "volume": 51883,
+    "amount": 2893.0,
+    "totalMV": 3016000000.0,
+    "circMV": 3015000000.0,
+    "pe": -217.05,
+    "pb": 0.47,
+    "turnover": 0.95,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

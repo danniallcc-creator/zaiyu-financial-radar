@@ -2485,5 +2485,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300029",
+    "name": "天龙退",
+    "price": 0.2,
+    "change": -2.57,
+    "changePct": -92.78,
+    "open": 0.2,
+    "high": 0.25,
+    "low": 0.18,
+    "prevClose": 2.77,
+    "volume": 870826,
+    "amount": 1755.0,
+    "totalMV": 40000000.0,
+    "circMV": 40000000.0,
+    "pe": -2.1,
+    "pb": -1.16,
+    "turnover": 43.46,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

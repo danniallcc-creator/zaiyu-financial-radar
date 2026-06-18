@@ -2635,5 +2635,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600558",
+    "name": "大西洋",
+    "price": 5.56,
+    "change": 0.03,
+    "changePct": 0.54,
+    "open": 5.48,
+    "high": 5.68,
+    "low": 5.36,
+    "prevClose": 5.53,
+    "volume": 217592,
+    "amount": 12103.0,
+    "totalMV": 4991000000.0,
+    "circMV": 4991000000.0,
+    "pe": 25.34,
+    "pb": 2.01,
+    "turnover": 2.42,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

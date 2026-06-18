@@ -2509,5 +2509,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600520",
+    "name": "三佳科技",
+    "price": 32.66,
+    "change": 1.82,
+    "changePct": 5.9,
+    "open": 31.14,
+    "high": 33.6,
+    "low": 30.85,
+    "prevClose": 30.84,
+    "volume": 213875,
+    "amount": 68675.0,
+    "totalMV": 5174000000.0,
+    "circMV": 5174000000.0,
+    "pe": 386.19,
+    "pb": 13.14,
+    "turnover": 13.5,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

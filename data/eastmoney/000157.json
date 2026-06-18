@@ -2674,5 +2674,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000157",
+    "name": "中联重科",
+    "price": 7.58,
+    "change": -0.05,
+    "changePct": -0.66,
+    "open": 7.63,
+    "high": 7.67,
+    "low": 7.47,
+    "prevClose": 7.63,
+    "volume": 643214,
+    "amount": 48753.0,
+    "totalMV": 65555999999.99999,
+    "circMV": 53588000000.0,
+    "pe": 15.13,
+    "pb": 1.12,
+    "turnover": 0.91,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

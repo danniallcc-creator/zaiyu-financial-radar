@@ -2602,5 +2602,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002615",
+    "name": "哈尔斯",
+    "price": 6.93,
+    "change": -0.46,
+    "changePct": -6.22,
+    "open": 7.34,
+    "high": 7.43,
+    "low": 6.9,
+    "prevClose": 7.39,
+    "volume": 213282,
+    "amount": 15034.0,
+    "totalMV": 3879000000.0,
+    "circMV": 2094000000.0000002,
+    "pe": 129.44,
+    "pb": 1.63,
+    "turnover": 7.06,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

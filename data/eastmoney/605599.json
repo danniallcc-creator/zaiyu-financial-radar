@@ -2588,5 +2588,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "605599",
+    "name": "菜百股份",
+    "price": 14.57,
+    "change": -0.19,
+    "changePct": -1.29,
+    "open": 14.67,
+    "high": 14.93,
+    "low": 14.53,
+    "prevClose": 14.76,
+    "volume": 36093,
+    "amount": 5299.0,
+    "totalMV": 11332000000.0,
+    "circMV": 11332000000.0,
+    "pe": 9.35,
+    "pb": 2.55,
+    "turnover": 0.46,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

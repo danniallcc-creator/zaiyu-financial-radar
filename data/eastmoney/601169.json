@@ -1738,5 +1738,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601169",
+    "name": "北京银行",
+    "price": 5.01,
+    "change": -0.13,
+    "changePct": -2.53,
+    "open": 5.14,
+    "high": 5.14,
+    "low": 5.0,
+    "prevClose": 5.14,
+    "volume": 1897034,
+    "amount": 95760.0,
+    "totalMV": 105926000000.0,
+    "circMV": 105926000000.0,
+    "pe": 5.16,
+    "pb": 0.37,
+    "turnover": 0.9,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

@@ -2602,5 +2602,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300953",
+    "name": "震裕科技",
+    "price": 145.0,
+    "change": 1.64,
+    "changePct": 1.14,
+    "open": 142.93,
+    "high": 146.55,
+    "low": 141.8,
+    "prevClose": 143.36,
+    "volume": 80641,
+    "amount": 116600.0,
+    "totalMV": 35313000000.0,
+    "circMV": 25382000000.0,
+    "pe": 48.92,
+    "pb": 7.5,
+    "turnover": 4.61,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

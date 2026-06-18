@@ -2612,5 +2612,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300593",
+    "name": "新雷能",
+    "price": 37.05,
+    "change": -0.61,
+    "changePct": -1.62,
+    "open": 37.7,
+    "high": 37.88,
+    "low": 36.72,
+    "prevClose": 37.66,
+    "volume": 315619,
+    "amount": 117359.0,
+    "totalMV": 20100000000.0,
+    "circMV": 16682000000.0,
+    "pe": -103.19,
+    "pb": 8.76,
+    "turnover": 7.01,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

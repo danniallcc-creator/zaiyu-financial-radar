@@ -2563,5 +2563,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603638",
+    "name": "艾迪精密",
+    "price": 24.98,
+    "change": 0.85,
+    "changePct": 3.52,
+    "open": 24.1,
+    "high": 25.4,
+    "low": 24.05,
+    "prevClose": 24.13,
+    "volume": 159021,
+    "amount": 39505.0,
+    "totalMV": 21405000000.0,
+    "circMV": 21405000000.0,
+    "pe": 48.31,
+    "pb": 6.02,
+    "turnover": 1.86,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

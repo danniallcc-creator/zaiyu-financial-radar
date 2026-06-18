@@ -2565,5 +2565,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300729",
+    "name": "乐歌股份",
+    "price": 10.35,
+    "change": -0.02,
+    "changePct": -0.19,
+    "open": 10.35,
+    "high": 10.44,
+    "low": 10.26,
+    "prevClose": 10.37,
+    "volume": 16509,
+    "amount": 1706.0,
+    "totalMV": 3536000000.0,
+    "circMV": 3404000000.0,
+    "pe": 16.96,
+    "pb": 0.99,
+    "turnover": 0.5,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

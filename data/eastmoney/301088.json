@@ -2612,5 +2612,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301088",
+    "name": "戎美股份",
+    "price": 12.74,
+    "change": -0.22,
+    "changePct": -1.7,
+    "open": 12.96,
+    "high": 13.08,
+    "low": 12.68,
+    "prevClose": 12.96,
+    "volume": 11752,
+    "amount": 1503.0,
+    "totalMV": 2903000000.0,
+    "circMV": 2395000000.0,
+    "pe": 40.64,
+    "pb": 1.21,
+    "turnover": 0.63,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

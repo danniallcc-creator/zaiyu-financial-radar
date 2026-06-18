@@ -2560,5 +2560,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688678",
+    "name": "福立旺",
+    "price": 23.97,
+    "change": 1.26,
+    "changePct": 5.55,
+    "open": 22.77,
+    "high": 24.24,
+    "low": 22.72,
+    "prevClose": 22.71,
+    "volume": 22492744,
+    "amount": 53209.0,
+    "totalMV": 9662000000.0,
+    "circMV": 9662000000.0,
+    "pe": 111.52,
+    "pb": 4.18,
+    "turnover": 5.58,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

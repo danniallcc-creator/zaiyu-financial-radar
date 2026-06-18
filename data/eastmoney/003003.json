@@ -2516,5 +2516,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "003003",
+    "name": "天元股份",
+    "price": 10.75,
+    "change": -0.07,
+    "changePct": -0.65,
+    "open": 10.73,
+    "high": 10.94,
+    "low": 10.62,
+    "prevClose": 10.82,
+    "volume": 42441,
+    "amount": 4566.0,
+    "totalMV": 1900000000.0,
+    "circMV": 1266000000.0,
+    "pe": 31.88,
+    "pb": 1.44,
+    "turnover": 3.6,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

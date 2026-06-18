@@ -2494,5 +2494,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002896",
+    "name": "中大力德",
+    "price": 82.3,
+    "change": 2.61,
+    "changePct": 3.28,
+    "open": 79.72,
+    "high": 83.35,
+    "low": 79.72,
+    "prevClose": 79.69,
+    "volume": 176613,
+    "amount": 144659.0,
+    "totalMV": 16174000000.0,
+    "circMV": 16174000000.0,
+    "pe": 286.92,
+    "pb": 13.42,
+    "turnover": 8.99,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

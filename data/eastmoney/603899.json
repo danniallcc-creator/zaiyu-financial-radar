@@ -2644,5 +2644,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603899",
+    "name": "晨光股份",
+    "price": 21.3,
+    "change": -0.5,
+    "changePct": -2.29,
+    "open": 21.75,
+    "high": 21.75,
+    "low": 21.17,
+    "prevClose": 21.8,
+    "volume": 70347,
+    "amount": 15037.0,
+    "totalMV": 19506000000.0,
+    "circMV": 19506000000.0,
+    "pe": 14.67,
+    "pb": 2.28,
+    "turnover": 0.77,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002128",
+    "name": "电投能源",
+    "price": 24.16,
+    "change": -0.2,
+    "changePct": -0.82,
+    "open": 24.23,
+    "high": 24.6,
+    "low": 24.0,
+    "prevClose": 24.36,
+    "volume": 170784,
+    "amount": 41488.0,
+    "totalMV": 71354000000.0,
+    "circMV": 54155999999.99999,
+    "pe": 12.17,
+    "pb": 1.52,
+    "turnover": 0.76,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

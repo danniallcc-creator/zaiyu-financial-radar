@@ -2636,5 +2636,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002580",
+    "name": "圣阳股份",
+    "price": 20.6,
+    "change": -0.7,
+    "changePct": -3.29,
+    "open": 21.5,
+    "high": 21.59,
+    "low": 20.5,
+    "prevClose": 21.3,
+    "volume": 549176,
+    "amount": 114177.0,
+    "totalMV": 9350000000.0,
+    "circMV": 9318000000.0,
+    "pe": 50.22,
+    "pb": 3.91,
+    "turnover": 12.14,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

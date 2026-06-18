@@ -2578,5 +2578,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002724",
+    "name": "海洋王",
+    "price": 5.05,
+    "change": -0.09,
+    "changePct": -1.75,
+    "open": 5.12,
+    "high": 5.13,
+    "low": 5.02,
+    "prevClose": 5.14,
+    "volume": 61978,
+    "amount": 3138.0,
+    "totalMV": 3896000000.0,
+    "circMV": 2867000000.0,
+    "pe": 51.85,
+    "pb": 1.46,
+    "turnover": 1.09,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

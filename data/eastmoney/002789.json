@@ -2519,5 +2519,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002789",
+    "name": "*ST建艺",
+    "price": 14.87,
+    "change": 0.71,
+    "changePct": 5.01,
+    "open": 14.87,
+    "high": 14.87,
+    "low": 14.87,
+    "prevClose": 14.16,
+    "volume": 2247,
+    "amount": 334.0,
+    "totalMV": 2374000000.0,
+    "circMV": 2327000000.0,
+    "pe": -3.07,
+    "pb": 15.61,
+    "turnover": 0.14,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

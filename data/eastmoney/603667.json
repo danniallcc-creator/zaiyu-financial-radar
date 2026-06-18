@@ -2628,5 +2628,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603667",
+    "name": "五洲新春",
+    "price": 67.73,
+    "change": 1.21,
+    "changePct": 1.82,
+    "open": 66.75,
+    "high": 68.44,
+    "low": 66.01,
+    "prevClose": 66.52,
+    "volume": 232367,
+    "amount": 157146.0,
+    "totalMV": 25951000000.0,
+    "circMV": 24803000000.0,
+    "pe": 307.68,
+    "pb": 6.58,
+    "turnover": 6.35,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

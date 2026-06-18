@@ -2573,5 +2573,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002899",
+    "name": "英派斯",
+    "price": 22.52,
+    "change": -0.81,
+    "changePct": -3.47,
+    "open": 22.96,
+    "high": 23.47,
+    "low": 22.51,
+    "prevClose": 23.33,
+    "volume": 48102,
+    "amount": 11012.0,
+    "totalMV": 3328000000.0,
+    "circMV": 3328000000.0,
+    "pe": 52.17,
+    "pb": 1.89,
+    "turnover": 3.25,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

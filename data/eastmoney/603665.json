@@ -2580,5 +2580,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603665",
+    "name": "康隆达",
+    "price": 28.61,
+    "change": 2.36,
+    "changePct": 8.99,
+    "open": 26.29,
+    "high": 28.85,
+    "low": 26.0,
+    "prevClose": 26.25,
+    "volume": 58288,
+    "amount": 16187.0,
+    "totalMV": 4582000000.0,
+    "circMV": 4582000000.0,
+    "pe": -247.07,
+    "pb": 7.44,
+    "turnover": 3.64,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

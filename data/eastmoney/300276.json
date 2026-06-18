@@ -2584,5 +2584,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300276",
+    "name": "三丰智能",
+    "price": 7.91,
+    "change": 0.16,
+    "changePct": 2.06,
+    "open": 7.73,
+    "high": 8.04,
+    "low": 7.65,
+    "prevClose": 7.75,
+    "volume": 652070,
+    "amount": 51469.0,
+    "totalMV": 11082000000.0,
+    "circMV": 8362000000.0,
+    "pe": -54.22,
+    "pb": 6.33,
+    "turnover": 6.17,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

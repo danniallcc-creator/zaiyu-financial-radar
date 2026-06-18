@@ -2605,5 +2605,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000049",
+    "name": "德赛电池",
+    "price": 24.05,
+    "change": -0.33,
+    "changePct": -1.35,
+    "open": 24.25,
+    "high": 24.7,
+    "low": 24.01,
+    "prevClose": 24.38,
+    "volume": 59354,
+    "amount": 14389.0,
+    "totalMV": 9251000000.0,
+    "circMV": 9248000000.0,
+    "pe": 28.59,
+    "pb": 1.38,
+    "turnover": 1.54,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

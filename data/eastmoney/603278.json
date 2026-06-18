@@ -2522,5 +2522,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603278",
+    "name": "大业股份",
+    "price": 12.54,
+    "change": -0.03,
+    "changePct": -0.24,
+    "open": 12.5,
+    "high": 12.77,
+    "low": 12.26,
+    "prevClose": 12.57,
+    "volume": 189549,
+    "amount": 23821.0,
+    "totalMV": 4286000000.0,
+    "circMV": 4286000000.0,
+    "pe": -99.77,
+    "pb": 2.21,
+    "turnover": 5.55,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

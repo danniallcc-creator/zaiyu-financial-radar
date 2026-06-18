@@ -2541,5 +2541,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603073",
+    "name": "彩蝶实业",
+    "price": 16.03,
+    "change": -0.11,
+    "changePct": -0.68,
+    "open": 16.08,
+    "high": 16.31,
+    "low": 15.79,
+    "prevClose": 16.14,
+    "volume": 13914,
+    "amount": 2235.0,
+    "totalMV": 1859000000.0,
+    "circMV": 816000000.0,
+    "pe": 31.02,
+    "pb": 1.34,
+    "turnover": 2.73,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

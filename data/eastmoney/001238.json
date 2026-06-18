@@ -2566,5 +2566,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "001238",
+    "name": "浙江正特",
+    "price": 29.25,
+    "change": 0.39,
+    "changePct": 1.35,
+    "open": 28.81,
+    "high": 29.39,
+    "low": 28.3,
+    "prevClose": 28.86,
+    "volume": 4602,
+    "amount": 1330.0,
+    "totalMV": 4538000000.0,
+    "circMV": 4245000000.0000005,
+    "pe": 118.77,
+    "pb": 3.93,
+    "turnover": 0.32,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

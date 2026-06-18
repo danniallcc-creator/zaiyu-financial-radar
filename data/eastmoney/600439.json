@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600439",
+    "name": "瑞贝卡",
+    "price": 2.15,
+    "change": -0.05,
+    "changePct": -2.27,
+    "open": 2.19,
+    "high": 2.2,
+    "low": 2.15,
+    "prevClose": 2.2,
+    "volume": 209998,
+    "amount": 4556.0,
+    "totalMV": 2434000000.0,
+    "circMV": 2434000000.0,
+    "pe": -28.83,
+    "pb": 0.97,
+    "turnover": 1.86,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

@@ -2556,5 +2556,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002856",
+    "name": "*ST美芝",
+    "price": 19.8,
+    "change": -1.04,
+    "changePct": -4.99,
+    "open": 19.8,
+    "high": 19.8,
+    "low": 19.8,
+    "prevClose": 20.84,
+    "volume": 7091,
+    "amount": 1404.0,
+    "totalMV": 2679000000.0,
+    "circMV": 2453000000.0,
+    "pe": -13.75,
+    "pb": -52.65,
+    "turnover": 0.57,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

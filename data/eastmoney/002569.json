@@ -2422,5 +2422,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002569",
+    "name": "*ST步森",
+    "price": 16.48,
+    "change": 0.47,
+    "changePct": 2.94,
+    "open": 16.0,
+    "high": 16.49,
+    "low": 15.9,
+    "prevClose": 16.01,
+    "volume": 16991,
+    "amount": 2764.0,
+    "totalMV": 2373000000.0,
+    "circMV": 2307000000.0,
+    "pe": 273.82,
+    "pb": 59.76,
+    "turnover": 1.21,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

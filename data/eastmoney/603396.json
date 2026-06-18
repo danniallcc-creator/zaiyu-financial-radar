@@ -2548,5 +2548,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603396",
+    "name": "金辰股份",
+    "price": 28.28,
+    "change": -0.53,
+    "changePct": -1.84,
+    "open": 28.56,
+    "high": 28.89,
+    "low": 28.2,
+    "prevClose": 28.81,
+    "volume": 28453,
+    "amount": 8103.0,
+    "totalMV": 3918000000.0,
+    "circMV": 3918000000.0,
+    "pe": 72.27,
+    "pb": 1.51,
+    "turnover": 2.05,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

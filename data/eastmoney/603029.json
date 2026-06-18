@@ -2553,5 +2553,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603029",
+    "name": "天鹅股份",
+    "price": 14.94,
+    "change": -0.05,
+    "changePct": -0.33,
+    "open": 14.97,
+    "high": 15.12,
+    "low": 14.54,
+    "prevClose": 14.99,
+    "volume": 20381,
+    "amount": 3034.0,
+    "totalMV": 1813000000.0,
+    "circMV": 1813000000.0,
+    "pe": 24.28,
+    "pb": 1.93,
+    "turnover": 1.68,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

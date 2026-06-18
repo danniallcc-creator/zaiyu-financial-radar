@@ -2666,5 +2666,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601636",
+    "name": "旗滨集团",
+    "price": 8.04,
+    "change": -0.63,
+    "changePct": -7.27,
+    "open": 8.59,
+    "high": 8.59,
+    "low": 7.8,
+    "prevClose": 8.67,
+    "volume": 4265516,
+    "amount": 344357.0,
+    "totalMV": 23788000000.0,
+    "circMV": 23788000000.0,
+    "pe": 146.77,
+    "pb": 1.63,
+    "turnover": 14.42,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

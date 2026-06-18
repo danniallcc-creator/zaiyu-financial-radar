@@ -2561,5 +2561,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688697",
+    "name": "纽威数控",
+    "price": 15.38,
+    "change": 0.31,
+    "changePct": 2.06,
+    "open": 15.12,
+    "high": 15.78,
+    "low": 15.0,
+    "prevClose": 15.07,
+    "volume": 15800697,
+    "amount": 24457.0,
+    "totalMV": 9847000000.0,
+    "circMV": 9847000000.0,
+    "pe": 31.81,
+    "pb": 5.76,
+    "turnover": 2.47,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

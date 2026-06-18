@@ -2569,5 +2569,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "003021",
+    "name": "兆威机电",
+    "price": 98.23,
+    "change": 1.48,
+    "changePct": 1.53,
+    "open": 95.92,
+    "high": 99.49,
+    "low": 95.36,
+    "prevClose": 96.75,
+    "volume": 52567,
+    "amount": 51499.0,
+    "totalMV": 26283000000.0,
+    "circMV": 20372000000.0,
+    "pe": 109.27,
+    "pb": 5.22,
+    "turnover": 2.53,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

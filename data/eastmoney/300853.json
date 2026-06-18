@@ -2525,5 +2525,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300853",
+    "name": "申昊科技",
+    "price": 30.19,
+    "change": 0.88,
+    "changePct": 3.0,
+    "open": 29.27,
+    "high": 31.68,
+    "low": 28.5,
+    "prevClose": 29.31,
+    "volume": 138292,
+    "amount": 41892.0,
+    "totalMV": 4436000000.0,
+    "circMV": 2968000000.0,
+    "pe": -23.82,
+    "pb": 8.65,
+    "turnover": 14.07,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

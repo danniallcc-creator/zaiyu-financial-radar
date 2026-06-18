@@ -2610,5 +2610,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002652",
+    "name": "扬子新材",
+    "price": 4.65,
+    "change": -0.02,
+    "changePct": -0.43,
+    "open": 4.64,
+    "high": 4.73,
+    "low": 4.45,
+    "prevClose": 4.67,
+    "volume": 366354,
+    "amount": 16732.0,
+    "totalMV": 2381000000.0,
+    "circMV": 2381000000.0,
+    "pe": -88.54,
+    "pb": 10.14,
+    "turnover": 7.15,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

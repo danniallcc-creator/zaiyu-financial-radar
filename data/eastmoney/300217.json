@@ -2662,5 +2662,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300217",
+    "name": "东方电热",
+    "price": 4.61,
+    "change": -0.1,
+    "changePct": -2.12,
+    "open": 4.68,
+    "high": 4.75,
+    "low": 4.6,
+    "prevClose": 4.71,
+    "volume": 304953,
+    "amount": 14189.0,
+    "totalMV": 6813000000.0,
+    "circMV": 5723000000.0,
+    "pe": 48.83,
+    "pb": 1.61,
+    "turnover": 2.46,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

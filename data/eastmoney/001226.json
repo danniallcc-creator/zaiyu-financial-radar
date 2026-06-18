@@ -2529,5 +2529,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "001226",
+    "name": "拓山重工",
+    "price": 54.14,
+    "change": 4.42,
+    "changePct": 8.89,
+    "open": 49.05,
+    "high": 54.69,
+    "low": 49.05,
+    "prevClose": 49.72,
+    "volume": 53292,
+    "amount": 28515.0,
+    "totalMV": 4042000000.0,
+    "circMV": 1837000000.0,
+    "pe": 176.43,
+    "pb": 5.44,
+    "turnover": 15.71,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

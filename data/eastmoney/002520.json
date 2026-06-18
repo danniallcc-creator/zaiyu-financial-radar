@@ -2539,5 +2539,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002520",
+    "name": "日发精机",
+    "price": 6.98,
+    "change": 0.09,
+    "changePct": 1.31,
+    "open": 6.86,
+    "high": 7.05,
+    "low": 6.8,
+    "prevClose": 6.89,
+    "volume": 498048,
+    "amount": 34707.0,
+    "totalMV": 5237000000.0,
+    "circMV": 5008000000.0,
+    "pe": -41.33,
+    "pb": 17.69,
+    "turnover": 6.94,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

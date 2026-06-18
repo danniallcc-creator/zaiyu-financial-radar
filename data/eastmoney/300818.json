@@ -2610,5 +2610,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300818",
+    "name": "耐普矿机",
+    "price": 22.4,
+    "change": 0.0,
+    "changePct": 0.0,
+    "open": 22.4,
+    "high": 23.45,
+    "low": 22.11,
+    "prevClose": 22.4,
+    "volume": 28530,
+    "amount": 6460.0,
+    "totalMV": 4915000000.0,
+    "circMV": 3184000000.0,
+    "pe": 77.22,
+    "pb": 2.74,
+    "turnover": 2.01,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

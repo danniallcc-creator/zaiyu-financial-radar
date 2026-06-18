@@ -2497,5 +2497,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002490",
+    "name": "山东墨龙",
+    "price": 7.03,
+    "change": -0.39,
+    "changePct": -5.26,
+    "open": 7.28,
+    "high": 7.29,
+    "low": 6.96,
+    "prevClose": 7.42,
+    "volume": 412986,
+    "amount": 29114.0,
+    "totalMV": 5609000000.0,
+    "circMV": 3808000000.0,
+    "pe": 1055.02,
+    "pb": 11.13,
+    "turnover": 7.62,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

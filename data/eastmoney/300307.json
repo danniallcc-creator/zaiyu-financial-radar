@@ -2622,5 +2622,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300307",
+    "name": "慈星股份",
+    "price": 8.14,
+    "change": 0.2,
+    "changePct": 2.52,
+    "open": 7.81,
+    "high": 8.68,
+    "low": 7.8,
+    "prevClose": 7.94,
+    "volume": 709252,
+    "amount": 58996.0,
+    "totalMV": 6517000000.0,
+    "circMV": 6405000000.0,
+    "pe": 58.18,
+    "pb": 1.98,
+    "turnover": 9.01,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

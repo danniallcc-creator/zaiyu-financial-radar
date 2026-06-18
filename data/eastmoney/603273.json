@@ -2590,5 +2590,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603273",
+    "name": "天元智能",
+    "price": 13.94,
+    "change": -0.29,
+    "changePct": -2.04,
+    "open": 14.02,
+    "high": 14.23,
+    "low": 13.81,
+    "prevClose": 14.23,
+    "volume": 17548,
+    "amount": 2461.0,
+    "totalMV": 2988000000.0,
+    "circMV": 781000000.0,
+    "pe": 107.83,
+    "pb": 3.38,
+    "turnover": 3.13,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

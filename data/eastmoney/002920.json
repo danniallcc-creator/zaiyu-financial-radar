@@ -2554,5 +2554,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002920",
+    "name": "德赛西威",
+    "price": 87.75,
+    "change": -0.45,
+    "changePct": -0.51,
+    "open": 87.43,
+    "high": 88.3,
+    "low": 86.38,
+    "prevClose": 88.2,
+    "volume": 73086,
+    "amount": 63898.0,
+    "totalMV": 52370000000.00001,
+    "circMV": 52354000000.0,
+    "pe": 22.45,
+    "pb": 3.45,
+    "turnover": 1.23,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

@@ -2506,5 +2506,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301355",
+    "name": "南王科技",
+    "price": 10.1,
+    "change": 0.04,
+    "changePct": 0.4,
+    "open": 10.0,
+    "high": 10.35,
+    "low": 9.84,
+    "prevClose": 10.06,
+    "volume": 34702,
+    "amount": 3510.0,
+    "totalMV": 1970000000.0,
+    "circMV": 1411000000.0,
+    "pe": -62.18,
+    "pb": 1.34,
+    "turnover": 2.48,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

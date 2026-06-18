@@ -2562,5 +2562,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002486",
+    "name": "嘉麟杰",
+    "price": 2.39,
+    "change": 0.15,
+    "changePct": 6.7,
+    "open": 2.22,
+    "high": 2.46,
+    "low": 2.18,
+    "prevClose": 2.24,
+    "volume": 1027777,
+    "amount": 24570.0,
+    "totalMV": 1970000000.0,
+    "circMV": 1961000000.0,
+    "pe": 51.38,
+    "pb": 1.85,
+    "turnover": 12.53,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

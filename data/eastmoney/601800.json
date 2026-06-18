@@ -2668,5 +2668,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601800",
+    "name": "中国交建",
+    "price": 6.11,
+    "change": -0.28,
+    "changePct": -4.38,
+    "open": 6.3,
+    "high": 6.3,
+    "low": 6.1,
+    "prevClose": 6.39,
+    "volume": 793137,
+    "amount": 48928.0,
+    "totalMV": 99438000000.0,
+    "circMV": 71999000000.0,
+    "pe": 7.43,
+    "pb": 0.34,
+    "turnover": 0.67,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

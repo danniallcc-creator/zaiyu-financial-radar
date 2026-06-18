@@ -1986,5 +1986,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301662",
+    "name": "宏工科技",
+    "price": 107.4,
+    "change": 0.43,
+    "changePct": 0.4,
+    "open": 106.8,
+    "high": 108.62,
+    "low": 104.38,
+    "prevClose": 106.97,
+    "volume": 37790,
+    "amount": 40433.0,
+    "totalMV": 12458000000.0,
+    "circMV": 4789000000.0,
+    "pe": 105.06,
+    "pb": 8.3,
+    "turnover": 8.47,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

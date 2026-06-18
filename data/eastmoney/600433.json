@@ -2596,5 +2596,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600433",
+    "name": "冠豪高新",
+    "price": 3.32,
+    "change": -0.08,
+    "changePct": -2.35,
+    "open": 3.36,
+    "high": 3.38,
+    "low": 3.3,
+    "prevClose": 3.4,
+    "volume": 366761,
+    "amount": 12210.0,
+    "totalMV": 5811000000.0,
+    "circMV": 5811000000.0,
+    "pe": -46.77,
+    "pb": 1.32,
+    "turnover": 2.1,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

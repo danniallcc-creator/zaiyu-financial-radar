@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600761",
+    "name": "安徽合力",
+    "price": 17.17,
+    "change": 0.44,
+    "changePct": 2.63,
+    "open": 16.59,
+    "high": 17.35,
+    "low": 16.5,
+    "prevClose": 16.73,
+    "volume": 192314,
+    "amount": 32827.0,
+    "totalMV": 15293000000.0,
+    "circMV": 15293000000.0,
+    "pe": 12.58,
+    "pb": 1.43,
+    "turnover": 2.16,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

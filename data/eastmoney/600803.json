@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600803",
+    "name": "新奥股份",
+    "price": 16.28,
+    "change": -0.31,
+    "changePct": -1.87,
+    "open": 16.61,
+    "high": 16.67,
+    "low": 16.27,
+    "prevClose": 16.59,
+    "volume": 83830,
+    "amount": 13765.0,
+    "totalMV": 50399000000.0,
+    "circMV": 50008000000.0,
+    "pe": 11.56,
+    "pb": 2.08,
+    "turnover": 0.27,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

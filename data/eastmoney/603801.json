@@ -2584,5 +2584,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603801",
+    "name": "志邦家居",
+    "price": 6.42,
+    "change": -0.03,
+    "changePct": -0.47,
+    "open": 6.37,
+    "high": 6.48,
+    "low": 6.31,
+    "prevClose": 6.45,
+    "volume": 30374,
+    "amount": 1950.0,
+    "totalMV": 2789000000.0,
+    "circMV": 2789000000.0,
+    "pe": 40.83,
+    "pb": 0.89,
+    "turnover": 0.7,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

@@ -2608,5 +2608,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600356",
+    "name": "恒丰纸业",
+    "price": 8.06,
+    "change": -0.07,
+    "changePct": -0.86,
+    "open": 8.14,
+    "high": 8.14,
+    "low": 7.97,
+    "prevClose": 8.13,
+    "volume": 39319,
+    "amount": 3167.0,
+    "totalMV": 2656000000.0,
+    "circMV": 2408000000.0,
+    "pe": 11.72,
+    "pb": 0.86,
+    "turnover": 1.32,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

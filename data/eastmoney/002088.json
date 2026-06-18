@@ -2662,5 +2662,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002088",
+    "name": "鲁阳节能",
+    "price": 8.8,
+    "change": 0.01,
+    "changePct": 0.11,
+    "open": 9.06,
+    "high": 9.19,
+    "low": 8.66,
+    "prevClose": 8.79,
+    "volume": 63360,
+    "amount": 5607.0,
+    "totalMV": 4515000000.0,
+    "circMV": 4450000000.0,
+    "pe": -317.5,
+    "pb": 1.78,
+    "turnover": 1.25,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

@@ -2515,5 +2515,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "605122",
+    "name": "四方新材",
+    "price": 11.59,
+    "change": 0.01,
+    "changePct": 0.09,
+    "open": 11.45,
+    "high": 11.79,
+    "low": 11.22,
+    "prevClose": 11.58,
+    "volume": 34646,
+    "amount": 4010.0,
+    "totalMV": 1998000000.0,
+    "circMV": 1998000000.0,
+    "pe": -6.58,
+    "pb": 1.15,
+    "turnover": 2.01,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

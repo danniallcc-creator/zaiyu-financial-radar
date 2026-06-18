@@ -2604,5 +2604,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301303",
+    "name": "真兰仪表",
+    "price": 17.98,
+    "change": -0.32,
+    "changePct": -1.75,
+    "open": 18.24,
+    "high": 18.58,
+    "low": 17.62,
+    "prevClose": 18.3,
+    "volume": 169690,
+    "amount": 30573.0,
+    "totalMV": 7350000000.0,
+    "circMV": 1838000000.0,
+    "pe": 22.53,
+    "pb": 2.17,
+    "turnover": 16.6,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

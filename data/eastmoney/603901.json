@@ -2571,5 +2571,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603901",
+    "name": "永创智能",
+    "price": 10.78,
+    "change": 0.05,
+    "changePct": 0.47,
+    "open": 10.66,
+    "high": 10.88,
+    "low": 10.58,
+    "prevClose": 10.73,
+    "volume": 58601,
+    "amount": 6310.0,
+    "totalMV": 6217000000.0,
+    "circMV": 5846000000.0,
+    "pe": 37.04,
+    "pb": 2.14,
+    "turnover": 1.08,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

@@ -2604,5 +2604,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002861",
+    "name": "瀛通通讯",
+    "price": 18.7,
+    "change": 0.5,
+    "changePct": 2.75,
+    "open": 18.1,
+    "high": 19.3,
+    "low": 17.87,
+    "prevClose": 18.2,
+    "volume": 112685,
+    "amount": 21125.0,
+    "totalMV": 3484000000.0000005,
+    "circMV": 2808000000.0,
+    "pe": -43.59,
+    "pb": 3.37,
+    "turnover": 7.5,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

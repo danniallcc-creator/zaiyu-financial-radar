@@ -2547,5 +2547,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603180",
+    "name": "金牌家居",
+    "price": 14.69,
+    "change": -0.11,
+    "changePct": -0.74,
+    "open": 14.78,
+    "high": 14.98,
+    "low": 14.62,
+    "prevClose": 14.8,
+    "volume": 13207,
+    "amount": 1954.0,
+    "totalMV": 2266000000.0,
+    "circMV": 2266000000.0,
+    "pe": -83.36,
+    "pb": 0.84,
+    "turnover": 0.86,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

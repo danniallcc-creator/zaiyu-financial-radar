@@ -2590,5 +2590,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301062",
+    "name": "上海艾录",
+    "price": 6.17,
+    "change": 0.01,
+    "changePct": 0.16,
+    "open": 6.12,
+    "high": 6.31,
+    "low": 6.05,
+    "prevClose": 6.16,
+    "volume": 44668,
+    "amount": 2754.0,
+    "totalMV": 2673000000.0,
+    "circMV": 1932999999.9999998,
+    "pe": -21.31,
+    "pb": 2.0,
+    "turnover": 1.43,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

@@ -2604,5 +2604,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300056",
+    "name": "中创环保",
+    "price": 8.27,
+    "change": 0.17,
+    "changePct": 2.1,
+    "open": 8.09,
+    "high": 8.48,
+    "low": 7.92,
+    "prevClose": 8.1,
+    "volume": 313293,
+    "amount": 25648.0,
+    "totalMV": 3188000000.0,
+    "circMV": 3186000000.0,
+    "pe": -29.2,
+    "pb": 44.48,
+    "turnover": 8.13,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

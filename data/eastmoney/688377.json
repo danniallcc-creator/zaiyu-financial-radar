@@ -2516,5 +2516,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688377",
+    "name": "迪威尔",
+    "price": 26.1,
+    "change": 0.87,
+    "changePct": 3.45,
+    "open": 25.2,
+    "high": 27.06,
+    "low": 25.02,
+    "prevClose": 25.23,
+    "volume": 3305749,
+    "amount": 8620.0,
+    "totalMV": 6096000000.0,
+    "circMV": 6096000000.0,
+    "pe": 52.8,
+    "pb": 3.25,
+    "turnover": 1.42,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

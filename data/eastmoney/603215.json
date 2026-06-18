@@ -2190,5 +2190,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603215",
+    "name": "比依股份",
+    "price": 15.48,
+    "change": 0.0,
+    "changePct": 0.0,
+    "open": 15.88,
+    "high": 16.06,
+    "low": 15.4,
+    "prevClose": 15.48,
+    "volume": 25666,
+    "amount": 4010.0,
+    "totalMV": 3333000000.0,
+    "circMV": 2898000000.0,
+    "pe": 66.73,
+    "pb": 1.95,
+    "turnover": 1.37,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

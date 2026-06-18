@@ -2535,5 +2535,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688349",
+    "name": "DR三一重",
+    "price": 14.12,
+    "change": 0.18,
+    "changePct": 1.29,
+    "open": 13.95,
+    "high": 14.49,
+    "low": 13.91,
+    "prevClose": 13.94,
+    "volume": 11400534,
+    "amount": 16115.0,
+    "totalMV": 22498000000.0,
+    "circMV": 21820000000.0,
+    "pe": 20.78,
+    "pb": 1.62,
+    "turnover": 0.74,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

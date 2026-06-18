@@ -2475,5 +2475,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002848",
+    "name": "高斯贝尔",
+    "price": 13.99,
+    "change": 0.05,
+    "changePct": 0.36,
+    "open": 13.94,
+    "high": 14.19,
+    "low": 13.4,
+    "prevClose": 13.94,
+    "volume": 106041,
+    "amount": 14570.0,
+    "totalMV": 2338000000.0,
+    "circMV": 2307000000.0,
+    "pe": -39.64,
+    "pb": 27.99,
+    "turnover": 6.43,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

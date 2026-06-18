@@ -2593,5 +2593,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600262",
+    "name": "北方股份",
+    "price": 21.66,
+    "change": -0.16,
+    "changePct": -0.73,
+    "open": 21.85,
+    "high": 21.88,
+    "low": 21.35,
+    "prevClose": 21.82,
+    "volume": 20340,
+    "amount": 4395.0,
+    "totalMV": 3682000000.0,
+    "circMV": 3682000000.0,
+    "pe": 16.2,
+    "pb": 1.97,
+    "turnover": 1.2,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

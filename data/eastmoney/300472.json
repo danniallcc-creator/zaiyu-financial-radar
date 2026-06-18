@@ -2501,5 +2501,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300472",
+    "name": "*ST新元",
+    "price": 7.75,
+    "change": -0.23,
+    "changePct": -2.88,
+    "open": 7.99,
+    "high": 8.0,
+    "low": 7.71,
+    "prevClose": 7.98,
+    "volume": 37582,
+    "amount": 2926.0,
+    "totalMV": 2132999999.9999998,
+    "circMV": 1905999999.9999998,
+    "pe": -6.19,
+    "pb": 92.77,
+    "turnover": 1.53,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

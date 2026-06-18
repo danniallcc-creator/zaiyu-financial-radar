@@ -2546,5 +2546,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "003011",
+    "name": "海象新材",
+    "price": 20.68,
+    "change": 1.67,
+    "changePct": 8.78,
+    "open": 18.79,
+    "high": 20.79,
+    "low": 18.11,
+    "prevClose": 19.01,
+    "volume": 97466,
+    "amount": 18900.0,
+    "totalMV": 2123000000.0,
+    "circMV": 1589000000.0,
+    "pe": 24.66,
+    "pb": 1.53,
+    "turnover": 12.68,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

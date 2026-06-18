@@ -2563,5 +2563,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300703",
+    "name": "创源股份",
+    "price": 14.18,
+    "change": -0.17,
+    "changePct": -1.18,
+    "open": 14.34,
+    "high": 14.46,
+    "low": 13.84,
+    "prevClose": 14.35,
+    "volume": 50155,
+    "amount": 7105.0,
+    "totalMV": 2558000000.0,
+    "circMV": 2358000000.0,
+    "pe": 121.38,
+    "pb": 3.37,
+    "turnover": 3.02,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

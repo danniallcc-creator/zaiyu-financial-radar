@@ -2598,5 +2598,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "600968",
+    "name": "海油发展",
+    "price": 3.77,
+    "change": -0.03,
+    "changePct": -0.79,
+    "open": 3.8,
+    "high": 3.89,
+    "low": 3.77,
+    "prevClose": 3.8,
+    "volume": 501390,
+    "amount": 19162.0,
+    "totalMV": 38322000000.0,
+    "circMV": 38322000000.0,
+    "pe": 9.76,
+    "pb": 1.27,
+    "turnover": 0.49,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

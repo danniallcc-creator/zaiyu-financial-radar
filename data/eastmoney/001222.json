@@ -2506,5 +2506,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "001222",
+    "name": "源飞宠物",
+    "price": 14.07,
+    "change": -0.2,
+    "changePct": -1.4,
+    "open": 14.31,
+    "high": 14.31,
+    "low": 13.99,
+    "prevClose": 14.27,
+    "volume": 17824,
+    "amount": 2514.0,
+    "totalMV": 2686000000.0,
+    "circMV": 1590000000.0,
+    "pe": 23.72,
+    "pb": 1.89,
+    "turnover": 1.58,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

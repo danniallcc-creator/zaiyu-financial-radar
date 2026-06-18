@@ -2680,5 +2680,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002372",
+    "name": "伟星新材",
+    "price": 8.64,
+    "change": -0.06,
+    "changePct": -0.69,
+    "open": 8.71,
+    "high": 8.76,
+    "low": 8.57,
+    "prevClose": 8.7,
+    "volume": 57169,
+    "amount": 4942.0,
+    "totalMV": 13755000000.000002,
+    "circMV": 12708000000.0,
+    "pe": 18.42,
+    "pb": 3.09,
+    "turnover": 0.39,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

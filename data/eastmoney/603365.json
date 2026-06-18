@@ -2636,5 +2636,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603365",
+    "name": "XD水星家",
+    "price": 16.75,
+    "change": 0.06,
+    "changePct": 0.36,
+    "open": 16.67,
+    "high": 16.75,
+    "low": 16.22,
+    "prevClose": 16.69,
+    "volume": 18752,
+    "amount": 3090.0,
+    "totalMV": 4397000000.0,
+    "circMV": 4352000000.0,
+    "pe": 10.41,
+    "pb": 1.45,
+    "turnover": 0.72,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

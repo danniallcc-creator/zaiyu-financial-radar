@@ -2514,5 +2514,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301309",
+    "name": "万得凯",
+    "price": 31.89,
+    "change": -0.11,
+    "changePct": -0.34,
+    "open": 31.8,
+    "high": 32.3,
+    "low": 31.48,
+    "prevClose": 32.0,
+    "volume": 8669,
+    "amount": 2765.0,
+    "totalMV": 3206000000.0,
+    "circMV": 1932000000.0,
+    "pe": 28.51,
+    "pb": 1.95,
+    "turnover": 1.43,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

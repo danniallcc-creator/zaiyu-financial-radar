@@ -2551,5 +2551,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301468",
+    "name": "博盈特焊",
+    "price": 48.89,
+    "change": 0.26,
+    "changePct": 0.53,
+    "open": 50.7,
+    "high": 52.99,
+    "low": 48.12,
+    "prevClose": 48.63,
+    "volume": 193469,
+    "amount": 97624.0,
+    "totalMV": 8270000000.0,
+    "circMV": 4767000000.0,
+    "pe": 170.57,
+    "pb": 3.62,
+    "turnover": 19.84,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

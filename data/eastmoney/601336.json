@@ -1738,5 +1738,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601336",
+    "name": "新华保险",
+    "price": 57.55,
+    "change": -4.2,
+    "changePct": -6.8,
+    "open": 61.6,
+    "high": 61.6,
+    "low": 57.25,
+    "prevClose": 61.75,
+    "volume": 479283,
+    "amount": 281065.0,
+    "totalMV": 179530000000.0,
+    "circMV": 120017000000.0,
+    "pe": 4.86,
+    "pb": 1.45,
+    "turnover": 2.3,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

@@ -2603,5 +2603,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300260",
+    "name": "新莱应材",
+    "price": 82.97,
+    "change": 4.67,
+    "changePct": 5.96,
+    "open": 76.51,
+    "high": 83.33,
+    "low": 75.75,
+    "prevClose": 78.3,
+    "volume": 325987,
+    "amount": 261973.0,
+    "totalMV": 33836000000.0,
+    "circMV": 23865000000.0,
+    "pe": 191.25,
+    "pb": 15.75,
+    "turnover": 11.33,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

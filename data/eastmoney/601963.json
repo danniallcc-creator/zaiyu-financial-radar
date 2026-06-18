@@ -1670,5 +1670,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601963",
+    "name": "重庆银行",
+    "price": 10.85,
+    "change": -0.41,
+    "changePct": -3.64,
+    "open": 11.18,
+    "high": 11.25,
+    "low": 10.83,
+    "prevClose": 11.26,
+    "volume": 128546,
+    "amount": 14122.0,
+    "totalMV": 39339000000.0,
+    "circMV": 22069000000.0,
+    "pe": 6.76,
+    "pb": 0.67,
+    "turnover": 0.63,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

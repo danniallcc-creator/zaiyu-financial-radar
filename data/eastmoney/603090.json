@@ -2626,5 +2626,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603090",
+    "name": "宏盛股份",
+    "price": 62.88,
+    "change": 0.48,
+    "changePct": 0.77,
+    "open": 62.4,
+    "high": 64.75,
+    "low": 61.5,
+    "prevClose": 62.4,
+    "volume": 35608,
+    "amount": 22470.0,
+    "totalMV": 6288000000.0,
+    "circMV": 6288000000.0,
+    "pe": 82.57,
+    "pb": 10.11,
+    "turnover": 3.56,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

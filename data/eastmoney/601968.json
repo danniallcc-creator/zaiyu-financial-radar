@@ -2598,5 +2598,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601968",
+    "name": "宝钢包装",
+    "price": 4.16,
+    "change": 0.02,
+    "changePct": 0.48,
+    "open": 4.11,
+    "high": 4.18,
+    "low": 4.06,
+    "prevClose": 4.14,
+    "volume": 113701,
+    "amount": 4688.0,
+    "totalMV": 5307000000.0,
+    "circMV": 5307000000.0,
+    "pe": 27.11,
+    "pb": 1.18,
+    "turnover": 0.89,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

@@ -2579,5 +2579,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300354",
+    "name": "东华测试",
+    "price": 35.41,
+    "change": 0.33,
+    "changePct": 0.94,
+    "open": 34.74,
+    "high": 36.16,
+    "low": 34.37,
+    "prevClose": 35.08,
+    "volume": 41503,
+    "amount": 14615.0,
+    "totalMV": 4898000000.0,
+    "circMV": 2879000000.0,
+    "pe": 36.2,
+    "pb": 5.71,
+    "turnover": 5.1,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

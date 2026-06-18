@@ -2448,5 +2448,24 @@
         "totalRatio": 30.74797842
       }
     ]
+  },
+  "quote": {
+    "code": "201872",
+    "name": "招港B",
+    "price": 16.54,
+    "change": -0.22,
+    "changePct": -1.31,
+    "open": 16.6,
+    "high": 16.89,
+    "low": 16.41,
+    "prevClose": 16.76,
+    "volume": 4387,
+    "amount": 727.0,
+    "totalMV": 41051000000.0,
+    "circMV": 2975000000.0,
+    "pe": 7.89,
+    "pb": 0.55,
+    "turnover": 0.24,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

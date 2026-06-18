@@ -2582,5 +2582,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "001216",
+    "name": "华瓷股份",
+    "price": 17.4,
+    "change": 1.58,
+    "changePct": 9.99,
+    "open": 17.4,
+    "high": 17.4,
+    "low": 17.4,
+    "prevClose": 15.82,
+    "volume": 27612,
+    "amount": 4804.0,
+    "totalMV": 5080000000.0,
+    "circMV": 4272999999.9999995,
+    "pe": 23.76,
+    "pb": 2.07,
+    "turnover": 1.12,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

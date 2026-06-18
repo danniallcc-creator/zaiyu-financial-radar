@@ -2590,5 +2590,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300572",
+    "name": "安车检测",
+    "price": 26.82,
+    "change": -0.17,
+    "changePct": -0.63,
+    "open": 26.8,
+    "high": 27.24,
+    "low": 26.46,
+    "prevClose": 26.99,
+    "volume": 45968,
+    "amount": 12294.0,
+    "totalMV": 6141000000.0,
+    "circMV": 4862000000.0,
+    "pe": -34.27,
+    "pb": 3.82,
+    "turnover": 2.54,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

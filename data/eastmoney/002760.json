@@ -2519,5 +2519,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002760",
+    "name": "凤形股份",
+    "price": 17.36,
+    "change": -0.05,
+    "changePct": -0.29,
+    "open": 17.18,
+    "high": 17.64,
+    "low": 17.07,
+    "prevClose": 17.41,
+    "volume": 33473,
+    "amount": 5808.0,
+    "totalMV": 1875000000.0,
+    "circMV": 1875000000.0,
+    "pe": 78.82,
+    "pb": 2.24,
+    "turnover": 3.1,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

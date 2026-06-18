@@ -2510,5 +2510,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301325",
+    "name": "曼恩斯特",
+    "price": 39.34,
+    "change": -1.14,
+    "changePct": -2.82,
+    "open": 40.44,
+    "high": 40.71,
+    "low": 38.72,
+    "prevClose": 40.48,
+    "volume": 30306,
+    "amount": 11952.0,
+    "totalMV": 5661000000.0,
+    "circMV": 5661000000.0,
+    "pe": -36.19,
+    "pb": 2.14,
+    "turnover": 2.11,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

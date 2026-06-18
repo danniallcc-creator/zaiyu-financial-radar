@@ -2662,5 +2662,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "000016",
+    "name": "*ST康佳A",
+    "price": 2.68,
+    "change": -0.14,
+    "changePct": -4.96,
+    "open": 2.82,
+    "high": 2.83,
+    "low": 2.68,
+    "prevClose": 2.82,
+    "volume": 296530,
+    "amount": 8071.0,
+    "totalMV": 6453000000.0,
+    "circMV": 4279000000.0,
+    "pe": -0.5,
+    "pb": -0.57,
+    "turnover": 1.86,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }

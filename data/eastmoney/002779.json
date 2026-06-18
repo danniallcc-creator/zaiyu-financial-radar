@@ -2598,5 +2598,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002779",
+    "name": "中坚科技",
+    "price": 82.8,
+    "change": -1.64,
+    "changePct": -1.94,
+    "open": 84.44,
+    "high": 84.44,
+    "low": 81.81,
+    "prevClose": 84.44,
+    "volume": 28805,
+    "amount": 23792.0,
+    "totalMV": 15301000000.0,
+    "circMV": 13729000000.0,
+    "pe": 96.23,
+    "pb": 16.27,
+    "turnover": 1.74,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

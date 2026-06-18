@@ -2588,5 +2588,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "688768",
+    "name": "容知日新",
+    "price": 54.84,
+    "change": 0.04,
+    "changePct": 0.07,
+    "open": 55.8,
+    "high": 55.8,
+    "low": 53.87,
+    "prevClose": 54.8,
+    "volume": 1737282,
+    "amount": 9524.0,
+    "totalMV": 4825000000.0,
+    "circMV": 4786000000.0,
+    "pe": 71.16,
+    "pb": 4.58,
+    "turnover": 1.99,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

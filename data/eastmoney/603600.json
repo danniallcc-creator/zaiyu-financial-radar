@@ -2593,5 +2593,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603600",
+    "name": "永艺股份",
+    "price": 9.32,
+    "change": -0.12,
+    "changePct": -1.27,
+    "open": 9.43,
+    "high": 9.43,
+    "low": 9.2,
+    "prevClose": 9.44,
+    "volume": 35514,
+    "amount": 3306.0,
+    "totalMV": 3080000000.0,
+    "circMV": 2796000000.0,
+    "pe": 12.45,
+    "pb": 1.37,
+    "turnover": 1.18,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

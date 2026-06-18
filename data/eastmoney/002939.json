@@ -1631,5 +1631,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002939",
+    "name": "长城证券",
+    "price": 8.22,
+    "change": -0.19,
+    "changePct": -2.26,
+    "open": 8.42,
+    "high": 8.46,
+    "low": 8.19,
+    "prevClose": 8.41,
+    "volume": 237457,
+    "amount": 19700.0,
+    "totalMV": 33163000000.0,
+    "circMV": 29614000000.0,
+    "pe": 14.01,
+    "pb": 1.02,
+    "turnover": 0.66,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

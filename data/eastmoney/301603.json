@@ -2212,5 +2212,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "301603",
+    "name": "乔锋智能",
+    "price": 146.8,
+    "change": 0.3,
+    "changePct": 0.2,
+    "open": 145.5,
+    "high": 149.37,
+    "low": 142.65,
+    "prevClose": 146.5,
+    "volume": 22926,
+    "amount": 33584.0,
+    "totalMV": 17728000000.0,
+    "circMV": 5539000000.0,
+    "pe": 46.34,
+    "pb": 7.09,
+    "turnover": 6.08,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

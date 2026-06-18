@@ -2182,5 +2182,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603169",
+    "name": "兰石重装",
+    "price": 7.92,
+    "change": -0.54,
+    "changePct": -6.38,
+    "open": 8.1,
+    "high": 8.19,
+    "low": 7.9,
+    "prevClose": 8.46,
+    "volume": 364087,
+    "amount": 29061.0,
+    "totalMV": 10346000000.0,
+    "circMV": 10346000000.0,
+    "pe": -17.1,
+    "pb": 3.89,
+    "turnover": 2.79,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

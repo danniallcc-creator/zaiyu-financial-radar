@@ -2588,5 +2588,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300749",
+    "name": "顶固集创",
+    "price": 22.55,
+    "change": 1.42,
+    "changePct": 6.72,
+    "open": 20.98,
+    "high": 22.88,
+    "low": 20.62,
+    "prevClose": 21.13,
+    "volume": 115087,
+    "amount": 24996.0,
+    "totalMV": 4627000000.0,
+    "circMV": 3549000000.0,
+    "pe": -435.3,
+    "pb": 8.4,
+    "turnover": 7.31,
+    "fetchTime": "2026-06-19T00:06:12"
   }
 }

@@ -1636,5 +1636,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "601658",
+    "name": "邮储银行",
+    "price": 4.86,
+    "change": -0.12,
+    "changePct": -2.41,
+    "open": 4.98,
+    "high": 4.98,
+    "low": 4.86,
+    "prevClose": 4.98,
+    "volume": 2853442,
+    "amount": 139643.0,
+    "totalMV": 583662000000.0,
+    "circMV": 352485000000.0,
+    "pe": 6.64,
+    "pb": 0.57,
+    "turnover": 0.39,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

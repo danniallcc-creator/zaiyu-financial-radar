@@ -2505,5 +2505,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603616",
+    "name": "韩建河山",
+    "price": 6.46,
+    "change": 0.59,
+    "changePct": 10.05,
+    "open": 5.91,
+    "high": 6.46,
+    "low": 5.9,
+    "prevClose": 5.87,
+    "volume": 555114,
+    "amount": 34808.0,
+    "totalMV": 2501000000.0,
+    "circMV": 2483000000.0,
+    "pe": -105.23,
+    "pb": 12.38,
+    "turnover": 14.45,
+    "fetchTime": "2026-06-19T00:06:14"
   }
 }

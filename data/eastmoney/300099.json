@@ -2662,5 +2662,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "300099",
+    "name": "尤洛卡",
+    "price": 7.3,
+    "change": -0.88,
+    "changePct": -10.76,
+    "open": 7.83,
+    "high": 7.96,
+    "low": 7.2,
+    "prevClose": 8.18,
+    "volume": 667370,
+    "amount": 49771.0,
+    "totalMV": 5382000000.0,
+    "circMV": 4244000000.0,
+    "pe": 29.23,
+    "pb": 2.34,
+    "turnover": 11.48,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

@@ -2662,5 +2662,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002705",
+    "name": "新宝股份",
+    "price": 11.31,
+    "change": -0.33,
+    "changePct": -2.84,
+    "open": 11.68,
+    "high": 11.71,
+    "low": 11.3,
+    "prevClose": 11.64,
+    "volume": 87867,
+    "amount": 10084.0,
+    "totalMV": 9182000000.0,
+    "circMV": 9140000000.0,
+    "pe": 11.05,
+    "pb": 1.09,
+    "turnover": 1.09,
+    "fetchTime": "2026-06-19T00:06:11"
   }
 }

@@ -2638,5 +2638,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "603088",
+    "name": "宁波精达",
+    "price": 10.53,
+    "change": 0.16,
+    "changePct": 1.54,
+    "open": 10.3,
+    "high": 10.56,
+    "low": 10.2,
+    "prevClose": 10.37,
+    "volume": 109018,
+    "amount": 11373.0,
+    "totalMV": 5290000000.0,
+    "circMV": 4611000000.0,
+    "pe": 57.65,
+    "pb": 4.6,
+    "turnover": 2.49,
+    "fetchTime": "2026-06-19T00:06:13"
   }
 }

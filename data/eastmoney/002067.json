@@ -2614,5 +2614,24 @@
         "status": "实施分配"
       }
     ]
+  },
+  "quote": {
+    "code": "002067",
+    "name": "景兴纸业",
+    "price": 4.04,
+    "change": -0.06,
+    "changePct": -1.46,
+    "open": 4.1,
+    "high": 4.13,
+    "low": 4.03,
+    "prevClose": 4.1,
+    "volume": 293385,
+    "amount": 11913.0,
+    "totalMV": 5958000000.0,
+    "circMV": 5404000000.0,
+    "pe": 59.53,
+    "pb": 0.89,
+    "turnover": 2.19,
+    "fetchTime": "2026-06-19T00:06:10"
   }
 }
