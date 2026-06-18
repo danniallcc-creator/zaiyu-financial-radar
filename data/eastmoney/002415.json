@@ -1,7 +1,7 @@
 {
   "code": "002415",
   "name": "海康威视",
-  "fetchTime": "2026-06-18T17:29:40.343001",
+  "fetchTime": "2026-06-18T21:16:02.610543",
   "profile": {
     "name": "海康威视",
     "code": "002415",
@@ -2148,6 +2148,416 @@
     }
   ],
   "shareholder": {
+    "top10Holders": [
+      {
+        "endDate": "2026-03-31",
+        "rank": 1,
+        "name": "中电海康集团有限公司",
+        "sharesType": "流通A股",
+        "shares": 3416996509.0,
+        "sharesRatio": 37.28,
+        "change": "不变"
+      },
+      {
+        "endDate": "2026-03-31",
+        "rank": 2,
+        "name": "龚虹嘉",
+        "sharesType": "流通A股",
+        "shares": 962504814.0,
+        "sharesRatio": 10.5,
+        "change": "不变"
+      },
+      {
+        "endDate": "2026-03-31",
+        "rank": 3,
+        "name": "杭州威讯股权投资合伙企业(有限合伙)",
+        "sharesType": "流通A股",
+        "shares": 450795176.0,
+        "sharesRatio": 4.92,
+        "change": "不变"
+      },
+      {
+        "endDate": "2026-03-31",
+        "rank": 4,
+        "name": "中电科投资控股有限公司",
+        "sharesType": "流通A股",
+        "shares": 248366268.0,
+        "sharesRatio": 2.71,
+        "change": "不变"
+      },
+      {
+        "endDate": "2026-03-31",
+        "rank": 5,
+        "name": "上海高毅资产管理合伙企业(有限合伙)-高毅邻山1号远望基金",
+        "sharesType": "流通A股",
+        "shares": 200000000.0,
+        "sharesRatio": 2.18,
+        "change": "-57000000"
+      },
+      {
+        "endDate": "2026-03-31",
+        "rank": 6,
+        "name": "杭州璞康股权投资合伙企业(有限合伙)",
+        "sharesType": "流通A股",
+        "shares": 182510174.0,
+        "sharesRatio": 1.99,
+        "change": "不变"
+      },
+      {
+        "endDate": "2026-03-31",
+        "rank": 7,
+        "name": "中国电子科技集团公司第五十二研究所",
+        "sharesType": "流通A股",
+        "shares": 180775044.0,
+        "sharesRatio": 1.97,
+        "change": "不变"
+      },
+      {
+        "endDate": "2026-03-31",
+        "rank": 8,
+        "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+        "sharesType": "流通A股",
+        "shares": 169373176.0,
+        "sharesRatio": 1.85,
+        "change": "-7462378"
+      },
+      {
+        "endDate": "2026-03-31",
+        "rank": 9,
+        "name": "胡扬忠",
+        "sharesType": "流通A股,限售流通A股",
+        "shares": 155996477.0,
+        "sharesRatio": 1.7,
+        "change": "不变"
+      },
+      {
+        "endDate": "2026-03-31",
+        "rank": 10,
+        "name": "中央汇金资产管理有限责任公司",
+        "sharesType": "流通A股",
+        "shares": 64700691.0,
+        "sharesRatio": 0.71,
+        "change": "不变"
+      }
+    ],
+    "top10CircHolders": [
+      {
+        "endDate": "2026-03-31",
+        "rank": 1,
+        "name": "中电海康集团有限公司",
+        "sharesType": "A股",
+        "shares": 3416996509.0,
+        "sharesRatio": 37.771883687994,
+        "change": "不变",
+        "type": "其它"
+      },
+      {
+        "endDate": "2026-03-31",
+        "rank": 2,
+        "name": "龚虹嘉",
+        "sharesType": "A股",
+        "shares": 962504814.0,
+        "sharesRatio": 10.639642091464,
+        "change": "不变",
+        "type": "个人"
+      },
+      {
+        "endDate": "2026-03-31",
+        "rank": 3,
+        "name": "杭州威讯股权投资合伙企业(有限合伙)",
+        "sharesType": "A股",
+        "shares": 450795176.0,
+        "sharesRatio": 4.98314321075,
+        "change": "不变",
+        "type": "投资公司"
+      },
+      {
+        "endDate": "2026-03-31",
+        "rank": 4,
+        "name": "中电科投资控股有限公司",
+        "sharesType": "A股",
+        "shares": 248366268.0,
+        "sharesRatio": 2.745470111605,
+        "change": "不变",
+        "type": "投资公司"
+      },
+      {
+        "endDate": "2026-03-31",
+        "rank": 5,
+        "name": "上海高毅资产管理合伙企业(有限合伙)-高毅邻山1号远望基金",
+        "sharesType": "A股",
+        "shares": 200000000.0,
+        "sharesRatio": 2.21082366274,
+        "change": "-57000000",
+        "type": "私募基金"
+      },
+      {
+        "endDate": "2026-03-31",
+        "rank": 6,
+        "name": "杭州璞康股权投资合伙企业(有限合伙)",
+        "sharesType": "A股",
+        "shares": 182510174.0,
+        "sharesRatio": 2.01748905685,
+        "change": "不变",
+        "type": "投资公司"
+      },
+      {
+        "endDate": "2026-03-31",
+        "rank": 7,
+        "name": "中国电子科技集团公司第五十二研究所",
+        "sharesType": "A股",
+        "shares": 180775044.0,
+        "sharesRatio": 1.998308724541,
+        "change": "不变",
+        "type": "其它"
+      },
+      {
+        "endDate": "2026-03-31",
+        "rank": 8,
+        "name": "中国人寿保险股份有限公司-传统-普通保险产品-005L-CT001沪",
+        "sharesType": "A股",
+        "shares": 169373176.0,
+        "sharesRatio": 1.872271126672,
+        "change": "-7462378",
+        "type": "保险产品"
+      },
+      {
+        "endDate": "2026-03-31",
+        "rank": 9,
+        "name": "中央汇金资产管理有限责任公司",
+        "sharesType": "A股",
+        "shares": 64700691.0,
+        "sharesRatio": 0.715209093292,
+        "change": "不变",
+        "type": "其它"
+      },
+      {
+        "endDate": "2026-03-31",
+        "rank": 10,
+        "name": "上海重阳战略投资有限公司-重阳战略才智基金",
+        "sharesType": "A股",
+        "shares": 53565470.0,
+        "sharesRatio": 0.592119042909,
+        "change": "新进",
+        "type": "私募基金"
+      }
+    ],
+    "holderCountHistory": [
+      {
+        "endDate": "2026-03-31",
+        "count": 348870.0,
+        "changeRatio": -13.737,
+        "avgShares": 25930.0,
+        "avgHoldAmount": 771084.936624133,
+        "holdFocus": "非常分散",
+        "price": 29.7365070132
+      },
+      {
+        "endDate": "2025-12-31",
+        "count": 404426.0,
+        "changeRatio": 4.4429,
+        "avgShares": 22368.0,
+        "avgHoldAmount": 652478.770051347,
+        "holdFocus": "非常分散",
+        "price": 29.1695387664
+      },
+      {
+        "endDate": "2025-09-30",
+        "count": 387222.0,
+        "changeRatio": -6.453,
+        "avgShares": 23362.0,
+        "avgHoldAmount": 727762.485029754,
+        "holdFocus": "非常分散",
+        "price": 31.1510212064
+      },
+      {
+        "endDate": "2025-06-30",
+        "count": 413933.0,
+        "changeRatio": 21.6541,
+        "avgShares": 22019.0,
+        "avgHoldAmount": 603463.703789972,
+        "holdFocus": "非常分散",
+        "price": 27.4053876286
+      },
+      {
+        "endDate": "2025-03-31",
+        "count": 340254.0,
+        "changeRatio": -15.1495,
+        "avgShares": 26761.0,
+        "avgHoldAmount": 792201.514318854,
+        "holdFocus": "非常分散",
+        "price": 29.602405925
+      },
+      {
+        "endDate": "2024-12-31",
+        "count": 401004.0,
+        "changeRatio": 4.3863,
+        "avgShares": 22707.0,
+        "avgHoldAmount": 672187.14539767,
+        "holdFocus": "非常分散",
+        "price": 29.602405925
+      },
+      {
+        "endDate": "2024-09-30",
+        "count": 384154.0,
+        "changeRatio": 13.9588,
+        "avgShares": 23704.0,
+        "avgHoldAmount": 738038.31750535,
+        "holdFocus": "非常分散",
+        "price": 31.1355598475
+      },
+      {
+        "endDate": "2024-06-30",
+        "count": 337099.0,
+        "changeRatio": -5.3683,
+        "avgShares": 27019.0,
+        "avgHoldAmount": 805319.796222701,
+        "holdFocus": "非常分散",
+        "price": 29.8048979525
+      },
+      {
+        "endDate": "2024-03-31",
+        "count": 356222.0,
+        "changeRatio": 9.6608,
+        "avgShares": 25569.0,
+        "avgHoldAmount": 771853.479772426,
+        "holdFocus": "非常分散",
+        "price": 30.1864417824
+      },
+      {
+        "endDate": "2023-12-31",
+        "count": 324840.0,
+        "changeRatio": -8.4,
+        "avgShares": 28039.0,
+        "avgHoldAmount": 913797.106833061,
+        "holdFocus": "非常分散",
+        "price": 32.5893426208
+      }
+    ],
+    "institutionalHoldings": [
+      {
+        "reportDate": "2026-03-31",
+        "totalOrgs": 207.0,
+        "totalShares": 5159535478.0,
+        "totalRatio": 57.03411568
+      },
+      {
+        "reportDate": "2026-03-31",
+        "totalOrgs": 193.0,
+        "totalShares": 192366470.0,
+        "totalRatio": 2.12644178
+      },
+      {
+        "reportDate": "2026-03-31",
+        "totalOrgs": 5.0,
+        "totalShares": 86500.0,
+        "totalRatio": 0.00095619
+      },
+      {
+        "reportDate": "2026-03-31",
+        "totalOrgs": 1.0,
+        "totalShares": 169373176.0,
+        "totalRatio": 1.87227113
+      },
+      {
+        "reportDate": "2026-03-31",
+        "totalOrgs": 8.0,
+        "totalShares": 4797709332.0,
+        "totalRatio": 53.03444658
+      }
+    ],
+    "fundHoldings": [
+      {
+        "reportDate": "2026-03-31",
+        "fundCode": "159819",
+        "fundName": "易方达中证人工智能主题ETF",
+        "shares": 32475096.0,
+        "value": 987892420.32,
+        "ratio": 0.35898355,
+        "navRatio": 4.46
+      },
+      {
+        "reportDate": "2026-03-31",
+        "fundCode": "515070",
+        "fundName": "华夏中证人工智能主题ETF",
+        "shares": 14319381.0,
+        "value": 435595570.02,
+        "ratio": 0.15828813,
+        "navRatio": 4.46
+      },
+      {
+        "reportDate": "2026-03-31",
+        "fundCode": "162605",
+        "fundName": "景顺长城鼎益混合(LOF)A",
+        "shares": 13000000.0,
+        "value": 395460000.0,
+        "ratio": 0.14370354,
+        "navRatio": 6.23
+      },
+      {
+        "reportDate": "2026-03-31",
+        "fundCode": "003133",
+        "fundName": "易方达裕鑫债券A",
+        "shares": 10784783.0,
+        "value": 328073098.86,
+        "ratio": 0.11921627,
+        "navRatio": 1.66
+      },
+      {
+        "reportDate": "2026-03-31",
+        "fundCode": "512950",
+        "fundName": "华夏中证央企ETF",
+        "shares": 9515580.0,
+        "value": 289463943.6,
+        "ratio": 0.10518635,
+        "navRatio": 4.86
+      },
+      {
+        "reportDate": "2026-03-31",
+        "fundCode": "512960",
+        "fundName": "博时央企结构调整ETF",
+        "shares": 9095907.0,
+        "value": 276697490.94,
+        "ratio": 0.10054723,
+        "navRatio": 4.88
+      },
+      {
+        "reportDate": "2026-03-31",
+        "fundCode": "515900",
+        "fundName": "博时央企创新驱动ETF",
+        "shares": 5907504.0,
+        "value": 179706271.68,
+        "ratio": 0.06530225,
+        "navRatio": 4.74
+      },
+      {
+        "reportDate": "2026-03-31",
+        "fundCode": "011839",
+        "fundName": "天弘中证人工智能A",
+        "shares": 5894881.0,
+        "value": 179322280.02,
+        "ratio": 0.06516271,
+        "navRatio": 4.24
+      },
+      {
+        "reportDate": "2026-03-31",
+        "fundCode": "001955",
+        "fundName": "中欧养老混合A",
+        "shares": 5466242.0,
+        "value": 166283081.64,
+        "ratio": 0.06042449,
+        "navRatio": 10.01
+      },
+      {
+        "reportDate": "2026-03-31",
+        "fundCode": "159998",
+        "fundName": "天弘中证计算机主题ETF",
+        "shares": 4899848.0,
+        "value": 149053376.16,
+        "ratio": 0.0541635,
+        "navRatio": 7.09
+      }
+    ],
     "dividends": [
       {
         "noticeDate": "2026-04-18",
