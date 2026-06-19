@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-  <title>A股财务雷达</title>
+  <title>上市公司财务雷达</title>
   <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
   <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
   <script src="https://unpkg.com/@babel/standalone@7/babel.min.js"></script>
@@ -1575,7 +1575,7 @@
           <header className="border-b border-border px-4 py-3">
             <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-start md:items-center justify-between gap-3">
               <div>
-                <h1 className="text-gold font-bold text-lg tracking-wide">A股财务雷达</h1>
+                <h1 className="text-gold font-bold text-lg tracking-wide">上市公司财务雷达</h1>
                 <div className="text-txt-dim text-[10px]">Financial Radar / A-Share Report Analyzer</div>
               </div>
               <SearchBar onLoad={handleLoad} />
@@ -1619,7 +1619,7 @@
               </>
             ) : (
               <div className="text-center py-32">
-                <div className="text-gold text-2xl font-bold mb-4">A股财务雷达</div>
+                <div className="text-gold text-2xl font-bold mb-4">上市公司财务雷达</div>
                 <div className="text-txt-dim text-sm mb-8 max-w-md mx-auto leading-relaxed">
                   输入A股股票代码加载财务数据。数据来源于东方财富，由本地 ETL 预处理为 JSON。
                   支持数据透视、财务质量分析、企业表达解读、股东分红查看等功能。
@@ -1634,7 +1634,7 @@
           {/* Footer */}
           <footer className="border-t border-border mt-8 px-4 py-3" style={{ paddingBottom: 'max(12px, env(safe-area-inset-bottom))' }}>
             <div className="max-w-6xl mx-auto text-[10px] text-txt-dim text-center">
-              A股财务雷达 / 数据来源: 东方财富 / 仅供研究参考，不构成投资建议
+              上市公司财务雷达 / 数据来源: 东方财富 / 仅供研究参考，不构成投资建议
             </div>
           </footer>
         </div>
