@@ -1144,7 +1144,7 @@
       const chartInst = React.useRef(null);
 
       useEffect(() => {
-        fetch(`${DATA_BASE}/market_overview.json`)
+        fetch(`${DATA_BASE}/market_overview.json?v=2`)
           .then(r => r.ok ? r.json() : null)
           .then(d => { if (d) setData(d); })
           .catch(() => {});
