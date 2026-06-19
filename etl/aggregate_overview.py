@@ -416,6 +416,19 @@ def build_top_overseas(grouped: dict, classify: dict, profiles: dict) -> list:
         board = get_board(code)
         ratio = round(overseas_rev / total_rev * 100, 2)
 
+        # 读取总市值 (从 eastmoney quote 数据)
+        totalMV = None
+        em_path = os.path.join(EASTMONEY_DIR, f'{code}.json')
+        if os.path.exists(em_path):
+            try:
+                with open(em_path, 'r', encoding='utf-8') as f:
+                    em_data = json.load(f)
+                mv = em_data.get('quote', {}).get('totalMV')
+                if mv and mv > 0:
+                    totalMV = round(mv, 2)
+            except Exception:
+                pass
+
         # 计算 YoY
         yoy = None
         prev_items = grouped.get((code, prev_year), [])
@@ -441,6 +454,7 @@ def build_top_overseas(grouped: dict, classify: dict, profiles: dict) -> list:
             'totalRev': round(total_rev, 2),
             'ratio': ratio,
             'yoy': yoy,
+            'totalMV': totalMV,
         })
 
     # 按海外营收降序

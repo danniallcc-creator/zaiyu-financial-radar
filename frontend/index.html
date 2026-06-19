@@ -1496,6 +1496,9 @@
                       <th className="text-right py-2 px-2 text-txt-dim font-medium bg-bg cursor-pointer hover:text-gold"
                         onClick={() => handleLbSort('yoy')}>
                         同比 {lbSortKey==='yoy' ? (lbSortAsc?'↑':'↓') : ''}</th>
+                      <th className="text-right py-2 px-2 text-txt-dim font-medium bg-bg cursor-pointer hover:text-gold"
+                        onClick={() => handleLbSort('totalMV')}>
+                        总市值 {lbSortKey==='totalMV' ? (lbSortAsc?'↑':'↓') : ''}</th>
                     </tr>
                   </thead>
                   <tbody>
@@ -1515,6 +1518,7 @@
                         <td className={`py-1.5 px-2 text-right font-mono ${yoyColor(s.yoy)}`}>
                           {s.yoy != null ? (s.yoy >= 0 ? '+' : '') + s.yoy.toFixed(1) + '%' : '-'}
                         </td>
+                        <td className="py-1.5 px-2 text-right font-mono">{s.totalMV ? fmtRev(s.totalMV) : '-'}</td>
                       </tr>
                     ))}
                   </tbody>
