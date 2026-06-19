@@ -1489,7 +1489,10 @@
                       <th className="text-left py-2 px-2 text-txt-dim font-medium bg-bg">行业</th>
                       <th className="text-right py-2 px-2 text-txt-dim font-medium bg-bg cursor-pointer hover:text-gold"
                         onClick={() => handleLbSort('totalRev')}>
-                        总营收 {lbSortKey==='totalRev' ? (lbSortAsc?'↑':'↓') : ''}</th>
+                        {data.meta?.latestYear || ''}总营收 {lbSortKey==='totalRev' ? (lbSortAsc?'↑':'↓') : ''}</th>
+                      <th className="text-right py-2 px-2 text-txt-dim font-medium bg-bg cursor-pointer hover:text-gold"
+                        onClick={() => handleLbSort('totalRevYoy')}>
+                        营收同比 {lbSortKey==='totalRevYoy' ? (lbSortAsc?'↑':'↓') : ''}</th>
                       <th className="text-right py-2 px-2 text-txt-dim font-medium bg-bg cursor-pointer hover:text-gold"
                         onClick={() => handleLbSort('overseasRev')}>
                         海外收入 {lbSortKey==='overseasRev' ? (lbSortAsc?'↑':'↓') : ''}</th>
@@ -1517,6 +1520,9 @@
                         <td className="py-1.5 px-2 font-mono text-txt-dim">{s.code}</td>
                         <td className="py-1.5 px-2 text-txt-dim">{s.sw}</td>
                         <td className="py-1.5 px-2 text-right font-mono">{fmtRev(s.totalRev)}</td>
+                        <td className={`py-1.5 px-2 text-right font-mono ${yoyColor(s.totalRevYoy)}`}>
+                          {s.totalRevYoy != null ? (s.totalRevYoy >= 0 ? '+' : '') + s.totalRevYoy.toFixed(1) + '%' : '-'}
+                        </td>
                         <td className="py-1.5 px-2 text-right font-mono text-gold">{fmtRev(s.overseasRev)}</td>
                         <td className="py-1.5 px-2 text-right font-mono">{s.ratio?.toFixed(1) || '-'}%</td>
                         <td className={`py-1.5 px-2 text-right font-mono ${yoyColor(s.yoy)}`}>

@@ -431,6 +431,7 @@ def build_top_overseas(grouped: dict, classify: dict, profiles: dict) -> list:
 
         # 计算 YoY
         yoy = None
+        totalRevYoy = None
         prev_items = grouped.get((code, prev_year), [])
         if prev_items:
             prev_overseas = 0.0
@@ -444,6 +445,8 @@ def build_top_overseas(grouped: dict, classify: dict, profiles: dict) -> list:
                     prev_overseas += abs(income)
             if prev_overseas > 0:
                 yoy = round((overseas_rev - prev_overseas) / prev_overseas * 100, 2)
+            if prev_total > 0:
+                totalRevYoy = round((total_rev - prev_total) / prev_total * 100, 2)
 
         stocks.append({
             'code': code,
@@ -452,6 +455,7 @@ def build_top_overseas(grouped: dict, classify: dict, profiles: dict) -> list:
             'sw': shenwan,
             'overseasRev': round(overseas_rev, 2),
             'totalRev': round(total_rev, 2),
+            'totalRevYoy': totalRevYoy,
             'ratio': ratio,
             'yoy': yoy,
             'totalMV': totalMV,
@@ -525,6 +529,11 @@ def main():
                 if not rdate.startswith('_'):
                     period_coverage[f'{ptype}:{rdate}'] = pdata.get('_coverage', 0)
     meta['periodCoverage'] = period_coverage
+
+    # 提取最新年报年份
+    annual_dates = sorted([k for k in result_data.get('annual', {}).keys() if not k.startswith('_')], reverse=True)
+    if annual_dates:
+        meta['latestYear'] = int(annual_dates[0][:4])
 
     # 6. 输出
     output = {
