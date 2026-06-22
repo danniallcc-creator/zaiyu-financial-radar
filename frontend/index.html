@@ -406,7 +406,7 @@
 
       // For US/HK: financial[] is empty, synthesize from income + balance
       const hasFinancial = financial && financial.length > 0;
-      const latest = hasFinancial ? financial[0] : useMemo(() => {
+      const synthesized = useMemo(() => {
         if (!income?.length) return {};
         const inc = income[0];
         const b = bal?.[0] || {};
@@ -417,6 +417,7 @@
           debtRatio: b.debtRatio, reportDate: inc.reportDate, reportName: inc.reportName || inc.reportDate,
         };
       }, [income, bal]);
+      const latest = hasFinancial ? financial[0] : synthesized;
 
       // Income trend for US/HK (when financial annuals empty)
       const incomeAnnuals = useMemo(() => {
