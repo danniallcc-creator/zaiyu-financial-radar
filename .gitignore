@@ -7,3 +7,6 @@ data/pdfs/*.pdf
 data/overseas_raw/
 data/all_a_*.json
 data/sina_all_a.json
+
+# ETL raw/intermediate data (too large for GitHub Pages)
+data/overseas_raw/
