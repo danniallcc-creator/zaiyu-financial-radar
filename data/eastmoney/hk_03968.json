@@ -1,0 +1,38 @@
+{
+  "code": "03968",
+  "name": "招商银行",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:29:39.241956",
+  "profile": {
+    "name": "招商银行",
+    "code": "03968",
+    "fullName": "招商银行",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [],
+  "balance": [],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "03968",
+    "name": "招商银行",
+    "price": 46.68,
+    "change": -0.48,
+    "changePct": -1.02,
+    "open": 47.16,
+    "high": 47.16,
+    "low": 46.06,
+    "prevClose": 47.16,
+    "volume": 16683504,
+    "amount": 777168986.3,
+    "pe": 7.08,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:29:38",
+    "pb": 7.09,
+    "totalMV": 1177262390000.0,
+    "circMV": 214303270000.00003,
+    "currency": "HKD"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "code": "01299",
+  "name": "友邦保险",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:29:52.293274",
+  "profile": {
+    "name": "友邦保险",
+    "code": "01299",
+    "fullName": "友邦保险",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [],
+  "balance": [],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "01299",
+    "name": "友邦保险",
+    "price": 74.25,
+    "change": 0.55,
+    "changePct": 0.75,
+    "open": 73.5,
+    "high": 74.7,
+    "low": 72.0,
+    "prevClose": 73.7,
+    "volume": 30047479,
+    "amount": 2216066485.98,
+    "pe": 15.84,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:29:51",
+    "pb": 2.63,
+    "totalMV": 768238380000.0,
+    "circMV": 768238380000.0,
+    "currency": "HKD"
+  }
+}

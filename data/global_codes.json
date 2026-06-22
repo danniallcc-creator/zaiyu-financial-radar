@@ -1,0 +1,1589 @@
+{
+  "us": [
+    {
+      "code": "AAPL",
+      "name": "",
+      "market": "us",
+      "secid": "105.AAPL",
+      "totalMV": 0
+    },
+    {
+      "code": "MSFT",
+      "name": "",
+      "market": "us",
+      "secid": "105.MSFT",
+      "totalMV": 0
+    },
+    {
+      "code": "GOOGL",
+      "name": "",
+      "market": "us",
+      "secid": "105.GOOGL",
+      "totalMV": 0
+    },
+    {
+      "code": "GOOG",
+      "name": "",
+      "market": "us",
+      "secid": "105.GOOG",
+      "totalMV": 0
+    },
+    {
+      "code": "AMZN",
+      "name": "",
+      "market": "us",
+      "secid": "105.AMZN",
+      "totalMV": 0
+    },
+    {
+      "code": "NVDA",
+      "name": "",
+      "market": "us",
+      "secid": "105.NVDA",
+      "totalMV": 0
+    },
+    {
+      "code": "META",
+      "name": "",
+      "market": "us",
+      "secid": "105.META",
+      "totalMV": 0
+    },
+    {
+      "code": "TSLA",
+      "name": "",
+      "market": "us",
+      "secid": "105.TSLA",
+      "totalMV": 0
+    },
+    {
+      "code": "BRK.B",
+      "name": "",
+      "market": "us",
+      "secid": "105.BRK.B",
+      "totalMV": 0
+    },
+    {
+      "code": "AVGO",
+      "name": "",
+      "market": "us",
+      "secid": "105.AVGO",
+      "totalMV": 0
+    },
+    {
+      "code": "LLY",
+      "name": "",
+      "market": "us",
+      "secid": "105.LLY",
+      "totalMV": 0
+    },
+    {
+      "code": "JPM",
+      "name": "",
+      "market": "us",
+      "secid": "105.JPM",
+      "totalMV": 0
+    },
+    {
+      "code": "V",
+      "name": "",
+      "market": "us",
+      "secid": "105.V",
+      "totalMV": 0
+    },
+    {
+      "code": "UNH",
+      "name": "",
+      "market": "us",
+      "secid": "105.UNH",
+      "totalMV": 0
+    },
+    {
+      "code": "XOM",
+      "name": "",
+      "market": "us",
+      "secid": "105.XOM",
+      "totalMV": 0
+    },
+    {
+      "code": "WMT",
+      "name": "",
+      "market": "us",
+      "secid": "105.WMT",
+      "totalMV": 0
+    },
+    {
+      "code": "MA",
+      "name": "",
+      "market": "us",
+      "secid": "105.MA",
+      "totalMV": 0
+    },
+    {
+      "code": "PG",
+      "name": "",
+      "market": "us",
+      "secid": "105.PG",
+      "totalMV": 0
+    },
+    {
+      "code": "JNJ",
+      "name": "",
+      "market": "us",
+      "secid": "105.JNJ",
+      "totalMV": 0
+    },
+    {
+      "code": "HD",
+      "name": "",
+      "market": "us",
+      "secid": "105.HD",
+      "totalMV": 0
+    },
+    {
+      "code": "COST",
+      "name": "",
+      "market": "us",
+      "secid": "105.COST",
+      "totalMV": 0
+    },
+    {
+      "code": "MRK",
+      "name": "",
+      "market": "us",
+      "secid": "105.MRK",
+      "totalMV": 0
+    },
+    {
+      "code": "ABBV",
+      "name": "",
+      "market": "us",
+      "secid": "105.ABBV",
+      "totalMV": 0
+    },
+    {
+      "code": "BAC",
+      "name": "",
+      "market": "us",
+      "secid": "105.BAC",
+      "totalMV": 0
+    },
+    {
+      "code": "KO",
+      "name": "",
+      "market": "us",
+      "secid": "105.KO",
+      "totalMV": 0
+    },
+    {
+      "code": "ORCL",
+      "name": "",
+      "market": "us",
+      "secid": "105.ORCL",
+      "totalMV": 0
+    },
+    {
+      "code": "PEP",
+      "name": "",
+      "market": "us",
+      "secid": "105.PEP",
+      "totalMV": 0
+    },
+    {
+      "code": "TMO",
+      "name": "",
+      "market": "us",
+      "secid": "105.TMO",
+      "totalMV": 0
+    },
+    {
+      "code": "DIS",
+      "name": "",
+      "market": "us",
+      "secid": "105.DIS",
+      "totalMV": 0
+    },
+    {
+      "code": "CVS",
+      "name": "",
+      "market": "us",
+      "secid": "105.CVS",
+      "totalMV": 0
+    },
+    {
+      "code": "CRM",
+      "name": "",
+      "market": "us",
+      "secid": "105.CRM",
+      "totalMV": 0
+    },
+    {
+      "code": "ACN",
+      "name": "",
+      "market": "us",
+      "secid": "105.ACN",
+      "totalMV": 0
+    },
+    {
+      "code": "MCD",
+      "name": "",
+      "market": "us",
+      "secid": "105.MCD",
+      "totalMV": 0
+    },
+    {
+      "code": "LIN",
+      "name": "",
+      "market": "us",
+      "secid": "105.LIN",
+      "totalMV": 0
+    },
+    {
+      "code": "ABT",
+      "name": "",
+      "market": "us",
+      "secid": "105.ABT",
+      "totalMV": 0
+    },
+    {
+      "code": "NKE",
+      "name": "",
+      "market": "us",
+      "secid": "105.NKE",
+      "totalMV": 0
+    },
+    {
+      "code": "CSCO",
+      "name": "",
+      "market": "us",
+      "secid": "105.CSCO",
+      "totalMV": 0
+    },
+    {
+      "code": "ADBE",
+      "name": "",
+      "market": "us",
+      "secid": "105.ADBE",
+      "totalMV": 0
+    },
+    {
+      "code": "QCOM",
+      "name": "",
+      "market": "us",
+      "secid": "105.QCOM",
+      "totalMV": 0
+    },
+    {
+      "code": "TXN",
+      "name": "",
+      "market": "us",
+      "secid": "105.TXN",
+      "totalMV": 0
+    },
+    {
+      "code": "VZ",
+      "name": "",
+      "market": "us",
+      "secid": "105.VZ",
+      "totalMV": 0
+    },
+    {
+      "code": "T",
+      "name": "",
+      "market": "us",
+      "secid": "105.T",
+      "totalMV": 0
+    },
+    {
+      "code": "INTU",
+      "name": "",
+      "market": "us",
+      "secid": "105.INTU",
+      "totalMV": 0
+    },
+    {
+      "code": "AMGN",
+      "name": "",
+      "market": "us",
+      "secid": "105.AMGN",
+      "totalMV": 0
+    },
+    {
+      "code": "ISRG",
+      "name": "",
+      "market": "us",
+      "secid": "105.ISRG",
+      "totalMV": 0
+    },
+    {
+      "code": "IBM",
+      "name": "",
+      "market": "us",
+      "secid": "105.IBM",
+      "totalMV": 0
+    },
+    {
+      "code": "CAT",
+      "name": "",
+      "market": "us",
+      "secid": "105.CAT",
+      "totalMV": 0
+    },
+    {
+      "code": "HON",
+      "name": "",
+      "market": "us",
+      "secid": "105.HON",
+      "totalMV": 0
+    },
+    {
+      "code": "DHR",
+      "name": "",
+      "market": "us",
+      "secid": "105.DHR",
+      "totalMV": 0
+    },
+    {
+      "code": "GE",
+      "name": "",
+      "market": "us",
+      "secid": "105.GE",
+      "totalMV": 0
+    },
+    {
+      "code": "PM",
+      "name": "",
+      "market": "us",
+      "secid": "105.PM",
+      "totalMV": 0
+    },
+    {
+      "code": "RTX",
+      "name": "",
+      "market": "us",
+      "secid": "105.RTX",
+      "totalMV": 0
+    },
+    {
+      "code": "UPS",
+      "name": "",
+      "market": "us",
+      "secid": "105.UPS",
+      "totalMV": 0
+    },
+    {
+      "code": "GS",
+      "name": "",
+      "market": "us",
+      "secid": "105.GS",
+      "totalMV": 0
+    },
+    {
+      "code": "BK",
+      "name": "",
+      "market": "us",
+      "secid": "105.BK",
+      "totalMV": 0
+    },
+    {
+      "code": "SCHW",
+      "name": "",
+      "market": "us",
+      "secid": "105.SCHW",
+      "totalMV": 0
+    },
+    {
+      "code": "AXP",
+      "name": "",
+      "market": "us",
+      "secid": "105.AXP",
+      "totalMV": 0
+    },
+    {
+      "code": "CB",
+      "name": "",
+      "market": "us",
+      "secid": "105.CB",
+      "totalMV": 0
+    },
+    {
+      "code": "MS",
+      "name": "",
+      "market": "us",
+      "secid": "105.MS",
+      "totalMV": 0
+    },
+    {
+      "code": "C",
+      "name": "",
+      "market": "us",
+      "secid": "105.C",
+      "totalMV": 0
+    },
+    {
+      "code": "PFE",
+      "name": "",
+      "market": "us",
+      "secid": "105.PFE",
+      "totalMV": 0
+    },
+    {
+      "code": "UNP",
+      "name": "",
+      "market": "us",
+      "secid": "105.UNP",
+      "totalMV": 0
+    },
+    {
+      "code": "BA",
+      "name": "",
+      "market": "us",
+      "secid": "105.BA",
+      "totalMV": 0
+    },
+    {
+      "code": "NEE",
+      "name": "",
+      "market": "us",
+      "secid": "105.NEE",
+      "totalMV": 0
+    },
+    {
+      "code": "LOW",
+      "name": "",
+      "market": "us",
+      "secid": "105.LOW",
+      "totalMV": 0
+    },
+    {
+      "code": "SPGI",
+      "name": "",
+      "market": "us",
+      "secid": "105.SPGI",
+      "totalMV": 0
+    },
+    {
+      "code": "TJX",
+      "name": "",
+      "market": "us",
+      "secid": "105.TJX",
+      "totalMV": 0
+    },
+    {
+      "code": "ADP",
+      "name": "",
+      "market": "us",
+      "secid": "105.ADP",
+      "totalMV": 0
+    },
+    {
+      "code": "NOW",
+      "name": "",
+      "market": "us",
+      "secid": "105.NOW",
+      "totalMV": 0
+    },
+    {
+      "code": "VRTX",
+      "name": "",
+      "market": "us",
+      "secid": "105.VRTX",
+      "totalMV": 0
+    },
+    {
+      "code": "AMAT",
+      "name": "",
+      "market": "us",
+      "secid": "105.AMAT",
+      "totalMV": 0
+    },
+    {
+      "code": "PANW",
+      "name": "",
+      "market": "us",
+      "secid": "105.PANW",
+      "totalMV": 0
+    },
+    {
+      "code": "LRCX",
+      "name": "",
+      "market": "us",
+      "secid": "105.LRCX",
+      "totalMV": 0
+    },
+    {
+      "code": "MU",
+      "name": "",
+      "market": "us",
+      "secid": "105.MU",
+      "totalMV": 0
+    },
+    {
+      "code": "ADI",
+      "name": "",
+      "market": "us",
+      "secid": "105.ADI",
+      "totalMV": 0
+    },
+    {
+      "code": "SBUX",
+      "name": "",
+      "market": "us",
+      "secid": "105.SBUX",
+      "totalMV": 0
+    },
+    {
+      "code": "GILD",
+      "name": "",
+      "market": "us",
+      "secid": "105.GILD",
+      "totalMV": 0
+    },
+    {
+      "code": "REGN",
+      "name": "",
+      "market": "us",
+      "secid": "105.REGN",
+      "totalMV": 0
+    },
+    {
+      "code": "MELI",
+      "name": "",
+      "market": "us",
+      "secid": "105.MELI",
+      "totalMV": 0
+    },
+    {
+      "code": "LULU",
+      "name": "",
+      "market": "us",
+      "secid": "105.LULU",
+      "totalMV": 0
+    },
+    {
+      "code": "PYPL",
+      "name": "",
+      "market": "us",
+      "secid": "105.PYPL",
+      "totalMV": 0
+    },
+    {
+      "code": "CRWD",
+      "name": "",
+      "market": "us",
+      "secid": "105.CRWD",
+      "totalMV": 0
+    },
+    {
+      "code": "SNPS",
+      "name": "",
+      "market": "us",
+      "secid": "105.SNPS",
+      "totalMV": 0
+    },
+    {
+      "code": "CDNS",
+      "name": "",
+      "market": "us",
+      "secid": "105.CDNS",
+      "totalMV": 0
+    },
+    {
+      "code": "MAR",
+      "name": "",
+      "market": "us",
+      "secid": "105.MAR",
+      "totalMV": 0
+    },
+    {
+      "code": "ORLY",
+      "name": "",
+      "market": "us",
+      "secid": "105.ORLY",
+      "totalMV": 0
+    },
+    {
+      "code": "CTAS",
+      "name": "",
+      "market": "us",
+      "secid": "105.CTAS",
+      "totalMV": 0
+    },
+    {
+      "code": "ROST",
+      "name": "",
+      "market": "us",
+      "secid": "105.ROST",
+      "totalMV": 0
+    },
+    {
+      "code": "KLAC",
+      "name": "",
+      "market": "us",
+      "secid": "105.KLAC",
+      "totalMV": 0
+    },
+    {
+      "code": "FTNT",
+      "name": "",
+      "market": "us",
+      "secid": "105.FTNT",
+      "totalMV": 0
+    },
+    {
+      "code": "MRVL",
+      "name": "",
+      "market": "us",
+      "secid": "105.MRVL",
+      "totalMV": 0
+    },
+    {
+      "code": "CHTR",
+      "name": "",
+      "market": "us",
+      "secid": "105.CHTR",
+      "totalMV": 0
+    },
+    {
+      "code": "AEP",
+      "name": "",
+      "market": "us",
+      "secid": "105.AEP",
+      "totalMV": 0
+    },
+    {
+      "code": "PCAR",
+      "name": "",
+      "market": "us",
+      "secid": "105.PCAR",
+      "totalMV": 0
+    },
+    {
+      "code": "NXPI",
+      "name": "",
+      "market": "us",
+      "secid": "105.NXPI",
+      "totalMV": 0
+    },
+    {
+      "code": "ABNB",
+      "name": "",
+      "market": "us",
+      "secid": "105.ABNB",
+      "totalMV": 0
+    },
+    {
+      "code": "WDAY",
+      "name": "",
+      "market": "us",
+      "secid": "105.WDAY",
+      "totalMV": 0
+    },
+    {
+      "code": "PAYX",
+      "name": "",
+      "market": "us",
+      "secid": "105.PAYX",
+      "totalMV": 0
+    },
+    {
+      "code": "MCHP",
+      "name": "",
+      "market": "us",
+      "secid": "105.MCHP",
+      "totalMV": 0
+    },
+    {
+      "code": "KDP",
+      "name": "",
+      "market": "us",
+      "secid": "105.KDP",
+      "totalMV": 0
+    },
+    {
+      "code": "CTSH",
+      "name": "",
+      "market": "us",
+      "secid": "105.CTSH",
+      "totalMV": 0
+    },
+    {
+      "code": "ON",
+      "name": "",
+      "market": "us",
+      "secid": "105.ON",
+      "totalMV": 0
+    },
+    {
+      "code": "DXCM",
+      "name": "",
+      "market": "us",
+      "secid": "105.DXCM",
+      "totalMV": 0
+    },
+    {
+      "code": "FAST",
+      "name": "",
+      "market": "us",
+      "secid": "105.FAST",
+      "totalMV": 0
+    },
+    {
+      "code": "EXC",
+      "name": "",
+      "market": "us",
+      "secid": "105.EXC",
+      "totalMV": 0
+    },
+    {
+      "code": "MNST",
+      "name": "",
+      "market": "us",
+      "secid": "105.MNST",
+      "totalMV": 0
+    },
+    {
+      "code": "KHC",
+      "name": "",
+      "market": "us",
+      "secid": "105.KHC",
+      "totalMV": 0
+    },
+    {
+      "code": "EA",
+      "name": "",
+      "market": "us",
+      "secid": "105.EA",
+      "totalMV": 0
+    },
+    {
+      "code": "VRSK",
+      "name": "",
+      "market": "us",
+      "secid": "105.VRSK",
+      "totalMV": 0
+    },
+    {
+      "code": "BKR",
+      "name": "",
+      "market": "us",
+      "secid": "105.BKR",
+      "totalMV": 0
+    },
+    {
+      "code": "IDXX",
+      "name": "",
+      "market": "us",
+      "secid": "105.IDXX",
+      "totalMV": 0
+    },
+    {
+      "code": "CCEP",
+      "name": "",
+      "market": "us",
+      "secid": "105.CCEP",
+      "totalMV": 0
+    },
+    {
+      "code": "CPRT",
+      "name": "",
+      "market": "us",
+      "secid": "105.CPRT",
+      "totalMV": 0
+    },
+    {
+      "code": "TTWO",
+      "name": "",
+      "market": "us",
+      "secid": "105.TTWO",
+      "totalMV": 0
+    },
+    {
+      "code": "FANG",
+      "name": "",
+      "market": "us",
+      "secid": "105.FANG",
+      "totalMV": 0
+    },
+    {
+      "code": "GEHC",
+      "name": "",
+      "market": "us",
+      "secid": "105.GEHC",
+      "totalMV": 0
+    },
+    {
+      "code": "ZS",
+      "name": "",
+      "market": "us",
+      "secid": "105.ZS",
+      "totalMV": 0
+    },
+    {
+      "code": "BIIB",
+      "name": "",
+      "market": "us",
+      "secid": "105.BIIB",
+      "totalMV": 0
+    },
+    {
+      "code": "ANSS",
+      "name": "",
+      "market": "us",
+      "secid": "105.ANSS",
+      "totalMV": 0
+    },
+    {
+      "code": "WBD",
+      "name": "",
+      "market": "us",
+      "secid": "105.WBD",
+      "totalMV": 0
+    },
+    {
+      "code": "ILMN",
+      "name": "",
+      "market": "us",
+      "secid": "105.ILMN",
+      "totalMV": 0
+    },
+    {
+      "code": "GFS",
+      "name": "",
+      "market": "us",
+      "secid": "105.GFS",
+      "totalMV": 0
+    },
+    {
+      "code": "CDW",
+      "name": "",
+      "market": "us",
+      "secid": "105.CDW",
+      "totalMV": 0
+    },
+    {
+      "code": "XEL",
+      "name": "",
+      "market": "us",
+      "secid": "105.XEL",
+      "totalMV": 0
+    },
+    {
+      "code": "DLTR",
+      "name": "",
+      "market": "us",
+      "secid": "105.DLTR",
+      "totalMV": 0
+    },
+    {
+      "code": "TEAM",
+      "name": "",
+      "market": "us",
+      "secid": "105.TEAM",
+      "totalMV": 0
+    },
+    {
+      "code": "DASH",
+      "name": "",
+      "market": "us",
+      "secid": "105.DASH",
+      "totalMV": 0
+    },
+    {
+      "code": "CSGP",
+      "name": "",
+      "market": "us",
+      "secid": "105.CSGP",
+      "totalMV": 0
+    },
+    {
+      "code": "SIRI",
+      "name": "",
+      "market": "us",
+      "secid": "105.SIRI",
+      "totalMV": 0
+    },
+    {
+      "code": "JBHT",
+      "name": "",
+      "market": "us",
+      "secid": "105.JBHT",
+      "totalMV": 0
+    },
+    {
+      "code": "PLD",
+      "name": "",
+      "market": "us",
+      "secid": "105.PLD",
+      "totalMV": 0
+    },
+    {
+      "code": "MMC",
+      "name": "",
+      "market": "us",
+      "secid": "105.MMC",
+      "totalMV": 0
+    },
+    {
+      "code": "SO",
+      "name": "",
+      "market": "us",
+      "secid": "105.SO",
+      "totalMV": 0
+    },
+    {
+      "code": "DUK",
+      "name": "",
+      "market": "us",
+      "secid": "105.DUK",
+      "totalMV": 0
+    },
+    {
+      "code": "MDLZ",
+      "name": "",
+      "market": "us",
+      "secid": "105.MDLZ",
+      "totalMV": 0
+    },
+    {
+      "code": "BDX",
+      "name": "",
+      "market": "us",
+      "secid": "105.BDX",
+      "totalMV": 0
+    },
+    {
+      "code": "CI",
+      "name": "",
+      "market": "us",
+      "secid": "105.CI",
+      "totalMV": 0
+    },
+    {
+      "code": "BSX",
+      "name": "",
+      "market": "us",
+      "secid": "105.BSX",
+      "totalMV": 0
+    },
+    {
+      "code": "ZTS",
+      "name": "",
+      "market": "us",
+      "secid": "105.ZTS",
+      "totalMV": 0
+    },
+    {
+      "code": "SHW",
+      "name": "",
+      "market": "us",
+      "secid": "105.SHW",
+      "totalMV": 0
+    },
+    {
+      "code": "CL",
+      "name": "",
+      "market": "us",
+      "secid": "105.CL",
+      "totalMV": 0
+    },
+    {
+      "code": "CME",
+      "name": "",
+      "market": "us",
+      "secid": "105.CME",
+      "totalMV": 0
+    },
+    {
+      "code": "ICE",
+      "name": "",
+      "market": "us",
+      "secid": "105.ICE",
+      "totalMV": 0
+    },
+    {
+      "code": "MCO",
+      "name": "",
+      "market": "us",
+      "secid": "105.MCO",
+      "totalMV": 0
+    },
+    {
+      "code": "AJG",
+      "name": "",
+      "market": "us",
+      "secid": "105.AJG",
+      "totalMV": 0
+    },
+    {
+      "code": "AON",
+      "name": "",
+      "market": "us",
+      "secid": "105.AON",
+      "totalMV": 0
+    },
+    {
+      "code": "MSI",
+      "name": "",
+      "market": "us",
+      "secid": "105.MSI",
+      "totalMV": 0
+    },
+    {
+      "code": "ITW",
+      "name": "",
+      "market": "us",
+      "secid": "105.ITW",
+      "totalMV": 0
+    },
+    {
+      "code": "WM",
+      "name": "",
+      "market": "us",
+      "secid": "105.WM",
+      "totalMV": 0
+    },
+    {
+      "code": "EQIX",
+      "name": "",
+      "market": "us",
+      "secid": "105.EQIX",
+      "totalMV": 0
+    },
+    {
+      "code": "COP",
+      "name": "",
+      "market": "us",
+      "secid": "105.COP",
+      "totalMV": 0
+    },
+    {
+      "code": "EOG",
+      "name": "",
+      "market": "us",
+      "secid": "105.EOG",
+      "totalMV": 0
+    },
+    {
+      "code": "SLB",
+      "name": "",
+      "market": "us",
+      "secid": "105.SLB",
+      "totalMV": 0
+    },
+    {
+      "code": "HAL",
+      "name": "",
+      "market": "us",
+      "secid": "105.HAL",
+      "totalMV": 0
+    },
+    {
+      "code": "FCX",
+      "name": "",
+      "market": "us",
+      "secid": "105.FCX",
+      "totalMV": 0
+    },
+    {
+      "code": "NEM",
+      "name": "",
+      "market": "us",
+      "secid": "105.NEM",
+      "totalMV": 0
+    },
+    {
+      "code": "NUE",
+      "name": "",
+      "market": "us",
+      "secid": "105.NUE",
+      "totalMV": 0
+    },
+    {
+      "code": "DOW",
+      "name": "",
+      "market": "us",
+      "secid": "105.DOW",
+      "totalMV": 0
+    },
+    {
+      "code": "APD",
+      "name": "",
+      "market": "us",
+      "secid": "105.APD",
+      "totalMV": 0
+    },
+    {
+      "code": "ECL",
+      "name": "",
+      "market": "us",
+      "secid": "105.ECL",
+      "totalMV": 0
+    },
+    {
+      "code": "NSC",
+      "name": "",
+      "market": "us",
+      "secid": "105.NSC",
+      "totalMV": 0
+    },
+    {
+      "code": "CSX",
+      "name": "",
+      "market": "us",
+      "secid": "105.CSX",
+      "totalMV": 0
+    },
+    {
+      "code": "DE",
+      "name": "",
+      "market": "us",
+      "secid": "105.DE",
+      "totalMV": 0
+    },
+    {
+      "code": "LMT",
+      "name": "",
+      "market": "us",
+      "secid": "105.LMT",
+      "totalMV": 0
+    },
+    {
+      "code": "GD",
+      "name": "",
+      "market": "us",
+      "secid": "105.GD",
+      "totalMV": 0
+    },
+    {
+      "code": "NOC",
+      "name": "",
+      "market": "us",
+      "secid": "105.NOC",
+      "totalMV": 0
+    },
+    {
+      "code": "EMR",
+      "name": "",
+      "market": "us",
+      "secid": "105.EMR",
+      "totalMV": 0
+    },
+    {
+      "code": "ROK",
+      "name": "",
+      "market": "us",
+      "secid": "105.ROK",
+      "totalMV": 0
+    },
+    {
+      "code": "ETN",
+      "name": "",
+      "market": "us",
+      "secid": "105.ETN",
+      "totalMV": 0
+    },
+    {
+      "code": "IT",
+      "name": "",
+      "market": "us",
+      "secid": "105.IT",
+      "totalMV": 0
+    },
+    {
+      "code": "CVX",
+      "name": "",
+      "market": "us",
+      "secid": "105.CVX",
+      "totalMV": 0
+    },
+    {
+      "code": "HES",
+      "name": "",
+      "market": "us",
+      "secid": "105.HES",
+      "totalMV": 0
+    },
+    {
+      "code": "OXY",
+      "name": "",
+      "market": "us",
+      "secid": "105.OXY",
+      "totalMV": 0
+    },
+    {
+      "code": "F",
+      "name": "",
+      "market": "us",
+      "secid": "105.F",
+      "totalMV": 0
+    },
+    {
+      "code": "GM",
+      "name": "",
+      "market": "us",
+      "secid": "105.GM",
+      "totalMV": 0
+    },
+    {
+      "code": "STLA",
+      "name": "",
+      "market": "us",
+      "secid": "105.STLA",
+      "totalMV": 0
+    }
+  ],
+  "hk": [
+    {
+      "code": "00700",
+      "name": "",
+      "market": "hk",
+      "secid": "116.00700",
+      "totalMV": 0
+    },
+    {
+      "code": "09988",
+      "name": "",
+      "market": "hk",
+      "secid": "116.09988",
+      "totalMV": 0
+    },
+    {
+      "code": "03690",
+      "name": "",
+      "market": "hk",
+      "secid": "116.03690",
+      "totalMV": 0
+    },
+    {
+      "code": "00941",
+      "name": "",
+      "market": "hk",
+      "secid": "116.00941",
+      "totalMV": 0
+    },
+    {
+      "code": "01211",
+      "name": "",
+      "market": "hk",
+      "secid": "116.01211",
+      "totalMV": 0
+    },
+    {
+      "code": "01810",
+      "name": "",
+      "market": "hk",
+      "secid": "116.01810",
+      "totalMV": 0
+    },
+    {
+      "code": "09618",
+      "name": "",
+      "market": "hk",
+      "secid": "116.09618",
+      "totalMV": 0
+    },
+    {
+      "code": "02318",
+      "name": "",
+      "market": "hk",
+      "secid": "116.02318",
+      "totalMV": 0
+    },
+    {
+      "code": "01088",
+      "name": "",
+      "market": "hk",
+      "secid": "116.01088",
+      "totalMV": 0
+    },
+    {
+      "code": "03968",
+      "name": "",
+      "market": "hk",
+      "secid": "116.03968",
+      "totalMV": 0
+    },
+    {
+      "code": "02269",
+      "name": "",
+      "market": "hk",
+      "secid": "116.02269",
+      "totalMV": 0
+    },
+    {
+      "code": "00939",
+      "name": "",
+      "market": "hk",
+      "secid": "116.00939",
+      "totalMV": 0
+    },
+    {
+      "code": "01398",
+      "name": "",
+      "market": "hk",
+      "secid": "116.01398",
+      "totalMV": 0
+    },
+    {
+      "code": "03988",
+      "name": "",
+      "market": "hk",
+      "secid": "116.03988",
+      "totalMV": 0
+    },
+    {
+      "code": "01929",
+      "name": "",
+      "market": "hk",
+      "secid": "116.01929",
+      "totalMV": 0
+    },
+    {
+      "code": "00005",
+      "name": "",
+      "market": "hk",
+      "secid": "116.00005",
+      "totalMV": 0
+    },
+    {
+      "code": "01299",
+      "name": "",
+      "market": "hk",
+      "secid": "116.01299",
+      "totalMV": 0
+    },
+    {
+      "code": "09888",
+      "name": "",
+      "market": "hk",
+      "secid": "116.09888",
+      "totalMV": 0
+    },
+    {
+      "code": "09999",
+      "name": "",
+      "market": "hk",
+      "secid": "116.09999",
+      "totalMV": 0
+    },
+    {
+      "code": "02015",
+      "name": "",
+      "market": "hk",
+      "secid": "116.02015",
+      "totalMV": 0
+    },
+    {
+      "code": "09868",
+      "name": "",
+      "market": "hk",
+      "secid": "116.09868",
+      "totalMV": 0
+    },
+    {
+      "code": "09866",
+      "name": "",
+      "market": "hk",
+      "secid": "116.09866",
+      "totalMV": 0
+    },
+    {
+      "code": "00981",
+      "name": "",
+      "market": "hk",
+      "secid": "116.00981",
+      "totalMV": 0
+    },
+    {
+      "code": "00992",
+      "name": "",
+      "market": "hk",
+      "secid": "116.00992",
+      "totalMV": 0
+    },
+    {
+      "code": "02382",
+      "name": "",
+      "market": "hk",
+      "secid": "116.02382",
+      "totalMV": 0
+    },
+    {
+      "code": "01038",
+      "name": "",
+      "market": "hk",
+      "secid": "116.01038",
+      "totalMV": 0
+    },
+    {
+      "code": "02899",
+      "name": "",
+      "market": "hk",
+      "secid": "116.02899",
+      "totalMV": 0
+    },
+    {
+      "code": "01928",
+      "name": "",
+      "market": "hk",
+      "secid": "116.01928",
+      "totalMV": 0
+    },
+    {
+      "code": "01024",
+      "name": "",
+      "market": "hk",
+      "secid": "116.01024",
+      "totalMV": 0
+    },
+    {
+      "code": "09626",
+      "name": "",
+      "market": "hk",
+      "secid": "116.09626",
+      "totalMV": 0
+    },
+    {
+      "code": "02333",
+      "name": "",
+      "market": "hk",
+      "secid": "116.02333",
+      "totalMV": 0
+    },
+    {
+      "code": "00027",
+      "name": "",
+      "market": "hk",
+      "secid": "116.00027",
+      "totalMV": 0
+    },
+    {
+      "code": "06030",
+      "name": "",
+      "market": "hk",
+      "secid": "116.06030",
+      "totalMV": 0
+    },
+    {
+      "code": "06881",
+      "name": "",
+      "market": "hk",
+      "secid": "116.06881",
+      "totalMV": 0
+    },
+    {
+      "code": "00388",
+      "name": "",
+      "market": "hk",
+      "secid": "116.00388",
+      "totalMV": 0
+    },
+    {
+      "code": "02020",
+      "name": "",
+      "market": "hk",
+      "secid": "116.02020",
+      "totalMV": 0
+    },
+    {
+      "code": "06862",
+      "name": "",
+      "market": "hk",
+      "secid": "116.06862",
+      "totalMV": 0
+    },
+    {
+      "code": "00175",
+      "name": "",
+      "market": "hk",
+      "secid": "116.00175",
+      "totalMV": 0
+    },
+    {
+      "code": "02313",
+      "name": "",
+      "market": "hk",
+      "secid": "116.02313",
+      "totalMV": 0
+    },
+    {
+      "code": "00291",
+      "name": "",
+      "market": "hk",
+      "secid": "116.00291",
+      "totalMV": 0
+    },
+    {
+      "code": "00002",
+      "name": "",
+      "market": "hk",
+      "secid": "116.00002",
+      "totalMV": 0
+    },
+    {
+      "code": "00883",
+      "name": "",
+      "market": "hk",
+      "secid": "116.00883",
+      "totalMV": 0
+    },
+    {
+      "code": "00003",
+      "name": "",
+      "market": "hk",
+      "secid": "116.00003",
+      "totalMV": 0
+    },
+    {
+      "code": "01109",
+      "name": "",
+      "market": "hk",
+      "secid": "116.01109",
+      "totalMV": 0
+    },
+    {
+      "code": "02688",
+      "name": "",
+      "market": "hk",
+      "secid": "116.02688",
+      "totalMV": 0
+    },
+    {
+      "code": "03908",
+      "name": "",
+      "market": "hk",
+      "secid": "116.03908",
+      "totalMV": 0
+    },
+    {
+      "code": "01347",
+      "name": "",
+      "market": "hk",
+      "secid": "116.01347",
+      "totalMV": 0
+    },
+    {
+      "code": "00016",
+      "name": "",
+      "market": "hk",
+      "secid": "116.00016",
+      "totalMV": 0
+    },
+    {
+      "code": "00001",
+      "name": "",
+      "market": "hk",
+      "secid": "116.00001",
+      "totalMV": 0
+    },
+    {
+      "code": "00012",
+      "name": "",
+      "market": "hk",
+      "secid": "116.00012",
+      "totalMV": 0
+    }
+  ],
+  "fetchTime": "2026-06-22T23:12:39.774644"
+}

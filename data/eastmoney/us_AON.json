@@ -1,0 +1,38 @@
+{
+  "code": "AON",
+  "name": "怡安保险",
+  "market": "us",
+  "currency": "USD",
+  "fetchTime": "2026-06-22T23:26:42.503588",
+  "profile": {
+    "name": "怡安保险",
+    "code": "AON",
+    "fullName": "怡安保险",
+    "securityType": "美股"
+  },
+  "financial": [],
+  "income": [],
+  "balance": [],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "AON.N",
+    "name": "怡安保险",
+    "price": 315.88,
+    "change": -1.86,
+    "changePct": -0.59,
+    "open": 316.51,
+    "high": 319.65,
+    "low": 315.0,
+    "prevClose": 317.74,
+    "volume": 258427,
+    "amount": 81891981.0,
+    "pe": 17.34,
+    "turnover": 0.12,
+    "fetchTime": "2026-06-22T23:26:36",
+    "pb": 18.56,
+    "totalMV": 67464687000.0,
+    "circMV": 66787424000.0,
+    "currency": "USD"
+  }
+}

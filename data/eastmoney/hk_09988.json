@@ -1,0 +1,196 @@
+{
+  "code": "09988",
+  "name": "阿里巴巴-W",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:29:24.280931",
+  "profile": {
+    "name": "阿里巴巴-W",
+    "code": "09988",
+    "fullName": "阿里巴巴-W",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [
+    {
+      "reportDate": "2026-03-31",
+      "reportType": "年报",
+      "revenue": 1023670000000,
+      "revenueYoY": 2.74,
+      "totalProfit": 132172000000,
+      "totalProfitYoY": -18.12,
+      "totalExpenses": 407534000000,
+      "totalExpensesYoY": 2.38
+    },
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "三季报",
+      "revenue": 780290000000,
+      "revenueYoY": 2.68,
+      "totalExpenses": 323546000000,
+      "totalExpensesYoY": 5.31,
+      "totalProfit": 101500000000,
+      "totalProfitYoY": -28.82
+    },
+    {
+      "reportDate": "2025-09-30",
+      "reportType": "中报",
+      "revenue": 495447000000,
+      "revenueYoY": 3.27,
+      "totalProfit": 77409000000,
+      "totalProfitYoY": -8.94,
+      "totalExpenses": 208237000000,
+      "totalExpensesYoY": 9.83
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "一季报",
+      "totalExpenses": 111223000000,
+      "totalExpensesYoY": 14.51,
+      "revenue": 247652000000,
+      "revenueYoY": 1.82,
+      "totalProfit": 51247000000,
+      "totalProfitYoY": 50.35
+    },
+    {
+      "reportDate": "2025-03-31",
+      "reportType": "年报",
+      "revenue": 996347000000,
+      "revenueYoY": 5.86,
+      "totalExpenses": 398062000000,
+      "totalExpensesYoY": 12.18,
+      "totalProfit": 161421000000,
+      "totalProfitYoY": 71.98
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "三季报",
+      "totalExpenses": 307234000000,
+      "totalExpensesYoY": 9.31,
+      "revenue": 759893000000,
+      "revenueYoY": 5.64,
+      "totalProfit": 142594000000,
+      "totalProfitYoY": 63.49
+    },
+    {
+      "reportDate": "2024-09-30",
+      "reportType": "中报",
+      "totalExpenses": 189604000000,
+      "totalExpensesYoY": 7.16,
+      "totalProfit": 85011000000,
+      "totalProfitYoY": 18.87,
+      "revenue": 479739000000,
+      "revenueYoY": 4.53
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "一季报",
+      "revenue": 243236000000,
+      "revenueYoY": 3.88,
+      "totalProfit": 34085000000,
+      "totalProfitYoY": -12.65,
+      "totalExpenses": 97130000000,
+      "totalExpensesYoY": 5.8
+    },
+    {
+      "reportDate": "2024-03-31",
+      "reportType": "年报",
+      "revenue": 941168000000,
+      "revenueYoY": 8.34
+    }
+  ],
+  "balance": [
+    {
+      "reportDate": "2026-03-31",
+      "reportType": "年报",
+      "parentEquity": 134371000000,
+      "parentEquityYoY": -43.71,
+      "totalLiabilities": 476398000000,
+      "totalLiabilitiesYoY": 9.43,
+      "nonCurrentLiabilities": 1909570000000,
+      "nonCurrentLiabilitiesYoY": 5.84,
+      "currentAssets": 1298801000000,
+      "currentAssetsYoY": 14.92,
+      "accountsReceivable": 16983000000,
+      "accountsReceivableYoY": -18.78
+    },
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "三季报",
+      "parentEquity": 152405000000,
+      "parentEquityYoY": -30.88,
+      "totalLiabilities": 459811000000,
+      "totalLiabilitiesYoY": 0.54,
+      "nonCurrentLiabilities": 1878299000000,
+      "nonCurrentLiabilitiesYoY": 1.26,
+      "currentAssets": 1266083000000,
+      "currentAssetsYoY": 7.56,
+      "accountsReceivable": 18607000000,
+      "accountsReceivableYoY": -14.14
+    },
+    {
+      "reportDate": "2025-09-30",
+      "reportType": "中报",
+      "parentEquity": 202482000000,
+      "parentEquityYoY": 23.29,
+      "totalLiabilities": 444137000000,
+      "totalLiabilitiesYoY": -0.16,
+      "nonCurrentLiabilities": 1883880000000,
+      "nonCurrentLiabilitiesYoY": 6.87,
+      "currentAssets": 1237261000000,
+      "currentAssetsYoY": 7.25,
+      "accountsReceivable": 19429000000,
+      "accountsReceivableYoY": -15.18
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "一季报",
+      "parentEquity": 212444000000,
+      "parentEquityYoY": 11.34,
+      "totalLiabilities": 473627000000,
+      "totalLiabilitiesYoY": 2.32,
+      "nonCurrentLiabilities": 1847085000000,
+      "nonCurrentLiabilitiesYoY": 3.48,
+      "currentAssets": 1161014000000,
+      "currentAssetsYoY": 2.62,
+      "accountsReceivable": 20125000000,
+      "accountsReceivableYoY": -20.37
+    },
+    {
+      "reportDate": "2025-03-31",
+      "reportType": "年报",
+      "parentEquity": 238703000000,
+      "parentEquityYoY": -27.96,
+      "totalLiabilities": 435346000000,
+      "totalLiabilitiesYoY": 3.28,
+      "nonCurrentLiabilities": 1804227000000,
+      "nonCurrentLiabilitiesYoY": 2.23,
+      "currentAssets": 1130178000000,
+      "currentAssetsYoY": 11.68,
+      "accountsReceivable": 20911000000,
+      "accountsReceivableYoY": -22.41
+    }
+  ],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "09988",
+    "name": "阿里巴巴-W",
+    "price": 102.9,
+    "change": -2.0,
+    "changePct": -1.91,
+    "open": 102.8,
+    "high": 103.8,
+    "low": 100.8,
+    "prevClose": 104.9,
+    "volume": 99214294,
+    "amount": 10149385138.75,
+    "pe": 16.83,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:29:23",
+    "pb": 1.0,
+    "totalMV": 1974967099999.9998,
+    "circMV": 1974967099999.9998,
+    "currency": "HKD"
+  }
+}

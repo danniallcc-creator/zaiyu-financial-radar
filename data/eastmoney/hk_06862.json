@@ -1,0 +1,172 @@
+{
+  "code": "06862",
+  "name": "海底捞",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:30:29.064881",
+  "profile": {
+    "name": "海底捞",
+    "code": "06862",
+    "fullName": "海底捞",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "totalProfit": 5811695000,
+      "totalProfitYoY": -12.26,
+      "totalExpenses": 25699169000,
+      "totalExpensesYoY": -3.18,
+      "revenue": 43225355000,
+      "revenueYoY": 1.1
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "revenue": 20703294000,
+      "revenueYoY": -3.66,
+      "totalProfit": 2626953000,
+      "totalProfitYoY": -9.04,
+      "totalExpenses": 12459798000,
+      "totalExpensesYoY": -4.91
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "revenue": 42754687000,
+      "revenueYoY": 3.14,
+      "totalProfit": 6624055000,
+      "totalProfitYoY": 13.56,
+      "totalExpenses": 26543610000,
+      "totalExpensesYoY": 8.31
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "中报",
+      "revenue": 21490903000,
+      "revenueYoY": 13.79,
+      "totalProfit": 2888060000,
+      "totalProfitYoY": 2.64,
+      "totalExpenses": 13103691000,
+      "totalExpensesYoY": 16.99
+    },
+    {
+      "reportDate": "2023-12-31",
+      "reportType": "年报",
+      "revenue": 41453348000,
+      "revenueYoY": 33.55,
+      "totalExpenses": 24507134000,
+      "totalExpensesYoY": 35.16,
+      "totalProfit": 5833072000,
+      "totalProfitYoY": 175.45
+    },
+    {
+      "reportDate": "2023-06-30",
+      "reportType": "中报",
+      "revenue": 18885854000,
+      "revenueYoY": 24.61,
+      "totalExpenses": 11200834000,
+      "totalExpensesYoY": 29.06,
+      "totalProfit": 2813816000,
+      "totalProfitYoY": 1291.98
+    },
+    {
+      "reportDate": "2022-12-31",
+      "reportType": "年报",
+      "revenue": 31038634000,
+      "revenueYoY": -20.61,
+      "totalExpenses": 18132213000,
+      "totalExpensesYoY": -17.03,
+      "totalProfit": 2117641000,
+      "totalProfitYoY": 168.98
+    },
+    {
+      "reportDate": "2022-06-30",
+      "reportType": "中报",
+      "totalExpenses": 8679061000,
+      "totalExpensesYoY": -25.13
+    }
+  ],
+  "balance": [
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "parentEquity": 3103315000,
+      "parentEquityYoY": -47.58,
+      "totalLiabilities": 9323962000,
+      "totalLiabilitiesYoY": 31.25,
+      "nonCurrentLiabilities": 22090202000,
+      "nonCurrentLiabilitiesYoY": -3.03,
+      "currentAssets": 9662925000,
+      "currentAssetsYoY": -0.97,
+      "accountsReceivable": 49252000,
+      "accountsReceivableYoY": -5.64
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "parentEquity": 3244336000,
+      "parentEquityYoY": -48.27,
+      "totalLiabilities": 8553892000,
+      "totalLiabilitiesYoY": -17.89,
+      "nonCurrentLiabilities": 21115055000,
+      "nonCurrentLiabilitiesYoY": -16.78,
+      "currentAssets": 9316827000,
+      "currentAssetsYoY": 7.3,
+      "accountsReceivable": 49635000,
+      "accountsReceivableYoY": -12.61
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "parentEquity": 5920337000,
+      "parentEquityYoY": -22.76,
+      "totalLiabilities": 7103821000,
+      "totalLiabilitiesYoY": -1.91,
+      "nonCurrentLiabilities": 22781257000,
+      "nonCurrentLiabilitiesYoY": -7.68,
+      "currentAssets": 9757099000,
+      "currentAssetsYoY": -0.13,
+      "accountsReceivable": 52198000,
+      "accountsReceivableYoY": -29.17
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "中报",
+      "parentEquity": 6271945000,
+      "parentEquityYoY": 12.33,
+      "totalLiabilities": 10417988000,
+      "totalLiabilitiesYoY": 37.46,
+      "nonCurrentLiabilities": 25372669000,
+      "nonCurrentLiabilitiesYoY": 9.73,
+      "currentAssets": 8682736000,
+      "currentAssetsYoY": -12.83,
+      "accountsReceivable": 56795000,
+      "accountsReceivableYoY": -35.18
+    }
+  ],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "06862",
+    "name": "海底捞",
+    "price": 11.4,
+    "change": -0.13,
+    "changePct": -1.13,
+    "open": 11.52,
+    "high": 11.52,
+    "low": 11.13,
+    "prevClose": 11.53,
+    "volume": 15754006,
+    "amount": 178301324.22,
+    "pe": 14.17,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:30:27",
+    "pb": 6.33,
+    "totalMV": 63543600000.0,
+    "circMV": 63543600000.0,
+    "currency": "HKD"
+  }
+}

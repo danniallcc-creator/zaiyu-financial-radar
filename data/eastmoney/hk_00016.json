@@ -1,0 +1,200 @@
+{
+  "code": "00016",
+  "name": "新鸿基地产",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:30:49.440775",
+  "profile": {
+    "name": "新鸿基地产",
+    "code": "00016",
+    "fullName": "新鸿基地产",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "中报",
+      "totalProfit": 13763000000,
+      "totalProfitYoY": 42.65,
+      "totalExpenses": 16018000000,
+      "totalExpensesYoY": 3.22,
+      "revenue": 52705000000,
+      "revenueYoY": 31.98
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "年报",
+      "totalProfit": 24753000000,
+      "totalProfitYoY": 4.96,
+      "revenue": 79721000000,
+      "revenueYoY": 11.49,
+      "totalExpenses": 34190000000,
+      "totalExpensesYoY": 6.13
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "中报",
+      "revenue": 39933000000,
+      "revenueYoY": 44.99,
+      "totalProfit": 9648000000,
+      "totalProfitYoY": -11.95,
+      "totalExpenses": 15519000000,
+      "totalExpensesYoY": 12.31
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "年报",
+      "revenue": 71506000000,
+      "revenueYoY": 0.44,
+      "totalProfit": 23583000000,
+      "totalProfitYoY": -17.32,
+      "totalExpenses": 32214000000,
+      "totalExpensesYoY": -6.51
+    },
+    {
+      "reportDate": "2023-12-31",
+      "reportType": "中报",
+      "totalExpenses": 13818000000,
+      "totalExpensesYoY": -1.61,
+      "revenue": 27542000000,
+      "revenueYoY": 0.42,
+      "totalProfit": 10958000000,
+      "totalProfitYoY": 4.78
+    },
+    {
+      "reportDate": "2023-06-30",
+      "reportType": "年报",
+      "totalExpenses": 34458000000,
+      "totalExpensesYoY": -13.51,
+      "totalProfit": 28522000000,
+      "totalProfitYoY": -10.27,
+      "revenue": 71195000000,
+      "revenueYoY": -8.43
+    },
+    {
+      "reportDate": "2022-12-31",
+      "reportType": "中报",
+      "revenue": 27428000000,
+      "revenueYoY": -31.69,
+      "totalProfit": 10458000000,
+      "totalProfitYoY": -44.91,
+      "totalExpenses": 14044000000,
+      "totalExpensesYoY": -29.43
+    },
+    {
+      "reportDate": "2022-06-30",
+      "reportType": "年报",
+      "revenue": 77747000000,
+      "revenueYoY": -8.81
+    }
+  ],
+  "balance": [
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "中报",
+      "parentEquity": 155554000000,
+      "parentEquityYoY": -11.17,
+      "totalLiabilities": 68151000000,
+      "totalLiabilitiesYoY": 6.06,
+      "nonCurrentLiabilities": 809175000000,
+      "nonCurrentLiabilitiesYoY": -0.24,
+      "currentAssets": 585470000000,
+      "currentAssetsYoY": 2.4,
+      "accountsReceivable": 3605000000,
+      "accountsReceivableYoY": -9.22
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "年报",
+      "accountsReceivable": 3839000000,
+      "accountsReceivableYoY": -11.5,
+      "parentEquity": 165620000000,
+      "parentEquityYoY": -11.27,
+      "totalLiabilities": 70092000000,
+      "totalLiabilitiesYoY": 13.03,
+      "nonCurrentLiabilities": 816893000000,
+      "nonCurrentLiabilitiesYoY": -0.15,
+      "currentAssets": 581181000000,
+      "currentAssetsYoY": 2.06
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "中报",
+      "parentEquity": 175114000000,
+      "parentEquityYoY": -2.5,
+      "totalLiabilities": 64254000000,
+      "totalLiabilitiesYoY": -1.29,
+      "nonCurrentLiabilities": 811113000000,
+      "nonCurrentLiabilitiesYoY": -0.62,
+      "currentAssets": 571745000000,
+      "currentAssetsYoY": 0.06,
+      "accountsReceivable": 3971000000,
+      "accountsReceivableYoY": -15.64
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "年报",
+      "parentEquity": 186651000000,
+      "parentEquityYoY": -1.44,
+      "totalLiabilities": 62012000000,
+      "totalLiabilitiesYoY": 16.1,
+      "nonCurrentLiabilities": 818094000000,
+      "nonCurrentLiabilitiesYoY": 1.5,
+      "currentAssets": 569431000000,
+      "currentAssetsYoY": 1.1,
+      "accountsReceivable": 4338000000,
+      "accountsReceivableYoY": -14.59
+    },
+    {
+      "reportDate": "2023-12-31",
+      "reportType": "中报",
+      "parentEquity": 179613000000,
+      "parentEquityYoY": -1.26,
+      "totalLiabilities": 65092000000,
+      "totalLiabilitiesYoY": 3.31,
+      "nonCurrentLiabilities": 816135000000,
+      "nonCurrentLiabilitiesYoY": 1.79,
+      "currentAssets": 571430000000,
+      "currentAssetsYoY": 2.62,
+      "accountsReceivable": 4707000000,
+      "accountsReceivableYoY": -13.59
+    },
+    {
+      "reportDate": "2023-06-30",
+      "reportType": "年报",
+      "parentEquity": 189369000000,
+      "parentEquityYoY": 1.12,
+      "totalLiabilities": 53414000000,
+      "totalLiabilitiesYoY": -14.37,
+      "nonCurrentLiabilities": 805991000000,
+      "nonCurrentLiabilitiesYoY": -0.2,
+      "currentAssets": 563208000000,
+      "currentAssetsYoY": 0.95,
+      "accountsReceivable": 5079000000,
+      "accountsReceivableYoY": -12.66
+    }
+  ],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "00016",
+    "name": "新鸿基地产",
+    "price": 113.6,
+    "change": 0.9,
+    "changePct": 0.8,
+    "open": 111.5,
+    "high": 114.2,
+    "low": 111.5,
+    "prevClose": 112.7,
+    "volume": 6110632,
+    "amount": 690541699.16,
+    "pe": 17.08,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:30:48",
+    "pb": 3.33,
+    "totalMV": 329187840000.0,
+    "circMV": 329187840000.0,
+    "currency": "HKD"
+  }
+}

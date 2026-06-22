@@ -1,0 +1,38 @@
+{
+  "code": "06881",
+  "name": "中国银河",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:30:23.666150",
+  "profile": {
+    "name": "中国银河",
+    "code": "06881",
+    "fullName": "中国银河",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [],
+  "balance": [],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "06881",
+    "name": "中国银河",
+    "price": 7.98,
+    "change": 0.4,
+    "changePct": 5.28,
+    "open": 7.58,
+    "high": 8.03,
+    "low": 7.48,
+    "prevClose": 7.58,
+    "volume": 33081091,
+    "amount": 259853752.92,
+    "pe": 6.3,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:30:22",
+    "pb": 4.41,
+    "totalMV": 87256530000.0,
+    "circMV": 29454060000.0,
+    "currency": "HKD"
+  }
+}

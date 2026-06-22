@@ -1,0 +1,38 @@
+{
+  "code": "00388",
+  "name": "香港交易所",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:30:25.456574",
+  "profile": {
+    "name": "香港交易所",
+    "code": "00388",
+    "fullName": "香港交易所",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [],
+  "balance": [],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "00388",
+    "name": "香港交易所",
+    "price": 377.6,
+    "change": 2.8,
+    "changePct": 0.75,
+    "open": 380.0,
+    "high": 380.0,
+    "low": 369.8,
+    "prevClose": 374.8,
+    "volume": 5585765,
+    "amount": 2095197032.23,
+    "pe": 26.96,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:30:24",
+    "pb": 3.32,
+    "totalMV": 478735210000.0,
+    "circMV": 478735210000.0,
+    "currency": "HKD"
+  }
+}

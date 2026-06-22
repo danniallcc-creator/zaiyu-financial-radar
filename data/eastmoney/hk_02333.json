@@ -1,0 +1,172 @@
+{
+  "code": "02333",
+  "name": "长城汽车",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:30:18.198196",
+  "profile": {
+    "name": "长城汽车",
+    "code": "02333",
+    "fullName": "长城汽车",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [
+    {
+      "reportDate": "2026-03-31",
+      "reportType": "一季报",
+      "totalProfit": 1235666042.18,
+      "totalProfitYoY": -33.26,
+      "revenue": 45109342077.97,
+      "revenueYoY": 12.72,
+      "totalExpenses": 8323577684.93,
+      "totalExpensesYoY": 16.6
+    },
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "totalProfit": 11757947340.16,
+      "totalProfitYoY": -17.35,
+      "revenue": 222824238516.25,
+      "revenueYoY": 10.2,
+      "totalExpenses": 40202175516.27,
+      "totalExpensesYoY": 1.93
+    },
+    {
+      "reportDate": "2025-09-30",
+      "reportType": "三季报",
+      "totalProfit": 9948895516.85,
+      "totalProfitYoY": -17.1,
+      "totalExpenses": 28255000248.88,
+      "totalExpensesYoY": -0.5,
+      "revenue": 153581875551.64,
+      "revenueYoY": 7.96
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "totalProfit": 7004046142.78,
+      "totalProfitYoY": -15.22,
+      "revenue": 92334633193.51,
+      "revenueYoY": 0.99,
+      "totalExpenses": 16974347952.17,
+      "totalExpensesYoY": -6.92
+    },
+    {
+      "reportDate": "2025-03-31",
+      "reportType": "一季报",
+      "totalProfit": 1851376023.21,
+      "totalProfitYoY": -50.61,
+      "totalExpenses": 7138820564.82,
+      "totalExpensesYoY": -14.0,
+      "revenue": 40019080365.54,
+      "revenueYoY": -6.63
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "totalExpenses": 39441962959.68,
+      "totalExpensesYoY": 25.45,
+      "revenue": 202193779642.49,
+      "revenueYoY": 16.73,
+      "totalProfit": 14225629571.55,
+      "totalProfitYoY": 81.82
+    },
+    {
+      "reportDate": "2024-09-30",
+      "reportType": "三季报",
+      "totalExpenses": 28397903669.17,
+      "totalExpensesYoY": 26.11,
+      "totalProfit": 12001088010.57,
+      "totalProfitYoY": 114.22,
+      "revenue": 142252336280.94,
+      "revenueYoY": 19.04
+    }
+  ],
+  "balance": [
+    {
+      "reportDate": "2026-03-31",
+      "reportType": "一季报",
+      "accountsReceivable": 11489550846.08,
+      "accountsReceivableYoY": -0.66,
+      "parentEquity": 11112710995.95,
+      "parentEquityYoY": -8.37,
+      "totalLiabilities": 121123015549.49,
+      "totalLiabilitiesYoY": 5.88,
+      "nonCurrentLiabilities": 220535478112.35,
+      "nonCurrentLiabilitiesYoY": 3.76,
+      "currentAssets": 88299751566.91,
+      "currentAssetsYoY": 2.65,
+      "inventory": 6409846649.93,
+      "inventoryYoY": 44.98,
+      "monetaryFunds": 28533279843.89,
+      "monetaryFundsYoY": -4.92
+    },
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "inventory": 5760111830.4,
+      "inventoryYoY": 43.67,
+      "parentEquity": 11431694617.98,
+      "parentEquityYoY": 4.23,
+      "totalLiabilities": 126215520993.53,
+      "totalLiabilitiesYoY": 2.97,
+      "nonCurrentLiabilities": 225287872883.05,
+      "nonCurrentLiabilitiesYoY": 3.48,
+      "currentAssets": 87640657271.54,
+      "currentAssetsYoY": 4.11,
+      "accountsReceivable": 12234838813.07,
+      "accountsReceivableYoY": -1.07,
+      "monetaryFunds": 29281846505.15,
+      "monetaryFundsYoY": -3.04
+    },
+    {
+      "reportDate": "2025-09-30",
+      "reportType": "三季报",
+      "parentEquity": 13064885932.81,
+      "parentEquityYoY": -6.19,
+      "totalLiabilities": 121917549613.84,
+      "totalLiabilitiesYoY": 13.83,
+      "nonCurrentLiabilities": 220944857684.52,
+      "nonCurrentLiabilitiesYoY": 8.11,
+      "inventory": 4745354415.81,
+      "inventoryYoY": -19.51,
+      "currentAssets": 85962422137.87,
+      "currentAssetsYoY": 3.15,
+      "accountsReceivable": 11813315838.76,
+      "accountsReceivableYoY": 0.27,
+      "monetaryFunds": 29253760810.24,
+      "monetaryFundsYoY": 0.21
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "inventory": 5142880182.31,
+      "inventoryYoY": -24.92,
+      "accountsReceivable": 11515671053.14,
+      "accountsReceivableYoY": -4.7
+    }
+  ],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "02333",
+    "name": "长城汽车",
+    "price": 9.76,
+    "change": -0.34,
+    "changePct": -3.37,
+    "open": 10.1,
+    "high": 10.1,
+    "low": 9.51,
+    "prevClose": 10.1,
+    "volume": 33991616,
+    "amount": 329495922.74,
+    "pe": 7.63,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:30:17",
+    "pb": 5.05,
+    "totalMV": 83373210000.0,
+    "circMV": 22523110000.0,
+    "currency": "HKD"
+  }
+}

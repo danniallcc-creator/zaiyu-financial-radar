@@ -1,0 +1,198 @@
+{
+  "code": "02015",
+  "name": "理想汽车-W",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:29:57.649646",
+  "profile": {
+    "name": "理想汽车-W",
+    "code": "02015",
+    "fullName": "理想汽车-W",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [
+    {
+      "reportDate": "2026-03-31",
+      "reportType": "一季报",
+      "totalExpenses": 1808045000,
+      "totalExpensesYoY": -66.0,
+      "revenue": 22982911000,
+      "revenueYoY": -11.35,
+      "totalProfit": -2601180000,
+      "totalProfitYoY": -435.89
+    },
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "revenue": 112312511000,
+      "revenueYoY": -22.25,
+      "totalProfit": 1297135000,
+      "totalProfitYoY": -86.08,
+      "totalExpenses": 20985058000,
+      "totalExpensesYoY": -29.24
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "revenue": 56172427000,
+      "revenueYoY": -1.99,
+      "totalExpenses": 11385428000,
+      "totalExpensesYoY": -0.66,
+      "totalProfit": 2063409000,
+      "totalProfitYoY": 11.32
+    },
+    {
+      "reportDate": "2025-03-31",
+      "reportType": "一季报",
+      "totalProfit": 774425000,
+      "totalProfitYoY": 14.63,
+      "revenue": 25926814000,
+      "revenueYoY": 1.14,
+      "totalExpenses": 5318459000,
+      "totalExpensesYoY": 0.65
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "revenue": 144459946000,
+      "revenueYoY": 16.64,
+      "totalProfit": 9315624000,
+      "totalProfitYoY": -10.87,
+      "totalExpenses": 29656138000,
+      "totalExpensesYoY": 7.85
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "中报",
+      "totalExpenses": 11461247000,
+      "totalExpensesYoY": 13.87,
+      "revenue": 57312056000,
+      "revenueYoY": 20.81,
+      "totalProfit": 1853641000,
+      "totalProfitYoY": -44.25
+    },
+    {
+      "reportDate": "2024-03-31",
+      "reportType": "一季报",
+      "revenue": 25633660000,
+      "revenueYoY": 36.44,
+      "totalProfit": 675572000,
+      "totalProfitYoY": -30.55,
+      "totalExpenses": 5284305000,
+      "totalExpensesYoY": 37.97
+    },
+    {
+      "reportDate": "2023-12-31",
+      "reportType": "年报",
+      "revenue": 123851332000,
+      "revenueYoY": 173.48,
+      "totalProfit": 10451763000,
+      "totalProfitYoY": 584.02,
+      "totalExpenses": 27496751000,
+      "totalExpensesYoY": 212.8
+    }
+  ],
+  "balance": [
+    {
+      "reportDate": "2026-03-31",
+      "reportType": "一季报",
+      "parentEquity": 49415247000,
+      "parentEquityYoY": -15.81,
+      "totalLiabilities": 56189529000,
+      "totalLiabilitiesYoY": -16.73,
+      "nonCurrentLiabilities": 144565521000,
+      "nonCurrentLiabilitiesYoY": -10.68,
+      "currentAssets": 38960745000,
+      "currentAssetsYoY": 9.19,
+      "accountsReceivable": 1172077000,
+      "accountsReceivableYoY": 26.19
+    },
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "parentEquity": 51738341000,
+      "parentEquityYoY": -9.38,
+      "totalLiabilities": 63547653000,
+      "totalLiabilitiesYoY": -8.19,
+      "nonCurrentLiabilities": 154295818000,
+      "nonCurrentLiabilitiesYoY": -4.96,
+      "currentAssets": 39009824000,
+      "currentAssetsYoY": 8.24,
+      "accountsReceivable": 1191974000,
+      "accountsReceivableYoY": 30.28
+    },
+    {
+      "reportDate": "2025-09-30",
+      "reportType": "三季报",
+      "parentEquity": 50207416000,
+      "parentEquityYoY": -3.05,
+      "totalLiabilities": 62538820000,
+      "totalLiabilitiesYoY": -7.98,
+      "nonCurrentLiabilities": 153115695000,
+      "nonCurrentLiabilitiesYoY": -1.1,
+      "currentAssets": 40369459000,
+      "currentAssetsYoY": 15.11,
+      "accountsReceivable": 937775000,
+      "accountsReceivableYoY": 3.0
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "parentEquity": 52324320000,
+      "parentEquityYoY": 10.51,
+      "totalLiabilities": 71212256000,
+      "totalLiabilitiesYoY": 14.01,
+      "nonCurrentLiabilities": 161286005000,
+      "nonCurrentLiabilitiesYoY": 11.15,
+      "currentAssets": 37749429000,
+      "currentAssetsYoY": 6.93,
+      "accountsReceivable": 933707000,
+      "accountsReceivableYoY": 4.65
+    },
+    {
+      "reportDate": "2025-03-31",
+      "reportType": "一季报",
+      "parentEquity": 58697803000,
+      "parentEquityYoY": 46.55,
+      "totalLiabilities": 67476814000,
+      "totalLiabilitiesYoY": -10.75,
+      "nonCurrentLiabilities": 161854705000,
+      "nonCurrentLiabilitiesYoY": 8.15,
+      "currentAssets": 35680088000,
+      "currentAssetsYoY": 4.93,
+      "accountsReceivable": 928846000,
+      "accountsReceivableYoY": 5.48
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "currentAssets": 36039296000,
+      "currentAssetsYoY": 24.52,
+      "accountsReceivable": 914951000,
+      "accountsReceivableYoY": 5.88
+    }
+  ],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "02015",
+    "name": "理想汽车-W",
+    "price": 50.5,
+    "change": -1.5,
+    "changePct": -2.88,
+    "open": 50.15,
+    "high": 51.55,
+    "low": 49.64,
+    "prevClose": 52.0,
+    "volume": 16079508,
+    "amount": 809711129.3,
+    "pe": 83.17,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:29:56",
+    "pb": 0.0,
+    "totalMV": 103540610000.0,
+    "circMV": 85608030000.0,
+    "currency": "HKD"
+  }
+}

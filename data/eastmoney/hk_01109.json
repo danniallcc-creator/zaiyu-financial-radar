@@ -1,0 +1,174 @@
+{
+  "code": "01109",
+  "name": "华润置地",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:30:41.812380",
+  "profile": {
+    "name": "华润置地",
+    "code": "01109",
+    "fullName": "华润置地",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "totalProfit": 53352506000,
+      "totalProfitYoY": -8.31,
+      "totalExpenses": 59744383000,
+      "totalExpensesYoY": -1.01,
+      "revenue": 281437885000,
+      "revenueYoY": 0.91
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "totalExpenses": 22784693000,
+      "totalExpensesYoY": 29.32,
+      "totalProfit": 21899152000,
+      "totalProfitYoY": 6.19,
+      "revenue": 94921257000,
+      "revenueYoY": 19.86
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "revenue": 278905492000,
+      "revenueYoY": 11.06,
+      "totalExpenses": 60356025000,
+      "totalExpensesYoY": -4.44,
+      "totalProfit": 58190711000,
+      "totalProfitYoY": -12.41
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "中报",
+      "revenue": 79191662000,
+      "revenueYoY": 8.52,
+      "totalExpenses": 17619415000,
+      "totalExpensesYoY": -5.89,
+      "totalProfit": 20623104000,
+      "totalProfitYoY": -10.54
+    },
+    {
+      "reportDate": "2023-12-31",
+      "reportType": "年报",
+      "revenue": 251137103000,
+      "revenueYoY": 21.29,
+      "totalProfit": 66437894000,
+      "totalProfitYoY": 19.69,
+      "totalExpenses": 63161914000,
+      "totalExpensesYoY": 16.34
+    },
+    {
+      "reportDate": "2023-06-30",
+      "reportType": "中报",
+      "revenue": 72971477000,
+      "revenueYoY": 0.11,
+      "totalProfit": 23052800000,
+      "totalProfitYoY": 16.4,
+      "totalExpenses": 18722224000,
+      "totalExpensesYoY": -4.65
+    },
+    {
+      "reportDate": "2022-12-31",
+      "reportType": "年报",
+      "totalProfit": 55509355000,
+      "totalProfitYoY": -8.04,
+      "revenue": 207061119000,
+      "revenueYoY": -2.38,
+      "totalExpenses": 54290610000,
+      "totalExpensesYoY": -5.09
+    },
+    {
+      "reportDate": "2022-06-30",
+      "reportType": "中报",
+      "totalProfit": 19805124000,
+      "totalProfitYoY": -20.24,
+      "revenue": 72894014000,
+      "revenueYoY": -1.15,
+      "totalExpenses": 19636226000,
+      "totalExpensesYoY": -15.03
+    }
+  ],
+  "balance": [
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "nonCurrentLiabilities": 1078700550000,
+      "nonCurrentLiabilitiesYoY": -4.5,
+      "parentEquity": 257090113000,
+      "parentEquityYoY": 24.34,
+      "totalLiabilities": 388693554000,
+      "totalLiabilitiesYoY": -22.87,
+      "currentAssets": 432916883000,
+      "currentAssetsYoY": 3.37,
+      "accountsReceivable": 1071642000,
+      "accountsReceivableYoY": -14.24
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "parentEquity": 247438811000,
+      "parentEquityYoY": 14.65,
+      "totalLiabilities": 478480962000,
+      "totalLiabilitiesYoY": -18.47,
+      "nonCurrentLiabilities": 1148668781000,
+      "nonCurrentLiabilitiesYoY": -5.57,
+      "currentAssets": 422749008000,
+      "currentAssetsYoY": 2.19,
+      "accountsReceivable": 1167536000,
+      "accountsReceivableYoY": -14.08
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "parentEquity": 206769474000,
+      "parentEquityYoY": 3.3,
+      "totalLiabilities": 503917528000,
+      "totalLiabilitiesYoY": -13.74,
+      "nonCurrentLiabilities": 1129501287000,
+      "nonCurrentLiabilitiesYoY": -5.18,
+      "currentAssets": 418814285000,
+      "currentAssetsYoY": 2.95,
+      "accountsReceivable": 1249541000,
+      "accountsReceivableYoY": -17.79
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "中报",
+      "totalLiabilities": 586904882000,
+      "totalLiabilitiesYoY": -5.78,
+      "nonCurrentLiabilities": 1216430354000,
+      "nonCurrentLiabilitiesYoY": 0.82,
+      "currentAssets": 413695899000,
+      "currentAssetsYoY": 7.31,
+      "accountsReceivable": 1358874000,
+      "accountsReceivableYoY": -4.66
+    }
+  ],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "01109",
+    "name": "华润置地",
+    "price": 31.18,
+    "change": -0.9,
+    "changePct": -2.81,
+    "open": 31.94,
+    "high": 32.08,
+    "low": 30.32,
+    "prevClose": 32.08,
+    "volume": 45863272,
+    "amount": 1417688093.12,
+    "pe": 7.9,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:30:40",
+    "pb": 4.26,
+    "totalMV": 222342700000.0,
+    "circMV": 222342700000.0,
+    "currency": "HKD"
+  }
+}

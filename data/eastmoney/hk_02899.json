@@ -1,0 +1,172 @@
+{
+  "code": "02899",
+  "name": "紫金矿业",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:30:10.854174",
+  "profile": {
+    "name": "紫金矿业",
+    "code": "02899",
+    "fullName": "紫金矿业",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [
+    {
+      "reportDate": "2026-03-31",
+      "reportType": "一季报",
+      "totalProfit": 31583865680,
+      "totalProfitYoY": 115.03,
+      "totalExpenses": 35779987712,
+      "totalExpensesYoY": 98.08,
+      "revenue": 98497579591,
+      "revenueYoY": 24.79
+    },
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "revenue": 349079082852,
+      "revenueYoY": 14.96,
+      "totalExpenses": 96790239813,
+      "totalExpensesYoY": 56.46,
+      "totalProfit": 80752523141,
+      "totalProfitYoY": 67.96
+    },
+    {
+      "reportDate": "2025-09-30",
+      "reportType": "三季报",
+      "totalProfit": 55645581474,
+      "totalProfitYoY": 57.52,
+      "totalExpenses": 63383087733,
+      "totalExpensesYoY": 40.85,
+      "revenue": 254199543240,
+      "revenueYoY": 10.33
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "totalProfit": 34496536167,
+      "totalProfitYoY": 59.8,
+      "revenue": 167710853231,
+      "revenueYoY": 11.5,
+      "totalExpenses": 39832875795,
+      "totalExpensesYoY": 38.27
+    },
+    {
+      "reportDate": "2025-03-31",
+      "reportType": "一季报",
+      "totalProfit": 14687930601,
+      "totalProfitYoY": 66.37,
+      "totalExpenses": 18063503555,
+      "totalExpensesYoY": 45.48,
+      "revenue": 78928282916,
+      "revenueYoY": 5.55
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "totalExpenses": 61863788216,
+      "totalExpensesYoY": 33.39,
+      "revenue": 303639957153,
+      "revenueYoY": 3.49,
+      "totalProfit": 48077725154,
+      "totalProfitYoY": 53.66
+    },
+    {
+      "reportDate": "2024-09-30",
+      "reportType": "三季报",
+      "revenue": 230396480019,
+      "revenueYoY": 2.39,
+      "totalProfit": 35325171289,
+      "totalProfitYoY": 47.56
+    }
+  ],
+  "balance": [
+    {
+      "reportDate": "2026-03-31",
+      "reportType": "一季报",
+      "parentEquity": 48255973360,
+      "parentEquityYoY": 1570.5,
+      "totalLiabilities": 139942030632,
+      "totalLiabilitiesYoY": 26.17,
+      "nonCurrentLiabilities": 549920131226,
+      "nonCurrentLiabilitiesYoY": 33.59,
+      "currentAssets": 361722127234,
+      "currentAssetsYoY": 21.45,
+      "inventory": 44328244708,
+      "inventoryYoY": 8.11,
+      "accountsReceivable": 87539353402,
+      "accountsReceivableYoY": 28.73,
+      "monetaryFunds": 116191308210,
+      "monetaryFundsYoY": 25.31
+    },
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "parentEquity": 18723156672,
+      "parentEquityYoY": 2315.01,
+      "totalLiabilities": 129480423573,
+      "totalLiabilitiesYoY": 29.76,
+      "nonCurrentLiabilities": 512005142450,
+      "nonCurrentLiabilitiesYoY": 29.1,
+      "currentAssets": 363801562205,
+      "currentAssetsYoY": 22.22,
+      "inventory": 42049409293,
+      "inventoryYoY": 4.98,
+      "monetaryFunds": 117041644314,
+      "monetaryFundsYoY": 26.8,
+      "accountsReceivable": 88167053809,
+      "accountsReceivableYoY": 28.55
+    },
+    {
+      "reportDate": "2025-09-30",
+      "reportType": "三季报",
+      "currentAssets": 341617476017,
+      "currentAssetsYoY": 19.51,
+      "parentEquity": 23509664219,
+      "parentEquityYoY": 226.17,
+      "totalLiabilities": 117880429107,
+      "totalLiabilitiesYoY": 38.69,
+      "nonCurrentLiabilities": 483007569343,
+      "nonCurrentLiabilitiesYoY": 27.76,
+      "inventory": 43517511065,
+      "inventoryYoY": 6.7,
+      "accountsReceivable": 81630868361,
+      "accountsReceivableYoY": 22.25,
+      "monetaryFunds": 107677144130,
+      "monetaryFundsYoY": 26.57
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "inventory": 43412033826,
+      "inventoryYoY": 11.36,
+      "currentAssets": 329725313399,
+      "currentAssetsYoY": 18.14,
+      "accountsReceivable": 77953421326,
+      "accountsReceivableYoY": 15.91
+    }
+  ],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "02899",
+    "name": "紫金矿业",
+    "price": 31.62,
+    "change": -0.46,
+    "changePct": -1.43,
+    "open": 31.54,
+    "high": 32.12,
+    "low": 30.42,
+    "prevClose": 32.08,
+    "volume": 56275618,
+    "amount": 1758094410.44,
+    "pe": 14.67,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:30:09",
+    "pb": 2.14,
+    "totalMV": 840798400000.0,
+    "circMV": 189369700000.0,
+    "currency": "HKD"
+  }
+}

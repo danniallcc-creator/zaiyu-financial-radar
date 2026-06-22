@@ -1,0 +1,38 @@
+{
+  "code": "BK",
+  "name": "纽约梅隆银行",
+  "market": "us",
+  "currency": "USD",
+  "fetchTime": "2026-06-22T23:18:20.785131",
+  "profile": {
+    "name": "纽约梅隆银行",
+    "code": "BK",
+    "fullName": "纽约梅隆银行",
+    "securityType": "美股"
+  },
+  "financial": [],
+  "income": [],
+  "balance": [],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "BK.N",
+    "name": "纽约梅隆银行",
+    "price": 137.16,
+    "change": 0.0,
+    "changePct": 0.0,
+    "open": 0.0,
+    "high": 0.0,
+    "low": 0.0,
+    "prevClose": 137.16,
+    "volume": 0,
+    "amount": 0.0,
+    "pe": 17.02,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:18:14",
+    "pb": 18.54,
+    "totalMV": 94143750000.0,
+    "circMV": 84181310000.0,
+    "currency": "USD"
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "code": "00003",
+  "name": "香港中华煤气",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:30:40.049276",
+  "profile": {
+    "name": "香港中华煤气",
+    "code": "00003",
+    "fullName": "香港中华煤气",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "totalExpenses": 8132100000,
+      "totalExpensesYoY": -0.56,
+      "revenue": 54326300000,
+      "revenueYoY": -2.07,
+      "totalProfit": 8605800000,
+      "totalProfitYoY": 1.36
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "totalExpenses": 4636800000,
+      "totalExpensesYoY": 6.95,
+      "totalProfit": 4506800000,
+      "totalProfitYoY": -1.47,
+      "revenue": 27514200000,
+      "revenueYoY": 0.07
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "totalExpenses": 8177900000,
+      "totalExpensesYoY": 0.5,
+      "totalProfit": 8490400000,
+      "totalProfitYoY": -7.46,
+      "revenue": 55472800000,
+      "revenueYoY": -2.63
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "中报",
+      "revenue": 27496200000,
+      "revenueYoY": -5.76,
+      "totalExpenses": 4335500000,
+      "totalExpensesYoY": -8.75,
+      "totalProfit": 4574200000,
+      "totalProfitYoY": -19.57
+    },
+    {
+      "reportDate": "2023-12-31",
+      "reportType": "年报",
+      "revenue": 56971100000,
+      "revenueYoY": -6.53,
+      "totalExpenses": 8137300000,
+      "totalExpensesYoY": -2.68,
+      "totalProfit": 9174400000,
+      "totalProfitYoY": 12.11
+    },
+    {
+      "reportDate": "2023-06-30",
+      "reportType": "中报",
+      "totalProfit": 5687400000,
+      "totalProfitYoY": 10.87,
+      "totalExpenses": 4751000000,
+      "totalExpensesYoY": 5.43,
+      "revenue": 29177600000,
+      "revenueYoY": -1.83
+    },
+    {
+      "reportDate": "2022-12-31",
+      "reportType": "年报",
+      "revenue": 60953400000,
+      "revenueYoY": 13.8,
+      "totalExpenses": 8361700000,
+      "totalExpensesYoY": -5.19,
+      "totalProfit": 8183600000,
+      "totalProfitYoY": -2.35
+    },
+    {
+      "reportDate": "2022-06-30",
+      "reportType": "中报",
+      "totalProfit": 5129900000,
+      "totalProfitYoY": -15.07,
+      "totalExpenses": 4506400000,
+      "totalExpensesYoY": -5.81,
+      "revenue": 29721000000,
+      "revenueYoY": 20.19
+    }
+  ],
+  "balance": [
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "parentEquity": -14230600000,
+      "parentEquityYoY": -21.35,
+      "totalLiabilities": 38273400000,
+      "totalLiabilitiesYoY": 6.12,
+      "nonCurrentLiabilities": 163555100000,
+      "nonCurrentLiabilitiesYoY": 3.34,
+      "currentAssets": 139512300000,
+      "currentAssetsYoY": 4.17,
+      "accountsReceivable": 4463500000,
+      "accountsReceivableYoY": 1.72
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "parentEquity": -13254700000,
+      "parentEquityYoY": 27.26,
+      "totalLiabilities": 40212900000,
+      "totalLiabilitiesYoY": -9.24,
+      "nonCurrentLiabilities": 162416900000,
+      "nonCurrentLiabilitiesYoY": 1.36,
+      "currentAssets": 135458700000,
+      "currentAssetsYoY": 0.97,
+      "accountsReceivable": 4530700000,
+      "accountsReceivableYoY": 3.24
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "parentEquity": -11726900000,
+      "parentEquityYoY": 24.15,
+      "totalLiabilities": 36067500000,
+      "totalLiabilitiesYoY": -14.32,
+      "nonCurrentLiabilities": 158268600000,
+      "nonCurrentLiabilitiesYoY": -2.29,
+      "currentAssets": 133928000000,
+      "currentAssetsYoY": -1.05,
+      "accountsReceivable": 4388000000,
+      "accountsReceivableYoY": -1.68
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "中报",
+      "parentEquity": -18221400000,
+      "parentEquityYoY": -161.09,
+      "totalLiabilities": 44307700000,
+      "totalLiabilitiesYoY": 15.61,
+      "nonCurrentLiabilities": 160245100000,
+      "nonCurrentLiabilitiesYoY": -1.11,
+      "currentAssets": 134158800000,
+      "currentAssetsYoY": 2.64,
+      "accountsReceivable": 4388300000,
+      "accountsReceivableYoY": -12.41
+    },
+    {
+      "reportDate": "2023-12-31",
+      "reportType": "年报",
+      "parentEquity": -15460200000,
+      "parentEquityYoY": -4.38,
+      "totalLiabilities": 42094000000,
+      "totalLiabilitiesYoY": -3.28,
+      "nonCurrentLiabilities": 161977600000,
+      "nonCurrentLiabilitiesYoY": -3.85,
+      "currentAssets": 135343800000,
+      "currentAssetsYoY": -3.16,
+      "accountsReceivable": 4463200000,
+      "accountsReceivableYoY": -16.42
+    }
+  ],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "00003",
+    "name": "香港中华煤气",
+    "price": 6.7,
+    "change": -0.06,
+    "changePct": -0.89,
+    "open": 6.76,
+    "high": 6.76,
+    "low": 6.64,
+    "prevClose": 6.76,
+    "volume": 23521107,
+    "amount": 157927606.16,
+    "pe": 21.98,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:30:38",
+    "pb": 5.22,
+    "totalMV": 125021130000.0,
+    "circMV": 125021130000.0,
+    "currency": "HKD"
+  }
+}

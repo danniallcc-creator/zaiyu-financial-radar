@@ -1,6 +1,7 @@
 /**
  * Cloudflare Workers 代理层
  * 代理东财 F10、行情、巨潮公告等无 CORS 的金融数据接口
+ * 支持 A 股 / 美股 / 港股
  */
 
 export default {
@@ -25,11 +26,11 @@ export default {
 
       switch (true) {
         case path === '/api/search':
-          result = await handleSearch(url.searchParams.get('q') || '');
+          result = await handleSearch(url.searchParams.get('q') || '', url.searchParams.get('market') || '');
           break;
 
         case path === '/api/quote':
-          result = await handleQuote(url.searchParams.get('code') || '');
+          result = await handleQuote(url.searchParams.get('code') || '', url.searchParams.get('market') || '');
           break;
 
         case path.startsWith('/api/f10/'):
@@ -46,6 +47,10 @@ export default {
 
         case path.startsWith('/api/industry/'):
           result = await handleIndustry(path, url.searchParams);
+          break;
+
+        case path === '/api/global/list':
+          result = await handleGlobalList(url.searchParams);
           break;
 
         case path === '/api/health':
@@ -120,16 +125,37 @@ function getCacheControl(path) {
   if (path.includes('quote')) return 'public, max-age=300';
   if (path.includes('f10') || path.includes('cninfo')) return 'public, max-age=3600';
   if (path.includes('industry')) return 'public, max-age=7200';
+  if (path.includes('global')) return 'public, max-age=300';
   return 'public, max-age=300';
 }
 
+// ============ 市场检测工具 ============
+
 /**
- * 市场前缀: SH / SZ / BJ
+ * 从代码格式推断市场: 'cn' | 'us' | 'hk'
+ */
+function detectMarket(code) {
+  if (/^[A-Za-z]/.test(code)) return 'us';
+  if (/^\d{5}$/.test(code)) return 'hk';
+  return 'cn';
+}
+
+/**
+ * 生成腾讯行情代码 (支持 A/美/港)
+ */
+function tencentCode(code, market) {
+  if (market === 'us') return `us${code}`;
+  if (market === 'hk') return `hk${code}`;
+  return code.startsWith('6') ? `sh${code}` : `sz${code}`;
+}
+
+/**
+ * 市场前缀: SH / SZ / BJ (仅 A 股)
  */
 function emPrefix(code) {
   if (code.startsWith('6')) return 'SH';
-  if (code.startsWith(('0', '3'))) return 'SZ';
-  if (code.startsWith(('8', '4'))) return 'BJ';
+  if (code.startsWith('0') || code.startsWith('3')) return 'SZ';
+  if (code.startsWith('8') || code.startsWith('4')) return 'BJ';
   return 'SZ';
 }
 
@@ -169,26 +195,22 @@ async function safeFetch(url, opts = {}, timeoutMs = 12000, retries = 1) {
   }
 }
 
-// ============ 搜索 ============
+// ============ 搜索 (多市场) ============
 
-async function handleSearch(keyword) {
+async function handleSearch(keyword, market) {
   if (!keyword || keyword.length < 1) {
     return { items: [] };
   }
 
   const url = `https://searchapi.eastmoney.com/api/suggest/get?input=${encodeURIComponent(keyword)}&type=14&token=D43BF722C8E33BDC906FB84D85E326E8&count=30`;
 
-  // searchapi 无 CORS，需要 JSONP 方式或直接抓取
-  // 该接口返回格式: jQuery(...){...} 或直接 JSON
   const resp = await safeFetch(url, {}, 8000, 0);
   const text = await resp.text();
 
   let data;
   try {
-    // 尝试直接解析 JSON
     data = JSON.parse(text);
   } catch {
-    // 可能是 JSONP: jQuery1234567({...})
     const match = text.match(/\((\{[\s\S]*\})\)/);
     if (match) {
       data = JSON.parse(match[1]);
@@ -197,35 +219,48 @@ async function handleSearch(keyword) {
     }
   }
 
-  const items = (data?.QuotationCodeTable?.Data || []).map(item => ({
+  let items = (data?.QuotationCodeTable?.Data || []).map(item => ({
     code: item.Code,
     name: item.Name,
     market: item.MktNum,
     type: item.SecurityTypeName,
-    industry: item.IndustryName || ''
-  })).filter(item =>
-    // 只保留 A 股（沪深北）
-    (item.market === '0' || item.market === '1') &&
-    (item.type === '沪A' || item.type === '深A' || item.type === '创业板' || item.type === '科创板' || item.type === '北交所')
-  );
+    industry: item.IndustryName || '',
+    secid: item.QuoteID || '',
+  }));
+
+  // 按市场过滤
+  if (market === 'cn') {
+    items = items.filter(item =>
+      (item.market === '0' || item.market === '1') &&
+      (item.type === '沪A' || item.type === '深A' || item.type === '创业板' || item.type === '科创板' || item.type === '北交所')
+    );
+  } else if (market === 'us') {
+    items = items.filter(item =>
+      item.type === '美股' || item.market === '105' || item.market === '106'
+    );
+  } else if (market === 'hk') {
+    items = items.filter(item =>
+      item.type === '港股' || item.market === '116'
+    );
+  }
+  // market 为空: 返回全部 (不过滤)
 
   return { items };
 }
 
-// ============ 实时行情 ============
+// ============ 实时行情 (多市场) ============
 
-async function handleQuote(code) {
+async function handleQuote(code, market) {
   if (!code) return { error: 'code required' };
 
-  // 腾讯财经行情接口 (GBK 编码, 管道分隔)
-  const tcCode = code.startsWith('6') ? `sh${code}` : `sz${code}`;
+  const mkt = market || detectMarket(code);
+  const tcCode = tencentCode(code, mkt);
   const url = `https://qt.gtimg.cn/q=${tcCode}`;
 
   const resp = await safeFetch(url, {
     headers: { 'Referer': 'https://finance.qq.com' }
   }, 10000, 1);
 
-  // 腾讯 API 返回 GBK 编码
   const buf = await resp.arrayBuffer();
   const decoder = new TextDecoder('gbk');
   const text = decoder.decode(buf);
@@ -234,10 +269,59 @@ async function handleQuote(code) {
   if (!content) return { error: 'no data' };
 
   const f = content.split('~');
-  if (f.length < 47 || !f[3]) return { error: 'no data' };
+  if (!f[3]) return { error: 'no data' };
 
   const pf = (v) => { const n = parseFloat(v); return isNaN(n) ? null : n; };
 
+  // 美股/港股字段位置与 A 股不同
+  if (mkt === 'us') {
+    if (f.length < 50) return { error: 'no data' };
+    return {
+      code: f[2],
+      name: f[1],
+      price: pf(f[3]),
+      change: pf(f[31]),
+      changePct: pf(f[32]),
+      open: pf(f[5]),
+      high: pf(f[33]),
+      low: pf(f[34]),
+      prevClose: pf(f[4]),
+      volume: parseInt(f[6]) || null,
+      amount: pf(f[37]),
+      totalMV: (pf(f[45]) || 0) * 1e8,       // 亿美元 → 美元
+      circMV: (pf(f[44]) || 0) * 1e8,
+      pe: pf(f[39]),
+      pb: pf(f[41]),                            // US: PB at [41]
+      turnover: pf(f[38]),
+      currency: 'USD',
+    };
+  }
+
+  if (mkt === 'hk') {
+    if (f.length < 50) return { error: 'no data' };
+    return {
+      code: f[2],
+      name: f[1],
+      price: pf(f[3]),
+      change: pf(f[31]),
+      changePct: pf(f[32]),
+      open: pf(f[5]),
+      high: pf(f[33]),
+      low: pf(f[34]),
+      prevClose: pf(f[4]),
+      volume: parseInt(f[6]) || null,
+      amount: pf(f[37]),
+      totalMV: (pf(f[45]) || 0) * 1e8,       // 亿港元 → 港元
+      circMV: (pf(f[44]) || 0) * 1e8,
+      pe: pf(f[39]),
+      pb: pf(f[47]),                            // HK: PB at [47]
+      turnover: pf(f[38]),
+      currency: 'HKD',
+    };
+  }
+
+  // A 股 (原有逻辑)
+  if (f.length < 47) return { error: 'no data' };
   return {
     code: f[2],
     name: f[1],
@@ -248,17 +332,17 @@ async function handleQuote(code) {
     high: pf(f[33]),
     low: pf(f[34]),
     prevClose: pf(f[4]),
-    volume: parseInt(f[6]) || null,           // 成交量(手)
-    amount: pf(f[37]),                         // 成交额(元)
-    totalMV: (pf(f[45]) || 0) * 1e8,          // 总市值(亿→元)
-    circMV: (pf(f[44]) || 0) * 1e8,           // 流通市值(亿→元)
+    volume: parseInt(f[6]) || null,
+    amount: pf(f[37]),
+    totalMV: (pf(f[45]) || 0) * 1e8,
+    circMV: (pf(f[44]) || 0) * 1e8,
     pe: pf(f[39]),
     pb: pf(f[46]),
-    turnover: pf(f[38]),                       // 换手率(%)
+    turnover: pf(f[38]),
   };
 }
 
-// ============ F10 各模块 ============
+// ============ F10 各模块 (多市场) ============
 
 async function handleF10(path, params) {
   const parts = path.split('/');
@@ -268,32 +352,57 @@ async function handleF10(path, params) {
 
   if (!code || !section) return { error: 'section and code required' };
 
+  const market = params.get('market') || detectMarket(code);
   const dcToken = '894050c76af8597a853f5b408b759f5d';
   const dcBase = 'https://datacenter.eastmoney.com/securities/api/data/get';
-  const scode = code.startsWith('6') ? `${code}.SH` : code.startsWith(('0','3')) ? `${code}.SZ` : `${code}.BJ`;
 
-  // Map section names to datacenter API tables
-  const dcTableMap = {
-    financial: { table: 'RPT_F10_FINANCE_MAINFINADATA', ps: 20 },
-    income: { table: 'RPT_F10_FINANCE_GINCOME', ps: 20 },
-    balance: { table: 'RPT_F10_FINANCE_GBALANCE', ps: 20 },
-    cashflow: { table: 'RPT_F10_FINANCE_GCASHFLOW', ps: 20 },
-  };
+  // 根据市场确定 SECUCODE 和 datacenter 表
+  let scode, dcTableMap, emwebMap;
 
-  // Profile / holder / manage still use emweb (they work with Referer header)
-  const emwebMap = {
-    holder: `https://emweb.securities.eastmoney.com/PC_HSF10/ShareholderResearch/PageAjax?code=${emPrefix(code)}${code}`,
-    dividend: `https://emweb.securities.eastmoney.com/PC_HSF10/ShareholderResearch/PageAjax?code=${emPrefix(code)}${code}`,
-    profile: `https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/PageAjax?code=${emPrefix(code)}${code}`,
-    manage: `https://emweb.securities.eastmoney.com/PC_HSF10/CoreReadPage/PageAjax?code=${emPrefix(code)}${code}`,
-  };
+  if (market === 'us') {
+    // 美股: SECUCODE 用 SECURITY_CODE 过滤 (跨交易所)
+    scode = null; // 使用 SECURITY_CODE 而非 SECUCODE
+    dcTableMap = {
+      income: { table: 'RPT_USF10_FN_INCOME', ps: 200, filterField: 'SECURITY_CODE' },
+      balance: { table: 'RPT_USF10_FN_BALANCE', ps: 200, filterField: 'SECURITY_CODE' },
+    };
+    emwebMap = {}; // 美股无 emweb 数据
+  } else if (market === 'hk') {
+    scode = null;
+    dcTableMap = {
+      income: { table: 'RPT_HKF10_FN_INCOME', ps: 200, filterField: 'SECURITY_CODE' },
+      balance: { table: 'RPT_HKF10_FN_BALANCE', ps: 200, filterField: 'SECURITY_CODE' },
+    };
+    emwebMap = {};
+  } else {
+    // A 股
+    scode = code.startsWith('6') ? `${code}.SH` : code.startsWith('0') || code.startsWith('3') ? `${code}.SZ` : `${code}.BJ`;
+    dcTableMap = {
+      financial: { table: 'RPT_F10_FINANCE_MAINFINADATA', ps: 20 },
+      income: { table: 'RPT_F10_FINANCE_GINCOME', ps: 20 },
+      balance: { table: 'RPT_F10_FINANCE_GBALANCE', ps: 20 },
+      cashflow: { table: 'RPT_F10_FINANCE_GCASHFLOW', ps: 20 },
+    };
+    emwebMap = {
+      holder: `https://emweb.securities.eastmoney.com/PC_HSF10/ShareholderResearch/PageAjax?code=${emPrefix(code)}${code}`,
+      dividend: `https://emweb.securities.eastmoney.com/PC_HSF10/ShareholderResearch/PageAjax?code=${emPrefix(code)}${code}`,
+      profile: `https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/PageAjax?code=${emPrefix(code)}${code}`,
+      manage: `https://emweb.securities.eastmoney.com/PC_HSF10/CoreReadPage/PageAjax?code=${emPrefix(code)}${code}`,
+    };
+  }
+
+  function buildDcUrl(cfg) {
+    const filterField = cfg.filterField || 'SECUCODE';
+    const filterVal = filterField === 'SECURITY_CODE' ? code : scode;
+    return `${dcBase}?type=${cfg.table}&sty=ALL&filter=(${filterField}="${filterVal}")&p=1&ps=${cfg.ps}&sr=-1&st=REPORT_DATE&token=${dcToken}`;
+  }
 
   // All data: fetch all modules in parallel
   if (section === 'all') {
     const promises = [];
     for (const [key, cfg] of Object.entries(dcTableMap)) {
       promises.push((async () => {
-        const url = `${dcBase}?type=${cfg.table}&sty=ALL&filter=(SECUCODE="${scode}")&p=1&ps=${cfg.ps}&sr=-1&st=REPORT_DATE&token=${dcToken}`;
+        const url = buildDcUrl(cfg);
         const resp = await safeFetch(url, {}, 15000, 1);
         const data = await resp.json();
         return { key, data: data?.result?.data || [] };
@@ -321,7 +430,7 @@ async function handleF10(path, params) {
   // Single section
   if (dcTableMap[section]) {
     const cfg = dcTableMap[section];
-    const url = `${dcBase}?type=${cfg.table}&sty=ALL&filter=(SECUCODE="${scode}")&p=1&ps=${cfg.ps}&sr=-1&st=REPORT_DATE&token=${dcToken}`;
+    const url = buildDcUrl(cfg);
     const resp = await safeFetch(url, {}, 15000, 1);
     const data = await resp.json();
     return data?.result?.data || [];
@@ -333,6 +442,47 @@ async function handleF10(path, params) {
     }, 15000, 1);
     return await resp.json();
   }
+
+  return { error: `section '${section}' not available for ${market} market` };
+}
+
+// ============ 全球股票市值排名 ============
+
+async function handleGlobalList(params) {
+  const market = params.get('market') || 'us';
+  const size = Math.min(parseInt(params.get('size') || '100'), 200);
+
+  let fs;
+  if (market === 'us') {
+    fs = 'm:105,m:106';
+  } else if (market === 'hk') {
+    fs = 'm:116';
+  } else {
+    fs = 'm:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23';
+  }
+
+  const url = `https://push2.eastmoney.com/api/qt/clist/get?pn=1&pz=${size}&po=1&np=1&fltt=2&invt=2&fid=f20&fs=${fs}&fields=f2,f3,f4,f9,f12,f13,f14,f20,f23,f116`;
+
+  const resp = await safeFetch(url, {}, 10000, 1);
+  const data = await resp.json();
+
+  const items = (data?.data?.diff || []).map(item => ({
+    code: item.f12,
+    name: item.f14,
+    price: item.f2,
+    changePct: item.f3,
+    change: item.f4,
+    totalMV: item.f20,
+    pe: item.f9,
+    pb: item.f23,
+    market: item.f13 === 105 ? 'NASDAQ' : item.f13 === 106 ? 'NYSE' : item.f13 === 116 ? 'HKEX' : String(item.f13),
+  }));
+
+  return {
+    total: data?.data?.total || 0,
+    market,
+    items,
+  };
 }
 
 // ============ 巨潮资讯 ============
@@ -358,7 +508,7 @@ async function handleCninfoSearch(keyword) {
   const items = (data?.keyBoardList || []).map(item => ({
     code: item.code,
     name: item.secAbbr || item.secName,
-    market: item.category,       // "深圳主板" "上海主板" etc
+    market: item.category,
     orgId: item.orgId,
     zwjgdm: item.zwjgdm
   }));
@@ -371,7 +521,7 @@ async function handleCninfoAnnouncement(params) {
   const orgId = params.get('orgId');
   const pageNum = parseInt(params.get('page') || '1');
   const pageSize = parseInt(params.get('size') || '20');
-  const category = params.get('category') || 'category_ndbg_szsh'; // 年报
+  const category = params.get('category') || 'category_ndbg_szsh';
 
   if (!code) return { error: 'code required' };
 
@@ -419,7 +569,7 @@ async function handleCninfoAnnouncement(params) {
       time: item.announcementTime ? new Date(item.announcementTime).toISOString().split('T')[0] : '',
       pdfUrl: `http://static.cninfo.com.cn/${item.adjunctUrl}`,
       size: item.adjunctSize,
-      type: announcementTypeMap[category] || category
+      type: announcementsTypeMap[category] || category
     }))
   };
 }
@@ -428,10 +578,9 @@ async function handleCninfoAnnouncement(params) {
 
 async function handleIndustry(path, params) {
   const parts = path.split('/');
-  const action = parts[3]; // list / compare
+  const action = parts[3];
 
   if (action === 'list') {
-    // 获取行业板块列表
     const url = 'https://push2.eastmoney.com/api/qt/clist/get?pn=1&pz=100&po=1&np=1&fltt=2&invt=2&fid=f3&fs=m:90+t:2&fields=f2,f3,f4,f12,f14';
     const resp = await safeFetch(url, {}, 10000, 1);
     const data = await resp.json();
@@ -446,7 +595,6 @@ async function handleIndustry(path, params) {
   }
 
   if (action === 'stocks') {
-    // 获取行业内个股
     const industryCode = params.get('code');
     if (!industryCode) return { error: 'industry code required' };
 
@@ -474,7 +622,6 @@ async function handleIndustry(path, params) {
  * 市场概览 API — 优先从 KV 缓存读取，回退到 Pages 静态文件
  */
 async function handleMarketOverview(env) {
-  // 尝试 KV 缓存
   if (env.FIN_CACHE) {
     try {
       const cached = await env.FIN_CACHE.get('market_overview', 'json');
@@ -482,7 +629,6 @@ async function handleMarketOverview(env) {
     } catch (e) { /* KV 不可用，继续 fallback */ }
   }
 
-  // Fallback: 从 Pages 静态文件获取
   const pagesUrl = env.PAGES_URL || 'https://danniallcc-creator.github.io/zaiyu-financial-radar';
   const resp = await fetch(`${pagesUrl}/data/market_overview.json`);
   if (!resp.ok) {

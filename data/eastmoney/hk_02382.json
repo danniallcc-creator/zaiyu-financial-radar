@@ -1,0 +1,172 @@
+{
+  "code": "02382",
+  "name": "舜宇光学科技",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:30:07.047049",
+  "profile": {
+    "name": "舜宇光学科技",
+    "code": "02382",
+    "fullName": "舜宇光学科技",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "revenue": 43229126000,
+      "revenueYoY": 12.89,
+      "totalExpenses": 8515888000,
+      "totalExpensesYoY": 21.55,
+      "totalProfit": 5415953000,
+      "totalProfitYoY": 72.29
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "totalProfit": 1865250000,
+      "totalProfitYoY": 49.38,
+      "totalExpenses": 3894448000,
+      "totalExpensesYoY": 19.96,
+      "revenue": 19651919000,
+      "revenueYoY": 4.2
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "totalExpenses": 7006033000,
+      "totalExpensesYoY": 52.62,
+      "totalProfit": 3143534000,
+      "totalProfitYoY": 131.46,
+      "revenue": 38294491000,
+      "revenueYoY": 20.87
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "中报",
+      "totalProfit": 1248701000,
+      "totalProfitYoY": 110.97,
+      "revenue": 18860225000,
+      "revenueYoY": 32.09,
+      "totalExpenses": 3246479000,
+      "totalExpensesYoY": 52.37
+    },
+    {
+      "reportDate": "2023-12-31",
+      "reportType": "年报",
+      "totalProfit": 1358153000,
+      "totalProfitYoY": -49.98,
+      "revenue": 31681261000,
+      "revenueYoY": -4.57,
+      "totalExpenses": 4590441000,
+      "totalExpensesYoY": -30.5
+    },
+    {
+      "reportDate": "2023-06-30",
+      "reportType": "中报",
+      "revenue": 14278565000,
+      "revenueYoY": -15.87,
+      "totalProfit": 591876000,
+      "totalProfitYoY": -64.85,
+      "totalExpenses": 2130588000,
+      "totalExpensesYoY": -39.51
+    },
+    {
+      "reportDate": "2022-12-31",
+      "reportType": "年报",
+      "totalProfit": 2714979000,
+      "totalProfitYoY": -51.82,
+      "totalExpenses": 6604997000,
+      "totalExpensesYoY": -24.4,
+      "revenue": 33196937000,
+      "revenueYoY": -11.47
+    },
+    {
+      "reportDate": "2022-06-30",
+      "reportType": "中报",
+      "totalProfit": 1683760000,
+      "totalProfitYoY": -47.85
+    }
+  ],
+  "balance": [
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "parentEquity": 15318961000,
+      "parentEquityYoY": 1.64,
+      "totalLiabilities": 27044282000,
+      "totalLiabilitiesYoY": 20.75,
+      "nonCurrentLiabilities": 59214751000,
+      "nonCurrentLiabilitiesYoY": 10.05,
+      "currentAssets": 16851508000,
+      "currentAssetsYoY": 3.15,
+      "accountsReceivable": 61830000,
+      "accountsReceivableYoY": -55.29
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "parentEquity": 15741550000,
+      "parentEquityYoY": 9.22,
+      "totalLiabilities": 24799140000,
+      "totalLiabilitiesYoY": 30.08,
+      "nonCurrentLiabilities": 55803963000,
+      "nonCurrentLiabilitiesYoY": 14.97,
+      "currentAssets": 15263273000,
+      "currentAssetsYoY": 1.34,
+      "accountsReceivable": 110190000,
+      "accountsReceivableYoY": -33.78
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "parentEquity": 15072476000,
+      "parentEquityYoY": 8.77,
+      "totalLiabilities": 22397563000,
+      "totalLiabilitiesYoY": 5.22,
+      "nonCurrentLiabilities": 53807258000,
+      "nonCurrentLiabilitiesYoY": 6.98,
+      "currentAssets": 16337219000,
+      "currentAssetsYoY": 7.81,
+      "accountsReceivable": 138295000,
+      "accountsReceivableYoY": -28.9
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "中报",
+      "parentEquity": 14413062000,
+      "parentEquityYoY": 4.57,
+      "totalLiabilities": 19064599000,
+      "totalLiabilitiesYoY": 4.71,
+      "nonCurrentLiabilities": 48539237000,
+      "nonCurrentLiabilitiesYoY": 3.97,
+      "currentAssets": 15061576000,
+      "currentAssetsYoY": 2.5,
+      "accountsReceivable": 166401000,
+      "accountsReceivableYoY": -25.25
+    }
+  ],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "02382",
+    "name": "舜宇光学科技",
+    "price": 79.35,
+    "change": -0.8,
+    "changePct": -1.0,
+    "open": 80.9,
+    "high": 84.55,
+    "low": 78.45,
+    "prevClose": 80.15,
+    "volume": 22064394,
+    "amount": 1780982578.0,
+    "pe": 16.67,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:30:05",
+    "pb": 1.52,
+    "totalMV": 85615860000.0,
+    "circMV": 85615860000.0,
+    "currency": "HKD"
+  }
+}

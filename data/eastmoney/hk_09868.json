@@ -1,0 +1,190 @@
+{
+  "code": "09868",
+  "name": "小鹏集团-W",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:29:59.449497",
+  "profile": {
+    "name": "小鹏集团-W",
+    "code": "09868",
+    "fullName": "小鹏集团-W",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [
+    {
+      "reportDate": "2026-03-31",
+      "reportType": "一季报",
+      "totalExpenses": 2682593000,
+      "totalExpensesYoY": 9.07,
+      "revenue": 13033781000,
+      "revenueYoY": -17.56,
+      "totalProfit": -1774849000,
+      "totalProfitYoY": -170.53
+    },
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "totalExpenses": 14472919000,
+      "totalExpensesYoY": 147.58,
+      "revenue": 76719742000,
+      "revenueYoY": 87.73,
+      "totalProfit": -1125875000,
+      "totalProfitYoY": 80.79
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "totalExpenses": 5626860000,
+      "totalExpensesYoY": 184.25,
+      "totalProfit": -1143230000,
+      "totalProfitYoY": 57.43,
+      "revenue": 34085033000,
+      "revenueYoY": 132.51
+    },
+    {
+      "reportDate": "2025-03-31",
+      "reportType": "一季报",
+      "totalExpenses": 2459530000,
+      "totalExpensesYoY": 191.5,
+      "totalProfit": -656055000,
+      "totalProfitYoY": 52.0,
+      "revenue": 15810628000,
+      "revenueYoY": 141.45
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "revenue": 40866309000,
+      "revenueYoY": 33.22,
+      "totalExpenses": 5845768000,
+      "totalExpensesYoY": 1195.73,
+      "totalProfit": -5860044000,
+      "totalProfitYoY": 43.32
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "中报",
+      "revenue": 14659503000,
+      "revenueYoY": 61.16,
+      "totalProfit": -2685284000,
+      "totalProfitYoY": 47.63,
+      "totalExpenses": 1979543000,
+      "totalExpensesYoY": 1618.53
+    },
+    {
+      "reportDate": "2024-03-31",
+      "reportType": "一季报",
+      "totalExpenses": 843753000,
+      "totalExpensesYoY": 1158.73,
+      "revenue": 6548096000,
+      "revenueYoY": 62.35,
+      "totalProfit": -1366830000,
+      "totalProfitYoY": 41.36
+    },
+    {
+      "reportDate": "2023-12-31",
+      "reportType": "年报",
+      "totalProfit": -10338965000,
+      "totalProfitYoY": -13.44,
+      "revenue": 30676067000,
+      "revenueYoY": 14.23,
+      "totalExpenses": 451155000,
+      "totalExpensesYoY": -85.39
+    },
+    {
+      "reportDate": "2023-06-30",
+      "reportType": "中报",
+      "revenue": 9096116000,
+      "revenueYoY": -38.92,
+      "totalExpenses": -130359000,
+      "totalExpensesYoY": -107.58
+    }
+  ],
+  "balance": [
+    {
+      "reportDate": "2026-03-31",
+      "reportType": "一季报",
+      "parentEquity": 7334211000,
+      "parentEquityYoY": -19.27,
+      "totalLiabilities": 53333519000,
+      "totalLiabilitiesYoY": 24.24,
+      "nonCurrentLiabilities": 100812589000,
+      "nonCurrentLiabilitiesYoY": 13.41,
+      "currentAssets": 40144859000,
+      "currentAssetsYoY": 8.86,
+      "accountsReceivable": 4120041000,
+      "accountsReceivableYoY": -7.9
+    },
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "parentEquity": 5140478000,
+      "parentEquityYoY": -47.92,
+      "totalLiabilities": 58113349000,
+      "totalLiabilitiesYoY": 45.78,
+      "nonCurrentLiabilities": 103162630000,
+      "nonCurrentLiabilitiesYoY": 24.73,
+      "accountsReceivable": 4253168000,
+      "accountsReceivableYoY": -7.75,
+      "currentAssets": 39908803000,
+      "currentAssetsYoY": 21.05
+    },
+    {
+      "reportDate": "2025-09-30",
+      "reportType": "三季报",
+      "parentEquity": 6386114000,
+      "parentEquityYoY": -46.54,
+      "totalLiabilities": 53568537000,
+      "totalLiabilitiesYoY": 67.27,
+      "nonCurrentLiabilities": 98306277000,
+      "nonCurrentLiabilitiesYoY": 28.61,
+      "currentAssets": 38351626000,
+      "currentAssetsYoY": 18.14,
+      "accountsReceivable": 4216325000,
+      "accountsReceivableYoY": -7.78
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "parentEquity": 6807209000,
+      "parentEquityYoY": -54.43,
+      "totalLiabilities": 47963747000,
+      "totalLiabilitiesYoY": 60.97,
+      "nonCurrentLiabilities": 92426959000,
+      "nonCurrentLiabilitiesYoY": 23.24,
+      "currentAssets": 37656003000,
+      "currentAssetsYoY": 24.42,
+      "accountsReceivable": 4333824000,
+      "accountsReceivableYoY": -7.89
+    },
+    {
+      "reportDate": "2025-03-31",
+      "reportType": "一季报",
+      "accountsReceivable": 4473265000,
+      "accountsReceivableYoY": -7.44
+    }
+  ],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "09868",
+    "name": "小鹏集团-W",
+    "price": 51.55,
+    "change": 0.05,
+    "changePct": 0.1,
+    "open": 51.5,
+    "high": 52.35,
+    "low": 49.04,
+    "prevClose": 51.5,
+    "volume": 23540610,
+    "amount": 1187945891.27,
+    "pe": -78.23,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:29:58",
+    "pb": 0.0,
+    "totalMV": 98688710000.0,
+    "circMV": 80712800000.0,
+    "currency": "HKD"
+  }
+}

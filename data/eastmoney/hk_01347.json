@@ -1,0 +1,196 @@
+{
+  "code": "01347",
+  "name": "华虹宏力",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:30:47.553031",
+  "profile": {
+    "name": "华虹宏力",
+    "code": "01347",
+    "fullName": "华虹宏力",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [
+    {
+      "reportDate": "2026-03-31",
+      "reportType": "一季报",
+      "revenue": 660925000,
+      "revenueYoY": 22.18,
+      "totalExpenses": 86059000,
+      "totalExpensesYoY": 72.13,
+      "totalProfit": -22002000,
+      "totalProfitYoY": 60.29
+    },
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "totalExpenses": 282926000,
+      "totalExpensesYoY": 37.93,
+      "revenue": 2402064000,
+      "revenueYoY": 19.86,
+      "totalProfit": -88529000,
+      "totalProfitYoY": 33.83
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "totalProfit": -81111000,
+      "totalProfitYoY": -3.33,
+      "totalExpenses": 111608000,
+      "totalExpensesYoY": 40.04,
+      "revenue": 1107002000,
+      "revenueYoY": 17.95
+    },
+    {
+      "reportDate": "2025-03-31",
+      "reportType": "一季报",
+      "totalProfit": -55407000,
+      "totalProfitYoY": -22.8,
+      "totalExpenses": 49997000,
+      "totalExpensesYoY": 68.73,
+      "revenue": 540937000,
+      "revenueYoY": 17.6
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "totalExpenses": 205128000,
+      "totalExpensesYoY": -57.89,
+      "totalProfit": -133792000,
+      "totalProfitYoY": -177.08,
+      "revenue": 2003993000,
+      "revenueYoY": -12.34
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "中报",
+      "totalProfit": -78498000,
+      "totalProfitYoY": -144.68,
+      "revenue": 938510000,
+      "revenueYoY": -25.65,
+      "totalExpenses": 79695000,
+      "totalExpensesYoY": -78.87
+    },
+    {
+      "reportDate": "2024-03-31",
+      "reportType": "一季报",
+      "totalExpenses": 29632000,
+      "totalExpensesYoY": -85.34,
+      "revenue": 459986000,
+      "revenueYoY": -27.08,
+      "totalProfit": -45118000,
+      "totalProfitYoY": -134.18
+    },
+    {
+      "reportDate": "2023-12-31",
+      "reportType": "年报",
+      "revenue": 2286113000,
+      "revenueYoY": -7.65,
+      "totalProfit": 173579000,
+      "totalProfitYoY": -65.01,
+      "totalExpenses": 487096000,
+      "totalExpensesYoY": -42.26
+    },
+    {
+      "reportDate": "2023-06-30",
+      "reportType": "中报",
+      "revenue": 1262223000,
+      "revenueYoY": 3.85
+    }
+  ],
+  "balance": [
+    {
+      "reportDate": "2026-03-31",
+      "reportType": "一季报",
+      "accountsReceivable": 32834000,
+      "accountsReceivableYoY": 12.75,
+      "parentEquity": 4717895000,
+      "parentEquityYoY": 15.79,
+      "nonCurrentLiabilities": 14947323000,
+      "nonCurrentLiabilitiesYoY": 21.65,
+      "totalLiabilities": 1935629000,
+      "totalLiabilitiesYoY": 34.32,
+      "currentAssets": 8293799000,
+      "currentAssetsYoY": 22.49
+    },
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "accountsReceivable": 35509000,
+      "accountsReceivableYoY": 12.88,
+      "parentEquity": 4750476000,
+      "parentEquityYoY": 11.25,
+      "totalLiabilities": 1856221000,
+      "totalLiabilitiesYoY": 18.82,
+      "nonCurrentLiabilities": 14453772000,
+      "nonCurrentLiabilitiesYoY": 16.42,
+      "currentAssets": 7847075000,
+      "currentAssetsYoY": 19.21
+    },
+    {
+      "reportDate": "2025-09-30",
+      "reportType": "三季报",
+      "parentEquity": 4047534000,
+      "parentEquityYoY": -22.47,
+      "totalLiabilities": 1412773000,
+      "totalLiabilitiesYoY": -23.83,
+      "nonCurrentLiabilities": 12511666000,
+      "nonCurrentLiabilitiesYoY": -4.36,
+      "currentAssets": 7051359000,
+      "currentAssetsYoY": 17.38,
+      "accountsReceivable": 33982000,
+      "accountsReceivableYoY": -12.64
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "parentEquity": 3934155000,
+      "parentEquityYoY": -38.8,
+      "totalLiabilities": 1410798000,
+      "totalLiabilitiesYoY": 31.78,
+      "nonCurrentLiabilities": 12237080000,
+      "nonCurrentLiabilitiesYoY": 1.09,
+      "currentAssets": 6892127000,
+      "currentAssetsYoY": 49.64,
+      "accountsReceivable": 27313000,
+      "accountsReceivableYoY": -35.46
+    },
+    {
+      "reportDate": "2025-03-31",
+      "reportType": "一季报",
+      "parentEquity": 4074695000,
+      "parentEquityYoY": -33.99,
+      "totalLiabilities": 1441057000,
+      "totalLiabilitiesYoY": 48.99,
+      "nonCurrentLiabilities": 12286786000,
+      "nonCurrentLiabilitiesYoY": 5.48,
+      "currentAssets": 6771034000,
+      "currentAssetsYoY": 50.22,
+      "accountsReceivable": 29122000,
+      "accountsReceivableYoY": -37.41
+    }
+  ],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "01347",
+    "name": "华虹宏力",
+    "price": 164.6,
+    "change": -3.5,
+    "changePct": -2.08,
+    "open": 175.8,
+    "high": 176.2,
+    "low": 160.4,
+    "prevClose": 168.1,
+    "volume": 39344973,
+    "amount": 6608419319.75,
+    "pe": 669.71,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:30:46",
+    "pb": 0.0,
+    "totalMV": 286021890000.0,
+    "circMV": 218906239999.99997,
+    "currency": "HKD"
+  }
+}

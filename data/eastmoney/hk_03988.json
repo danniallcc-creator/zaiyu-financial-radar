@@ -1,0 +1,38 @@
+{
+  "code": "03988",
+  "name": "中国银行",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:29:46.835976",
+  "profile": {
+    "name": "中国银行",
+    "code": "03988",
+    "fullName": "中国银行",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [],
+  "balance": [],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "03988",
+    "name": "中国银行",
+    "price": 5.27,
+    "change": 0.0,
+    "changePct": 0.0,
+    "open": 5.23,
+    "high": 5.3,
+    "low": 5.18,
+    "prevClose": 5.27,
+    "volume": 300265305,
+    "amount": 1578658318.16,
+    "pe": 6.31,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:29:45",
+    "pb": 2.29,
+    "totalMV": 1698059409999.9998,
+    "circMV": 440689400000.0,
+    "currency": "HKD"
+  }
+}

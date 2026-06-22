@@ -1,0 +1,180 @@
+{
+  "code": "00981",
+  "name": "中芯国际",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:30:03.231705",
+  "profile": {
+    "name": "中芯国际",
+    "code": "00981",
+    "fullName": "中芯国际",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [
+    {
+      "reportDate": "2026-03-31",
+      "reportType": "一季报",
+      "revenue": 2505487000,
+      "revenueYoY": 11.49,
+      "totalProfit": 255331000,
+      "totalProfitYoY": -26.9,
+      "totalExpenses": 503603000,
+      "totalExpensesYoY": -0.45
+    },
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "totalExpenses": 1956599000,
+      "totalExpensesYoY": 35.13,
+      "revenue": 9326799000,
+      "revenueYoY": 16.15,
+      "totalProfit": 1073257000,
+      "totalProfitYoY": 24.86
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "revenue": 4456267000,
+      "revenueYoY": 22.04,
+      "totalExpenses": 955667000,
+      "totalExpensesYoY": 89.32,
+      "totalProfit": 509678000,
+      "totalProfitYoY": 94.96
+    },
+    {
+      "reportDate": "2025-03-31",
+      "reportType": "一季报",
+      "totalProfit": 349276000,
+      "totalProfitYoY": 369.37,
+      "totalExpenses": 505868000,
+      "totalExpensesYoY": 111.04,
+      "revenue": 2247201000,
+      "revenueYoY": 28.4
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "totalProfit": 859558000,
+      "totalProfitYoY": -27.61,
+      "revenue": 8029921000,
+      "revenueYoY": 27.02,
+      "totalExpenses": 1447968000,
+      "totalExpensesYoY": 18.91
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "中报",
+      "totalProfit": 261428000,
+      "totalProfitYoY": -66.12,
+      "revenue": 3651452000,
+      "revenueYoY": 20.8,
+      "totalExpenses": 504797000,
+      "totalExpensesYoY": -18.73
+    },
+    {
+      "reportDate": "2024-03-31",
+      "reportType": "一季报",
+      "totalExpenses": 239704000,
+      "totalExpensesYoY": -21.32,
+      "revenue": 1750176000,
+      "revenueYoY": 19.69,
+      "totalProfit": 74413000,
+      "totalProfitYoY": -73.03
+    },
+    {
+      "reportDate": "2023-12-31",
+      "reportType": "年报",
+      "totalExpenses": 1217744000,
+      "totalExpensesYoY": -55.91
+    }
+  ],
+  "balance": [
+    {
+      "reportDate": "2026-03-31",
+      "reportType": "一季报",
+      "parentEquity": 9248534000,
+      "parentEquityYoY": 68.64,
+      "totalLiabilities": 8563472000,
+      "totalLiabilitiesYoY": 16.62,
+      "nonCurrentLiabilities": 54973904000,
+      "nonCurrentLiabilitiesYoY": 14.61,
+      "currentAssets": 37161898000,
+      "currentAssetsYoY": 5.76,
+      "accountsReceivable": 19639000,
+      "accountsReceivableYoY": -10.2
+    },
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "parentEquity": 8807965000,
+      "parentEquityYoY": 46.21,
+      "totalLiabilities": 6817064000,
+      "totalLiabilitiesYoY": -22.18,
+      "nonCurrentLiabilities": 52271308000,
+      "nonCurrentLiabilitiesYoY": 6.33,
+      "currentAssets": 36646279000,
+      "currentAssetsYoY": 6.6,
+      "accountsReceivable": 20397000,
+      "accountsReceivableYoY": -15.95
+    },
+    {
+      "reportDate": "2025-09-30",
+      "reportType": "三季报",
+      "parentEquity": 6128713000,
+      "parentEquityYoY": 53.27,
+      "totalLiabilities": 8015874000,
+      "totalLiabilitiesYoY": 14.06,
+      "nonCurrentLiabilities": 49426552000,
+      "nonCurrentLiabilitiesYoY": 4.69,
+      "currentAssets": 35281965000,
+      "currentAssetsYoY": -2.49,
+      "accountsReceivable": 21887000,
+      "accountsReceivableYoY": -15.63
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "parentEquity": 6935841000,
+      "parentEquityYoY": 88.45,
+      "totalLiabilities": 7463129000,
+      "totalLiabilitiesYoY": -1.01,
+      "nonCurrentLiabilities": 49446163000,
+      "nonCurrentLiabilitiesYoY": 4.42,
+      "currentAssets": 35047193000,
+      "currentAssetsYoY": -3.0,
+      "accountsReceivable": 20031000,
+      "accountsReceivableYoY": -30.34
+    },
+    {
+      "reportDate": "2025-03-31",
+      "reportType": "一季报",
+      "currentAssets": 35138101000,
+      "currentAssetsYoY": -0.08,
+      "accountsReceivable": 21870000,
+      "accountsReceivableYoY": -31.37
+    }
+  ],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "00981",
+    "name": "中芯国际",
+    "price": 78.9,
+    "change": 2.4,
+    "changePct": 3.14,
+    "open": 78.8,
+    "high": 82.4,
+    "low": 77.15,
+    "prevClose": 76.5,
+    "volume": 171994651,
+    "amount": 13669507199.7,
+    "pe": 118.59,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:30:02",
+    "pb": 0.0,
+    "totalMV": 632264750000.0,
+    "circMV": 474499259999.99994,
+    "currency": "HKD"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "code": "AXP",
+  "name": "美国运通",
+  "market": "us",
+  "currency": "USD",
+  "fetchTime": "2026-06-22T23:18:31.312718",
+  "profile": {
+    "name": "美国运通",
+    "code": "AXP",
+    "fullName": "美国运通",
+    "securityType": "美股"
+  },
+  "financial": [],
+  "income": [],
+  "balance": [],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "AXP.N",
+    "name": "美国运通",
+    "price": 336.33,
+    "change": -1.67,
+    "changePct": -0.49,
+    "open": 337.98,
+    "high": 340.25,
+    "low": 335.88,
+    "prevClose": 338.0,
+    "volume": 492313,
+    "amount": 166351326.0,
+    "pe": 20.99,
+    "turnover": 0.07,
+    "fetchTime": "2026-06-22T23:18:26",
+    "pb": 21.87,
+    "totalMV": 229486853000.00003,
+    "circMV": 178327080000.0,
+    "currency": "USD"
+  }
+}

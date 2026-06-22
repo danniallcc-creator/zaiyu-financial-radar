@@ -1,0 +1,206 @@
+{
+  "code": "09999",
+  "name": "网易-S",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:29:55.871086",
+  "profile": {
+    "name": "网易-S",
+    "code": "09999",
+    "fullName": "网易-S",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [
+    {
+      "reportDate": "2026-03-31",
+      "reportType": "一季报",
+      "totalExpenses": 21217072000,
+      "totalExpensesYoY": 14.81,
+      "totalProfit": 13369442000,
+      "totalProfitYoY": 7.37,
+      "revenue": 30591281000,
+      "revenueYoY": 6.11
+    },
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "totalExpenses": 72401868000,
+      "totalExpensesYoY": 10.02,
+      "revenue": 112625807000,
+      "revenueYoY": 6.96,
+      "totalProfit": 40830470000,
+      "totalProfitYoY": 14.31
+    },
+    {
+      "reportDate": "2025-09-30",
+      "reportType": "三季报",
+      "totalExpenses": 54709493000,
+      "totalExpensesYoY": 10.45,
+      "revenue": 85078834000,
+      "revenueYoY": 8.32,
+      "totalProfit": 33210096000,
+      "totalProfitYoY": 30.68
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "revenue": 56720209000,
+      "revenueYoY": 8.37,
+      "totalProfit": 23101136000,
+      "totalProfitYoY": 32.63,
+      "totalExpenses": 36531888000,
+      "totalExpensesYoY": 10.51
+    },
+    {
+      "reportDate": "2025-03-31",
+      "reportType": "一季报",
+      "totalExpenses": 18479406000,
+      "totalExpensesYoY": 8.6,
+      "totalProfit": 12451914000,
+      "totalProfitYoY": 34.06,
+      "revenue": 28828545000,
+      "revenueYoY": 7.36
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "totalProfit": 35717755000,
+      "totalProfitYoY": 4.88,
+      "revenue": 105295236000,
+      "revenueYoY": 1.77,
+      "totalExpenses": 65807084000,
+      "totalExpensesYoY": 4.35
+    },
+    {
+      "reportDate": "2024-09-30",
+      "reportType": "三季报",
+      "revenue": 78547425000,
+      "revenueYoY": 2.91,
+      "totalExpenses": 49534743000,
+      "totalExpensesYoY": 7.13,
+      "totalProfit": 25413788000,
+      "totalProfitYoY": -3.41
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "中报",
+      "revenue": 52337546000,
+      "revenueYoY": 6.69,
+      "totalExpenses": 33058138000,
+      "totalExpensesYoY": 12.93,
+      "totalProfit": 17417805000,
+      "totalProfitYoY": 1.2
+    },
+    {
+      "reportDate": "2024-03-31",
+      "reportType": "一季报",
+      "totalExpenses": 17015920000,
+      "totalExpensesYoY": 14.23,
+      "totalProfit": 9288270000,
+      "totalProfitYoY": 11.38,
+      "revenue": 26851741000,
+      "revenueYoY": 7.21
+    },
+    {
+      "reportDate": "2023-12-31",
+      "reportType": "年报",
+      "revenue": 103468159000,
+      "revenueYoY": 7.23,
+      "totalExpenses": 63063394000,
+      "totalExpensesYoY": 19.51,
+      "totalProfit": 34056927000,
+      "totalProfitYoY": 40.44
+    }
+  ],
+  "balance": [
+    {
+      "reportDate": "2026-03-31",
+      "reportType": "一季报",
+      "currentAssets": 42738408000,
+      "currentAssetsYoY": -1.04,
+      "parentEquity": 131221478000,
+      "parentEquityYoY": 20.91,
+      "totalLiabilities": 57437159000,
+      "totalLiabilitiesYoY": 16.89,
+      "nonCurrentLiabilities": 231397045000,
+      "nonCurrentLiabilitiesYoY": 15.2
+    },
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "currentAssets": 40799583000,
+      "currentAssetsYoY": -4.38,
+      "parentEquity": 128246521000,
+      "parentEquityYoY": 23.72,
+      "totalLiabilities": 52368956000,
+      "totalLiabilitiesYoY": 5.44,
+      "nonCurrentLiabilities": 221415060000,
+      "nonCurrentLiabilitiesYoY": 12.97
+    },
+    {
+      "reportDate": "2025-09-30",
+      "reportType": "三季报",
+      "parentEquity": 121121232000,
+      "parentEquityYoY": 27.68,
+      "totalLiabilities": 50088565000,
+      "totalLiabilitiesYoY": 9.57,
+      "nonCurrentLiabilities": 214488863000,
+      "nonCurrentLiabilitiesYoY": 16.0,
+      "currentAssets": 43279066000,
+      "currentAssetsYoY": -2.34
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "parentEquity": 112498205000,
+      "parentEquityYoY": 21.98,
+      "totalLiabilities": 50451907000,
+      "totalLiabilitiesYoY": 9.85,
+      "nonCurrentLiabilities": 208498653000,
+      "nonCurrentLiabilitiesYoY": 13.72,
+      "currentAssets": 45548541000,
+      "currentAssetsYoY": 0.79
+    },
+    {
+      "reportDate": "2025-03-31",
+      "reportType": "一季报",
+      "parentEquity": 108532527000,
+      "parentEquityYoY": 18.3,
+      "totalLiabilities": 49138183000,
+      "totalLiabilitiesYoY": -18.17,
+      "nonCurrentLiabilities": 200858132000,
+      "nonCurrentLiabilitiesYoY": 2.97,
+      "currentAssets": 43187422000,
+      "currentAssetsYoY": -0.2
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "currentAssets": 42666894000,
+      "currentAssetsYoY": -1.31
+    }
+  ],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "09999",
+    "name": "网易-S",
+    "price": 190.2,
+    "change": -0.3,
+    "changePct": -0.16,
+    "open": 191.9,
+    "high": 192.1,
+    "low": 186.7,
+    "prevClose": 190.5,
+    "volume": 5233468,
+    "amount": 993872834.24,
+    "pe": 16.24,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:29:54",
+    "pb": 2.47,
+    "totalMV": 606859830000.0,
+    "circMV": 606859830000.0,
+    "currency": "HKD"
+  }
+}

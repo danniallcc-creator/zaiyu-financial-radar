@@ -1,0 +1,180 @@
+{
+  "code": "01929",
+  "name": "周大福",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:29:48.616027",
+  "profile": {
+    "name": "周大福",
+    "code": "01929",
+    "fullName": "周大福",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [
+    {
+      "reportDate": "2026-03-31",
+      "reportType": "年报",
+      "totalExpenses": 30500400000,
+      "totalExpensesYoY": 15.29,
+      "totalProfit": 11945800000,
+      "totalProfitYoY": 50.88,
+      "revenue": 94398400000,
+      "revenueYoY": 5.29
+    },
+    {
+      "reportDate": "2025-09-30",
+      "reportType": "中报",
+      "totalProfit": 3369000000,
+      "totalProfitYoY": -0.14,
+      "revenue": 38986100000,
+      "revenueYoY": -1.07,
+      "totalExpenses": 11907800000,
+      "totalExpensesYoY": -3.8
+    },
+    {
+      "reportDate": "2025-03-31",
+      "reportType": "年报",
+      "totalExpenses": 26454800000,
+      "totalExpensesYoY": 1.58,
+      "revenue": 89656000000,
+      "revenueYoY": -17.53,
+      "totalProfit": 7917300000,
+      "totalProfitYoY": -9.29
+    },
+    {
+      "reportDate": "2024-09-30",
+      "reportType": "中报",
+      "revenue": 39407700000,
+      "revenueYoY": -20.43,
+      "totalExpenses": 12378000000,
+      "totalExpensesYoY": 0.55,
+      "totalProfit": 3373700000,
+      "totalProfitYoY": -44.45
+    },
+    {
+      "reportDate": "2024-03-31",
+      "reportType": "年报",
+      "totalProfit": 8728300000,
+      "totalProfitYoY": 17.21,
+      "revenue": 108713000000,
+      "revenueYoY": 14.82,
+      "totalExpenses": 26042400000,
+      "totalExpensesYoY": 23.01
+    },
+    {
+      "reportDate": "2023-09-30",
+      "reportType": "中报",
+      "totalExpenses": 12310700000,
+      "totalExpensesYoY": 12.3,
+      "revenue": 49526300000,
+      "revenueYoY": 6.43,
+      "totalProfit": 6073700000,
+      "totalProfitYoY": 34.42
+    },
+    {
+      "reportDate": "2023-03-31",
+      "reportType": "年报",
+      "totalExpenses": 21171500000,
+      "totalExpensesYoY": -5.23,
+      "totalProfit": 7446500000,
+      "totalProfitYoY": -17.1,
+      "revenue": 94684400000,
+      "revenueYoY": -4.3
+    }
+  ],
+  "balance": [
+    {
+      "reportDate": "2026-03-31",
+      "reportType": "年报",
+      "parentEquity": 31099100000,
+      "parentEquityYoY": 62.43,
+      "totalLiabilities": 45538200000,
+      "totalLiabilitiesYoY": -5.38,
+      "nonCurrentLiabilities": 85854500000,
+      "nonCurrentLiabilitiesYoY": 12.19,
+      "currentAssets": 9217200000,
+      "currentAssetsYoY": -0.36,
+      "accountsReceivable": 5300000,
+      "accountsReceivableYoY": -23.19
+    },
+    {
+      "reportDate": "2025-09-30",
+      "reportType": "中报",
+      "parentEquity": 25979900000,
+      "parentEquityYoY": 34.92,
+      "totalLiabilities": 52000700000,
+      "totalLiabilitiesYoY": -10.45,
+      "nonCurrentLiabilities": 87150100000,
+      "nonCurrentLiabilitiesYoY": 0.33,
+      "currentAssets": 9169500000,
+      "currentAssetsYoY": -3.87,
+      "accountsReceivable": 6100000,
+      "accountsReceivableYoY": -20.78
+    },
+    {
+      "reportDate": "2025-03-31",
+      "reportType": "年报",
+      "parentEquity": 19145600000,
+      "parentEquityYoY": -11.62,
+      "totalLiabilities": 48128100000,
+      "totalLiabilitiesYoY": -16.33,
+      "nonCurrentLiabilities": 76524400000,
+      "nonCurrentLiabilitiesYoY": -13.84,
+      "currentAssets": 9250700000,
+      "currentAssetsYoY": -4.0,
+      "accountsReceivable": 6900000,
+      "accountsReceivableYoY": -72.4
+    },
+    {
+      "reportDate": "2024-09-30",
+      "reportType": "中报",
+      "parentEquity": 19255100000,
+      "parentEquityYoY": -9.7,
+      "totalLiabilities": 58068800000,
+      "totalLiabilitiesYoY": 6.56,
+      "nonCurrentLiabilities": 86862400000,
+      "nonCurrentLiabilitiesYoY": 2.14,
+      "currentAssets": 9538500000,
+      "currentAssetsYoY": 3.36,
+      "accountsReceivable": 7700000,
+      "accountsReceivableYoY": -83.15
+    },
+    {
+      "reportDate": "2024-03-31",
+      "reportType": "年报",
+      "parentEquity": 21662000000,
+      "parentEquityYoY": -17.46,
+      "totalLiabilities": 57520400000,
+      "totalLiabilitiesYoY": 12.74,
+      "nonCurrentLiabilities": 88819000000,
+      "nonCurrentLiabilitiesYoY": 1.69,
+      "currentAssets": 9636600000,
+      "currentAssetsYoY": -4.34,
+      "accountsReceivable": 25000000,
+      "accountsReceivableYoY": -62.29
+    }
+  ],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "01929",
+    "name": "周大福",
+    "price": 12.22,
+    "change": -0.17,
+    "changePct": -1.37,
+    "open": 12.33,
+    "high": 12.45,
+    "low": 12.1,
+    "prevClose": 12.39,
+    "volume": 28831209,
+    "amount": 352648824.36,
+    "pe": 13.39,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:29:47",
+    "pb": 4.42,
+    "totalMV": 120549620000.0,
+    "circMV": 120549620000.0,
+    "currency": "HKD"
+  }
+}

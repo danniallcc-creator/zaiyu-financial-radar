@@ -1,0 +1,188 @@
+{
+  "code": "01038",
+  "name": "长江基建集团",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:30:08.849280",
+  "profile": {
+    "name": "长江基建集团",
+    "code": "01038",
+    "fullName": "长江基建集团",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "totalExpenses": 146000000,
+      "totalExpensesYoY": -82.68,
+      "totalProfit": 8843000000,
+      "totalProfitYoY": 1.98,
+      "revenue": 4418000000,
+      "revenueYoY": -11.52
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "revenue": 2209000000,
+      "revenueYoY": -10.86,
+      "totalProfit": 4619000000,
+      "totalProfitYoY": 0.92,
+      "totalExpenses": 382000000,
+      "totalExpensesYoY": -31.79
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "totalExpenses": 843000000,
+      "totalExpensesYoY": -51.36,
+      "totalProfit": 8671000000,
+      "totalProfitYoY": 1.08,
+      "revenue": 4993000000,
+      "revenueYoY": -16.64
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "中报",
+      "totalProfit": 4577000000,
+      "totalProfitYoY": 1.51,
+      "revenue": 2478000000,
+      "revenueYoY": -22.08,
+      "totalExpenses": 560000000,
+      "totalExpensesYoY": -47.81
+    },
+    {
+      "reportDate": "2023-12-31",
+      "reportType": "年报",
+      "revenue": 5990000000,
+      "revenueYoY": -9.45,
+      "totalProfit": 8578000000,
+      "totalProfitYoY": 3.42,
+      "totalExpenses": 1733000000,
+      "totalExpensesYoY": -23.01
+    },
+    {
+      "reportDate": "2023-06-30",
+      "reportType": "中报",
+      "revenue": 3180000000,
+      "revenueYoY": -5.94,
+      "totalProfit": 4509000000,
+      "totalProfitYoY": -3.76,
+      "totalExpenses": 1073000000,
+      "totalExpensesYoY": -15.18
+    },
+    {
+      "reportDate": "2022-12-31",
+      "reportType": "年报",
+      "totalExpenses": 2251000000,
+      "totalExpensesYoY": -7.02,
+      "totalProfit": 8294000000,
+      "totalProfitYoY": 2.21,
+      "revenue": 6615000000,
+      "revenueYoY": -6.14
+    },
+    {
+      "reportDate": "2022-06-30",
+      "reportType": "中报",
+      "revenue": 3381000000,
+      "revenueYoY": -5.77,
+      "totalExpenses": 1265000000,
+      "totalExpensesYoY": -22.2,
+      "totalProfit": 4685000000,
+      "totalProfitYoY": 40.78
+    }
+  ],
+  "balance": [
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "parentEquity": -1012000000,
+      "parentEquityYoY": 41.37,
+      "totalLiabilities": 9169000000,
+      "totalLiabilitiesYoY": -18.12,
+      "nonCurrentLiabilities": 166262000000,
+      "nonCurrentLiabilitiesYoY": 5.34,
+      "currentAssets": 158105000000,
+      "currentAssetsYoY": 6.56
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "parentEquity": -2374000000,
+      "parentEquityYoY": 71.73,
+      "totalLiabilities": 7946000000,
+      "totalLiabilitiesYoY": -58.64,
+      "nonCurrentLiabilities": 164622000000,
+      "nonCurrentLiabilitiesYoY": 1.62,
+      "currentAssets": 159050000000,
+      "currentAssetsYoY": 5.21
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "parentEquity": -1726000000,
+      "parentEquityYoY": -14.15,
+      "totalLiabilities": 11198000000,
+      "totalLiabilitiesYoY": -30.44,
+      "nonCurrentLiabilities": 157837000000,
+      "nonCurrentLiabilitiesYoY": -4.84,
+      "currentAssets": 148365000000,
+      "currentAssetsYoY": -1.93
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "中报",
+      "parentEquity": -8399000000,
+      "parentEquityYoY": -293.79,
+      "totalLiabilities": 19213000000,
+      "totalLiabilitiesYoY": 113.69,
+      "nonCurrentLiabilities": 161995000000,
+      "nonCurrentLiabilitiesYoY": -2.33,
+      "currentAssets": 151181000000,
+      "currentAssetsYoY": -0.89
+    },
+    {
+      "reportDate": "2023-12-31",
+      "reportType": "年报",
+      "currentAssets": 151286000000,
+      "currentAssetsYoY": 3.38,
+      "parentEquity": -1512000000,
+      "parentEquityYoY": -120.84,
+      "totalLiabilities": 16099000000,
+      "totalLiabilitiesYoY": 31.23,
+      "nonCurrentLiabilities": 165873000000,
+      "nonCurrentLiabilitiesYoY": 0.0
+    },
+    {
+      "reportDate": "2023-06-30",
+      "reportType": "中报",
+      "nonCurrentLiabilities": 165868000000,
+      "nonCurrentLiabilitiesYoY": 0.82,
+      "currentAssets": 152543000000,
+      "currentAssetsYoY": 0.84
+    }
+  ],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "01038",
+    "name": "长江基建集团",
+    "price": 58.15,
+    "change": -0.35,
+    "changePct": -0.6,
+    "open": 58.85,
+    "high": 58.85,
+    "low": 56.9,
+    "prevClose": 58.5,
+    "volume": 2692029,
+    "amount": 156043107.25,
+    "pe": 17.73,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:30:07",
+    "pb": 4.49,
+    "totalMV": 146515380000.0,
+    "circMV": 146515380000.0,
+    "currency": "HKD"
+  }
+}

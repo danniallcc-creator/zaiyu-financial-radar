@@ -1,0 +1,38 @@
+{
+  "code": "CB",
+  "name": "安达保险",
+  "market": "us",
+  "currency": "USD",
+  "fetchTime": "2026-06-22T23:18:37.721974",
+  "profile": {
+    "name": "安达保险",
+    "code": "CB",
+    "fullName": "安达保险",
+    "securityType": "美股"
+  },
+  "financial": [],
+  "income": [],
+  "balance": [],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "CB.N",
+    "name": "安达保险",
+    "price": 327.62,
+    "change": 4.22,
+    "changePct": 1.3,
+    "open": 325.37,
+    "high": 330.03,
+    "low": 324.63,
+    "prevClose": 323.4,
+    "volume": 245906,
+    "amount": 80686168.0,
+    "pe": 11.59,
+    "turnover": 0.06,
+    "fetchTime": "2026-06-22T23:18:31",
+    "pb": 12.76,
+    "totalMV": 127070689000.0,
+    "circMV": 126603895000.00002,
+    "currency": "USD"
+  }
+}

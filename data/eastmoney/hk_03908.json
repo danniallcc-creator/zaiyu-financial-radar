@@ -1,0 +1,38 @@
+{
+  "code": "03908",
+  "name": "中金公司",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:30:45.571361",
+  "profile": {
+    "name": "中金公司",
+    "code": "03908",
+    "fullName": "中金公司",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [],
+  "balance": [],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "03908",
+    "name": "中金公司",
+    "price": 21.72,
+    "change": 1.58,
+    "changePct": 7.85,
+    "open": 20.0,
+    "high": 21.84,
+    "low": 19.9,
+    "prevClose": 20.14,
+    "volume": 39432690,
+    "amount": 839544836.4,
+    "pe": 9.67,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:30:44",
+    "pb": 0.91,
+    "totalMV": 104848020000.0,
+    "circMV": 41348680000.0,
+    "currency": "HKD"
+  }
+}

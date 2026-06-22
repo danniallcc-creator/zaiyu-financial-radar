@@ -1,0 +1,38 @@
+{
+  "code": "GS",
+  "name": "高盛",
+  "market": "us",
+  "currency": "USD",
+  "fetchTime": "2026-06-22T23:18:13.656616",
+  "profile": {
+    "name": "高盛",
+    "code": "GS",
+    "fullName": "高盛",
+    "securityType": "美股"
+  },
+  "financial": [],
+  "income": [],
+  "balance": [],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "GS.N",
+    "name": "高盛",
+    "price": 1096.83,
+    "change": 0.27,
+    "changePct": 0.02,
+    "open": 1109.7,
+    "high": 1115.98,
+    "low": 1091.62,
+    "prevClose": 1096.56,
+    "volume": 463342,
+    "amount": 509431415.0,
+    "pe": 20.03,
+    "turnover": 0.16,
+    "fetchTime": "2026-06-22T23:18:08",
+    "pb": 21.37,
+    "totalMV": 323571515000.0,
+    "circMV": 321795952000.0,
+    "currency": "USD"
+  }
+}

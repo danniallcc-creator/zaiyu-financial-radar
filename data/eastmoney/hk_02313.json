@@ -1,0 +1,196 @@
+{
+  "code": "02313",
+  "name": "申洲国际",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:30:32.823280",
+  "profile": {
+    "name": "申洲国际",
+    "code": "02313",
+    "fullName": "申洲国际",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "revenue": 30993732000,
+      "revenueYoY": 8.13,
+      "totalProfit": 6665775000,
+      "totalProfitYoY": -6.95,
+      "totalExpenses": 8165360000,
+      "totalExpensesYoY": 1.37
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "revenue": 14966384000,
+      "revenueYoY": 15.34,
+      "totalProfit": 3632120000,
+      "totalProfitYoY": 11.78,
+      "totalExpenses": 4058018000,
+      "totalExpensesYoY": 7.88
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "totalExpenses": 8054897000,
+      "totalExpensesYoY": 32.92,
+      "totalProfit": 7163778000,
+      "totalProfitYoY": 43.4,
+      "revenue": 28662938000,
+      "revenueYoY": 14.79
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "中报",
+      "totalExpenses": 3761469000,
+      "totalExpensesYoY": 44.96,
+      "revenue": 12975971000,
+      "revenueYoY": 12.23,
+      "totalProfit": 3249209000,
+      "totalProfitYoY": 38.36
+    },
+    {
+      "reportDate": "2023-12-31",
+      "reportType": "年报",
+      "totalExpenses": 6059876000,
+      "totalExpensesYoY": -1.08,
+      "revenue": 24969792000,
+      "revenueYoY": -10.12,
+      "totalProfit": 4995501000,
+      "totalProfitYoY": -5.07
+    },
+    {
+      "reportDate": "2023-06-30",
+      "reportType": "中报",
+      "totalExpenses": 2594904000,
+      "totalExpensesYoY": -15.35,
+      "revenue": 11561962000,
+      "revenueYoY": -14.94,
+      "totalProfit": 2348424000,
+      "totalProfitYoY": -15.17
+    },
+    {
+      "reportDate": "2022-12-31",
+      "reportType": "年报",
+      "totalProfit": 5262073000,
+      "totalProfitYoY": 37.63,
+      "revenue": 27781412000,
+      "revenueYoY": 16.51,
+      "totalExpenses": 6125849000,
+      "totalExpensesYoY": 5.81
+    },
+    {
+      "reportDate": "2022-06-30",
+      "reportType": "中报",
+      "revenue": 13592789000,
+      "revenueYoY": 19.56,
+      "totalExpenses": 3065607000,
+      "totalExpensesYoY": -9.09,
+      "totalProfit": 2768408000,
+      "totalProfitYoY": 9.42
+    },
+    {
+      "reportDate": "2021-12-31",
+      "reportType": "年报",
+      "totalExpenses": 5789647000,
+      "totalExpensesYoY": -19.53
+    }
+  ],
+  "balance": [
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "parentEquity": 23320181000,
+      "parentEquityYoY": 7.24,
+      "totalLiabilities": 18843543000,
+      "totalLiabilitiesYoY": 11.99,
+      "nonCurrentLiabilities": 56942995000,
+      "nonCurrentLiabilitiesYoY": 7.22,
+      "currentAssets": 14779271000,
+      "currentAssetsYoY": 1.67,
+      "accountsReceivable": 125756000,
+      "accountsReceivableYoY": -4.61
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "parentEquity": 23137710000,
+      "parentEquityYoY": 19.04,
+      "totalLiabilities": 18801843000,
+      "totalLiabilitiesYoY": 48.69,
+      "nonCurrentLiabilities": 56177197000,
+      "nonCurrentLiabilitiesYoY": 14.61,
+      "currentAssets": 14237644000,
+      "currentAssetsYoY": -15.92,
+      "accountsReceivable": 128998000,
+      "accountsReceivableYoY": 0.55
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "parentEquity": 21745622000,
+      "parentEquityYoY": 44.06,
+      "totalLiabilities": 16826163000,
+      "totalLiabilitiesYoY": 25.71,
+      "nonCurrentLiabilities": 53107848000,
+      "nonCurrentLiabilitiesYoY": 9.25,
+      "currentAssets": 14536063000,
+      "currentAssetsYoY": -27.79,
+      "accountsReceivable": 131840000,
+      "accountsReceivableYoY": 2.58
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "中报",
+      "parentEquity": 19437557000,
+      "parentEquityYoY": 42.57,
+      "totalLiabilities": 12644941000,
+      "totalLiabilitiesYoY": 7.43,
+      "nonCurrentLiabilities": 49015805000,
+      "nonCurrentLiabilitiesYoY": 5.78,
+      "currentAssets": 16933307000,
+      "currentAssetsYoY": -19.1,
+      "accountsReceivable": 128293000,
+      "accountsReceivableYoY": 0.16
+    },
+    {
+      "reportDate": "2023-12-31",
+      "reportType": "年报",
+      "parentEquity": 15095005000,
+      "parentEquityYoY": -5.09,
+      "totalLiabilities": 13384483000,
+      "totalLiabilitiesYoY": 30.46,
+      "nonCurrentLiabilities": 48611137000,
+      "nonCurrentLiabilitiesYoY": 11.77,
+      "currentAssets": 20131649000,
+      "currentAssetsYoY": 16.18,
+      "accountsReceivable": 128528000,
+      "accountsReceivableYoY": 2.83
+    }
+  ],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "02313",
+    "name": "申洲国际",
+    "price": 40.7,
+    "change": -1.32,
+    "changePct": -3.14,
+    "open": 41.98,
+    "high": 41.98,
+    "low": 40.52,
+    "prevClose": 42.02,
+    "volume": 5720169,
+    "amount": 233934002.24,
+    "pe": 9.48,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:30:31",
+    "pb": 6.34,
+    "totalMV": 61165430000.0,
+    "circMV": 61165430000.0,
+    "currency": "HKD"
+  }
+}

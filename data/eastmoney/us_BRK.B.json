@@ -1,0 +1,38 @@
+{
+  "code": "BRK.B",
+  "name": "伯克希尔B",
+  "market": "us",
+  "currency": "USD",
+  "fetchTime": "2026-06-22T23:13:56.037931",
+  "profile": {
+    "name": "伯克希尔B",
+    "code": "BRK.B",
+    "fullName": "伯克希尔B",
+    "securityType": "美股"
+  },
+  "financial": [],
+  "income": [],
+  "balance": [],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "BRK.B.N",
+    "name": "伯克希尔B",
+    "price": 489.6,
+    "change": 0.14,
+    "changePct": 0.03,
+    "open": 488.75,
+    "high": 492.48,
+    "low": 488.69,
+    "prevClose": 489.46,
+    "volume": 1034972,
+    "amount": 507690164.0,
+    "pe": 14.57,
+    "turnover": 0.05,
+    "fetchTime": "2026-06-22T23:13:42",
+    "pb": 15.77,
+    "totalMV": 1055995619000.0001,
+    "circMV": 606069343000.0,
+    "currency": "USD"
+  }
+}

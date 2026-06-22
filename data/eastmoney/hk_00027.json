@@ -1,0 +1,192 @@
+{
+  "code": "00027",
+  "name": "银河娱乐",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:30:20.137609",
+  "profile": {
+    "name": "银河娱乐",
+    "code": "00027",
+    "fullName": "银河娱乐",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "totalProfit": 10928824000,
+      "totalProfitYoY": 21.89,
+      "revenue": 49242325000,
+      "revenueYoY": 13.38,
+      "totalExpenses": 48034967000,
+      "totalExpensesYoY": 14.15
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "totalExpenses": 22623380000,
+      "totalExpensesYoY": 8.96,
+      "totalProfit": 5359134000,
+      "totalProfitYoY": 19.65,
+      "revenue": 23245975000,
+      "revenueYoY": 8.27
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "revenue": 43432373000,
+      "revenueYoY": 21.71,
+      "totalProfit": 8966171000,
+      "totalProfitYoY": 28.51,
+      "totalExpenses": 42081153000,
+      "totalExpensesYoY": 22.57
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "中报",
+      "totalExpenses": 20762673000,
+      "totalExpensesYoY": 38.3,
+      "totalProfit": 4479042000,
+      "totalProfitYoY": 52.12,
+      "revenue": 21470552000,
+      "revenueYoY": 36.62
+    },
+    {
+      "reportDate": "2023-12-31",
+      "reportType": "年报",
+      "totalExpenses": 34332748000,
+      "totalExpensesYoY": 239.54,
+      "revenue": 35684253000,
+      "revenueYoY": 211.01,
+      "totalProfit": 6976918000,
+      "totalProfitYoY": 308.12
+    },
+    {
+      "reportDate": "2023-06-30",
+      "reportType": "中报",
+      "revenue": 15715349000,
+      "revenueYoY": 140.89,
+      "totalProfit": 2944395000,
+      "totalProfitYoY": 467.13,
+      "totalExpenses": 15012916000,
+      "totalExpensesYoY": 155.41
+    },
+    {
+      "reportDate": "2022-12-31",
+      "reportType": "年报",
+      "totalProfit": -3352290000,
+      "totalProfitYoY": -320.39,
+      "revenue": 11473793000,
+      "revenueYoY": -41.74,
+      "totalExpenses": 10111695000,
+      "totalExpensesYoY": -44.46
+    },
+    {
+      "reportDate": "2022-06-30",
+      "reportType": "中报",
+      "totalExpenses": 5877927000,
+      "totalExpensesYoY": -40.88
+    }
+  ],
+  "balance": [
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "parentEquity": 7176527000,
+      "parentEquityYoY": -30.32,
+      "totalLiabilities": 12896585000,
+      "totalLiabilitiesYoY": -12.85,
+      "nonCurrentLiabilities": 99844492000,
+      "nonCurrentLiabilitiesYoY": 5.57,
+      "currentAssets": 79771380000,
+      "currentAssetsYoY": 14.81,
+      "accountsReceivable": 1961992000,
+      "accountsReceivableYoY": -12.08
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "parentEquity": 12285872000,
+      "parentEquityYoY": 39.81,
+      "totalLiabilities": 11425280000,
+      "totalLiabilitiesYoY": -17.78,
+      "nonCurrentLiabilities": 94812478000,
+      "nonCurrentLiabilitiesYoY": 3.51,
+      "currentAssets": 71101326000,
+      "currentAssetsYoY": 3.18,
+      "accountsReceivable": 2095183000,
+      "accountsReceivableYoY": -11.38
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "parentEquity": 10299444000,
+      "parentEquityYoY": 54.31,
+      "totalLiabilities": 14798474000,
+      "totalLiabilitiesYoY": 18.08,
+      "nonCurrentLiabilities": 94577891000,
+      "nonCurrentLiabilitiesYoY": 8.44,
+      "currentAssets": 69479973000,
+      "currentAssetsYoY": 2.16,
+      "accountsReceivable": 2231584000,
+      "accountsReceivableYoY": -10.74
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "中报",
+      "parentEquity": 8787657000,
+      "parentEquityYoY": 72.51,
+      "totalLiabilities": 13895951000,
+      "totalLiabilitiesYoY": 22.48,
+      "nonCurrentLiabilities": 91594458000,
+      "nonCurrentLiabilitiesYoY": 9.52,
+      "currentAssets": 68910850000,
+      "currentAssetsYoY": 2.55,
+      "accountsReceivable": 2364297000,
+      "accountsReceivableYoY": -9.87
+    },
+    {
+      "reportDate": "2023-12-31",
+      "reportType": "年报",
+      "parentEquity": 6674404000,
+      "parentEquityYoY": 155.41,
+      "totalLiabilities": 12532848000,
+      "totalLiabilitiesYoY": -18.08,
+      "nonCurrentLiabilities": 87215455000,
+      "nonCurrentLiabilitiesYoY": 7.72,
+      "currentAssets": 68008203000,
+      "currentAssetsYoY": 7.87,
+      "accountsReceivable": 2500024000,
+      "accountsReceivableYoY": 7487.56
+    },
+    {
+      "reportDate": "2023-06-30",
+      "reportType": "中报",
+      "accountsReceivable": 2623248000,
+      "accountsReceivableYoY": 7238.37
+    }
+  ],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "00027",
+    "name": "银河娱乐",
+    "price": 29.82,
+    "change": -0.28,
+    "changePct": -0.93,
+    "open": 30.7,
+    "high": 30.72,
+    "low": 29.42,
+    "prevClose": 30.1,
+    "volume": 17435984,
+    "amount": 518714742.7,
+    "pe": 12.23,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:30:18",
+    "pb": 5.03,
+    "totalMV": 130588960000.0,
+    "circMV": 130588960000.0,
+    "currency": "HKD"
+  }
+}

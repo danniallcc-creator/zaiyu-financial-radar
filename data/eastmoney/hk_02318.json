@@ -1,0 +1,38 @@
+{
+  "code": "02318",
+  "name": "中国平安",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:29:35.630924",
+  "profile": {
+    "name": "中国平安",
+    "code": "02318",
+    "fullName": "中国平安",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [],
+  "balance": [],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "02318",
+    "name": "中国平安",
+    "price": 54.95,
+    "change": 1.1,
+    "changePct": 2.04,
+    "open": 53.35,
+    "high": 55.35,
+    "low": 52.6,
+    "prevClose": 53.85,
+    "volume": 61205418,
+    "amount": 3330138540.98,
+    "pe": 6.67,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:29:34",
+    "pb": 5.55,
+    "totalMV": 995014929999.9999,
+    "circMV": 409244350000.0,
+    "currency": "HKD"
+  }
+}

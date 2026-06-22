@@ -1,0 +1,38 @@
+{
+  "code": "01398",
+  "name": "工商银行",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:29:45.019217",
+  "profile": {
+    "name": "工商银行",
+    "code": "01398",
+    "fullName": "工商银行",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [],
+  "balance": [],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "01398",
+    "name": "工商银行",
+    "price": 6.88,
+    "change": 0.03,
+    "changePct": 0.44,
+    "open": 6.85,
+    "high": 6.96,
+    "low": 6.73,
+    "prevClose": 6.85,
+    "volume": 197443756,
+    "amount": 1354736022.7,
+    "pe": 6.01,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:29:43",
+    "pb": 5.09,
+    "totalMV": 2452075050000.0,
+    "circMV": 597143030000.0,
+    "currency": "HKD"
+  }
+}

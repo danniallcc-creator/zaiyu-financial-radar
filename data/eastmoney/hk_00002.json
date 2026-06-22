@@ -1,0 +1,178 @@
+{
+  "code": "00002",
+  "name": "中电控股",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:30:36.405293",
+  "profile": {
+    "name": "中电控股",
+    "code": "00002",
+    "fullName": "中电控股",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "revenue": 88018000000,
+      "revenueYoY": -3.24,
+      "totalExpenses": 29517000000,
+      "totalExpensesYoY": 0.64,
+      "totalProfit": 14201000000,
+      "totalProfitYoY": -8.61
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "totalProfit": 7346000000,
+      "totalProfitYoY": -5.77,
+      "revenue": 42854000000,
+      "revenueYoY": -2.79,
+      "totalExpenses": 14109000000,
+      "totalExpensesYoY": -3.01
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "totalExpenses": 29329000000,
+      "totalExpensesYoY": 2.81,
+      "revenue": 90964000000,
+      "revenueYoY": 4.35,
+      "totalProfit": 15539000000,
+      "totalProfitYoY": 46.0
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "中报",
+      "totalExpenses": 14547000000,
+      "totalExpensesYoY": 21.78,
+      "totalProfit": 7796000000,
+      "totalProfitYoY": 24.68,
+      "revenue": 44086000000,
+      "revenueYoY": 1.81
+    },
+    {
+      "reportDate": "2023-12-31",
+      "reportType": "年报",
+      "totalProfit": 10643000000,
+      "totalProfitYoY": 569.37,
+      "revenue": 87169000000,
+      "revenueYoY": -13.4,
+      "totalExpenses": 28527000000,
+      "totalExpensesYoY": 51.29
+    },
+    {
+      "reportDate": "2023-06-30",
+      "reportType": "中报",
+      "totalExpenses": 11945000000,
+      "totalExpensesYoY": 1545.32,
+      "totalProfit": 6253000000,
+      "totalProfitYoY": 180.7,
+      "revenue": 43302000000,
+      "revenueYoY": -9.02
+    },
+    {
+      "reportDate": "2022-12-31",
+      "reportType": "年报",
+      "totalExpenses": 18856000000,
+      "totalExpensesYoY": -29.18,
+      "totalProfit": 1590000000,
+      "totalProfitYoY": -86.1,
+      "revenue": 100662000000,
+      "revenueYoY": 19.89
+    }
+  ],
+  "balance": [
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "parentEquity": -15576000000,
+      "parentEquityYoY": 13.3,
+      "totalLiabilities": 38414000000,
+      "totalLiabilitiesYoY": -14.26,
+      "nonCurrentLiabilities": 238644000000,
+      "nonCurrentLiabilitiesYoY": 2.11,
+      "currentAssets": 215806000000,
+      "currentAssetsYoY": 4.32,
+      "monetaryFunds": 166094000000,
+      "monetaryFundsYoY": 4.77
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "parentEquity": -14220000000,
+      "parentEquityYoY": -9.06,
+      "totalLiabilities": 43230000000,
+      "totalLiabilitiesYoY": 0.02,
+      "nonCurrentLiabilities": 240482000000,
+      "nonCurrentLiabilitiesYoY": 2.62,
+      "currentAssets": 211472000000,
+      "currentAssetsYoY": 3.58,
+      "monetaryFunds": 161946000000,
+      "monetaryFundsYoY": 4.78
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "parentEquity": -17965000000,
+      "parentEquityYoY": -15.54,
+      "totalLiabilities": 44804000000,
+      "totalLiabilitiesYoY": 5.47,
+      "nonCurrentLiabilities": 233713000000,
+      "nonCurrentLiabilitiesYoY": 2.04,
+      "currentAssets": 206874000000,
+      "currentAssetsYoY": 2.35,
+      "monetaryFunds": 158532000000,
+      "monetaryFundsYoY": 3.76
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "中报",
+      "parentEquity": -13039000000,
+      "parentEquityYoY": -20.93,
+      "totalLiabilities": 43221000000,
+      "totalLiabilitiesYoY": -1.18,
+      "nonCurrentLiabilities": 234343000000,
+      "nonCurrentLiabilitiesYoY": -0.25,
+      "currentAssets": 204161000000,
+      "currentAssetsYoY": 1.08,
+      "monetaryFunds": 154556000000,
+      "monetaryFundsYoY": 4.37
+    },
+    {
+      "reportDate": "2023-12-31",
+      "reportType": "年报",
+      "parentEquity": -15549000000,
+      "parentEquityYoY": -55.49,
+      "totalLiabilities": 42479000000,
+      "totalLiabilitiesYoY": -4.46,
+      "nonCurrentLiabilities": 229051000000,
+      "nonCurrentLiabilitiesYoY": -2.96,
+      "currentAssets": 202121000000,
+      "currentAssetsYoY": 0.28
+    }
+  ],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "00002",
+    "name": "中电控股",
+    "price": 72.7,
+    "change": -0.45,
+    "changePct": -0.62,
+    "open": 73.7,
+    "high": 73.7,
+    "low": 71.95,
+    "prevClose": 73.15,
+    "volume": 3747583,
+    "amount": 272571022.1,
+    "pe": 17.55,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:30:35",
+    "pb": 4.4,
+    "totalMV": 183672960000.0,
+    "circMV": 183672960000.0,
+    "currency": "HKD"
+  }
+}

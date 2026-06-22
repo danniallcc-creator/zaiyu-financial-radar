@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-  <title>上市公司财务雷达</title>
+  <title>全球上市公司财务雷达</title>
   <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
   <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
   <script src="https://unpkg.com/@babel/standalone@7/babel.min.js"></script>
@@ -57,9 +57,15 @@
     const { useState, useEffect, useMemo, useCallback } = React;
 
     // ─── Helpers ────────────────────────────────────────────────────────────
-    const formatNum = (val) => {
+    const formatNum = (val, currency) => {
       if (val == null || isNaN(val)) return '-';
       const abs = Math.abs(val);
+      if (currency === 'USD') {
+        if (abs >= 1e9) return '$' + (val / 1e9).toFixed(1) + 'B';
+        if (abs >= 1e6) return '$' + (val / 1e6).toFixed(1) + 'M';
+        if (abs >= 1e3) return '$' + (val / 1e3).toFixed(1) + 'K';
+        return '$' + val.toFixed(2);
+      }
       if (abs >= 1e8) return (val / 1e8).toFixed(1) + '亿';
       if (abs >= 1e4) return (val / 1e4).toFixed(1) + '万';
       return val.toFixed(2);
@@ -103,12 +109,26 @@
       ? 'https://financial-radar-api.workers.dev/api'
       : '/api';
 
+    const detectMarket = (code) => {
+      if (/^[A-Za-z]/.test(code)) return 'us';
+      if (/^\d{5}$/.test(code)) return 'hk';
+      return 'cn';
+    };
+
+    const fileFor = (code) => {
+      const m = detectMarket(code);
+      if (m === 'us') return `us_${code}.json`;
+      if (m === 'hk') return `hk_${code}.json`;
+      return `${code}.json`;
+    };
+
     const fetchData = async (code) => {
+      const market = detectMarket(code);
       const [emResult, cnResult, indResult, ovResult] = await Promise.allSettled([
-        fetch(`${DATA_BASE}/eastmoney/${code}.json`).then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }),
-        fetch(`${DATA_BASE}/cninfo/${code}_sections.json`).then(r => { if (!r.ok) throw new Error('no cninfo'); return r.json(); }),
-        fetch(`${DATA_BASE}/industry/${code}_peers.json`).then(r => { if (!r.ok) throw new Error('no industry'); return r.json(); }),
-        fetch(`${DATA_BASE}/overseas/${code}.json`).then(r => { if (!r.ok) throw new Error('no overseas'); return r.json(); })
+        fetch(`${DATA_BASE}/eastmoney/${fileFor(code)}`).then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }),
+        market === 'cn' ? fetch(`${DATA_BASE}/cninfo/${code}_sections.json`).then(r => { if (!r.ok) throw new Error('no cninfo'); return r.json(); }) : Promise.reject('skip'),
+        market === 'cn' ? fetch(`${DATA_BASE}/industry/${code}_peers.json`).then(r => { if (!r.ok) throw new Error('no industry'); return r.json(); }) : Promise.reject('skip'),
+        market === 'cn' ? fetch(`${DATA_BASE}/overseas/${code}.json`).then(r => { if (!r.ok) throw new Error('no overseas'); return r.json(); }) : Promise.reject('skip')
       ]);
       if (emResult.status !== 'fulfilled') throw emResult.reason;
       const data = emResult.value;
@@ -176,7 +196,19 @@
     };
 
     // ─── SearchBar ──────────────────────────────────────────────────────────
-    const SearchBar = ({ onLoad }) => {
+    const QUICK_STOCKS_BY_MARKET = {
+      cn: [['600519', '茅台'], ['000858', '五粮液'], ['000001', '平安银行'],
+           ['601318', '中国平安'], ['600036', '招商银行'], ['300750', '宁德时代'],
+           ['002594', '比亚迪'], ['600900', '长江电力']],
+      us: [['AAPL', '苹果'], ['MSFT', '微软'], ['NVDA', '英伟达'],
+           ['GOOGL', '谷歌'], ['AMZN', '亚马逊'], ['META', 'Meta'],
+           ['TSLA', '特斯拉'], ['BRK.B', '伯克希尔']],
+      hk: [['00700', '腾讯'], ['09988', '阿里巴巴'], ['03690', '美团'],
+           ['00941', '中国移动'], ['01211', '比亚迪(H)'], ['01810', '小米'],
+           ['09618', '京东'], ['02318', '中国平安(H)']],
+    };
+
+    const SearchBar = ({ onLoad, market = 'cn' }) => {
       const [code, setCode] = useState('');
       const [loading, setLoading] = useState(false);
       const [error, setError] = useState('');
@@ -217,7 +249,7 @@
           const data = await fetchData(c);
           onLoad(data);
         } catch (e) {
-          setError(`加载失败: ${e.message}，请确认股票代码及 ${DATA_BASE}/eastmoney/${c}.json 存在`);
+          setError(`加载失败: ${e.message}，请确认 ${DATA_BASE}/eastmoney/${fileFor(c)} 存在`);
         } finally {
           setLoading(false);
         }
@@ -235,12 +267,14 @@
         }
 
         const q = val.trim().toLowerCase();
-        const isCode = /^\d/.test(q);
+        const isCode = /^[\dA-Za-z]/.test(q);
         let matched;
+        // Filter by current market
+        const marketFiltered = stockIndex.filter(s => (s.m || 'cn') === market);
         if (isCode) {
-          matched = stockIndex.filter(s => s.c.startsWith(q));
+          matched = marketFiltered.filter(s => s.c.toLowerCase().startsWith(q));
         } else {
-          matched = stockIndex.filter(s => s.n.toLowerCase().includes(q));
+          matched = marketFiltered.filter(s => s.n.toLowerCase().includes(q));
         }
         const top = matched.slice(0, 10);
         setSuggestions(top);
@@ -253,7 +287,7 @@
             // If input looks like a name, try to resolve to code
             const val = code.trim();
             if (val && stockIndex && !/^\d/.test(val)) {
-              const match = stockIndex.find(s => s.n === val);
+              const match = stockIndex.find(s => (s.m || 'cn') === market && s.n === val);
               if (match) { setCode(match.c); doSearch(match.c); return; }
             }
             doSearch(code.trim());
@@ -279,11 +313,11 @@
         }
       };
 
-      const QUICK_STOCKS = [
-        ['600519', '茅台'], ['000858', '五粮液'], ['000001', '平安银行'],
-        ['601318', '中国平安'], ['600036', '招商银行'], ['300750', '宁德时代'],
-        ['002594', '比亚迪'], ['600900', '长江电力'],
-      ];
+      const QUICK_STOCKS = QUICK_STOCKS_BY_MARKET[market] || QUICK_STOCKS_BY_MARKET.cn;
+
+      const placeholderText = market === 'us' ? '输入代码或公司名，如 AAPL 或 苹果'
+        : market === 'hk' ? '输入代码或公司名，如 00700 或 腾讯'
+        : '输入代码或公司名称，如 600519 或 茅台';
 
       return (
         <div className="flex flex-col gap-2 w-full md:w-auto">
@@ -296,7 +330,7 @@
                 onChange={handleInput}
                 onKeyDown={handleKey}
                 onFocus={() => { if (suggestions.length > 0) setShowDrop(true); }}
-                placeholder="输入代码或公司名称，如 600519 或 茅台"
+                placeholder={placeholderText}
                 className="bg-card border border-border rounded px-3 py-2 text-txt text-sm font-mono outline-none focus:border-gold w-full"
               />
               {showDrop && suggestions.length > 0 && (
@@ -320,7 +354,7 @@
               onClick={() => {
                 const val = code.trim();
                 if (val && stockIndex && !/^\d/.test(val)) {
-                  const match = stockIndex.find(s => s.n === val);
+                  const match = stockIndex.find(s => (s.m || 'cn') === market && s.n === val);
                   if (match) { setCode(match.c); doSearch(match.c); return; }
                 }
                 doSearch(val);
@@ -367,9 +401,28 @@
 
     // ─── Tab 1: DataOverview ────────────────────────────────────────────────
     const DataOverview = ({ data }) => {
-      const { profile, quote, financial, income, balance: bal } = data;
+      const { profile, quote, financial, income, balance: bal, currency } = data;
       const annuals = useMemo(() => filterAnnual(financial), [financial]);
-      const latest = financial?.[0] || {};
+
+      // For US/HK: financial[] is empty, synthesize from income + balance
+      const hasFinancial = financial && financial.length > 0;
+      const latest = hasFinancial ? financial[0] : useMemo(() => {
+        if (!income?.length) return {};
+        const inc = income[0];
+        const b = bal?.[0] || {};
+        return {
+          totalRevenue: inc.revenue, totalRevenueYoY: inc.revenueYoY,
+          netProfit: inc.parentNetProfit || inc.netProfit, netProfitYoY: inc.parentNetProfitYoY,
+          grossMargin: inc.grossMargin, netMargin: inc.netMargin,
+          debtRatio: b.debtRatio, reportDate: inc.reportDate, reportName: inc.reportName || inc.reportDate,
+        };
+      }, [income, bal]);
+
+      // Income trend for US/HK (when financial annuals empty)
+      const incomeAnnuals = useMemo(() => {
+        if (hasFinancial) return [];
+        return (income || []).filter(r => r.reportType === '年报' || r.reportType === 'FY' || (r.reportName && r.reportName.includes('年报')));
+      }, [income, hasFinancial]);
 
       return (
         <div className="space-y-4">
@@ -380,12 +433,13 @@
               <Row label="全称" value={profile?.fullName} />
               <Row label="股票代码" value={profile?.code} />
               <Row label="行业分类" value={profile?.industry} />
-              <Row label="证监会行业" value={profile?.industryCSRC} />
-              <Row label="董事长" value={profile?.chairman} />
-              <Row label="法人" value={profile?.legalPerson} />
-              <Row label="董秘" value={profile?.secretary} />
-              <Row label="省份" value={profile?.province} />
+              {profile?.industryCSRC && <Row label="证监会行业" value={profile?.industryCSRC} />}
+              {profile?.chairman && <Row label="董事长" value={profile?.chairman} />}
+              {profile?.legalPerson && <Row label="法人" value={profile?.legalPerson} />}
+              {profile?.secretary && <Row label="董秘" value={profile?.secretary} />}
+              {profile?.province && <Row label="省份" value={profile?.province} />}
               <Row label="证券类型" value={profile?.securityType} />
+              {currency && <Row label="币种" value={currency} />}
             </div>
             {profile?.mainBusiness && (
               <div className="mt-3 text-xs text-txt-dim">
@@ -407,20 +461,24 @@
               <QuoteItem label="涨跌幅" value={formatPct(quote?.changePct)} color={quote?.changePct >= 0 ? 'up' : 'down'} />
               <QuoteItem label="PE(TTM)" value={quote?.pe?.toFixed(2)} />
               <QuoteItem label="PB" value={quote?.pb?.toFixed(2)} />
-              <QuoteItem label="总市值" value={formatNum(quote?.totalMV)} />
-              <QuoteItem label="流通市值" value={formatNum(quote?.circMV)} />
+              <QuoteItem label="总市值" value={formatNum(quote?.totalMV, currency)} />
+              <QuoteItem label="流通市值" value={formatNum(quote?.circMV, currency)} />
               <QuoteItem label="换手率" value={quote?.turnover != null ? quote.turnover + '%' : '-'} />
               <QuoteItem label="成交量" value={formatNum(quote?.volume)} />
-              <QuoteItem label="成交额" value={formatNum(quote?.amount)} />
+              <QuoteItem label="成交额" value={formatNum(quote?.amount, currency)} />
             </div>
           </InfoCard>
 
           {/* Core Financial Indicators */}
           <InfoCard title="核心财务指标 (最新报告期)">
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3 text-xs mb-4">
-              <IndicatorCard label="营业收入" value={formatNum(latest.totalRevenue)} yoy={latest.totalRevenueYoY} />
-              <IndicatorCard label="净利润" value={formatNum(latest.netProfit)} yoy={latest.netProfitYoY} />
-              <IndicatorCard label="扣非净利润" value={formatNum(latest.deductNetProfit)} yoy={latest.deductNetProfitYoY} />
+              <IndicatorCard label="营业收入" value={formatNum(latest.totalRevenue, currency)} yoy={latest.totalRevenueYoY} />
+              <IndicatorCard label="净利润" value={formatNum(latest.netProfit, currency)} yoy={latest.netProfitYoY} />
+              {hasFinancial ? (
+                <IndicatorCard label="扣非净利润" value={formatNum(latest.deductNetProfit, currency)} yoy={latest.deductNetProfitYoY} />
+              ) : (
+                <IndicatorCard label="营业利润" value={formatNum(income?.[0]?.operateProfit, currency)} />
+              )}
               <IndicatorCard label="ROE(加权)" value={latest.weightedROE != null ? latest.weightedROE.toFixed(2) + '%' : '-'} />
               <IndicatorCard label="毛利率" value={latest.grossMargin != null ? latest.grossMargin.toFixed(2) + '%' : '-'} />
               <IndicatorCard label="净利率" value={latest.netMargin != null ? latest.netMargin.toFixed(2) + '%' : '-'} />
@@ -432,27 +490,53 @@
 
           {/* 5-Year Trend */}
           <InfoCard title="五年趋势 (年报)">
-            <MetricTable
-              headers={['指标', ...annuals.slice(0, 5).map(a => a.reportDate?.slice(0, 4) || a.reportName)]}
-              rows={[
-                trendRow('营业收入(亿)', annuals, 'totalRevenue', v => (v / 1e8).toFixed(1)),
-                trendRow('收入YoY%', annuals, 'totalRevenueYoY', v => v.toFixed(2) + '%'),
-                trendRow('净利润(亿)', annuals, 'netProfit', v => (v / 1e8).toFixed(1)),
-                trendRow('净利润YoY%', annuals, 'netProfitYoY', v => v.toFixed(2) + '%'),
-                trendRow('扣非净利润(亿)', annuals, 'deductNetProfit', v => (v / 1e8).toFixed(1)),
-                trendRow('ROE%', annuals, 'weightedROE', v => v.toFixed(2) + '%'),
-                trendRow('毛利率%', annuals, 'grossMargin', v => v.toFixed(2) + '%'),
-                trendRow('净利率%', annuals, 'netMargin', v => v.toFixed(2) + '%'),
-                trendRow('负债率%', annuals, 'debtRatio', v => v.toFixed(2) + '%'),
-                trendRow('基本EPS', annuals, 'basicEPS', v => v.toFixed(2)),
-              ]}
-            />
-            {annuals.length >= 2 && (
-              <div className="mt-3 text-[10px] text-txt-dim">
-                收入CAGR(5年): <span className="text-gold">{calcCAGR(annuals.slice(0, 5).map(a => a.totalRevenue))?.toFixed(2) || '-'}%</span>
-                {' | '}
-                净利润CAGR(5年): <span className="text-gold">{calcCAGR(annuals.slice(0, 5).map(a => a.netProfit))?.toFixed(2) || '-'}%</span>
-              </div>
+            {hasFinancial ? (
+              <>
+                <MetricTable
+                  headers={['指标', ...annuals.slice(0, 5).map(a => a.reportDate?.slice(0, 4) || a.reportName)]}
+                  rows={[
+                    trendRow('营业收入(亿)', annuals, 'totalRevenue', v => (v / 1e8).toFixed(1)),
+                    trendRow('收入YoY%', annuals, 'totalRevenueYoY', v => v.toFixed(2) + '%'),
+                    trendRow('净利润(亿)', annuals, 'netProfit', v => (v / 1e8).toFixed(1)),
+                    trendRow('净利润YoY%', annuals, 'netProfitYoY', v => v.toFixed(2) + '%'),
+                    trendRow('扣非净利润(亿)', annuals, 'deductNetProfit', v => (v / 1e8).toFixed(1)),
+                    trendRow('ROE%', annuals, 'weightedROE', v => v.toFixed(2) + '%'),
+                    trendRow('毛利率%', annuals, 'grossMargin', v => v.toFixed(2) + '%'),
+                    trendRow('净利率%', annuals, 'netMargin', v => v.toFixed(2) + '%'),
+                    trendRow('负债率%', annuals, 'debtRatio', v => v.toFixed(2) + '%'),
+                    trendRow('基本EPS', annuals, 'basicEPS', v => v.toFixed(2)),
+                  ]}
+                />
+                {annuals.length >= 2 && (
+                  <div className="mt-3 text-[10px] text-txt-dim">
+                    收入CAGR(5年): <span className="text-gold">{calcCAGR(annuals.slice(0, 5).map(a => a.totalRevenue))?.toFixed(2) || '-'}%</span>
+                    {' | '}
+                    净利润CAGR(5年): <span className="text-gold">{calcCAGR(annuals.slice(0, 5).map(a => a.netProfit))?.toFixed(2) || '-'}%</span>
+                  </div>
+                )}
+              </>
+            ) : (
+              <>
+                <MetricTable
+                  headers={['指标', ...incomeAnnuals.slice(0, 5).map(a => a.reportDate?.slice(0, 4) || a.reportName)]}
+                  rows={[
+                    trendRow(`营收(${currency === 'USD' ? '百万$' : '亿'})`, incomeAnnuals, 'revenue', v => currency === 'USD' ? (v / 1e6).toFixed(1) : (v / 1e8).toFixed(1)),
+                    trendRow('收入YoY%', incomeAnnuals, 'revenueYoY', v => v.toFixed(2) + '%'),
+                    trendRow(`净利润(${currency === 'USD' ? '百万$' : '亿'})`, incomeAnnuals, 'parentNetProfit', v => currency === 'USD' ? (v / 1e6).toFixed(1) : (v / 1e8).toFixed(1)),
+                    trendRow('毛利率%', incomeAnnuals, 'grossMargin', v => v.toFixed(2) + '%'),
+                    trendRow('净利率%', incomeAnnuals, 'netMargin', v => v.toFixed(2) + '%'),
+                    trendRow('研发费用', incomeAnnuals, 'researchExpense', v => currency === 'USD' ? (v / 1e6).toFixed(1) + 'M' : (v / 1e8).toFixed(1) + '亿'),
+                    trendRow('基本EPS', incomeAnnuals, 'basicEPS', v => v.toFixed(2)),
+                  ]}
+                />
+                {incomeAnnuals.length >= 2 && (
+                  <div className="mt-3 text-[10px] text-txt-dim">
+                    收入CAGR(5年): <span className="text-gold">{calcCAGR(incomeAnnuals.slice(0, 5).map(a => a.revenue))?.toFixed(2) || '-'}%</span>
+                    {' | '}
+                    净利润CAGR(5年): <span className="text-gold">{calcCAGR(incomeAnnuals.slice(0, 5).map(a => a.parentNetProfit))?.toFixed(2) || '-'}%</span>
+                  </div>
+                )}
+              </>
             )}
           </InfoCard>
         </div>
@@ -785,13 +869,18 @@
       const fullFutureText = latestAnalysis?.futureExpect || '';
 
       if (!hasCninfo && !hasOverseas) {
+        const isGlobal = data?.market === 'us' || data?.market === 'hk';
         return (
           <div className="space-y-4">
             <InfoCard title="企业表达分析">
               <p className="text-xs text-txt-dim leading-relaxed">
-                该股票的企业表达数据尚未生成。
-                <br/>年报原文: 运行 <code className="text-gold">python etl/fetch_cninfo.py {data?.code || '代码'}</code>
-                <br/>出海分析: 运行 <code className="text-gold">python etl/fetch_overseas.py {data?.code || '代码'}</code>
+                {isGlobal
+                  ? '该板块目前仅支持 A 股公司（依赖年报原文分析与出海营收数据）。' + (data?.market === 'us' ? '美股公司的业务分析可参考利润表与资产负债表的地区构成。' : '港股公司的业务分析可参考利润表与资产负债表的地区构成。')
+                  : <>该股票的企业表达数据尚未生成。
+                    <br/>年报原文: 运行 <code className="text-gold">python etl/fetch_cninfo.py {data?.code || '代码'}</code>
+                    <br/>出海分析: 运行 <code className="text-gold">python etl/fetch_overseas.py {data?.code || '代码'}</code>
+                  </>
+                }
               </p>
             </InfoCard>
           </div>
@@ -1102,7 +1191,7 @@
           <InfoCard title="同行业对比">
             <div className="flex items-center gap-4 mb-3 flex-wrap">
               <span className="text-sm text-gold font-bold">{peers.industry}</span>
-              <span className="text-[10px] text-txt-dim">共 {peers.peerCount} 家 A 股公司</span>
+              <span className="text-[10px] text-txt-dim">共 {peers.peerCount} 家公司</span>
               <span className="text-[10px] text-txt-dim">按营收降序排列</span>
             </div>
             <div className="text-[10px] text-txt-dim mb-2">
@@ -1131,7 +1220,7 @@
     const PERIOD_LABELS = { annual: '年报', interim: '中报', q3: '三季报', q1: '一季报' };
     const DIM_LABELS = { board: '板块', csrc: '证监会行业', shenwan: '申万一级' };
 
-    const MarketOverview = ({ onStockClick }) => {
+    const MarketOverview = ({ onStockClick, market = 'cn' }) => {
       const [data, setData] = useState(null);
       const [dim, setDim] = useState('board');
       const [periodType, setPeriodType] = useState('annual');
@@ -1341,6 +1430,37 @@
         return v.toFixed(0);
       };
 
+      if (!data && market === 'cn') return (
+        <div className="text-center py-20">
+          <div className="text-gold text-lg mb-2">加载市场数据中...</div>
+          <div className="text-txt-dim text-xs">首次加载可能需要数秒</div>
+        </div>
+      );
+
+      // US/HK: no market-wide data, show quick access board
+      if (market !== 'cn') {
+        const quickStocks = QUICK_STOCKS_BY_MARKET[market] || [];
+        return (
+          <div className="space-y-5">
+            <div className="text-center py-8">
+              <h2 className="text-gold font-bold text-base">{MARKET_LABELS[market]}市场概览</h2>
+              <div className="text-txt-dim text-[10px] mt-2">
+                点击上方快速按钮或使用搜索栏查看{MARKET_LABELS[market]}个股财务数据
+              </div>
+            </div>
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
+              {quickStocks.map(([c, n]) => (
+                <button key={c} onClick={() => onStockClick(c)}
+                  className="bg-card border border-border rounded p-3 text-center hover:border-gold/40 transition">
+                  <div className="text-gold text-sm font-bold">{n}</div>
+                  <div className="text-txt-dim text-[10px] mt-1">{c}</div>
+                </button>
+              ))}
+            </div>
+          </div>
+        );
+      }
+
       if (!data) return (
         <div className="text-center py-20">
           <div className="text-gold text-lg mb-2">加载市场数据中...</div>
@@ -1541,15 +1661,27 @@
     };
 
     // ─── App ────────────────────────────────────────────────────────────────
+    const MARKET_LABELS = { cn: 'A股', us: '美股', hk: '港股' };
+
     const App = () => {
       const [data, setData] = useState(null);
       const [tab, setTab] = useState(0);
       const [code, setCode] = useState('');
+      const [market, setMarket] = useState('cn');
 
       const handleLoad = useCallback((d) => {
         setData(d);
         setCode(d.code || d.profile?.code || '');
+        if (d.market) setMarket(d.market);
+        else setMarket(detectMarket(d.code || d.profile?.code || ''));
         setTab(1);
+      }, []);
+
+      const handleMarketChange = useCallback((m) => {
+        setMarket(m);
+        setData(null);
+        setCode('');
+        setTab(0);
       }, []);
 
       // Handle clicking a stock in MarketOverview leaderboard
@@ -1559,15 +1691,16 @@
           .catch(() => {});
       }, [handleLoad]);
 
-      // Auto-load default stock
+      // Auto-load default stock based on market
       useEffect(() => {
-        fetchData('600519')
+        const defaults = { cn: '600519', us: 'AAPL', hk: '00700' };
+        fetchData(defaults[market] || '600519')
           .then(d => { if (d) { setData(d); setCode(d.code || d.profile?.code || ''); } })
           .catch(() => {});
-      }, []);
+      }, [market]);
 
       const renderTab = () => {
-        if (tab === 0) return <MarketOverview onStockClick={handleStockClick} />;
+        if (tab === 0) return <MarketOverview onStockClick={handleStockClick} market={market} />;
         if (!data) return null;
         switch (tab) {
           case 1: return <DataOverview data={data} />;
@@ -1586,9 +1719,23 @@
             <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-start md:items-center justify-between gap-3">
               <div>
                 <h1 className="text-gold font-bold text-lg tracking-wide">上市公司财务雷达</h1>
-                <div className="text-txt-dim text-[10px]">Financial Radar / A-Share Report Analyzer</div>
+                <div className="text-txt-dim text-[10px]">Financial Radar / Global Report Analyzer</div>
               </div>
-              <SearchBar onLoad={handleLoad} />
+              <div className="flex flex-col gap-2 items-end">
+                <div className="flex gap-1">
+                  {Object.entries(MARKET_LABELS).map(([m, label]) => (
+                    <button key={m} onClick={() => handleMarketChange(m)}
+                      className={`px-3 py-1 text-xs font-bold rounded border transition ${
+                        market === m
+                          ? 'bg-gold/15 border-gold text-gold'
+                          : 'border-border text-txt-dim hover:text-txt hover:border-gold/40'
+                      }`}>
+                      {label}
+                    </button>
+                  ))}
+                </div>
+                <SearchBar onLoad={handleLoad} market={market} />
+              </div>
             </div>
           </header>
 
@@ -1631,11 +1778,13 @@
               <div className="text-center py-32">
                 <div className="text-gold text-2xl font-bold mb-4">上市公司财务雷达</div>
                 <div className="text-txt-dim text-sm mb-8 max-w-md mx-auto leading-relaxed">
-                  输入A股股票代码加载财务数据。数据来源于东方财富，由本地 ETL 预处理为 JSON。
-                  支持数据透视、财务质量分析、企业表达解读、股东分红查看等功能。
+                  输入{MARKET_LABELS[market]}股票代码加载财务数据。数据来源于东方财富 / SEC EDGAR，由本地 ETL 预处理为 JSON。
+                  支持数据透视、财务质量分析、股东分红查看等功能。
                 </div>
                 <div className="text-txt-dim text-xs">
-                  示例: 600519 (贵州茅台) / 000858 (五粮液) / 601318 (中国平安)
+                  {market === 'cn' && '示例: 600519 (贵州茅台) / 000858 (五粮液) / 601318 (中国平安)'}
+                  {market === 'us' && '示例: AAPL (苹果) / MSFT (微软) / NVDA (英伟达)'}
+                  {market === 'hk' && '示例: 00700 (腾讯) / 09988 (阿里巴巴) / 03690 (美团)'}
                 </div>
               </div>
             )}
@@ -1644,7 +1793,7 @@
           {/* Footer */}
           <footer className="border-t border-border mt-8 px-4 py-3" style={{ paddingBottom: 'max(12px, env(safe-area-inset-bottom))' }}>
             <div className="max-w-6xl mx-auto text-[10px] text-txt-dim text-center">
-              上市公司财务雷达 / 数据来源: 东方财富 / 仅供研究参考，不构成投资建议
+              上市公司财务雷达 / 数据来源: 东方财富 · SEC EDGAR · 腾讯财经 / 仅供研究参考，不构成投资建议
             </div>
           </footer>
         </div>

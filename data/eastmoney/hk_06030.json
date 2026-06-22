@@ -1,0 +1,38 @@
+{
+  "code": "06030",
+  "name": "中信证券",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:30:21.900420",
+  "profile": {
+    "name": "中信证券",
+    "code": "06030",
+    "fullName": "中信证券",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [],
+  "balance": [],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "06030",
+    "name": "中信证券",
+    "price": 28.36,
+    "change": 1.64,
+    "changePct": 6.14,
+    "open": 26.52,
+    "high": 29.48,
+    "low": 26.4,
+    "prevClose": 26.72,
+    "volume": 48334792,
+    "amount": 1374432972.56,
+    "pe": 12.62,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:30:20",
+    "pb": 2.78,
+    "totalMV": 420310710000.0,
+    "circMV": 74305380000.0,
+    "currency": "HKD"
+  }
+}

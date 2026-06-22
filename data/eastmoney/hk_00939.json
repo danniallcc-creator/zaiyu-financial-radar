@@ -1,0 +1,38 @@
+{
+  "code": "00939",
+  "name": "建设银行",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:29:42.993030",
+  "profile": {
+    "name": "建设银行",
+    "code": "00939",
+    "fullName": "建设银行",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [],
+  "balance": [],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "00939",
+    "name": "建设银行",
+    "price": 8.59,
+    "change": -0.03,
+    "changePct": -0.35,
+    "open": 8.54,
+    "high": 8.65,
+    "low": 8.44,
+    "prevClose": 8.62,
+    "volume": 281829072,
+    "amount": 2414649168.65,
+    "pe": 5.99,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:29:41",
+    "pb": 2.38,
+    "totalMV": 2247147280000.0,
+    "circMV": 2065184780000.0,
+    "currency": "HKD"
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "code": "01810",
+  "name": "小米集团-W",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:29:31.865188",
+  "profile": {
+    "name": "小米集团-W",
+    "code": "01810",
+    "fullName": "小米集团-W",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [
+    {
+      "reportDate": "2026-03-31",
+      "reportType": "一季报",
+      "revenue": 99141618000,
+      "revenueYoY": -10.92,
+      "totalExpenses": 21810120000,
+      "totalExpensesYoY": -14.15,
+      "totalProfit": 5728707000,
+      "totalProfitYoY": -56.5
+    },
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "totalExpenses": 101805847000,
+      "totalExpensesYoY": 32.97,
+      "revenue": 457286687000,
+      "revenueYoY": 24.97,
+      "totalProfit": 49646865000,
+      "totalProfitYoY": 76.51
+    },
+    {
+      "reportDate": "2025-09-30",
+      "reportType": "三季报",
+      "revenue": 340370162000,
+      "revenueYoY": 32.49,
+      "totalExpenses": 77443034000,
+      "totalExpensesYoY": 43.13,
+      "totalProfit": 42526396000,
+      "totalProfitYoY": 127.18
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "totalExpenses": 51506868000,
+      "totalExpensesYoY": 46.23,
+      "revenue": 227249428000,
+      "revenueYoY": 38.23,
+      "totalProfit": 27570751000,
+      "totalProfitYoY": 131.65
+    },
+    {
+      "reportDate": "2025-03-31",
+      "reportType": "一季报",
+      "totalExpenses": 25405910000,
+      "totalExpensesYoY": 50.96,
+      "totalProfit": 13167968000,
+      "totalProfitYoY": 152.15,
+      "revenue": 111293337000,
+      "revenueYoY": 47.4
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "totalProfit": 28126653000,
+      "totalProfitYoY": 27.78,
+      "totalExpenses": 76560194000,
+      "totalExpensesYoY": 33.2,
+      "revenue": 365906350000,
+      "revenueYoY": 35.04
+    },
+    {
+      "reportDate": "2024-09-30",
+      "reportType": "三季报",
+      "totalExpenses": 54105304000,
+      "totalExpensesYoY": 29.25,
+      "revenue": 256901191000,
+      "revenueYoY": 29.93,
+      "totalProfit": 18718957000,
+      "totalProfitYoY": 14.74
+    }
+  ],
+  "balance": [
+    {
+      "reportDate": "2026-03-31",
+      "reportType": "一季报",
+      "parentEquity": 64402395000,
+      "parentEquityYoY": -24.85,
+      "totalLiabilities": 175689678000,
+      "totalLiabilitiesYoY": 3.23,
+      "nonCurrentLiabilities": 496747684000,
+      "nonCurrentLiabilitiesYoY": 10.36,
+      "currentAssets": 256655611000,
+      "currentAssetsYoY": 32.15,
+      "accountsReceivable": 11675867000,
+      "accountsReceivableYoY": 43.47
+    },
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "parentEquity": 62405312000,
+      "parentEquityYoY": 24.01,
+      "totalLiabilities": 192405477000,
+      "totalLiabilitiesYoY": 9.7,
+      "nonCurrentLiabilities": 508095967000,
+      "nonCurrentLiabilitiesYoY": 26.03,
+      "currentAssets": 253285178000,
+      "currentAssetsYoY": 42.74,
+      "accountsReceivable": 8319373000,
+      "accountsReceivableYoY": 2.04
+    },
+    {
+      "reportDate": "2025-09-30",
+      "reportType": "三季报",
+      "parentEquity": 61545703000,
+      "parentEquityYoY": -17.16,
+      "totalLiabilities": 194219347000,
+      "totalLiabilitiesYoY": 51.0,
+      "nonCurrentLiabilities": 502766504000,
+      "nonCurrentLiabilitiesYoY": 43.26,
+      "currentAssets": 247001454000,
+      "currentAssetsYoY": 66.85,
+      "accountsReceivable": 8236914000,
+      "accountsReceivableYoY": -1.81
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "parentEquity": 55290969000,
+      "parentEquityYoY": -28.17,
+      "totalLiabilities": 188328993000,
+      "totalLiabilitiesYoY": 49.46,
+      "nonCurrentLiabilities": 481517758000,
+      "nonCurrentLiabilitiesYoY": 40.72,
+      "currentAssets": 237897796000,
+      "currentAssetsYoY": 70.91,
+      "accountsReceivable": 7937987000,
+      "accountsReceivableYoY": 2.83
+    },
+    {
+      "reportDate": "2025-03-31",
+      "reportType": "一季报",
+      "nonCurrentLiabilities": 450116362000,
+      "nonCurrentLiabilitiesYoY": 37.66,
+      "currentAssets": 194219196000,
+      "currentAssetsYoY": 52.98,
+      "accountsReceivable": 8138204000,
+      "accountsReceivableYoY": 0.73
+    }
+  ],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "01810",
+    "name": "小米集团-W",
+    "price": 23.72,
+    "change": -0.86,
+    "changePct": -3.5,
+    "open": 24.2,
+    "high": 24.3,
+    "low": 23.52,
+    "prevClose": 24.58,
+    "volume": 241866864,
+    "amount": 5735773341.08,
+    "pe": 13.29,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:29:30",
+    "pb": 0.0,
+    "totalMV": 612969770000.0,
+    "circMV": 507330880000.0,
+    "currency": "HKD"
+  }
+}

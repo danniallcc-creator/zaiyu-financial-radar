@@ -1,0 +1,212 @@
+{
+  "code": "00291",
+  "name": "华润啤酒",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:30:34.623610",
+  "profile": {
+    "name": "华润啤酒",
+    "code": "00291",
+    "fullName": "华润啤酒",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "totalExpenses": 16360000000,
+      "totalExpensesYoY": -0.7,
+      "revenue": 37985000000,
+      "revenueYoY": -1.68,
+      "totalProfit": 5307000000,
+      "totalProfitYoY": -20.18
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "totalProfit": 7747000000,
+      "totalProfitYoY": 20.78,
+      "revenue": 23942000000,
+      "revenueYoY": 0.83,
+      "totalExpenses": 11704000000,
+      "totalExpensesYoY": 5.07
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "totalExpenses": 16475000000,
+      "totalExpensesYoY": 2.31,
+      "revenue": 38635000000,
+      "revenueYoY": -0.76,
+      "totalProfit": 6649000000,
+      "totalProfitYoY": -6.06
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "中报",
+      "totalExpenses": 11139000000,
+      "totalExpensesYoY": 1.35,
+      "totalProfit": 6414000000,
+      "totalProfitYoY": 1.52,
+      "revenue": 23744000000,
+      "revenueYoY": -0.53
+    },
+    {
+      "reportDate": "2023-12-31",
+      "reportType": "年报",
+      "revenue": 38932000000,
+      "revenueYoY": 10.4,
+      "totalExpenses": 16103000000,
+      "totalExpensesYoY": 18.74,
+      "totalProfit": 7078000000,
+      "totalProfitYoY": 28.04
+    },
+    {
+      "reportDate": "2023-06-30",
+      "reportType": "中报",
+      "revenue": 23871000000,
+      "revenueYoY": 13.6,
+      "totalExpenses": 10991000000,
+      "totalExpensesYoY": 23.8,
+      "totalProfit": 6318000000,
+      "totalProfitYoY": 19.77
+    },
+    {
+      "reportDate": "2022-12-31",
+      "reportType": "年报",
+      "totalExpenses": 13561000000,
+      "totalExpensesYoY": 3.72,
+      "revenue": 35263000000,
+      "revenueYoY": 5.62,
+      "totalProfit": 5528000000,
+      "totalProfitYoY": -11.05
+    },
+    {
+      "reportDate": "2022-06-30",
+      "reportType": "中报",
+      "revenue": 21013000000,
+      "revenueYoY": 7.02,
+      "totalExpenses": 8878000000,
+      "totalExpensesYoY": 6.9,
+      "totalProfit": 5275000000,
+      "totalProfitYoY": -11.95
+    },
+    {
+      "reportDate": "2021-12-31",
+      "reportType": "年报",
+      "revenue": 33387000000,
+      "revenueYoY": 6.17
+    }
+  ],
+  "balance": [
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "parentEquity": -4546000000,
+      "parentEquityYoY": 56.4,
+      "totalLiabilities": 25757000000,
+      "totalLiabilitiesYoY": -1.14,
+      "nonCurrentLiabilities": 68633000000,
+      "nonCurrentLiabilitiesYoY": -0.97,
+      "currentAssets": 47422000000,
+      "currentAssetsYoY": -11.66,
+      "accountsReceivable": 7530000000,
+      "accountsReceivableYoY": -8.82,
+      "monetaryFunds": 17963000000,
+      "monetaryFundsYoY": -0.89
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "parentEquity": -4091000000,
+      "parentEquityYoY": 34.58,
+      "totalLiabilities": 24765000000,
+      "totalLiabilitiesYoY": -1.95,
+      "nonCurrentLiabilities": 71185000000,
+      "nonCurrentLiabilitiesYoY": -1.02,
+      "currentAssets": 50511000000,
+      "currentAssetsYoY": -4.54,
+      "accountsReceivable": 7894000000,
+      "accountsReceivableYoY": -8.43,
+      "monetaryFunds": 17714000000,
+      "monetaryFundsYoY": 3.42
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "parentEquity": -10426000000,
+      "parentEquityYoY": -44.34,
+      "totalLiabilities": 26054000000,
+      "totalLiabilitiesYoY": 6.94,
+      "nonCurrentLiabilities": 69308000000,
+      "nonCurrentLiabilitiesYoY": -3.1,
+      "currentAssets": 53680000000,
+      "currentAssetsYoY": -1.29,
+      "accountsReceivable": 8258000000,
+      "accountsReceivableYoY": -8.15,
+      "monetaryFunds": 18124000000,
+      "monetaryFundsYoY": 11.23
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "中报",
+      "parentEquity": -6253000000,
+      "parentEquityYoY": -121.42,
+      "totalLiabilities": 25257000000,
+      "totalLiabilitiesYoY": -4.67,
+      "nonCurrentLiabilities": 71917000000,
+      "nonCurrentLiabilitiesYoY": -6.62,
+      "currentAssets": 52913000000,
+      "currentAssetsYoY": -0.81,
+      "accountsReceivable": 8621000000,
+      "accountsReceivableYoY": -7.85,
+      "monetaryFunds": 17128000000,
+      "monetaryFundsYoY": 11.86
+    },
+    {
+      "reportDate": "2023-12-31",
+      "reportType": "年报",
+      "parentEquity": -7223000000,
+      "parentEquityYoY": -158.98,
+      "totalLiabilities": 24364000000,
+      "totalLiabilitiesYoY": 2.95,
+      "nonCurrentLiabilities": 71524000000,
+      "nonCurrentLiabilitiesYoY": 24.8,
+      "currentAssets": 54383000000,
+      "currentAssetsYoY": 49.26,
+      "accountsReceivable": 8991000000,
+      "accountsReceivableYoY": 4329.06,
+      "monetaryFunds": 16294000000,
+      "monetaryFundsYoY": 15.97
+    },
+    {
+      "reportDate": "2023-06-30",
+      "reportType": "中报",
+      "accountsReceivable": 9355000000,
+      "accountsReceivableYoY": 3967.39
+    }
+  ],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "00291",
+    "name": "华润啤酒",
+    "price": 21.46,
+    "change": -0.4,
+    "changePct": -1.83,
+    "open": 21.68,
+    "high": 21.72,
+    "low": 21.02,
+    "prevClose": 21.86,
+    "volume": 11293981,
+    "amount": 242083699.59,
+    "pe": 18.65,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:30:33",
+    "pb": 5.35,
+    "totalMV": 69620040000.0,
+    "circMV": 69620040000.0,
+    "currency": "HKD"
+  }
+}

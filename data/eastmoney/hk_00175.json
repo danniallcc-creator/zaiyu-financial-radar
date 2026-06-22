@@ -1,0 +1,190 @@
+{
+  "code": "00175",
+  "name": "吉利汽车",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:30:30.870171",
+  "profile": {
+    "name": "吉利汽车",
+    "code": "00175",
+    "fullName": "吉利汽车",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [
+    {
+      "reportDate": "2026-03-31",
+      "reportType": "一季报",
+      "revenue": 83776000000,
+      "revenueYoY": 15.25,
+      "totalProfit": 5098000000,
+      "totalProfitYoY": -23.73,
+      "totalExpenses": 14664000000,
+      "totalExpensesYoY": 28.11
+    },
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "totalExpenses": 57346730000,
+      "totalExpensesYoY": 25.2,
+      "revenue": 345232201000,
+      "revenueYoY": 25.12,
+      "totalProfit": 20229755000,
+      "totalProfitYoY": 11.6
+    },
+    {
+      "reportDate": "2025-09-30",
+      "reportType": "三季报",
+      "revenue": 239477000000,
+      "revenueYoY": 26.35,
+      "totalExpenses": 39512000000,
+      "totalExpensesYoY": 28.34,
+      "totalProfit": 15917000000,
+      "totalProfitYoY": 19.01
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "totalProfit": 11286164000,
+      "totalProfitYoY": 2.86,
+      "revenue": 150284734000,
+      "revenueYoY": 26.51,
+      "totalExpenses": 24718739000,
+      "totalExpensesYoY": 24.41
+    },
+    {
+      "reportDate": "2025-03-31",
+      "reportType": "一季报",
+      "totalProfit": 6684000000,
+      "totalProfitYoY": 323.84,
+      "revenue": 72692000000,
+      "revenueYoY": 24.85,
+      "totalExpenses": 11446000000,
+      "totalExpensesYoY": 25.82
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "revenue": 275910484000,
+      "revenueYoY": 53.96,
+      "totalExpenses": 45803749000,
+      "totalExpensesYoY": 67.08,
+      "totalProfit": 18127182000,
+      "totalProfitYoY": 266.21
+    },
+    {
+      "reportDate": "2024-09-30",
+      "reportType": "三季报",
+      "totalExpenses": 30786000000,
+      "totalExpensesYoY": 68.42,
+      "revenue": 189534000000,
+      "revenueYoY": 53.73,
+      "totalProfit": 13375000000,
+      "totalProfitYoY": 327.18
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "中报",
+      "totalExpenses": 19868348000,
+      "totalExpensesYoY": 88.5,
+      "revenue": 118792689000,
+      "revenueYoY": 62.33,
+      "totalProfit": 10972450000,
+      "totalProfitYoY": 644.35
+    }
+  ],
+  "balance": [
+    {
+      "reportDate": "2026-03-31",
+      "reportType": "一季报",
+      "parentEquity": -15541000000,
+      "parentEquityYoY": -38.13,
+      "totalLiabilities": 162712000000,
+      "totalLiabilitiesYoY": 4.64,
+      "nonCurrentLiabilities": 276789000000,
+      "nonCurrentLiabilitiesYoY": 4.75,
+      "currentAssets": 129618000000,
+      "currentAssetsYoY": 8.01,
+      "accountsReceivable": 36061000000,
+      "accountsReceivableYoY": -2.09
+    },
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "parentEquity": -20047000000,
+      "parentEquityYoY": -85.77,
+      "totalLiabilities": 179460000000,
+      "totalLiabilitiesYoY": 10.15,
+      "nonCurrentLiabilities": 290410000000,
+      "nonCurrentLiabilitiesYoY": 7.13,
+      "currentAssets": 130997000000,
+      "currentAssetsYoY": 10.13,
+      "accountsReceivable": 36446000000,
+      "accountsReceivableYoY": 2.3
+    },
+    {
+      "reportDate": "2025-09-30",
+      "reportType": "三季报",
+      "parentEquity": -7874000000,
+      "parentEquityYoY": -202.63,
+      "totalLiabilities": 158121000000,
+      "totalLiabilitiesYoY": 50.98,
+      "nonCurrentLiabilities": 274436000000,
+      "nonCurrentLiabilitiesYoY": 27.23,
+      "currentAssets": 124189000000,
+      "currentAssetsYoY": 20.23,
+      "accountsReceivable": 37725000000,
+      "accountsReceivableYoY": 39.06
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "currentAssets": 120272565000,
+      "currentAssetsYoY": 18.01,
+      "parentEquity": -8372448000,
+      "parentEquityYoY": -269.86,
+      "totalLiabilities": 162204145000,
+      "totalLiabilitiesYoY": 79.89,
+      "nonCurrentLiabilities": 274104262000,
+      "nonCurrentLiabilitiesYoY": 39.13,
+      "accountsReceivable": 35821927000,
+      "accountsReceivableYoY": 36.06
+    },
+    {
+      "reportDate": "2025-03-31",
+      "reportType": "一季报",
+      "parentEquity": -11251000000,
+      "parentEquityYoY": -162.7,
+      "totalLiabilities": 155496000000,
+      "totalLiabilitiesYoY": 71.05,
+      "nonCurrentLiabilities": 264246000000,
+      "nonCurrentLiabilitiesYoY": 39.64,
+      "currentAssets": 120001000000,
+      "currentAssetsYoY": 49.29,
+      "accountsReceivable": 36832000000,
+      "accountsReceivableYoY": 44.49
+    }
+  ],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "00175",
+    "name": "吉利汽车",
+    "price": 17.45,
+    "change": -1.14,
+    "changePct": -6.13,
+    "open": 18.53,
+    "high": 18.54,
+    "low": 16.83,
+    "prevClose": 18.59,
+    "volume": 94252402,
+    "amount": 1639090892.68,
+    "pe": 10.09,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:30:29",
+    "pb": 2.87,
+    "totalMV": 188191180000.0,
+    "circMV": 188191180000.0,
+    "currency": "HKD"
+  }
+}

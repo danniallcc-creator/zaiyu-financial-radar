@@ -1,0 +1,38 @@
+{
+  "code": "00005",
+  "name": "汇丰控股",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:29:50.398397",
+  "profile": {
+    "name": "汇丰控股",
+    "code": "00005",
+    "fullName": "汇丰控股",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [],
+  "balance": [],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "00005",
+    "name": "汇丰控股",
+    "price": 147.9,
+    "change": -1.1,
+    "changePct": -0.74,
+    "open": 147.0,
+    "high": 148.6,
+    "low": 146.0,
+    "prevClose": 149.0,
+    "volume": 11432504,
+    "amount": 1685051947.0,
+    "pe": 15.48,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:29:49",
+    "pb": 3.97,
+    "totalMV": 2541449090000.0,
+    "circMV": 2541449090000.0,
+    "currency": "HKD"
+  }
+}

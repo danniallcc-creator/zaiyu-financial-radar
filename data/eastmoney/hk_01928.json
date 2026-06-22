@@ -1,0 +1,222 @@
+{
+  "code": "01928",
+  "name": "金沙中国有限公司",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:30:12.651758",
+  "profile": {
+    "name": "金沙中国有限公司",
+    "code": "01928",
+    "fullName": "金沙中国有限公司",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "totalProfit": 901000000,
+      "totalProfitYoY": -10.79,
+      "totalExpenses": 7333000000,
+      "totalExpensesYoY": 4.89,
+      "revenue": 7443000000,
+      "revenueYoY": 5.13
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "revenue": 3492000000,
+      "revenueYoY": -1.66,
+      "totalProfit": 413000000,
+      "totalProfitYoY": -17.07,
+      "totalExpenses": 3445000000,
+      "totalExpensesYoY": -1.74
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "totalExpenses": 6991000000,
+      "totalExpensesYoY": 8.32,
+      "totalProfit": 1010000000,
+      "totalProfitYoY": 36.3,
+      "revenue": 7080000000,
+      "revenueYoY": 8.36
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "中报",
+      "totalExpenses": 3506000000,
+      "totalExpensesYoY": 22.54,
+      "totalProfit": 498000000,
+      "totalProfitYoY": 187.86,
+      "revenue": 3551000000,
+      "revenueYoY": 22.66
+    },
+    {
+      "reportDate": "2023-12-31",
+      "reportType": "年报",
+      "totalExpenses": 6454000000,
+      "totalExpensesYoY": 308.74,
+      "revenue": 6534000000,
+      "revenueYoY": 307.1,
+      "totalProfit": 741000000,
+      "totalProfitYoY": 146.66
+    },
+    {
+      "reportDate": "2023-06-30",
+      "reportType": "中报",
+      "totalProfit": 173000000,
+      "totalProfitYoY": 122.7,
+      "revenue": 2895000000,
+      "revenueYoY": 216.39,
+      "totalExpenses": 2861000000,
+      "totalExpensesYoY": 217.18
+    },
+    {
+      "reportDate": "2022-12-31",
+      "reportType": "年报",
+      "revenue": 1605000000,
+      "revenueYoY": -44.15,
+      "totalExpenses": 1579000000,
+      "totalExpensesYoY": -44.4,
+      "totalProfit": -1588000000,
+      "totalProfitYoY": -51.96
+    },
+    {
+      "reportDate": "2022-06-30",
+      "reportType": "中报",
+      "totalExpenses": 902000000,
+      "totalExpensesYoY": -43.73,
+      "totalProfit": -762000000,
+      "totalProfitYoY": -102.12,
+      "revenue": 915000000,
+      "revenueYoY": -43.52
+    },
+    {
+      "reportDate": "2021-12-31",
+      "reportType": "年报",
+      "totalProfit": -1045000000,
+      "totalProfitYoY": 30.66,
+      "totalExpenses": 2840000000,
+      "totalExpensesYoY": 70.67
+    }
+  ],
+  "balance": [
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "parentEquity": -345000000,
+      "parentEquityYoY": 51.27,
+      "totalLiabilities": 2319000000,
+      "totalLiabilitiesYoY": -22.52,
+      "nonCurrentLiabilities": 10571000000,
+      "nonCurrentLiabilitiesYoY": -5.35,
+      "currentAssets": 8597000000,
+      "currentAssetsYoY": -3.23,
+      "accountsReceivable": 445000000,
+      "accountsReceivableYoY": 1.6
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "parentEquity": -790000000,
+      "parentEquityYoY": -208.37,
+      "totalLiabilities": 2111000000,
+      "totalLiabilitiesYoY": 60.29,
+      "nonCurrentLiabilities": 10084000000,
+      "nonCurrentLiabilitiesYoY": -4.46,
+      "currentAssets": 8763000000,
+      "currentAssetsYoY": 2.99,
+      "accountsReceivable": 464000000,
+      "accountsReceivableYoY": 2.43
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "parentEquity": -708000000,
+      "parentEquityYoY": -327.65,
+      "totalLiabilities": 2993000000,
+      "totalLiabilitiesYoY": 118.15,
+      "nonCurrentLiabilities": 11169000000,
+      "nonCurrentLiabilitiesYoY": 8.88,
+      "currentAssets": 8884000000,
+      "currentAssetsYoY": 3.6,
+      "accountsReceivable": 438000000,
+      "accountsReceivableYoY": -7.98
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "中报",
+      "parentEquity": 729000000,
+      "parentEquityYoY": 162.23,
+      "totalLiabilities": 1317000000,
+      "totalLiabilitiesYoY": 11.23,
+      "nonCurrentLiabilities": 10555000000,
+      "nonCurrentLiabilitiesYoY": 2.81,
+      "currentAssets": 8509000000,
+      "currentAssetsYoY": -3.36,
+      "accountsReceivable": 453000000,
+      "accountsReceivableYoY": -9.04
+    },
+    {
+      "reportDate": "2023-12-31",
+      "reportType": "年报",
+      "parentEquity": 311000000,
+      "parentEquityYoY": 130.98,
+      "totalLiabilities": 1372000000,
+      "totalLiabilitiesYoY": -52.21,
+      "nonCurrentLiabilities": 10258000000,
+      "nonCurrentLiabilitiesYoY": -2.88,
+      "currentAssets": 8575000000,
+      "currentAssetsYoY": -1.38,
+      "accountsReceivable": 476000000,
+      "accountsReceivableYoY": 1435.48
+    },
+    {
+      "reportDate": "2023-06-30",
+      "reportType": "中报",
+      "parentEquity": 278000000,
+      "parentEquityYoY": 286.11,
+      "totalLiabilities": 1184000000,
+      "totalLiabilitiesYoY": 40.28,
+      "nonCurrentLiabilities": 10267000000,
+      "nonCurrentLiabilitiesYoY": 4.97,
+      "currentAssets": 8805000000,
+      "currentAssetsYoY": -0.68,
+      "accountsReceivable": 498000000,
+      "accountsReceivableYoY": 1364.71
+    },
+    {
+      "reportDate": "2022-12-31",
+      "reportType": "年报",
+      "nonCurrentLiabilities": 10562000000,
+      "nonCurrentLiabilitiesYoY": 4.64,
+      "currentAssets": 8695000000,
+      "currentAssetsYoY": -5.51,
+      "accountsReceivable": 31000000,
+      "accountsReceivableYoY": -18.42
+    }
+  ],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "01928",
+    "name": "金沙中国有限公司",
+    "price": 13.57,
+    "change": -0.32,
+    "changePct": -2.3,
+    "open": 13.89,
+    "high": 13.89,
+    "low": 13.38,
+    "prevClose": 13.89,
+    "volume": 16659624,
+    "amount": 225811203.4,
+    "pe": 15.75,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:30:11",
+    "pb": 5.53,
+    "totalMV": 109827160000.0,
+    "circMV": 109827160000.0,
+    "currency": "HKD"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "code": "02269",
+  "name": "药明生物",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:29:41.180245",
+  "profile": {
+    "name": "药明生物",
+    "code": "02269",
+    "fullName": "药明生物",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "revenue": 21790018000,
+      "revenueYoY": 16.68,
+      "totalExpenses": 10018512000,
+      "totalExpensesYoY": 30.95,
+      "totalProfit": 7256907000,
+      "totalProfitYoY": 50.11
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "totalExpenses": 4252852000,
+      "totalExpensesYoY": 26.95,
+      "totalProfit": 3328101000,
+      "totalProfitYoY": 65.71,
+      "revenue": 9953216000,
+      "revenueYoY": 16.08
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "totalExpenses": 7650820000,
+      "totalExpensesYoY": 12.05,
+      "revenue": 18675371000,
+      "revenueYoY": 9.63,
+      "totalProfit": 4834398000,
+      "totalProfitYoY": 15.83
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "中报",
+      "totalExpenses": 3349951000,
+      "totalExpensesYoY": -5.92,
+      "totalProfit": 2008377000,
+      "totalProfitYoY": -20.59,
+      "revenue": 8574214000,
+      "revenueYoY": 0.97
+    },
+    {
+      "reportDate": "2023-12-31",
+      "reportType": "年报",
+      "revenue": 17034255000,
+      "revenueYoY": 11.56,
+      "totalExpenses": 6827901000,
+      "totalExpensesYoY": 1.55,
+      "totalProfit": 4173803000,
+      "totalProfitYoY": -22.1
+    },
+    {
+      "reportDate": "2023-06-30",
+      "reportType": "中报",
+      "totalProfit": 2528976000,
+      "totalProfitYoY": -13.69,
+      "totalExpenses": 3560634000,
+      "totalExpensesYoY": 4.32,
+      "revenue": 8492046000,
+      "revenueYoY": 17.84
+    },
+    {
+      "reportDate": "2022-12-31",
+      "reportType": "年报",
+      "totalProfit": 5357771000,
+      "totalProfitYoY": 34.18,
+      "totalExpenses": 6724014000,
+      "totalExpensesYoY": 39.25,
+      "revenue": 15268660000,
+      "revenueYoY": 48.38
+    }
+  ],
+  "balance": [
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "parentEquity": 19827791000,
+      "parentEquityYoY": 32.61,
+      "totalLiabilities": 8307558000,
+      "totalLiabilitiesYoY": -3.64,
+      "nonCurrentLiabilities": 63696738000,
+      "nonCurrentLiabilitiesYoY": 11.79,
+      "currentAssets": 35561389000,
+      "currentAssetsYoY": 6.46,
+      "accountsReceivable": 467197000,
+      "accountsReceivableYoY": 5.61
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "parentEquity": 15959288000,
+      "parentEquityYoY": 22.68,
+      "totalLiabilities": 8487345000,
+      "totalLiabilitiesYoY": 24.66,
+      "nonCurrentLiabilities": 60437387000,
+      "nonCurrentLiabilitiesYoY": 7.72,
+      "currentAssets": 35990754000,
+      "currentAssetsYoY": -0.82,
+      "accountsReceivable": 441104000,
+      "accountsReceivableYoY": -7.1
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "parentEquity": 14951940000,
+      "parentEquityYoY": 10.25,
+      "totalLiabilities": 8621251000,
+      "totalLiabilitiesYoY": 12.9,
+      "nonCurrentLiabilities": 56977435000,
+      "nonCurrentLiabilitiesYoY": 0.71,
+      "currentAssets": 33404244000,
+      "currentAssetsYoY": -5.58,
+      "accountsReceivable": 442369000,
+      "accountsReceivableYoY": -13.57
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "中报",
+      "parentEquity": 13008497000,
+      "parentEquityYoY": 33.6,
+      "totalLiabilities": 6808244000,
+      "totalLiabilitiesYoY": -16.37,
+      "nonCurrentLiabilities": 56105719000,
+      "nonCurrentLiabilitiesYoY": 7.6,
+      "currentAssets": 36288978000,
+      "currentAssetsYoY": 5.91,
+      "accountsReceivable": 474803000,
+      "accountsReceivableYoY": -12.71
+    },
+    {
+      "reportDate": "2023-12-31",
+      "reportType": "年报",
+      "currentAssets": 35377477000,
+      "currentAssetsYoY": 13.77,
+      "accountsReceivable": 511834000,
+      "accountsReceivableYoY": -6.73
+    }
+  ],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "02269",
+    "name": "药明生物",
+    "price": 30.74,
+    "change": -0.08,
+    "changePct": -0.26,
+    "open": 30.6,
+    "high": 31.14,
+    "low": 29.62,
+    "prevClose": 30.82,
+    "volume": 33692068,
+    "amount": 1023437722.16,
+    "pe": 23.43,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:29:39",
+    "pb": 0.0,
+    "totalMV": 127345779999.99998,
+    "circMV": 127345779999.99998,
+    "currency": "HKD"
+  }
+}

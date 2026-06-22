@@ -1,0 +1,190 @@
+{
+  "code": "09866",
+  "name": "蔚来-SW",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:30:01.414295",
+  "profile": {
+    "name": "蔚来-SW",
+    "code": "09866",
+    "fullName": "蔚来-SW",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [
+    {
+      "reportDate": "2026-03-31",
+      "reportType": "一季报",
+      "revenue": 25532655000,
+      "revenueYoY": 112.16,
+      "totalExpenses": 4859137000,
+      "totalExpensesYoY": 428.42,
+      "totalProfit": -319964000,
+      "totalProfitYoY": 95.26
+    },
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "revenue": 87487510000,
+      "revenueYoY": 33.1,
+      "totalExpenses": 11915705000,
+      "totalExpensesYoY": 83.52,
+      "totalProfit": -14820719000,
+      "totalProfitYoY": 33.91
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "revenue": 31043394000,
+      "revenueYoY": 13.49,
+      "totalExpenses": 2817077000,
+      "totalExpensesYoY": 29.43,
+      "totalProfit": -11697264000,
+      "totalProfitYoY": -14.44
+    },
+    {
+      "reportDate": "2025-03-31",
+      "reportType": "一季报",
+      "revenue": 12034729000,
+      "revenueYoY": 21.46,
+      "totalExpenses": 919554000,
+      "totalExpensesYoY": 88.54,
+      "totalProfit": -6745402000,
+      "totalProfitYoY": -30.28
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "totalProfit": -22424524000,
+      "totalProfitYoY": -9.61,
+      "revenue": 65731559000,
+      "revenueYoY": 18.18,
+      "totalExpenses": 6492762000,
+      "totalExpensesYoY": 112.75
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "中报",
+      "revenue": 27354604000,
+      "revenueYoY": 40.65,
+      "totalExpenses": 2176446000,
+      "totalExpensesYoY": 773.22,
+      "totalProfit": -10221551000,
+      "totalProfitYoY": 5.08
+    },
+    {
+      "reportDate": "2024-03-31",
+      "reportType": "一季报",
+      "revenue": 9908636000,
+      "revenueYoY": -7.19,
+      "totalExpenses": 487731000,
+      "totalExpensesYoY": 200.53,
+      "totalProfit": -5177587000,
+      "totalProfitYoY": -9.42
+    },
+    {
+      "reportDate": "2023-12-31",
+      "reportType": "年报",
+      "totalExpenses": 3051796000,
+      "totalExpensesYoY": -40.67,
+      "totalProfit": -20458918000,
+      "totalProfitYoY": -42.25,
+      "revenue": 55617933000,
+      "revenueYoY": 12.89
+    }
+  ],
+  "balance": [
+    {
+      "reportDate": "2026-03-31",
+      "reportType": "一季报",
+      "parentEquity": 736380000,
+      "parentEquityYoY": 107.59,
+      "totalLiabilities": 78603871000,
+      "totalLiabilitiesYoY": 32.13,
+      "nonCurrentLiabilities": 126195009000,
+      "nonCurrentLiabilitiesYoY": 28.56,
+      "currentAssets": 46854758000,
+      "currentAssetsYoY": -3.14,
+      "accountsReceivable": 29648000,
+      "accountsReceivableYoY": 0
+    },
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "parentEquity": -1949526000,
+      "parentEquityYoY": -358.73,
+      "totalLiabilities": 78582563000,
+      "totalLiabilitiesYoY": 26.11,
+      "nonCurrentLiabilities": 124401078000,
+      "nonCurrentLiabilitiesYoY": 15.61,
+      "currentAssets": 47768041000,
+      "currentAssetsYoY": 4.48,
+      "accountsReceivable": 29648000,
+      "accountsReceivableYoY": 0
+    },
+    {
+      "reportDate": "2025-09-30",
+      "reportType": "三季报",
+      "parentEquity": -4260227000,
+      "parentEquityYoY": -264.89,
+      "totalLiabilities": 67319553000,
+      "totalLiabilitiesYoY": 17.13,
+      "nonCurrentLiabilities": 112044074000,
+      "nonCurrentLiabilitiesYoY": 7.75,
+      "currentAssets": 48984748000,
+      "currentAssetsYoY": 11.5,
+      "accountsReceivable": 29648000,
+      "accountsReceivableYoY": 0
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "parentEquity": -9773616000,
+      "parentEquityYoY": -282.42,
+      "totalLiabilities": 62281587000,
+      "totalLiabilitiesYoY": 24.18,
+      "currentAssets": 47537874000,
+      "currentAssetsYoY": 5.63,
+      "nonCurrentLiabilities": 100045845000,
+      "nonCurrentLiabilitiesYoY": -0.47,
+      "accountsReceivable": 29648000,
+      "accountsReceivableYoY": 0
+    },
+    {
+      "reportDate": "2025-03-31",
+      "reportType": "一季报",
+      "parentEquity": -9701550000,
+      "parentEquityYoY": -222.85,
+      "totalLiabilities": 59491938000,
+      "totalLiabilitiesYoY": 16.4,
+      "nonCurrentLiabilities": 98163707000,
+      "nonCurrentLiabilitiesYoY": -5.78,
+      "currentAssets": 48373319000,
+      "currentAssetsYoY": 7.07,
+      "accountsReceivable": 29648000,
+      "accountsReceivableYoY": 0
+    }
+  ],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "09866",
+    "name": "蔚来-SW",
+    "price": 39.22,
+    "change": -1.6,
+    "changePct": -3.92,
+    "open": 40.84,
+    "high": 40.84,
+    "low": 38.94,
+    "prevClose": 40.82,
+    "volume": 6682829,
+    "amount": 263755814.76,
+    "pe": -5.7,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:30:00",
+    "pb": 0.0,
+    "totalMV": 98272260000.0,
+    "circMV": 92448090000.0,
+    "currency": "HKD"
+  }
+}

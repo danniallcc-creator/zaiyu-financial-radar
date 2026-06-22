@@ -1,0 +1,38 @@
+{
+  "code": "SCHW",
+  "name": "嘉信理财",
+  "market": "us",
+  "currency": "USD",
+  "fetchTime": "2026-06-22T23:18:25.700451",
+  "profile": {
+    "name": "嘉信理财",
+    "code": "SCHW",
+    "fullName": "嘉信理财",
+    "securityType": "美股"
+  },
+  "financial": [],
+  "income": [],
+  "balance": [],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "SCHW.N",
+    "name": "嘉信理财",
+    "price": 91.92,
+    "change": 0.22,
+    "changePct": 0.24,
+    "open": 92.5,
+    "high": 92.69,
+    "low": 91.36,
+    "prevClose": 91.7,
+    "volume": 2153826,
+    "amount": 198214212.0,
+    "pe": 18.27,
+    "turnover": 0.12,
+    "fetchTime": "2026-06-22T23:18:21",
+    "pb": 19.77,
+    "totalMV": 159861336000.0,
+    "circMV": 150141284000.0,
+    "currency": "USD"
+  }
+}

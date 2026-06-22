@@ -1,0 +1,176 @@
+{
+  "code": "02688",
+  "name": "新奥能源",
+  "market": "hk",
+  "currency": "HKD",
+  "fetchTime": "2026-06-22T23:30:43.765426",
+  "profile": {
+    "name": "新奥能源",
+    "code": "02688",
+    "fullName": "新奥能源",
+    "securityType": "港股"
+  },
+  "financial": [],
+  "income": [
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "revenue": 111905000000,
+      "revenueYoY": 1.87,
+      "totalExpenses": 13292000000,
+      "totalExpensesYoY": -0.84,
+      "totalProfit": 8614000000,
+      "totalProfitYoY": -2.08
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "totalProfit": 3785000000,
+      "totalProfitYoY": -4.9,
+      "totalExpenses": 6457000000,
+      "totalExpensesYoY": -0.12,
+      "revenue": 55673000000,
+      "revenueYoY": 1.99
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "totalProfit": 8797000000,
+      "totalProfitYoY": -12.07,
+      "totalExpenses": 13405000000,
+      "totalExpensesYoY": -6.51,
+      "revenue": 109853000000,
+      "revenueYoY": -3.52
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "中报",
+      "totalProfit": 3980000000,
+      "totalProfitYoY": -21.27,
+      "totalExpenses": 6465000000,
+      "totalExpensesYoY": -9.67,
+      "revenue": 54587000000,
+      "revenueYoY": 0.88
+    },
+    {
+      "reportDate": "2023-12-31",
+      "reportType": "年报",
+      "revenue": 113858000000,
+      "revenueYoY": 3.46,
+      "totalExpenses": 14338000000,
+      "totalExpensesYoY": -9.0,
+      "totalProfit": 10005000000,
+      "totalProfitYoY": 10.53
+    },
+    {
+      "reportDate": "2023-06-30",
+      "reportType": "中报",
+      "totalExpenses": 7157000000,
+      "totalExpensesYoY": 3.81,
+      "revenue": 54111000000,
+      "revenueYoY": -7.24,
+      "totalProfit": 5055000000,
+      "totalProfitYoY": 5.25
+    },
+    {
+      "reportDate": "2022-12-31",
+      "reportType": "年报",
+      "totalProfit": 9052000000,
+      "totalProfitYoY": -20.55,
+      "totalExpenses": 15756000000,
+      "totalExpensesYoY": 12.09,
+      "revenue": 110051000000,
+      "revenueYoY": 18.19
+    },
+    {
+      "reportDate": "2022-06-30",
+      "reportType": "中报",
+      "revenue": 58332000000,
+      "revenueYoY": 41.47,
+      "totalExpenses": 6894000000,
+      "totalExpensesYoY": -2.1,
+      "totalProfit": 4803000000,
+      "totalProfitYoY": -16.92
+    }
+  ],
+  "balance": [
+    {
+      "reportDate": "2025-12-31",
+      "reportType": "年报",
+      "parentEquity": -12939000000,
+      "parentEquityYoY": -25.4,
+      "totalLiabilities": 35572000000,
+      "totalLiabilitiesYoY": 9.45,
+      "nonCurrentLiabilities": 106018000000,
+      "nonCurrentLiabilitiesYoY": 2.71,
+      "currentAssets": 83385000000,
+      "currentAssetsYoY": 2.9,
+      "accountsReceivable": 4320000000,
+      "accountsReceivableYoY": -2.26
+    },
+    {
+      "reportDate": "2025-06-30",
+      "reportType": "中报",
+      "parentEquity": -12056000000,
+      "parentEquityYoY": -40.43,
+      "totalLiabilities": 32820000000,
+      "totalLiabilitiesYoY": 5.48,
+      "nonCurrentLiabilities": 103149000000,
+      "nonCurrentLiabilitiesYoY": 2.63,
+      "currentAssets": 82385000000,
+      "currentAssetsYoY": 5.65,
+      "accountsReceivable": 4339000000,
+      "accountsReceivableYoY": -3.36
+    },
+    {
+      "reportDate": "2024-12-31",
+      "reportType": "年报",
+      "parentEquity": -10318000000,
+      "parentEquityYoY": -20.71,
+      "totalLiabilities": 32502000000,
+      "totalLiabilitiesYoY": -6.93,
+      "nonCurrentLiabilities": 103220000000,
+      "nonCurrentLiabilitiesYoY": 0.09,
+      "currentAssets": 81036000000,
+      "currentAssetsYoY": 5.58,
+      "accountsReceivable": 4420000000,
+      "accountsReceivableYoY": 1.82
+    },
+    {
+      "reportDate": "2024-06-30",
+      "reportType": "中报",
+      "parentEquity": -8585000000,
+      "parentEquityYoY": 11.71,
+      "totalLiabilities": 31114000000,
+      "totalLiabilitiesYoY": -16.64,
+      "nonCurrentLiabilities": 100509000000,
+      "nonCurrentLiabilitiesYoY": -4.73,
+      "currentAssets": 77980000000,
+      "currentAssetsYoY": 0.11,
+      "accountsReceivable": 4490000000,
+      "accountsReceivableYoY": 1.74
+    }
+  ],
+  "cashflow": [],
+  "shareholder": {},
+  "quote": {
+    "code": "02688",
+    "name": "新奥能源",
+    "price": 43.74,
+    "change": -0.6,
+    "changePct": -1.35,
+    "open": 44.52,
+    "high": 45.26,
+    "low": 43.08,
+    "prevClose": 44.34,
+    "volume": 7681539,
+    "amount": 335398681.64,
+    "pe": 7.57,
+    "turnover": 0.0,
+    "fetchTime": "2026-06-22T23:30:42",
+    "pb": 6.86,
+    "totalMV": 49506650000.0,
+    "circMV": 49506650000.0,
+    "currency": "HKD"
+  }
+}
