@@ -1055,7 +1055,6 @@
         const isGlobal = data?.market === 'us' || data?.market === 'hk';
         return (
           <div className="space-y-4">
-            <RiskAlert data={data} />
             <InfoCard title="企业表达分析">
               <p className="text-xs text-txt-dim leading-relaxed">
                 {isGlobal
@@ -1067,15 +1066,13 @@
                 }
               </p>
             </InfoCard>
+            <RiskAlert data={data} />
           </div>
         );
       }
 
       return (
         <div className="space-y-4">
-          {/* ── 风险预警 ── */}
-          <RiskAlert data={data} />
-
           {/* ── 出海分析板块 ── */}
           {hasOverseas && (
             <>
@@ -1201,6 +1198,9 @@
               </p>
             </InfoCard>
           )}
+
+          {/* ── 风险预警（置于末尾） ── */}
+          <RiskAlert data={data} />
         </div>
       );
     };
