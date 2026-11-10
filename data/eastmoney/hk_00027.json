@@ -3,7 +3,7 @@
   "name": "银河娱乐",
   "market": "hk",
   "currency": "HKD",
-  "fetchTime": "2026-06-22T23:30:20.137609",
+  "fetchTime": "2026-11-10T12:17:39.208611",
   "profile": {
     "name": "银河娱乐",
     "code": "00027",
@@ -12,6 +12,16 @@
   },
   "financial": [],
   "income": [
+    {
+      "reportDate": "2026-06-30",
+      "reportType": "中报",
+      "totalExpenses": 23697953000,
+      "totalExpensesYoY": 4.75,
+      "totalProfit": 5374873000,
+      "totalProfitYoY": 0.29,
+      "revenue": 24230960000,
+      "revenueYoY": 4.24
+    },
     {
       "reportDate": "2025-12-31",
       "reportType": "年报",
@@ -35,12 +45,12 @@
     {
       "reportDate": "2024-12-31",
       "reportType": "年报",
+      "totalExpenses": 42081153000,
+      "totalExpensesYoY": 22.57,
       "revenue": 43432373000,
       "revenueYoY": 21.71,
       "totalProfit": 8966171000,
-      "totalProfitYoY": 28.51,
-      "totalExpenses": 42081153000,
-      "totalExpensesYoY": 22.57
+      "totalProfitYoY": 28.51
     },
     {
       "reportDate": "2024-06-30",
@@ -55,12 +65,12 @@
     {
       "reportDate": "2023-12-31",
       "reportType": "年报",
+      "totalProfit": 6976918000,
+      "totalProfitYoY": 308.12,
       "totalExpenses": 34332748000,
       "totalExpensesYoY": 239.54,
       "revenue": 35684253000,
-      "revenueYoY": 211.01,
-      "totalProfit": 6976918000,
-      "totalProfitYoY": 308.12
+      "revenueYoY": 211.01
     },
     {
       "reportDate": "2023-06-30",
@@ -71,25 +81,23 @@
       "totalProfitYoY": 467.13,
       "totalExpenses": 15012916000,
       "totalExpensesYoY": 155.41
-    },
-    {
-      "reportDate": "2022-12-31",
-      "reportType": "年报",
-      "totalProfit": -3352290000,
-      "totalProfitYoY": -320.39,
-      "revenue": 11473793000,
-      "revenueYoY": -41.74,
-      "totalExpenses": 10111695000,
-      "totalExpensesYoY": -44.46
-    },
-    {
-      "reportDate": "2022-06-30",
-      "reportType": "中报",
-      "totalExpenses": 5877927000,
-      "totalExpensesYoY": -40.88
     }
   ],
   "balance": [
+    {
+      "reportDate": "2026-06-30",
+      "reportType": "中报",
+      "parentEquity": 11485587000,
+      "parentEquityYoY": -6.51,
+      "totalLiabilities": 12534162000,
+      "totalLiabilitiesYoY": 9.71,
+      "nonCurrentLiabilities": 100487402000,
+      "nonCurrentLiabilitiesYoY": 5.99,
+      "currentAssets": 76467653000,
+      "currentAssetsYoY": 7.55,
+      "accountsReceivable": 1818910000,
+      "accountsReceivableYoY": -13.19
+    },
     {
       "reportDate": "2025-12-31",
       "reportType": "年报",
@@ -145,26 +153,6 @@
       "currentAssetsYoY": 2.55,
       "accountsReceivable": 2364297000,
       "accountsReceivableYoY": -9.87
-    },
-    {
-      "reportDate": "2023-12-31",
-      "reportType": "年报",
-      "parentEquity": 6674404000,
-      "parentEquityYoY": 155.41,
-      "totalLiabilities": 12532848000,
-      "totalLiabilitiesYoY": -18.08,
-      "nonCurrentLiabilities": 87215455000,
-      "nonCurrentLiabilitiesYoY": 7.72,
-      "currentAssets": 68008203000,
-      "currentAssetsYoY": 7.87,
-      "accountsReceivable": 2500024000,
-      "accountsReceivableYoY": 7487.56
-    },
-    {
-      "reportDate": "2023-06-30",
-      "reportType": "中报",
-      "accountsReceivable": 2623248000,
-      "accountsReceivableYoY": 7238.37
     }
   ],
   "cashflow": [],
@@ -172,21 +160,21 @@
   "quote": {
     "code": "00027",
     "name": "银河娱乐",
-    "price": 29.82,
-    "change": -0.28,
-    "changePct": -0.93,
-    "open": 30.7,
-    "high": 30.72,
-    "low": 29.42,
-    "prevClose": 30.1,
-    "volume": 17435984,
-    "amount": 518714742.7,
-    "pe": 12.23,
+    "price": 34.94,
+    "change": -0.06,
+    "changePct": -0.17,
+    "open": 34.92,
+    "high": 35.16,
+    "low": 34.56,
+    "prevClose": 35.0,
+    "volume": 2585597,
+    "amount": 90404184.76,
+    "pe": 14.34,
     "turnover": 0.0,
-    "fetchTime": "2026-06-22T23:30:18",
-    "pb": 5.03,
-    "totalMV": 130588960000.0,
-    "circMV": 130588960000.0,
+    "fetchTime": "2026-11-10T12:17:38",
+    "pb": 4.87,
+    "totalMV": 153010670000.0,
+    "circMV": 153010670000.0,
     "currency": "HKD"
   }
 }

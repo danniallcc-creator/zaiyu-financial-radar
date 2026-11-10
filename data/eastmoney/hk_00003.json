@@ -3,7 +3,7 @@
   "name": "香港中华煤气",
   "market": "hk",
   "currency": "HKD",
-  "fetchTime": "2026-06-22T23:30:40.049276",
+  "fetchTime": "2026-11-10T12:17:59.665153",
   "profile": {
     "name": "香港中华煤气",
     "code": "00003",
@@ -12,6 +12,16 @@
   },
   "financial": [],
   "income": [
+    {
+      "reportDate": "2026-06-30",
+      "reportType": "中报",
+      "revenue": 29526100000,
+      "revenueYoY": 7.31,
+      "totalProfit": 5239300000,
+      "totalProfitYoY": 16.25,
+      "totalExpenses": 4430300000,
+      "totalExpensesYoY": -4.45
+    },
     {
       "reportDate": "2025-12-31",
       "reportType": "年报",
@@ -85,15 +95,25 @@
     {
       "reportDate": "2022-06-30",
       "reportType": "中报",
-      "totalProfit": 5129900000,
-      "totalProfitYoY": -15.07,
       "totalExpenses": 4506400000,
-      "totalExpensesYoY": -5.81,
-      "revenue": 29721000000,
-      "revenueYoY": 20.19
+      "totalExpensesYoY": -5.81
     }
   ],
   "balance": [
+    {
+      "reportDate": "2026-06-30",
+      "reportType": "中报",
+      "parentEquity": -12713000000,
+      "parentEquityYoY": 4.09,
+      "totalLiabilities": 38290700000,
+      "totalLiabilitiesYoY": -4.78,
+      "nonCurrentLiabilities": 167994300000,
+      "nonCurrentLiabilitiesYoY": 3.43,
+      "currentAssets": 142416600000,
+      "currentAssetsYoY": 5.14,
+      "accountsReceivable": 4538900000,
+      "accountsReceivableYoY": 0.18
+    },
     {
       "reportDate": "2025-12-31",
       "reportType": "年报",
@@ -149,20 +169,6 @@
       "currentAssetsYoY": 2.64,
       "accountsReceivable": 4388300000,
       "accountsReceivableYoY": -12.41
-    },
-    {
-      "reportDate": "2023-12-31",
-      "reportType": "年报",
-      "parentEquity": -15460200000,
-      "parentEquityYoY": -4.38,
-      "totalLiabilities": 42094000000,
-      "totalLiabilitiesYoY": -3.28,
-      "nonCurrentLiabilities": 161977600000,
-      "nonCurrentLiabilitiesYoY": -3.85,
-      "currentAssets": 135343800000,
-      "currentAssetsYoY": -3.16,
-      "accountsReceivable": 4463200000,
-      "accountsReceivableYoY": -16.42
     }
   ],
   "cashflow": [],
@@ -170,21 +176,21 @@
   "quote": {
     "code": "00003",
     "name": "香港中华煤气",
-    "price": 6.7,
-    "change": -0.06,
-    "changePct": -0.89,
-    "open": 6.76,
-    "high": 6.76,
-    "low": 6.64,
-    "prevClose": 6.76,
-    "volume": 23521107,
-    "amount": 157927606.16,
-    "pe": 21.98,
+    "price": 7.41,
+    "change": 0.015,
+    "changePct": 0.2,
+    "open": 7.39,
+    "high": 7.415,
+    "low": 7.37,
+    "prevClose": 7.395,
+    "volume": 6005580,
+    "amount": 44473178.84,
+    "pe": 24.31,
     "turnover": 0.0,
-    "fetchTime": "2026-06-22T23:30:38",
-    "pb": 5.22,
-    "totalMV": 125021130000.0,
-    "circMV": 125021130000.0,
+    "fetchTime": "2026-11-10T12:17:58",
+    "pb": 4.72,
+    "totalMV": 138269640000.0,
+    "circMV": 138269640000.0,
     "currency": "HKD"
   }
 }

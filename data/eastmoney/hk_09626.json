@@ -3,7 +3,7 @@
   "name": "哔哩哔哩-W",
   "market": "hk",
   "currency": "HKD",
-  "fetchTime": "2026-06-22T23:30:16.333618",
+  "fetchTime": "2026-11-10T12:17:35.418819",
   "profile": {
     "name": "哔哩哔哩-W",
     "code": "09626",
@@ -12,6 +12,16 @@
   },
   "financial": [],
   "income": [
+    {
+      "reportDate": "2026-06-30",
+      "reportType": "中报",
+      "totalExpenses": 5728196000,
+      "totalExpensesYoY": 9.84,
+      "revenue": 15411958000,
+      "revenueYoY": 7.47,
+      "totalProfit": 592776000,
+      "totalProfitYoY": 141.41
+    },
     {
       "reportDate": "2026-03-31",
       "reportType": "一季报",
@@ -85,25 +95,25 @@
     {
       "reportDate": "2024-06-30",
       "reportType": "中报",
-      "totalProfit": -1377372000,
-      "totalProfitYoY": 35.1,
       "totalExpenses": 3438561000,
-      "totalExpensesYoY": 47.48,
-      "revenue": 11791744000,
-      "revenueYoY": 13.67
-    },
-    {
-      "reportDate": "2024-03-31",
-      "reportType": "一季报",
-      "totalProfit": -763069000,
-      "totalProfitYoY": -27.62,
-      "revenue": 5664600000,
-      "revenueYoY": 11.74,
-      "totalExpenses": 1605360000,
-      "totalExpensesYoY": 45.42
+      "totalExpensesYoY": 47.48
     }
   ],
   "balance": [
+    {
+      "reportDate": "2026-06-30",
+      "reportType": "中报",
+      "parentEquity": 6783298000,
+      "parentEquityYoY": -29.02,
+      "totalLiabilities": 21388959000,
+      "totalLiabilitiesYoY": 33.56,
+      "nonCurrentLiabilities": 42479574000,
+      "nonCurrentLiabilitiesYoY": 9.5,
+      "currentAssets": 14307317000,
+      "currentAssetsYoY": 8.2,
+      "accountsReceivable": 2893031000,
+      "accountsReceivableYoY": -4.18
+    },
     {
       "reportDate": "2026-03-31",
       "reportType": "一季报",
@@ -163,30 +173,10 @@
     {
       "reportDate": "2025-03-31",
       "reportType": "一季报",
-      "parentEquity": 5474615000,
-      "parentEquityYoY": 1279.38,
-      "totalLiabilities": 15104777000,
-      "totalLiabilitiesYoY": -3.98,
       "nonCurrentLiabilities": 33280490000,
       "nonCurrentLiabilitiesYoY": 10.02,
       "currentAssets": 12701098000,
-      "currentAssetsYoY": -10.06,
-      "accountsReceivable": 3199545000,
-      "accountsReceivableYoY": -8.37
-    },
-    {
-      "reportDate": "2024-12-31",
-      "reportType": "年报",
-      "currentAssets": 12942445000,
-      "currentAssetsYoY": -10.32,
-      "parentEquity": 4993252000,
-      "parentEquityYoY": 701.04,
-      "totalLiabilities": 14762803000,
-      "totalLiabilitiesYoY": -18.45,
-      "nonCurrentLiabilities": 32698500000,
-      "nonCurrentLiabilitiesYoY": -1.39,
-      "accountsReceivable": 3201012000,
-      "accountsReceivableYoY": -11.76
+      "currentAssetsYoY": -10.06
     }
   ],
   "cashflow": [],
@@ -194,21 +184,21 @@
   "quote": {
     "code": "09626",
     "name": "哔哩哔哩-W",
-    "price": 132.6,
-    "change": -2.6,
-    "changePct": -1.92,
-    "open": 132.0,
-    "high": 134.1,
-    "low": 128.8,
-    "prevClose": 135.2,
-    "volume": 4286270,
-    "amount": 564565630.5,
-    "pe": 41.82,
+    "price": 113.2,
+    "change": 0.6,
+    "changePct": 0.53,
+    "open": 114.3,
+    "high": 114.6,
+    "low": 112.6,
+    "prevClose": 112.6,
+    "volume": 1080465,
+    "amount": 122519707.86,
+    "pe": 35.99,
     "turnover": 0.0,
-    "fetchTime": "2026-06-22T23:30:15",
+    "fetchTime": "2026-11-10T12:17:34",
     "pb": 0.0,
-    "totalMV": 55266570000.0,
-    "circMV": 44698350000.0,
+    "totalMV": 47559600000.0,
+    "circMV": 38537560000.0,
     "currency": "HKD"
   }
 }

@@ -3,7 +3,7 @@
   "name": "小鹏集团-W",
   "market": "hk",
   "currency": "HKD",
-  "fetchTime": "2026-06-22T23:29:59.449497",
+  "fetchTime": "2026-11-10T12:17:18.767461",
   "profile": {
     "name": "小鹏集团-W",
     "code": "09868",
@@ -12,6 +12,16 @@
   },
   "financial": [],
   "income": [
+    {
+      "reportDate": "2026-06-30",
+      "reportType": "中报",
+      "totalProfit": -3037632000,
+      "totalProfitYoY": -165.71,
+      "totalExpenses": 6766075000,
+      "totalExpensesYoY": 20.25,
+      "revenue": 32777374000,
+      "revenueYoY": -3.84
+    },
     {
       "reportDate": "2026-03-31",
       "reportType": "一季报",
@@ -85,23 +95,27 @@
     {
       "reportDate": "2023-12-31",
       "reportType": "年报",
-      "totalProfit": -10338965000,
-      "totalProfitYoY": -13.44,
       "revenue": 30676067000,
       "revenueYoY": 14.23,
       "totalExpenses": 451155000,
       "totalExpensesYoY": -85.39
-    },
-    {
-      "reportDate": "2023-06-30",
-      "reportType": "中报",
-      "revenue": 9096116000,
-      "revenueYoY": -38.92,
-      "totalExpenses": -130359000,
-      "totalExpensesYoY": -107.58
     }
   ],
   "balance": [
+    {
+      "reportDate": "2026-06-30",
+      "reportType": "中报",
+      "parentEquity": 6200066000,
+      "parentEquityYoY": -8.92,
+      "totalLiabilities": 55305418000,
+      "totalLiabilitiesYoY": 15.31,
+      "nonCurrentLiabilities": 101586316000,
+      "nonCurrentLiabilitiesYoY": 9.91,
+      "currentAssets": 40080832000,
+      "currentAssetsYoY": 6.44,
+      "accountsReceivable": 3985127000,
+      "accountsReceivableYoY": -8.05
+    },
     {
       "reportDate": "2026-03-31",
       "reportType": "一季报",
@@ -125,10 +139,10 @@
       "totalLiabilitiesYoY": 45.78,
       "nonCurrentLiabilities": 103162630000,
       "nonCurrentLiabilitiesYoY": 24.73,
-      "accountsReceivable": 4253168000,
-      "accountsReceivableYoY": -7.75,
       "currentAssets": 39908803000,
-      "currentAssetsYoY": 21.05
+      "currentAssetsYoY": 21.05,
+      "accountsReceivable": 4253168000,
+      "accountsReceivableYoY": -7.75
     },
     {
       "reportDate": "2025-09-30",
@@ -143,26 +157,6 @@
       "currentAssetsYoY": 18.14,
       "accountsReceivable": 4216325000,
       "accountsReceivableYoY": -7.78
-    },
-    {
-      "reportDate": "2025-06-30",
-      "reportType": "中报",
-      "parentEquity": 6807209000,
-      "parentEquityYoY": -54.43,
-      "totalLiabilities": 47963747000,
-      "totalLiabilitiesYoY": 60.97,
-      "nonCurrentLiabilities": 92426959000,
-      "nonCurrentLiabilitiesYoY": 23.24,
-      "currentAssets": 37656003000,
-      "currentAssetsYoY": 24.42,
-      "accountsReceivable": 4333824000,
-      "accountsReceivableYoY": -7.89
-    },
-    {
-      "reportDate": "2025-03-31",
-      "reportType": "一季报",
-      "accountsReceivable": 4473265000,
-      "accountsReceivableYoY": -7.44
     }
   ],
   "cashflow": [],
@@ -170,21 +164,21 @@
   "quote": {
     "code": "09868",
     "name": "小鹏集团-W",
-    "price": 51.55,
-    "change": 0.05,
-    "changePct": 0.1,
-    "open": 51.5,
-    "high": 52.35,
-    "low": 49.04,
-    "prevClose": 51.5,
-    "volume": 23540610,
-    "amount": 1187945891.27,
-    "pe": -78.23,
+    "price": 40.36,
+    "change": 0.98,
+    "changePct": 2.49,
+    "open": 39.52,
+    "high": 40.8,
+    "low": 39.52,
+    "prevClose": 39.38,
+    "volume": 6077028,
+    "amount": 245335860.36,
+    "pe": -61.39,
     "turnover": 0.0,
-    "fetchTime": "2026-06-22T23:29:58",
+    "fetchTime": "2026-11-10T12:17:17",
     "pb": 0.0,
-    "totalMV": 98688710000.0,
-    "circMV": 80712800000.0,
+    "totalMV": 77444880000.0,
+    "circMV": 63371010000.0,
     "currency": "HKD"
   }
 }

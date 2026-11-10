@@ -3,7 +3,7 @@
   "name": "中国海洋石油",
   "market": "hk",
   "currency": "HKD",
-  "fetchTime": "2026-06-22T23:30:38.210991",
+  "fetchTime": "2026-11-10T12:17:57.855492",
   "profile": {
     "name": "中国海洋石油",
     "code": "00883",
@@ -12,6 +12,26 @@
   },
   "financial": [],
   "income": [
+    {
+      "reportDate": "2026-09-30",
+      "reportType": "三季报",
+      "revenue": 355574000000,
+      "revenueYoY": 13.78,
+      "totalProfit": 160034000000,
+      "totalProfitYoY": 15.03,
+      "totalExpenses": 191615000000,
+      "totalExpensesYoY": 17.38
+    },
+    {
+      "reportDate": "2026-06-30",
+      "reportType": "中报",
+      "totalExpenses": 196032000000,
+      "totalExpensesYoY": 21.36,
+      "totalProfit": 113513000000,
+      "totalProfitYoY": 19.92,
+      "revenue": 242660000000,
+      "revenueYoY": 16.88
+    },
     {
       "reportDate": "2026-03-31",
       "reportType": "一季报",
@@ -25,12 +45,12 @@
     {
       "reportDate": "2025-12-31",
       "reportType": "年报",
-      "revenue": 389336000000,
-      "revenueYoY": -5.22,
+      "totalExpenses": 310301000000,
+      "totalExpensesYoY": -6.6,
       "totalProfit": 169639000000,
       "totalProfitYoY": -10.71,
-      "totalExpenses": 301417000000,
-      "totalExpensesYoY": -6.54
+      "revenue": 398220000000,
+      "revenueYoY": -5.3
     },
     {
       "reportDate": "2025-09-30",
@@ -45,12 +65,12 @@
     {
       "reportDate": "2025-06-30",
       "reportType": "中报",
-      "totalProfit": 94659000000,
-      "totalProfitYoY": -10.51,
       "totalExpenses": 161524000000,
       "totalExpensesYoY": -7.99,
       "revenue": 207608000000,
-      "revenueYoY": -8.45
+      "revenueYoY": -8.45,
+      "totalProfit": 94659000000,
+      "totalProfitYoY": -10.51
     },
     {
       "reportDate": "2025-03-31",
@@ -61,32 +81,46 @@
       "totalProfitYoY": -5.15,
       "revenue": 106854000000,
       "revenueYoY": -4.14
-    },
-    {
-      "reportDate": "2024-12-31",
-      "reportType": "年报",
-      "totalProfit": 189976000000,
-      "totalProfitYoY": 9.83,
-      "revenue": 410757000000,
-      "revenueYoY": -1.4,
-      "totalExpenses": 322495000000,
-      "totalExpensesYoY": 4.75
-    },
-    {
-      "reportDate": "2024-09-30",
-      "reportType": "三季报",
-      "totalExpenses": 177526000000,
-      "totalExpensesYoY": 16.66,
-      "revenue": 326024000000,
-      "revenueYoY": 6.26,
-      "totalProfit": 154385000000,
-      "totalProfitYoY": 16.12
     }
   ],
   "balance": [
     {
+      "reportDate": "2026-09-30",
+      "reportType": "三季报",
+      "monetaryFunds": 8526000000,
+      "monetaryFundsYoY": 29.36,
+      "parentEquity": 254224000000,
+      "parentEquityYoY": 34.45,
+      "totalLiabilities": 156614000000,
+      "totalLiabilitiesYoY": 9.06,
+      "nonCurrentLiabilities": 1211146000000,
+      "nonCurrentLiabilitiesYoY": 7.52,
+      "currentAssets": 800308000000,
+      "currentAssetsYoY": 0.82,
+      "inventory": 168756000000,
+      "inventoryYoY": 10.76,
+      "accountsReceivable": 3233000000,
+      "accountsReceivableYoY": -6.43
+    },
+    {
+      "reportDate": "2026-06-30",
+      "reportType": "中报",
+      "parentEquity": 253141000000,
+      "parentEquityYoY": 36.58,
+      "totalLiabilities": 140668000000,
+      "totalLiabilitiesYoY": 3.32,
+      "nonCurrentLiabilities": 1202503000000,
+      "nonCurrentLiabilitiesYoY": 7.47,
+      "currentAssets": 808694000000,
+      "currentAssetsYoY": 1.41,
+      "accountsReceivable": 15792000000,
+      "accountsReceivableYoY": -5.63
+    },
+    {
       "reportDate": "2026-03-31",
       "reportType": "一季报",
+      "monetaryFunds": 6414000000,
+      "monetaryFundsYoY": -3.2,
       "parentEquity": 234625000000,
       "parentEquityYoY": 34.49,
       "totalLiabilities": 108307000000,
@@ -95,8 +129,6 @@
       "nonCurrentLiabilitiesYoY": 4.43,
       "currentAssets": 808631000000,
       "currentAssetsYoY": 0.71,
-      "monetaryFunds": 6414000000,
-      "monetaryFundsYoY": -3.2,
       "inventory": 156588000000,
       "inventoryYoY": -0.57,
       "accountsReceivable": 3522000000,
@@ -105,6 +137,7 @@
     {
       "reportDate": "2025-12-31",
       "reportType": "年报",
+      "monetaryFunds": 6552000000,
       "parentEquity": 204130000000,
       "parentEquityYoY": 40.07,
       "totalLiabilities": 91253000000,
@@ -115,40 +148,17 @@
       "currentAssetsYoY": 1.45,
       "inventory": 150913000000,
       "accountsReceivable": 3683000000,
-      "accountsReceivableYoY": -78.29,
-      "monetaryFunds": 6552000000
+      "accountsReceivableYoY": -78.29
     },
     {
       "reportDate": "2025-09-30",
       "reportType": "三季报",
-      "parentEquity": 189081000000,
-      "parentEquityYoY": 59.36,
-      "totalLiabilities": 143597000000,
-      "totalLiabilitiesYoY": -13.99,
-      "nonCurrentLiabilities": 1126474000000,
-      "nonCurrentLiabilitiesYoY": 4.36,
-      "currentAssets": 793796000000,
-      "currentAssetsYoY": 0.0,
+      "monetaryFunds": 6591000000,
+      "monetaryFundsYoY": -1.42,
       "inventory": 152367000000,
       "inventoryYoY": 6860.58,
       "accountsReceivable": 3455000000,
-      "accountsReceivableYoY": -3.49,
-      "monetaryFunds": 6591000000,
-      "monetaryFundsYoY": -1.42
-    },
-    {
-      "reportDate": "2025-06-30",
-      "reportType": "中报",
-      "parentEquity": 185343000000,
-      "parentEquityYoY": 41.43,
-      "totalLiabilities": 136146000000,
-      "totalLiabilitiesYoY": -18.05,
-      "nonCurrentLiabilities": 1118957000000,
-      "nonCurrentLiabilitiesYoY": 4.05,
-      "currentAssets": 797468000000,
-      "currentAssetsYoY": 2.47,
-      "accountsReceivable": 16734000000,
-      "accountsReceivableYoY": -0.1
+      "accountsReceivableYoY": -3.49
     }
   ],
   "cashflow": [],
@@ -156,21 +166,21 @@
   "quote": {
     "code": "00883",
     "name": "中国海洋石油",
-    "price": 22.2,
-    "change": -0.18,
-    "changePct": -0.8,
-    "open": 22.5,
-    "high": 22.88,
-    "low": 21.96,
-    "prevClose": 22.38,
-    "volume": 103528687,
-    "amount": 2318332683.8,
-    "pe": 7.81,
+    "price": 22.88,
+    "change": -0.48,
+    "changePct": -2.05,
+    "open": 23.0,
+    "high": 23.08,
+    "low": 22.62,
+    "prevClose": 23.36,
+    "volume": 51035232,
+    "amount": 1166224261.9,
+    "pe": 8.05,
     "turnover": 0.0,
-    "fetchTime": "2026-06-22T23:30:37",
-    "pb": 5.77,
-    "totalMV": 1055164979999.9999,
-    "circMV": 988786980000.0,
+    "fetchTime": "2026-11-10T12:17:56",
+    "pb": 6.51,
+    "totalMV": 1087485349999.9999,
+    "circMV": 1019074150000.0,
     "currency": "HKD"
   }
 }

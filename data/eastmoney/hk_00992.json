@@ -3,7 +3,7 @@
   "name": "联想集团",
   "market": "hk",
   "currency": "HKD",
-  "fetchTime": "2026-06-22T23:30:05.193559",
+  "fetchTime": "2026-11-10T12:17:24.374748",
   "profile": {
     "name": "联想集团",
     "code": "00992",
@@ -12,6 +12,16 @@
   },
   "financial": [],
   "income": [
+    {
+      "reportDate": "2026-06-30",
+      "reportType": "一季报",
+      "revenue": 26942766000,
+      "revenueYoY": 43.09,
+      "totalProfit": -179921000,
+      "totalProfitYoY": -128.92,
+      "totalExpenses": 4451969000,
+      "totalExpensesYoY": 60.46
+    },
     {
       "reportDate": "2026-03-31",
       "reportType": "年报",
@@ -75,23 +85,31 @@
     {
       "reportDate": "2024-09-30",
       "reportType": "中报",
+      "revenue": 33297150000,
+      "revenueYoY": 21.92,
       "totalProfit": 786181000,
       "totalProfitYoY": 34.22,
       "totalExpenses": 5355599000,
-      "totalExpensesYoY": 12.19,
-      "revenue": 33297150000,
-      "revenueYoY": 21.92
-    },
-    {
-      "reportDate": "2024-06-30",
-      "reportType": "一季报",
-      "revenue": 15447056000,
-      "revenueYoY": 19.75,
-      "totalProfit": 312995000,
-      "totalProfitYoY": 37.2
+      "totalExpensesYoY": 12.19
     }
   ],
   "balance": [
+    {
+      "reportDate": "2026-06-30",
+      "reportType": "一季报",
+      "parentEquity": -1140569000,
+      "parentEquityYoY": 25.17,
+      "totalLiabilities": 51795782000,
+      "totalLiabilitiesYoY": 65.56,
+      "nonCurrentLiabilities": 70112116000,
+      "nonCurrentLiabilitiesYoY": 51.35,
+      "currentAssets": 19456903000,
+      "currentAssetsYoY": 17.48,
+      "inventory": 515523000,
+      "inventoryYoY": 133.37,
+      "accountsReceivable": 8926017000,
+      "accountsReceivableYoY": 7.17
+    },
     {
       "reportDate": "2026-03-31",
       "reportType": "年报",
@@ -143,30 +161,12 @@
     {
       "reportDate": "2025-06-30",
       "reportType": "一季报",
-      "parentEquity": -1524172000,
-      "parentEquityYoY": 64.4,
-      "totalLiabilities": 31285110000,
-      "totalLiabilitiesYoY": 8.48,
       "nonCurrentLiabilities": 46323210000,
       "nonCurrentLiabilitiesYoY": 14.42,
       "currentAssets": 16562272000,
       "currentAssetsYoY": 3.99,
       "inventory": 220906000,
-      "inventoryYoY": -26.26,
-      "accountsReceivable": 8328679000,
-      "accountsReceivableYoY": 1.58
-    },
-    {
-      "reportDate": "2025-03-31",
-      "reportType": "年报",
-      "nonCurrentLiabilities": 44230812000,
-      "nonCurrentLiabilitiesYoY": 14.14,
-      "currentAssets": 16326729000,
-      "currentAssetsYoY": 1.64,
-      "inventory": 282309000,
-      "inventoryYoY": -16.39,
-      "accountsReceivable": 8232977000,
-      "accountsReceivableYoY": -1.35
+      "inventoryYoY": -26.26
     }
   ],
   "cashflow": [],
@@ -174,21 +174,21 @@
   "quote": {
     "code": "00992",
     "name": "联想集团",
-    "price": 23.3,
-    "change": -0.48,
-    "changePct": -2.02,
-    "open": 23.38,
-    "high": 24.22,
-    "low": 23.22,
-    "prevClose": 23.78,
-    "volume": 107536906,
-    "amount": 2544295141.14,
-    "pe": 19.29,
+    "price": 19.19,
+    "change": 0.54,
+    "changePct": 2.9,
+    "open": 19.76,
+    "high": 19.91,
+    "low": 19.05,
+    "prevClose": 18.65,
+    "volume": 46473583,
+    "amount": 907852971.82,
+    "pe": 16.43,
     "turnover": 0.0,
-    "fetchTime": "2026-06-22T23:30:03",
-    "pb": 1.67,
-    "totalMV": 289028560000.0,
-    "circMV": 289028560000.0,
+    "fetchTime": "2026-11-10T12:17:23",
+    "pb": 2.13,
+    "totalMV": 246131800000.00003,
+    "circMV": 246131800000.00003,
     "currency": "HKD"
   }
 }

@@ -3,7 +3,7 @@
   "name": "腾讯控股",
   "market": "hk",
   "currency": "HKD",
-  "fetchTime": "2026-06-22T22:57:50.354790",
+  "fetchTime": "2026-11-10T12:16:40.815203",
   "profile": {
     "name": "腾讯控股",
     "code": "00700",
@@ -12,6 +12,16 @@
   },
   "financial": [],
   "income": [
+    {
+      "reportDate": "2026-06-30",
+      "reportType": "中报",
+      "totalExpenses": 229698000000,
+      "totalExpensesYoY": 11.77,
+      "revenue": 401243000000,
+      "revenueYoY": 10.07,
+      "totalProfit": 143659000000,
+      "totalProfitYoY": 9.8
+    },
     {
       "reportDate": "2026-03-31",
       "reportType": "一季报",
@@ -75,21 +85,29 @@
     {
       "reportDate": "2024-09-30",
       "reportType": "三季报",
-      "totalExpenses": 258593000000,
-      "totalExpensesYoY": 19.97,
       "totalProfit": 178237000000,
       "totalProfitYoY": 43.95,
       "revenue": 487811000000,
       "revenueYoY": 7.49
-    },
-    {
-      "reportDate": "2024-06-30",
-      "reportType": "中报",
-      "totalExpenses": 169765000000,
-      "totalExpensesYoY": 22.11
     }
   ],
   "balance": [
+    {
+      "reportDate": "2026-06-30",
+      "reportType": "中报",
+      "parentEquity": 147943000000,
+      "parentEquityYoY": 34.02,
+      "totalLiabilities": 515481000000,
+      "totalLiabilitiesYoY": 18.47,
+      "nonCurrentLiabilities": 2159394000000,
+      "nonCurrentLiabilitiesYoY": 7.26,
+      "currentAssets": 1495970000000,
+      "currentAssetsYoY": 1.92,
+      "inventory": 7089000000,
+      "inventoryYoY": -50.9,
+      "accountsReceivable": 206064000000,
+      "accountsReceivableYoY": -4.53
+    },
     {
       "reportDate": "2026-03-31",
       "reportType": "一季报",
@@ -137,22 +155,6 @@
       "inventoryYoY": -25.46,
       "accountsReceivable": 212459000000,
       "accountsReceivableYoY": 18.84
-    },
-    {
-      "reportDate": "2025-06-30",
-      "reportType": "中报",
-      "parentEquity": 110386000000,
-      "parentEquityYoY": -17.51,
-      "totalLiabilities": 435111000000,
-      "totalLiabilitiesYoY": 12.19,
-      "nonCurrentLiabilities": 2013310000000,
-      "nonCurrentLiabilitiesYoY": 21.65,
-      "currentAssets": 1467813000000,
-      "currentAssetsYoY": 29.51,
-      "inventory": 14438000000,
-      "inventoryYoY": 7.24,
-      "accountsReceivable": 215832000000,
-      "accountsReceivableYoY": 21.51
     }
   ],
   "cashflow": [],
@@ -160,21 +162,21 @@
   "quote": {
     "code": "00700",
     "name": "腾讯控股",
-    "price": 433.0,
-    "change": -7.2,
-    "changePct": -1.64,
-    "open": 439.0,
-    "high": 439.0,
-    "low": 428.4,
-    "prevClose": 440.2,
-    "volume": 31563111,
-    "amount": 13687873506.2,
-    "pe": 15.84,
+    "price": 418.2,
+    "change": -0.2,
+    "changePct": -0.05,
+    "open": 423.0,
+    "high": 424.4,
+    "low": 415.4,
+    "prevClose": 418.4,
+    "volume": 7297984,
+    "amount": 3057597235.38,
+    "pe": 15.28,
     "turnover": 0.0,
-    "fetchTime": "2026-06-22T22:57:49",
-    "pb": 1.23,
-    "totalMV": 3943814910000.0,
-    "circMV": 3943814910000.0,
+    "fetchTime": "2026-11-10T12:16:39",
+    "pb": 1.27,
+    "totalMV": 3802544070000.0,
+    "circMV": 3802544070000.0,
     "currency": "HKD"
   }
 }

@@ -3,7 +3,7 @@
   "name": "舜宇光学科技",
   "market": "hk",
   "currency": "HKD",
-  "fetchTime": "2026-06-22T23:30:07.047049",
+  "fetchTime": "2026-11-10T12:17:26.252037",
   "profile": {
     "name": "舜宇光学科技",
     "code": "02382",
@@ -12,6 +12,16 @@
   },
   "financial": [],
   "income": [
+    {
+      "reportDate": "2026-06-30",
+      "reportType": "中报",
+      "totalExpenses": 4268666000,
+      "totalExpensesYoY": 9.61,
+      "revenue": 21905704000,
+      "revenueYoY": 11.47,
+      "totalProfit": 2202224000,
+      "totalProfitYoY": 18.07
+    },
     {
       "reportDate": "2025-12-31",
       "reportType": "年报",
@@ -77,19 +87,25 @@
       "reportType": "年报",
       "totalProfit": 2714979000,
       "totalProfitYoY": -51.82,
-      "totalExpenses": 6604997000,
-      "totalExpensesYoY": -24.4,
       "revenue": 33196937000,
       "revenueYoY": -11.47
-    },
-    {
-      "reportDate": "2022-06-30",
-      "reportType": "中报",
-      "totalProfit": 1683760000,
-      "totalProfitYoY": -47.85
     }
   ],
   "balance": [
+    {
+      "reportDate": "2026-06-30",
+      "reportType": "中报",
+      "parentEquity": 14467624000,
+      "parentEquityYoY": -8.09,
+      "totalLiabilities": 22675898000,
+      "totalLiabilitiesYoY": -8.56,
+      "nonCurrentLiabilities": 53751191000,
+      "nonCurrentLiabilitiesYoY": -3.68,
+      "currentAssets": 16607669000,
+      "currentAssetsYoY": 8.81,
+      "accountsReceivable": 37045000,
+      "accountsReceivableYoY": -66.38
+    },
     {
       "reportDate": "2025-12-31",
       "reportType": "年报",
@@ -131,20 +147,6 @@
       "currentAssetsYoY": 7.81,
       "accountsReceivable": 138295000,
       "accountsReceivableYoY": -28.9
-    },
-    {
-      "reportDate": "2024-06-30",
-      "reportType": "中报",
-      "parentEquity": 14413062000,
-      "parentEquityYoY": 4.57,
-      "totalLiabilities": 19064599000,
-      "totalLiabilitiesYoY": 4.71,
-      "nonCurrentLiabilities": 48539237000,
-      "nonCurrentLiabilitiesYoY": 3.97,
-      "currentAssets": 15061576000,
-      "currentAssetsYoY": 2.5,
-      "accountsReceivable": 166401000,
-      "accountsReceivableYoY": -25.25
     }
   ],
   "cashflow": [],
@@ -152,21 +154,21 @@
   "quote": {
     "code": "02382",
     "name": "舜宇光学科技",
-    "price": 79.35,
-    "change": -0.8,
-    "changePct": -1.0,
-    "open": 80.9,
-    "high": 84.55,
-    "low": 78.45,
-    "prevClose": 80.15,
-    "volume": 22064394,
-    "amount": 1780982578.0,
-    "pe": 16.67,
+    "price": 65.1,
+    "change": 2.1,
+    "changePct": 3.33,
+    "open": 63.8,
+    "high": 65.35,
+    "low": 63.8,
+    "prevClose": 63.0,
+    "volume": 1949972,
+    "amount": 126374109.5,
+    "pe": 13.68,
     "turnover": 0.0,
-    "fetchTime": "2026-06-22T23:30:05",
-    "pb": 1.52,
-    "totalMV": 85615860000.0,
-    "circMV": 85615860000.0,
+    "fetchTime": "2026-11-10T12:17:25",
+    "pb": 1.85,
+    "totalMV": 70240610000.0,
+    "circMV": 70240610000.0,
     "currency": "HKD"
   }
 }

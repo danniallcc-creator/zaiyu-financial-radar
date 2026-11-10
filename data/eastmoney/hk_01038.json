@@ -3,7 +3,7 @@
   "name": "长江基建集团",
   "market": "hk",
   "currency": "HKD",
-  "fetchTime": "2026-06-22T23:30:08.849280",
+  "fetchTime": "2026-11-10T12:17:28.063144",
   "profile": {
     "name": "长江基建集团",
     "code": "01038",
@@ -12,6 +12,16 @@
   },
   "financial": [],
   "income": [
+    {
+      "reportDate": "2026-06-30",
+      "reportType": "中报",
+      "revenue": 2073000000,
+      "revenueYoY": -6.16,
+      "totalProfit": 21525000000,
+      "totalProfitYoY": 366.01,
+      "totalExpenses": 88000000,
+      "totalExpensesYoY": -76.96
+    },
     {
       "reportDate": "2025-12-31",
       "reportType": "年报",
@@ -25,12 +35,12 @@
     {
       "reportDate": "2025-06-30",
       "reportType": "中报",
+      "totalExpenses": 382000000,
+      "totalExpensesYoY": -31.79,
       "revenue": 2209000000,
       "revenueYoY": -10.86,
       "totalProfit": 4619000000,
-      "totalProfitYoY": 0.92,
-      "totalExpenses": 382000000,
-      "totalExpensesYoY": -31.79
+      "totalProfitYoY": 0.92
     },
     {
       "reportDate": "2024-12-31",
@@ -81,19 +91,21 @@
       "totalProfitYoY": 2.21,
       "revenue": 6615000000,
       "revenueYoY": -6.14
-    },
-    {
-      "reportDate": "2022-06-30",
-      "reportType": "中报",
-      "revenue": 3381000000,
-      "revenueYoY": -5.77,
-      "totalExpenses": 1265000000,
-      "totalExpensesYoY": -22.2,
-      "totalProfit": 4685000000,
-      "totalProfitYoY": 40.78
     }
   ],
   "balance": [
+    {
+      "reportDate": "2026-06-30",
+      "reportType": "中报",
+      "parentEquity": 42486000000,
+      "parentEquityYoY": 1889.64,
+      "totalLiabilities": 14737000000,
+      "totalLiabilitiesYoY": 85.46,
+      "nonCurrentLiabilities": 185947000000,
+      "nonCurrentLiabilitiesYoY": 12.95,
+      "currentAssets": 128724000000,
+      "currentAssetsYoY": -19.07
+    },
     {
       "reportDate": "2025-12-31",
       "reportType": "年报",
@@ -145,22 +157,10 @@
     {
       "reportDate": "2023-12-31",
       "reportType": "年报",
-      "currentAssets": 151286000000,
-      "currentAssetsYoY": 3.38,
-      "parentEquity": -1512000000,
-      "parentEquityYoY": -120.84,
-      "totalLiabilities": 16099000000,
-      "totalLiabilitiesYoY": 31.23,
       "nonCurrentLiabilities": 165873000000,
-      "nonCurrentLiabilitiesYoY": 0.0
-    },
-    {
-      "reportDate": "2023-06-30",
-      "reportType": "中报",
-      "nonCurrentLiabilities": 165868000000,
-      "nonCurrentLiabilitiesYoY": 0.82,
-      "currentAssets": 152543000000,
-      "currentAssetsYoY": 0.84
+      "nonCurrentLiabilitiesYoY": 0.0,
+      "currentAssets": 151286000000,
+      "currentAssetsYoY": 3.38
     }
   ],
   "cashflow": [],
@@ -168,21 +168,21 @@
   "quote": {
     "code": "01038",
     "name": "长江基建集团",
-    "price": 58.15,
-    "change": -0.35,
-    "changePct": -0.6,
-    "open": 58.85,
-    "high": 58.85,
-    "low": 56.9,
-    "prevClose": 58.5,
-    "volume": 2692029,
-    "amount": 156043107.25,
-    "pe": 17.73,
+    "price": 71.85,
+    "change": -0.1,
+    "changePct": -0.14,
+    "open": 72.0,
+    "high": 72.0,
+    "low": 71.55,
+    "prevClose": 71.95,
+    "volume": 258184,
+    "amount": 18544098.85,
+    "pe": 21.9,
     "turnover": 0.0,
-    "fetchTime": "2026-06-22T23:30:07",
-    "pb": 4.49,
-    "totalMV": 146515380000.0,
-    "circMV": 146515380000.0,
+    "fetchTime": "2026-11-10T12:17:26",
+    "pb": 3.66,
+    "totalMV": 181034050000.0,
+    "circMV": 181034050000.0,
     "currency": "HKD"
   }
 }

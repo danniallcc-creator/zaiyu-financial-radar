@@ -3,7 +3,7 @@
   "name": "华虹宏力",
   "market": "hk",
   "currency": "HKD",
-  "fetchTime": "2026-06-22T23:30:47.553031",
+  "fetchTime": "2026-11-10T12:18:07.431921",
   "profile": {
     "name": "华虹宏力",
     "code": "01347",
@@ -12,6 +12,16 @@
   },
   "financial": [],
   "income": [
+    {
+      "reportDate": "2026-06-30",
+      "reportType": "中报",
+      "totalExpenses": 204463000,
+      "totalExpensesYoY": 83.2,
+      "totalProfit": -10492000,
+      "totalProfitYoY": 87.06,
+      "revenue": 1378462000,
+      "revenueYoY": 24.52
+    },
     {
       "reportDate": "2026-03-31",
       "reportType": "一季报",
@@ -65,12 +75,12 @@
     {
       "reportDate": "2024-06-30",
       "reportType": "中报",
-      "totalProfit": -78498000,
-      "totalProfitYoY": -144.68,
       "revenue": 938510000,
       "revenueYoY": -25.65,
       "totalExpenses": 79695000,
-      "totalExpensesYoY": -78.87
+      "totalExpensesYoY": -78.87,
+      "totalProfit": -78498000,
+      "totalProfitYoY": -144.68
     },
     {
       "reportDate": "2024-03-31",
@@ -87,38 +97,56 @@
       "reportType": "年报",
       "revenue": 2286113000,
       "revenueYoY": -7.65,
-      "totalProfit": 173579000,
-      "totalProfitYoY": -65.01,
       "totalExpenses": 487096000,
       "totalExpensesYoY": -42.26
-    },
-    {
-      "reportDate": "2023-06-30",
-      "reportType": "中报",
-      "revenue": 1262223000,
-      "revenueYoY": 3.85
     }
   ],
   "balance": [
     {
+      "reportDate": "2026-09-30",
+      "reportType": "三季报",
+      "parentEquity": 4533665000,
+      "parentEquityYoY": 0.72,
+      "totalLiabilities": 3670749000,
+      "totalLiabilitiesYoY": 119.92,
+      "nonCurrentLiabilities": 17727129000,
+      "nonCurrentLiabilitiesYoY": 33.04,
+      "currentAssets": 9522715000,
+      "currentAssetsYoY": 33.11,
+      "accountsReceivable": 33777000,
+      "accountsReceivableYoY": -20.77
+    },
+    {
+      "reportDate": "2026-06-30",
+      "reportType": "中报",
+      "parentEquity": 3761740000,
+      "parentEquityYoY": -4.38,
+      "totalLiabilities": 3395844000,
+      "totalLiabilitiesYoY": 140.7,
+      "nonCurrentLiabilities": 16019042000,
+      "nonCurrentLiabilitiesYoY": 30.91,
+      "currentAssets": 8861458000,
+      "currentAssetsYoY": 28.57,
+      "accountsReceivable": 37068000,
+      "accountsReceivableYoY": 35.72
+    },
+    {
       "reportDate": "2026-03-31",
       "reportType": "一季报",
-      "accountsReceivable": 32834000,
-      "accountsReceivableYoY": 12.75,
       "parentEquity": 4717895000,
       "parentEquityYoY": 15.79,
-      "nonCurrentLiabilities": 14947323000,
-      "nonCurrentLiabilitiesYoY": 21.65,
       "totalLiabilities": 1935629000,
       "totalLiabilitiesYoY": 34.32,
+      "nonCurrentLiabilities": 14947323000,
+      "nonCurrentLiabilitiesYoY": 21.65,
       "currentAssets": 8293799000,
-      "currentAssetsYoY": 22.49
+      "currentAssetsYoY": 22.49,
+      "accountsReceivable": 32834000,
+      "accountsReceivableYoY": 12.75
     },
     {
       "reportDate": "2025-12-31",
       "reportType": "年报",
-      "accountsReceivable": 35509000,
-      "accountsReceivableYoY": 12.88,
       "parentEquity": 4750476000,
       "parentEquityYoY": 11.25,
       "totalLiabilities": 1856221000,
@@ -126,49 +154,23 @@
       "nonCurrentLiabilities": 14453772000,
       "nonCurrentLiabilitiesYoY": 16.42,
       "currentAssets": 7847075000,
-      "currentAssetsYoY": 19.21
+      "currentAssetsYoY": 19.21,
+      "accountsReceivable": 35509000,
+      "accountsReceivableYoY": 12.88
     },
     {
       "reportDate": "2025-09-30",
       "reportType": "三季报",
-      "parentEquity": 4047534000,
-      "parentEquityYoY": -22.47,
-      "totalLiabilities": 1412773000,
-      "totalLiabilitiesYoY": -23.83,
-      "nonCurrentLiabilities": 12511666000,
-      "nonCurrentLiabilitiesYoY": -4.36,
-      "currentAssets": 7051359000,
-      "currentAssetsYoY": 17.38,
-      "accountsReceivable": 33982000,
-      "accountsReceivableYoY": -12.64
-    },
-    {
-      "reportDate": "2025-06-30",
-      "reportType": "中报",
-      "parentEquity": 3934155000,
-      "parentEquityYoY": -38.8,
-      "totalLiabilities": 1410798000,
-      "totalLiabilitiesYoY": 31.78,
-      "nonCurrentLiabilities": 12237080000,
-      "nonCurrentLiabilitiesYoY": 1.09,
-      "currentAssets": 6892127000,
-      "currentAssetsYoY": 49.64,
-      "accountsReceivable": 27313000,
-      "accountsReceivableYoY": -35.46
-    },
-    {
-      "reportDate": "2025-03-31",
-      "reportType": "一季报",
-      "parentEquity": 4074695000,
-      "parentEquityYoY": -33.99,
-      "totalLiabilities": 1441057000,
-      "totalLiabilitiesYoY": 48.99,
-      "nonCurrentLiabilities": 12286786000,
-      "nonCurrentLiabilitiesYoY": 5.48,
-      "currentAssets": 6771034000,
-      "currentAssetsYoY": 50.22,
-      "accountsReceivable": 29122000,
-      "accountsReceivableYoY": -37.41
+      "parentEquity": 4501437000,
+      "parentEquityYoY": -13.77,
+      "totalLiabilities": 1669146000,
+      "totalLiabilitiesYoY": -10.01,
+      "nonCurrentLiabilities": 13324614000,
+      "nonCurrentLiabilitiesYoY": 1.85,
+      "currentAssets": 7154031000,
+      "currentAssetsYoY": 19.09,
+      "accountsReceivable": 42629000,
+      "accountsReceivableYoY": 9.59
     }
   ],
   "cashflow": [],
@@ -176,21 +178,21 @@
   "quote": {
     "code": "01347",
     "name": "华虹宏力",
-    "price": 164.6,
-    "change": -3.5,
-    "changePct": -2.08,
-    "open": 175.8,
-    "high": 176.2,
-    "low": 160.4,
-    "prevClose": 168.1,
-    "volume": 39344973,
-    "amount": 6608419319.75,
-    "pe": 669.71,
+    "price": 73.95,
+    "change": 2.1,
+    "changePct": 2.92,
+    "open": 75.0,
+    "high": 77.0,
+    "low": 73.85,
+    "prevClose": 71.85,
+    "volume": 22366417,
+    "amount": 1683000537.7,
+    "pe": 333.92,
     "turnover": 0.0,
-    "fetchTime": "2026-06-22T23:30:46",
+    "fetchTime": "2026-11-10T12:18:06",
     "pb": 0.0,
-    "totalMV": 286021890000.0,
-    "circMV": 218906239999.99997,
+    "totalMV": 142612190000.0,
+    "circMV": 98351750000.0,
     "currency": "HKD"
   }
 }

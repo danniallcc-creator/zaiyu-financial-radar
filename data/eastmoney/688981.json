@@ -1,7 +1,7 @@
 {
   "code": "688981",
   "name": "中芯国际",
-  "fetchTime": "2026-06-18T17:34:19.536421",
+  "fetchTime": "2026-11-10T12:09:15.645850",
   "profile": {
     "name": "中芯国际",
     "code": "688981",
@@ -20,6 +20,40 @@
     "securityType": "上交所科创板A股"
   },
   "financial": [
+    {
+      "reportDate": "2026-06-30",
+      "reportName": "2026中报",
+      "reportType": "中报",
+      "basicEPS": 0.56,
+      "dilutedEPS": 0.56,
+      "deductEPS": 0.37,
+      "bps": 20.028091408699,
+      "opsCashPerShare": 2.424948189706,
+      "totalRevenue": 38635115000.0,
+      "totalRevenueYoY": 19.44,
+      "totalRevenueQoQ": 7.24,
+      "grossProfit": 8946279000.0,
+      "netProfit": 4467431000.0,
+      "netProfitYoY": 94.16,
+      "netProfitQoQ": 42.84,
+      "deductNetProfit": 2993605000.0,
+      "deductNetProfitYoY": 57.25,
+      "deductNetProfitQoQ": 24.55,
+      "nonRecurringPnL": 1473826000.0,
+      "nonRecurringRatio": 32.99,
+      "weightedROE": 2.9,
+      "deductROE": 2.0,
+      "grossMargin": 23.16,
+      "netMargin": 16.67,
+      "cashToRevenue": 0.54,
+      "cashToProfit": 0.49,
+      "debtRatio": 33.82,
+      "currentRatio": 1.908610692901,
+      "quickRatio": 1.465149697758,
+      "assetTurnover": 0.101982825304,
+      "inventoryTurnoverDays": 167.533450284097,
+      "receivableTurnoverDays": 30.946701983416
+    },
     {
       "reportDate": "2026-03-31",
       "reportName": "2026一季报",
@@ -665,43 +699,34 @@
       "assetTurnover": 0.1209102157,
       "inventoryTurnoverDays": 91.31759982788,
       "receivableTurnoverDays": 38.115180101119
-    },
-    {
-      "reportDate": "2021-06-30",
-      "reportName": "2021中报",
-      "reportType": "中报",
-      "basicEPS": 0.66,
-      "dilutedEPS": 0.66,
-      "deductEPS": 0.3,
-      "bps": 13.12486027708,
-      "opsCashPerShare": 1.298870435535,
-      "totalRevenue": 16090387000.0,
-      "totalRevenueYoY": 22.25,
-      "totalRevenueQoQ": 7.19,
-      "grossProfit": 4290605000.0,
-      "netProfit": 5241321000.0,
-      "netProfitYoY": 278.05,
-      "netProfitQoQ": 66.14,
-      "deductNetProfit": 2339104000.0,
-      "deductNetProfitYoY": 331.64,
-      "deductNetProfitQoQ": 56.49,
-      "nonRecurringPnL": 2902217000.0,
-      "nonRecurringRatio": 55.37,
-      "weightedROE": 5.2,
-      "deductROE": 2.3,
-      "grossMargin": 26.67,
-      "netMargin": 31.65,
-      "cashToRevenue": 0.64,
-      "cashToProfit": 0.62,
-      "debtRatio": 29.19,
-      "currentRatio": 4.371140180377,
-      "quickRatio": 4.069758483288,
-      "assetTurnover": 0.078045956496,
-      "inventoryTurnoverDays": 87.71649764375,
-      "receivableTurnoverDays": 40.434388557591
     }
   ],
   "income": [
+    {
+      "reportDate": "2026-06-30",
+      "reportName": "2026中报",
+      "operateIncome": 38635115000.0,
+      "operateIncomeYoY": 19.44,
+      "revenue": 38635115000.0,
+      "revenueYoY": 19.44,
+      "operateCost": 29688836000.0,
+      "operateCostYoY": 17.53,
+      "grossProfit": 8946279000.0,
+      "grossMargin": 23.16,
+      "totalProfit": 7133405000.0,
+      "netProfit": 6438681000.0,
+      "parentNetProfit": null,
+      "parentNetProfitYoY": null,
+      "saleExpense": 162623000.0,
+      "saleExpenseRatio": 0.42,
+      "manageExpense": 1412762000.0,
+      "manageExpenseRatio": 3.66,
+      "researchExpense": 2725399000.0,
+      "researchRatio": 7.05,
+      "financeExpense": -89989000.0,
+      "financeExpenseRatio": -0.23,
+      "netMargin": null
+    },
     {
       "reportDate": "2026-03-31",
       "reportName": "2026一季报",
@@ -1176,34 +1201,37 @@
       "financeExpense": -514136000.0,
       "financeExpenseRatio": -2.03,
       "netMargin": null
-    },
-    {
-      "reportDate": "2021-06-30",
-      "reportName": "2021中报",
-      "operateIncome": 16090387000.0,
-      "operateIncomeYoY": 22.25,
-      "revenue": 16090387000.0,
-      "revenueYoY": 22.25,
-      "operateCost": 11799782000.0,
-      "operateCostYoY": 17.2,
-      "grossProfit": 4290605000.0,
-      "grossMargin": 26.67,
-      "totalProfit": 5074229000.0,
-      "netProfit": 5093113000.0,
-      "parentNetProfit": null,
-      "parentNetProfitYoY": null,
-      "saleExpense": 77150000.0,
-      "saleExpenseRatio": 0.48,
-      "manageExpense": 588013000.0,
-      "manageExpenseRatio": 3.65,
-      "researchExpense": 1937474000.0,
-      "researchRatio": 12.04,
-      "financeExpense": -334016000.0,
-      "financeExpenseRatio": -2.08,
-      "netMargin": null
     }
   ],
   "balance": [
+    {
+      "reportDate": "2026-06-30",
+      "reportName": "2026中报",
+      "totalAssets": 389960656000.0,
+      "totalAssetsYoY": 10.11,
+      "currentAssets": 127956286000.0,
+      "nonCurrentAssets": 262004370000.0,
+      "monetaryFunds": 69054036000.0,
+      "accountsReceivable": 7116932000.0,
+      "inventory": 29730328000.0,
+      "fixedAsset": 155454787000.0,
+      "intangibleAsset": 2779639000.0,
+      "goodwill": null,
+      "totalLiabilities": 131867913000.0,
+      "totalLiabilitiesYoY": 10.21,
+      "currentLiabilities": 67041585000.0,
+      "nonCurrentLiabilities": 64826328000.0,
+      "shortLoan": 14517589000.0,
+      "longLoan": 60454969000.0,
+      "bondsPayable": null,
+      "totalEquity": 258092743000.0,
+      "totalEquityYoY": 10.05,
+      "parentEquity": 171456605000.0,
+      "minorityEquity": 86636138000.0,
+      "debtRatio": 33.82,
+      "currentRatio": 1.91,
+      "equityMultiplier": 1.51
+    },
     {
       "reportDate": "2026-03-31",
       "reportName": "2026一季报",
@@ -1735,37 +1763,28 @@
       "debtRatio": 29.6,
       "currentRatio": 3.97,
       "equityMultiplier": 1.42
-    },
-    {
-      "reportDate": "2021-06-30",
-      "reportName": "2021中报",
-      "totalAssets": 207729432000.0,
-      "totalAssetsYoY": 43.89,
-      "currentAssets": 91117759000.0,
-      "nonCurrentAssets": 116611673000.0,
-      "monetaryFunds": 75328967000.0,
-      "accountsReceivable": 4327124000.0,
-      "inventory": 6282394000.0,
-      "fixedAsset": 58937583000.0,
-      "intangibleAsset": 2261873000.0,
-      "goodwill": null,
-      "totalLiabilities": 60635276000.0,
-      "totalLiabilitiesYoY": 18.76,
-      "currentLiabilities": 20845307000.0,
-      "nonCurrentLiabilities": 39789969000.0,
-      "shortLoan": null,
-      "longLoan": 29342630000.0,
-      "bondsPayable": 3869300000.0,
-      "totalEquity": 147094156000.0,
-      "totalEquityYoY": 57.64,
-      "parentEquity": 103700973000.0,
-      "minorityEquity": 43393183000.0,
-      "debtRatio": 29.19,
-      "currentRatio": 4.37,
-      "equityMultiplier": 1.41
     }
   ],
   "cashflow": [
+    {
+      "reportDate": "2026-06-30",
+      "reportName": "2026中报",
+      "salesCash": 42939739000.0,
+      "operatingCashInflow": 51726795000.0,
+      "operatingCashOutflow": 30967284000.0,
+      "netOperatingCash": 20759511000.0,
+      "netOperatingCashYoY": 251.99,
+      "investCashInflow": 18163861000.0,
+      "investCashOutflow": 43380050000.0,
+      "netInvestCash": -25216189000.0,
+      "netInvestCashYoY": -30.45,
+      "fixedAssetInvest": null,
+      "financeCashInflow": 31100938000.0,
+      "financeCashOutflow": 11383579000.0,
+      "netFinanceCash": 19717359000.0,
+      "netFinanceCashYoY": 450.17,
+      "netCashIncrease": 14700821000.0
+    },
     {
       "reportDate": "2026-03-31",
       "reportName": "2026一季报",
@@ -2126,223 +2145,213 @@
       "netFinanceCash": 3143519000.0,
       "netFinanceCashYoY": -95.7,
       "netCashIncrease": -15672592000.0
-    },
-    {
-      "reportDate": "2021-06-30",
-      "reportName": "2021中报",
-      "salesCash": 20048772000.0,
-      "operatingCashInflow": 23353595000.0,
-      "operatingCashOutflow": 13091076000.0,
-      "netOperatingCash": 10262519000.0,
-      "netOperatingCashYoY": 231.72,
-      "investCashInflow": 18280802000.0,
-      "investCashOutflow": 45607717000.0,
-      "netInvestCash": -27326915000.0,
-      "netInvestCashYoY": -88.41,
-      "fixedAssetInvest": null,
-      "financeCashInflow": 8377079000.0,
-      "financeCashOutflow": 8833438000.0,
-      "netFinanceCash": -456359000.0,
-      "netFinanceCashYoY": -102.57,
-      "netCashIncrease": -17838773000.0
     }
   ],
   "shareholder": {
     "top10Holders": [
       {
-        "endDate": "2026-03-31",
+        "endDate": "2026-06-30",
         "rank": 1,
         "name": "HKSCC NOMINEES LIMITED",
         "sharesType": "流通H股",
-        "shares": 4503750978.0,
-        "sharesRatio": 56.29,
-        "change": "24550114"
+        "shares": 4692939101.0,
+        "sharesRatio": 54.82,
+        "change": "不变"
       },
       {
-        "endDate": "2026-03-31",
+        "endDate": "2026-06-30",
         "rank": 2,
         "name": "大唐控股(香港)投资有限公司",
         "sharesType": "流通H股",
-        "shares": 1125042595.0,
-        "sharesRatio": 14.06,
+        "shares": 1083042595.0,
+        "sharesRatio": 12.65,
         "change": "不变"
       },
       {
-        "endDate": "2026-03-31",
+        "endDate": "2026-06-30",
         "rank": 3,
+        "name": "国家集成电路产业投资基金股份有限公司",
+        "sharesType": "限售流通A股",
+        "shares": 357343396.0,
+        "sharesRatio": 4.17,
+        "change": "不变"
+      },
+      {
+        "endDate": "2026-06-30",
+        "rank": 4,
         "name": "鑫芯(香港)投资有限公司",
         "sharesType": "流通H股",
-        "shares": 359700023.0,
-        "sharesRatio": 4.5,
-        "change": "-23202000"
-      },
-      {
-        "endDate": "2026-03-31",
-        "rank": 4,
-        "name": "国家集成电路产业投资基金二期股份有限公司",
-        "sharesType": "流通A股",
-        "shares": 127458120.0,
-        "sharesRatio": 1.59,
+        "shares": 224989311.0,
+        "sharesRatio": 2.63,
         "change": "不变"
       },
       {
-        "endDate": "2026-03-31",
+        "endDate": "2026-06-30",
         "rank": 5,
+        "name": "华芯投资管理有限责任公司-国家集成电路产业投资基金二期股份有限公司",
+        "sharesType": "流通A股",
+        "shares": 127458120.0,
+        "sharesRatio": 1.49,
+        "change": "不变"
+      },
+      {
+        "endDate": "2026-06-30",
+        "rank": 6,
+        "name": "北京集成电路制造和装备股权投资中心(有限合伙)",
+        "sharesType": "限售流通A股",
+        "shares": 100502830.0,
+        "sharesRatio": 1.17,
+        "change": "不变"
+      },
+      {
+        "endDate": "2026-06-30",
+        "rank": 7,
         "name": "中国信息通信科技集团有限公司",
         "sharesType": "流通A股",
         "shares": 72470855.0,
-        "sharesRatio": 0.91,
+        "sharesRatio": 0.85,
         "change": "不变"
       },
       {
-        "endDate": "2026-03-31",
-        "rank": 6,
-        "name": "招商银行股份有限公司-华夏上证科创板50成份交易型开放式指数证券投资基金",
-        "sharesType": "流通A股",
-        "shares": 61902850.0,
-        "sharesRatio": 0.77,
-        "change": "-2606460"
+        "endDate": "2026-06-30",
+        "rank": 8,
+        "name": "北京亦庄国际投资发展有限公司",
+        "sharesType": "限售流通A股",
+        "shares": 64210141.0,
+        "sharesRatio": 0.75,
+        "change": "不变"
       },
       {
-        "endDate": "2026-03-31",
-        "rank": 7,
+        "endDate": "2026-06-30",
+        "rank": 9,
         "name": "国新投资有限公司",
         "sharesType": "流通A股",
-        "shares": 43336233.0,
-        "sharesRatio": 0.54,
-        "change": "新进"
+        "shares": 43375773.0,
+        "sharesRatio": 0.51,
+        "change": "不变"
       },
       {
-        "endDate": "2026-03-31",
-        "rank": 8,
-        "name": "中信证券股份有限公司-嘉实上证科创板芯片交易型开放式指数证券投资基金",
-        "sharesType": "流通A股",
-        "shares": 40217878.0,
-        "sharesRatio": 0.5,
-        "change": "6754248"
-      },
-      {
-        "endDate": "2026-03-31",
-        "rank": 9,
-        "name": "中国工商银行股份有限公司-易方达上证科创板50成份交易型开放式指数证券投资基金",
-        "sharesType": "流通A股",
-        "shares": 33725054.0,
-        "sharesRatio": 0.42,
-        "change": "-26595895"
-      },
-      {
-        "endDate": "2026-03-31",
+        "endDate": "2026-06-30",
         "rank": 10,
-        "name": "中国建设银行股份有限公司-华夏国证半导体芯片交易型开放式指数证券投资基金",
+        "name": "招商银行股份有限公司-华夏上证科创板50成份交易型开放式指数证券投资基金",
         "sharesType": "流通A股",
-        "shares": 20703256.0,
-        "sharesRatio": 0.26,
-        "change": "新进"
+        "shares": 32377586.0,
+        "sharesRatio": 0.38,
+        "change": "-1220677"
       }
     ],
     "top10CircHolders": [
       {
-        "endDate": "2026-03-31",
+        "endDate": "2026-06-30",
         "rank": 1,
         "name": "HKSCC NOMINEES LIMITED",
         "sharesType": "H股",
-        "shares": 4503750978.0,
-        "sharesRatio": 56.286616198064,
-        "change": "24550114",
+        "shares": 4692939101.0,
+        "sharesRatio": 58.562008233458,
+        "change": "189188123",
         "type": "其它"
       },
       {
-        "endDate": "2026-03-31",
+        "endDate": "2026-06-30",
         "rank": 2,
         "name": "大唐控股(香港)投资有限公司",
         "sharesType": "H股",
-        "shares": 1125042595.0,
-        "sharesRatio": 14.060466722199,
-        "change": "不变",
+        "shares": 1083042595.0,
+        "sharesRatio": 13.515016496178,
+        "change": "-42000000",
         "type": "投资公司"
       },
       {
-        "endDate": "2026-03-31",
+        "endDate": "2026-06-30",
         "rank": 3,
         "name": "鑫芯(香港)投资有限公司",
         "sharesType": "H股",
-        "shares": 359700023.0,
-        "sharesRatio": 4.495429973801,
-        "change": "-23202000",
+        "shares": 224989311.0,
+        "sharesRatio": 2.807585097453,
+        "change": "-134710712",
         "type": "其它"
       },
       {
-        "endDate": "2026-03-31",
+        "endDate": "2026-06-30",
         "rank": 4,
-        "name": "国家集成电路产业投资基金二期股份有限公司",
+        "name": "华芯投资管理有限责任公司-国家集成电路产业投资基金二期股份有限公司",
         "sharesType": "A股",
         "shares": 127458120.0,
-        "sharesRatio": 1.592935825451,
+        "sharesRatio": 1.590517863586,
         "change": "不变",
-        "type": "投资公司"
+        "type": "私募基金"
       },
       {
-        "endDate": "2026-03-31",
+        "endDate": "2026-06-30",
         "rank": 5,
         "name": "中国信息通信科技集团有限公司",
         "sharesType": "A股",
         "shares": 72470855.0,
-        "sharesRatio": 0.90572041413,
+        "sharesRatio": 0.904345595768,
         "change": "不变",
         "type": "其它"
       },
       {
-        "endDate": "2026-03-31",
+        "endDate": "2026-06-30",
         "rank": 6,
-        "name": "招商银行股份有限公司-华夏上证科创板50成份交易型开放式指数证券投资基金",
-        "sharesType": "A股",
-        "shares": 61902850.0,
-        "sharesRatio": 0.773644452488,
-        "change": "-2606460",
-        "type": "证券投资基金"
-      },
-      {
-        "endDate": "2026-03-31",
-        "rank": 7,
         "name": "国新投资有限公司",
         "sharesType": "A股",
-        "shares": 43336233.0,
-        "sharesRatio": 0.541604082077,
-        "change": "新进",
+        "shares": 43375773.0,
+        "sharesRatio": 0.541275375812,
+        "change": "39540",
         "type": "投资公司"
       },
       {
-        "endDate": "2026-03-31",
+        "endDate": "2026-06-30",
+        "rank": 7,
+        "name": "招商银行股份有限公司-华夏上证科创板50成份交易型开放式指数证券投资基金",
+        "sharesType": "A股",
+        "shares": 32377586.0,
+        "sharesRatio": 0.404031762847,
+        "change": "-29525264",
+        "type": "证券投资基金"
+      },
+      {
+        "endDate": "2026-06-30",
         "rank": 8,
         "name": "中信证券股份有限公司-嘉实上证科创板芯片交易型开放式指数证券投资基金",
         "sharesType": "A股",
-        "shares": 40217878.0,
-        "sharesRatio": 0.502631756139,
-        "change": "6754248",
+        "shares": 30760679.0,
+        "sharesRatio": 0.383854786541,
+        "change": "-9457199",
         "type": "证券投资基金"
       },
       {
-        "endDate": "2026-03-31",
+        "endDate": "2026-06-30",
         "rank": 9,
         "name": "中国工商银行股份有限公司-易方达上证科创板50成份交易型开放式指数证券投资基金",
         "sharesType": "A股",
-        "shares": 33725054.0,
-        "sharesRatio": 0.421486263346,
-        "change": "-26595895",
+        "shares": 19795620.0,
+        "sharesRatio": 0.247024569567,
+        "change": "-13929434",
         "type": "证券投资基金"
       },
       {
-        "endDate": "2026-03-31",
+        "endDate": "2026-06-30",
         "rank": 10,
         "name": "中国建设银行股份有限公司-华夏国证半导体芯片交易型开放式指数证券投资基金",
         "sharesType": "A股",
-        "shares": 20703256.0,
-        "sharesRatio": 0.2587434852,
-        "change": "新进",
+        "shares": 15483752.0,
+        "sharesRatio": 0.193217851882,
+        "change": "-5219504",
         "type": "证券投资基金"
       }
     ],
     "holderCountHistory": [
+      {
+        "endDate": "2026-06-30",
+        "count": 296744.0,
+        "changeRatio": -7.0697,
+        "avgShares": 27005.0,
+        "avgHoldAmount": 4288962.03896975,
+        "holdFocus": "非常分散",
+        "price": 158.82
+      },
       {
         "endDate": "2026-03-31",
         "count": 319319.0,
@@ -2423,133 +2432,118 @@
         "avgHoldAmount": 2026304.52725137,
         "holdFocus": "非常分散",
         "price": 59.99
-      },
-      {
-        "endDate": "2024-06-30",
-        "count": 246030.0,
-        "changeRatio": -0.0061,
-        "avgShares": 32338.0,
-        "avgHoldAmount": 1490798.45543552,
-        "holdFocus": "非常分散",
-        "price": 46.1
       }
     ],
     "institutionalHoldings": [
       {
-        "reportDate": "2026-03-31",
-        "totalOrgs": 359.0,
-        "totalShares": 561720022.0,
-        "totalRatio": 28.09214556
+        "reportDate": "2026-09-30",
+        "totalOrgs": 652.0,
+        "totalShares": 355144469.0,
+        "totalRatio": 17.75195196
       },
       {
-        "reportDate": "2026-03-31",
-        "totalOrgs": 354.0,
-        "totalShares": 318351122.0,
-        "totalRatio": 15.92103844
+        "reportDate": "2026-09-30",
+        "totalOrgs": 648.0,
+        "totalShares": 355121496.0,
+        "totalRatio": 17.75080365
       },
       {
-        "reportDate": "2026-03-31",
-        "totalOrgs": 2.0,
-        "totalShares": 103692.0,
-        "totalRatio": 0.00518573
-      },
-      {
-        "reportDate": "2026-03-31",
-        "totalOrgs": 3.0,
-        "totalShares": 243265208.0,
-        "totalRatio": 12.16592139
+        "reportDate": "2026-09-30",
+        "totalOrgs": 4.0,
+        "totalShares": 22973.0,
+        "totalRatio": 0.00114831
       }
     ],
     "fundHoldings": [
       {
-        "reportDate": "2026-03-31",
+        "reportDate": "2026-09-30",
         "fundCode": "588000",
         "fundName": "华夏上证科创板50成份ETF",
-        "shares": 61902850.0,
-        "value": 5821963042.5,
-        "ratio": 3.09581963,
-        "navRatio": 8.49
+        "shares": 62420857.0,
+        "value": 6990511775.43,
+        "ratio": 3.12011632,
+        "navRatio": 7.43
       },
       {
-        "reportDate": "2026-03-31",
+        "reportDate": "2026-09-30",
         "fundCode": "588200",
         "fundName": "嘉实上证科创板芯片ETF",
-        "shares": 40217878.0,
-        "value": 3782491425.9,
-        "ratio": 2.01133383,
-        "navRatio": 9.8
+        "shares": 33844111.0,
+        "value": 3790201990.89,
+        "ratio": 1.69170319,
+        "navRatio": 7.97
       },
       {
-        "reportDate": "2026-03-31",
+        "reportDate": "2026-09-30",
         "fundCode": "588080",
         "fundName": "易方达上证科创板50ETF",
-        "shares": 33725054.0,
-        "value": 3171841328.7,
-        "ratio": 1.68662161,
-        "navRatio": 8.5
+        "shares": 28423951.0,
+        "value": 3183198272.49,
+        "ratio": 1.42077564,
+        "navRatio": 7.49
       },
       {
-        "reportDate": "2026-03-31",
+        "reportDate": "2026-09-30",
         "fundCode": "159995",
         "fundName": "华夏国证半导体芯片ETF",
-        "shares": 20703256.0,
-        "value": 1947141226.8,
-        "ratio": 1.03538927,
-        "navRatio": 8.5
+        "shares": 17271015.0,
+        "value": 1934180969.85,
+        "ratio": 0.86329439,
+        "navRatio": 7.46
       },
       {
-        "reportDate": "2026-03-31",
-        "fundCode": "512480",
-        "fundName": "国联安半导体ETF",
-        "shares": 12723226.0,
-        "value": 1196619405.3,
-        "ratio": 0.63630048,
-        "navRatio": 6.01
-      },
-      {
-        "reportDate": "2026-03-31",
+        "reportDate": "2026-09-30",
         "fundCode": "519674",
         "fundName": "银河创新混合A",
-        "shares": 11980000.0,
-        "value": 1126719000.0,
-        "ratio": 0.59913105,
-        "navRatio": 8.84
+        "shares": 10200000.0,
+        "value": 1142298000.0,
+        "ratio": 0.5098486,
+        "navRatio": 8.9
       },
       {
-        "reportDate": "2026-03-31",
-        "fundCode": "320007",
-        "fundName": "诺安成长混合A",
-        "shares": 8664642.0,
-        "value": 814909580.1,
-        "ratio": 0.43332688,
-        "navRatio": 6.59
+        "reportDate": "2026-09-30",
+        "fundCode": "512480",
+        "fundName": "国联安半导体ETF",
+        "shares": 8824062.0,
+        "value": 988206703.38,
+        "ratio": 0.44107212,
+        "navRatio": 5.13
       },
       {
-        "reportDate": "2026-03-31",
+        "reportDate": "2026-09-30",
         "fundCode": "588050",
         "fundName": "工银瑞信上证科创板50成份ETF",
-        "shares": 7500068.0,
-        "value": 705381395.4,
-        "ratio": 0.37508544,
-        "navRatio": 8.48
+        "shares": 7167635.0,
+        "value": 802703443.65,
+        "ratio": 0.35827536,
+        "navRatio": 7.47
       },
       {
-        "reportDate": "2026-03-31",
-        "fundCode": "512760",
-        "fundName": "国泰CES芯片ETF",
-        "shares": 6765915.0,
-        "value": 636334305.75,
-        "ratio": 0.33836976,
-        "navRatio": 7.3
+        "reportDate": "2026-09-30",
+        "fundCode": "159781",
+        "fundName": "易方达中证科创创业50ETF",
+        "shares": 6761294.0,
+        "value": 757197315.06,
+        "ratio": 0.33796434,
+        "navRatio": 4.74
       },
       {
-        "reportDate": "2026-03-31",
+        "reportDate": "2026-09-30",
         "fundCode": "588060",
         "fundName": "广发上证科创板50成份ETF",
-        "shares": 6122962.0,
-        "value": 575864576.1,
-        "ratio": 0.30621508,
-        "navRatio": 8.5
+        "shares": 5485753.0,
+        "value": 614349478.47,
+        "ratio": 0.27420622,
+        "navRatio": 7.48
+      },
+      {
+        "reportDate": "2026-09-30",
+        "fundCode": "512760",
+        "fundName": "国泰CES芯片ETF",
+        "shares": 5475183.0,
+        "value": 613165744.17,
+        "ratio": 0.27367788,
+        "navRatio": 6.19
       }
     ]
   },

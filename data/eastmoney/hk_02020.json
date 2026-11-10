@@ -3,7 +3,7 @@
   "name": "安踏体育",
   "market": "hk",
   "currency": "HKD",
-  "fetchTime": "2026-06-22T23:30:27.239892",
+  "fetchTime": "2026-11-10T12:17:46.779618",
   "profile": {
     "name": "安踏体育",
     "code": "02020",
@@ -12,6 +12,16 @@
   },
   "financial": [],
   "income": [
+    {
+      "reportDate": "2026-06-30",
+      "reportType": "中报",
+      "revenue": 43507000000,
+      "revenueYoY": 12.88,
+      "totalProfit": 14524000000,
+      "totalProfitYoY": 30.13,
+      "totalExpenses": 27792000000,
+      "totalExpensesYoY": 13.79
+    },
     {
       "reportDate": "2025-12-31",
       "reportType": "年报",
@@ -81,25 +91,25 @@
       "totalProfitYoY": 1.02,
       "totalExpenses": 32318000000,
       "totalExpensesYoY": 6.3
-    },
-    {
-      "reportDate": "2022-06-30",
-      "reportType": "中报",
-      "totalExpenses": 16109000000,
-      "totalExpensesYoY": 11.81,
-      "totalProfit": 5592000000,
-      "totalProfitYoY": -3.42,
-      "revenue": 25965000000,
-      "revenueYoY": 13.82
-    },
-    {
-      "reportDate": "2021-12-31",
-      "reportType": "年报",
-      "totalExpenses": 30404000000,
-      "totalExpensesYoY": 47.23
     }
   ],
   "balance": [
+    {
+      "reportDate": "2026-06-30",
+      "reportType": "中报",
+      "parentEquity": 29529000000,
+      "parentEquityYoY": 56.35,
+      "totalLiabilities": 32351000000,
+      "totalLiabilitiesYoY": 7.53,
+      "nonCurrentLiabilities": 128946000000,
+      "nonCurrentLiabilitiesYoY": 9.06,
+      "currentAssets": 67066000000,
+      "currentAssetsYoY": -3.17,
+      "inventory": 2963000000,
+      "inventoryYoY": 58.36,
+      "accountsReceivable": 4079000000,
+      "accountsReceivableYoY": -12.95
+    },
     {
       "reportDate": "2025-12-31",
       "reportType": "年报",
@@ -160,25 +170,7 @@
       "currentAssets": 53651000000,
       "currentAssetsYoY": 69.19,
       "inventory": 1234000000,
-      "inventoryYoY": 85.84,
-      "accountsReceivable": 2029000000,
-      "accountsReceivableYoY": 41.0
-    },
-    {
-      "reportDate": "2023-12-31",
-      "reportType": "年报",
-      "parentEquity": 31549000000,
-      "parentEquityYoY": 92.5,
-      "totalLiabilities": 20591000000,
-      "totalLiabilitiesYoY": -21.43,
-      "nonCurrentLiabilities": 92228000000,
-      "nonCurrentLiabilitiesYoY": 33.29,
-      "currentAssets": 40088000000,
-      "currentAssetsYoY": 50.71,
-      "inventory": 822000000,
-      "inventoryYoY": -22.31,
-      "accountsReceivable": 2089000000,
-      "accountsReceivableYoY": 41.15
+      "inventoryYoY": 85.84
     }
   ],
   "cashflow": [],
@@ -186,21 +178,21 @@
   "quote": {
     "code": "02020",
     "name": "安踏体育",
-    "price": 69.5,
-    "change": -1.55,
-    "changePct": -2.18,
-    "open": 70.8,
-    "high": 71.0,
-    "low": 68.15,
-    "prevClose": 71.05,
-    "volume": 16225556,
-    "amount": 1121280358.1,
-    "pe": 12.92,
+    "price": 78.9,
+    "change": -0.15,
+    "changePct": -0.19,
+    "open": 79.45,
+    "high": 79.8,
+    "low": 78.1,
+    "prevClose": 79.05,
+    "volume": 2539368,
+    "amount": 199973415.35,
+    "pe": 14.67,
     "turnover": 0.0,
-    "fetchTime": "2026-06-22T23:30:26",
-    "pb": 3.53,
-    "totalMV": 194367400000.0,
-    "circMV": 194367400000.0,
+    "fetchTime": "2026-11-10T12:17:45",
+    "pb": 3.28,
+    "totalMV": 220655949999.99997,
+    "circMV": 220655949999.99997,
     "currency": "HKD"
   }
 }

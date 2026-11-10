@@ -1,7 +1,7 @@
 {
   "code": "601997",
   "name": "贵阳银行",
-  "fetchTime": "2026-06-18T17:33:52.808409",
+  "fetchTime": "2026-11-10T12:08:34.919760",
   "profile": {
     "name": "贵阳银行",
     "code": "601997",
@@ -20,6 +20,74 @@
     "securityType": "上交所主板A股"
   },
   "financial": [
+    {
+      "reportDate": "2026-09-30",
+      "reportName": "2026三季报",
+      "reportType": "三季报",
+      "basicEPS": 0.96,
+      "dilutedEPS": 0.96,
+      "deductEPS": 0.96,
+      "bps": 18.4,
+      "opsCashPerShare": 9.153426045307,
+      "totalRevenue": 10616247000.0,
+      "totalRevenueYoY": 12.52,
+      "totalRevenueQoQ": 3.46,
+      "grossProfit": null,
+      "netProfit": 3510071000.0,
+      "netProfitYoY": -10.34,
+      "netProfitQoQ": -5.66,
+      "deductNetProfit": 3520121000.0,
+      "deductNetProfitYoY": -9.89,
+      "deductNetProfitQoQ": -5.61,
+      "nonRecurringPnL": -10050000.0,
+      "nonRecurringRatio": -0.29,
+      "weightedROE": 5.33,
+      "deductROE": 5.35,
+      "grossMargin": null,
+      "netMargin": 34.0,
+      "cashToRevenue": 3.15,
+      "cashToProfit": null,
+      "debtRatio": 90.35,
+      "currentRatio": null,
+      "quickRatio": null,
+      "assetTurnover": 0.013997573235,
+      "inventoryTurnoverDays": null,
+      "receivableTurnoverDays": null
+    },
+    {
+      "reportDate": "2026-06-30",
+      "reportName": "2026中报",
+      "reportType": "中报",
+      "basicEPS": 0.65,
+      "dilutedEPS": 0.65,
+      "deductEPS": 0.65,
+      "bps": 18.06,
+      "opsCashPerShare": 7.773418999737,
+      "totalRevenue": 7207186000.0,
+      "totalRevenueYoY": 10.87,
+      "totalRevenueQoQ": 1.97,
+      "grossProfit": null,
+      "netProfit": 2360268000.0,
+      "netProfitYoY": -4.61,
+      "netProfitQoQ": -2.81,
+      "deductNetProfit": 2374320000.0,
+      "deductNetProfitYoY": -3.87,
+      "deductNetProfitQoQ": -2.85,
+      "nonRecurringPnL": -14052000.0,
+      "nonRecurringRatio": -0.6,
+      "weightedROE": 3.6,
+      "deductROE": 3.62,
+      "grossMargin": null,
+      "netMargin": 33.51,
+      "cashToRevenue": 3.94,
+      "cashToProfit": null,
+      "debtRatio": 90.51,
+      "currentRatio": null,
+      "quickRatio": null,
+      "assetTurnover": 0.009504790599,
+      "inventoryTurnoverDays": null,
+      "receivableTurnoverDays": null
+    },
     {
       "reportDate": "2026-03-31",
       "reportName": "2026一季报",
@@ -130,7 +198,7 @@
       "dilutedEPS": 0.68,
       "deductEPS": 0.68,
       "bps": 17.05,
-      "opsCashPerShare": 5.224625963911,
+      "opsCashPerShare": 5.22,
       "totalRevenue": 6500773000.0,
       "totalRevenueYoY": -12.22,
       "totalRevenueQoQ": -2.02,
@@ -198,7 +266,7 @@
       "dilutedEPS": 1.35,
       "deductEPS": 1.33,
       "bps": 16.92,
-      "opsCashPerShare": -0.72,
+      "opsCashPerShare": -0.716356991607,
       "totalRevenue": 14930908000.0,
       "totalRevenueYoY": -1.09,
       "totalRevenueQoQ": 2.33,
@@ -631,77 +699,59 @@
       "assetTurnover": 0.025020045779,
       "inventoryTurnoverDays": null,
       "receivableTurnoverDays": null
-    },
-    {
-      "reportDate": "2021-09-30",
-      "reportName": "2021三季报",
-      "reportType": "三季报",
-      "basicEPS": 1.26,
-      "dilutedEPS": 1.26,
-      "deductEPS": 1.26,
-      "bps": 12.57,
-      "opsCashPerShare": -1.189017090878,
-      "totalRevenue": 10921872000.0,
-      "totalRevenueYoY": -6.69,
-      "totalRevenueQoQ": -0.17,
-      "grossProfit": null,
-      "netProfit": 4350795000.0,
-      "netProfitYoY": 2.01,
-      "netProfitQoQ": -0.09,
-      "deductNetProfit": 4348482000.0,
-      "deductNetProfitYoY": 2.35,
-      "deductNetProfitQoQ": -0.18,
-      "nonRecurringPnL": 2313000.0,
-      "nonRecurringRatio": 0.05,
-      "weightedROE": 10.29,
-      "deductROE": 10.29,
-      "grossMargin": null,
-      "netMargin": 40.79,
-      "cashToRevenue": -0.4,
-      "cashToProfit": null,
-      "debtRatio": 91.2,
-      "currentRatio": null,
-      "quickRatio": null,
-      "assetTurnover": 0.018389984959,
-      "inventoryTurnoverDays": null,
-      "receivableTurnoverDays": null
-    },
-    {
-      "reportDate": "2021-06-30",
-      "reportName": "2021中报",
-      "reportType": "中报",
-      "basicEPS": 0.87,
-      "dilutedEPS": 0.87,
-      "deductEPS": 0.87,
-      "bps": 13.19,
-      "opsCashPerShare": -5.42,
-      "totalRevenue": 7274313000.0,
-      "totalRevenueYoY": -9.38,
-      "totalRevenueQoQ": -0.95,
-      "grossProfit": null,
-      "netProfit": 2921657000.0,
-      "netProfitYoY": 3.23,
-      "netProfitQoQ": 0.42,
-      "deductNetProfit": 2919822000.0,
-      "deductNetProfitYoY": 3.94,
-      "deductNetProfitQoQ": 0.78,
-      "nonRecurringPnL": 1835000.0,
-      "nonRecurringRatio": 0.06,
-      "weightedROE": 7.16,
-      "deductROE": 7.16,
-      "grossMargin": null,
-      "netMargin": 41.4,
-      "cashToRevenue": -2.51,
-      "cashToProfit": null,
-      "debtRatio": 91.46,
-      "currentRatio": null,
-      "quickRatio": null,
-      "assetTurnover": 0.012251503259,
-      "inventoryTurnoverDays": null,
-      "receivableTurnoverDays": null
     }
   ],
   "income": [
+    {
+      "reportDate": "2026-09-30",
+      "reportName": "2026三季报",
+      "operateIncome": 10616247000.0,
+      "operateIncomeYoY": 12.52,
+      "revenue": 10616247000.0,
+      "revenueYoY": 12.52,
+      "operateCost": null,
+      "operateCostYoY": null,
+      "grossProfit": null,
+      "grossMargin": null,
+      "totalProfit": 3784581000.0,
+      "netProfit": 3609838000.0,
+      "parentNetProfit": null,
+      "parentNetProfitYoY": null,
+      "saleExpense": null,
+      "saleExpenseRatio": null,
+      "manageExpense": 2664188000.0,
+      "manageExpenseRatio": 25.1,
+      "researchExpense": null,
+      "researchRatio": null,
+      "financeExpense": null,
+      "financeExpenseRatio": null,
+      "netMargin": null
+    },
+    {
+      "reportDate": "2026-06-30",
+      "reportName": "2026中报",
+      "operateIncome": 7207186000.0,
+      "operateIncomeYoY": 10.87,
+      "revenue": 7207186000.0,
+      "revenueYoY": 10.87,
+      "operateCost": null,
+      "operateCostYoY": null,
+      "grossProfit": null,
+      "grossMargin": null,
+      "totalProfit": 2572008000.0,
+      "netProfit": 2415236000.0,
+      "parentNetProfit": null,
+      "parentNetProfitYoY": null,
+      "saleExpense": null,
+      "saleExpenseRatio": null,
+      "manageExpense": 1747189000.0,
+      "manageExpenseRatio": 24.24,
+      "researchExpense": null,
+      "researchRatio": null,
+      "financeExpense": null,
+      "financeExpenseRatio": null,
+      "netMargin": null
+    },
     {
       "reportDate": "2026-03-31",
       "reportName": "2026一季报",
@@ -1151,56 +1201,6 @@
       "financeExpense": null,
       "financeExpenseRatio": null,
       "netMargin": null
-    },
-    {
-      "reportDate": "2021-09-30",
-      "reportName": "2021三季报",
-      "operateIncome": 10921872000.0,
-      "operateIncomeYoY": -6.69,
-      "revenue": 10921872000.0,
-      "revenueYoY": -6.69,
-      "operateCost": null,
-      "operateCostYoY": null,
-      "grossProfit": null,
-      "grossMargin": null,
-      "totalProfit": 4840107000.0,
-      "netProfit": 4455522000.0,
-      "parentNetProfit": null,
-      "parentNetProfitYoY": null,
-      "saleExpense": null,
-      "saleExpenseRatio": null,
-      "manageExpense": 2856056000.0,
-      "manageExpenseRatio": 26.15,
-      "researchExpense": null,
-      "researchRatio": null,
-      "financeExpense": null,
-      "financeExpenseRatio": null,
-      "netMargin": null
-    },
-    {
-      "reportDate": "2021-06-30",
-      "reportName": "2021中报",
-      "operateIncome": 7274313000.0,
-      "operateIncomeYoY": -9.38,
-      "revenue": 7274313000.0,
-      "revenueYoY": -9.38,
-      "operateCost": null,
-      "operateCostYoY": null,
-      "grossProfit": null,
-      "grossMargin": null,
-      "totalProfit": 3287170000.0,
-      "netProfit": 3011402000.0,
-      "parentNetProfit": null,
-      "parentNetProfitYoY": null,
-      "saleExpense": null,
-      "saleExpenseRatio": null,
-      "manageExpense": 1823034000.0,
-      "manageExpenseRatio": 25.06,
-      "researchExpense": null,
-      "researchRatio": null,
-      "financeExpense": null,
-      "financeExpenseRatio": null,
-      "netMargin": null
     }
   ],
   "balance": [],
@@ -1208,7 +1208,7 @@
   "shareholder": {
     "top10Holders": [
       {
-        "endDate": "2026-03-31",
+        "endDate": "2026-09-30",
         "rank": 1,
         "name": "贵阳市国有资产投资管理公司",
         "sharesType": "流通A股",
@@ -1217,7 +1217,7 @@
         "change": "不变"
       },
       {
-        "endDate": "2026-03-31",
+        "endDate": "2026-09-30",
         "rank": 2,
         "name": "贵州乌江能源投资有限公司",
         "sharesType": "流通A股",
@@ -1226,7 +1226,7 @@
         "change": "不变"
       },
       {
-        "endDate": "2026-03-31",
+        "endDate": "2026-09-30",
         "rank": 3,
         "name": "贵阳市工业投资有限公司",
         "sharesType": "流通A股",
@@ -1235,8 +1235,17 @@
         "change": "不变"
       },
       {
-        "endDate": "2026-03-31",
+        "endDate": "2026-09-30",
         "rank": 4,
+        "name": "香港中央结算有限公司",
+        "sharesType": "流通A股",
+        "shares": 147834013.0,
+        "sharesRatio": 4.04,
+        "change": "84021917"
+      },
+      {
+        "endDate": "2026-09-30",
+        "rank": 5,
         "name": "贵阳市投资控股集团有限公司",
         "sharesType": "流通A股",
         "shares": 92707293.0,
@@ -1244,26 +1253,8 @@
         "change": "不变"
       },
       {
-        "endDate": "2026-03-31",
-        "rank": 5,
-        "name": "中融人寿保险股份有限公司-分红产品",
-        "sharesType": "流通A股",
-        "shares": 88574427.0,
-        "sharesRatio": 2.42,
-        "change": "不变"
-      },
-      {
-        "endDate": "2026-03-31",
+        "endDate": "2026-09-30",
         "rank": 6,
-        "name": "香港中央结算有限公司",
-        "sharesType": "流通A股",
-        "shares": 81742918.0,
-        "sharesRatio": 2.24,
-        "change": "-32025740"
-      },
-      {
-        "endDate": "2026-03-31",
-        "rank": 7,
         "name": "仁怀酱酒(集团)有限责任公司",
         "sharesType": "流通A股",
         "shares": 68159688.0,
@@ -1271,8 +1262,8 @@
         "change": "不变"
       },
       {
-        "endDate": "2026-03-31",
-        "rank": 8,
+        "endDate": "2026-09-30",
+        "rank": 7,
         "name": "中国贵州茅台酒厂(集团)有限责任公司",
         "sharesType": "流通A股",
         "shares": 52975597.0,
@@ -1280,8 +1271,8 @@
         "change": "不变"
       },
       {
-        "endDate": "2026-03-31",
-        "rank": 9,
+        "endDate": "2026-09-30",
+        "rank": 8,
         "name": "北京市仁爱教育技术有限公司",
         "sharesType": "流通A股",
         "shares": 47468600.0,
@@ -1289,18 +1280,27 @@
         "change": "不变"
       },
       {
-        "endDate": "2026-03-31",
-        "rank": 10,
-        "name": "俞雄伟",
+        "endDate": "2026-09-30",
+        "rank": 9,
+        "name": "中国银行股份有限公司-易方达中证红利交易型开放式指数证券投资基金",
         "sharesType": "流通A股",
-        "shares": 29045568.0,
-        "sharesRatio": 0.79,
+        "shares": 28422161.0,
+        "sharesRatio": 0.78,
+        "change": "新进"
+      },
+      {
+        "endDate": "2026-09-30",
+        "rank": 10,
+        "name": "张沐城",
+        "sharesType": "流通A股",
+        "shares": 28004720.0,
+        "sharesRatio": 0.77,
         "change": "新进"
       }
     ],
     "top10CircHolders": [
       {
-        "endDate": "2026-03-31",
+        "endDate": "2026-09-30",
         "rank": 1,
         "name": "贵阳市国有资产投资管理公司",
         "sharesType": "A股",
@@ -1310,7 +1310,7 @@
         "type": "投资公司"
       },
       {
-        "endDate": "2026-03-31",
+        "endDate": "2026-09-30",
         "rank": 2,
         "name": "贵州乌江能源投资有限公司",
         "sharesType": "A股",
@@ -1320,7 +1320,7 @@
         "type": "投资公司"
       },
       {
-        "endDate": "2026-03-31",
+        "endDate": "2026-09-30",
         "rank": 3,
         "name": "贵阳市工业投资有限公司",
         "sharesType": "A股",
@@ -1330,8 +1330,18 @@
         "type": "投资公司"
       },
       {
-        "endDate": "2026-03-31",
+        "endDate": "2026-09-30",
         "rank": 4,
+        "name": "香港中央结算有限公司",
+        "sharesType": "A股",
+        "shares": 147834013.0,
+        "sharesRatio": 4.043380854293,
+        "change": "84021917",
+        "type": "其它"
+      },
+      {
+        "endDate": "2026-09-30",
+        "rank": 5,
         "name": "贵阳市投资控股集团有限公司",
         "sharesType": "A股",
         "shares": 92707293.0,
@@ -1340,28 +1350,8 @@
         "type": "投资公司"
       },
       {
-        "endDate": "2026-03-31",
-        "rank": 5,
-        "name": "中融人寿保险股份有限公司-分红产品",
-        "sharesType": "A股",
-        "shares": 88574427.0,
-        "sharesRatio": 2.422582834924,
-        "change": "不变",
-        "type": "保险产品"
-      },
-      {
-        "endDate": "2026-03-31",
+        "endDate": "2026-09-30",
         "rank": 6,
-        "name": "香港中央结算有限公司",
-        "sharesType": "A股",
-        "shares": 81742918.0,
-        "sharesRatio": 2.235735490825,
-        "change": "-32025740",
-        "type": "其它"
-      },
-      {
-        "endDate": "2026-03-31",
-        "rank": 7,
         "name": "仁怀酱酒(集团)有限责任公司",
         "sharesType": "A股",
         "shares": 68159688.0,
@@ -1370,8 +1360,8 @@
         "type": "其它"
       },
       {
-        "endDate": "2026-03-31",
-        "rank": 8,
+        "endDate": "2026-09-30",
+        "rank": 7,
         "name": "中国贵州茅台酒厂(集团)有限责任公司",
         "sharesType": "A股",
         "shares": 52975597.0,
@@ -1380,8 +1370,8 @@
         "type": "其它"
       },
       {
-        "endDate": "2026-03-31",
-        "rank": 9,
+        "endDate": "2026-09-30",
+        "rank": 8,
         "name": "北京市仁爱教育技术有限公司",
         "sharesType": "A股",
         "shares": 47468600.0,
@@ -1390,17 +1380,72 @@
         "type": "其它"
       },
       {
-        "endDate": "2026-03-31",
-        "rank": 10,
-        "name": "俞雄伟",
+        "endDate": "2026-09-30",
+        "rank": 9,
+        "name": "中国银行股份有限公司-易方达中证红利交易型开放式指数证券投资基金",
         "sharesType": "A股",
-        "shares": 29045568.0,
-        "sharesRatio": 0.79441997934,
+        "shares": 28422161.0,
+        "sharesRatio": 0.777369289333,
+        "change": "新进",
+        "type": "证券投资基金"
+      },
+      {
+        "endDate": "2026-09-30",
+        "rank": 10,
+        "name": "张沐城",
+        "sharesType": "A股",
+        "shares": 28004720.0,
+        "sharesRatio": 0.765951937446,
         "change": "新进",
         "type": "个人"
       }
     ],
     "holderCountHistory": [
+      {
+        "endDate": "2026-09-30",
+        "count": 63567.0,
+        "changeRatio": -2.3383,
+        "avgShares": 57517.0,
+        "avgHoldAmount": 322671.688240125,
+        "holdFocus": "非常分散",
+        "price": 5.61
+      },
+      {
+        "endDate": "2026-07-31",
+        "count": 65089.0,
+        "changeRatio": -0.8817,
+        "avgShares": 56172.0,
+        "avgHoldAmount": 324675.826626312,
+        "holdFocus": "非常分散",
+        "price": 5.78
+      },
+      {
+        "endDate": "2026-07-20",
+        "count": 65668.0,
+        "changeRatio": 2.3711,
+        "avgShares": 55677.0,
+        "avgHoldAmount": 307893.88073765,
+        "holdFocus": "非常分散",
+        "price": 5.53
+      },
+      {
+        "endDate": "2026-06-30",
+        "count": 64147.0,
+        "changeRatio": -0.9022,
+        "avgShares": 56997.0,
+        "avgHoldAmount": 292395.531044008,
+        "holdFocus": "非常分散",
+        "price": 5.13
+      },
+      {
+        "endDate": "2026-05-31",
+        "count": 64731.0,
+        "changeRatio": -2.7157,
+        "avgShares": 56482.0,
+        "avgHoldAmount": 318084.322543187,
+        "holdFocus": "非常分散",
+        "price": 5.6315100699
+      },
       {
         "endDate": "2026-04-30",
         "count": 66538.0,
@@ -1445,160 +1490,100 @@
         "avgHoldAmount": 320264.606524545,
         "holdFocus": "非常分散",
         "price": 5.81
-      },
-      {
-        "endDate": "2026-01-30",
-        "count": 66328.0,
-        "changeRatio": 1.0589,
-        "avgShares": 55122.0,
-        "avgHoldAmount": 320264.606524545,
-        "holdFocus": "非常分散",
-        "price": 5.81
-      },
-      {
-        "endDate": "2026-01-10",
-        "count": 65564.0,
-        "changeRatio": -0.1051,
-        "avgShares": 55765.0,
-        "avgHoldAmount": 326784.832001708,
-        "holdFocus": "非常分散",
-        "price": 5.86
-      },
-      {
-        "endDate": "2025-12-31",
-        "count": 65633.0,
-        "changeRatio": -3.5759,
-        "avgShares": 55706.0,
-        "avgHoldAmount": 326998.350008685,
-        "holdFocus": "非常分散",
-        "price": 5.87
-      },
-      {
-        "endDate": "2025-10-31",
-        "count": 68067.0,
-        "changeRatio": 1.5895,
-        "avgShares": 53714.0,
-        "avgHoldAmount": 326585.339475517,
-        "holdFocus": "非常分散",
-        "price": 6.08
-      },
-      {
-        "endDate": "2025-09-30",
-        "count": 67002.0,
-        "changeRatio": 0.2124,
-        "avgShares": 54568.0,
-        "avgHoldAmount": 314314.511772186,
-        "holdFocus": "非常分散",
-        "price": 5.76
       }
     ],
     "institutionalHoldings": [
       {
-        "reportDate": "2026-03-31",
-        "totalOrgs": 18.0,
-        "totalShares": 1262569701.0,
-        "totalRatio": 34.53231127
+        "reportDate": "2026-09-30",
+        "totalOrgs": 16.0,
+        "totalShares": 1281119895.0,
+        "totalRatio": 35.03967421
       },
       {
-        "reportDate": "2026-03-31",
-        "totalOrgs": 9.0,
-        "totalShares": 4160700.0,
-        "totalRatio": 0.11379854
-      },
-      {
-        "reportDate": "2026-03-31",
-        "totalOrgs": 1.0,
-        "totalShares": 88574427.0,
-        "totalRatio": 2.42258283
-      },
-      {
-        "reportDate": "2026-03-31",
+        "reportDate": "2026-09-30",
         "totalOrgs": 8.0,
-        "totalShares": 1169834574.0,
-        "totalRatio": 31.9959299
+        "totalShares": 45194226.0,
+        "totalRatio": 1.23609895
+      },
+      {
+        "reportDate": "2026-09-30",
+        "totalOrgs": 8.0,
+        "totalShares": 1235925669.0,
+        "totalRatio": 33.80357526
       }
     ],
     "fundHoldings": [
       {
-        "reportDate": "2026-03-31",
-        "fundCode": "023584",
-        "fundName": "中欧红利智选混合A",
-        "shares": 1978600.0,
-        "value": 11515452.0,
-        "ratio": 0.05411632,
-        "navRatio": 2.04
+        "reportDate": "2026-09-30",
+        "fundCode": "515180",
+        "fundName": "易方达中证红利ETF",
+        "shares": 28422161.0,
+        "value": 159448323.21,
+        "ratio": 0.77736929,
+        "navRatio": 0.88
       },
       {
-        "reportDate": "2026-03-31",
-        "fundCode": "019991",
-        "fundName": "中欧红利精选混合发起A",
-        "shares": 751100.0,
-        "value": 4371402.0,
-        "ratio": 0.0205432,
-        "navRatio": 2.14
+        "reportDate": "2026-09-30",
+        "fundCode": "159207",
+        "fundName": "广发中证智选高股息策略ETF",
+        "shares": 12127100.0,
+        "value": 68033031.0,
+        "ratio": 0.33168608,
+        "navRatio": 2.58
       },
       {
-        "reportDate": "2026-03-31",
-        "fundCode": "159610",
-        "fundName": "景顺长城中证500增强策略ETF",
-        "shares": 468700.0,
-        "value": 2727834.0,
-        "ratio": 0.01281933,
-        "navRatio": 1.45
+        "reportDate": "2026-09-30",
+        "fundCode": "026778",
+        "fundName": "诺安智泉量化选股混合发起式A",
+        "shares": 3580430.0,
+        "value": 20086212.3,
+        "ratio": 0.09792768,
+        "navRatio": 1.39
       },
       {
-        "reportDate": "2026-03-31",
-        "fundCode": "022488",
-        "fundName": "浦银安盛红利量化混合A",
-        "shares": 363100.0,
-        "value": 2113242.0,
-        "ratio": 0.00993108,
-        "navRatio": 1.74
+        "reportDate": "2026-09-30",
+        "fundCode": "021919",
+        "fundName": "国泰海通红利量化选股混合A",
+        "shares": 389300.0,
+        "value": 2183973.0,
+        "ratio": 0.01064767,
+        "navRatio": 1.6
       },
       {
-        "reportDate": "2026-03-31",
-        "fundCode": "021650",
-        "fundName": "东方红红利量化选股混合发起A",
-        "shares": 284600.0,
-        "value": 1656372.0,
-        "ratio": 0.00778404,
-        "navRatio": 2.13
+        "reportDate": "2026-09-30",
+        "fundCode": "014706",
+        "fundName": "华富匠心明选一年持有期混合A",
+        "shares": 368100.0,
+        "value": 2065041.0,
+        "ratio": 0.01006784,
+        "navRatio": 3.79
       },
       {
-        "reportDate": "2026-03-31",
-        "fundCode": "010579",
-        "fundName": "中金恒嘉稳健3个月持有债券发起A",
-        "shares": 192200.0,
-        "value": 1118604.0,
-        "ratio": 0.00525683,
-        "navRatio": 0.09
+        "reportDate": "2026-09-30",
+        "fundCode": "014020",
+        "fundName": "诺德量化先锋A",
+        "shares": 199235.0,
+        "value": 1117708.35,
+        "ratio": 0.00544924,
+        "navRatio": 2.64
       },
       {
-        "reportDate": "2026-03-31",
-        "fundCode": "023981",
-        "fundName": "泰信中证A500指数增强A",
-        "shares": 47200.0,
-        "value": 274704.0,
-        "ratio": 0.00129096,
-        "navRatio": 0.36
+        "reportDate": "2026-09-30",
+        "fundCode": "012498",
+        "fundName": "汇添富中证500基本面增强指数A",
+        "shares": 67300.0,
+        "value": 377553.0,
+        "ratio": 0.00184071,
+        "navRatio": 0.63
       },
       {
-        "reportDate": "2026-03-31",
+        "reportDate": "2026-09-30",
         "fundCode": "002668",
         "fundName": "兴业聚丰混合A",
-        "shares": 42100.0,
-        "value": 245022.0,
-        "ratio": 0.00115147,
-        "navRatio": 0.62
-      },
-      {
-        "reportDate": "2026-03-31",
-        "fundCode": "025977",
-        "fundName": "大摩添益债券A",
-        "shares": 33100.0,
-        "value": 192642.0,
-        "ratio": 0.00090531,
-        "navRatio": 0.11
+        "shares": 40600.0,
+        "value": 227766.0,
+        "ratio": 0.00111044,
+        "navRatio": 0.67
       }
     ],
     "dividends": [

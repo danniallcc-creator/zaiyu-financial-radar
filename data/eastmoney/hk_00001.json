@@ -3,7 +3,7 @@
   "name": "长和",
   "market": "hk",
   "currency": "HKD",
-  "fetchTime": "2026-06-22T23:30:51.199373",
+  "fetchTime": "2026-11-10T12:18:11.600751",
   "profile": {
     "name": "长和",
     "code": "00001",
@@ -12,6 +12,16 @@
   },
   "financial": [],
   "income": [
+    {
+      "reportDate": "2026-06-30",
+      "reportType": "中报",
+      "revenue": 136485000000,
+      "revenueYoY": -1.9,
+      "totalProfit": 39136000000,
+      "totalProfitYoY": 404.26,
+      "totalExpenses": 75388000000,
+      "totalExpensesYoY": -5.03
+    },
     {
       "reportDate": "2025-12-31",
       "reportType": "年报",
@@ -25,12 +35,12 @@
     {
       "reportDate": "2025-06-30",
       "reportType": "中报",
-      "totalProfit": 7761000000,
-      "totalProfitYoY": -50.94,
       "revenue": 139130000000,
       "revenueYoY": 1.96,
       "totalExpenses": 79380000000,
-      "totalExpensesYoY": 1.56
+      "totalExpensesYoY": 1.56,
+      "totalProfit": 7761000000,
+      "totalProfitYoY": -50.94
     },
     {
       "reportDate": "2024-12-31",
@@ -45,12 +55,12 @@
     {
       "reportDate": "2024-06-30",
       "reportType": "中报",
+      "revenue": 136451000000,
+      "revenueYoY": 2.3,
       "totalExpenses": 78157000000,
       "totalExpensesYoY": 3.86,
       "totalProfit": 15818000000,
-      "totalProfitYoY": -1.48,
-      "revenue": 136451000000,
-      "revenueYoY": 2.3
+      "totalProfitYoY": -1.48
     },
     {
       "reportDate": "2023-12-31",
@@ -65,12 +75,12 @@
     {
       "reportDate": "2023-06-30",
       "reportType": "中报",
-      "revenue": 133377000000,
-      "revenueYoY": 1.54,
+      "totalProfit": 16055000000,
+      "totalProfitYoY": -35.29,
       "totalExpenses": 75251000000,
       "totalExpensesYoY": 2.5,
-      "totalProfit": 16055000000,
-      "totalProfitYoY": -35.29
+      "revenue": 133377000000,
+      "revenueYoY": 1.54
     },
     {
       "reportDate": "2022-12-31",
@@ -81,22 +91,30 @@
       "revenueYoY": -6.53,
       "totalProfit": 51933000000,
       "totalProfitYoY": 21.62
-    },
-    {
-      "reportDate": "2022-06-30",
-      "reportType": "中报",
-      "totalExpenses": 73419000000,
-      "totalExpensesYoY": -6.42,
-      "revenue": 131358000000,
-      "revenueYoY": -3.05,
-      "totalProfit": 24810000000,
-      "totalProfitYoY": 17.07
     }
   ],
   "balance": [
     {
+      "reportDate": "2026-06-30",
+      "reportType": "中报",
+      "monetaryFunds": 98056000000,
+      "monetaryFundsYoY": 1.72,
+      "parentEquity": 159865000000,
+      "parentEquityYoY": 97.01,
+      "totalLiabilities": 129019000000,
+      "totalLiabilitiesYoY": 9.72,
+      "nonCurrentLiabilities": 1154259000000,
+      "nonCurrentLiabilitiesYoY": 1.47,
+      "currentAssets": 865375000000,
+      "currentAssetsYoY": -7.83,
+      "accountsReceivable": 123287000000,
+      "accountsReceivableYoY": -2.65
+    },
+    {
       "reportDate": "2025-12-31",
       "reportType": "年报",
+      "monetaryFunds": 100080000000,
+      "monetaryFundsYoY": -10.46,
       "parentEquity": 77344000000,
       "parentEquityYoY": 26.36,
       "totalLiabilities": 135399000000,
@@ -106,13 +124,13 @@
       "currentAssets": 942930000000,
       "currentAssetsYoY": 2.45,
       "accountsReceivable": 125852000000,
-      "accountsReceivableYoY": -12.06,
-      "monetaryFunds": 100080000000,
-      "monetaryFundsYoY": -10.46
+      "accountsReceivableYoY": -12.06
     },
     {
       "reportDate": "2025-06-30",
       "reportType": "中报",
+      "monetaryFunds": 96399000000,
+      "monetaryFundsYoY": -14.58,
       "parentEquity": 81145000000,
       "parentEquityYoY": 120.25,
       "totalLiabilities": 117590000000,
@@ -122,15 +140,13 @@
       "currentAssets": 938851000000,
       "currentAssetsYoY": 0.43,
       "accountsReceivable": 126642000000,
-      "accountsReceivableYoY": -11.89,
-      "monetaryFunds": 96399000000,
-      "monetaryFundsYoY": -14.58
+      "accountsReceivableYoY": -11.89
     },
     {
       "reportDate": "2024-12-31",
       "reportType": "年报",
-      "accountsReceivable": 143110000000,
-      "accountsReceivableYoY": -3.08,
+      "monetaryFunds": 111777000000,
+      "monetaryFundsYoY": -6.72,
       "parentEquity": 61208000000,
       "parentEquityYoY": 53.55,
       "totalLiabilities": 130985000000,
@@ -139,12 +155,14 @@
       "nonCurrentLiabilitiesYoY": -4.0,
       "currentAssets": 920349000000,
       "currentAssetsYoY": -3.78,
-      "monetaryFunds": 111777000000,
-      "monetaryFundsYoY": -6.72
+      "accountsReceivable": 143110000000,
+      "accountsReceivableYoY": -3.08
     },
     {
       "reportDate": "2024-06-30",
       "reportType": "中报",
+      "monetaryFunds": 112848000000,
+      "monetaryFundsYoY": -3.54,
       "parentEquity": 36842000000,
       "parentEquityYoY": -45.26,
       "totalLiabilities": 166797000000,
@@ -154,31 +172,13 @@
       "currentAssets": 934848000000,
       "currentAssetsYoY": -1.29,
       "accountsReceivable": 143735000000,
-      "accountsReceivableYoY": -2.79,
-      "monetaryFunds": 112848000000,
-      "monetaryFundsYoY": -3.54
+      "accountsReceivableYoY": -2.79
     },
     {
       "reportDate": "2023-12-31",
       "reportType": "年报",
-      "parentEquity": 39861000000,
-      "parentEquityYoY": -16.54,
-      "totalLiabilities": 162525000000,
-      "totalLiabilitiesYoY": -7.93,
-      "nonCurrentLiabilities": 1158903000000,
-      "nonCurrentLiabilitiesYoY": 0.91,
-      "currentAssets": 956517000000,
-      "currentAssetsYoY": 3.5,
-      "accountsReceivable": 147660000000,
-      "accountsReceivableYoY": 2.27,
       "monetaryFunds": 119826000000,
       "monetaryFundsYoY": 6.37
-    },
-    {
-      "reportDate": "2023-06-30",
-      "reportType": "中报",
-      "accountsReceivable": 147861000000,
-      "accountsReceivableYoY": 1.17
     }
   ],
   "cashflow": [],
@@ -186,21 +186,21 @@
   "quote": {
     "code": "00001",
     "name": "长和",
-    "price": 68.5,
-    "change": -0.95,
-    "changePct": -1.37,
-    "open": 68.85,
-    "high": 69.45,
-    "low": 68.4,
-    "prevClose": 69.45,
-    "volume": 6992932,
-    "amount": 481330837.7,
-    "pe": 22.16,
+    "price": 72.1,
+    "change": 1.35,
+    "changePct": 1.91,
+    "open": 70.6,
+    "high": 72.15,
+    "low": 70.6,
+    "prevClose": 70.75,
+    "volume": 3438043,
+    "amount": 246538439.85,
+    "pe": 23.32,
     "turnover": 0.0,
-    "fetchTime": "2026-06-22T23:30:50",
-    "pb": 3.38,
-    "totalMV": 262358050000.0,
-    "circMV": 262358050000.0,
+    "fetchTime": "2026-11-10T12:18:10",
+    "pb": 3.26,
+    "totalMV": 276146210000.0,
+    "circMV": 276146210000.0,
     "currency": "HKD"
   }
 }

@@ -3,7 +3,7 @@
   "name": "纽约梅隆银行",
   "market": "us",
   "currency": "USD",
-  "fetchTime": "2026-06-22T23:18:20.785131",
+  "fetchTime": "2026-11-10T12:06:09.499941",
   "profile": {
     "name": "纽约梅隆银行",
     "code": "BK",
@@ -29,7 +29,7 @@
     "amount": 0.0,
     "pe": 17.02,
     "turnover": 0.0,
-    "fetchTime": "2026-06-22T23:18:14",
+    "fetchTime": "2026-11-10T12:05:58",
     "pb": 18.54,
     "totalMV": 94143750000.0,
     "circMV": 84181310000.0,

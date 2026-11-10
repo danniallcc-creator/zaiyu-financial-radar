@@ -3,7 +3,7 @@
   "name": "金沙中国有限公司",
   "market": "hk",
   "currency": "HKD",
-  "fetchTime": "2026-06-22T23:30:12.651758",
+  "fetchTime": "2026-11-10T12:17:31.717893",
   "profile": {
     "name": "金沙中国有限公司",
     "code": "01928",
@@ -12,6 +12,16 @@
   },
   "financial": [],
   "income": [
+    {
+      "reportDate": "2026-06-30",
+      "reportType": "中报",
+      "totalProfit": 403000000,
+      "totalProfitYoY": -2.42,
+      "revenue": 3879000000,
+      "revenueYoY": 11.08,
+      "totalExpenses": 3815000000,
+      "totalExpensesYoY": 10.74
+    },
     {
       "reportDate": "2025-12-31",
       "reportType": "年报",
@@ -75,12 +85,12 @@
     {
       "reportDate": "2022-12-31",
       "reportType": "年报",
+      "totalProfit": -1588000000,
+      "totalProfitYoY": -51.96,
       "revenue": 1605000000,
       "revenueYoY": -44.15,
       "totalExpenses": 1579000000,
-      "totalExpensesYoY": -44.4,
-      "totalProfit": -1588000000,
-      "totalProfitYoY": -51.96
+      "totalExpensesYoY": -44.4
     },
     {
       "reportDate": "2022-06-30",
@@ -91,17 +101,23 @@
       "totalProfitYoY": -102.12,
       "revenue": 915000000,
       "revenueYoY": -43.52
-    },
-    {
-      "reportDate": "2021-12-31",
-      "reportType": "年报",
-      "totalProfit": -1045000000,
-      "totalProfitYoY": 30.66,
-      "totalExpenses": 2840000000,
-      "totalExpensesYoY": 70.67
     }
   ],
   "balance": [
+    {
+      "reportDate": "2026-06-30",
+      "reportType": "中报",
+      "parentEquity": -849000000,
+      "parentEquityYoY": -7.47,
+      "totalLiabilities": 2150000000,
+      "totalLiabilitiesYoY": 1.85,
+      "nonCurrentLiabilities": 9628000000,
+      "nonCurrentLiabilitiesYoY": -4.52,
+      "currentAssets": 8327000000,
+      "currentAssetsYoY": -4.98,
+      "accountsReceivable": 413000000,
+      "accountsReceivableYoY": -10.99
+    },
     {
       "reportDate": "2025-12-31",
       "reportType": "年报",
@@ -175,26 +191,12 @@
     {
       "reportDate": "2023-06-30",
       "reportType": "中报",
-      "parentEquity": 278000000,
-      "parentEquityYoY": 286.11,
-      "totalLiabilities": 1184000000,
-      "totalLiabilitiesYoY": 40.28,
       "nonCurrentLiabilities": 10267000000,
       "nonCurrentLiabilitiesYoY": 4.97,
       "currentAssets": 8805000000,
       "currentAssetsYoY": -0.68,
       "accountsReceivable": 498000000,
       "accountsReceivableYoY": 1364.71
-    },
-    {
-      "reportDate": "2022-12-31",
-      "reportType": "年报",
-      "nonCurrentLiabilities": 10562000000,
-      "nonCurrentLiabilitiesYoY": 4.64,
-      "currentAssets": 8695000000,
-      "currentAssetsYoY": -5.51,
-      "accountsReceivable": 31000000,
-      "accountsReceivableYoY": -18.42
     }
   ],
   "cashflow": [],
@@ -202,21 +204,21 @@
   "quote": {
     "code": "01928",
     "name": "金沙中国有限公司",
-    "price": 13.57,
-    "change": -0.32,
-    "changePct": -2.3,
-    "open": 13.89,
-    "high": 13.89,
-    "low": 13.38,
-    "prevClose": 13.89,
-    "volume": 16659624,
-    "amount": 225811203.4,
-    "pe": 15.75,
+    "price": 11.1,
+    "change": -0.09,
+    "changePct": -0.8,
+    "open": 11.19,
+    "high": 11.26,
+    "low": 11.07,
+    "prevClose": 11.19,
+    "volume": 9664462,
+    "amount": 107779409.62,
+    "pe": 12.88,
     "turnover": 0.0,
-    "fetchTime": "2026-06-22T23:30:11",
-    "pb": 5.53,
-    "totalMV": 109827160000.0,
-    "circMV": 109827160000.0,
+    "fetchTime": "2026-11-10T12:17:30",
+    "pb": 9.01,
+    "totalMV": 89836510000.0,
+    "circMV": 89836510000.0,
     "currency": "HKD"
   }
 }

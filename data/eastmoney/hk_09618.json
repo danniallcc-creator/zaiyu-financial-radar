@@ -3,7 +3,7 @@
   "name": "京东集团-SW",
   "market": "hk",
   "currency": "HKD",
-  "fetchTime": "2026-06-22T23:29:33.867888",
+  "fetchTime": "2026-11-10T12:16:52.065467",
   "profile": {
     "name": "京东集团-SW",
     "code": "09618",
@@ -12,6 +12,16 @@
   },
   "financial": [],
   "income": [
+    {
+      "reportDate": "2026-06-30",
+      "reportType": "中报",
+      "totalProfit": 17749000000,
+      "totalProfitYoY": -11.44,
+      "totalExpenses": 112334000000,
+      "totalExpensesYoY": 7.51,
+      "revenue": 662095000000,
+      "revenueYoY": 0.66
+    },
     {
       "reportDate": "2026-03-31",
       "reportType": "一季报",
@@ -95,21 +105,27 @@
     {
       "reportDate": "2024-03-31",
       "reportType": "一季报",
-      "totalProfit": 9065000000,
-      "totalProfitYoY": 16.1,
-      "revenue": 260049000000,
-      "revenueYoY": 7.04,
       "totalExpenses": 39770000000,
       "totalExpensesYoY": 10.42
-    },
-    {
-      "reportDate": "2023-12-31",
-      "reportType": "年报",
-      "totalProfit": 31650000000,
-      "totalProfitYoY": 128.24
     }
   ],
   "balance": [
+    {
+      "reportDate": "2026-06-30",
+      "reportType": "中报",
+      "parentEquity": 49866000000,
+      "parentEquityYoY": -30.16,
+      "totalLiabilities": 354736000000,
+      "totalLiabilitiesYoY": 9.95,
+      "nonCurrentLiabilities": 725406000000,
+      "nonCurrentLiabilitiesYoY": 2.61,
+      "currentAssets": 320804000000,
+      "currentAssetsYoY": 2.52,
+      "inventory": 5734000000,
+      "inventoryYoY": -15.04,
+      "accountsReceivable": 7178000000,
+      "accountsReceivableYoY": -1.07
+    },
     {
       "reportDate": "2026-03-31",
       "reportType": "一季报",
@@ -161,28 +177,12 @@
     {
       "reportDate": "2025-06-30",
       "reportType": "中报",
-      "parentEquity": 71401000000,
-      "parentEquityYoY": 70.11,
-      "totalLiabilities": 322632000000,
-      "totalLiabilitiesYoY": 15.13,
       "nonCurrentLiabilities": 706939000000,
       "nonCurrentLiabilitiesYoY": 8.49,
       "currentAssets": 312906000000,
       "currentAssetsYoY": -5.02,
       "inventory": 6749000000,
-      "inventoryYoY": 14.37,
-      "accountsReceivable": 7256000000,
-      "accountsReceivableYoY": 8.53
-    },
-    {
-      "reportDate": "2025-03-31",
-      "reportType": "一季报",
-      "currentAssets": 320632000000,
-      "currentAssetsYoY": 0.91,
-      "inventory": 7039000000,
-      "inventoryYoY": -25.91,
-      "accountsReceivable": 7510000000,
-      "accountsReceivableYoY": 13.34
+      "inventoryYoY": 14.37
     }
   ],
   "cashflow": [],
@@ -190,21 +190,21 @@
   "quote": {
     "code": "09618",
     "name": "京东集团-SW",
-    "price": 107.5,
-    "change": -1.4,
-    "changePct": -1.29,
-    "open": 107.8,
-    "high": 108.1,
-    "low": 105.6,
-    "prevClose": 108.9,
-    "volume": 11335839,
-    "amount": 1214235904.5,
-    "pe": 13.51,
+    "price": 110.2,
+    "change": -2.1,
+    "changePct": -1.87,
+    "open": 111.5,
+    "high": 112.1,
+    "low": 109.6,
+    "prevClose": 112.3,
+    "volume": 3229201,
+    "amount": 356332645.15,
+    "pe": 13.63,
     "turnover": 0.0,
-    "fetchTime": "2026-06-22T23:29:32",
-    "pb": 3.64,
-    "totalMV": 293651460000.0,
-    "circMV": 259061600000.0,
+    "fetchTime": "2026-11-10T12:16:50",
+    "pb": 3.61,
+    "totalMV": 296217600000.0,
+    "circMV": 260758980000.00003,
     "currency": "HKD"
   }
 }

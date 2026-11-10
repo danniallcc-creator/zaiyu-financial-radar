@@ -3,7 +3,7 @@
   "name": "中国神华",
   "market": "hk",
   "currency": "HKD",
-  "fetchTime": "2026-06-22T23:29:37.403870",
+  "fetchTime": "2026-11-10T12:16:56.086963",
   "profile": {
     "name": "中国神华",
     "code": "01088",
@@ -12,6 +12,26 @@
   },
   "financial": [],
   "income": [
+    {
+      "reportDate": "2026-09-30",
+      "reportType": "三季报",
+      "totalExpenses": 86746000000,
+      "totalExpensesYoY": 5.5,
+      "revenue": 296031000000,
+      "revenueYoY": 8.97,
+      "totalProfit": 72721000000,
+      "totalProfitYoY": 2.77
+    },
+    {
+      "reportDate": "2026-06-30",
+      "reportType": "中报",
+      "totalProfit": 48028000000,
+      "totalProfitYoY": 3.37,
+      "revenue": 189338000000,
+      "revenueYoY": 7.93,
+      "totalExpenses": 56692000000,
+      "totalExpensesYoY": 5.47
+    },
     {
       "reportDate": "2026-03-31",
       "reportType": "一季报",
@@ -35,22 +55,22 @@
     {
       "reportDate": "2025-09-30",
       "reportType": "三季报",
-      "totalExpenses": 67675000000,
-      "totalExpensesYoY": -12.84,
-      "totalProfit": 61850000000,
-      "totalProfitYoY": -10.15,
-      "revenue": 213151000000,
-      "revenueYoY": -16.57
+      "revenue": 271651000000,
+      "revenueYoY": 6.33,
+      "totalProfit": 70761000000,
+      "totalProfitYoY": 2.79,
+      "totalExpenses": 82227000000,
+      "totalExpensesYoY": 5.9
     },
     {
       "reportDate": "2025-06-30",
       "reportType": "中报",
-      "totalExpenses": 43735000000,
-      "totalExpensesYoY": -12.9,
-      "revenue": 138109000000,
-      "revenueYoY": -18.34,
-      "totalProfit": 40013000000,
-      "totalProfitYoY": -11.02
+      "totalExpenses": 53750000000,
+      "totalExpensesYoY": 7.04,
+      "revenue": 175423000000,
+      "revenueYoY": 3.73,
+      "totalProfit": 46460000000,
+      "totalProfitYoY": 3.31
     },
     {
       "reportDate": "2025-03-31",
@@ -61,29 +81,41 @@
       "revenueYoY": -21.07,
       "totalExpenses": 21331000000,
       "totalExpensesYoY": -21.58
-    },
-    {
-      "reportDate": "2024-12-31",
-      "reportType": "年报",
-      "revenue": 339788000000,
-      "revenueYoY": -0.96,
-      "totalExpenses": 102058000000,
-      "totalExpensesYoY": -7.67,
-      "totalProfit": 87330000000,
-      "totalProfitYoY": -5.87
-    },
-    {
-      "reportDate": "2024-09-30",
-      "reportType": "三季报",
-      "totalExpenses": 77643000000,
-      "totalExpensesYoY": -3.3,
-      "totalProfit": 68838000000,
-      "totalProfitYoY": -7.79,
-      "revenue": 255475000000,
-      "revenueYoY": 1.19
     }
   ],
   "balance": [
+    {
+      "reportDate": "2026-09-30",
+      "reportType": "三季报",
+      "parentEquity": -37858000000,
+      "parentEquityYoY": -148.66,
+      "totalLiabilities": 244557000000,
+      "totalLiabilitiesYoY": 150.9,
+      "nonCurrentLiabilities": 924371000000,
+      "nonCurrentLiabilitiesYoY": 43.0,
+      "currentAssets": 717672000000,
+      "currentAssetsYoY": 52.32,
+      "inventory": 56711000000,
+      "inventoryYoY": 52.79,
+      "accountsReceivable": 21405000000,
+      "accountsReceivableYoY": 101.55
+    },
+    {
+      "reportDate": "2026-06-30",
+      "reportType": "中报",
+      "parentEquity": -31619000000,
+      "parentEquityYoY": -148.99,
+      "totalLiabilities": 242211000000,
+      "totalLiabilitiesYoY": 60.94,
+      "nonCurrentLiabilities": 929709000000,
+      "nonCurrentLiabilitiesYoY": 35.51,
+      "currentAssets": 719117000000,
+      "currentAssetsYoY": 52.67,
+      "inventory": 52319000000,
+      "inventoryYoY": 45.66,
+      "accountsReceivable": 22866000000,
+      "accountsReceivableYoY": 117.88
+    },
     {
       "reportDate": "2026-03-31",
       "reportType": "一季报",
@@ -103,18 +135,18 @@
     {
       "reportDate": "2025-12-31",
       "reportType": "年报",
-      "parentEquity": 57707000000,
-      "parentEquityYoY": -43.44,
-      "totalLiabilities": 89262000000,
-      "totalLiabilitiesYoY": -15.08,
-      "nonCurrentLiabilities": 631777000000,
-      "nonCurrentLiabilitiesYoY": -5.94,
-      "currentAssets": 484808000000,
-      "currentAssetsYoY": 4.37,
-      "inventory": 32700000000,
-      "inventoryYoY": 17.21,
-      "accountsReceivable": 10485000000,
-      "accountsReceivableYoY": 1.32
+      "parentEquity": 37673000000,
+      "parentEquityYoY": -63.07,
+      "totalLiabilities": 171068000000,
+      "totalLiabilitiesYoY": 62.74,
+      "nonCurrentLiabilities": 912431000000,
+      "nonCurrentLiabilitiesYoY": 35.85,
+      "currentAssets": 703690000000,
+      "currentAssetsYoY": 51.49,
+      "inventory": 48730000000,
+      "inventoryYoY": 74.67,
+      "accountsReceivable": 22546000000,
+      "accountsReceivableYoY": 117.88
     },
     {
       "reportDate": "2025-09-30",
@@ -128,41 +160,7 @@
       "currentAssets": 471152000000,
       "currentAssetsYoY": 6.82,
       "inventory": 37116000000,
-      "inventoryYoY": 50.95,
-      "accountsReceivable": 10620000000,
-      "accountsReceivableYoY": 5.12
-    },
-    {
-      "reportDate": "2025-06-30",
-      "reportType": "中报",
-      "parentEquity": 64542000000,
-      "parentEquityYoY": -32.08,
-      "totalLiabilities": 150497000000,
-      "totalLiabilitiesYoY": 6.39,
-      "nonCurrentLiabilities": 686068000000,
-      "nonCurrentLiabilitiesYoY": 1.51,
-      "currentAssets": 471029000000,
-      "currentAssetsYoY": 7.21,
-      "inventory": 35918000000,
-      "inventoryYoY": 68.19,
-      "accountsReceivable": 10495000000,
-      "accountsReceivableYoY": 5.12
-    },
-    {
-      "reportDate": "2025-03-31",
-      "reportType": "一季报",
-      "parentEquity": 112480000000,
-      "parentEquityYoY": -10.3,
-      "totalLiabilities": 96229000000,
-      "totalLiabilitiesYoY": 3.51,
-      "nonCurrentLiabilities": 675837000000,
-      "nonCurrentLiabilitiesYoY": 2.93,
-      "currentAssets": 467128000000,
-      "currentAssetsYoY": 6.6,
-      "inventory": 30151000000,
-      "inventoryYoY": 57.95,
-      "accountsReceivable": 10376000000,
-      "accountsReceivableYoY": 2.01
+      "inventoryYoY": 50.95
     }
   ],
   "cashflow": [],
@@ -170,21 +168,21 @@
   "quote": {
     "code": "01088",
     "name": "中国神华",
-    "price": 42.58,
-    "change": 0.24,
-    "changePct": 0.57,
-    "open": 42.1,
-    "high": 43.28,
-    "low": 41.54,
-    "prevClose": 42.34,
-    "volume": 16485932,
-    "amount": 699389355.28,
-    "pe": 15.39,
+    "price": 43.32,
+    "change": -0.36,
+    "changePct": -0.82,
+    "open": 43.42,
+    "high": 43.62,
+    "low": 43.08,
+    "prevClose": 43.68,
+    "volume": 5091636,
+    "amount": 221024879.6,
+    "pe": 15.65,
     "turnover": 0.0,
-    "fetchTime": "2026-06-22T23:29:36",
-    "pb": 7.58,
-    "totalMV": 923536110000.0,
-    "circMV": 143813180000.0,
+    "fetchTime": "2026-11-10T12:16:54",
+    "pb": 5.36,
+    "totalMV": 939586290000.0,
+    "circMV": 146312520000.0,
     "currency": "HKD"
   }
 }

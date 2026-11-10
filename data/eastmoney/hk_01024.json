@@ -3,7 +3,7 @@
   "name": "快手-W",
   "market": "hk",
   "currency": "HKD",
-  "fetchTime": "2026-06-22T23:30:14.574716",
+  "fetchTime": "2026-11-10T12:17:33.550852",
   "profile": {
     "name": "快手-W",
     "code": "01024",
@@ -12,6 +12,16 @@
   },
   "financial": [],
   "income": [
+    {
+      "reportDate": "2026-06-30",
+      "reportType": "中报",
+      "revenue": 69251000000,
+      "revenueYoY": 2.36,
+      "totalProfit": 6906000000,
+      "totalProfitYoY": -27.0,
+      "totalExpenses": 35577000000,
+      "totalExpensesYoY": -4.61
+    },
     {
       "reportDate": "2026-03-31",
       "reportType": "一季报",
@@ -75,23 +85,27 @@
     {
       "reportDate": "2024-09-30",
       "reportType": "三季报",
-      "revenue": 91514000000,
-      "revenueYoY": 13.11,
       "totalProfit": 11208000000,
       "totalProfitYoY": 255.25,
       "totalExpenses": 50169000000,
       "totalExpensesYoY": 25.11
-    },
-    {
-      "reportDate": "2024-06-30",
-      "reportType": "中报",
-      "totalExpenses": 33255000000,
-      "totalExpensesYoY": 29.67,
-      "revenue": 60383000000,
-      "revenueYoY": 14.01
     }
   ],
   "balance": [
+    {
+      "reportDate": "2026-06-30",
+      "reportType": "中报",
+      "parentEquity": 4875000000,
+      "parentEquityYoY": 33.09,
+      "totalLiabilities": 93977000000,
+      "totalLiabilitiesYoY": 40.51,
+      "nonCurrentLiabilities": 199766000000,
+      "nonCurrentLiabilitiesYoY": 28.43,
+      "currentAssets": 100914000000,
+      "currentAssetsYoY": 18.73,
+      "accountsReceivable": 968000000,
+      "accountsReceivableYoY": -5.0
+    },
     {
       "reportDate": "2026-03-31",
       "reportType": "一季报",
@@ -137,24 +151,8 @@
     {
       "reportDate": "2025-06-30",
       "reportType": "中报",
-      "parentEquity": 3663000000,
-      "parentEquityYoY": -69.88,
-      "totalLiabilities": 66883000000,
-      "totalLiabilitiesYoY": 29.02,
-      "nonCurrentLiabilities": 155539000000,
-      "nonCurrentLiabilitiesYoY": 29.83,
       "currentAssets": 84993000000,
-      "currentAssetsYoY": 52.32,
-      "accountsReceivable": 1019000000,
-      "accountsReceivableYoY": -1.26
-    },
-    {
-      "reportDate": "2025-03-31",
-      "reportType": "一季报",
-      "currentAssets": 82539000000,
-      "currentAssetsYoY": 76.6,
-      "accountsReceivable": 1045000000,
-      "accountsReceivableYoY": 3.06
+      "currentAssetsYoY": 52.32
     }
   ],
   "cashflow": [],
@@ -162,21 +160,21 @@
   "quote": {
     "code": "01024",
     "name": "快手-W",
-    "price": 45.52,
-    "change": -1.72,
-    "changePct": -3.64,
-    "open": 46.9,
-    "high": 47.2,
-    "low": 45.4,
-    "prevClose": 47.24,
-    "volume": 44809494,
-    "amount": 2064825363.02,
-    "pe": 9.56,
+    "price": 28.84,
+    "change": 0.02,
+    "changePct": 0.07,
+    "open": 29.02,
+    "high": 29.36,
+    "low": 28.62,
+    "prevClose": 28.82,
+    "volume": 10633698,
+    "amount": 306844131.48,
+    "pe": 6.02,
     "turnover": 0.0,
-    "fetchTime": "2026-06-22T23:30:13",
-    "pb": 1.01,
-    "totalMV": 196960840000.0,
-    "circMV": 166684740000.0,
+    "fetchTime": "2026-11-10T12:17:32",
+    "pb": 2.41,
+    "totalMV": 124020610000.00002,
+    "circMV": 105022310000.0,
     "currency": "HKD"
   }
 }
